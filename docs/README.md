@@ -12,7 +12,7 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
-## Prêts pour le confinement, saison 2
+## Bienvenue dans l'univers sombre de Douaratil.
 Ça y est, nous sommes de nouveaux interdits de jeux de rôle autour d'une table. Mais nous pouvons toujours jouer en ligne. Voici quelques nouveautés dans H&D DRS pour l'occasion :
 
 ### Ajout des archétypes de classe des gazettes Role'n Play #2 et #3
