@@ -222,12 +222,12 @@ module.exports = {
             path: '/au-dela-du-niveau-1/'
           },
           {
-            title: 'Races',
-            path: '/races/',
+            title: 'Ethnies',
+            path: '/ethnies/',
             children: [
               {
-                title: 'Les races',
-                path: '/races/',
+                title: 'Les ethnies',
+                path: '/ethnies/',
                 exact: true
               },
               {
