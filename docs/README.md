@@ -1,16 +1,16 @@
 ---
-title: H&D DRS
+title: DOUARATIL
 notEditable: true
 toc: false
 ---
 §§§ .text-center
-# Document de Référence Système
+# Référence Système
 §§§
 
 <v-row>
 <v-col cols="12" md="6">
 
-Bienvenue sur le site Document de Référence Système pour _**Héros & Dragons**_ !
+Bienvenue sur le site de Référence Système pour _**Douaratils**_ !
 
 ## Prêts pour le confinement, saison 2
 Ça y est, nous sommes de nouveaux interdits de jeux de rôle autour d'une table. Mais nous pouvons toujours jouer en ligne. Voici quelques nouveautés dans H&D DRS pour l'occasion :
