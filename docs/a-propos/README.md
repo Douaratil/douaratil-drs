@@ -6,7 +6,7 @@ toc: false
 # À propos
 ## La personne derrière ce site
 Le site original our H&D DRS a été développé par **Maxime Moraine** alias **Em-squared**.
-Celui-ci est un fork pour le jeu de rôle Douaratil.
+Celui-ci est un fork pour le jeu de rôle **Douaratil**.
 
 Les sources de ce site sont disponibles sur [GitHub](https://github.com/douaratil/heros-et-dragons-drs) sous Licence [GPLv3](https://github.com/douaratil/heros-et-dragons-drs/blob/master/LICENSE).
 
