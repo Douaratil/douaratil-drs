@@ -3,6 +3,8 @@ title: "Peuples asiatiques"
 sidebarDepth: 0
 ---
 # Peuples asiatiques
+### Minghour(e).
+Peuple d'orient sur le point d'envahir les terres de l'ouest. Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oynours ou les Ygouths. Les Oynours forment la principale force de l'invasion minghoure, ce sont des cavaliers nomades cruels. Les Ygouths sont organisés en tribus souvent installés dans des montagnes, Il forme un peuple robuste et combatif. Les Yotakaï littéralement "les coureurs du vent" forment une tribu minghoure. Les Yotakaïs forment de grands cavaliers et fantassins, redoutables au sabre.  
 ## Traits des ethnies Minghour
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.   
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  

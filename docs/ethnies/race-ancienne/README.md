@@ -4,7 +4,8 @@ sidebarDepth: 0
 ---
 # Race ancienne
 ## Traits du Selmonite
-
+###Selmonite.
+Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorieux.  
 **Augmentation de caractéristiques**. Votre valeur d’intelligence  augmente de 2.	 
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**.Vous maîtrisez glaive.  

@@ -4,7 +4,8 @@ sidebarDepth: 0
 ---
 # Le lointain sud
 ## Traits du Sooghaï
-
+### Sooghaï.
+Peuple à la peau noire des royaumes du sud.  
 ### Peuple Sooghaï
 **Augmentation de caractéristiques**. Votre valeur de constitution augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  

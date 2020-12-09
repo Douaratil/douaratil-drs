@@ -5,6 +5,10 @@ sidebarDepth: 0
 # Royaumes de Shaia
 ## Traits des ethnies shahims
 
+### Shahim(a).
+Peuples du sud en guerre perpétuelle contre les royaumes Alcantes et Lacèdes. Les Shahims sont composés des éthnies Assyrhims, Ptolèmes, Shèmes, Ashkemites et Lassymides.
+Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrhims forment une civilisation évoluée à l'est de la mer sur un territoire fertile et luxuriant. Les Shèmes vivent dans de grandes cités dans des déserts de roches sur les routes commerciales des épices et des métaux précieux. Les Ashkemites sont des cavaliers nomades qui parcourent le territoire des royaumes de Shahia et les Lassymides forme un peuple de marin, rompu à la piraterie. Tous ces peuples partagent un ancêtre mythologique commun, Sha le premier homme.  
+
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Langues**. Vous parlez et écrivez le commun des royaumes de Shaia, le *Shahim* et sa déclinaison écrite le *Shahiate*.  
