@@ -71,19 +71,52 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 §§§
 
 §§§ .table-container
-### Langues exotiques
+### Langues Asiatiques
 
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
-| **Abyssal** | Démons | Infernal |
-| **Céleste** | Aasimars, Célestes | Céleste |
-| **Commun des profondeurs** | Habitants du monde souterrain | Elfique |
-| **Draconique** | Dragons, Sangdragons | Draconique |
-| **Infernal** | Diables, Tieffelins | Infernal |
-| **Primordial** | Élémentaires | Runique |
-| **Noir parler** | Aboleths, Menteleurs | - |
-| **Sselish** | Hommes serpents | - |
-| **Sylvestre** | Fées | Elfique |
+| **Minghour** | Ethnies Asiatiques | Mingath |
+| **Oynote** | Peuple Oynour | Oynote |
+| **Ygouthy** | Peuple Ygouth | Ygh |
+| **Mor'vron** | Peuple Yotakaï | Weslèdh |
+| **Yotaï** | Peuple Yotakaï | Yohaï |
+| **Athaï** | Peuple Yotakaï | Yohaï |
+| **Yoth** | Peuple Meldète | Yohaï |
+
+
+§§§
+
+§§§
+
+§§§ .table-container
+### Langues des Royaumes de Shahia
+
+| Langue | Parlée par... | Alphabet |
+|:-|:-|:-|
+| **| **Minghour** | Ethnies Shahimas | Shahiate |
+** | Ethnies Shahimas | Mingath |
+| **Assyrhiote** | Peuple Assyrhim | Syride |
+| **Assyrith** | Peuple Assyrhim | Syride |
+| **Cyrènide** | Peuple Assyrhim | Syride |
+| **Syrioth** | Peuple Assyrhim | Syride |
+| **Lassym** | Peuple Lassymide | Lassyth |
+| **Shèmide** | Peuple Shème | Shèm |
+| **Ptolémique** | Peuple Ptolème | Ptolh |
+
+§§§
+
+§§§ .table-container
+### Langues sacrées, anciennes et secrètes
+
+| Langue | Parlée par... | Alphabet |
+|:-|:-|:-|
+| **-** | Bhegelm | Omath |
+| **-** | Drodan | Oghen |
+| **-** | Peuple Melg | Vitnar |
+| **-** | Mages, Sorcer | Magus |
+| **Nayanide** | Nayane | Naya |
+| **Selmh** | Selmonite | Selmh |
+| **Sogh** | Peuple Sooghaï | - |
 
 §§§
 
@@ -122,24 +155,33 @@ Vous voudrez peut-être adapter certains détails d'un historique pour qu'il cor
 ## Les historiques de Douaratil
 
 Voici les historiques proposés dans _**Douaratil**_.
-### Variante : Artisan
+### Artisan
 Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequel vous vous êtes spécialisé.
 
-| D8 | Artisanat |
+| 2D6 | Artisanat |
 |:-:|:-|
-| **1** | Travail du bois (charpentier, menuisier, tonnelier, etc.) |
-| **2** | Travail de la pierre (maçon, tailleur de pierre, etc.) |
-| **3** | Travail du cuir (maroquinier, tanneur, cordonnier, etc.) |
-| **4** | Travail du tissu (tisserand, teinturier, etc.) |
-| **5** | Travail du métal (armurier, forgeron, rétameur, etc.) |
-| **6** | Travail du verre (vitrier, verrier, etc.) |
-| **7** | Travail de précision (orfèvre, joaillier, enlumineur, etc.) |
-| **8** | Autre (potier, peintre, boulanger, apothicaire, etc.) |
+| **2** | Travail du bois (charpentier, menuisier, tonnelier, etc.) |
+| **3** | Travail de la pierre (maçon, tailleur de pierre, etc.) |
+| **4-5** | Travail du cuir (maroquinier, tanneur, cordonnier, etc.) |
+| **6-7** | Travail du tissu (tisserand, teinturier, etc.) |
+| **8-9** | Travail du métal (armurier, forgeron, rétameur, etc.) |
+| **10** | Travail du verre (vitrier, verrier, etc.) |
+| **11** | Travail de précision (orfèvre, joaillier, enlumineur, etc.) |
+| **12** | Autre (potier, peintre, boulanger, apothicaire, etc.) |
 
 **Compétences** : Athlétisme, Perspicacité.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
-**Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.
-**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#Réseau-de-guilde)
+**Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#Réseau de guilde)  
+
+## Artisan local
+**Compétences** : Athlétisme, Nature.  
+**Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.  
+**Équipement** : Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.  
+**Aptitude** : [Solidarité populaire](/personnalite-et-historique/#Solidarité populaire)
 
 ## Les Aptitudes
-### Réseau de guilde.
+### Réseau de guilde
+En se positionnant comme intermédiaire privilégié dans une catégorie de biens ou de service, chaque guilde s'assure de contrôler au maximum le commerce et les échanges dans sa zone d'opération. De fait, les membres bénéficient d'un traitement de faveur partout où la guilde est installée. Outre des tarifs préférentiels pour le négoce, cela vous permet aussi d'accéder aux bâtiments de la guilde, d'y trouver éventuellement un abri confortable et de quoi vous approvisionner, ainsi que des informations via les membres locaux. Cela vous permet aussi d'accéder à certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde : contrebande, prostitution et trafics en tous genres.  
+### Solidarité populaire
+Les gens du commun se reconnaissent facilement entre eux et se serrent les coudes. Dans n'importe quelle communauté rurale, vous recevez facilement le gîte et le couvert chez l'habitant, souvent en échange de menus travaux. De plus, quand vous en avez besoin, vous trouvez toujours une tâche pouvant vous rapporter quelques pièces durement gagnées dans une ferme des environs. vous savez aussi reconnaître des signes indiquant la proximité d'une ferme, d'un village ou d'un hameau à quelques kilomètres à la ronde, et pouvez le trouver sans effort.  
