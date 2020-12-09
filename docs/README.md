@@ -53,7 +53,6 @@ Bon jeu à tout le monde !
 &nbsp;
 <v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/wubhKVv9), pour discuter de ce site.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
-<v-icon>mdi-github</v-icon> [Soumettre une demande](https://github.com/douaratil/heros-et-dragons-drs/issues/new), pour signaler une erreur, un bug ou suggérer une amélioration. Tâchez d'être le plus exhaustif et précis possible. S'il y a une erreur, vous devez fournir le lien vers l'erreur et la source de la correction. S'il y a un bug, vous devez fournir une méthode de reproduction.
 
 </v-col>
 </v-row>
