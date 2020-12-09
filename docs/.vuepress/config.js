@@ -231,18 +231,29 @@ module.exports = {
                 exact: true
               },
               {
-                title: 'Traits Impériaux',
+                title: 'Peuples Impériaux',
                 path: '/ethnies/imperiaux/'
               },
               {
-                title: 'Traits nordiques',
+                title: 'Clans Nordiques',
                 path: '/ethnies/nordiques/'
               },
               {
-                title: 'Humain',
-                path: '/ethnies/humain/'
+                title: 'Peuples Asiatiques',
+                path: '/ethnies/asiatiques/'
               }
-
+              {
+                title: 'Race ancienne',
+                path: '/ethnies/race-ancienne/'
+              }
+              {
+                title: 'Royaumes de Shahia',
+                path: '/ethnies/royaumes-de-shahia/'
+              }
+              {
+                title: 'Le lointain Sud',
+                path: '/ethnies/lointain-sud/'
+              }
             ]
           },
           {
