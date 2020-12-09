@@ -88,8 +88,8 @@ La **Valeur de défense (VD)** de votre personnage détermine sa capacité à é
 
 Une chose importante toutefois : pour bénéficier pleinement de la protection d'une armure ou d'un bouclier, il est nécessaire de maîtriser cet équipement. Chaque classe indique les armures maîtrisées et la possibilité d'utiliser ou non un bouclier. Porter une armure que votre personnage ne maîtrise pas vous expose à des pénalités décrites elles aussi dans le chapitre [Équipement - Armures](/armures/).
 
-### Armes et Valeur offensive (VO)
-Pour chaque arme que porte votre personnage, il vous faut maintenant calculer la **Valeur Offensive** lorsque vous utilisez cette arme. La Valeur Offensive est la somme de votre bonus de maîtrise et du modificateur de caractéristique approprié :
+### Armes et Valeur offensive
+Pour chaque arme que porte votre personnage, il vous faut maintenant calculer la **Valeur Offensive (VO)** lorsque vous utilisez cette arme. La Valeur Offensive est la somme de votre bonus de maîtrise et du modificateur de caractéristique approprié :
 * La Force si vous utilisez une arme de corps à corps. Vous pouvez aussi choisir d'utiliser la Force pour une arme à distance dotée de la propriété Lancer.
 * La Dextérité si vous utilisez une arme à distance. Vous pouvez aussi choisir d'utiliser la Dextérité pour une arme de corps à corps dotée de la propriété Finesse.
 

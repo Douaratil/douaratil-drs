@@ -7,53 +7,66 @@ Une créature typique de l'univers du jeu a un alignement qui permet de donner u
 
 Voici ci-dessous un bref résumé du comportement typique que l'on peut attendre d'une créature en fonction de son alignement. Chaque individu peut avoir un comportement très différent des exemples proposés. Il se trouve en effet peu de créatures qui adhèrent et correspondent parfaitement à leur alignement.
 
-### Loyal Bon (LB)
-On peut compter sur ces créatures pour faire ce qui est considéré comme bien en société. Les dragons d'or, la majorité des paladins et des nains sont d'alignement Loyal Bon.
-
-### Neutre Bon (NB)
-Ces créatures font de leur mieux pour aider les autres en fonction de leurs besoins. De nombreux célestes, quelques géants des nuages et la plupart des gnomes sont d'alignement Neutre Bon.
-
-### Chaotique Bon (CB)
-Ces créatures agissent en suivant leur conscience, sans tenir compte des attentes des autres, tout en conservant un grand respect pour la vie. On trouve parmi les créatures qui ont l'alignement Chaotique Bon les dragons de cuivre, la plupart des elfes et les licornes.
-
-### Loyal Neutre (LN)
-Ces individus sont respectueux de la loi, d'une tradition ou de leur code de conduite personnel. C'est le cas de nombreux moines et magiciens.
-
-### Neutre (N)
-C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. Les hommes-lézards, la plupart des druides et de nombreux humains sont d'alignement Neutre.
-
-### Chaotique Neutre (CN)
-Ces créatures écoutent leurs désirs et font passer leur propre liberté avant tout. On trouve parmi les créatures d'alignement Chaotique Neutre de nombreux barbares et roublards et quelques bardes.
-
-### Loyal Mauvais (LM)
-Voilà l'alignement des créatures qui s'appliquent à méthodiquement prendre ce dont elles ont envie dans le cadre d'un code ou d'une tradition, de leur loyauté ou d'un ordre. Les créatures d'alignement Loyal Mauvais sont les diables, les dragons bleus et les hobgobelins.
-
-### Neutre Mauvais (NM)
-C'est l'alignement des créatures qui font ce qu'elles veulent tant qu'elles peuvent s'en tirer. De nombreux elfes de sang, quelques géants des nuages et les gobelins sont d'alignement Neutre Mauvais.
-
-### Chaotique Mauvais (CM)
-Ces créatures n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang. Les démons, les dragons rouges et les orcs sont d'alignement Chaotique Mauvais.
+### Loyal Bon (LB).
+On peut compter sur cet alignement pour faire ce qui est considéré comme bien en société.  
+### Neutre Bon (NB).
+Ceux de cet alignement font de leur mieux pour aider les autres en fonction de leurs besoins.  
+### Chaotique Bon (CB).
+Ceux de cet alignement agissent en suivant leur conscience, sans tenir compte des attentes des autres, tout en conservant un grand respect pour la vie.  
+### Loyal Neutre (LN).
+Ces individus sont respectueux de la loi, d'une tradition ou de leur code de conduite personnel. C'est le cas de nombreux moines et magiciens.  
+### Neutre (N).
+C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. La plupart des druides et de nombreux humains sont d'alignement Neutre.  
+### Chaotique Neutre (CN).
+Ceux de cet alignement écoutent leurs désirs et font passer leur propre liberté avant tout. On trouve parmi ceux d'alignement Chaotique Neutre de nombreux barbares et roublards et quelques bardes.  
+### Loyal Mauvais (LM).
+Ceux de cet alignement s'appliquent à méthodiquement prendre ce dont ils ont envie dans le cadre d'un code ou d'une tradition, de leur loyauté ou d'un ordre.  
+### Neutre Mauvais (NM).
+Ceux de cet alignement font ce qu'elles veulent tant qu’ils peuvent s'en tirer.
+Chaotique Mauvais (CM). Ceux de cet alignement n'hésitent pas à être violentes de manière arbitraire. Ils se laissent mener par leur cupidité, leur haine ou leur soif de sang.  
 
 ## Langues
-La race d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.
+L'ethnie d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.
 
-Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment utilisée dans la campagne à laquelle vous participez. Si votre MJ vous en donne la permission, vous pouvez choisir à la place une langue exotique ou un langage secret, comme l'argot des voleurs ou la langue des paladins.
+Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment utilisée dans la campagne à laquelle vous participez. Si votre MJ vous en donne la permission, vous pouvez choisir à la place une langue sacrée ou un langage secret, comme l'argot des voleurs.
 
-Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes. Par exemple, les langues primordiales sont constituées de quatre dialectes (aérien, aquatique, ignée et terreux), un pour chaque plan élémentaire. Des créatures qui parlent des dialectes différents issus d'une même langue d'origine peuvent communiquer entre elles.
+Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes.
 
 §§§ .table-container
-### Langues courantes
+### Langues impériales
 
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
-| **Commun** | Humains | Commun |
-| **Elfe** | Elfes | Elfique |
-| **Géant** | Ogres, Géants | Runique |
-| **Gnome** | Gnomes | Runique |
-| **Gobelin** | Gobelins | Runique |
-| **Halfelin** | Halfelins | Commun |
-| **Nain** | Nains | Runique |
-| **Orc** | Orcs | Runique |
+| **Alcane** | Ethnies impériales | Alcath |
+| **Avalinae** | Peuple Avalin | Alcath |
+| **Alcante** | Peuple Alycante | Alcath |
+| **Courdote** | Peuple Courdo | Alcath |
+| **Cyrynith** | Peuple Lacède | Cyrynith |
+| **Athos** | Peuple Lacède | Cyrynith |
+| **Mécède** | Peuple Lacède | Cyrynith |
+| **Thessal** | Peuple Lacède | Cyrynith |
+| **Saramath** | Peuple Saramath | Saramath |
+
+§§§
+
+§§§ .table-container
+### Langues Nordiques
+
+| Langue | Parlée par... | Alphabet |
+|:-|:-|:-|
+| **Weslèdh** | Ethnies Nordiques | Weslèdh |
+| **Khern** | Peuple khernaë | Weslèdh |
+| **Bena'ch** | Peuple khernaë | Weslèdh |
+| **Mor'vron** | Peuple khernaë | Weslèdh |
+| **Mèlde** | Peuple Meldète | Weslèdh |
+| **Brèdète** | Peuple Meldète | Weslèdh |
+| **Dorodane** | Peuple Meldète | Weslèdh |
+| **Mèldon** | Peuple Meldète | Weslèdh |
+| **Nordhème** | Peuple Meldète | Weslèdh |
+| **Melg** | Peuple Melg | Bergaf |
+| **Draükarn** | Peuple Melg | Bergaf |
+| **Welkarn** | Peuple Melg | Bergaf |
+| **Znorkarn** | Peuple Melg | Bergaf |
 
 §§§
 
