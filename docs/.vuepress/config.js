@@ -241,15 +241,15 @@ module.exports = {
               {
                 title: 'Peuples Asiatiques',
                 path: '/ethnies/asiatiques/'
-              }
+              },
               {
                 title: 'Race ancienne',
                 path: '/ethnies/race-ancienne/'
-              }
+              },
               {
                 title: 'Royaumes de Shahia',
                 path: '/ethnies/royaumes-de-shahia/'
-              }
+              },
               {
                 title: 'Le lointain Sud',
                 path: '/ethnies/lointain-sud/'
