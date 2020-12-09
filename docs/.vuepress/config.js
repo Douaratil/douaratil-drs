@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Héros & Dragons DRS',
-  description: 'Document de Référence Système pour le jeu de rôle Héros & Dragons',
+  title: 'Douaratil DRS',
+  description: 'Document de Référence Système pour le jeu de rôle Douaratil',
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
     ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],
@@ -231,56 +231,60 @@ module.exports = {
                 exact: true
               },
               {
+                title: 'Traits Impériaux',
+                path: '/ethnies/imperiaux/'
+              },
+              {
                 title: 'Demi-elfe',
-                path: '/races/demi-elfe/'
+                path: '/ethnies/demi-elfe/'
               },
               {
                 title: 'Demi-orc',
-                path: '/races/demi-orc/'
+                path: '/ethnies/demi-orc/'
               },
               {
                 title: 'Elfe',
-                path: '/races/elfe/'
+                path: '/ethnies/elfe/'
               },
               {
                 title: 'Gnome',
-                path: '/races/gnome/'
+                path: '/ethnies/gnome/'
               },
               {
                 title: 'Halfelin',
-                path: '/races/halfelin/'
+                path: '/ethnies/halfelin/'
               },
               {
                 title: 'Humain',
-                path: '/races/humain/'
+                path: '/ethnies/humain/'
               },
               {
                 title: 'Nain',
-                path: '/races/nain/'
+                path: '/ethnies/nain/'
               },
               {
                 title: 'Aasimar',
-                path: '/races/aasimar/'
+                path: '/ethnies/aasimar/'
               },
               {
                 title: 'Demi-ogre',
-                path: '/races/demi-ogre/'
+                path: '/ethnies/demi-ogre/'
               },
               {
                 title: 'Félys',
-                path: '/races/felys/'
+                path: '/ethnies/felys/'
               },
               {
                 title: 'Homme serpent',
-                path: '/races/homme-serpent/'
+                path: '/ethnies/homme-serpent/'
               },
               {
                 title: 'Sangdragon',
-                path: '/races/sangdragon/'
+                path: '/ethnies/sangdragon/'
               },
               {
                 title: 'Tieffelin',
-                path: '/races/tieffelin/'
+                path: '/ethnies/tieffelin/'
               }
             ]
           },
