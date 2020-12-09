@@ -234,58 +234,12 @@ module.exports = {
                 title: 'Traits Impériaux',
                 path: '/ethnies/imperiaux/'
               },
-              {
-                title: 'Demi-elfe',
-                path: '/ethnies/demi-elfe/'
-              },
-              {
-                title: 'Demi-orc',
-                path: '/ethnies/demi-orc/'
-              },
-              {
-                title: 'Elfe',
-                path: '/ethnies/elfe/'
-              },
-              {
-                title: 'Gnome',
-                path: '/ethnies/gnome/'
-              },
-              {
-                title: 'Halfelin',
-                path: '/ethnies/halfelin/'
-              },
+
               {
                 title: 'Humain',
                 path: '/ethnies/humain/'
-              },
-              {
-                title: 'Nain',
-                path: '/ethnies/nain/'
-              },
-              {
-                title: 'Aasimar',
-                path: '/ethnies/aasimar/'
-              },
-              {
-                title: 'Demi-ogre',
-                path: '/ethnies/demi-ogre/'
-              },
-              {
-                title: 'Félys',
-                path: '/ethnies/felys/'
-              },
-              {
-                title: 'Homme serpent',
-                path: '/ethnies/homme-serpent/'
-              },
-              {
-                title: 'Sangdragon',
-                path: '/ethnies/sangdragon/'
-              },
-              {
-                title: 'Tieffelin',
-                path: '/ethnies/tieffelin/'
               }
+
             ]
           },
           {
