@@ -5,7 +5,7 @@ title: "Ethnies"
 ## Traits ethniques
 Chaque ethnie possède des traits ethniques communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des ethnies.
 ### Augmentation de caractéristiques
-Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage.
+Chaque ethnie accorde un bonus à une ou plusieurs caractéristiques du personnage.
 
 ### Âge
 Cette entrée indique l'âge à partir duquel un individu est considéré comme un adulte ainsi que la longévité moyenne des représentants de cette ethnie. Cette information peut vous aider à choisir l'âge de votre personnage au début du jeu. Vous êtes libre de lui donner l'âge de votre choix. Ce dernier peut expliquer la répartition de vos valeurs de caractéristiques. Par exemple, si vous jouez un personnage jeune ou très vieux, votre âge pourra expliquer des valeurs de Force et Constitution particulièrement basses, et un âge avancé pourra justifier de bonnes valeurs d'Intelligence et de Sagesse.

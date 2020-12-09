@@ -3,6 +3,9 @@ title: "Les Clans Nordiques"
 sidebarDepth: 0
 ---
 # Les Clans Nordiques
+## Traits communs  
+**Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
+**Langues**. Vous parlez et écrivez le *Weslèdh*, le commun nordique.  
 
 ### Traits du Kernaë
 

@@ -88,13 +88,13 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 §§§
 
 ## Inspiration
-L'inspiration est une règle que le maître du donjon peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.
-
+L'inspiration est une règle que le Narrateur peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.  
 ### Gagner de l'inspiration
-Votre MJ a de nombreuses excuses pour vous permettre d'utiliser l'inspiration. Généralement, il vous récompense ainsi quand vous avez su jouer les traits de personnalité de votre personnage, les inconvénients liés à ses défauts ou son lien, ou plus généralement si vous avez réussi à l'interpréter de manière convaincante. Votre MJ vous informera comment gagner de l'inspiration pendant le jeu.
-
-Vous êtes soit inspiré, soit vous ne l'êtes pas. Il n'est pas possible d'emmagasiner des «  inspirations  » que vous pourrez utiliser plus tard à votre convenance.
-
+Votre Narrateur a de nombreuses excuses pour vous permettre d'utiliser l'inspiration. Généralement, il vous récompense ainsi quand vous avez su jouer les traits de personnalité de votre personnage, les inconvénients liés à ses défauts ou son lien, ou plus généralement si vous avez réussi à l'interpréter de manière convaincante. Il y a des façons différentes de gagner de l'inspiration pendant le jeu.  
+Vous êtes soit inspiré, soit vous ne l'êtes pas. Ils est possible d'emmagasiner des « inspirations » que vous pourrez utiliser plus tard à votre convenance.  
+Il est distingué les inspirations « bardiques » qui sont gagnées grâce aux capacités des bardes (Bhaner, Llawenos…).  
+L’une des autres méthodes est la pratique religieuse en vénérants ses dieux. Une fois par tranche de 24h, cycle de jour et de la nuit, il est possible de prier pour un minimum de 10 minutes. Ainsi, le personnage dépense 5 points de Foi et gagne une inspiration de Foi. Il peut en avoir plusieurs pour un maximum de 1 par tranche de 5 points de sagesse soit 1 à 5, 2 à 10, 3 à 15 et 4 à 20. Les points de Foi se restaurent comme il est expliqué dans la section Repos ci-avant.  
+Ces inspirations sont conférées en échanges de prières et d’offrandes. La valeur moyenne pour obtenir une inspiration est de 5po d’offrandes (en valeur).  
 ### Utiliser l'inspiration
 Si vous êtes sous le coup de l'inspiration, vous pouvez l'utiliser pour faire un [jet d'attaque](/combattre/#jets-d-attaque), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). Si vous utilisez votre inspiration, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ce lancer de dés.
 
@@ -119,80 +119,27 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 ### Personnaliser votre historique
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage/#_2-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
 
-### Les historiques de Héros & Dragons
+## Les historiques de Douaratil
 
-Voici la liste des historiques proposés dans _**Héros & Dragons**_.
-§§§ .column-count-3
-* [Brigand](/personnalite-et-historique/brigand/)
- * [Bandit de grand chemin](/personnalite-et-historique/brigand/#variante-bandit-de-grand-chemin)
- * [Fugitif](/personnalite-et-historique/brigand/#variante-fugitif)
- * [Pirate](/personnalite-et-historique/brigand/#variante-pirate)
-* [Crapule](/personnalite-et-historique/crapule/)
- * [Cambrioleur](/personnalite-et-historique/crapule/#variante-cambrioleur)
- * [Escroc](/personnalite-et-historique/crapule/#variante-escroc)
- * [Voleur à la tire](/personnalite-et-historique/crapule/#variante-voleur-a-la-tire)
-* [Dévot](/personnalite-et-historique/devot/)
- * [Initié](/personnalite-et-historique/devot/#variante-initie)
- * [Prédicateur](/personnalite-et-historique/devot/#variante-predicateur)
- * [Repenti](/personnalite-et-historique/devot/#variante-repenti)
-* [Érudit](/personnalite-et-historique/erudit/)
- * [Juriste](/personnalite-et-historique/erudit/#variante-juriste)
- * [Médecin](/personnalite-et-historique/erudit/#variante-medecin)
- * [Naturaliste](/personnalite-et-historique/erudit/#variante-naturaliste)
-* [Explorateur](/personnalite-et-historique/explorateur/)
- * [Éclaireur](/personnalite-et-historique/explorateur/#variante-eclaireur)
- * [Matelot](/personnalite-et-historique/explorateur/#variante-matelot)
- * [Pilleur de ruines](/personnalite-et-historique/explorateur/#variante-pilleur-de-ruines)
-* [Homme de Loi](/personnalite-et-historique/homme-de-loi/)
- * [Inquisiteur](/personnalite-et-historique/homme-de-loi/#variante-inquisiteur)
- * [Limier](/personnalite-et-historique/homme-de-loi/#variante-limier)
- * [Patrouilleur](/personnalite-et-historique/homme-de-loi/#variante-patrouilleur)
-* [Itinérant](/personnalite-et-historique/itinerant/)
- * [Colporteur](/personnalite-et-historique/itinerant/#variante-colporteur)
- * [Gens du voyage](/personnalite-et-historique/itinerant/#variante-gens-du-voyage)
- * [Saltimbanque](/personnalite-et-historique/itinerant/#variante-saltimbanque)
-* [Manouvrier](/personnalite-et-historique/manouvrier/)
- * [Serveur](/personnalite-et-historique/manouvrier/#variante-serveur)
- * [Journalier](/personnalite-et-historique/manouvrier/#variante-journalier)
-* [Membre de guilde](/personnalite-et-historique/membre-de-guilde/)
- * [Artisan](/personnalite-et-historique/membre-de-guilde/#variante-artisan)
- * [Assassin](/personnalite-et-historique/membre-de-guilde/#variante-assassin)
- * [Commerçant](/personnalite-et-historique/membre-de-guilde/#variante-commercant)
-* [Militaire](/personnalite-et-historique/militaire/)
- * [Garde](/personnalite-et-historique/militaire/#variante-garde)
- * [Mercenaire](/personnalite-et-historique/militaire/#variante-mercenaire)
- * [Officier](/personnalite-et-historique/militaire/#variante-officier)
-* [Miséreux](/personnalite-et-historique/misereux/)
- * [Mendiant](/personnalite-et-historique/misereux/#variante-mendiant)
- * [Orphelin](/personnalite-et-historique/misereux/#variante-orphelin)
- * [Vagabond](/personnalite-et-historique/misereux/#variante-vagabond)
-* [Primitif](/personnalite-et-historique/primitif/)
- * [Chasseur](/personnalite-et-historique/primitif/#variante-chasseur)
- * [Gardien tribal](/personnalite-et-historique/primitif/#variante-gardien-tribal)
- * [Homme-médecine](/personnalite-et-historique/primitif/#variante-homme-medecine)
-* [Sang bleu](/personnalite-et-historique/sang-bleu/)
- * [Bâtard](/personnalite-et-historique/sang-bleu/#variante-batard)
- * [Noblesse d'épée](/personnalite-et-historique/sang-bleu/#variante-noblesse-d-epee)
- * [Noblesse de robe](/personnalite-et-historique/sang-bleu/#variante-noblesse-de-robe)
-* [Serviteur](/personnalite-et-historique/serviteur/)
- * [Cuisinier](/personnalite-et-historique/serviteur/#variante-cuisinier)
- * [Palefrenier](/personnalite-et-historique/serviteur/#variante-palefrenier)
- * [Précepteur](/personnalite-et-historique/serviteur/#variante-precepteur)
-* [Solitaire](/personnalite-et-historique/solitaire/)
- * [Ermite](/personnalite-et-historique/solitaire/#variante-ermite)
- * [Guide](/personnalite-et-historique/solitaire/#variante-guide)
- * [Trappeur](/personnalite-et-historique/solitaire/#variante-trappeur)
-* [Villageois](/personnalite-et-historique/villageois/)
- * [Artisan local](/personnalite-et-historique/villageois/#variante-artisan-local)
- * [Laboureur](/personnalite-et-historique/villageois/#variante-laboureur)
- * [Rebouteux](/personnalite-et-historique/villageois/#variante-rebouteux)
-§§§
+Voici les historiques proposés dans _**Douaratil**_.
+### Variante : Artisan
+Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequel vous vous êtes spécialisé.
 
-§§§ .hero
-#### Variantes
-Lors de la création d'un personnage, il est tout à fait possible de vous contenter des historiques généraux proposés, ou de sélectionner directement outils et compétences avec l'accord de votre MJ. Toutefois, il se peut aussi que vous envisagiez un historique plus précis, qui cadre mieux avec votre idée du personnage.
+| D8 | Artisanat |
+|:-:|:-|
+| **1** | Travail du bois (charpentier, menuisier, tonnelier, etc.) |
+| **2** | Travail de la pierre (maçon, tailleur de pierre, etc.) |
+| **3** | Travail du cuir (maroquinier, tanneur, cordonnier, etc.) |
+| **4** | Travail du tissu (tisserand, teinturier, etc.) |
+| **5** | Travail du métal (armurier, forgeron, rétameur, etc.) |
+| **6** | Travail du verre (vitrier, verrier, etc.) |
+| **7** | Travail de précision (orfèvre, joaillier, enlumineur, etc.) |
+| **8** | Autre (potier, peintre, boulanger, apothicaire, etc.) |
 
-C'est dans ce but que pour chaque historique général, plusieurs variantes sont proposées. Elles représentent des cas plus spécifiques et se veulent une source d'inspiration additionnelle. Maîtrises, langues et équipement de départ de la variante remplacent complètement les informations de l'historique général. Certaines variantes introduisent une aptitude particulière qui remplace là aussi celle de l'historique général. Si aucune aptitude spécifique n'est proposée, c'est l'aptitude de l'historique général qui s'applique. Toutes les variantes d'un historique utilisent les mêmes tables de Traits de personnalité, d'Idéaux, de Liens et de Défauts.
+**Compétences** : Athlétisme, Perspicacité.  
+**Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
+**Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#Réseau-de-guilde)
 
-Si vous le souhaitez, vous pouvez imaginer de nouvelles variantes. Rattachez-les tout simplement à l'historique général qui vous semble le plus adapté. Il ne vous reste alors plus qu'à adapter les compétences, outils, langues et équipement, et créer ou adapter une aptitude si vous le souhaitez.
-§§§
+## Les Aptitudes
+### Réseau de guilde.
