@@ -5,9 +5,9 @@ description: Règles de création de personnage
 # Création du personnage
 <v-btn color="#9b1c47" dark depressed class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
-## 1. Choisir une race
+## 1. Choisir une ethnie
 
-Le chapitre [Races](/races/), donne plus de détails sur chaque race et chaque variante.
+Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque race et chaque variante.
 
 Chaque race fournit aussi des éléments techniques, les traits, que vous devez recopier sur votre feuille de personnage, ainsi que votre vitesse de déplacement et les langues que connaît votre personnage.
 
@@ -16,8 +16,8 @@ Référez-vous au chapitre [Personnalité et historique](/personnalite-et-histor
 
 Chaque historique vous permet d'obtenir la maîtrise de deux compétences (cochez les cases correspondantes sur votre feuille de personnage) et parfois d'un ou plusieurs outils ou véhicules (notez-les dans le cadre intitulé Autres maîtrises & langues). Ici aussi, chaque grande catégorie d'historique présente plusieurs variantes. Si vous choisissez l'une d'elle, souvenez-vous que les compétences ou l'équipement de ces variantes ne s'ajoutent pas à celles de l'historique de base mais les remplacent.
 
-## 3. Choisir une classe
-Les différentes classes sont présentées au chapitre [Classes](/classes/).
+## 3. Choisir une Voie
+Les différentes Voies sont présentées au chapitre [Voies](/voies/).
 
 Maîtriser une action ou un objet vous permet soit d'être autorisé à l'utiliser (dans le cas des armes et des armures), soit d'ajouter votre bonus de maîtrise aux tests que vous effectuez. Ce bonus dépend de votre niveau. Inscrivez sur votre feuille de personnage toutes les **aptitudes** et les maîtrises dont votre personnage bénéficie au niveau 1.
 
@@ -26,8 +26,8 @@ Au moment du choix de la classe de votre personnage, même s'il n'est encore que
 ### Niveau
 En règle générale, **chaque personnage débute sa vie d'aventurier au niveau 1**.
 
-### Sorts
-Si vous avez opté pour une classe de lanceur de sorts, vous disposez sans doute d'un certain nombre de sortilèges à choisir parmi la liste des sorts disponibles. Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts par classe](/grimoire/).
+### Rituels magiques
+Si vous avez opté pour la voie de la magie, vous disposez d’une capacité supérieure à exécuter des rituels. Jusqu’au moment de choisir votre archétype, vous êtes un simple élève dont la seule capacité magique est d’assister l’un des vos maîtres lors de ces rituels. C’est au niveau 3 que vous êtes réellement initiés à votre voie magique. Suivant l’archétype choisi vous développerez des points de magie (MP) basés sur la caractéristique intelligence ou des points de foi (PF) basés sur la caractéristique sagesse. Généralement, les archétypes de type religieux développent la sagesse (SAG) et les archétype de type mages développent l’intelligence (INT) Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts par classe](/grimoire/).
 
 ## 4. Déterminer les caractéristiques
 
