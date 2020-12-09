@@ -4,9 +4,9 @@ sidebarDepth: 0
 ---
 # Race ancienne
 ## Traits du Selmonite
-###Selmonite.
+### Selmonite.
 Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorieux.  
-**Augmentation de caractéristiques**. Votre valeur d’intelligence  augmente de 2.	 
+**Augmentation de caractéristiques**. Votre valeur d’intelligence  augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**.Vous maîtrisez glaive.  
 **Langues**. Vous parlez et écrivez les langues communes : le *Weslèdh*, l’*Alcath*, le *Minghour/Mingath* et le *Shahim/Shaiate*. Vous parlez et écrivez le *Selmh*, votre langue natale qui a la particularité de résoner comme le sifflement d’un serpent. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  

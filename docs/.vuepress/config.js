@@ -4,11 +4,11 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
     ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#563f5a' }],
+    ['meta', { name: 'theme-color', content: '#5B3C11' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#563f5a' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#5B3C11' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
@@ -194,14 +194,14 @@ module.exports = {
     }
   ],
   themeConfig: {
-    domain: 'https://heros-et-dragons.fr',
-    repository: 'https://github.com/em-squared/heros-et-dragons-drs',
+    domain: 'https://douaratil.fr',
+    repository: 'https://github.com/douaratil/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/mp6ECCs',
     discordHDNO: 'https://discord.gg/MntFXr',
-    primaryColor: '#563f5a', // Hero
-    accentColor: '#9b1c47', // Dragon
+    primaryColor: '#5B3C11', // Hero
+    accentColor: '#730800', // Dragon
     searchPlaceholder: 'Recherche',
     nav: [
       { text: 'Home', link: '/' },

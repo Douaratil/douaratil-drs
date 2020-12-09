@@ -3,7 +3,7 @@ title: Création du personnage
 description: Règles de création de personnage
 ---
 # Création du personnage
-<v-btn color="#9b1c47" dark depressed class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
 ## 1. Choisir une ethnie
 
