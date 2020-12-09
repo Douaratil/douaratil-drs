@@ -3,7 +3,7 @@ title: Au-delà du niveau 1
 description: Au-delà du niveau 1
 ---
 # Au-delà du niveau 1
-Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa voie et de sa spécialisation. Certaines de ces aptitudes vous permettent d'augmenter vos valeurs de caractéristiques. Vos caractéristiques ne peuvent pas dépasser 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.  
+Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa voie et de sa spécialisation.  Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.  
 
 À chaque fois que vous gagnez un niveau, vous gagnez un nombre de points d’action supplémentaire dépendant de la voie.   
 

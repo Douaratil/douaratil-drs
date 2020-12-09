@@ -31,8 +31,6 @@ Si vous avez opté pour la voie de la magie, vous disposez d’une capacité sup
 
 ## 4. Déterminer les caractéristiques
 
-<v-btn color="#9b1c47" dark depressed class="mb-4 d-print-none" to="/calculateur-de-caracteristiques/" link><v-icon left>mdi-calculator</v-icon> Calculateur de caractéristiques</v-btn>
-
 La **Force** mesure la puissance physique du personnage : sa taille, sa musculature, sa vigueur. Elle lui permet de mieux utiliser ses armes de corps-à-corps, que ce soit en termes d'attaque ou de dégâts, de soulever de lourdes charges, d'immobiliser plus aisément un adversaire, etc.  
 
 La **Dextérité** mesure à la fois la rapidité, la souplesse et l'adresse du personnage. Elle est utile afin d'agir avant l'ennemi, d'utiliser des armes en finesse ou avec précision, et dans toutes les actions qui requièrent soit de la précision et du doigté, soit le sens de l'équilibre et de l'agilité.
@@ -72,7 +70,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 
 §§§
 
-### Dés de vie et points de vie
+### Points d'Action
 Une fois le score et le modificateur de Constitution définis, il est possible de calculer les **Points d'Action (PA)** de départ de votre personnage. Les PA reflètent l'énergie et la forme physique du personnage, son aptitude à poursuivre le combat malgré la fatigue et la douleur. Pour plus de détails sur les points et les points d’action, ainsi que les notions de blessure, de soins et de fatigue, consultez le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage/).
 
 Chaque Voie indique le type de **Points d'Action (PA)** qu'elle gagne par niveau. Au niveau 1, votre personnage dispose de ce nombre plus la valeur de caractéristique Constitution. Aux niveaux suivants, le nombre de PA obtenus est fixe, mais dépend toujours du PA de la classe et de la valeur de Constitution du personnage. Ce total est le nombre maximum de PA du personnage.  
