@@ -234,7 +234,10 @@ module.exports = {
                 title: 'Traits Impériaux',
                 path: '/ethnies/imperiaux/'
               },
-
+              {
+                title: 'Traits nordiques',
+                path: '/ethnies/nordiques/'
+              },
               {
                 title: 'Humain',
                 path: '/ethnies/humain/'
