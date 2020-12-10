@@ -94,7 +94,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
 | **| **Minghour** | Ethnies Shahimas | Shahiate |
-** | Ethnies Shahimas | Mingath |
+| ** | Ethnies Shahimas | Mingath |
 | **Assyrhiote** | Peuple Assyrhim | Syride |
 | **Assyrith** | Peuple Assyrhim | Syride |
 | **Cyrènide** | Peuple Assyrhim | Syride |
@@ -112,7 +112,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 |:-|:-|:-|
 | **-** | Bhegelm | Omath |
 | **-** | Drodan | Oghen |
-| **-** | Peuple Melg | Vitnar |
+| **-** | Peuple Melg | Holtar |
 | **-** | Mages, Sorcer | Magus |
 | **Nayanide** | Nayane | Naya |
 | **Selmh** | Selmonite | Selmh |
@@ -172,15 +172,25 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Compétences** : Athlétisme, Perspicacité.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
-**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#Réseau de guilde)  
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#Réseau-de-guilde)  
 
 ## Artisan local
 **Compétences** : Athlétisme, Nature.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.  
 **Équipement** : Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.  
-**Aptitude** : [Solidarité populaire](/personnalite-et-historique/#Solidarité populaire)
+**Aptitude** : [Solidarité populaire](/personnalite-et-historique/#Solidarité-populaire)
+
+## Variante : Assassin
+
+**Compétences** : Discrétion, Investigation ou Perspicacité.  
+**Outils maîtrisés** : Matériel d'empoisonneur.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
+**Aptitude** : [Marque de la mort](/personnalite-et-historique/#Marque-de-la-mort)
 
 ## Les Aptitudes
+### Marque de la mort
+Par le truchement de votre guilde, vous savez avec qui prendre contact dans la plupart des villes de votre région d'origine, au cas où vous voudriez vous débarrasser d'un indésirable pour une somme modique, ou bien si vous souhaitez vous procurer du poison. Votre guilde entretient en outre une aura de mystère et de menace par une subtile manipulation de l'information, qui vous permet de vous prévaloir, grâce à quelques menaces voilées, d'aide ou d'information auprès de la population des cités où la guilde opère.
 ### Réseau de guilde
 En se positionnant comme intermédiaire privilégié dans une catégorie de biens ou de service, chaque guilde s'assure de contrôler au maximum le commerce et les échanges dans sa zone d'opération. De fait, les membres bénéficient d'un traitement de faveur partout où la guilde est installée. Outre des tarifs préférentiels pour le négoce, cela vous permet aussi d'accéder aux bâtiments de la guilde, d'y trouver éventuellement un abri confortable et de quoi vous approvisionner, ainsi que des informations via les membres locaux. Cela vous permet aussi d'accéder à certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde : contrebande, prostitution et trafics en tous genres.  
 ### Solidarité populaire
