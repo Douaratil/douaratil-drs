@@ -171,7 +171,7 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Compétences** : Athlétisme, Perspicacité.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
-**Aptitude** : [Réseau de guilde](/personnalite-et-historique/###Réseau de guilde))  
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/###Réseau-de-guilde)  
 
 ## Artisan local
 **Compétences** : Athlétisme, Nature.  
