@@ -171,7 +171,7 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Compétences** : Athlétisme, Perspicacité.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
-**Aptitude** : [Réseau de guilde](/personnalite-et-historique/###Réseau-de-guilde)  
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/### Réseau-de-guilde)  
 
 ## Artisan local
 **Compétences** : Athlétisme, Nature.  
@@ -179,18 +179,82 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Équipement** : Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.  
 **Aptitude** : [Solidarité populaire](/personnalite-et-historique/#Solidarité-populaire)
 
-## Variante : Assassin
-
+## Assassin
 **Compétences** : Discrétion, Investigation ou Perspicacité.  
 **Outils maîtrisés** : Matériel d'empoisonneur.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#Marque-de-la-mort)
 
+## Bandit de grand chemin
+**Compétences** : Intimidation, Survie.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Aptitude** : [Signes de piste](/personnalite-et-historique/#Signes-de-piste)
+
+## Bâtard
+**Compétences** : Histoire, Supercherie.  
+**Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
+**Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
+**Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)
+
 ## Les Aptitudes
+### Besoin de personne
+Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles.  
+### Confrérie
+Vous appartenez à une confrérie universelle qui possède ses propres usages et ses propres codes. Quel que soit le port dans lequel vous vous trouvez, vous êtes capables de dénicher une auberge ou une taverne fréquentée par les vôtres, qui en cas de besoin peut servir de refuge ou d'endroit idéal pour dénicher des informations.  
+### Communauté
+Les manouvriers et journaliers forment une communauté soudée qui se serre les coudes en période de vaches maigres, et qui sait que les quelques pièces obtenues du travail d'une journée peuvent parfois faire la différence entre la vie et la mort. En cas de besoin, vous savez faire appel à la solidarité de vos anciens collègues pour obtenir des informations, un peu d'aide ou l'hospitalité.  
+### Culture générale
+Même si vous avez une spécialité, vous avez dû appréhender de multiples sujets d'études pour atteindre votre niveau d'érudition actuel. Vous disposez de connaissances de base dans la plupart des domaines, même les plus inaccessibles. Et lorsque vous ne disposez pas vous-même d'une connaissance, vous savez où l'obtenir et êtes capables d'identifier une personne ou un lieu auprès duquel vous renseigner. Il peut s'agir d'une bibliothèque, d'un monastère, d'un autre érudit, mais aussi d'un endroit perdu ou inaccessible.  
+### Découvreur
+Même dans une région qui vous est inconnue, vous êtes capable de déterminer la meilleure route à suivre pour relier un point à un autre, en fonction du climat et du terrain. Toutefois, vos choix ne tiennent pas forcément compte des particularités locales, comme des prédateurs ou des tribus hostiles. Dans un territoire déjà visité, vous êtes capable de dénicher une solution de transport qui vous permet de rallier votre destination. Selon les cas, il peut s'agir d'une caravane, d'un bateau, ou d'un simple chariot emprunté à un paysan. Ce ne sera pas forcément la solution la plus rapide ou la plus confortable, mais elle sera généralement sûre et vous mènera à bon port.  
+### De la haute
+Vous êtes à l'aise dans les cercles de la haute société, et votre statut est aisément reconnaissable. Dès que l'on sait que vous êtes de noble lignage, les gens du peuple ont tendance à vous traiter avec déférence et respect, par devant tout du moins. Les miliciens et les gardes vous laissent tranquille, et les portes des grandes maisons et des cercles de pouvoir s'ouvrent plus facilement, pour peu que vous y mettiez les formes.  
+### Domesticité
+Vous avez l'habitude du fonctionnement général des maisons avec domestiques. De ce fait, vous êtes capable de dénicher facilement certaines informations à propos de la maîtresse ou du maître de maison sans alerter qui que ce soit sur vos intentions. De plus, dans votre région d'origine et le milieu social dans lequel vous travailliez, vous connaissez la plupart des individus importants, au moins de nom.  
+### Enfant de la rue
+Vous avez toujours évolué dans les rues des bas-fonds. Vous avez l'œil, vous savez reconnaître les lieux fréquentés par les personnes de votre genre. Si vous cherchez un lieu fréquenté par les crapules de la cité, vous arrivez toujours à le trouver sans trop d'effort. Vous ne pouvez découvrir automatiquement les lieux cachés et les bases d'opérations secrètes ou autres, mais vous trouvez toujours à qui poser la bonne question. Cette recherche ne vous prend jamais plus d'une ou deux heures. De plus, vous connaissez les codes et les manières des bas-fonds, et savez toujours comment vous comporter afin que l'on comprenne que vous appartenez au même milieu, ce qui rend votre intégration plus aisée.  
+### Entre deux mondes
+Vous évoluez autant au sein des cercles officiels qu'en dehors. Cela fait que les autorités de la ville vous voient comme un atout que l'on peut sacrifier. Vous avez accès aux locaux de votre organisation et on vous laisse tranquille quand on connaît votre véritable identité. Dans tout autre cas, vous êtes traité comme tout un chacun. Cependant, vous disposez d'un contact dans le monde de la pègre ou dans les bas-fonds capable de vous obtenir des renseignements et des services auxquels les autres n'ont pas accès. Et s'il ne peut vous aider, peut-être connaissez-vous l'un de ses amis, prêt à louer ses talents.  
+### Esprit protecteur
+Vous avez un gardien spirituel qui vous suit, invisible, et vous aide parfois. Il incarne la puissance naturelle et animale. Les animaux vous sont rarement hostiles, à moins que vous les menaciez. Au pire ils préfèrent vous éviter. Quand un animal sauvage se présente, il ne prend que rarement la peine de s'enfuir et ne vous agresse que dans des cas extrêmes. De plus, vous êtes toujours capable de retrouver votre chemin en pleine nature.  
+### Estimation
+Vous êtes capable d'évaluer en quelques secondes la valeur approximative d'un trésor, d'un artefact ancien ou de pierres précieuses. Vous ne disposez pas d'une évaluation précise, et il vous arrive exceptionnellement de vous tromper, mais vous avez assez l'habitude de ce genre de choses pour distinguer en très peu de temps les objets qui ont une réelle valeur, et séparer le bon grain de l'ivraie.  
+### Fausse identité
+Vous disposez d'une seconde identité afin d'éviter que l'on puisse vous retrouver. Vous possédez tous les documents et les objets nécessaires à l'entretenir et vous y recourez quand le besoin se fait sentir.  
+### Fils de la nature
+Vous savez survivre dans la nature. Vous trouvez toujours les points d'eau, les buissons de baies et les lieux propices à la chasse. Vous savez lire la nature et n'êtes jamais vraiment perdu. De plus, vous savez identifier les indices attestant de la présence d'autres clans primitifs : si un tel clan, ou une tribu (ou même un individu) est présent, vous savez remonter la trace jusqu'à son campement.  
+### Frères d'armes
+Vous avez une longue pratique des codes et du vocabulaire soldatesque, et vous savez intuitivement à qui vous adresser et de quelle manière au sein d'une unité militaire. Vous avez aussi une connaissance approfondie des rivalités seigneuriales dans votre région d'origine, et savez parfaitement reconnaître d'éventuels soldats « amis », auprès de qui vous pouvez solliciter de l'aide en cas de nécessité.  
+### Histoires de terres lointaines
+Vous ne comptez plus le nombre d'histoires de terres inconnues et lointaines que vous avez entendues alors que vous alliez et veniez entre les tables. Même si vous n'avez jamais vu aucune de ces régions mystérieuses, vous avez l'impression d'en connaître certaines intimement. Lorsque vous voyagez vers une contrée inconnue, vous pouvez demander au MJ de vous fournir des informations de base sur votre destination. De plus, lorsque vous et vos compagnons vous trouvez dans une taverne ou une auberge, vous pouvez vous attirer les faveurs du tenancier et de quelques clients en racontant vos histoires ou en profitant de votre expérience. Cela peut vous permettre de glaner quelques informations ou une aide ponctuelle.  
 ### Marque de la mort
-Par le truchement de votre guilde, vous savez avec qui prendre contact dans la plupart des villes de votre région d'origine, au cas où vous voudriez vous débarrasser d'un indésirable pour une somme modique, ou bien si vous souhaitez vous procurer du poison. Votre guilde entretient en outre une aura de mystère et de menace par une subtile manipulation de l'information, qui vous permet de vous prévaloir, grâce à quelques menaces voilées, d'aide ou d'information auprès de la population des cités où la guilde opère.
+Par le truchement de votre guilde, vous savez avec qui prendre contact dans la plupart des villes de votre région d'origine, au cas où vous voudriez vous débarrasser d'un indésirable pour une somme modique, ou bien si vous souhaitez vous procurer du poison. Votre guilde entretient en outre une aura de mystère et de menace par une subtile manipulation de l'information, qui vous permet de vous prévaloir, grâce à quelques menaces voilées, d'aide ou d'information auprès de la population des cités où la guilde opère.  
+### Mouches des rues
+Vous avez une connexion particulière avec les gamins des rues qui traînent dans toutes les cités et les villes du monde. Vous savez comment vous adresser à eux et les récompenser de quelques pièces pour obtenir de l'aide ou des informations. Ils ne risqueront pas leur peau pour vous, mais ils peuvent rendre de précieux services à qui sait utiliser leurs talents avec discernement.  
+### Ni noble, ni homme du peuple
+Vous êtes à l'aise auprès des gens du peuple, et savez comment vous faire passer pour l'un d'entre eux. Mais vous pouvez aussi vous faire passer pour un homme de noble lignage si nécessaire. Les gardes, soldats, miliciens et sous-fifres vous considèrent toujours comme un noble si vous le désirez. Mais vous savez aussi toujours où trouver une personne à qui parler parmi les serviteurs afin de découvrir l'information de votre choix (avec l'aval du MJ).  
+### Position d'autorité
+Votre rang dans les forces de l'ordre ou dans votre communauté vous accorde des privilèges tout particuliers. Ainsi, les forces de l'ordre des communautés alliées ou en bon terme avec la vôtre ont toujours un a priori positif sur vous (sauf cas particulier). De plus, si vous vous trouvez dans votre propre juridiction, vous exercez les droits et prérogatives liés à votre rang. Vous pouvez ainsi arrêter ou demander la détention d'un suspect, ou agir de la manière la plus appropriée à votre fonction. Vous avez aussi plus facilement accès aux bâtiments officiels liés à votre activité ainsi qu'aux archives et lieux de détention. De plus, dans votre juridiction, on vous offre le gîte et le couvert. Si vous n'occupez plus votre fonction, l'octroi de cette aide nécessitera peut-être de convaincre vos interlocuteurs, mais ils seront considérés comme neutres ou amicaux.  
+### Réconfort du foyer
+À partir du moment où vous disposez d'un feu et de quelques aliments et ustensiles de base, vous êtes capable de préparer un repas revigorant qui saura contenter les estomacs vides et faire oublier les rigueurs d'un long voyage. Vous avez toujours sur vous les quelques épices indispensables pour ce faire.  
+### Refuge
+Vous avez une connaissance intime des zones urbaines, qui vous permet de dénicher un refuge sûr pour vous et vos compagnons. Ce n'est pas un endroit particulièrement confortable ou accueillant, mais vous pouvez gratuitement y trouver un peu de repos sans être inquiété par les intempéries ou les autorités.  
+### Refuge du pèlerin
+Vous êtes un acolyte et recevez le respect de ceux qui partagent votre foi. Vous pouvez accomplir les cérémonies religieuses liées à votre déité. Vous et vos compagnons d'aventure pouvez espérer recevoir des soins gratuits dans les temples, autels et autres endroits dédiés à la divinité que vous vénérez. Cela ne vous dispense par contre pas de fournir les ingrédients nécessaires au lancement des sorts. Ceux qui partagent votre religion peuvent aussi vous donner (mais seulement à vous) de quoi mener un train de vie modeste. Vous pouvez être lié à un temple spécifique dédié à votre déité ou votre panthéon et dans lequel vous avez un logement. Cela peut être le temple dans lequel vous officiez, si vous êtes resté en bons termes avec ses occupants, ou un temple qui est devenu votre nouvelle maison. Quand vous vous trouvez à proximité de votre temple, vous pouvez demander l'assistance des clercs qui s'y trouvent, dans la mesure où l'aide qu'ils vous apportent ne les met pas en danger et que vous êtes en bons termes avec eux.  
 ### Réseau de guilde
 En se positionnant comme intermédiaire privilégié dans une catégorie de biens ou de service, chaque guilde s'assure de contrôler au maximum le commerce et les échanges dans sa zone d'opération. De fait, les membres bénéficient d'un traitement de faveur partout où la guilde est installée. Outre des tarifs préférentiels pour le négoce, cela vous permet aussi d'accéder aux bâtiments de la guilde, d'y trouver éventuellement un abri confortable et de quoi vous approvisionner, ainsi que des informations via les membres locaux. Cela vous permet aussi d'accéder à certains services privilégiés, par des intermédiaires clandestins faisant affaire avec la guilde : contrebande, prostitution et trafics en tous genres.  
+### Révélation
+Vous avez eu une révélation. Votre vie solitaire et votre méditation vous ont donné les clés d'un secret dont vous ne comprenez pas encore tous les tenants et les aboutissants. Mais c'est elle qui vous a encouragé à sortir de votre réclusion volontaire. Déterminez un secret ou une révélation avec votre MJ. Il doit être assez flou pour vous pousser à l'aventure afin d'en savoir plus et, qui sait, de le contrer ou de le réaliser.  
+### Rouages de la justice
+Vous connaissez les rouages de la justice telle qu'elle est pratiquée dans votre région d'origine. Vous savez exploiter ces connaissances et votre propre influence pour garantir une peine réduite si jamais vous ou un de vos compagnons êtes la cible des foudres judiciaires.  
+### Signes de piste
+Lorsque vous évoluez dans votre milieu naturel de prédilection, vous savez lire les multiples signes de la nature qui sont invisibles à un œil moins averti que le vôtre. De plus, vous pratiquez un langage codé qui permet de laisser des indices à ceux qui, comme vous, ont embrassé le brigandage. Cela vous permet d'éviter la plupart des dangers et des embûches qui guettent souvent le voyageur dans les régions les moins civilisées du monde, et de communiquer avec d'autres brigands sans attirer l'attention.  
 ### Solidarité populaire
 Les gens du commun se reconnaissent facilement entre eux et se serrent les coudes. Dans n'importe quelle communauté rurale, vous recevez facilement le gîte et le couvert chez l'habitant, souvent en échange de menus travaux. De plus, quand vous en avez besoin, vous trouvez toujours une tâche pouvant vous rapporter quelques pièces durement gagnées dans une ferme des environs. vous savez aussi reconnaître des signes indiquant la proximité d'une ferme, d'un village ou d'un hameau à quelques kilomètres à la ronde, et pouvez le trouver sans effort.  
+### Spectacle ambulant
+Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices. Vous trouvez toujours un lieu où l'on vous offre le gîte et le couvert en échange d'une représentation pour égayer l'ambiance. Tant que vous prenez la peine de vous produire au moins une fois par jour (quand les clients sont nombreux), on vous fournit un logement et une nourriture aussi décente que possible. De plus, vous vous attirez les bonnes grâces de la foule, qui vous perçoit avec un excellent a priori. Cependant, vous ne passez jamais vraiment inaperçu, et plus vous restez dans une ville, plus on vous reconnaît.  
+### Voyageur
+Vous connaissez les coutumes des petites communautés et des villages que vous traversez. Vous avez compris comment faire en sorte que l'on vous accepte sans pour autant vous imposer trop longtemps. Vous êtes capable de repérer la présence d'une communauté civilisée à plusieurs kilomètres, sachant où en trouver les traces. De plus, on vous offre toujours le gîte et le couvert, pour une nuit tout du moins.  
