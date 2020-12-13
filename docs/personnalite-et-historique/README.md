@@ -151,10 +151,10 @@ Chaque historique vous suggère des traits de personnalité liés à l'histoire 
 ### Personnaliser votre historique
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage/#_2-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
 
-## Les historiques de Douaratil
+# Les historiques de Douaratil
 
 Voici les historiques proposés dans _**Douaratil**_.
-### Artisan
+## Artisan
 Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequel vous vous êtes spécialisé.
 
 | 2D6 | Artisanat |
@@ -173,58 +173,58 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
 **Aptitude** : [Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde)  
 
-### Artisan local
+## Artisan local
 **Compétences** : Athlétisme, Nature.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix parmi les outils de forgeron, de menuisier, de maçon, de bricoleur, ou de charpentier.  
 **Équipement** : Habits courants, deux ensembles d'outils d'artisan que vous maîtrisez, bourse contenant 10 po.  
 **Aptitude** : [Solidarité populaire](/personnalite-et-historique/#solidarite-populaire)
 
-### Assassin
+## Assassin
 **Compétences** : Discrétion, Investigation ou Perspicacité.  
 **Outils maîtrisés** : Matériel d'empoisonneur.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#marque-de-la-mort)
 
-### Bandit de grand chemin
+## Bandit de grand chemin
 **Compétences** : Intimidation, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres).  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)
 
-### Bâtard
+## Bâtard
 **Compétences** : Histoire, Supercherie.  
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
 **Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
 
-### Brigand
+## Brigand
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
 **Équipement** : Couverture, vêtements de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)  
 
-### Cambrioleur
+## Cambrioleur
 **Compétences** : Acrobaties ou Athlétisme, Discrétion.  
 **Outils maîtrisés** : Outils de voleur, accessoires de déguisement.  
 **Équipement** : Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
 
-### Chasseur
+## Chasseur
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Un type de jeu au choix, véhicules (terrestres).  
 **Équipement** : Couverture, tenue de voyageur, quelques pièges, peau tannée d'un animal que vous avez tué de vos mains, sacoche contenant des pierres précieuses ou des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)  
 
-### Colporteur
+## Colporteur
 **Compétences** : Persuasion, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres) ou véhicules (marins).  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Tenue de voyageur équipés d'une capuche, panier, tente pour une personne et couverture, bourse contenant 10 po.  
 **Aptitude** : [Voyageur](/personnalite-et-historique/#voyageur)  
 
-### Commerçant
+## Commerçant
 En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégories suivantes pour déterminer le négoce principal de votre guilde.
 
 | 2d6 | Négoce |
@@ -243,105 +243,350 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.  
 **Aptitude** : [Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde)  
 
-###Cuisinier
+## Cuisinier
 **Compétences** : Discrétion, Perspicacité.  
 **Outils maîtrisés** : Ustensiles de cuisinier.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.  
 **Aptitude** : [Réconfort du foyer](/personnalite-et-historique/#reconfort-du-foyer)  
 
-### Crapule
+## Crapule
 **Compétences** : Escamotage, Intimidation.  
 **Outils maîtrisés** : Outils de voleur, un type de jeu au choix.  
 **Équipement** : Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.  
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
 
-### Dévot
+## Dévot
 **Compétences** : Perspicacité, Religion.  
 **Langues maîtrisées** : Deux langues au choix.  
 **Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.  
 **Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)  
 
-### Éclaireur
-
+## Éclaireur
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Accessoires de déguisement.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.  
 **Aptitude** : [Découvreur](/personnalite-et-historique/#decouvreur)  
 
-### Ermite
+## Ermite
 **Compétences** : Perspicacité ou Survie, Religion.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier. Vous pouvez remplacer l'un de ces outils par un instrument de musique rituel ou du matériel d'herboriste.  
 **Équipement** : Habits courants, ensemble d'outils ou instrument de musique parmi ceux maîtrisés, 5 bâtons d'encens, bourse contenant 10 po.    
 **Aptitude** : [Révélation](/personnalite-et-historique/#revelation)  
 
-### Érudit
+## Érudit
 **Compétences** : Arcanes, Histoire.  
 **Outils maîtrisés** : Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)  
 
-### Escroc
+## Escroc
 **Compétences** : Persuasion, Supercherie.  
 **Outils maîtrisés** : Deux au choix parmi un type de jeu, accessoires de faussaire, accessoires de déguisement.  
 **Équipement** : Accessoires de faussaire ou jeu, deux ensembles de d'habits courants, bourse contenant 10 po.  
 **Aptitude** : [Fausse identité](/personnalite-et-historique/#fausse-identite)  
 
-### Explorateur
+## Explorateur
 **Compétences** : Athlétisme, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres).  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15  m), bourse contenant 15 po.  
 **Aptitude** : [Découvreur](/personnalite-et-historique/#decouvreur)  
 
-### Garde
+## Garde
 **Compétences** : Intimidation, Perspicacité.  
 **Outils maîtrisés** : Un type de jeu au choix.  
 **Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.
+**Équipement** : Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.  
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)  
 
-### Gardien tribal
+## Gardien tribal
 **Compétences** : Perspicacité, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un instrument de musique au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
 **Aptitude** : [Esprit protecteur](/personnalite-et-historique/#esprit protecteur)  
 
-### Gens du voyage
+## Gens du voyage
 **Compétences** : Deux au choix parmi Intimidation, Représentation, Supercherie.  
 **Outils maîtrisés** : Véhicules (terrestres), instrument de musique au choix.  
 **Équipement** : Tenue de voyageur, instrument de musique, chien ou petit animal de compagnie, sac de voyage, bourse contenant 10 po.  
 **Aptitude** : [Voyageur](/personnalite-et-historique/#voyageur)  
 
-### Guide
+## Guide
 **Compétences** : Athlétisme, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
 **Équipement** : Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.  
 **Aptitude** : [Besoin de personne](/personnalite-et-historique/#besoin-de-personne)  
 
-### Homme de loi
+## Homme de loi
 **Compétences** : Investigation ou Persuasion, Perspicacité.  
 **Outils maîtrisés** : Matériel de calligraphie, véhicules (terrestres).  
 **Équipement** : Épais journal vierge pour consigner ses investigations, matériel de calligraphie, tenue de voyageur, symbole (sceau ou médaillon) représentant son office, bourse contenant 20 po.  
 **Aptitude** : [Position d'autorité](/personnalite-et-historique/#position-d'autorite)  
 
-### Homme-médecine
+## Homme-médecine
 **Compétences** : Médecine, Nature.  
 **Outils maîtrisés** : Matériel d'herboriste.  
 **Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.
+**Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)
 
-### Initié
+##  Initié
 **Compétences** : Investigation, Religion.  
 **Outils maîtrisés** : Un instrument de musique (utilisé dans les cérémonies de votre religion) ou un ensemble d'outils d'artisan.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.  
-**Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin) 
+**Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)
+
+##  Inquisiteur
+**Compétences** : Intimidation, Religion.  
+**Outils maîtrisés** : Matériel de calligraphie.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.  
+**Aptitude** : [Position d'autorité](/personnalite-et-historique/#position-d'autorite)   
+
+## Itinérant
+**Compétences** : Représentation, Survie.  
+**Outils maîtrisés** : Véhicules (terrestres) ou véhicules (marins).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Tenue de voyageur, costume ou vêtements tape-à-l'œil, tente pour une personne et couverture, sac de voyage, bourse contenant 10 po.  
+**Aptitude** : [Voyageur](/personnalite-et-historique/#voyageur)  
+
+##  Journalier
+**Compétences** : Athlétisme, Survie.  
+**Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.  
+**Équipement** : Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.  
+**Aptitude** : [Communauté](/personnalite-et-historique/#communaute)  
+
+## Juriste
+**Compétences** : Histoire ou Religion, Persuasion  
+**Langues maîtrisées** : Deux langues au choix.  
+**Équipement** : Habits de bonne qualité, symbole ou emblème attestant de votre charge ou vos compétences, étui à parchemins avec 10 feuilles, plume et encre, bourse contenant 20 po.  
+**Aptitude** : [Rouages de la justice](/personnalite-et-historique/#rouages-de-la-justice)  
+
+## Laboureur
+**Compétences** : Athlétisme, Dressage.  
+**Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.  
+**Équipement** : Ensemble d'outils d'artisan, habits courants, objet hérité de l'un de vos parents dont la valeur est sentimentale, pelle, bourse contenant 10 po.  
+**Aptitude** : [Solidarité populaire](/personnalite-et-historique/#solidarite-populaire)  
+
+## Limier
+**Compétences** : Investigation ou Perspicacité, Supercherie.  
+**Outils maîtrisés** : Accessoires de déguisement, outils de voleur.  
+**Équipement** : Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
+**Aptitude** : [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
+
+## Manouvrier
+**Compétences** : Athlétisme, Escamotage.  
+**Outils maîtrisés** : Un type de jeu au choix, un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.  
+**Équipement** : Habits courants, outre de vin, ensemble d'outils dépendant de son métier, pot en fer, lettres de recommandation d'anciens employeurs, bourse contenant 10 po.  
+**Aptitude** : [Communauté](/personnalite-et-historique/#communaute)  
+
+## Matelot
+**Compétences** : Acrobaties, Athlétisme.  
+**Outils maîtrisés** : Véhicules (marins), ensemble d'outils au choix parmi outils de charpentier, outils de menuisier, instruments de navigation.  
+**Équipement** : Tenue de voyageur, un ensemble d'outils parmi ceux maîtrisés, bouteille d'alcool fort, bourse contenant 15 po.  
+**Aptitude** : [Découvreur](/personnalite-et-historique/#decouvreur)  
+
+## Médecin
+**Compétences** : Médecine, Nature.  
+**Outils maîtrisés** : Matériel d'herboriste, matériel d'empoisonneur.  
+**Équipement** : Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
+**Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)   
+
+## Membre de guilde
+**Compétences** : Perspicacité, Persuasion.  
+**Outils maîtrisés** : Un ensemble d'outils d'artisan au choix.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, outils d'artisan correspondant à votre métier, sceau de la guilde, étui avec quelques cartes terrestres ou maritimes, bourse contenant 20 po.  
+**Aptitude** : [Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde)  
+
+## Mendiant
+**Compétences** : Escamotage, Supercherie.  
+**Outils maîtrisés** : Un instrument de musique (parmi tambours, flûte, chalumeau), un type de jeu au choix.  
+**Équipement** : Couverture rapiécée, habits courants, instrument de musique parmi ceux maîtrisés, bourse contenant 5 po.  
+**Aptitude** : [Refuge](/personnalite-et-historique/#refuge)  
+
+## Mercenaire
+**Compétences** : Athlétisme, Supercherie.  
+**Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
+**Équipement** : Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.  
+**Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)  
+
+## Militaire
+**Compétences** : Athlétisme, Intimidation.  
+**Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
+**Équipement** : Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.  
+**Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)  
+
+**Unité**
+Vous avez passé une large part de votre temps dans une unité en particulier. Établissez avec votre MJ le type d'unité et son rôle, ainsi que d'éventuelles batailles ou sièges auxquels vous avez participé. Vous pouvez vous inspirer de la liste suivante, ou déterminer aléatoirement le rôle de votre unité.  
+
+| D6 | Type d'unité |
+|:-:|-|
+| **1** | Fantassins/Piquiers |
+| **2** | Archers/Arbalétriers |
+| **3** | Ravitaillement/Soutien |
+| **4** | Cavalerie légère |
+| **5** | Irréguliers/Éclaireurs |
+| **6** | Sapeurs/Ingénieurs |  
+
+## Miséreux
+**Compétences** : Discrétion, Escamotage.  
+**Outils maîtrisés** : Un type de jeu au choix, outils de voleur.  
+**Équipement** : Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.  
+**Aptitude** : [Refuge](/personnalite-et-historique/#refuge)   
+
+## Noblesse d'épée
+**Compétences** : Athlétisme ou Dressage, Histoire.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langue** : Une langue au choix.  
+**Équipement** : Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.  
+**Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
+
+## Noblesse de robe
+**Compétences** : Histoire, Perspicacité ou Persuasion.  
+**Outils maîtrisés** : Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.  
+**Langues maîtrisées** : Chaque outil peut être remplacé par une langue au choix.  
+**Équipement** : Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.  
+**Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
+
+## Officier
+**Compétences** : Athlétisme ou Dressage, Persuasion.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.  
+**Aptitude** : [Position d'autorité](/personnalite-et-historique/#position-d'autorite)  
+
+## Orphelin
+**Compétences** : Acrobaties ou Discrétion, Escamotage.  
+**Outils maîtrisés** : Un type de jeu au choix, accessoires de déguisement.  
+**Équipement** : Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.  
+**Aptitude** : [Mouches des rues](/personnalite-et-historique/#mouches-des-rues)  
+
+## Palefrenier
+**Compétences** : Dressage, Perspicacité.  
+**Outils maîtrisés** : Véhicules (terrestres), outils de tanneur.  
+**Équipement** : Habits courants, outils de tanneur, colifichet signe de l'affection que vous portait votre employeur, bourse contenant 15 po.  
+**Aptitude** : [Domesticité](/personnalite-et-historique/#domesticite)  
+
+## Patrouilleur
+**Compétences** : Perspicacité, Survie.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langue** : Une langue au choix.  
+**Équipement** : Monture, tenue de voyageur, tente, boîte à amadou, insigne officiel, bourse contenant 20 po.  
+**Aptitude** : [Position d'autorité](/personnalite-et-historique/#position-d'autorite)  
+
+## Précepteur
+**Compétences** : Histoire, Perspicacité.  
+**Langues maîtrisées** : Deux langues au choix.  
+**Équipement** : Habits de bonne qualité, 2 bougies, livre d'histoire ou de langue ancienne, plume et encre, étui avec 10 feuilles de parchemin, bourse contenant 15 po.  
+**Aptitude** : [Domesticité](/personnalite-et-historique/#domesticite)  
+
+## Pilleur de ruines
+**Compétences** : Histoire, Investigation.  
+**Outils maîtrisés** : Outils de voleur.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.  
+**Aptitude** : [Estimation](/personnalite-et-historique/#estimation)  
+
+## Pirate
+**Compétences** : Athlétisme, Supercherie.  
+**Outils maîtrisés** : Instruments de navigation, véhicules (marins).  
+**Équipement** : Couverture, vêtements de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.  
+**Aptitude** : [Confrérie](/personnalite-et-historique/#confrerie)  
+
+## Prédicateur
+**Compétences** : Religion, Représentation.  
+**Outils maîtrisés** : Véhicules (terrestres) ou véhicules (marins).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Symbole sacré, livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, fiole d'eau bénite, tenue de voyageur, bourse contenant 10 po.  
+**Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)  
+
+## Rebouteux
+**Compétences** : Médecine, Nature ou Religion.  
+**Outils maîtrisés** : Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.  
+**Équipement** : Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.  
+**Aptitude** : [Aimé et Détesté](/personnalite-et-historique/#aime-et-deteste)    
+
+## Repenti
+**Compétences** : Religion, Supercherie.  
+**Outils maîtrisés** : Accessoires de déguisement, Véhicules (terrestres).  
+**Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, habits courants, bourse contenant 10 po.  
+**Aptitude** : [Ancienne vie](/personnalite-et-historique/#ancienne-vie)   
+
+## Saltimbanque
+**Spécialité**
+Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
+
+| D6 | Spécialité |
+|:-:|:-|
+| **1** | Musicien/Conteur (Histoire ou Religion) |
+| **2** | Acteur (Persuasion ou Supercherie) |
+| **3** | Acrobate (Acrobaties) |
+| **4** | Jongleur (Escamotage) |
+| **5** | Montreur d'animaux (Dressage) |
+| **6** | Diseuse de bonne aventure (Perspicacité) |
+
+**Compétences** : Une compétence dépendant de la spécialité, Représentation.  
+**Outils maîtrisés** : Un instrument de musique au choix, véhicules (terrestres).  
+**Langues maîtrisées** : Vous pouvez remplacer l'instrument de musique par une langue au choix.  
+**Équipement** : Tenue de voyageur, costume ou vêtements tape à l'œil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.  
+**Aptitude** : [Spectacle ambulant](/personnalite-et-historique/#spectacle-ambulant)   
+
+## Sang-bleu
+**Compétences** : Histoire, Persuasion.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.  
+**Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
+
+## Serveur
+**Compétences** : Athlétisme, Représentation.  
+**Outils maîtrisés** : Ustensiles de cuisinier ou un type de jeu au choix.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.  
+**Aptitude** : [Histoires de terres lointaines](/personnalite-et-historique/#histoires-de-terres-lointaines)  
+
+## Solitaire
+**Compétences** : Nature, Survie.  
+**Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.  
+**Équipement** : Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.  
+**Aptitude** : [Besoin de personne](/personnalite-et-historique/#besoin-de-personne)  
+
+## Trappeur
+**Compétences** : Discrétion, Survie.  
+**Outils maîtrisés** : Un type de jeu, un ensemble d'outils d'artisans au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.  
+**Équipement** : Tenue de voyageur, couverture, boîte à amadou, fourrure d'un animal que vous avez tué et qui vous sert de couverture, piège à mâchoires, bourse contenant 10 po.  
+**Aptitude** : [Besoin de personne](/personnalite-et-historique/#besoin-de-personne)  
+
+## Vagabond
+**Compétences** : Escamotage, Survie.  
+**Outils maîtrisés** : Matériel d'herboriste.  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.  
+**Aptitude** : [Refuge](/personnalite-et-historique/#refuge)  
+
+## Villageois
+**Compétences** : Dressage, Nature.  
+**Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.  
+**Équipement** : Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.  
+**Aptitude** : [Solidarité populaire](/personnalite-et-historique/#solidarite-populaire)  
+
+## Voleur à la tire
+**Compétences** : Escamotage, Supercherie.  
+**Outils maîtrisés** : Accessoires de déguisement.  
+**Langues maîtrisées** : Argot des voleurs.  
+**Équipement** : Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.  
+**Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
 
 ## Les Aptitudes
+### Aimé et Détesté
+Vous exercez à la fois fascination et répulsion sur les gens du commun. Lorsque vous êtes en leur présence, vous avez la capacité d'attirer leur regard. Quand vous choisissez de le faire, vous êtes alors, l'espace d'un instant, le centre de l'attention. Les personnes réagissent en fonction de leurs personnalités respectives (pouvant ainsi vous rejeter, voire se montrer grossières ou violentes), mais, pendant un court moment, elles ne se préoccupent plus de ce qui les entoure (à moins qu'on les agresse ou leur porte ouvertement tort).
+### Ancienne vie
+Vous étiez autre chose, avant. En plus de l'aptitude de dévot, choisissez l'aptitude d'un historique approprié à refléter votre passé. Quand vous le désirez, vous pouvez reprendre momentanément votre ancienne vie et votre ancienne identité afin de pouvoir l'utiliser en plus de l'aptitude de base de dévot. Mais si votre nouvelle vie devait être découverte par l'un de vos ennemis, ou si le temple qui vous a accueilli devait se rendre compte de votre rechute, vous ne pourriez plus utiliser cette aptitude. De plus, vous ne pourrez plus non plus utiliser votre aptitude de dévot tant que vous n'aurez pas fait sincère pénitence aux yeux de ceux qui ont accepté de vous accueillir pour que vous changiez de vie.  
 ### Besoin de personne
 Vous avez appris à vous débrouiller seul. Vous savez toujours où trouver un abri discret où se reposer et faire du feu la nuit tombée. De plus, vous repérez facilement les zones contenant des herbes médicinales ou des champignons comestibles.  
 ### Confrérie

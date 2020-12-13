@@ -218,118 +218,16 @@ module.exports = {
             path: '/creation-du-personnage/'
           },
           {
-            title: 'Au-delà du niveau 1',
-            path: '/au-dela-du-niveau-1/'
-          },
-          {
-            title: 'Ethnies',
+            title: 'Les ethnies',
             path: '/ethnies/',
-            children: [
-              {
-                title: 'Les ethnies',
-                path: '/ethnies/',
-                exact: true
-              },
-              {
-                title: 'Peuples Impériaux',
-                path: '/ethnies/imperiaux/'
-              },
-              {
-                title: 'Clans Nordiques',
-                path: '/ethnies/nordiques/'
-              },
-              {
-                title: 'Peuples Asiatiques',
-                path: '/ethnies/asiatiques/'
-              },
-              {
-                title: 'Race ancienne',
-                path: '/ethnies/race-ancienne/'
-              },
-              {
-                title: 'Royaumes de Shahia',
-                path: '/ethnies/royaumes-de-shahia/'
-              },
-              {
-                title: 'Le lointain Sud',
-                path: '/ethnies/lointain-sud/'
-              }
-            ]
           },
           {
             title: "Personnalité & Historique",
             path: '/personnalite-et-historique/',
-            children: [
-              {
-                title: "Personnalité & Historique",
-                path: '/personnalite-et-historique/',
-                exact: true
-              },
-              {
-                title: "Brigand",
-                path: '/personnalite-et-historique/brigand/'
-              },
-              {
-                title: "Crapule",
-                path: '/personnalite-et-historique/crapule/'
-              },
-              {
-                title: "Dévot",
-                path: '/personnalite-et-historique/devot/'
-              },
-              {
-                title: "Érudit",
-                path: '/personnalite-et-historique/erudit/'
-              },
-              {
-                title: "Explorateur",
-                path: '/personnalite-et-historique/explorateur/'
-              },
-              {
-                title: "Homme de loi",
-                path: '/personnalite-et-historique/homme-de-loi/'
-              },
-              {
-                title: "Itinérant",
-                path: '/personnalite-et-historique/itinerant/'
-              },
-              {
-                title: "Manouvrier",
-                path: '/personnalite-et-historique/manouvrier/'
-              },
-              {
-                title: "Membre de guilde",
-                path: '/personnalite-et-historique/membre-de-guilde/'
-              },
-              {
-                title: "Militaire",
-                path: '/personnalite-et-historique/militaire/'
-              },
-              {
-                title: "Miséreux",
-                path: '/personnalite-et-historique/misereux/'
-              },
-              {
-                title: "Primitif",
-                path: '/personnalite-et-historique/primitif/'
-              },
-              {
-                title: "Sang-bleu",
-                path: '/personnalite-et-historique/sang-bleu/'
-              },
-              {
-                title: "Serviteur",
-                path: '/personnalite-et-historique/serviteur/'
-              },
-              {
-                title: "Solitaire",
-                path: '/personnalite-et-historique/solitaire/'
-              },
-              {
-                title: "Villageois",
-                path: '/personnalite-et-historique/villageois/'
-              }
-            ]
+          },
+          {
+            title: "Les trois voies",
+            path: '/voies/',   
           },
           {
             title: "Classes",

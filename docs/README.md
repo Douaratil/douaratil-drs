@@ -20,12 +20,12 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 
-## Mise en place progressive du site.
-Le site se met lentement en place. Le spremières partie concernant la création du personnage, au delà du niveau 1 sont disponibles. Je travaille actuellement sur la partie des [personnalités & historiques](/personnalite-et-historique). Ont été ajoutés l'Artisan, l'artisan local et l'assassin.
+## Rubrique Personnalité & historiques
+La rubrique [personnalités & historiques](/personnalite-et-historique) est maintenant complète avec l'ajout de: Mercenaire, Militaire, Miséreux, Noblesse d'épée, Noblesse de robe, Offcier, Orphelin, Palefrenier, Patrouilleur, Précepteur, Pilleur de ruines, Pirates, Prédicateur, Rebouteux, Repenti, Saltimbanque, Sang-bleu, Serveur, Solitaire, Trappeur, Vagabond, Villageois et voleur à la tire.
+La rubrique [Les trois Voies](/voies)présente les voies de départ des personnages qui vont profondément influer sur le style de jeu du personnage avec le choix de son Archétype au niveau 3.
 
-§§§ .text-right
 _**Olivier**_,  
-_le 11 décembre 2020_
+_le 13 décembre 2020_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

@@ -1,4 +1,5 @@
-title: DOUARATIL
+---
+title: Archives
 notEditable: true
 toc: false
 ---
@@ -8,8 +9,20 @@ toc: false
 
 <v-row>
 <v-col cols="12" md="6">
+## Rubrique Personnalité & historiques
+La rubrique [personnalités & historiques](/personnalite-et-historique) continue de s'étoffer avec l'ajout de : Bandit de grand chemin, Bâtard, du Brigand, Cambrioleur, Chasseur, Colporteur, Commerçant, Cuisinier, Crapule, Dévot, Eclaireur  
+Ermite, Erudit, Escroc, Explorateur, Garde, Gardien tribal, Gens du voyage, Guide, Homme de loi, Homme-médecine, Initié, Inquisiteur, Itinérant, Journalier, Juriste, Laboureur, Limier, Manouvrier, Matelot, Médecin, Membre de guilde, Mendiant.
+La rubrique va être rapidement complétée et finalisée.
 
-Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
+_**Olivier**_,  
+_le 12 décembre 2020_
+
+## Mise en place progressive du site.
+Le site se met lentement en place. Le spremières partie concernant la création du personnage, au delà du niveau 1 sont disponibles. Je travaille actuellement sur la partie des [personnalités & historiques](/personnalite-et-historique). Ont été ajoutés l'Artisan, l'artisan local et l'assassin.
+
+§§§ .text-right
+_**Olivier**_,  
+_le 11 décembre 2020_
 
 ## Bienvenue dans l'univers sombre de Douaratil.
 Voici que je me lance dans ce grand projet de mettre en ligne les règles du jeu de Douaratil. C'est pour moi un défi technique et l'occasion de partager mon jeu et mon univers. Tout d'abord, je dois préciser que le jeu Douaratil est l'adaptation de mes romans Douaratil et de son univers de jeu. Il est basé sur le corpus de DD5 et de sa version française H&D. Cependant, de profond changement du système et des mécaniques de jeu ne permet pas de rendre compatible avec ce qui existe déjà. Je dois donc suivre mon propre chemin et renoncer à une communauté sympathique et active qui existe déjà. Je ne prétend pas inventer un système original car c'est le résultat de mon expérience de joueur et des jeux que j'ai pu pratiquer ou lire: rolemaster, D&D, Pendragon, H&D, Les 5 royaumes et autres.
