@@ -35,21 +35,6 @@ Bon jeu à tout le monde !
 
 <v-col cols="12" md="6">
 
-## Bibliothèques
-<MySpellsButton />
-<MyMonstersButton />
-<MyMagicItemsButton />
-
-## Aides de jeu
-<v-row>
-  <v-col><v-btn color="#730800" dark depressed block large to="/creation-de-sort/"><v-icon>mdi-creation</v-icon> Création de sort</v-btn></v-col>
-  <v-col><v-btn color="#730800" dark depressed block large to="/creation-de-monstre-pnj/"><v-icon>mdi-emoticon-devil</v-icon> Création de monstre/PNJ</v-btn></v-col>
-</v-row>
-<v-row>
-  <v-col><v-btn color="#730800" dark depressed block large to="/creation-d-objet-magique/"><v-icon>mdi-ring</v-icon> Création d'objet magique</v-btn></v-col>
-  <v-col><v-btn color="#730800" dark depressed block large to="/calculateur-de-caracteristiques/"><v-icon>mdi-calculator</v-icon> Calculateur de carac<span class="d-none d-md-inline">téristiques</span></v-btn></v-col>
-</v-row>
-
 ## Liens utiles
 &nbsp;
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage PDF](https://www.), _par Olivier_.  
