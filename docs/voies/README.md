@@ -4,7 +4,33 @@ title: Les trois voies
 # Les trois voies
 Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à parti du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaë. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
+
 # Voie des armes
+## Évolution de la voie des Armes
+§§§ .table-container
+|Niveau|Points d'Action cumulés|Aptitudes|
+|:-:|:-:|:-|
+|**1**|+4|[Style de combat](#style-de-combat), [Second souffle](#second-souffle)|
+|**2**|+8|[Sursaut d'activité](#sursaut-d'activité)|
+|**3**|+12|[Archétype](#archétype)|
+|**4**|+16|-|
+|**5**|+20|[Attaque supplémentaire](#attaque-supplémentaire)|
+|**6**|+24|-|
+|**7**|+28|-|
+|**8**|+32|-|
+|**9**|+36|[Indomptable](#indomptable)|
+|**10**|+40|-|
+|**11**|+44|[Attaque supplémentaire](#attaque-supplémentaire)|
+|**12**|+48|-|
+|**13**|+52|[Indomptable X 2](#indomptable)|
+|**14**|+56|-|
+|**15**|+60|-|
+|**16**|+64|-|
+|**17**|+68|[Indomptable X 3](#indomptable)|
+|**18**|+72|-|
+|**19**|+76|-|
+|**20**|+80|[Attaque supplémentaire](#attaque-supplémentaire)|
+§§§
 Parmi les trois voie proposées, la voie des armes correspond à toutes les voies guerrières. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -39,8 +65,8 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 ### Sursaut d'activité
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
-### Archétype martial
-Au niveau 3, vous choisissez un archétype qui reflète votre style et vos techniques de combat. 
+### Archétype
+Au niveau 3, vous choisissez un archétype. 
 ### Attaque supplémentaire
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
@@ -49,6 +75,31 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
 
 # Voie de l’ombre
+## Évolution de la voie de l'ombre
+§§§ .table-container
+|Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
+|:-:|:-:|:-:|:-:|
+|**1**|+3|[Expertise](#expertise), [Attaque sournoise](#attaque-sournoise)|+1d6|
+|**2**|+6|[Ruse](#ruse)|+1d6|
+|**3**|+9|[Archétype](#archétype)|+2d6|
+|**4**|+12|-|+2d6|
+|**5**|+15|[Esquive instinctive](#esquive-instinctive)|+3d6|
+|**6**|+18|[Expertise](#expertise)|+3d6|
+|**7**|+21|[Dérobade](#derobade)|+4d6|
+|**8**|+24|-|+4d6|
+|**9**|+27|-|+5d6|
+|**10**|+30|-|+5d6|
+|**11**|+33|[Talent](#talent)|+6d6|
+|**12**|+36|-|+6d6|
+|**13**|+39|-|+7d6|
+|**14**|+42|[Ouïe fine](#ouie-fine)|+7d6|
+|**15**|+45|[Esprit impénétrable](#esprit-impenetrable)|+8d6|
+|**16**|+48|-|+8d6|
+|**17**|+51|-|+9d6|
+|**18**|+54|[Insaisissable](#insaisissable)|+9d6|
+|**19**|+57|-|+10d6|
+|**20**|+60|[Coup de chance](#coup-de-chance)|+10d6|
+§§§
 Parmi les trois voie proposées, la voie de l’ombre correspond à toutes les voies tournées vers les subterfuges et la discrétion. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -91,7 +142,31 @@ Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus 
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre jet d'attaque, vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du 3d6 en 20.
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
 # Voie de la magie
-
+## Évolution de la voie de la magie
+§§§ .table-container
+|Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
+|:-:|:-:|:-:|:-:|
+|**1**|+2|[Incantation](#incantation), [Restauration magique (1d6)](#resturation-magique)|+4|
+|**2**|+4|-|+8|
+|**3**|+6|[Lancer des sorts de Novice (Carac 12)](#lancer-des-sorts)|+12|
+|**4**|+8|[Restauration magique (2d6)](#resturation-magique)|+16|
+|**5**|+10|[Lancer des sorts de disciple (Carac 14)](#lancer-des-sorts)|+20|
+|**6**|+12|-|+24|
+|**7**|+14|[Restauration magique (3d6)](#resturation-magique)|+28|
+|**8**|+16|-|+32|
+|**9**|+18|[Lancer des sorts d'apprenti (Carac 16)](#lancer-des-sorts)|+36|
+|**10**|+20|[Restauration magique (4d6)](#resturation-magique)|+40|
+|**11**|+22|-|+44|
+|**12**|+24|-|+48|
+|**13**|+26|[Restauration magique (5d6)](#resturation-magique, [Lancer des sorts d'adepte (Carac 17](#lancer-des-sorts)|+52|
+|**14**|+28|-|+56|
+|**15**|+30|[Lancer des sorts d'Expert (Carac 18)](#lancer-des-sorts)|+60|
+|**16**|+32|[Restauration magique (6d6)](#resturation-magique)|+64|
+|**17**|+34|[Lancer des sorts de Maître (Carac 20)](#lancer-des-sorts)|+68|
+|**18**|+36|-|+72|
+|**19**|+38|[Restauration magique (7d6)](#resturation-magique)|+76|
+|**20**|+40|-|+80|
+§§§
 Parmi les trois voie proposées, la voie de la magie correspond à toutes les voies tournées vers les arts de la magie et des religions. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -135,8 +210,8 @@ Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte d
 
 ### Restauration magique
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
-### Tradition arcanique
-Quand vous atteignez le niveau 3, vous choisissez un archétype magique ou religieux qui déterminera le développement futur du personnage mais aussi des rituels qu’il pourra lancer.
+### Archétype
+Au niveau 3, vous choisissez un archétype .
 ### Maîtrise des sorts
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.

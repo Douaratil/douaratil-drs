@@ -227,7 +227,7 @@ module.exports = {
           },
           {
             title: "Les trois voies",
-            path: '/voies/',   
+            path: '/voies/',
           },
           {
             title: "Classes",
@@ -416,90 +416,6 @@ module.exports = {
             title: "Les poisons",
             path: '/poisons/'
           }
-        ]
-      },
-      {
-        title: 'Les cinq royaumes',
-        customIcon: true,
-        icon: '<span class="orn">8</span>',
-        children: [
-          {
-            title: 'Règles spécifiques',
-            path: '/les-cinq-royaumes/'
-          },
-          {
-            title: 'Humain',
-            path: '/les-cinq-royaumes/humain/'
-          },
-          {
-            title: 'Classes',
-            children: [
-              {
-                title: 'Barde',
-                path: '/les-cinq-royaumes/barde/'
-              },
-              {
-                title: 'Druide',
-                path: '/les-cinq-royaumes/druide/'
-              },
-              {
-                title: 'Rôdeur',
-                path: '/les-cinq-royaumes/rodeur/'
-              },
-              {
-                title: 'Savant',
-                path: '/les-cinq-royaumes/savant/'
-              }
-            ],
-          },
-          {
-            title: 'Rituels magiques',
-            path: '/les-cinq-royaumes/les-rituels-magiques/'
-          }
-        ]
-      },
-      {type: 'divider'},
-      {
-        title: 'Bibliothèques',
-        icon: 'mdi-book',
-        children: [
-          {
-            title: 'Mon grimoire',
-            path: '/mon-grimoire/',
-            badge: 'mySpells'
-          },
-          {
-            title: 'Mon bestiaire',
-            path: '/mon-bestiaire/',
-            badge: 'myMonsters'
-          },
-          {
-            title: 'Mes objets magiques',
-            path: '/mes-objets-magiques/',
-            badge: 'myMagicItems'
-          }
-        ]
-      },
-      {
-        title: 'Aides de jeu',
-        icon: 'mdi-tools',
-        children: [
-          {
-            title: 'Création de sort',
-            path: '/creation-de-sort/'
-          },
-          {
-            title: 'Création de monstre/PNJ',
-            path: '/creation-de-monstre-pnj/'
-          },
-          {
-            title: "Création d'objet magique",
-            path: '/creation-d-objet-magique/'
-          },
-          {
-            title: "Calculateur de caractéristiques",
-            path: '/calculateur-de-caracteristiques/'
-          },
         ]
       },
       {type: 'divider'},
