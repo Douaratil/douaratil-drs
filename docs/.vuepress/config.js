@@ -230,63 +230,8 @@ module.exports = {
             path: '/voies/',
           },
           {
-            title: "Classes",
-            path: '/classes/',
-            children: [
-              {
-                title: "Les classes",
-                path: '/classes/',
-                exact: true
-              },
-              {
-                title: "Barbare",
-                path: '/classes/barbare/'
-              },
-              {
-                title: "Barde",
-                path: '/classes/barde/'
-              },
-              {
-                title: "Clerc",
-                path: '/classes/clerc/'
-              },
-              {
-                title: "Druide",
-                path: '/classes/druide/'
-              },
-              {
-                title: "Ensorceleur",
-                path: '/classes/ensorceleur/'
-              },
-              {
-                title: "Guerrier",
-                path: '/classes/guerrier/'
-              },
-              {
-                title: "Magicien",
-                path: '/classes/magicien/'
-              },
-              {
-                title: "Moine",
-                path: '/classes/moine/'
-              },
-              {
-                title: "Paladin",
-                path: '/classes/paladin/'
-              },
-              {
-                title: "Rôdeur",
-                path: '/classes/rodeur/'
-              },
-              {
-                title: "Roublard",
-                path: '/classes/roublard/'
-              },
-              {
-                title: "Sorcier",
-                path: '/classes/sorcier/'
-              }
-            ]
+            title: "Les Archétypes",
+            path: '/archetypes/',
           },
           {
             title: "Équipement",

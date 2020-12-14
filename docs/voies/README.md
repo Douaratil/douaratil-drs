@@ -158,7 +158,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |**10**|+20|[Restauration magique (4d6)](#restauration-magique)|+40|
 |**11**|+22|-|+44|
 |**12**|+24|-|+48|
-|**13**|+26|[Restauration magique (5d6)](#restauration-magique, [Lancer des sorts d'adepte (Carac 17](#lancer-des-sorts)|+52|
+|**13**|+26|[Restauration magique (5d6)](#restauration-magique), [Lancer des sorts d'adepte (Carac 17)](#lancer-des-sorts)|+52|
 |**14**|+28|-|+56|
 |**15**|+30|[Lancer des sorts d'Expert (Carac 18)](#lancer-des-sorts)|+60|
 |**16**|+32|[Restauration magique (6d6)](#restauration-magique)|+64|

@@ -78,7 +78,6 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Minghour** | Ethnies Asiatiques | Mingath |
 | **Oynote** | Peuple Oynour | Oynote |
 | **Ygouthy** | Peuple Ygouth | Ygh |
-| **Mor'vron** | Peuple Yotakaï | Weslèdh |
 | **Yotaï** | Peuple Yotakaï | Yohaï |
 | **Athaï** | Peuple Yotakaï | Yohaï |
 | **Yoth** | Peuple Meldète | Yohaï |
