@@ -234,41 +234,8 @@ module.exports = {
             path: '/archetypes/',
           },
           {
-            title: "Équipement",
-            children: [
-              {
-                title: "Système monétaire",
-                path: '/systeme-monetaire/'
-              },
-              {
-                title: "Armures",
-                path: '/armures/'
-              },
-              {
-                title: "Armes",
-                path: '/armes/'
-              },
-              {
-                title: "Équipement d'aventurier",
-                path: '/equipement-d-aventurier/'
-              },
-              {
-                title: "Outils",
-                path: '/outils/'
-              },
-              {
-                title: "Montures et véhicules",
-                path: '/montures-et-vehicules/'
-              },
-              {
-                title: "Marchandises",
-                path: '/marchandises/'
-              },
-              {
-                title: "Dépenses courantes",
-                path: '/depenses-courantes/'
-              }
-            ]
+            title: "Equipement",
+            path: '/equipement/',
           },
           {
             title: 'Options de personnalisation',
@@ -332,10 +299,6 @@ module.exports = {
           {
             title: "Objets magiques",
             path: '/objets-magiques/'
-          },
-          {
-            title: "Objets magiques intelligents",
-            path: '/objets-magiques-intelligents/'
           },
           {
             title: "Liste des objets magiques",

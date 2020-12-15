@@ -12,7 +12,7 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 |:-:|:-:|:-|
 |**1**|+4|[Style de combat](#style-de-combat), [Second souffle](#second-souffle)|
 |**2**|+8|[Sursaut d'activité](#sursaut-d'activité)|
-|**3**|+12|[Archétype](#archétype)|
+|**3**|+12|[Archetype martial](#archetype-martial)|
 |**4**|+16|-|
 |**5**|+20|[Attaque supplémentaire](#attaque-supplémentaire)|
 |**6**|+24|-|
@@ -65,7 +65,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 ### Sursaut d'activité
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
-### Archétype
+### Archétype martial
 Au niveau 3, vous choisissez un archétype. 
 ### Attaque supplémentaire
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
@@ -81,7 +81,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 |:-:|:-:|:-:|:-:|
 |**1**|+3|[Expertise](#expertise), [Attaque sournoise](#attaque-sournoise)|+1d6|
 |**2**|+6|[Ruse](#ruse)|+1d6|
-|**3**|+9|[Archétype](#archétype)|+2d6|
+|**3**|+9|[Archétype sournois](#archetype-sournois)|+2d6|
 |**4**|+12|-|+2d6|
 |**5**|+15|[Esquive instinctive](#esquive-instinctive)|+3d6|
 |**6**|+18|[Expertise](#expertise)|+3d6|
@@ -124,7 +124,7 @@ Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre 
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.
 ### Ruse
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
-### Archétype
+### Archétype sournois
 Au niveau 3, vous choisissez un archétype .
 ### Esquive instinctive
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
@@ -148,7 +148,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Restauration magique (1d6)](#restauration-magique)|+4|
 |**2**|+4|-|+8|
-|**3**|+6|[Lancer des sorts de Novice (Carac 12)](#lancer-des-sorts)|+12|
+|**3**|+6|[Archétype arcanique](#archetype-arcanique,), [Lancer des sorts de Novice (Carac 12)](#lancer-des-sorts)|+12|
 |**4**|+8|[Restauration magique (2d6)](#restauration-magique)|+16|
 |**5**|+10|[Lancer des sorts de disciple (Carac 14)](#lancer-des-sorts)|+20|
 |**6**|+12|-|+24|
@@ -184,7 +184,7 @@ En tant que voie de la magie, vous bénéficiez des aptitudes de classe suivante
 **Jets de sauvegarde**: Intelligence, Sagesse  
 **Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion  
 ### Incantations
-En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 3 points par niveau dans votre source primaire et un point par niveau dans votre source secondaire.
+En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau.
 ### Lancer des sorts
 Lorsque le personnage monte de niveau et seulement à partir du niveau de 3 l’initié aura la possibilité d’utiliser ses propres rituels plus puissants sous réserve de posséder les prérequis dans sa caractéristique d’incantation. Les sorts nécessitent l’utilisation d’un test d’art de la magie. L’art de la magie est décrit dans le paragraphe suivant.
 Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.
@@ -199,7 +199,10 @@ Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leu
 Chaque fois que vous gagnez un niveau dans la voie de la magie, vous pouvez ajouter gratuitement deux rituels de votre choix. Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
 Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage pour une personne qui n’emprunte pas la voie de la magie est triplé)**
 
+### Coût d'apprentissage de sorts en temps & ressources
 §§§ .table-container
+|Type|Temps|Coût|
+|:-:|:-:|:-:|
 |Novice|1 journée|50 po|  
 |Disciple|1 semaine|100 po|  
 |Apprenti|1 demi lune|300 po|  
@@ -210,7 +213,7 @@ Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte d
 
 ### Restauration magique
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
-### Archétype
+### Archétype arcanique
 Au niveau 3, vous choisissez un archétype .
 ### Maîtrise des sorts
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.

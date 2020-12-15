@@ -4,7 +4,7 @@
       <template v-slot:item="{ item }">
         <v-breadcrumbs-item :to="item.to" :exact="true" :disabled="item.disabled">
           <template v-if="item.to == '/'">
-            <img src="/dragon_rouge.svg" />
+          <img src="/dragon_rouge.svg" style="width:20px;height:20px;" />
           </template>
           <template v-else>
             {{ item.text }}

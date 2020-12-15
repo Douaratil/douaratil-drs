@@ -10,12 +10,12 @@ Le profil physique et mental d'une créature est défini par six caractéristiqu
 * La <span class="text-capitalized">[Sagesse](#sagesse)</span> représente la perception et l'intuition.
 * Le <span class="text-capitalized">[Charisme](#charisme)</span> représente la force de la personnalité.
 
-Les trois jets de dés principaux du jeu (le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et le jet d'attaque) se basent sur les valeurs de ces six caractéristiques. L'introduction de cette documentation décrit les règles de base régissant ces jets de dés : lancez un d20, ajoutez le modificateur de caractéristique correspondant à la valeur de l'une des six caractéristiques et comparez le résultat au nombre cible.
+Les trois jets de dés principaux du jeu (le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et le jet d'attaque) se basent sur les valeurs de ces six caractéristiques. L'introduction de cette documentation décrit les règles de base régissant ces jets de dés : lancez 3d6, ajoutez le modificateur de caractéristique correspondant à la valeur de l'une des six caractéristiques et comparez le résultat au nombre cible. Ces dés sont dits « explosifs » c’’est à dire que lorsqu’un 6 est tiré, 1 dés supplémentaire est ajouté au tirage et cela sans limite aucune.  
 
 ## Valeurs de caractéristiques et modificateurs
-À chacune des caractéristiques d'une créature correspond une valeur, qui définit la performance de la créature dans cette caractéristique. Une valeur de caractéristique n'est pas seulement un indicateur des caractéristiques innées d'une créature, mais aussi de son entraînement et de ses compétences dans les activités liées à cette caractéristique.
+À chacune des caractéristiques correspond une valeur, qui définit la performance dans cette caractéristique. Une valeur de caractéristique n'est pas seulement un indicateur des caractéristiques innées, mais aussi de son entraînement et de ses compétences dans les activités liées à cette caractéristique.
 
-Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais les aventuriers et de nombreux monstres ont des caractéristiques qui se situent généralement au-dessus de la moyenne. Un individu normal atteint rarement une valeur de plus de 18, mais les aventuriers peuvent atteindre des valeurs de caractéristique de 20 et les monstres et êtres divins peuvent monter jusqu'à 30.
+Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais les aventuriers et de nombreux adversaires en tous genres ont des caractéristiques qui se situent généralement au-dessus de la moyenne. Un individu normal atteint rarement une valeur de plus de 18, mais les aventuriers peuvent atteindre des valeurs de caractéristique de 20 et les monstres et êtres divins peuvent monter jusqu'à 30.
 
 À chaque caractéristique correspond un modificateur. Ces modificateurs vont de -5 (pour une valeur de caractéristique de 1) à +10 (pour une valeur de caractéristique de 30). Vous pouvez trouver la liste des modificateurs de caractéristiques en fonction des valeurs (entre 1 et 30) dans le tableau ci-dessous.
 
@@ -48,13 +48,13 @@ Pour déterminer un modificateur de caractéristique sans consulter le tableau, 
 Les modificateurs de caractéristique interviennent dans presque tous les jets d'attaque, [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et jets de sauvegarde. Ils sont donc utilisés bien plus souvent que les valeurs dont ils dépendent.
 
 ## Avantage et Désavantage
-Il se peut qu'une capacité spéciale ou un sort vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un [jet d'attaque](/combattre/#jets-d-attaque). Quand cela arrive, vous devez lancer un second d20. Si vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous devez utiliser le résultat le plus élevé entre les deux dés. Si vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous devez utiliser le résultat le moins élevé. Par exemple, en cas de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) avec des dés indiquant 17 et 5, vous devez conserver le 5. Si au contraire vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ce jet de dé, vous devez utiliser le 17.
+Il se peut qu'une capacité spéciale ou un sort vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou un [jet d'attaque](/combattre/#jets-d-attaque). Quand cela arrive, vous devez lancer un d6 supplémentaire pour l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou soustraire un d6 pour le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
-Si un jet de dés est soumis à plusieurs effets qui donnent chacun un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous ne pouvez pas lancer plus d'un dé supplémentaire. Par exemple, si deux situations favorables vous donnent l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous ne lancez quand même qu'un d20 supplémentaire.
+Si un jet de dés est soumis à plusieurs effets qui donnent chacun un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous ne pouvez pas lancer plus d'un dé supplémentaire. Par exemple, si deux situations favorables vous donnent l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous ne lancez quand même qu'un d6 supplémentaire.
 
 Si un jet de dé est soumis à des effets qui donnent à la fois un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) et un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), vous devez considérer n'avoir aucun des deux. Cette règle s'applique aussi si vous subissez plusieurs _désavantages_ ou _avantages_, quels que soient leurs nombres respectifs. Dans une telle situation, vous n'obtenez pas d'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), ni ne subissez de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
-Quand vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) et qu'un élément du jeu vous permet de relancer le d20 (comme le trait chanceux du halfelin), vous ne pouvez relancer qu'un seul des deux dés. Par contre, vous pouvez choisir lequel. Par exemple, si un halfelin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et obtient 1 et 13, il peut utiliser son trait chanceux pour relancer le 1.
+Quand vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) et qu'un élément du jeu vous permet de relancer les 3d6, vous ne pouvez relancer qu'un seul dés 6. Par contre, vous pouvez choisir lequel. Par exemple, si un personnage obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et obtient 13 avec 5,4,3 et 1, il peut utiliser son trait chanceux pour relancer le 1.
 
 Vous obtenez généralement un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) grâce à des capacités spéciales, des actions ou des sorts. L'inspiration peut aussi conférer un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à un personnage. Le MJ peut également décider que les circonstances influencent un jet de dé dans une direction ou une autre et choisir d'accorder un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou d'imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en conséquence.
 
@@ -70,7 +70,7 @@ De la même manière, si une aptitude ou un effet vous permet de multiplier votr
 En règle générale, vous ne multipliez pas votre bonus de maîtrise pour les jets d'attaque ou les jets de sauvegarde, mais si une aptitude ou un effet vous permet de le faire, ces mêmes règles s'appliquent.
 
 ## Tests de caractéristique
-Un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) permet de tester le talent inné et l'entraînement d'un personnage ou d'un monstre face à un défi. Le MJ demande un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) quand un personnage ou un monstre tente de réaliser une action (autre qu'une attaque) qui présente le risque d'échouer. Quand l'issue est incertaine, les dés déterminent le résultat d'une action.
+Un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) permet de tester le talent inné et l'entraînement d'un personnage ou d'un adversaire face à un défi. Le MJ demande un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) quand un personnage ou un adversaire tente de réaliser une action (autre qu'une attaque) qui présente le risque d'échouer. Quand l'issue est incertaine, les dés déterminent le résultat d'une action.
 
 Pour chaque [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), le MJ décide laquelle des six caractéristiques est la plus pertinente en fonction de la situation, et la difficulté de la tâche à accomplir, qui est représentée par un degré de difficulté (DD). Plus une tâche est difficile, plus son DD est élevé. Vous pouvez consulter le [tableau des degrés de difficulté typiques](#degres-de-difficulte-typiques) pour avoir une idée de l'échelle des DD les plus courants.
 
@@ -78,26 +78,30 @@ Pour chaque [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-
 §§§ .table-container
 | Difficulté de l'action | DD |
 |:-|:-:|
-| **Très facile** | 5 |
-| **Facile** | 10 |
-| **Modérée** | 15 |
-| **Difficile** | 20 |
-| **Très difficile** | 25 |
-| **Presque impossible** | 30 |
+| **Très facile** | 8 |
+| **Facile** | 12 |
+| **Modérée** | 16 |
+| **Difficile** | 22 |
+| **Très difficile** | 28 |
+| **Presque impossible** | 35 |
 
 §§§
 
-Pour faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), lancez un d20 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de d20, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou le monstre ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
+Pour faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), lancez 3d6 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de 3d6, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou l'adversaire ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
 
+Les dés sont « explosifs », c’est à dire qu’un 6 permet de relancer un dés supplémentaire et cela autant de fois que nécessaire.  
+§§§ .hero
+Exemple : Sur un test de force , Gudulf à un bonus de Force +2 et un bonus de maîtrise de +2. Il lance donc 3d6+4. Il fait respectivement 6, 6 et 2 aux dés. Il lance 2d6 supplémentaires. Il obtient finalement 5 et 2. Le résultat de son test est la somme de tous ces dés avec les +4 de son bonus de force et de maîtrise, soit 25.  
+§§§
 ### Opposition
-Il peut arriver que les efforts d'un personnage ou d'un monstre se retrouvent directement opposés à ceux d'un autre. Cela peut se produire si tous les deux cherchent à réaliser une même action et qu'un seul peut réussir, comme essayer d'attraper un anneau magique qui est tombé par terre. Cette situation survient aussi quand l'un des deux tente d'empêcher l'autre d'atteindre son but, par exemple quand un monstre tente d'ouvrir de force une porte qu'un aventurier est en train de bloquer. Dans ce type de situation, le résultat est déterminé par un type spécial de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) appelé _test opposé_ ou _test en opposition_.
+Il peut arriver que les efforts d'un personnage ou d'un adversaire se retrouvent directement opposés à ceux d'un autre. Cela peut se produire si tous les deux cherchent à réaliser une même action et qu'un seul peut réussir, comme essayer d'attraper une dague qui est tombée par terre. Cette situation survient aussi quand l'un des deux tente d'empêcher l'autre d'atteindre son but, par exemple quand un adversaire tente d'ouvrir de force une porte qu'un personnage est en train de bloquer. Dans ce type de situation, le résultat est déterminé par un type spécial de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) appelé _test opposé_ ou _test en opposition_.
 
-Les deux créatures qui s'opposent font un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) correspondant à l'action qu'ils tentent de réaliser. Ils appliquent tous les bonus et malus appropriés mais, au lieu de comparer leur résultat à un DD, ils comparent leurs résultats entre eux. Le personnage ou le monstre qui a le résultat le plus élevé l'emporte et réussit son action, ou empêche son adversaire de réussir sa propre action.
+Les deux adversaires qui s'opposent font un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) correspondant à l'action qu'ils tentent de réaliser. Ils appliquent tous les bonus et malus appropriés mais, au lieu de comparer leur résultat à un DD, ils comparent leurs résultats entre eux. Le personnage ou le monstre qui a le résultat le plus élevé l'emporte et réussit son action, ou empêche son adversaire de réussir sa propre action.
 
-Si les résultats des tests sont identiques, la situation n'évolue pas et reste la même qu'auparavant. Une des deux créatures peut donc gagner par défaut. Si deux personnages s'opposent pour tenter d'attraper un anneau qui est tombé par terre se retrouvent à égalité, aucun ne réussit à l'attraper. Si un monstre qui cherche à ouvrir de force une porte s'oppose à un aventurier qui essaie de la garder fermée et qu'ils se retrouvent à égalité, cela signifie que la porte reste fermée.
+Si les résultats des tests sont identiques, la situation n'évolue pas et reste la même qu'auparavant. Un des deux adversaires peut donc gagner par défaut. Si deux personnages s'opposent pour tenter d'attraper une dague qui est tombée par terre se retrouvent à égalité, aucun ne réussit à l'attraper. Si un adversaire qui cherche à ouvrir de force une porte s'oppose à un personnage qui essaie de la garder fermée et qu'ils se retrouvent à égalité, cela signifie que la porte reste fermée.
 
 ### Compétences
-À chaque caractéristique est associé un large éventail de capacités, et notamment des compétences qu'un personnage ou un monstre peut maîtriser. Les compétences initialement maîtrisées par un personnage sont déterminées au moment de sa création et celles maîtrisées par un monstre sont indiquées dans ses statistiques.
+À chaque caractéristique est associé un large éventail de capacités, et notamment des compétences qu'un personnage ou un adversaire (PNJ, Créature ou bête) peut maîtriser. Les compétences initialement maîtrisées par un personnage sont déterminées au moment de sa création et celles maîtrisées par un adversaire sont indiquées dans ses statistiques.
 
 Par exemple, un test de Dextérité peut refléter la tentative d'un personnage de réaliser une acrobatie, de voler un objet ou de rester caché. À chacun de ces aspects de la Dextérité est associée une compétence particulière. Ici, il s'agit respectivement d'Acrobaties, d'Escamotage et de Discrétion. Un personnage qui maîtrise la compétence Discrétion est donc particulièrement doué quand il doit faire des tests de Dextérité liés à la furtivité ou au fait de se cacher.
 
@@ -137,11 +141,11 @@ Par exemple, si un personnage tente d'escalader une falaise escarpée, le MJ peu
 
 §§§ .hero
 #### Option : compétences associées avec différentes caractéristiques
-Normalement, votre maîtrise d'une compétence n'intervient que dans des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) spécifiques. Maîtriser l'Athlétisme, par exemple, n'est généralement utile que pour les tests de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests. Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de Force (Athlétisme). De la même manière, quand votre barbare demi-orc fait étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de Force (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
+Normalement, votre maîtrise d'une compétence n'intervient que dans des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) spécifiques. Maîtriser l'Athlétisme, par exemple, n'est généralement utile que pour les tests de Force. Dans certaines situations, cependant, votre maîtrise peut raisonnablement être utilisée pour différents types de tests. Dans ce cas, le MJ peut vous demander de réaliser un test avec une combinaison inhabituelle de caractéristique et de compétence, ou bien vous pouvez demander à votre MJ d'utiliser une maîtrise dans le cadre d'un test différent. Par exemple, si vous partez d'une île et que vous devez rejoindre le continent à la nage, votre MJ peut vous demander de faire un test de Constitution pour vérifier que vous êtes assez résistant pour accomplir cet exploit. Dans ce cas, votre MJ peut vous permettre d'utiliser votre maîtrise de l'Athlétisme et demander un test de Constitution (Athlétisme). Si vous maîtrisez la compétence Athlétisme, vous appliquez votre bonus de maîtrise au test de Constitution comme vous le feriez pour un test de Force (Athlétisme). De la même manière, quand un barbare demi-orc étalage de sa force pour intimider un ennemi, votre MJ peut vous demander de faire un test de Force (Intimidation), même si la compétence Intimidation est normalement associée au Charisme.
 §§§
 
 ### Tests passifs
-Un test passif est un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) particulier qui n'implique pas de jet de dé. Un tel test peut représenter un résultat moyen réalisé pour une tâche répétitive, comme chercher des portes secrètes, encore et encore, ou il peut être utilisé quand le MJ veut secrètement déterminer si les personnages réussissent quelque chose sans avoir à lancer de dés, comme remarquer un monstre caché, par exemple.
+Un test passif est un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) particulier qui n'implique pas de jet de dé. Un tel test peut représenter un résultat moyen réalisé pour une tâche répétitive, comme chercher des portes secrètes, encore et encore, ou il peut être utilisé quand le MJ veut secrètement déterminer si les personnages réussissent quelque chose sans avoir à lancer de dés, comme remarquer un adversaire caché, par exemple.
 
 Voilà comment déterminer le résultat d'un personnage à un test passif :
 
@@ -149,7 +153,7 @@ Voilà comment déterminer le résultat d'un personnage à un test passif :
 
 Si un personnage obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ce test, ajoutez 5 au résultat. Si le personnage subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), soustrayez 5 au résultat. Le jeu se réfère au résultat d'un test passif sous le terme de valeur passive.
 
-Par exemple, si un personnage de niveau 1 a une valeur de Sagesse de 15 et maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 14.
+Par exemple, si un personnage de niveau 1 a une valeur de Sagesse de 12 et maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 13.
 
 Les règles pour se cacher, dans la section [Dextérité](#dexterite) ci-après, et les règles d'exploration décrites dans le [Partir à l'aventure - Déplacement](/partir-a-l-aventure/#deplacement) se basent sur des tests passifs.
 
@@ -166,7 +170,7 @@ Pour faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-d
 Les tests de groupe ne sont pas fréquents. Ils interviennent quand tous les personnages réussissent ou échouent ensemble. Par exemple, quand les aventuriers traversent un marais, le MJ peut leur demander de réaliser un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) de groupe de Sagesse (Survie) afin de vérifier s'ils évitent les sables mouvants, les trous d'eau ou tout autre danger naturel qui se trouve dans leur environnement. Si au moins la moitié du groupe réussit, les personnages qui ont réussi leur test aident les autres à éviter les dangers. Sinon, l'ensemble du groupe tombe dans l'un de ces pièges.
 
 ## Utiliser les caractéristiques
-Chaque action qu'un personnage ou un monstre tente de réaliser dans le jeu fait appel à l'une des six caractéristiques. Vous trouverez dans cette section une présentation de chacune de ces caractéristiques et de la façon dont elles sont utilisées dans le cadre du jeu.
+Chaque action qu'un personnage ou un adversaire tente de réaliser dans le jeu fait appel à l'une des six caractéristiques. Vous trouverez dans cette section une présentation de chacune de ces caractéristiques et de la façon dont elles sont utilisées dans le cadre du jeu.
 
 ### Force
 La Force détermine la puissance physique d'un personnage, ses compétences en athlétisme et dans quelle mesure il peut se reposer sur sa force brute.
@@ -189,8 +193,8 @@ Le MJ peut aussi vous demander de faire un test de Force quand vous tentez d'acc
 * Renverser une statue.
 * Empêcher un rocher de tomber.
 
-#### Jets d'attaque et de dégâts
-Quand vous attaquez avec une arme de corps-à-corps comme une masse d'armes, une hache d'armes ou une javeline, vous ajoutez votre modificateur de Force à votre [jet d'attaque](/combattre/#jets-d-attaque) et à votre jet de dégâts. Vous pouvez utiliser des armes de corps-à-corps pour faire des attaques au corps-à-corps et certaines peuvent être lancées pour faire des attaques à distance.
+#### Jets d'attaque
+Quand vous attaquez avec une arme de corps-à-corps comme une masse d'armes, une hache d'armes ou une javeline, vous ajoutez votre modificateur de Force à votre [jet d'attaque](/combattre/#jets-d-attaque). Vous pouvez utiliser des armes de corps-à-corps pour faire des attaques au corps-à-corps et certaines peuvent être lancées pour faire des attaques à distance.
 
 #### Soulever et transporter
 Votre valeur de Force détermine le poids que vous pouvez porter. Les termes suivants déterminent ce que vous pouvez soulever ou porter.
@@ -237,27 +241,27 @@ Le MJ peut vous demander de faire un test de Dextérité quand vous tentez d'acc
 * Jouer d'un instrument à cordes.
 * Fabriquer un petit objet ou un objet avec des détails.
 
-#### Jets d'attaque et de dégâts
-Quand vous attaquez avec une arme à distance, comme une fronde ou une arbalète, ajoutez votre modificateur de Dextérité à votre [jet d'attaque](/combattre/#jets-d-attaque) et votre jet de dégâts. Vous pouvez aussi ajouter votre modificateur de Dextérité à vos jets d'attaque et de dégâts quand vous attaquez avec une arme de corps-à-corps qui possède la propriété finesse, comme une dague ou une rapière.
+#### Jets d'attaque
+Quand vous attaquez avec une arme à distance, comme une fronde ou un arc, ajoutez votre modificateur de Dextérité à votre [jet d'attaque](/combattre/#jets-d-attaque). Vous pouvez aussi ajouter votre modificateur de Dextérité à vos jets d'attaque quand vous attaquez avec une arme de corps-à-corps qui possède la propriété finesse, comme une dague ou une rapière.
 
-#### Classe d'armure
-En fonction de l'armure que vous portez, vous pouvez ajouter une partie ou le total de votre modificateur de Dextérité à votre classe d'armure.
+#### Valeur de défense
+Votre modificateur de Dextérité intervient dans le calcul de à votre Valeur de Défense. La Dextérité représente la capacité du personnage à éviter physiquement le danger.
 
 #### Initiative
 Au début de chaque combat, vous déterminez votre initiative en faisant un test de Dextérité. L'initiative détermine l'ordre des tours des créatures pendant le combat.
 
 §§§ .hero
 #### Se cacher
-Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de Sagesse (Perception) de toute créature qui cherche activement des signes de votre présence.
+Le MJ décide quelles circonstances sont appropriées pour que vous vous cachiez. Quand vous tentez de vous cacher, faites un test de Dextérité (Discrétion). Jusqu'à ce que vous soyez découvert, ce test est en opposition avec le test de Sagesse (Perception) de tout adversaire qui cherche activement des signes de votre présence.
 
-Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
+Vous ne pouvez pas vous cacher d'un adversaire qui peut déjà vous voir clairement, et si vous faites du bruit, comme lancer un avertissement ou renverser un vase, vous révélez votre position.
 
-Une créature [_invisible_](/gerer-la-sante-du-personnage/#invisible) peut toujours tenter de se cacher, mais des signes de son passage peuvent être remarqués et elle doit rester silencieuse.
+Un adversaire [_invisible_](/gerer-la-sante-du-personnage/#invisible) peut toujours tenter de se cacher, mais des signes de son passage peuvent être remarqués et il doit rester silencieuse.
 
-Pendant un combat, la plupart des créatures restent attentives aux signes de danger qui les entourent, donc si vous sortez de votre cachette pour vous approcher d'une créature, il est probable qu'elle vous remarque. Néanmoins, dans certaines circonstances, le MJ peut vous permettre de vous approcher d'une créature distraite en restant caché, ce qui vous permet d'obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre attaque avant qu'elle ne vous remarque.
+Pendant un combat, la plupart des adversaires restent attentifs aux signes de danger qui les entourent, donc si vous sortez de votre cachette pour vous approcher d'un adversaire, il est probable qu'il vous remarque. Néanmoins, dans certaines circonstances, le MJ peut vous permettre de vous approcher d'un adversaire distrait en restant caché, ce qui vous permet d'obtenir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre attaque avant qu'elle ne vous remarque.
 
 ##### Perception passive
-Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par une créature qui ne vous cherche pas. Pour déterminer si une telle créature vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de Sagesse (Perception) de cette créature, qui est égale à 10 + le modificateur de Sagesse de la créature, ainsi que tout autre bonus ou malus. Si la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), ajoutez 5 à sa valeur passive. Si au contraire elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), retirez 5 à sa valeur passive. Par exemple, pour un personnage de niveau 1 (avec un bonus de maîtrise de +2), avec une Sagesse de 15 (donc un modificateur de +2) et la maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 14.
+Quand vous êtes caché, il y a toujours un risque pour que vous vous fassiez remarquer par un adversaire qui ne vous cherche pas. Pour déterminer si une tel adversaire vous remarque, le MJ compare votre test de Dextérité (Discrétion) avec la valeur passive de Sagesse (Perception) de cet adversaire, qui est égale à 10 + le modificateur de Sagesse de l'adversaire, ainsi que tout autre bonus ou malus. Si l'adversaire bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), ajoutez 5 à sa valeur passive. Si au contraire il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), retirez 5 à sa valeur passive. Par exemple, pour un personnage (avec un bonus de maîtrise de +2), avec une Sagesse de 12 (donc un modificateur de +1) et la maîtrise la compétence Perception, sa valeur passive de Sagesse (Perception) est de 13.
 
 ##### Que pouvez-vous voir ?
 L'un des facteurs principaux qui permet de déterminer si vous détectez une créature ou un objet dissimulé est votre visibilité dans la zone concernée. Celle-ci peut en effet être une zone avec une visibilité réduite ou nulle, ainsi que c'est expliqué dans le chapitre [_Partir à l'aventure - Vision et lumière_](/partir-a-l-aventure/#vision-et-lumiere).
@@ -276,10 +280,9 @@ Le MJ peut vous demander de faire un test de Constitution quand vous tentez d'ac
 * Survivre sans eau ni nourriture.
 * Vider une chope de bière d'un trait.
 
-#### Points de vie
-Vos points de vie dépendent en partie de votre modificateur de Constitution. Pour déterminer votre nombre de points de vie, vous devez généralement ajouter votre modificateur de Constitution à chaque dé de vie que vous lancez.
-
-Si votre modificateur de Constitution change, votre maximum de points de vie est lui aussi modifié, et vous devez le recalculer comme si vous aviez ce nouveau modificateur depuis le premier niveau. Par exemple, si vous augmentez votre valeur de Constitution au niveau 4 et que votre modificateur de Constitution passe de +1 à +2, vous devez ajuster votre nombre de points de vie comme si ce modificateur avait toujours été de +2. Vous devez donc lui ajouter trois points de vie correspondant à vos trois premiers niveaux, puis calculer vos points de vie pour le niveau 4 en utilisant le nouveau modificateur. Ou, si vous êtes au niveau 7 et qu'un effet réduit votre modificateur de Constitution de 1, vous devez réduire votre maximum de points de vie de sept.
+#### Points d’Action
+Vos points d’action dépendent en partie de votre de Constitution. Pour déterminer votre nombre de points d’action, vous devez généralement ajouter à votre Constitution vos points d’action de votre Voie de personnage multiplié par votre niveau.
+Si votre Constitution change, votre maximum de points d’action est lui aussi modifié.
 
 ### Intelligence
 L'intelligence représente la vivacité d'esprit, la mémoire et la capacité de raisonnement.
@@ -312,7 +315,7 @@ Le MJ peut vous demander de faire un test d'Intelligence quand vous tentez d'acc
 * L'emporter dans un jeu de stratégie.
 
 #### Caractéristique d'incantation
-Les magiciens utilisent l'Intelligence comme caractéristique d'incantation et afin de déterminer les DD des jets de sauvegarde de leurs sorts.
+Certaines personnes utilisent l'Intelligence comme caractéristique d'incantation et afin de déterminer les DD des jets de sauvegarde de leurs sorts. Cette caractéristique détermine les points de magie (PM)
 
 ### Sagesse
 La Sagesse représente votre sensibilité au monde qui vous entoure, votre perspicacité et votre intuition.
@@ -341,7 +344,10 @@ Le MJ peut vous demander de faire un test de Sagesse quand vous tentez d'accompl
 * Discerner si une créature qui semble morte ou vivante est un mort-vivant.
 
 #### Caractéristique d'incantation
-Les clercs, les druides et les rôdeurs utilisent la Sagesse comme caractéristique d'incantation et afin de déterminer les DD des jets de sauvegarde de leurs sorts.
+Les clercs, les druides et les rôdeurs utilisent la Sagesse comme caractéristique d'incantation et afin de déterminer les DD des jets de sauvegarde de leurs sorts. Cette caractéristique détermine les points de foi (PF)
+
+#### Valeur de défense
+Le bonus de sagesse entre dans le calcul de la VD. Il s’agit de la capacité du personnage à appréhender le combat et les risques qu’il prend. C’est aussi l’intuition quand il est contourné.
 
 ### Charisme
 Le Charisme représente votre capacité à interagir avec les autres. Il prend en compte votre confiance en vous et votre éloquence, et est un indicateur du charme et de l'autorité qui se dégagent de vous.
@@ -366,8 +372,8 @@ Le MJ peut vous demander de faire un test de Charisme quand vous tentez d'accomp
 * Trouver la personne qui saura vous renseigner et partager avec vous les dernières informations, rumeurs et ragots.
 * Vous infiltrer dans une foule en essayant de déterminer les sujets qui animent les conversations.
 
-#### Caractéristique d'incantation
-Les bardes, les paladins, les ensorceleurs et les sorciers utilisent le Charisme comme caractéristique d'incantation et afin de déterminer les DD des jets de sauvegarde de leurs sorts.
+#### Caractéristique sociale
+Le Charisme est utilisé comme caractéristique de confrontation sociale, les points d'honneur (PH) et afin de déterminer les DD des jets de sauvegarde.
 
 ## Jets de sauvegarde
 Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) – appelé aussi une sauvegarde – représente une tentative de résister à un sort, un piège, un poison, une maladie ou une menace similaire. En général, vous ne décidez pas de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Celui-ci vous est imposé car votre personnage ou votre monstre se trouve en danger.
@@ -376,7 +382,7 @@ Pour faire un jet de sauvegarde, lancez un d20 et ajoutez le modificateur de car
 
 Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) peut être soumis à des bonus ou des malus en fonction d'une situation et il peut aussi être affecté par un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Ces modifications seront déterminées par le MJ.
 
-Chaque classe accorde la maîtrise d'au moins deux types de jets de sauvegarde. Par exemple, un magicien maîtrise les jets de sauvegarde d'Intelligence et de Sagesse. Comme pour les maîtrises de compétences, maîtriser un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) permet à un personnage d'ajouter son bonus de maîtrise aux jets de sauvegarde qui font appels à des caractéristiques particulières. Certains monstres possèdent eux aussi la maîtrise de certains jets de sauvegarde.
+Chaque voie accorde la maîtrise d'au moins deux types de jets de sauvegarde et les archétypes apporte des maîtrses suppélmentaires. Par exemple, un adepte de la [Voie de la Magie](/voies/voie-de-la-magie) maîtrise les jets de sauvegarde d'Intelligence et de Sagesse. Comme pour les maîtrises de compétences, maîtriser un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) permet à un personnage d'ajouter son bonus de maîtrise aux jets de sauvegarde qui font appels à des caractéristiques particulières. Certains adversaires et certaines créatures possèdent eux aussi la maîtrise de certains jets de sauvegarde.
 
 Le degré de difficulté d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) dépend de l'effet qui en est la cause. Par exemple, le DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) causé par un sort est déterminé par la caractéristique d'incantation du lanceur de sort et son bonus de maîtrise.
 

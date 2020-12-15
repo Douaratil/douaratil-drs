@@ -83,31 +83,3 @@ Certains objets magiques possèdent des charges qu'il faut dépenser pour active
 
 ## Détruire un objet magique
 La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.
-
-## Particularité d'un objet magique
-
-### Détails amusants
-**Difficile à décrire**. L'objet semble constamment changer de couleur ou de forme.
-
-**Émouvant**. Quand il est utilisé, l'objet transmet une émotion forte à son porteur : excitation, peur, amour, etc.
-
-**Repoussant**. L'objet est d'horrible facture. Tous ceux qui le voient détournent le regard.
-
-**Solide**. L'objet est incroyablement robuste. Les dégâts qu'il subit sont divisés par 4.
-
-**Exubérant**. Lorsqu'il est utilisé, l'effet produit par l'objet est très voyant et spectaculaire. Il est impossible de l'utiliser discrètement.
-
-**Capricieux**. L'objet ne fonctionne que si son utilisateur le lui demande gentiment.
-
-### Propriété additionnelle
-**Lumineux**. L'objet dégage une lumière vive dans un rayon de 3 mètres.
-
-**Flotte ou coule**. L'objet flotte sur l'eau. Il est très difficile de l'immerger. Le porteur obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets de Force (Athlétisme) pour nager. Au contraire, le porteur peut prononcer un mot de commande qui fait couler l'objet à pic.
-
-**Passe-partout**. L'objet permet d'obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de Dextérité effectués pour crocheter une serrure.
-
-**Alarme**. L'objet émet le tintement d'une clochette si un type particulier de créature se trouve à moins de 20 mètres de lui.
-
-**Bénéfique**. Lorsqu'il lance un dé de vie pour récupérer pendant un repos, le porteur de l'objet regagne un point de vie supplémentaire par dé de vie.
-
-**Vision dans le noir**. Le porteur de l'objet bénéficie d'une vision dans le noir avec une portée de 9 mètres. S'il possède déjà cette aptitude, le personnage augmente la portée de sa vision dans le noir de 9 mètres.

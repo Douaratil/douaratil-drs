@@ -3,13 +3,13 @@ title: Création du personnage
 description: Règles de création de personnage
 ---
 # Création du personnage
-<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.black-book-editions.fr/file.php?id=178" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
 ## 1. Choisir une ethnie
 
-Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque race et chaque variante.
+Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque ethnie et chaque variante.
 
-Chaque race fournit aussi des éléments techniques, les traits, que vous devez recopier sur votre feuille de personnage, ainsi que votre vitesse de déplacement et les langues que connaît votre personnage.
+Chaque ethnie fournit aussi des éléments techniques, les traits, que vous devez recopier sur votre feuille de personnage, ainsi que votre vitesse de déplacement et les langues que connaît votre personnage.
 
 ## 2. Choisir un historique
 Référez-vous au chapitre [Personnalité et historique](/personnalite-et-historique/) pour plus de détails.
