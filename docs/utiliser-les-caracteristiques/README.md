@@ -378,7 +378,7 @@ Le Charisme est utilisé comme caractéristique de confrontation sociale, les po
 ## Jets de sauvegarde
 Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) – appelé aussi une sauvegarde – représente une tentative de résister à un sort, un piège, un poison, une maladie ou une menace similaire. En général, vous ne décidez pas de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Celui-ci vous est imposé car votre personnage ou votre monstre se trouve en danger.
 
-Pour faire un jet de sauvegarde, lancez un d20 et ajoutez le modificateur de caractéristique approprié. Par exemple, vous devez utiliser votre modificateur de Dextérité pour un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité.
+Pour faire un jet de sauvegarde, lancez un 3d6 et ajoutez le modificateur de caractéristique approprié. Par exemple, vous devez utiliser votre modificateur de Dextérité pour un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité.
 
 Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) peut être soumis à des bonus ou des malus en fonction d'une situation et il peut aussi être affecté par un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Ces modifications seront déterminées par le MJ.
 

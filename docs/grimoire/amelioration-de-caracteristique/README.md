@@ -22,7 +22,7 @@ source: "Manuel des règles"
 ---
 Vous touchez une créature pour lui accorder une amélioration magique. Choisissez l'un des effets suivants, dont la cible bénéficiera jusqu'à la fin du sort.
 
-**Endurance de l'ours**. La cible a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Constitution. Elle gagne aussi 2d6 points de vie temporaires qui disparaissent quand le sort se termine.
+**Endurance de l'ours**. La cible a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Constitution. Elle gagne aussi 2d6 points d'action temporaires qui disparaissent quand le sort se termine.
 
 **Force du taureau**. La cible bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et le poids qu'elle peut porter est doublé.
 

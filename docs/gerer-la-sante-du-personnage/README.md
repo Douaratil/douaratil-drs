@@ -3,66 +3,79 @@ title: "Gérer la santé du personnage"
 ---
 # Gérer la santé du personnage
 ## Dégâts et guérison
-Dans l'univers fantastique de _**Héros & Dragons**_, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d'un dragon, les griffes d'un troll, le poison d'un ennemi, un carreau d'arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
+Dans l'univers fantastique de _**Douaratil le jeu de rôle**_, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d'un dragon, les griffes d'un troll, le poison d'un ennemi, un carreau d'arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
 
-### Points de vie
-Les points de vie représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points de vie, plus elle est difficile à tuer. Les créatures avec peu de points de vie sont plus fragiles.
+### points d'action
+Les points d'action représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points d'action, plus elle est difficile à tuer. Les créatures avec peu de points d'action sont plus fragiles.
 
-Les points de vie actuels d'une créature (généralement appelés simplement « _points de vie_ ») se situent entre 0 et son maximum de points de vie. Les points de vies actuels évoluent fréquemment au fil du jeu en fonction des dégâts qu'une créature subit et des soins qu'elle reçoit.
+Les points d'action actuels d'une créature (généralement appelés simplement « _points d'action_ ») se situent entre 0 et son maximum de points d'action. Les points d'actions actuels évoluent fréquemment au fil du jeu en fonction des dégâts qu'une créature subit et des soins qu'elle reçoit.
 
-Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel de points de vie. Perdre des points de vie n'a pas d'effet sur les capacités d'une créature tant que ses points de vie n'atteignent pas 0.
+Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel de points d'action. Perdre des points d'action n'a pas d'effet sur les capacités d'une créature tant que ses points d'action n'atteignent pas 0.
 
 ### Soins
-Les dégâts ne sont pas permanents, à moins bien sûr qu'ils ne provoquent la mort d'une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points de vie d'une créature, et des méthodes magiques –  comme le sort [soin des blessures](/grimoire/soin-des-blessures/) ou une potion de soins – peuvent soigner les dégâts en un instant.
+Les dégâts ne sont pas permanents, à moins bien sûr qu'ils ne provoquent la mort d'une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points d'action d'une créature, et des méthodes magiques –  comme le sort [soin des blessures](/grimoire/soin-des-blessures/) ou une potion de soins – peuvent soigner les dégâts plus rapidement.
 
-Quand une créature reçoit des soins de quelque sorte qu'ils soient, les points de vie qu'elle regagne viennent s'ajouter à ses points de vie actuels. Le nombre de points de vie d'une créature ne peut pas dépasser son maximum de points de vie. Si elle gagne un nombre de points de vie qui lui permettrait théoriquement de dépasser ce maximum, les points de vie surnuméraires sont perdus. Par exemple, un paladin permet à un rôdeur de regagner 8 points de vie en le soignant. Le rôdeur a actuellement 14 points de vie et possède un maximum de 20 points de vie. Il ne regagne donc que 6 points de vie, ce qui porte son total à 20, son maximum. 2 des 8 points offerts par les soins du paladin sont donc perdus.
+Quand une créature reçoit des soins de quelque sorte qu'ils soient, les points d'action qu'elle regagne viennent s'ajouter à ses points d'action actuels. Le nombre de points d'action d'une créature ne peut pas dépasser son maximum de points d'action. Si elle gagne un nombre de points d'action qui lui permettrait théoriquement de dépasser ce maximum, les points d'action surnuméraires sont perdus.
+Par exemple, un Beghelm permet à un Dall Dawnser de regagner 8 points d'action en le soignant. Le Dall Dawnser a actuellement 14 points d'action et possède un maximum de 20 points d'action. Il ne regagne donc que 6 points d'action, ce qui porte son total à 20, son maximum. 2 des 8 points offerts par les soins du paladin sont donc perdus.  
 
-Une créature morte ne peut pas regagner de point de vie avant d'avoir été ramenée à la vie, par exemple avec un sort comme [revigorer](/grimoire/revigorer/).
+Une créature morte ne peut pas regagner de point d'action.
 
-### Tomber à 0 point de vie
-Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
+### Blessures graves
+Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entrainent de façon durable des pénalités.   
+Une personne gravement blessée doit passer un repos long par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque repos long, un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
+3-4 Tête  (3-4 Front, 5-6 nez, 7-8 joue droite, 9-10 joue gauche, 11-12 oreille droite, 13-14 oreille gauche, 15-16 cou,17-18 crâne)  
+5-9 Partie haute (3-4 clavicule droite, 5-6 clavicule gauche, 7-9 pectoral droit, 10-12 pectoral gauche, 13-15 omoplate droite, 16-18 omoplate gauche)  
+9-12 partie basse (3-5 ventre, 6-7 hanche droite, 8-9 hanche gauche, 10 entrejambe, 11-12 bas du dos, 13-15 fesse droite, 16-18 fesse gauche )  
+13-15 bras (3-4 épaule droite, 5-6 épaule gauche, 7-9 bras droit, 10-12 bras gauche, 13-14 avant bras droit, 15-16 avant bras gauche, 17 main droite, 18 main gauche)    
+16-18 jambe (3-5 cuisse droite, 6-8 cuisse gauche, 9-10 mollet droit, 11-12 mollet gauche, 13-14 tibias droit, 15-16 tibias gauche, 17 pied droit, 18 pied gauche)  
 
+**Les conséquences des blessures graves**:
+- 1 mètre de déplacement de pénalité par blessure non guérie.
+- Désavantage pour tous les tests de combats et les tests de caractéristiques impliquant la force ou la dextérité ainsi que les jets de sauvegarde.
+- Le maximum de point d’action est égal à la constitution quelque soit le niveau du blessé (cette conséquence ne s’applique qu’après un combat).
+### Tomber à 0 point de d’action ou coup critique
+Quand vous atteignez 0 point de d’action ou que vous subissez un coup critique (c’est à dire un montant de dégât supérieur à votre valeur de constitution en une seule fois), vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
 #### Mort instantanée
-Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose terrible arrive, il faut que les dégâts vous fassent tomber à 0 point de vie et que le reliquat des dégâts infligés par l'attaque soit supérieur ou égal à votre maximum de points de vie.
-
-Par exemple, une clerc a un nombre de points de vie maximum de 12. Il lui reste actuellement 6 points de vie. Si elle subit 18 dégâts suite à une attaque, elle tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. Comme ce reliquat de dégâts est égal à son maximum de points de vie (12), la prêtresse meurt sur le coup.
-
+Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose terrible arrive, il faut que les dégâts vous fassent tomber à 0 point d’action ou dépassent votre score de constitution en un seul coup. Il faut ensuite résister avec un JS de CONstitution à un DD correspondant aux dégâts reçus dans le tour. Dans le cadre d’un coup critique le test n’est fait qu’une seule fois sauf si les conditions d’un autre coup critique sont réunies (c’est à dire dépasser une seconde fois le score de constitution).  
+Dans le cadre d’un coup reçu alors que la cible est à 0 points d’action, un test doit être effectué à chaque nouveau dégât encaissé et le DD correspond au cumul des dégâts. Le « compteur » diminue tous les tours d’un montant correspondant à la constitution du personnage jusqu’à revenir à zéro. Ainsi une personne peut encaisser plusieurs blessures avant de s’effondrer ou de mourir. Chaque coup reçu à zéro de point de vie laisse une cicatrice et correspond à une blessure grave. **Si le JS de Constitution échoue de plus de 10, le personnage est mort**.  
+D’autre part, pour chaque blessure grave reçue, des pénalités s’appliqueront tant qu’elles ne seront pas totalement guéries (voir section blessure grave).  
+Par exemple, une guerrier a un nombre de points d'action maximum de 12. Il lui reste actuellement 6 points d'action. Si il subit 18 dégâts suite à une attaque, il tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. 12 est donc le DD pour résister.   
 #### Perdre conscience
-Si les dégâts que vous subissez vous font tomber à 0 point de vie mais ne vous tuent pas, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)). Vous ne pouvez reprendre conscience que si vous regagnez des points de vie.
+Si les dégâts que vous subissez vous font tomber à 0 point d’action mais ne vous tuent pas par **un échec au DD de dégâts compris entre 10 et 1**, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle ne pourra agir que le round suivant.   
+L’autre situation qui peut entrainer l’inconscience est le fait de subir des dégâts massifs quelque soit le montant de points d'action restant. Cette quantité de dégât est variable selon chaque individu ou créature et correspond à sa caractéristique de constitution. Si ce montant est atteint, il faut réussir un JS DD16 ou s’effondrer pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle ne pourra agir que le round suivant.  
 
 #### Jets de sauvegarde contre la mort
-À chaque fois que vous commencez votre tour de jeu à 0 point de vie, vous devez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) spécial appelé [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+À chaque fois que vous commencez votre tour de jeu à 0 point de'action, vous devez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) spécial appelé [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
-Lancez un d20. Sur un résultat de 10 ou plus, vous avez réussi. Sinon, le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est un échec. Un échec ou un succès n'a pas d'effet en tant que tel, mais après trois succès, vous êtes stabilisé (voir ci-dessous la section [Stabiliser une créature](#stabiliser-une-creature)) et après trois échecs, vous mourez. Ces succès ou ces échecs n'ont pas besoin d'être consécutifs, vous devez donc noter chaque résultat jusqu'à en avoir obtenu trois identiques. Ce compteur est remis à 0 dès que vous regagnez des points de vie ou que vous êtes stabilisé.
+Lancez 3d6 (non explosifs). Sur un résultat de 10 ou plus, vous avez réussi. Sinon, le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est un échec. Un échec ou un succès n'a pas d'effet en tant que tel, mais après trois succès, vous êtes stabilisé (voir ci-dessous la section [Stabiliser une créature](#stabiliser-une-creature)) et après trois échecs, vous mourez. Ces succès ou ces échecs n'ont pas besoin d'être consécutifs, vous devez donc noter chaque résultat jusqu'à en avoir obtenu trois identiques. Ce compteur est remis à 0 dès que vous regagnez des points d'action ou que vous êtes stabilisé.
 
-**Faire 1 ou 20**. Si vous faites 1 avec le d20 lors d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort, il compte comme deux échecs. Si vous faites 20 avec le d20, votre personnage regagne un point de vie.
-
-**Dégâts à 0 point de vie**. Si vous subissez des dégâts alors que vous êtes déjà à 0 point de vie, vous devez ajouter un échec à votre compteur de jets de sauvegarde contre la mort. Si ces dégâts ont été causés par un coup critique, ils comptent comme deux échecs. Et si le total de ces dégâts est supérieur ou égal à votre maximum de points de vie, vous mourez instantanément.
+**Dégâts à 0 point d'action**. Si vous subissez des dégâts alors que vous êtes déjà à 0 point de vie, vous devez ajouter un échec à votre compteur de jets de sauvegarde contre la mort. Si ces dégâts ont été causés par un coup critique, ils comptent comme deux échecs. Et si le total de ces dégâts est supérieur ou égal à votre maximum de points d'action, vous mourez instantanément.
 
 #### Stabiliser une créature
-Le meilleur moyen de sauver une créature qui se trouve à 0 point de vie est de la soigner. S'il n'est pas possible de la soigner, elle peut être stabilisée afin de lui éviter de mourir des suites d'un échec à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort.
+Le meilleur moyen de sauver une créature qui se trouve à 0 point d'action est de la soigner. S'il n'est pas possible de la soigner, elle peut être stabilisée afin de lui éviter de mourir des suites d'un échec à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort.
 
-Vous pouvez utiliser une action pour administrer les premiers soins à une créature [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) et tenter de la stabiliser, mais vous devez pour cela réussir un test de Sagesse (Médecine) DD 10.
+Vous pouvez utiliser une action pour administrer les premiers soins à une personne [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) et tenter de la stabiliser, mais vous devez pour cela réussir un test de Sagesse (Médecine) DD 10.
 
-Une créature **stabilisée** n'a pas besoin de faire de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort, même si elle est à 0 point de vie. Cependant, elle reste [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Si la créature subit de nouveaux dégâts, elle n'est plus considérée comme stabilisée et doit recommencer à faire des jets de sauvegarde contre la mort. Si elle n'est pas soignée, une créature stabilisée regagne 1 point de vie au bout de 1d4 heures.
+Une personne **stabilisée** n'a pas besoin de faire de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort, même si elle est à 0 point de vie. Cependant, elle reste [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Si la créature subit de nouveaux dégâts, elle n'est plus considérée comme stabilisée et doit recommencer à faire des jets de sauvegarde contre la mort. Si elle n'est pas soignée, une créature stabilisée regagne 1 point d'action au bout de 1d6 heures.
 
 #### Les monstres et la mort
-La plupart des MJ font mourir les monstres dès qu'ils atteignent 0 point de vie plutôt que de les considérer comme [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et de faire pour eux des jets de sauvegarde contre la mort.
+La plupart des MJ font mourir les adversaires dès qu'ils atteignent 0 point d'action plutôt que de les considérer comme [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et de faire pour eux des jets de sauvegarde contre la mort.
 
 Les principaux adversaires et personnages non-joueurs spéciaux constituent une exception courante. Le MJ peut les considérer [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et suivre les mêmes règles que pour les personnages des joueurs.
 
-### Points de vie temporaires
-Certains sorts et capacités spéciales confèrent des points de vie temporaires à une créature. Ces points de vie temporaires ne sont pas réellement des points de vie, mais plutôt une protection contre les dégâts, une réserve de points de vie qui évite à un personnage de subir véritablement des dégâts.
+### points d'action temporaires
+Certains sorts et capacités spéciales confèrent des points d'action temporaires à une créature. Ces points d'action temporaires ne sont pas réellement des points d'action, mais plutôt une protection contre les dégâts, une réserve de points d'action qui évite à un personnage de subir véritablement des dégâts.
 
-Si vous subissez des dégâts alors que vous possédez des points de vie temporaires, vous perdez d'abord vos points de vie temporaires et, une fois ceux-ci épuisés, tout dégât restant s'applique normalement à vos points de vie. Par exemple, si vous avez 5 points de vie temporaires et que vous subissez 7 dégâts, vous perdez l'ensemble de vos points de vie temporaires et subissez 2 dégâts.
+Si vous subissez des dégâts alors que vous possédez des points d'action temporaires, vous perdez d'abord vos points d'action temporaires et, une fois ceux-ci épuisés, tout dégât restant s'applique normalement à vos points d'action. Par exemple, si vous avez 5 points d'action temporaires et que vous subissez 7 dégâts, vous perdez l'ensemble de vos points d'action temporaires et subissez 2 dégâts.
 
-Les points de vie temporaires étant indépendants de votre réserve de points de vie réels, ils peuvent vous permettre de dépasser votre maximum de points de vie. Ainsi, vous pouvez posséder votre total de points de vie maximum et recevoir quand même des points de vie temporaires.
+Les points d'action temporaires étant indépendants de votre réserve de points d'action réels, ils peuvent vous permettre de dépasser votre maximum de points d'action. Ainsi, vous pouvez posséder votre total de points d'action maximum et recevoir quand même des points d'action temporaires.
 
-Les points de vie temporaires ne sont pas restaurés par les soins. Ils ne peuvent pas non plus se cumuler entre eux. Si vous avez des points de vie temporaires et que vous en gagnez d'autres, vous devez décider si vous conservez ceux que vous possédez déjà ou si vous les remplacez par ceux que vous venez de gagner. Par exemple, si un sort vous accorde 12 points de vie temporaires et que vous en possédez déjà 10, vous devez décider si vous gardez les 10 points de vie ou si vous les échangez contre les 12 points de vie, mais vous ne pouvez en aucun cas les cumuler pour obtenir 22 points de vie temporaires.
+Les points d'action temporaires ne sont pas restaurés par les soins. Ils ne peuvent pas non plus se cumuler entre eux. Si vous avez des points d'action temporaires et que vous en gagnez d'autres, vous devez décider si vous conservez ceux que vous possédez déjà ou si vous les remplacez par ceux que vous venez de gagner. Par exemple, si un sort vous accorde 12 points d'action temporaires et que vous en possédez déjà 10, vous devez décider si vous gardez les 10 points d'action ou si vous les échangez contre les 12 points d'action, mais vous ne pouvez en aucun cas les cumuler pour obtenir 22 points d'action temporaires.
 
-Si vous êtes à 0 point de vie, recevoir des points de vie temporaires ne vous permet pas de reprendre conscience ou d'être stabilisé. En revanche, ces points de vie temporaires peuvent toujours absorber les dégâts que vous subissez, même quand vous êtes dans cet état. Mais seuls de véritables soins peuvent vous sauver.
+Si vous êtes à 0 point d'action, recevoir des points d'action temporaires ne vous permet pas de reprendre conscience ou d'être stabilisé. En revanche, ces points d'action temporaires peuvent toujours absorber les dégâts que vous subissez, même quand vous êtes dans cet état. Mais seuls de véritables soins peuvent vous sauver.
 
-Vos points de vie temporaires subsistent jusqu'à ce qu'ils servent à encaisser des dégâts ou jusqu'au terme d'un repos long. Il existe des exceptions à cette règle, dans le cas par exemple d'une aptitude qui vous permet d'obtenir des points de vie temporaires et qui précise combien de temps vous pouvez les conserver.
+Vos points d'action temporaires subsistent jusqu'à ce qu'ils servent à encaisser des dégâts ou jusqu'au terme d'un repos long. Il existe des exceptions à cette règle, dans le cas par exemple d'une aptitude qui vous permet d'obtenir des points d'action temporaires et qui précise combien de temps vous pouvez les conserver.
 
 ## Entre la vie et la mort
 Les blessures lors d'un combat sont bien évidemment le risque à la fois le plus courant et le plus mortel pour votre personnage. Mais il existe bien d'autres états qui peuvent l'affecter sans pour autant menacer sa vie.
@@ -164,13 +177,13 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 | **1** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) |
 | **2** | Vitesse réduite de moitié |
 | **3** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques et des sauvegardes |
-| **4** | Maximum de points de vie réduit de moitié |
+| **4** | Maximum de points d'action réduit de moitié |
 | **5** | Vitesse réduite à 0 |
 | **6** | Décès |
 
 §§§
 
-Si une créature déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
+Si une personne déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
 
 Une créature souffre des effets de son niveau d'épuisement actuel et de tous les effets des niveaux inférieurs. Par exemple, une créature affligée d'un épuisement de niveau 2 voit sa vitesse réduite de moitié et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
@@ -184,15 +197,18 @@ Même si les aventuriers sont des héros, il est impossible de passer ses journ�
 Au cours d'une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d'une journée, on parle d'une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir [_Entre les aventures_](/partir-a-l-aventure/#recuperer)).
 
 ### Repos court
-Un repos court est une période de repos d'au moins 1 heure pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.
+**Un repos court est une période de repos d'au moins 1 heure** pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.  
 
-A la fin d'une période de repos court, un personnage peut décider de puiser dans sa réserve de dés de vie. Cette dernière est égale à son niveau. Il peut lancer un ou plusieurs dés de vie. Pour chaque dé de vie ainsi utilisé, le joueur lance un dé et ajoute à son résultat le modificateur de Constitution de son personnage. Le total correspond au nombre de points de vie regagnés par celui-ci. Le joueur peut décider de lancer ses dés de vie les uns après les autres, et donc d'attendre de connaître le résultat d'un lancer de dé avant de choisir de dépenser un dé de vie supplémentaire. Un personnage regagne une partie des dés de vie utilisés après un repos long, comme expliqué ci-dessous.
+A la fin d'une période de repos court, un personnage peut décider de puiser dans sa réserve de dés d’action. Cette dernière est égale à son niveau. Il peut lancer un ou plusieurs dés de points d’action. Pour chaque dé d’action ainsi utilisé, le joueur lance un dé et ajoute à son résultat le modificateur de Constitution de son personnage. Le total correspond au nombre de points d’action regagnés par celui-ci. Le joueur peut décider de lancer ses dés d’action les uns après les autres, et donc d'attendre de connaître le résultat d'un lancer de dé avant de choisir de dépenser un dé d’action supplémentaire. Un personnage regagne une partie des dés d’action utilisés après un repos long, comme expliqué ci-dessous.  
 
 ### Repos long
-Un repos long est une période de repos d'au moins 8 heures, pendant laquelle un personnage dort ou n'entreprend que des activités reposantes, comme lire, parler, manger. S'il monte la garde, il ne peut pas le faire pendant plus de 2 heures. Si ce repos est interrompu par une période d'activité soutenue, comme par exemple 1 heure passée à marcher, se battre, lancer des sorts, ou tout autre activité similaire, tout le temps passé dans l'optique d'un repos long est perdu. Le personnage doit recommencer la période de repos long du début pour en tirer bénéfice.
+**Un repos long est une période de repos d'au moins 8 heures**, pendant laquelle un personnage dort ou n'entreprend que des activités reposantes, comme lire, parler, manger. S'il monte la garde, il ne peut pas le faire pendant plus de 2 heures. Si ce repos est interrompu par une période d'activité soutenue, comme par exemple 1 heure passée à marcher, se battre, préparer des rituels, ou tout autre activité similaire, tout le temps passé dans l'optique d'un repos long est perdu. Le personnage doit recommencer la période de repos long du début pour en tirer bénéfice.  
 
-À la fin d'un repos long, un personnage regagne tous ses points de vie. Il regagne aussi une partie des dés de vie qu'il a dépensés : toujours au moins un dé de vie dépensé et au maximum la moitié de son total de dés de vie.
+À la fin d'un repos long, un personnage regagne tous ses points d’action (mais il peut être pénalisé s’il se trouve encore sous l’effet d’une blessure grave). Il regagne aussi une partie des dés d’action qu'il a dépensés : toujours au moins un dé d’action dépensé et au maximum la moitié de son total de dés d’action.  
 
-Par exemple, si un personnage possède 8 dés de vie, il peut en regagner 4 au maximum à la fin d'un repos long. Un personnage de niveau 1 regagne son dé de vie s'il l'a dépensé.
+Par exemple, si un personnage possède 8 dés d’action, il peut en regagner 4 au maximum à la fin d'un repos long. Un personnage de niveau 1 regagne son dé d’action s'il l'a dépensé.  
 
-Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéfices conférés par un repos long et, pour cela, il doit avoir au moins 1 point de vie au début de cette période de repos.
+Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéfices conférés par un repos long et, pour cela, il doit avoir au moins 1 point d’action au début de cette période de repos.  
+
+D’autre part, un repos long permet de récupérer des **point de Magie** ou des points de Foi qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un repos long, le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
+Enfin, il est possible de récupérer des **points d’honneur** qui auraient été perdus. Après un repos long, les blessures morales s’éloignent doucement et le personnage reprend confiance en ses capacités. Il récupère 1 point par niveau + son bonus de charisme. ***Un personnage de la voie des armes double son bonus de caractéristique***.

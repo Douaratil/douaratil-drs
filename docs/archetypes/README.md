@@ -32,10 +32,10 @@ title: Barbare
 ## Aptitudes de classe
 En tant que barbare, vous bénéficiez des aptitudes de classe suivantes.
 
-### Points de vie
+### points d'action
 **Dés de vie** : 1d12 par niveau de barbare  
-**Points de vie au niveau 1** : 12 + votre modificateur de Constitution  
-**Points de vie aux niveaux supérieurs** : 1d12 (ou 7) + votre modificateur de Constitution par niveau de barbare après le premier niveau
+**points d'action au niveau 1** : 12 + votre modificateur de Constitution  
+**points d'action aux niveaux supérieurs** : 1d12 (ou 7) + votre modificateur de Constitution par niveau de barbare après le premier niveau
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires, boucliers  
@@ -63,7 +63,7 @@ Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous ête
 Une fois que vous êtes entré en état de rage le nombre de fois permis par votre niveau (voir le tableau d'évolution du barbare, colonne rages), vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.
 
 ### Défense sans armure
-Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
+Tant que vous ne portez pas d'armure, votre Valeur de défense est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et bénéficier de cette aptitude.
 
 ### Témérité
 À partir du niveau 2, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l'énergiedu désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à-corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.

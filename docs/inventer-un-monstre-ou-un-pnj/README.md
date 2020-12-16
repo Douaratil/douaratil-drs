@@ -48,8 +48,8 @@ Si vous souhaitez donner des aptitudes puissantes (actions légendaires, résist
 ### Indice de dangerosité et Points de combat (PC)
 Les deux premières colonnes de la table des profils techniques correspondent à des indicateurs de la puissance d'une créature. L'indice de dangerosité permet de savoir rapidement à quel niveau de PJ correspond une créature unique, ce paramètre est indiqué pour chaque créature du bestiaire. Il permet de déterminer les points d'expérience correspondants et toutes les autres caractéristiques de la créature. La deuxième colonne indique les points de combat (PC), un indice supplémentaire plus précis qui sert à créer des rencontres équilibrées de plusieurs créatures. Il est rappelé ici, car il est aussi utilisé pour calculer la dangerosité d'une créature dotée de niveaux de lanceur de sort.
 
-### Colonne CA et points de vie
-Cette colonne donne une **classe d'armure**-type pour la dangerosité de la créature. Toutefois, une valeur unique ne peut être satisfaisante pour simuler la variété de l'ensemble des créatures. Le pôle défensif d'une créature est formé par l'association de deux valeurs, la CA et les points de vie (PV) qui sont indiqués dans la colonne suivante. Ainsi vous pouvez choisir d'augmenter la CA et d'abaisser les PV ou l'inverse. Les colonnes 5 et 6 de la table (CA haute et CA basse), vous permettent de faire varier ces valeurs de façon simple avec plus ou moins de 2 points de CA.
+### Colonne CA et points d'action
+Cette colonne donne une **Valeur de défense**-type pour la dangerosité de la créature. Toutefois, une valeur unique ne peut être satisfaisante pour simuler la variété de l'ensemble des créatures. Le pôle défensif d'une créature est formé par l'association de deux valeurs, la CA et les points d'action (PV) qui sont indiqués dans la colonne suivante. Ainsi vous pouvez choisir d'augmenter la CA et d'abaisser les PV ou l'inverse. Les colonnes 5 et 6 de la table (CA haute et CA basse), vous permettent de faire varier ces valeurs de façon simple avec plus ou moins de 2 points de CA.
 
 **Variations possibles**. Vous pouvez aussi faire varier la CA en modifiant le bonus d'attaque de la créature : augmentez ou abaissez l'attaque de 1 point en échange du bonus/malus inverse en CA (maximum plus ou moins 2).
 
@@ -119,7 +119,7 @@ Pour déterminer l'ID d'un lanceur de sort, nous allons donc utiliser les points
 
 Lorsque vous développez une telle créature, le score d'attaque indiqué dans le tableau correspond généralement au score d'attaque magique. Les dégâts moyens de la créature en revanche ne correspondent pas et ne doivent pas être pris en compte.
 
-Pour terminer, nous vous conseillons vivement d'éviter de donner à une créature un niveau de lanceur de sort dont le coût dépasse les deux tiers du montant total des PC de la créature. Ses points de vie seront trop faibles par rapport à son ID final et la créature sera vaincue sans pouvoir révéler son plein potentiel, à moins qu'elle ne soit dans des conditions particulières (par exemple d'autres créatures pour la protéger).
+Pour terminer, nous vous conseillons vivement d'éviter de donner à une créature un niveau de lanceur de sort dont le coût dépasse les deux tiers du montant total des PC de la créature. Ses points d'action seront trop faibles par rapport à son ID final et la créature sera vaincue sans pouvoir révéler son plein potentiel, à moins qu'elle ne soit dans des conditions particulières (par exemple d'autres créatures pour la protéger).
 
 #### Table de coût de PC pour des niveaux de lanceur de sort.
 §§§ .table-container

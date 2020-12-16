@@ -28,6 +28,6 @@ Le mur peut prendre la forme que vous désirez, mais il ne peut pas occuper le m
 
 Si vous créez une longueur de plus de 6 mètres, vous devez réduire de moitié la taille de chaque panneau pour créer des supports. Vous pouvez façonner la silhouette générale du mur pour le doter de créneaux, de remparts et autres.
 
-Le mur est un objet de pierre que l'on peut endommager et on peut donc y ouvrir des brèches. Chaque panneau a une CA de 15 et 30 points de vie par section de 2,5 centimètres d'épaisseur. Si un panneau tombe à 0 point de vie, il est détruit, ce qui peut entraîner l'effondrement des panneaux adjacents, au choix du MJ.
+Le mur est un objet de pierre que l'on peut endommager et on peut donc y ouvrir des brèches. Chaque panneau a une CA de 15 et 30 points d'action par section de 2,5 centimètres d'épaisseur. Si un panneau tombe à 0 point de vie, il est détruit, ce qui peut entraîner l'effondrement des panneaux adjacents, au choix du MJ.
 
 Si vous restez concentré sur le sort pendant toute sa durée, le mur devient une structure permanente et ne peut plus être dissipé, sinon il disparaît à la fin du sort.

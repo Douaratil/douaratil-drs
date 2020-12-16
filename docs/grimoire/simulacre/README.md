@@ -18,7 +18,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous façonnez un double illusoire d'une bête ou d'un humanoïde à portée pendant toute la durée de l'incantation. Le double est une créature partiellement réelle, faite de neige ou de glace, qui peut accomplir des actions et qui est affectée par les éléments extérieurs comme une créature normale. Il ressemble en tout point à l'original, mais il n'a que la moitié de son maximum de points de vie et n'a pas d'équipement lors de sa création. En dehors de cela, il utilise le profil technique de la créature qu'il représente.
+Vous façonnez un double illusoire d'une bête ou d'un humanoïde à portée pendant toute la durée de l'incantation. Le double est une créature partiellement réelle, faite de neige ou de glace, qui peut accomplir des actions et qui est affectée par les éléments extérieurs comme une créature normale. Il ressemble en tout point à l'original, mais il n'a que la moitié de son maximum de points d'action et n'a pas d'équipement lors de sa création. En dehors de cela, il utilise le profil technique de la créature qu'il représente.
 
 Le simulacre se montre amical envers vous et les créatures que vous désignez. Il obéit à vos ordres vocaux, se déplace et agit comme vous le souhaitez et agit à votre tour lors des combats. Le simulacre est incapable d'apprendre et de gagner en puissance, il ne monte donc jamais de niveau et ne développe jamais ses pouvoirs. Il ne peut pas non plus récupérer un emplacement de sort dépensé.
 

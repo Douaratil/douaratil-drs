@@ -22,7 +22,7 @@ Vous invoquez un esprit qui prend la forme d'une monture dotée d'une intelligen
 
 Vous pouvez chevaucher votre monture au combat ou en dehors des affrontements, et le lien instinctif que vous partagez avec elle vous permet de vous battre ensemble comme si vous étiez une seule et même entité. Tant que vous la chevauchez, les sorts qui vous visent exclusivement l'affectent aussi si vous le désirez.
 
-Quand la monture tombe à 0 point de vie, elle disparaît sans laisser de cadavre physique. Vous pouvez la renvoyer quand vous le désirez par une action qui la fait disparaître. Si vous lancez de nouveau ce sort, c'est la même monture qui apparaît, disposant à nouveau de tous ses points de vie.
+Quand la monture tombe à 0 point de vie, elle disparaît sans laisser de cadavre physique. Vous pouvez la renvoyer quand vous le désirez par une action qui la fait disparaître. Si vous lancez de nouveau ce sort, c'est la même monture qui apparaît, disposant à nouveau de tous ses points d'action.
 
 Vous pouvez communiquer par télépathie avec votre monture tant qu'elle se trouve dans un rayon de 1,50 kilomètre.
 

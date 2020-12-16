@@ -30,10 +30,10 @@ Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et tout
 Les armures les plus lourdes interfèrent avec la capacité de leur porteur à se déplacer rapidement, discrètement et librement. Si le tableau des armures indique « _For 13_ » ou « _For 15_ » dans la colonne Force pour un type d'armure, elle réduit la vitesse de celui qui la porte de 3 mètres, à moins qu'il possède une valeur de Force supérieure ou égale au nombre indiqué.
 
 ### Bouclier
-Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre classe d'armure de 2. Vous ne pouvez pas bénéficier de plus d'un bouclier à la fois.
+Un bouclier est en bois ou en métal, et il est porté à la main. Porter un bouclier augmente votre Valeur de défense de 2. Vous ne pouvez pas bénéficier de plus d'un bouclier à la fois.
 
 ### Valeur de Défense (VD)
-Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre classe d'armure de base.
+Les armures permettent de se protéger des attaques. Les armures (et le bouclier) que vous portez déterminent votre Valeur de défense de base.
 
 ### Discrétion
 Si le tableau des armures indique « [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  » dans la colonne Discrétion, le porteur de l'armure subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests de Dextérité (Discrétion).
@@ -383,13 +383,13 @@ Ce cadenas est accompagné d'une clef. Si elle n'a pas la clef, une créature qu
 Un carquois peut contenir jusqu'à vingt flèches.
 
 ## Chaîne
-Une chaîne a 10 points de vie. Elle peut être brisée en réussissant un test de Force DD 20.
+Une chaîne a 10 points d'action. Elle peut être brisée en réussissant un test de Force DD 20.
 
 ## Chausse-trappes
 Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une surface de 1,50  mètre de côté. Une créature qui traverse cette surface doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15 ou arrêter de se déplacer jusqu'à la fin de son tour et subir 1 dégât perforant. Si elle subit ce dégât, la vitesse de cette créature est réduite de 3 mètres jusqu'à ce qu'elle regagne au moins 1 point de vie. Une créature peut traverser la zone sans avoir besoin de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle se déplace à la moitié de sa vitesse.
 
 ## Corde
-Une corde, qu'elle soit faite de chanvre ou de soie, a 2 points de vie et peut être rompue en réussissant un test de Force DD 17.
+Une corde, qu'elle soit faite de chanvre ou de soie, a 2 points d'action et peut être rompue en réussissant un test de Force DD 17.
 
 ## Eau bénite
 Vous pouvez utiliser une action pour asperger d'eau bénite une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, ou lancer la flasque jusqu'à 6 mètres de vous. La flasque se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'eau bénite doit être considérée comme une arme improvisée. Si votre cible est un fiélon ou un mort-vivant, elle subit 2d6 dégâts radiants.
@@ -436,7 +436,7 @@ Le matériel de pêche se compose d'une canne de bois, d'un fil de soie, de bouc
 Le matériel d'escalade comprend des pitons spéciaux, des pointes pour chaussures, des gants et un harnais. Vous pouvez utiliser le matériel d'escalade lors d'une action pour vous accrocher à une paroi. Vous ne pouvez alors plus chuter de plus de 7,50 mètres depuis votre point d'ancrage, mais vous devez vous décrocher si vous voulez vous éloigner de plus de 7,50 mètres de ce point.
 
 ## Menottes
-Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points de vie.
+Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points d'action.
 
 ## Palan
 Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.

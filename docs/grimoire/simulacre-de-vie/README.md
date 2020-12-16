@@ -1,6 +1,6 @@
 ---
 title: "Simulacre de vie"
-description: "Le PJ gagne 1d4+4 points de vie temporaires."
+description: "Le PJ gagne 1d4+4 points d'action temporaires."
 school: "Nécromancie"
 level: 1
 concentration: false
@@ -19,6 +19,6 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie temporaires pendant la durée du sort.
+Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points d'action temporaires pendant la durée du sort.
 
-**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points de vie temporaires supplémentaires par niveau au-delà du niveau 1.
+**À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, vous gagnez 5 points d'action temporaires supplémentaires par niveau au-delà du niveau 1.

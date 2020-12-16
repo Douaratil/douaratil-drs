@@ -1,6 +1,6 @@
 ---
 title: "Épargner les mourants"
-description: "Stabilise une créature à 0 points de vie."
+description: "Stabilise une créature à 0 points d'action."
 school: "Nécromancie"
 level: 0
 concentration: false

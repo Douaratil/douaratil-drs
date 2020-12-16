@@ -19,7 +19,7 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous touchez le cadavre d'une créature décédée depuis 100 ans au maximum, qui n'est pas morte de vieillesse et qui n'est pas un mort-vivant. Si son âme est libre et consentante, la cible ressuscite avec tous ses points de vie.
+Vous touchez le cadavre d'une créature décédée depuis 100 ans au maximum, qui n'est pas morte de vieillesse et qui n'est pas un mort-vivant. Si son âme est libre et consentante, la cible ressuscite avec tous ses points d'action.
 
 Ce sort neutralise les poisons et maladies ordinaires qui affectaient éventuellement la cible à sa mort, mais il ne guérit pas les maladies magiques, les malédictions et autres effets de même type. Il faut en débarrasser la cible avant de la ressusciter, sans quoi ils l'affligent de nouveau dès qu'elle revient à la vie.
 

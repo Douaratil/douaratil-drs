@@ -20,7 +20,7 @@ source: "Manuel des règles"
 ---
 Vous créez une main de force luisante et translucide, de taille G, dans un espace inoccupé situé à portée et dans votre champ de vision. La main existe pendant toute la durée du sort, se déplace sur votre ordre et imite les mouvements de votre propre main.
 
-La main est un objet doté d'une CA de 20 et d'un nombre de points de vie égal à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se dissipe. La main possède une Force de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.
+La main est un objet doté d'une CA de 20 et d'un nombre de points d'action égal à votre maximum de points d'action. Si elle tombe à 0 point de vie, le sort se dissipe. La main possède une Force de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.
 
 Lorsque vous lancez le sort, puis via une action bonus lors de vos tours ultérieurs, vous pouvez déplacer la main sur une distance maximale de 18 mètres et lui faire appliquer l'un des effets suivants.
 

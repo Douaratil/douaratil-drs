@@ -13,12 +13,12 @@
         <div class="break-avoid">
           <!-- Statblock -->
           <div class="monster-armor-class">
-            <strong>Classe d'armure</strong>
+            <strong>Valeur de défense</strong>
             <span>{{ displayAC() }}</span>
           </div>
           <div class="monster-hit-points">
             <strong v-if="$store.state.l5r">Points de combativité</strong>
-            <strong v-else>Points de vie</strong>
+            <strong v-else>points d'action</strong>
             <span>{{ hp }}</span>
           </div>
           <div v-if="$store.state.l5r" class="monster-vitality-points">

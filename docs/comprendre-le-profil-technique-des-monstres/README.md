@@ -78,15 +78,15 @@ Certaines créatures peuvent avoir **n'importe quel alignement**, et vous pouvez
 
 Nombre de créatures dotées d'une intelligence réduite ne comprennent pas les concepts de loi, de chaos, de bien ou de mal. Elles ne prennent pas de décision d'un point de vue moral ou éthique mais agissent par instinct. Ces créatures sont **non-alignées**, ce qui signifie qu'elles n'ont aucun alignement.
 
-## Classe d'armure
-Un monstre qui porte une armure ou manie un bouclier possède une **classe d'armure** (CA) qui prend en compte son armure, son bouclier et sa Dextérité. Sinon, la CA d'un monstre dépend de son modificateur de Dextérité et de son armure naturelle, le cas échéant. Si un monstre possède une armure naturelle, porte une armure ou manie un bouclier, ceci est indiqué entre parenthèses après sa valeur de CA.
+## Valeur de défense
+Un monstre qui porte une armure ou manie un bouclier possède une **Valeur de défense** (CA) qui prend en compte son armure, son bouclier et sa Dextérité. Sinon, la CA d'un monstre dépend de son modificateur de Dextérité et de son armure naturelle, le cas échéant. Si un monstre possède une armure naturelle, porte une armure ou manie un bouclier, ceci est indiqué entre parenthèses après sa valeur de CA.
 
-## Points de vie
-Un monstre meurt ou est détruit quand ses points de vie tombent à 0. Voir le chapitre [_Gérer la santé du personnage - Points de vie_](/gerer-la-sante-du-personnage/#points-de-vie) pour plus d'informations sur les points de vie.
+## points d'action
+Un monstre meurt ou est détruit quand ses points d'action tombent à 0. Voir le chapitre [_Gérer la santé du personnage - points d'action_](/gerer-la-sante-du-personnage/#points-de-vie) pour plus d'informations sur les points d'action.
 
-Les points de vie d'un monstre sont représentés à la fois par un dé et par une valeur moyenne. Par exemple, un monstre avec 2d8 points de vie possède une moyenne de 9 points de vie (2 × 4,5).
+Les points d'action d'un monstre sont représentés à la fois par un dé et par une valeur moyenne. Par exemple, un monstre avec 2d8 points d'action possède une moyenne de 9 points d'action (2 × 4,5).
 
-La taille d'un monstre détermine le dé utilisé pour calculer ses points de vie, comme indiqué dans la table des dés de vie en fonction de la taille.
+La taille d'un monstre détermine le dé utilisé pour calculer ses points d'action, comme indiqué dans la table des dés de vie en fonction de la taille.
 
 ### Dés de vie en fonction de la taille
 §§§ .table-container
@@ -100,7 +100,7 @@ La taille d'un monstre détermine le dé utilisé pour calculer ses points de vi
 | **Gigantesque** | d20 | 10,5 |
 §§§
 
-Le modificateur de Constitution d'un monstre affecte également son nombre de points de vie. On le multiplie par le nombre de dés de vie et le résultat est ajouté aux points de vie du monstre. Par exemple, un monstre avec une Constitution de 12 (modificateur de +1) et 2d8 dés de vie possède 2d8+2 points de vie (moyenne de 11).
+Le modificateur de Constitution d'un monstre affecte également son nombre de points d'action. On le multiplie par le nombre de dés de vie et le résultat est ajouté aux points d'action du monstre. Par exemple, un monstre avec une Constitution de 12 (modificateur de +1) et 2d8 dés de vie possède 2d8+2 points d'action (moyenne de 11).
 
 ## Vitesse
 La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre/#deplacement-et-position) pour plus d'informations sur la vitesse de déplacement.

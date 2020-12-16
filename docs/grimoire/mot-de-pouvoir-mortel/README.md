@@ -21,4 +21,4 @@ classes:
 
 source: "Manuel des règles"
 ---
-Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.
+Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points d'action ou moins, elle meurt, sinon le sort n'a aucun effet.

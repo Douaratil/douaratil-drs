@@ -33,7 +33,7 @@ Vous devez opter pour l'une des formes d'emprisonnement suivantes quand vous lan
 
 **Sommeil**. La cible s'endort et il est impossible de la réveiller. La composante spéciale de cette version du sort est un bouquet d'herbes soporifiques très rares.
 
-**Mettre fin au sort**. Lors de l'incantation et quelle que soit la version du sort, vous pouvez préciser une condition spéciale qui met fin au sort et libère la cible. Cette condition peut être aussi spécifique ou aussi élaborée que vous le désirez, mais le MJ doit confirmer que cette condition est réalisable et a une chance d'être remplie. Elle peut se baser sur le nom de la créature, son identité ou sa divinité, mais elle doit sinon reposer sur des actions ou des qualités observables et non sur des éléments intangibles comme le niveau, la classe ou les points de vie.
+**Mettre fin au sort**. Lors de l'incantation et quelle que soit la version du sort, vous pouvez préciser une condition spéciale qui met fin au sort et libère la cible. Cette condition peut être aussi spécifique ou aussi élaborée que vous le désirez, mais le MJ doit confirmer que cette condition est réalisable et a une chance d'être remplie. Elle peut se baser sur le nom de la créature, son identité ou sa divinité, mais elle doit sinon reposer sur des actions ou des qualités observables et non sur des éléments intangibles comme le niveau, la classe ou les points d'action.
 
 <ST l="Dissipation de la magie" s="dissipation-de-la-magie"/> peut mettre fin au sort à condition d'être lancée depuis un emplacement de sort de niveau 9 en visant la prison ou la composante matérielle spéciale utilisée pour lancer le sort.
 

@@ -24,4 +24,4 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 * L'état [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_pétrifié_](/gerer-la-sante-du-personnage/#petrifie).
 * Une malédiction, y compris l'harmonisation entre la cible et un objet magique maudit.
 * Une réduction sur l'une des valeurs de caractéristique de la cible.
-* Un effet réduisant le maximum de points de vie de la cible.
+* Un effet réduisant le maximum de points d'action de la cible.

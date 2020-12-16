@@ -13,7 +13,7 @@ L'initiative permet de déterminer l'ordre des tours pendant un combat. Au débu
 
 Le MJ classe les combattants par ordre de Dextérité, en commençant par celui qui a eu le résultat le plus élevé à son test de Dextérité et en terminant par celui dont le résultat était le moins élevé. C'est dans cet ordre, appelé ordre d'initiative, que les combattants agiront à chaque round. L'ordre d'initiative reste le même d'un round à l'autre.
 
-En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier choisit quelle créature agira avant l'autre. Si l'égalité concerne les héros, c'est aux joueurs de décider quel personnage agira le premier. Si un monstre et le personnage d'un joueur se trouvent à égalité, le MJ peut décider de l'ordre. Le MJ peut aussi décider que les personnages et monstres à égalité résolvent la situation par un nouveau jet de d20, auquel cas la créature qui a le résultat le plus haut agira avant l'autre.
+En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier choisit quelle créature agira avant l'autre. Si l'égalité concerne les héros, c'est aux joueurs de décider quel personnage agira le premier. Si un monstre et le personnage d'un joueur se trouvent à égalité, le MJ peut décider de l'ordre. Le MJ peut aussi décider que les personnages et monstres à égalité résolvent la situation par un nouveau jet de 3d6, auquel cas la créature qui a le résultat le plus haut agira avant l'autre.
 
 ## Votre tour
 Pendant votre tour, vous pouvez **vous déplacer** d'une distance égale à votre vitesse et **accomplir une action**. C'est à vous de décider si vous voulez d'abord vous déplacer ou d'abord agir. Votre vitesse – parfois appelée aussi vitesse de déplacement  – est indiquée sur votre feuille de personnage.
@@ -89,9 +89,7 @@ Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une pa
 Si vous utilisez une action qui vous permet de porter plusieurs attaques avec une arme, vous pouvez fragmenter encore plus votre déplacement et vous déplacer entre ces attaques. Par exemple, un guerrier qui peut porter deux attaques grâce à l'aptitude attaque supplémentaire et qui a une vitesse de 7,50 mètres peut se déplacer de 3 mètres, porter sa première attaque, se déplacer de 4,50 mètres supplémentaires et porter sa seconde attaque.
 
 ### Utiliser différentes vitesses
-Si vous avez la capacité de vous déplacer à plusieurs vitesses, comme une vitesse au sol et une vitesse en vol, par exemple, vous pouvez alterner les deux lors de votre déplacement. À chaque fois que vous passez d'un type de vitesse à l'autre, vous devez soustraire la distance que vous avez déjà parcourue de la nouvelle jauge de vitesse. Le résultat indique quelle distance vous pouvez encore parcourir. Si ce résultat est de 0 ou moins, vous ne pouvez plus vous déplacer pendant ce tour.
-
-Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé un sort de vol qui vous permet d'avoir une vitesse en [_vol_](/grimoire/vol/) de 18 mètres, vous pouvez voler sur une distance de 6 mètres, marcher 3 mètres, puis bondir dans les airs pour voler sur 9 mètres supplémentaires.
+Si vous avez la capacité de vous déplacer à plusieurs vitesses, comme une vitesse au sol et une vitesse en nage, par exemple, vous pouvez alterner les deux lors de votre déplacement. À chaque fois que vous passez d'un type de vitesse à l'autre, vous devez soustraire la distance que vous avez déjà parcourue de la nouvelle jauge de vitesse. Le résultat indique quelle distance vous pouvez encore parcourir. Si ce résultat est de 0 ou moins, vous ne pouvez plus vous déplacer pendant ce tour.
 
 ### Terrain difficile
 Un combat se déroule rarement sur le sol d'une pièce vide ou dans une plaine bien dégagée. Que ce soit sur le sol irrégulier d'une caverne, au milieu d'une forêt envahie de bruyères, ou dans un escalier glissant, un champ de bataille est généralement un terrain difficile.
@@ -117,7 +115,7 @@ Qu'une créature soit amie ou ennemie, vous ne pouvez pas volontairement vous ar
 Si vous vous mettez hors de portée de la capacité d'allonge d'une créature pendant votre déplacement, vous provoquez une attaque d'opportunité, ainsi qu'expliqué plus loin dans ce chapitre.
 
 ### Déplacement en vol
-Les créatures volantes bénéficient d'une grande mobilité. En revanche elles doivent également composer avec le risque de tomber. Si une créature volante est jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre), voit sa vitesse réduite à 0 ou se retrouve d'une manière ou d'une autre dans l'incapacité de bouger, elle chute, à moins d'être en mesure de faire du vol stationnaire ou d'être maintenue dans les airs par magie grâce au sort [_vol_](/grimoire/vol/), par exemple.
+Les créatures volantes bénéficient d'une grande mobilité. En revanche elles doivent également composer avec le risque de tomber. Si une créature volante est jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre), voit sa vitesse réduite à 0 ou se retrouve d'une manière ou d'une autre dans l'incapacité de bouger, elle chute, à moins d'être en mesure de faire du vol stationnaire ou d'être maintenue dans les airs.
 
 ### Taille des créatures
 Chaque créature occupe une surface plus ou moins importante en fonction de sa taille. Le [tableau des catégories de tailles](#categories-de-tailles) qui suit indique la taille de la surface occupée et contrôlée en combat par une créature d'une taille donnée. Les objets utilisent parfois les mêmes catégories de taille.
@@ -165,7 +163,7 @@ Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à 
 Quand vous choisissez l'action _chercher_, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
 
 ### Esquiver
-Quand vous choisissez l'action [_esquiver_](/combattre/#esquiver), votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout [jet d'attaque](/combattre/#jets-d-attaque) qui vous prend pour cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous pouvez voir l'attaquant, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tout [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Vous perdez les bénéfices de cette action si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou si votre vitesse est réduite à 0.
+Quand vous choisissez l'action [_esquiver_](/combattre/#esquiver), votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout [jet d'attaque](/combattre/#jets-d-attaque) qui vous prend pour cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous pouvez voir l'attaquant, et vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tout [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Vous perdez les bénéfices de cette action si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou si votre vitesse est réduite à 0. Il ne faut pas confondre l’action esquiver et la réaction défensive esquiver. Les deux modes peuvent être utilisés simultanément dans le même tour.
 
 ### Lancer un sort
 Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux monstres, ont accès à des sorts qu'ils peuvent utiliser avec une redoutable efficacité en combat. À chaque sort correspond un temps d'incantation : le descriptif du sort indique si le lancement du sort nécessite d'utiliser une action ou une réaction, ou doit être préparé pendant plusieurs minutes ou heures. _Lancer un sort_ n'est donc pas nécessairement une action. La plupart des sorts ont un temps d'incantation d'une action, un lanceur de sort utilisera à ce moment une action de combat pour lancer un tel sort.
@@ -184,7 +182,7 @@ Tout effet qui a une incidence positive ou négative sur votre vitesse a le mêm
 ### Se tenir prêt
 Il peut vous arriver de vouloir surprendre un ennemi ou attendre une configuration particulière avant d'agir. Pour cela, vous devez choisir l'action _se tenir prêt_ pendant votre tour. Cette action vous permet d'utiliser votre réaction avant le début de votre prochain tour.
 
-Vous devez d'abord décider quelle situation particulière va déclencher votre réaction, puis choisir la façon dont vous réagirez à ce stimulus. Par exemple : « _Si le cultiste marche sur cette trappe, je déclenche le levier qui permet de l'ouvrir._ » Ou : « _Si le gobelin s'approche, je m'éloigne_ ».
+Vous devez d'abord décider quelle situation particulière va déclencher votre réaction, puis choisir la façon dont vous réagirez à ce stimulus. Par exemple : « _Si le cultiste marche sur cette trappe, je déclenche le levier qui permet de l'ouvrir._ » Ou : « _Si le pillard s'approche, je m'éloigne_ ».
 
 Quand l'événement déclencheur se produit, vous pouvez choisir entre réagir immédiatement après que l'événement s'est produit ou l'ignorer. Gardez en mémoire que vous ne pouvez réagir qu'une fois par round.
 
@@ -199,7 +197,7 @@ Dans _**Héros & Dragons**_, la seule limite au jeu est votre imagination. Les p
 ## Porter une attaque
 Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distance ou que vous fassiez un [jet d'attaque](/combattre/#jets-d-attaque) dans le cadre d'un sort, cette attaque se décompose ainsi :
 
-**1. Choisir une cible**. Choisissez une cible qui se trouve à distance d'attaque : une créature, un objet ou un lieu.
+**1. Choisir une cible**. Choisissez une cible qui se trouve à distance d'attaque : un adversaire, un objet ou un lieu.
 
 **2. Déterminer les modificateurs**. Le MJ détermine si la cible est à l'abri et si vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) par rapport à elle. Les sorts, capacités spéciales et autres effets peuvent permettre d'appliquer des bonus ou des malus à votre [jet d'attaque](/combattre/#jets-d-attaque).
 
@@ -208,10 +206,10 @@ Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distan
 Si vous vous demandez si une action que vous êtes en train de faire peut être considérée comme une attaque, rappelez-vous une règle simple : si vous faites un [jet d'attaque](/combattre/#jets-d-attaque), c'est que vous être en train de faire une attaque.
 
 ### Jets d'attaque
-Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un d20 et ajoutez les modificateurs appropriés. Si le total du dé et des modificateurs est supérieur ou égal à la classe d'armure (CA) de votre cible, votre attaque est réussie. La CA d'un personnage est déterminée au moment de sa création, tandis que la CA d'un monstre est indiquée dans ses statistiques.
+Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un 3d6 et ajoutez les modificateurs appropriés. Si le total du dé et des modificateurs est supérieur ou égal à la **Valeur de défense (VD)** de votre cible, votre attaque est réussie. La VD d'un personnage est déterminée au moment de sa création, tandis que la VD d'un adversaire est indiquée dans ses statistiques.
 
 #### Modificateurs du jet
-Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un monstre porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.
+Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un adversaire porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.
 
 **Modificateur de caractéristique**. Le modificateur de caractéristique utilisé pour une attaque avec une arme de corps-à-corps est la Force. Pour une attaque avec une arme à distance, il s'agit de la Dextérité. Cette règle ne s'applique pas aux armes qui possèdent la propriété finesse ou lancer.
 
@@ -219,12 +217,9 @@ Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer c
 
 **Bonus de maîtrise**. Quand vous faites une attaque en utilisant une arme que vous maîtrisez, vous ajoutez votre bonus de maîtrise à votre [jet d'attaque](/combattre/#jets-d-attaque). Il en va de même pour les sorts.
 
-#### Faire 1 ou 20
-Parfois, le destin se montre particulièrement cruel ou clément envers un combattant. Et donc, un novice va parfois réussir une attaque très improbable et le vétéran confirmé va rater un coup tout fait.
-
-Si le d20 lancé pour un [jet d'attaque](/combattre/#jets-d-attaque) donne un résultat de 20, l'attaque réussit automatiquement, peu importent les modificateurs ou la CA de la cible. Il s'agit d'un [coup critique](#coups-critiques), expliqué plus loin dans ce chapitre.
-
-Si le d20 lancé pour un [jet d'attaque](/combattre/#jets-d-attaque) donne un résultat de 1, l'attaque échoue automatiquement, peu importent les modificateurs ou la CA de la cible.
+### Valeur de Défense
+La Valeur de Défense (VD) est égale à :  
+**10 + (Bonus de Dextérité + Bonus de Sagesse)/2 + Bonus (d’armure et bouclier).**
 
 ### Attaquants et cibles invisibles
 Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'[_invisibilité_](/grimoire/invisibilite/) ou en se fondant dans les ténèbres.
@@ -258,12 +253,22 @@ Au cœur d'un combat, chacun reste à l'affût d'une chance de frapper un ennemi
 
 Vous pouvez porter une attaque d'opportunité quand une créature hostile qui se trouve dans votre champ de vision se déplace hors de portée de votre allonge. Pour porter cette attaque d'opportunité, vous utilisez votre réaction pour porter une attaque de corps-à-corps à cette créature. L'attaque intervient juste avant que celle-ci ne se mette hors de votre portée.
 
-Vous pouvez éviter de provoquer une attaque d'opportunité en utilisant l'action [_se désengager_](/combattre/#se-desengager). Vous n'en provoquez pas non plus si vous vous téléportez ou si quelqu'un ou quelque chose vous fait vous déplacer sans que vous utilisiez votre déplacement, une action ou une réaction. Par exemple, si une explosion vous projette hors de portée d'un ennemi ou si la gravité vous fait chuter à côté d'un ennemi, ces déplacements ne provoquent pas d'attaque d'opportunité de sa part.
+Vous pouvez éviter de provoquer une attaque d'opportunité en utilisant l'action [_se désengager_](/combattre/#se-desengager). Vous n'en provoquez pas non plus si quelqu'un ou quelque chose vous fait vous déplacer sans que vous utilisiez votre déplacement, une action ou une réaction. Par exemple, si une explosion vous projette hors de portée d'un ennemi ou si la gravité vous fait chuter à côté d'un ennemi, ces déplacements ne provoquent pas d'attaque d'opportunité de sa part.
 
 #### Combat à deux armes
-Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une arme de corps-à-corps légère que vous tenez dans une main, vous pouvez utiliser une action bonus pour attaquer avec une autre arme légère de corps-à-corps que vous tenez dans votre autre main. Vous n'ajoutez pas votre modificateur de caractéristique aux dégâts de cette attaque bonus, sauf si ce modificateur est négatif.
+Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une arme de corps-à-corps légère que vous tenez dans une main, vous pouvez utiliser une action bonus pour attaquer avec une autre arme légère de corps-à-corps que vous tenez dans votre autre main. Vous n'ajoutez pas votre modificateur de caractéristique à cette attaque bonus, sauf si ce modificateur est négatif.
 
 Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez la lancer au lieu de l'utiliser pour faire une attaque de corps-à-corps.
+
+### Réaction défensive
+Durant un combat, un personnage à l’opportunité de porter des attaques mais les jets de dés correspondent à celles qui sont censées porter et blesser. Quelqu’un qui subit des attaques peut tenter de s’en soustraire en bloquant ou en esquivant et cela sous forme de réactions (actions gratuites en réponse), pour les différencier des réactions habituelles, elles sont appelées [_réactions défensives_](/combattre/#reaction-defensive). Pour cela, il faut évidemment être conscient de subir une agression. On peut réaliser une réaction défensives par tranche de 5 points de dextérité soit au commencement 2 en général puis 3 à 15 et 4 à 20. Il est possible de faire une seule tentative par attaque. On ne peut pas par exemple tenter de bloquer et si le test est raté tenter d’esquiver. Une attaque subie entraîne au maximum une seule réaction.  
+#### Réaction blocage
+Le blocage est une [_réaction défensive_](/combattre/#reaction-defensive) désespérées pour éviter un coup. Peu importe la valeur de dextérité par rapport à l’adversaire (contrairement à l’esquive plus bas). Il s’agit d’une parade mais il n’est pas possible de tout parer. Par logique, une attaque à main nue peut être parée à main nue. Si elle est parée avec une arme, les dégâts de base de l’arme s’applique immédiatement.
+Une attaque avec une arme à une main peut être bloquée par une autre arme à une main, une arme à deux mains ou un bouclier.  
+Une attaque avec une arme à deux mains peut être bloquée avec une autre arme à deux mains ou un bouclier.  
+Une attaque par arme naturelle (morsure, griffe) peut être bloquée à main nue pour une même catégorie de taille ou inférieure, avec une arme à une main ou à deux main (les dégâts de l’arme s’appliquent immédiatement), pour une même catégorie de taille ou une supérieure, avec un bouclier pour toute catégorie de taille jusqu’à TG (Très Grande). Les créature grandes (G) bousculent et font reculer celui qui se protège derrière son bouclier. Les créatures très grandes (TG) font tomber le défenseur qui devient à terre.  
+#### Réaction esquive
+L’esquive est une [_réaction défensive_](/combattre/#reaction-defensive). L’esquive sous forme d’action est décrite plus haut à la section [_esquiver_](/combattre/#esquiver). L’esquive est la meilleure solution dans un combat mais elle nécessite une grande dextérité de la part de celui qui l’utilise car l’attaque doit être anticipée. Une esquive est utilisable si et seulement si la valeur de dextérité du défenseur est supérieure à la dextérité de l’attaquant.  
 
 ### Opposition en combat
 Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
@@ -277,7 +282,7 @@ La cible de votre empoignade ne doit pas faire plus d'une taille de plus que vou
 
 **Déplacer une créature empoignée**. Quand vous vous déplacez, vous pouvez traîner ou porter la créature que vous avez empoignée, mais votre vitesse est divisée par deux, sauf si la créature fait au moins deux tailles de moins que vous.
 
-#### Bousculer une créature
+#### Bousculer un adversaire
 Vous pouvez utiliser l'action [_attaquer_](/combattre/#attaquer) pour porter une attaque de corps-à-corps spéciale consistant à bousculer une créature, soit pour la faire tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre), soit pour la repousser loin de vous. Si vous pouvez accomplir plusieurs attaques pendant votre action attaquer, cette attaque spéciale remplace l'une d'entre elles.
 
 La cible ne doit pas faire plus d'une taille de plus que vous et doit se trouver à portée de votre allonge. Au lieu de faire un [jet d'attaque](/combattre/#jets-d-attaque), vous faites un test de Force (Athlétisme) opposé à un test de Force (Athlétisme) ou à un test de Dextérité (Acrobaties) de la cible (celle-ci choisit la caractéristique qu'elle préfère utiliser). Si vous remportez la confrontation, vous avez le choix entre faire tomber votre cible [_à terre_](/gerer-la-sante-du-personnage/#a-terre) ou la repousser d'1,50 mètre loin de vous.
@@ -287,26 +292,23 @@ Les murs, les arbres, les créatures, et d'autres obstacles constituent pendant 
 
 Il existe plusieurs types d'abris. Si une cible se positionne derrière plusieurs abris, ces derniers ne s'additionnent pas. Seule le meilleur abri, le plus couvrant, est pris en compte. Par exemple, si une cible se trouve derrière une créature qui lui offre un abri partiel et un tronc d'arbre qui lui offre un abri important, on considère que la cible est protégée par un abri important.
 
-Une cible qui bénéficie d'un **abri partiel** applique un bonus de +2 à sa CA et à ses jets de sauvegarde de Dextérité. Une cible bénéficie d'un abri partiel si un obstacle protège au moins la moitié de son corps. L'obstacle en question peut être un muret, un grand meuble, un tronc d'arbre étroit ou une créature, que celle-ci soit amie ou ennemie.
+Une cible qui bénéficie d'un **abri partiel** applique un bonus de +2 à sa VD et à ses jets de sauvegarde de Dextérité. Une cible bénéficie d'un abri partiel si un obstacle protège au moins la moitié de son corps. L'obstacle en question peut être un muret, un grand meuble, un tronc d'arbre étroit ou une créature, que celle-ci soit amie ou ennemie.
 
-Une cible qui bénéficie d'un **abri important** applique un bonus de +5 à sa CA et à ses jets de sauvegarde de Dextérité. Une cible bénéficie d'un abri important si un obstacle protège au moins les trois quarts de son corps. L'obstacle en question peut être une herse, une meurtrière ou un épais tronc d'arbre.
+Une cible qui bénéficie d'un **abri important** applique un bonus de +5 à sa VD et à ses jets de sauvegarde de Dextérité. Une cible bénéficie d'un abri important si un obstacle protège au moins les trois quarts de son corps. L'obstacle en question peut être une herse, une meurtrière ou un épais tronc d'arbre.
 
 Une cible qui bénéficie d'un **abri total** ne peut pas être ciblée directement par des attaques ou des sorts. Cela dit, elle peut être affectée par certains sorts qui ont une zone d'effet. Une cible bénéficie d'un abri total si elle est complètement dissimulée par un obstacle.
 
 ## Dégâts
-Lorsqu'une attaque est réussie, la créature ciblée subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
+Lorsqu'une attaque est réussie, l'adversaire ciblé subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
 
-### Jets de dégâts
-Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante. Quand vous lancez un ou plusieurs dés de dégâts, vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.
-
-Quand vous utilisez une **arme** pour attaquer, vous ajoutez votre modificateur de caractéristique (le même modificateur que vous avez utilisé pour votre jet d'attaque) aux dégâts. Le descriptif d'un **sort** vous indique quel dé lancer pour calculer les dégâts et si vous devez y ajouter ou non un modificateur.
-
-Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, quand un magicien lance une [_boule de feu_](/grimoire/boule-de-feu/) ou qu'un clerc lance [_colonne de flamme_](/grimoire/colonne-de-flamme/), les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.
+### Jets de dégâts ou dégâts fixes
+Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante. Les dégâts causés par une arme sont égaux aux dégâts de l’arme auxquels s’ajoute la marge du jet de toucher, c’est à dire le résultat du jet d’attaque moins la VD, ce qui correspond à la puissance de l’attaque et qui prend en compte ainsi le bonus de caractéristique.
+Certains sorts, ou dégâts liés à des chutes ou des expositions à des substances dangereuses infligent des dés de dégât que vous devez lancez (un ou plusieurs d6), vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. La règle explosive s’applique ici aussi. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.  
+Le descriptif d'un sort vous indique quel dé lancer pour calculer les dégâts et si vous devez y ajouter ou non un modificateur.  
+Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.  
 
 #### Coups critiques
-Si vous réussissez un coup critique contre une cible, vous pouvez lancer des dés de dégâts supplémentaires. Lancez l'ensemble des dés de dégâts deux fois et additionnez-les, puis ajoutez à ce total les modificateurs. Pour simplifier les choses, vous pouvez lancer tous les dés de dégâts à la fois.
-
-Par exemple, si vous réussissez un coup critique avec une dague, vous devez lancer 2d4 de dégâts au lieu de 1d4 puis ajouter le modificateur de caractéristique approprié. Si vous devez lancer des dés de dégâts supplémentaires, comme c'est le cas avec l'aptitude attaque sournoise du roublard, il faut aussi lancer ces dés deux fois.
+Un coup critique est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit plus que le montant la valeur de sa constitution en un seul coup ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action.
 
 #### Types de dégâts
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.
@@ -348,11 +350,11 @@ La résistance puis la vulnérabilité sont appliqués après tous les autres mo
 
 Si une créature ou un objet possède plusieurs fois une résistance ou une vulnérabilité à un même type de dégât, cette spécificité n'est prise en compte qu'une seule fois. Par exemple, si une créature possède une résistance aux dégâts de feu ainsi qu'une résistance à tous les dégâts non-magiques, les dégâts qu'elle subit d'un feu non-magique sont réduits de moitié et non de trois quarts.
 
-### Assommer une créature
-Parfois, un attaquant souhaite neutraliser un ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point de vie suite à une attaque de corps-à-corps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. La créature est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) et est considérée comme stabilisée.
+### Assommer un adversaire
+Parfois, un attaquant souhaite neutraliser un ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point d'action suite à une attaque de corps-à-corps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. L'adversaire est [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) s'il échoue un JS de CON(stitution) DD 16 et est considérée comme stabilisée.
 
 ## Combat monté
-Un chevalier qui charge en plein cœur de la bataille sur son cheval de guerre, un magicien qui lance des sorts monté sur un griffon ou un clerc qui traverse le ciel à dos de pégase, tous ces héros bénéficient de la vitesse et de la mobilité de leur monture.
+Une personne qui charge en plein cœur de la bataille sur son cheval de guerre bénéficie de la vitesse et de la mobilité de leur monture.
 
 Une créature consentante qui fait au minimum une taille de plus qu'un personnage et qui a une anatomie appropriée peut être utilisée comme monture en suivant les règles suivantes.
 
@@ -364,7 +366,7 @@ Si un effet a pour conséquence de faire se déplacer votre monture contre sa vo
 Si votre monture est jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre), vous pouvez utiliser votre réaction pour en descendre et retomber sur vos pieds pendant qu'elle chute. Sinon, vous démontez de votre monture et tombez [_à terre_](/gerer-la-sante-du-personnage/#a-terre) dans un rayon de 1,50 mètre autour de votre monture.
 
 ### Contrôler sa monture
-Tant que vous êtes sur le dos de votre monture, vous avez deux options : soit vous pouvez contrôler vous-même votre monture, soit vous la laissez agir à sa guise. Les créatures intelligentes, comme les dragons, restent toujours libres de leurs actions.
+Tant que vous êtes sur le dos de votre monture, vous avez deux options : soit vous pouvez contrôler vous-même votre monture, soit vous la laissez agir à sa guise. Les créatures intelligentes, comme certaines montures, restent toujours libres de leurs actions.
 
 Vous ne pouvez contrôler une monture que si elle a été entraînée à accepter un cavalier. On considère que les chevaux domestiqués, les ânes et les créatures similaires ont déjà été dressés quand votre personnage les monte. L'initiative d'une monture que vous contrôlez se calque sur la vôtre, à partir du moment où vous montez sur son dos. Elle se déplace en fonction de vos indications et a le choix entre trois actions possibles en combat : [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) et [_esquiver_](/combattre/#esquiver). Une monture contrôlée peut bouger et agir même durant le tour où vous montez dessus.
 
@@ -373,7 +375,7 @@ Une monture indépendante conserve une place propre dans l'ordre d'initiative. L
 Dans tous les cas, si votre monture provoque une attaque d'opportunité pendant que vous êtes sur son dos, l'attaquant peut choisir de vous cibler ou de cibler votre monture.
 
 ## Combat sous-marin
-Quand les aventuriers poursuivent des sahuagins jusqu'à leur repaire sous-marin, affrontent des requins au cœur d'une épave antique ou se trouvent dans une salle de donjon inondée, ils sont contraints de se battre dans un environnement difficile. Sous l'eau, les règles suivantes s'appliquent.
+Quand les aventuriers affrontent des requins au cœur d'une épave antique ou se trouvent dans une salle de donjon inondée, ils sont contraints de se battre dans un environnement difficile. Sous l'eau, les règles suivantes s'appliquent.
 
 Quand elle porte une **attaque de corps-à-corps**, une créature qui n'a pas de vitesse de nage (qu'elle soit d'origine naturelle ou magique) subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur son [jet d'attaque](/combattre/#jets-d-attaque), sauf si elle utilise une dague, une javeline, une épée courte, une lance ou un trident.
 

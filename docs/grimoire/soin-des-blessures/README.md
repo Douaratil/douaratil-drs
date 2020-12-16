@@ -1,6 +1,6 @@
 ---
 title: "Soin des blessures"
-description: "Rend 1d8 + modificateur points de vie."
+description: "Rend 1d8 + modificateur points d'action."
 school: "Évocation"
 level: 1
 concentration: false
@@ -22,6 +22,6 @@ classes:
 
 source: "Manuel des règles"
 ---
-La créature que vous touchez récupère un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
+La créature que vous touchez récupère un nombre de points d'action égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, les soins augmentent de 1d8 par niveau au-delà du niveau 1.
