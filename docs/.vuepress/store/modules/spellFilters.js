@@ -8,15 +8,8 @@ export default {
     mustBeConcentration: undefined,
     mustBeRitual: undefined,
     classes: [
-      { label: "Barde", value: false },
-      { label: "Clerc", value: false },
-      { label: "Druide", value: false },
-      { label: "Ensorceleur/Sorcelame", value: false },
-      { label: "Magicien", value: false },
-      { label: "Ombrelame", value: false },
-      { label: "Paladin", value: false },
-      { label: "Rôdeur", value: false },
-      { label: "Sorcier", value: false },
+      { label: "Voie de la Foi", value: false },
+      { label: "Voie de la Magie", value: false },
     ],
     levels: [
       { level: 0, value: false },
@@ -25,10 +18,6 @@ export default {
       { level: 3, value: false },
       { level: 4, value: false },
       { level: 5, value: false },
-      { level: 6, value: false },
-      { level: 7, value: false },
-      { level: 8, value: false },
-      { level: 9, value: false },
     ],
     schools: [
       { label: "Abjuration", value: false },
@@ -150,15 +139,8 @@ export default {
     },
     resetClasses: (state) => {
       state.classes = [
-        { label: "Barde", value: false },
-        { label: "Clerc", value: false },
-        { label: "Druide", value: false },
-        { label: "Ensorceleur/Sorcelame", value: false },
-        { label: "Magicien", value: false },
-        { label: "Ombrelame", value: false },
-        { label: "Paladin", value: false },
-        { label: "Rôdeur", value: false },
-        { label: "Sorcier", value: false },
+        { label: "Voie de la Foi", value: false },
+        { label: "Voie de la Magie", value: false },
       ]
     },
     setLevels: (state, payload) => {
@@ -176,16 +158,13 @@ export default {
     },
     resetLevels: (state) => {
       state.levels = [
-        { level: 0, value: false },
-        { level: 1, value: false },
-        { level: 2, value: false },
-        { level: 3, value: false },
-        { level: 4, value: false },
-        { level: 5, value: false },
-        { level: 6, value: false },
-        { level: 7, value: false },
-        { level: 8, value: false },
-        { level: 9, value: false },
+        levels: [
+          { level: 0, value: false },
+          { level: 1, value: false },
+          { level: 2, value: false },
+          { level: 3, value: false },
+          { level: 4, value: false },
+          { level: 5, value: false },
       ]
     },
     setSchools: (state, payload) => {

@@ -1,11 +1,4 @@
 export const CLASSES = [
-  "Barde",
-  "Clerc",
-  "Druide",
-  "Ensorceleur/Sorcelame",
-  "Magicien",
-  "Ombrelame",
-  "Paladin",
-  "Rôdeur",
-  "Sorcier",
+  "Voie de la Foi",
+  "Voie de la Magie",
 ]

@@ -3,36 +3,59 @@ title: "Lancer des sorts"
 ---
 # Lancer des sorts
 ## Niveau de sort
-Tout sort s'accompagne d'un niveau, allant de 0 à 9. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) [_projectile magique_](/grimoire/projectile-magique/) est de niveau 1 tandis que le [_souhait_](/grimoire/souhait/), capable de chambouler le monde, est de niveau 9. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer à volonté) sont de niveau 0. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
+Tout sort s'accompagne d'un niveau, allant de Novice à Maître. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) [_projectile magique_](/grimoire/projectile-magique/) est de niveau Novice tandis que le [_souhait_](/grimoire/souhait/), capable de chambouler le monde, est de niveau Maître. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer pour un coût réduit) sont de niveau Novice aussi. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
 
-Les niveaux du sort ne correspondent pas directement au niveau du personnage : bien souvent, un personnage doit avoir atteint le niveau 17 et non le niveau 9 pour lancer un sort de niveau 9.
+Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.
+**A partir du niveau 3**, lors du choix de l’archétype, le personnage obtient la capacité de lancer des sorts de **novice** sous réserve de posséder 12 dans la caractéristique de lancement de sort.  
+**A partir du niveau 5**, il obtient la capacité de lancer des sorts de **disciple** sous réserve de posséder 14 dans la caractéristique de lancement de sort.  
+**A partir du niveau 9**, il obtient la capacité de lancer des sorts d’**apprenti** sous réserve de posséder 16 dans la caractéristique de lancement de sort.  
+**A partir du niveau 13**, il obtient la capacité de lancer des sorts d’**adepte** sous réserve de posséder 17 dans la caractéristique de lancement de sort.  
+**A partir du niveau 15**, il obtient la capacité de lancer des sorts d’**expert** sous réserve de posséder 18 dans la caractéristique de lancement de sort.  
+**A partir du niveau 17**, il obtient la capacité de lancer des sorts de **maître** sous réserve de posséder 20 dans la caractéristique de lancement de sort.  
+Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leur bonus d’incantation**. ***D’autre part le DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise****.
 
-## Les sorts connus et les sorts préparés
-Avant de pouvoir incanter, le lanceur de sorts doit avoir fermement ancré le sort dans son esprit ou l'utiliser via un objet magique qui l'autorise. Les membres de quelques classes, comme les bardes et les ensorceleurs, connaissent une liste de sorts limitée mais les gardent toujours en tête. Il en va de même pour les monstres capables de recourir à la magie. Les autres lanceurs de sorts, comme les clerc et les magiciens, sont obligés de préparer leurs sorts. Ce processus se déroule différemment en fonction de leur classe, comme expliqué dans la description de chacune.
+### Coût des Sorts
+Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coûts varient selon les niveaux de sorts.
 
-Dans tous les cas, le nombre de sorts qu'un personnage peut garder à l'esprit à un moment donné dépend de son niveau.
+§§§ .table-container
+|Type|Coût en PM ou PF|
+|:-:|:-:|
+|Novice|1 à 4|
+|Disciple|6 à 8|
+|Apprenti|10 à 12|
+|Adepte|14|
+|Expert|16|
+|Maître|18|
+§§§
 
-## Emplacements de sorts
-Quel que soit le nombre de sorts que le lanceur de sorts connaît ou qu'il a préparé, il ne peut en lancer qu'un nombre limité avant d'être contraint de se reposer. La manipulation du tissu magique et la canalisation de son énergie, même dans un sort simple, est un processus fatiguant aussi bien sur le plan mental que physique, et plus le niveau du sort est élevé, plus il est épuisant à lancer. C'est pourquoi la description de chaque classe de lanceur de sorts –  à l'exception du sorcier  – comprend une table indiquant le nombre de sorts de chaque niveau que le personnage est capable de lancer. Par exemple, Umare la magicienne de niveau 3 dispose de quatre emplacements de sorts de niveau 1 et de deux emplacements de sort de niveau 2.
+### Lancer un sort en surcharge
+Quand un lanceur de sorts utilise de point que celui nécessaire pour le sort, ce dernier adopte une puissance supérieure lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique/) en dépensant un emplacement de niveau Disciple, ce [_projectile magique_](/grimoire/projectile-magique/) devient un sort de Disciple. En pratique, le sort se « _dilate_ » en se surchargeant de l'énergie investie.
 
-Quand un personnage lance un sort, il dépense un emplacement du même niveau que le sort ou d'un niveau supérieur, « _remplissant_ » l'emplacement avec le sort. Vous pouvez considérer l'emplacement de sort comme une cavité : petite pour un sort de niveau 1, plus grande pour un sort de niveau supérieur. Un sort de niveau 1 tient dans tous les emplacements de sort tandis qu'un sort de niveau 9 rentre seulement dans un emplacement de niveau 9. Ainsi, quand Umare lance le sort de niveau 1 [_projectile magique_](/grimoire/projectile-magique/), elle dépense l'un de ses quatre emplacements de niveau 1. Il lui en reste donc trois.
-
-Un repos long restaure tous les emplacements de sort dépensés.
-
-Certains monstres et personnages disposent de pouvoirs spéciaux qui leur permettent de lancer des sorts sans utiliser d'emplacement. C'est le cas d'un sorcier qui opte pour certaines invocations occultes et d'un diantrefosse des neuf enfers, par exemple.
-
-### Lancer un sort via un emplacement de niveau supérieur
-Quand un lanceur de sorts utilise un emplacement d'un niveau supérieur à celui du sort, ce dernier adopte le niveau de l'emplacement lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique/) en dépensant un emplacement de niveau 2, ce [_projectile magique_](/grimoire/projectile-magique/) devient un sort de niveau 2. En pratique, le sort se « _dilate_ » pour occuper tout l'emplacement disponible.
-
-Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [_soin des blessures_](/grimoire/soin-des-blessures/), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description.
+Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [_soin des blessures_](/grimoire/soin-des-blessures/), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description. Le cout en points de Magie ou de Foi est toujours le maximum du niveau soit +8 PM pour un sort de [_projectile magique_](/grimoire/projectile-magique/) lancé au niveau Disciple pour un total de 10 PM (2 PM+8 PM).
 
 ## Les tours de magie
 Un tour de magie est un sort que l'on peut lancer à volonté, sans le préparer à l'avance ni dépenser d'emplacement de sort. Des exercices répétés ont fini par fixer le sort dans l'esprit du lanceur de sorts et l'ont imprégné de la magie nécessaire pour générer ses effets, encore et encore. Un tour de magie est un sort de niveau 0.
 
 ## Les rituels
-Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. Cette version du sort demande 10 minutes de plus et n'utilise pas d'emplacement de sort. Cela signifie qu'elle ne peut être lancée à plus haut niveau.
+Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. **Cette version du sort demande 10 minutes de plus et utilise la moitié du pouvoir normalement requis. Le sort ne peut être lancée à plus haut niveau.**
 
-Pour lancer un sort sous forme de rituel, le lanceur de sorts doit disposer d'un pouvoir qui lui permet de le faire. C'est par exemple le cas des clercs et des druides. Il doit aussi avoir préparé le sort ou l'avoir dans sa liste de sorts connus, à moins que son pouvoir de rituel ne précise le contraire, comme chez le magicien.
+## Enchantement des composantes matérielles.
+Certains sorts font appel à des composantes matérielles qui sont réutilisées à chaque lancement de sort. Ces composantes doivent être enchantées pour permettre au sort d'agir. Le processus d'enchantement est plus long et plus difficile qu'un simple [lancer de sort](/lancer-des-sorts/lancer-un-sort).Cela demande un investissement en temps et en pouvoir plus important qui nécessite un nombre de test (la plus part du temps d'Arcanes, de Religion ou de Nature) dépendant du niveau du sort.  
+La règle commune permet de se référer au tableau ci-dessous. Le coût par test dépend du coût du sort.
+
+§§§ .table-container
+|Niveau|Coût par test PM ou PF|Temps minimum par test|Nombre de test|Difficulté du test|
+|:-:|:-:|:-:|:-:|:-:|
+|Novice|1 à 4|10 minutes|1|8|
+|Disciple|6 à 8|30 minutes|2|12|
+|Apprenti|10 à 12|1 heure|3|16|
+|Adepte|14|2 heures|4|22|
+|Expert|16|6 heures|5|28|
+|Maître|18|12 heures|6|35|
+§§§
+
+Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF). Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
+
 
 ## Lancer un sort
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.

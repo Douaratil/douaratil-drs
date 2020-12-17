@@ -212,56 +212,19 @@ Avec ce tableau vous allez déterminer quels objets insolites, rares et de faibl
 
 |4d6|Objet|
 |:-:|:-|
-|**1-2**|Acide, 1d4 fioles|
-|**3-4**|Antitoxine, 1d4 fioles|
-|**5-6**|Arbalète de poing|
-|**7-8**|Arc court|
-|**9-10**|Arc long|
-|**11-12**|Armure de cuir clouté|
-|**13-14**|Bouclier en osier|
-|**15-16**|Broigne|
-|**17-18**|Cadenas|
-|**19-20**|Carquois avec 3d6 carreaux|
-|**21-22**|Carquois avec 3d6 flèches|
-|**23-24**|Chausse-trappes|
-|**25-26**|Chemise de mailles en argent|
-|**27-28**|Cimeterre damasquiné|
-|**29-30**|Corde en soie, 15 mètres|
-|**31-32**|Dague en argent|
-|**33-34**|Dague en fer|
-|**35-36**|Eau bénite, 1d4 fioles|
-|**37-38**|Épée longue|
-|**39-40**|Étui à parchemins|
-|**41-42**|Feu grégeois, 1d4 fioles|
-|**43-44**|Feuilles de parchemin vierge, 1d6|
-|**45-46**|Flûte de pan|
-|**47-48**|Focalisateur arcanique|
-|**49-50**|Focalisateur druidique|
-|**51-52**|Gants en cuir|
-|**53-54**|Grimoire contenant 1d4 sorts de niveau 1|
-|**55-56**|Grimoire vierge|
-|**57-58**|Heaume pour un personnage de taille P|
-|**59-60**|Longue-vue|
-|**61-62**|Loupe|
-|**63-64**|Lyre|
-|**65-66**|Matériel d'alchimiste|
-|**67-68**|Matériel d'empoisonneur|
-|**69-70**|Matériel d'herboriste|
-|**71-72**|Morgenstern en métal noir|
-|**73-74**|Outils de voleur|
-|**75-76**|Petit miroir|
-|**77-78**|Poison, 1d4 fioles|
-|**79-80**|Potion de soins|
-|**81-82**|Rapière|
-|**83-84**|Robe de bure|
-|**85-86**|Sablier|
-|**87-88**|Sac à dos vide|
-|**89-90**|Sarbacane|
-|**91-92**|Selle d'équitation|
-|**93-94**|Serpe en argent|
-|**95-96**|Symbole sacré|
-|**97-98**|Trident gravé du symbole d'un dieu|
-|**99-100**|Trousse de soins|
+|**1-2**|objets standarts|
+|**3-4**|instruments de musique|
+|**5-6**|outils|
+|**7-8**|Armes courantes à distance|
+|**9-10**|Arme de guerre à distance|
+|**11-12**|Armure|
+|**13-14**|Bouclier|
+|**15-16**|Armes courantes|
+|**17-18**|Armes de guerre|
+|**19-23**|Marchandises|
+|**24**|lancer sur la table d'objets magique OM1|
+
+
 
 
 ### Table C – Trésor , gemmes et objets d'art
@@ -329,34 +292,34 @@ Ce tableau vous permet de mesurer la taille du trésor accumulé par un groupe d
     <tr>
       <td class="has-text-centered"><strong>7-9</strong>
       </td><td class="has-text-centered">2d6 (7) gemmes à 10 po</td>
-      </td><td class="has-text-centered">1d4 (2) objets à 25 po</td>
+      </td><td class="has-text-centered">1d6 (3) objets à 25 po</td>
       </td><td class="has-text-centered">3d6 (10) gemmes à 50 po</td>
       </td><td class="has-text-centered">1 objet à 2500 po</td>
       </td><td class="has-text-centered">3d6 (10) gemmes à 1000 po</td>
     </tr>
     <tr>
       <td class="has-text-centered"><strong>10-13</strong>
-      </td><td class="has-text-centered">1d4 (2) objets à 25 po</td>
+      </td><td class="has-text-centered">1d6 (3) objets à 25 po</td>
       </td><td class="has-text-centered">1d6 (3) gemmes à 100 po</td>
-      </td><td class="has-text-centered">1d4 (2) objets à 750 po</td>
+      </td><td class="has-text-centered">1d6 (3) objets à 750 po</td>
       </td><td class="has-text-centered">2d6 (7) gemmes à 1000 po</td>
-      </td><td class="has-text-centered">1d4 (2) objets à 7500 po</td>
+      </td><td class="has-text-centered">1d6 (3) objets à 7500 po</td>
     </tr>
     <tr>
       <td class="has-text-centered"><strong>14-16</strong>
       </td><td class="has-text-centered">1d6 (3) gemmes à 50 po</td>
-      </td><td class="has-text-centered">2d4 (5) gemmes à 50 po</td>
       </td><td class="has-text-centered">2d6 (7) gemmes à 50 po</td>
-      </td><td class="has-text-centered">1d4 (2) objets à 2500 po</td>
+      </td><td class="has-text-centered">2d6 (7) gemmes à 50 po</td>
+      </td><td class="has-text-centered">1d6 (3) objets à 2500 po</td>
       </td><td class="has-text-centered">1d6 (3) gemmes à 5000 po</td>
     </tr>
     <tr>
       <td class="has-text-centered"><strong>17-19</strong>
       </td><td class="has-text-centered">1 objet à 250 po</td>
       </td><td class="has-text-centered">1 objet à 750 po</td>
-      </td><td class="has-text-centered">2d4 (5) objets à 750 po</td>
+      </td><td class="has-text-centered">2d6 (7) objets à 750 po</td>
       </td><td class="has-text-centered">1 objet à 7500 po</td>
-      </td><td class="has-text-centered">2d4 (5) objets à 7500 po</td>
+      </td><td class="has-text-centered">2d6 (7) objets à 7500 po</td>
     </tr>
     <tr>
       <td class="has-text-centered"><strong>20+</strong>
@@ -364,11 +327,11 @@ Ce tableau vous permet de mesurer la taille du trésor accumulé par un groupe d
       </td><td class="has-text-centered">2d6 (7) gemmes à 100 po</td>
       </td><td class="has-text-centered">3d6 (10) gemmes à 100 po</td>
       </td><td class="has-text-centered">3d6 (10) gemmes à 1000 po</td>
-      </td><td class="has-text-centered">1d8 (4) gemmes à 5000 po</td>
+      </td><td class="has-text-centered">1d6 (3) gemmes à 5000 po</td>
     </tr>
     <tr>
       <td class="has-text-centered"><strong>Bonus</strong>
-      </td><td class="has-text-centered">5d6 × 100 (1700) pa<br>2d4 × 10 (50) po</td>
+      </td><td class="has-text-centered">5d6 × 100 (1700) pa<br>2d6 × 10 (70) po</td>
       </td><td class="has-text-centered">1d6 × 1000 (3500) pa<br>3d6 × 100 (1050) po<br>1d6 × 10 (35) pp</td>
       </td><td class="has-text-centered">2d6 × 1000 (7000) pa<br>6d6 × 100 (2100) po<br>3d6 × 10 (105) pp</td>
       </td><td class="has-text-centered">4d6 × 1000 (14000) po<br>5d6 × 100 (1750) pp</td>
