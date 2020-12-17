@@ -1,8 +1,8 @@
 {
-  "name": "heros-et-dragons-drs",
+  "name": "Douaratil DRS",
   "version": "1.0.0",
-  "description": "Document de Référence Système pour Héros & Dragons",
-  "author": "Maxime Moraine",
+  "description": "Document de Référence Système pour Douaratil",
+  "author": "Olivier H",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",
