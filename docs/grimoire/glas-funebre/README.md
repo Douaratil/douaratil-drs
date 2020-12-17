@@ -3,7 +3,6 @@ title: "Glas funèbre"
 description: "Sonner le glas"
 school: "Nécromancie"
 level: 0
-classe: "Voie de la Magie"
 concentration: false
 casting_time: "1 action"
 range: "18 mètres"
@@ -14,6 +13,8 @@ components:
   materials: "Une cloche ou une clochette"
 duration: "Instantanée"
 ritual: false
+classes:
+    - Magie
 ---
 **Enchantement** : l'enchantement préalable de la clochette est nécessaire et doit être consacré par son utilisateur. Le rituel d'enchantement nécessite une clochette, 5 po de consommable (encens, bougies), une nuit sans lune pour le commencement et une grotte.  
 

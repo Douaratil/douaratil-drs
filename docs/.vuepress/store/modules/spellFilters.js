@@ -8,8 +8,8 @@ export default {
     mustBeConcentration: undefined,
     mustBeRitual: undefined,
     classes: [
-      { label: "Voie de la Foi", value: false },
-      { label: "Voie de la Magie", value: false },
+      { label: "Foi", value: false },
+      { label: "Magie", value: false },
     ],
     levels: [
       { level: 0, value: false },
@@ -139,8 +139,8 @@ export default {
     },
     resetClasses: (state) => {
       state.classes = [
-        { label: "Voie de la Foi", value: false },
-        { label: "Voie de la Magie", value: false },
+        { label: "Foi", value: false },
+        { label: "Magie", value: false },
       ]
     },
     setLevels: (state, payload) => {
@@ -158,7 +158,6 @@ export default {
     },
     resetLevels: (state) => {
       state.levels = [
-        levels: [
           { level: 0, value: false },
           { level: 1, value: false },
           { level: 2, value: false },
