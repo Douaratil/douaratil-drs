@@ -27,7 +27,7 @@
           <v-btn class="mb-2 mt-2" small color="primary" @click="resetLevels" dark>Réinitialiser</v-btn>
           <v-switch v-for="level in levels" v-model="level.value" dense class="ma-0" @change="switchLevel" color="accent">
             <template v-slot:label>
-              <span>{{level.label}}</span>
+              <span v-html="levelDisplay(level)"></span>
             </template>
           </v-switch>
         </v-expansion-panel-content>
