@@ -76,7 +76,7 @@
       </template>
 
       <template v-slot:item.frontmatter.level="{ item }">
-        <span v-if="item.frontmatter.level == 0">Tour de magie</span>
+        <span v-if="item.frontmatter.level == 0">No</span>
         <span v-else>{{ item.frontmatter.level }}</span>
       </template>
 
@@ -335,7 +335,7 @@ export default {
 
     levelDisplay (level) {
       if (level.level == 0) {
-        return 'Tour de magie'
+        return 'Novice'
       } else if (level.level == 1) {
         return level.level.toString() + '<sup>er</sup>'
       }

@@ -124,7 +124,7 @@
 <script>
 // import { mapMutations } from 'vuex'
 import { setUrlParams, getUrlParameter, setBooleanMutation, setListMutation } from '@theme/util/filterHelpers'
-
+import {SPELLLEVELS} from '../../data/spells.js'
 export default {
   name: 'SpellFilters',
 
@@ -301,12 +301,7 @@ export default {
     },
 
     levelDisplay (level) {
-      if (level.level == 0) {
-        return 'Tour de magie'
-      } else if (level.level == 1) {
-        return level.level.toString() + '<sup>er</sup>'
-      }
-      return level.level.toString() + '<sup>ème</sup>'
+      return SPELLLEVELS[level.level].label
     },
 
     resetClasses () {

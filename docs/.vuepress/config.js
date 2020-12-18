@@ -231,7 +231,12 @@ module.exports = {
           },
           {
             title: "Les Archétypes",
-            path: '/archetypes/',
+            children: [
+          {
+              title: "Ambeanamos",
+              path: '/archetypes/ambeanamos',
+            },
+          ]
           },
           {
             title: "Equipement",

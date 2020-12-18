@@ -53,7 +53,7 @@
             </template>
 
             <template v-slot:item.frontmatter.level="{ item }">
-              <span v-if="item.frontmatter.level == 0">Tour de magie</span>
+              <span v-if="item.frontmatter.level == 0">Novice</span>
               <span v-else>{{ item.frontmatter.level }}</span>
             </template>
 
