@@ -116,7 +116,7 @@
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>
-                Discord H&D DRS
+                Discord Douaratil DRS
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>

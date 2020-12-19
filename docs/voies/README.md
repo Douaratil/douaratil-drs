@@ -197,18 +197,20 @@ Les sorts ont un coût en point de magie ou en point de foi suivant l’archéty
 Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leur bonus d’incantation**. ***D’autre part le DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise****.
 ### Apprendre des rituels de niveau supérieur
 Chaque fois que vous gagnez un niveau dans la voie de la magie, vous pouvez ajouter gratuitement deux rituels de votre choix. Vous ne pouvez cependant choisir que des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
-Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage pour une personne qui n’emprunte pas la voie de la magie est triplé)**
+Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
 
 ### Coût d'apprentissage de sorts en temps & ressources
 §§§ .table-container
-|Type|Temps|Coût|
-|:-:|:-:|:-:|
-|Novice|1 journée|50 po|  
-|Disciple|1 semaine|100 po|  
-|Apprenti|1 demi lune|300 po|  
-|Adepte|1 lune|600 po|  
-|Expert|2 lunes|1200 po|  
-|Maître|3 lunes|2400 po|  
+|Type|Temps|Coût|DA Voie de la Magie |DA Voie de l'Ombre |DA Voie des Armes |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Novice|1 journée|50 po| 8 |12|16|
+|Disciple|1 semaine|100 po|  12|16|22|
+|Apprenti|1 demi lune|300 po|  16|22|28|
+|Adepte|1 lune|600 po|  22|28|35|
+|Expert|2 lunes|1200 po|  28|35|-|
+|Maître|3 lunes|2400 po|35|-|-|
+* DA : Difficultée d'apprentissage  
+* Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
 §§§
 
 ### Restauration magique

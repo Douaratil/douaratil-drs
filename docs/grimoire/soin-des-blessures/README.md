@@ -2,7 +2,7 @@
 title: "Soin des blessures"
 description: "Rend 1d6 + modificateur points d'action."
 school: "Évocation"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "instantanée"

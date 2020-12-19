@@ -198,7 +198,7 @@ module.exports = {
     repository: 'https://github.com/douaratil/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/S6S410PB8',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
-    discord: 'https://discord.gg/mp6ECCs',
+    discord: 'https://discord.gg/2Q6jmWSVhj',
     discordHDNO: 'https://discord.gg/MntFXr',
     primaryColor: '#5B3C11', // Hero
     accentColor: '#730800', // Dragon

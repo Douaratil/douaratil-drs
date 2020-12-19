@@ -28,6 +28,24 @@ Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coû
 |Maître|18|
 §§§
 
+### Prix des sorts et investissement en temps d'apprentissage.
+§§§ .table-container
+|Type|Temps|Coût|DA Voie de la Magie |DA Voie de l'Ombre |DA Voie des Armes |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Novice|1 journée|50 po| 8 |12|16|
+|Disciple|1 semaine|100 po|  12|16|22|
+|Apprenti|1 demi lune|300 po|  16|22|28|
+|Adepte|1 lune|600 po|  22|28|35|
+|Expert|2 lunes|1200 po|  28|35|-|
+|Maître|3 lunes|2400 po|35|-|-|
+* DA : Difficultée d'apprentissage  
+* Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
+§§§
+
+
+### Utiliser des points de Magie ou des points de Foi?
+Il arrive que certains sorts soient disponibles pour la voie "magique" et la voie "spirituelle". Le sort propose alors d'utiliser des points de Magie (PM) ou de Foi (PF). Le choix est laissé au personnage en sachant que selon son archétype, il ne récupèrera pas de la même vitesse, voir la section [Repos](/gerer-la-sante-du-personnage/#repos-long).  
+
 ### Lancer un sort en surcharge
 Quand un lanceur de sorts utilise de point que celui nécessaire pour le sort, ce dernier adopte une puissance supérieure lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique/) en dépensant un emplacement de niveau Disciple, ce [_projectile magique_](/grimoire/projectile-magique/) devient un sort de Disciple. En pratique, le sort se « _dilate_ » en se surchargeant de l'énergie investie.
 
@@ -69,10 +87,10 @@ Un sort qui se lance par une action bonus est particulièrement rapide. Pour le 
 Certains sorts se lancent sous forme de réaction. Il faut juste une fraction de seconde pour les faire naître et ils se lancent en réponse à un événement. Si un sort peut se lancer ainsi, sa description précise exactement dans quelles conditions.
 
 #### Long temps d'incantation
-Certains sorts (dont les rituels) exigent une période d'incantation supérieure, allant de quelques minutes à quelques heures. Quand un sort avec un temps d'incantation supérieur à une seule action ou une réaction est lancé, il impose au lanceur de consacrer à chaque tour son action à l'incantation et, pendant tout ce temps, à maintenir sa concentration (voir [_Concentration_](#concentration), plus bas). Si elle vole en éclats, le sort échoue mais il ne perd pas l'emplacement de sort concerné. S'il veut recommencer l'incantation, il doit la reprendre à zéro.
+Certains sorts (dont les rituels) exigent une période d'incantation supérieure, allant de quelques minutes à quelques heures. Quand un sort avec un temps d'incantation supérieur à une seule action ou une réaction est lancé, il impose au lanceur de consacrer à chaque tour son action à l'incantation et, pendant tout ce temps, à maintenir sa concentration (voir [_Concentration_](#concentration), plus bas). Si elle vole en éclats, le sort échoue et il perd les points investis. S'il veut recommencer l'incantation, il doit la reprendre à zéro.
 
 ### Portée
-La cible d'un sort doit être à portée de ce sort. Pour un sort comme [_projectile magique_](/grimoire/projectile-magique/), la cible est une créature, pour un sort comme [_boule de feu_](/grimoire/boule-de-feu/), c'est le point où la boule explose.
+La cible d'un sort doit être à portée de ce sort. Pour un sort comme [_projectile magique_](/grimoire/projectile-magique/).
 
 La plupart des sorts ont une portée indiquée en mètres. Certains affectent uniquement les créatures (y compris le lanceur de sorts lui-même) avec lesquelles le lanceur établit un contact physique. D'autres, comme [_bouclier_](/grimoire/bouclier/), affectent uniquement le lanceur de sorts. Pour ceux-là, la portée est dite « _personnelle_ ».
 

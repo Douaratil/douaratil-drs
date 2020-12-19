@@ -76,8 +76,7 @@
       </template>
 
       <template v-slot:item.frontmatter.level="{ item }">
-        <span v-if="item.frontmatter.level == 0">No</span>
-        <span v-else>{{ item.frontmatter.level }}</span>
+        <span v-html="levelDisplay(item.frontmatter.level)"></span>
       </template>
 
       <template v-slot:item.frontmatter.concentration="{ item }">
@@ -120,6 +119,7 @@ import { setUrlParams, getUrlParameter } from '@theme/util/filterHelpers'
 import { isResourceInLibrary } from '@theme/util'
 import Spell from '@theme/components/Spell'
 import MySpellsButton from '@theme/global-components/MySpellsButton'
+import {SPELLLEVELS} from '../../data/spells.js'
 
 export default {
   components: { Breadcrumb, Spell, MySpellsButton },
@@ -334,12 +334,7 @@ export default {
     },
 
     levelDisplay (level) {
-      if (level.level == 0) {
-        return 'Novice'
-      } else if (level.level == 1) {
-        return level.level.toString() + '<sup>er</sup>'
-      }
-      return level.level.toString() + '<sup>ème</sup>'
+      return SPELLLEVELS[level].label
     },
   },
 
