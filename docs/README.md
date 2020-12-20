@@ -20,12 +20,11 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Rubrique Personnalité & historiques
-La rubrique [personnalités & historiques](/personnalite-et-historique) est maintenant complète avec l'ajout de: Mercenaire, Militaire, Miséreux, Noblesse d'épée, Noblesse de robe, Offcier, Orphelin, Palefrenier, Patrouilleur, Précepteur, Pilleur de ruines, Pirates, Prédicateur, Rebouteux, Repenti, Saltimbanque, Sang-bleu, Serveur, Solitaire, Trappeur, Vagabond, Villageois et voleur à la tire.
-La rubrique [Les trois Voies](/voies)présente les voies de départ des personnages qui vont profondément influer sur le style de jeu du personnage avec le choix de son Archétype au niveau 3.
+## Etat de l'avancement du site
+Les rubrique [Les trois Voies](/voies) sont maintenant complètes et la description des [Archétypes](/archetypes) a débuté pour une plus grande personnalisation des personnages au-delà du niveau 3. Globalement, toute la section joueur est désormais utilisable et des éléments comme les sorts seront ajoutées au fur et à mesure. Il a fallut faire quelques aménagements sur le site, particulièrement concernant le grimoire et je n'y serais pas arrivé sans l'aide du créateur de ce site Em-Squared, l'auteur du site Héros & Dragons DRS https://heros-et-dragons.fr . Il m'a aidé sur le plan technique et je profite pour le remercier de son temps et de sa patience.
 §§§ .text-right
 _**Olivier**_,  
-_le 13 décembre 2020_
+_le 20 décembre 2020_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)
@@ -41,7 +40,7 @@ Bon jeu à tout le monde !
 
 ### À propos de ce site
 &nbsp;
-<v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/2Q6jmWSVhj), pour discuter de ce site.  
+<v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/vRXeVwrNvK), pour discuter de ce site.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
 
 </v-col>

@@ -23,7 +23,7 @@ Ceux de cet alignement écoutent leurs désirs et font passer leur propre libert
 Ceux de cet alignement s'appliquent à méthodiquement prendre ce dont ils ont envie dans le cadre d'un code ou d'une tradition, de leur loyauté ou d'un ordre.  
 ### Neutre Mauvais (NM).
 Ceux de cet alignement font ce qu'elles veulent tant qu’ils peuvent s'en tirer.
-Chaotique Mauvais (CM). Ceux de cet alignement n'hésitent pas à être violentes de manière arbitraire. Ils se laissent mener par leur cupidité, leur haine ou leur soif de sang.  
+Chaotique Mauvais (CM).  
 
 ## Langues
 L'ethnie d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.

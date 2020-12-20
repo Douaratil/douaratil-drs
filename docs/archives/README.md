@@ -9,6 +9,14 @@ toc: false
 
 <v-row>
 <v-col cols="12" md="6">
+
+## Rubrique Personnalité & historiques
+La rubrique [personnalités & historiques](/personnalite-et-historique) est maintenant complète avec l'ajout de: Mercenaire, Militaire, Miséreux, Noblesse d'épée, Noblesse de robe, Offcier, Orphelin, Palefrenier, Patrouilleur, Précepteur, Pilleur de ruines, Pirates, Prédicateur, Rebouteux, Repenti, Saltimbanque, Sang-bleu, Serveur, Solitaire, Trappeur, Vagabond, Villageois et voleur à la tire.
+La rubrique [Les trois Voies](/voies)présente les voies de départ des personnages qui vont profondément influer sur le style de jeu du personnage avec le choix de son Archétype au niveau 3.
+§§§ .text-right
+_**Olivier**_,  
+_le 13 décembre 2020_
+
 ## Rubrique Personnalité & historiques
 La rubrique [personnalités & historiques](/personnalite-et-historique) continue de s'étoffer avec l'ajout de : Bandit de grand chemin, Bâtard, du Brigand, Cambrioleur, Chasseur, Colporteur, Commerçant, Cuisinier, Crapule, Dévot, Eclaireur  
 Ermite, Erudit, Escroc, Explorateur, Garde, Gardien tribal, Gens du voyage, Guide, Homme de loi, Homme-médecine, Initié, Inquisiteur, Itinérant, Journalier, Juriste, Laboureur, Limier, Manouvrier, Matelot, Médecin, Membre de guilde, Mendiant.
