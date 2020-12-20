@@ -236,6 +236,10 @@ module.exports = {
               path: '/archetypes/ambeanamos',
             },
             {
+                title: "Bhaner",
+                path: '/archetypes/bhaner',
+              },
+            {
                 title: "Llawenos",
                 path: '/archetypes/llawenos',
               },
