@@ -13,7 +13,7 @@ title: bhaner
 |**7**|[Mots cinglants](#mots-cinglants)|
 |**8**|[Orateur exceptionnel](#orateur-exceptionnel)|
 |**9**|[Héraldique](#heraldique)|
-|**10**|[Inspiration bardique (3d6/3rd)](#inspiration-bardique), [Par monts et par vaux](#par-monts et-par-vaux)|
+|**10**|[Inspiration bardique (3d6/3rd)](#inspiration-bardique), [Par monts et par vaux](#par-monts-et-par-vaux)|
 |**11**|[Sur un champ de bataille](#sur-un-champ-de-bataille)|
 |**13**|[Chant reposant (3d6)](#chant-reposant)|
 |**14**|[Inspirer la bravoure](#inspirer-la-bravoure)|
