@@ -231,14 +231,14 @@ module.exports = {
           {
             title: "Les Archétypes",
             children: [
-              {
-                  title: "Astartes",
-                  path: '/archetypes/astartes',
-                },
           {
               title: "Ambeanamos",
               path: '/archetypes/ambeanamos',
             },
+            {
+                title: "Astartes",
+                path: '/archetypes/astartes',
+              },
             {
                 title: "Bhaner",
                 path: '/archetypes/bhaner',

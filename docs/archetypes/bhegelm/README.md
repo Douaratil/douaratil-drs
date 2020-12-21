@@ -13,7 +13,7 @@ title: Bhegelm
 |**6**|[Forme sauvage](#forme-sauvage)|
 |**7**|[Monture sacrée](#monture-sacree), [Traversée des terrains](#traversee-des-terrains)|
 |**8**|[Compagnon animal corneille à tête blanche](#compagnon-animal-corneille-a-tete-blanche)|
-|**10**|[Enfant de la nature)](#enfant-de-la-nature))|
+|**10**|[Enfant de la nature)](#enfant-de-la-nature)|
 |**13**|[Monture sacrée supérieure](#monture-sacree-superieure)|
 |**14**|[Sanctuaire de la nature](#sanctuaire-de-la-nature)|
 |**16**|[Compagnon animal corneille blanche](#compagnon-animal-corneille-blanche)|
@@ -67,7 +67,7 @@ Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (vo
 |8|1|-|Aigle|
 §§§
 
-Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point de vie ou si il meurt.  
+Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
 
 ### Monture sacrée  
 **En Khern : Kezeg Helgae**
