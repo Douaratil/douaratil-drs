@@ -231,6 +231,10 @@ module.exports = {
           {
             title: "Les Archétypes",
             children: [
+              {
+                  title: "Astartes",
+                  path: '/archetypes/astartes',
+                },
           {
               title: "Ambeanamos",
               path: '/archetypes/ambeanamos',
@@ -239,6 +243,10 @@ module.exports = {
                 title: "Bhaner",
                 path: '/archetypes/bhaner',
               },
+              {
+                  title: "Bhegelm",
+                  path: '/archetypes/bhegelm',
+                },
               {
                   title: "Gwylwir",
                   path: '/archetypes/gwylwir',
@@ -340,6 +348,25 @@ module.exports = {
             title: "Les poisons",
             path: '/poisons/'
           }
+        ]
+      },
+      {
+        title: 'Le monde de Douaratil',
+        icon: 'mdi-map',
+        children: [
+          {
+            title: "Les chroniques",
+            children: [
+              {
+                title: "Miz du 720",
+                path: '/chroniques/miz-du-720'
+              },
+              {
+                title: "Miz Kerzu 720",
+                path: '/chroniques/miz-kerzu-720'
+              },
+            ]
+          },
         ]
       },
       {type: 'divider'},
