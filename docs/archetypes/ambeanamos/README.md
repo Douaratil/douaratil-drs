@@ -87,34 +87,34 @@ Quand vous lancez un sort qui a pour cible une seule créature et dont la porté
 **En Meldète : Mallaksgàil**  
 Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.  
 
-### Affinité ancestrale
-**En Meldète : Dàimshinn**
+### Affinité ancestrale  
+**En Meldète : Dàimshinn**  
 Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.
 
-### Énergie positive
-**En Meldète : Lùthartach**
+### Énergie positive  
+**En Meldète : Lùthartach**  
 Au niveau 6, bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) tous les jets de sauvegarde contre l'état [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise). Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux.
 L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la [Métamagie ](#manipulation-de-la-magie-ou-metamagie), vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la [Métamagie ](#manipulation-de-la-magie-ou-metamagie)).
 
-### Compagnon animal
-**En Meldète : Compabeath**
+### Compagnon animal  
+**En Meldète : Compabeath**  
 À partir du niveau 8, l’Ambeanamos se lie avec une chouette. Il doit s’agir d’un animal qui vit dans les contrées où réside l’Ambeanamos. Si la chouette devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en chuintant. La chouette peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson, tous les jours à l’Ambeanamos.
 Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau de l’Ambeanamos.
 
-### Magie du sang
-**En Meldète : Draoidfala**
+### Magie du sang  
+**En Meldète : Draoidfala**  
 À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
 Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.
 
-### Charme intense
-**En Meldète : Seundian**
+### Charme intense  
+**En Meldète : Seundian**  
 Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1d6 point de magie (PM) que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
 De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.
 
-### Second compagnon animal
-**En Meldète : Compabeath**
+### Second compagnon animal  
+**En Meldète : Compabeath**  
 À partir du niveau 16, l’Ambeanamos se lie une seconde chouette qui vient ainsi former un couple au service du mage.
 
-### Présence puissante
-**En Meldète : Làthaircumdach**
+### Présence puissante  
+**En Meldète : Làthaircumdach**  
 À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures. Vous ne pouvez utiliser ce pouvoir un nombre de fois maximum égal à votre bonus d’Intelligence entre deux [Repos longs](/gerer-la-sante-du-personnage/#repos-long).

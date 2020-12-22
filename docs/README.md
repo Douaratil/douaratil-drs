@@ -20,11 +20,11 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Etat de l'avancement du site
-Les rubrique [Les trois Voies](/voies) sont maintenant complètes et la description des [Archétypes](/archetypes) a débuté pour une plus grande personnalisation des personnages au-delà du niveau 3. Globalement, toute la section joueur est désormais utilisable et des éléments comme les sorts seront ajoutées au fur et à mesure. Il a fallut faire quelques aménagements sur le site, particulièrement concernant le grimoire et je n'y serais pas arrivé sans l'aide du créateur de ce site Em-Squared, l'auteur du site Héros & Dragons DRS https://heros-et-dragons.fr . Il m'a aidé sur le plan technique et je profite pour le remercier de son temps et de sa patience.
+## Ajout des Archétypes & des sorts
+Ces derniers jours ont été l'occasion d'ajouter des [archétypes](/archetypes/) sur le site (Astartes, Bhaner, Bhegelm & Gwylwir). Dans la rubrique [grimoire](/grimoire/) ont été ajoutés treize nouveaux sorts mineurs originaux inventés par Elric (Air magique, appel de la pluie, atmosphère électrique, atmosphère vertueuse, boussole mentale, charge d'épée, coup de poing de cuivre, déperlance, main au fer blanc, main de l'air, miroir du Douargwar, poing purificateur & torche). Enfin, une rubrique [chroniques](/chroniques/) a été ajoutée et raconte les aventures des aventuriers qui parcourent actuellement le monde de Douaratil dans une partie maîtrisée par votre serviteur.
 §§§ .text-right
 _**Olivier**_,  
-_le 20 décembre 2020_
+_le 22 décembre 2020_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

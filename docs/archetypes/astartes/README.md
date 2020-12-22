@@ -50,21 +50,21 @@ Au niveau 4, la foi qui vous anime vous immunise contre les maladies.
 À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
 
 ### Aura de protection  
-**En Alcante : Sphaera praesid**
+**En Alcante : Sphaera praesid**  
 À partir du niveau 6, quand vous ou une personne amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être [_inconscient_](/gerer-la-sante-du-personnage/#inconscient)  pour que ce bonus soit pris en compte.  
 Au niveau 18, le rayon de cette aura atteint 9 mètres.  
 
 ### Aura de dévotion  
-**En Alcante : Sphaera studio**
+**En Alcante : Sphaera studio**  
 À partir du niveau 7, vous et les créatures amicales qui se trouvent à 3 mètres de vous ne pouvez pas être [_charmés_](/gerer-la-sante-du-personnage/#charme). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).  
 Au niveau 18, le rayon de cette aura s'étend à 9 mètres.  
 
-### Aura de courage
-**En Alcante : Sphaera animo**
+### Aura de courage  
+**En Alcante : Sphaera animo**  
 À partir du niveau 10, vous, ainsi que toute personne amicale qui se trouve à 3 mètres de vous, ne pouvez être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 
-### Châtiment amélioré
-**En Alcante : Supplicio Major**
+### Châtiment amélioré  
+**En Alcante : Supplicio Major**  
 Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.  
 
 ### Chevalier sans peur  

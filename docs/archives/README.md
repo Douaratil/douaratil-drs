@@ -10,6 +10,12 @@ toc: false
 <v-row>
 <v-col cols="12" md="6">
 
+## Etat de l'avancement du site
+Les rubrique [Les trois Voies](/voies) sont maintenant complètes et la description des [Archétypes](/archetypes) a débuté pour une plus grande personnalisation des personnages au-delà du niveau 3. Globalement, toute la section joueur est désormais utilisable et des éléments comme les sorts seront ajoutées au fur et à mesure. Il a fallut faire quelques aménagements sur le site, particulièrement concernant le grimoire et je n'y serais pas arrivé sans l'aide du créateur de ce site Em-Squared, l'auteur du site Héros & Dragons DRS https://heros-et-dragons.fr . Il m'a aidé sur le plan technique et je profite pour le remercier de son temps et de sa patience.
+§§§ .text-right
+_**Olivier**_,  
+_le 20 décembre 2020_
+
 ## Rubrique Personnalité & historiques
 La rubrique [personnalités & historiques](/personnalite-et-historique) est maintenant complète avec l'ajout de: Mercenaire, Militaire, Miséreux, Noblesse d'épée, Noblesse de robe, Offcier, Orphelin, Palefrenier, Patrouilleur, Précepteur, Pilleur de ruines, Pirates, Prédicateur, Rebouteux, Repenti, Saltimbanque, Sang-bleu, Serveur, Solitaire, Trappeur, Vagabond, Villageois et voleur à la tire.
 La rubrique [Les trois Voies](/voies)présente les voies de départ des personnages qui vont profondément influer sur le style de jeu du personnage avec le choix de son Archétype au niveau 3.
