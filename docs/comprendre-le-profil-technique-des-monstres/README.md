@@ -11,60 +11,60 @@ Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très g
 §§§ .table-container
 | Taille | Surface occupée | Exemples |
 |:-|:-|:-|
-| **Très petit** | 75 cm de côté | [Diablotin](/bestiaire/diablotin/), [esprit follet](/bestiaire/esprit-follet/) |
-| **Petit** | 1,50 m de côté | [Gobelin](/bestiaire/gobelin/), [rat géant](/bestiaire/rat-geant/) |
-| **Moyen** | 1,50 m de côté | [Loup-garou](/bestiaire/loup-garou/), [orc](/bestiaire/orc/) |
-| **Grand** | 3 m de côté | [Hippogriffe](/bestiaire/hippogriffe/), [ogre](/bestiaire/ogre/) |
-| **Très grand** | 4,50 m de côté | [Géant du feu](/bestiaire/geant-du-feu/), [sylvanien](/bestiaire/sylvanien/) |
-| **Gigantesque** | 6 m de côté ou + | [Kraken](/bestiaire/kraken/), [ver pourpre](/bestiaire/ver-pourpre/) |
+| **Très petit** | 75 cm de côté | chat |
+| **Petit** | 1,50 m de côté | chien |
+| **Moyen** | 1,50 m de côté | loup, homme |
+| **Grand** | 3 m de côté | ours |
+| **Très grand** | 4,50 m de côté | éléphant |
+| **Gigantesque** | 6 m de côté ou + | divinité, créatures anciennes |
 §§§
 
 ## Type
-Le type d'un monstre définit sa nature fondamentale. Certains sorts, objets magiques, aptitudes de classe et autres effets dans le jeu interagissent de façon particulière avec les créatures d'un type donné. Par exemple, une _flèche tueuse de dragons_ inflige des dégâts supplémentaires aux dragons, mais aussi aux autres créatures de type dragon, telles que les dragons-tortues et les vouivres.
+Le type d'un monstre définit sa nature fondamentale. Certains sorts, objets magiques, aptitudes de classe et autres effets dans le jeu interagissent de façon particulière avec les créatures d'un type donné. Par exemple, une _flèche tueuse de loup_ inflige des dégâts supplémentaires aux loups, mais aussi aux autres créatures de type bêtes, telles que les ours et les lions.
 
 Voici les divers types de monstre de ce jeu, aucune règle spécifique ne leur étant rattachée.
 
 ### Aberrations
-**Les aberrations** sont des êtres véritablement étranges et différents. Beaucoup possèdent des pouvoirs magiques innés nés des méandres de leur étrange esprit et non des énergies mystiques du monde. Les aboleths, les dévoreurs arcaniques sont par exemple des aberrations par excellence.
+**Les aberrations** sont des êtres véritablement étranges et différents. Beaucoup possèdent des pouvoirs magiques innés nés des méandres de leur étrange esprit et non des énergies mystiques du monde. Les divinités sont des aberrations par excellence.
 
 ### Bêtes
 **Les bêtes** sont des créatures non-humanoïdes qui font naturellement partie de l'écologie fantastique. Certaines maîtrisent des pouvoirs magiques mais la plupart sont dénuées d'intelligence, ne connaissent aucun langage et ne vivent pas en société. La catégorie des bêtes comprend toutes sortes d'animaux ordinaires et de dinosaures, ainsi que les versions géantes d'animaux.
 
 ### Célestes
-**Les célestes** sont des créatures natives des plans supérieurs. La plupart sont au service de divinités et leur servent de messagers ou d'agents dans le royaume des mortels ou dans les plans. Les célestes sont bons par nature et les cas exceptionnels de célestes qui s'éloignent de cet alignement sont rares et terrifiants. Parmi les célestes, on trouve les anges, les couatls et les pégases.
+**Les célestes** sont des créatures natives des plans supérieurs. La plupart sont au service de divinités et leur servent de messagers ou d'agents dans le royaume des mortels ou dans les plans. Les célestes sont bons par nature et les cas exceptionnels de célestes qui s'éloignent de cet alignement sont rares et terrifiants.
 
 ### Créatures artificielles
 **Les créatures artificielles** sont fabriquées et non mises au monde. Certaines sont programmées par leur créateur pour suivre plusieurs instructions simples, tandis que d'autres reçoivent une conscience et sont capables de penser par elles-mêmes. Les golems sont des créatures artificielles emblématiques. De nombreuses créatures originaires du plan extérieur sont des créatures artificielles façonnées à partir de la matière première du plan par la volonté de créatures plus puissantes.
 
 ### Créatures monstrueuses
-**Les créatures monstrueuses** sont des monstres au sens le plus strict du terme : des créatures effrayantes qui sortent de l'ordinaire, qui ne sont pas vraiment naturelles et presque jamais bienveillantes. Certaines sont le fruit d'expérimentations magiques ayant mal tourné (comme les hibours) et d'autres le produit d'horribles malédictions (les minotaures et les yuan-tis, par exemple). Elles défient tout classement et forment une catégorie fourre-tout pour les créatures qui ne correspondent à aucun autre type.
+**Les créatures monstrueuses** sont des monstres au sens le plus strict du terme : des créatures effrayantes qui sortent de l'ordinaire, qui ne sont pas vraiment naturelles et presque jamais bienveillantes. Certaines sont le fruit d'expérimentations magiques ayant mal tourné et d'autres le produit d'horribles malédictions. Elles défient tout classement et forment une catégorie fourre-tout pour les créatures qui ne correspondent à aucun autre type.
 
 ### Dragons
-**Les dragons** sont de grandes créatures reptiliennes aux origines anciennes, dotées d'immenses pouvoirs. Les véritables dragons, notamment les dragons métalliques bienveillants et les dragons chromatiques maléfiques, sont très intelligents et maîtrisent la magie de manière innée. Dans cette catégorie, on trouve également les créatures vaguement associées aux véritables dragons, telles que les vouivres et les pseudodragons, mais celles-ci sont moins puissantes, moins intelligentes et disposent de moins de magie.
+**Les dragons** sont de grandes créatures reptiliennes aux origines anciennes, dotées d'immenses pouvoirs.
 
 ### Élémentaires
-**Les élémentaires** sont des créatures natives des plans élémentaires. Certaines créatures de ce type ne sont guère plus que des amas animés d'une matière élémentaire particulière, notamment les créatures simplement appelées élémentaires. D'autres ont des formes biologiques investies d'énergie élémentaire. Les diverses races de génies, dont les djinns et les éfrits, sont à l'origine des civilisations les plus importantes sur les plans élémentaires.
+**Les élémentaires** sont des créatures natives des plans élémentaires. Certaines créatures de ce type ne sont guère plus que des amas animés d'une matière élémentaire particulière, notamment les créatures simplement appelées élémentaires. D'autres ont des formes biologiques investies d'énergie élémentaire.
 
 ### Fées
-**Les fées** sont des créatures magiques étroitement liées aux forces de la nature. Elles vivent dans des bosquets plongés dans la pénombre et des forêts embrumées. Sur certains mondes, elles sont étroitement liées à la Féerie sauvage, aussi appelée plan Féerique. On en trouve d'autres sur les plans extérieurs. Les dryades, les pixies et les satyres sont des exemples de fées.
+**Les fées** sont des créatures magiques étroitement liées aux forces de la nature. Elles vivent dans des bosquets plongés dans la pénombre et des forêts embrumées. Sur certains mondes, elles sont étroitement liées à la Féerie sauvage, aussi appelée plan Féerique. On en trouve d'autres sur les plans extérieurs.
 
 ### Fiélons
-**Les fiélons** sont des créatures cruelles natives des plans inférieurs. Quelques-uns servent des divinités mais beaucoup travaillent dur sous le commandement d'archidiables et de princes démons. Les clercs et les mages maléfiques convoquent parfois des fiélons qui exécutent leurs ordres sur le plan Matériel. Si un céleste maléfique est rare, un fiélon bienveillant est presque inconcevable. Les démons, les diables, les rakshasas sont des exemples de fiélons.
+**Les fiélons** sont des créatures cruelles natives des plans inférieurs. Quelques-uns servent des divinités mais beaucoup travaillent dur sous le commandement d'archidiables et de princes démons. Les lanceurs de sorts maléfiques convoquent parfois des fiélons qui exécutent leurs ordres sur le plan Matériel. Si un céleste maléfique est rare, un fiélon bienveillant est presque inconcevable.
 
 ### Géants
-**Les géants** se dressent au-dessus des humains et de leurs semblables. Ils ressemblent aux humains mais peuvent avoir plusieurs têtes (ettins) ou des difformités (fomoriens). Les géants des collines, les géants des pierres, les géants du givre, les géants du feu, les géants des nuages et les géants des tempêtes forment les six variantes raciales de géants véritables, mais les créatures telles que les ogres et les trolls sont également considérées comme des géants.
+**Les géants** se dressent au-dessus des humains et de leurs semblables.
 
 ### Humanoïdes
-**Les humanoïdes** forment les principales peuplades, civilisées ou sauvages, des mondes de Héros & Dragons. Ils rassemblent les humains et une très grande variété d'autres espèces. Ils sont bipèdes, possèdent une langue, une culture et peu de pouvoirs magiques, voire aucun (même si la plupart des humanoïdes peuvent apprendre à lancer des sorts). Les races d'humanoïdes les plus courantes, les humains, les nains, les elfes et les halfelins, sont les plus adaptées pour devenir des personnages-joueurs. Les races gobelinoïdes (gobelins, hobgobelins et gobelours), les orcs, les gnolls, les hommes-lézards et les kobolds sont presque aussi nombreux, mais bien plus sauvages et brutaux, et la plupart sont uniformément maléfiques.
+**Les humanoïdes** forment les principales peuplades, civilisées ou sauvages. Ils rassemblent les humains et une très grande variété d'autres espèces. Ils sont bipèdes, possèdent une langue, une culture et peu de pouvoirs magiques, voire aucun (même si la plupart des humanoïdes peuvent apprendre à lancer des sorts).
 
 ### Morts-vivants
-**Les morts-vivants** sont des créatures autrefois vivantes qui ont été ramenées à l'effroyable état de non-vie par la magie nécromantique ou quelque malédiction impie. Parmi les morts-vivants, on trouve les cadavres animés, tels que les vampires et les zombis, et les esprits désincarnés, tels que les fantômes et les spectres.
+**Les morts-vivants** sont des créatures autrefois vivantes qui ont été ramenées à l'effroyable état de non-vie par la magie nécromantique ou quelque malédiction impie.
 
 ### Plantes
-**Les plantes**, dans le contexte du jeu, sont des créatures végétales et non des plantes ordinaires. La plupart sont mobiles et certaines carnivores. Le tertre errant et le sylvanien sont des plantes emblématiques. Les créatures fongiques telles que les spores gazeuses et les myconides font également partie de cette catégorie.
+**Les plantes**, dans le contexte du jeu, sont des créatures végétales et non des plantes ordinaires. La plupart sont mobiles et certaines carnivores.
 
 ### Vases
-**Les vases** sont des créatures gélatineuses dont la forme est rarement fixe. La plupart vivent sous terre, dans des grottes et des donjons, et se nourrissent de déchets, de charognes ou des créatures assez malchanceuses pour les rencontrer. Les poudings noirs et les cubes gélatineux sont deux des vases les plus reconnaissables.
+**Les vases** sont des créatures gélatineuses dont la forme est rarement fixe. La plupart vivent sous terre, dans des grottes et des donjons, et se nourrissent de déchets, de charognes ou des créatures assez malchanceuses pour les rencontrer.
 
 ## Sous-types
 Un ou plusieurs sous-types apparaissent parfois, entre parenthèses, après le type d'un monstre. Par exemple, un orc est de type humanoïde (orc). Les sous-types indiqués entre parenthèses permettent une classification plus précise pour certaines créatures. Aucune règle spécifique ne leur est rattachée mais des éléments du jeu, comme les objets magiques, peuvent s'y référer. Par exemple, une lance particulièrement efficace pour combattre les démons sera tout aussi efficace contre tous les monstres de sous-type démon.
@@ -79,28 +79,27 @@ Certaines créatures peuvent avoir **n'importe quel alignement**, et vous pouvez
 Nombre de créatures dotées d'une intelligence réduite ne comprennent pas les concepts de loi, de chaos, de bien ou de mal. Elles ne prennent pas de décision d'un point de vue moral ou éthique mais agissent par instinct. Ces créatures sont **non-alignées**, ce qui signifie qu'elles n'ont aucun alignement.
 
 ## Valeur de défense
-Un monstre qui porte une armure ou manie un bouclier possède une **Valeur de défense** (CA) qui prend en compte son armure, son bouclier et sa Dextérité. Sinon, la CA d'un monstre dépend de son modificateur de Dextérité et de son armure naturelle, le cas échéant. Si un monstre possède une armure naturelle, porte une armure ou manie un bouclier, ceci est indiqué entre parenthèses après sa valeur de CA.
+Un monstre qui porte une armure ou manie un bouclier possède une **Valeur de défense** (VD) qui prend en compte son armure, son bouclier et sa Dextérité. Sinon, la VD d'un monstre dépend de son modificateur de Dextérité et de son armure naturelle, le cas échéant. Si un monstre possède une armure naturelle, porte une armure ou manie un bouclier, ceci est indiqué entre parenthèses après sa valeur de VD.
 
 ## points d'action
-Un monstre meurt ou est détruit quand ses points d'action tombent à 0. Voir le chapitre [_Gérer la santé du personnage - points d'action_](/gerer-la-sante-du-personnage/#points-de-vie) pour plus d'informations sur les points d'action.
-
-Les points d'action d'un monstre sont représentés à la fois par un dé et par une valeur moyenne. Par exemple, un monstre avec 2d8 points d'action possède une moyenne de 9 points d'action (2 × 4,5).
+Un monstre meurt ou est détruit quand ses points d'action tombent à 0. Voir le chapitre [_Gérer la santé du personnage - points d'action_](/gerer-la-sante-du-personnage/#points-d-action) pour plus d'informations sur les points d'action.
 
 La taille d'un monstre détermine le dé utilisé pour calculer ses points d'action, comme indiqué dans la table des dés de vie en fonction de la taille.
 
 ### Dés de vie en fonction de la taille
 §§§ .table-container
-| Taille du monstre | Dé de vie | Moyenne de PV par dé |
+| Taille du monstre | Valeur de constitution |Points d’action par
+ID |
 |:-|:-:|:-:|
-| **Très petit** | d4 | 2,5 |
-| **Petit** | d6 | 3,5 |
-| **Moyen** | d8 | 4,5 |
-| **Grand** | d10 | 5,5 |
-| **Très grand** | d12 | 6,5 |
-| **Gigantesque** | d20 | 10,5 |
+| **Très petit** | X 0,25 | 2 |
+| **Petit** | x 0,5 | 3 |
+| **Moyen** | X 1 | 4 |
+| **Grand** | X 2 | 8 |
+| **Très grand** | X 3 | 15 |
+| **Gigantesque** | X 4 | 20 |
 §§§
 
-Le modificateur de Constitution d'un monstre affecte également son nombre de points d'action. On le multiplie par le nombre de dés de vie et le résultat est ajouté aux points d'action du monstre. Par exemple, un monstre avec une Constitution de 12 (modificateur de +1) et 2d8 dés de vie possède 2d8+2 points d'action (moyenne de 11).
+On additionne la valeur de constitution du l’adversaire ajustée par son multiplicateur de taille + (PA X ID). Les points d’action ne peuvent être inférieur à 1.
 
 ## Vitesse
 La vitesse d'un monstre indique la distance qu'il peut parcourir lors de son tour. Voir le chapitre [_Combattre - Déplacement et position_](/combattre/#deplacement-et-position) pour plus d'informations sur la vitesse de déplacement.
@@ -236,9 +235,7 @@ Un monstre avec l'aptitude de classe « _incantation_ » possède un niveau de l
 
 Le monstre dispose d'une liste de sorts connus ou préparés issus d'une classe en particulier. La liste peut également comporter des sorts provenant d'une aptitude de cette classe, telle que l'aptitude « _domaine divin_ » du clerc ou « _cercle druidique_ » du druide. Le monstre est considéré comme un membre de cette classe lorsqu'il s'harmonise avec un objet magique ou utilise un objet magique nécessitant l'appartenance à cette classe ou l'accès à sa liste de sorts.
 
-Un monstre peut lancer un sort de sa liste à un niveau plus élevé s'il dispose de l'emplacement de sort correspondant. Par exemple, un mage drow avec le sort [_éclair_](/grimoire/eclair/) de niveau 3 peut le lancer comme un sort de niveau 5 en dépensant un de ses emplacements de sort de niveau 5.
-
-Vous pouvez changer les sorts connus ou préparés d'un monstre en remplaçant chaque sort par un autre de même niveau et issu de la liste associée à la même classe. Si vous changez des sorts de cette façon, le monstre peut représenter une menace plus ou moins dangereuse que celle suggérée par son indice de dangerosité.
+Vous pouvez changer les sorts connus d'un monstre en remplaçant chaque sort par un autre de même niveau et issu de la liste associée à la même voie magique. Si vous changez des sorts de cette façon, le monstre peut représenter une menace plus ou moins dangereuse que celle suggérée par son indice de dangerosité.
 
 ### Incantation innée
 Un monstre capable de lancer des sorts de manière innée possède le trait spécial « _incantation innée_ ». Sauf indication contraire, un sort inné de niveau 1 ou plus est toujours lancé au niveau le plus bas possible et jamais à un niveau plus élevé. Si un monstre connaît un tour de magie pour lequel son niveau de lanceur de sorts importe mais qu'aucun niveau n'est précisé, prenez l'indice de dangerosité du monstre comme niveau.
@@ -271,6 +268,22 @@ Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par le mon
 
 ### Attaques multiples
 Une créature capable d'effectuer plusieurs attaques lors de son tour peut réaliser l'action « _attaques multiples_ ». Une créature ne peut pas utiliser l'action « _attaques multiples_ » quand elle effectue une attaque d'opportunité car celle-ci consiste en une seule attaque au corps à corps.
+
+### Dégâts
+Les dégâts varient aussi selon la taille qui représente l’inertie de l’objet manipulé ou de la masse de la créature. Les dégâts s’appliquent donc selon le tableau suivant :  
+
+§§§ .table-container
+| Taille du monstre | Dégâts |
+ID |
+|:-|:-:|
+| **Très petit** | 1 |
+| **Petit** | 2 |
+| **Moyen** | 3 |
+| **Grand** | 6 |
+| **Très grand** | 10 |
+| **Gigantesque** | 20 | 
+§§§
+
 
 ### Munitions
 Un monstre porte sur lui les munitions nécessaires pour effectuer ses attaques à distance. Vous pouvez partir du principe qu'un monstre transporte 2d4 munitions adaptées à son attaque d'arme de jet et 2d10 munitions adaptées à son arme à projectiles, telle qu'un arc ou une arbalète.
