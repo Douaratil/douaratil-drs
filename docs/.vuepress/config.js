@@ -235,26 +235,91 @@ module.exports = {
               title: "Ambeanamos",
               path: '/archetypes/ambeanamos',
             },
-            {
-                title: "Astartes",
-                path: '/archetypes/astartes',
-              },
-            {
-                title: "Bhaner",
-                path: '/archetypes/bhaner',
-              },
-              {
-                  title: "Bhegelm",
-                  path: '/archetypes/bhegelm',
-                },
-              {
-                  title: "Gwylwir",
-                  path: '/archetypes/gwylwir',
-                },
-            {
-                title: "Llawenos",
-                path: '/archetypes/llawenos',
-              },
+          {
+              title: "Astartes",
+              path: '/archetypes/astartes',
+            },
+          {
+              title: "Bhaner",
+              path: '/archetypes/bhaner',
+            },
+          {
+              title: "Bhegelm",
+              path: '/archetypes/bhegelm',
+            },
+          {
+              title: "Dall Dawnser",
+              path: '/archetypes/dall-dawnser',
+            },
+          {
+              title: "Drodan",
+              path: '/archetypes/drodan',
+            },
+          {
+              title: "Fürtane",
+              path: '/archetypes/furtane',
+            },
+          {
+              title: "Gwylwir",
+              path: '/archetypes/gwylwir',
+            },
+          {
+              title: "Herredyr",
+              path: '/archetypes/herredyr',
+            },
+          {
+              title: "Holtseidar",
+              path: '/archetypes/holtseidar',
+            },
+          {
+              title: "Ior",
+              path: '/archetypes/ior',
+            },
+          {
+              title: "Jargl",
+              path: '/archetypes/jargl',
+            },
+          {
+              title: "Jörghal",
+              path: '/archetypes/jorghal',
+            },
+          {
+              title: "Llawenos",
+              path: '/archetypes/llawenos',
+            },
+          {
+              title: "Magios",
+              path: '/archetypes/magios',
+            },
+          {
+              title: "Nayane",
+              path: '/archetypes/nayane',
+            },
+          {
+              title: "Seibahkami",
+              path: '/archetypes/seibahkami',
+            },
+          {
+              title: "Sermazloth",
+              path: '/archetypes/sermazloth',
+            },
+          {
+              title: "Shangarah",
+              path: '/archetypes/shangarah',
+            },
+          {
+              title: "Skell",
+              path: '/archetypes/skell',
+            },
+          {
+              title: "Sorser",
+              path: '/archetypes/sorser',
+            },
+          {
+              title: "Vitnar",
+              path: '/archetypes/vitnar',
+            },
+
           ]
           },
           {

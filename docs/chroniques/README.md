@@ -11,6 +11,7 @@ Cette section raconte les aventures de :
 - **Margs** le Bhegelm
 - **Owain** le Gwyliwir
 - **Rudolf** le Skell
+- **Sawrina** La Nayane
 - **Tiberius** l'Astartes
 - **Yan Zin** le Seibahkami.
 Telles qu'elles ont été rapportées.
