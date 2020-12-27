@@ -79,9 +79,9 @@ Pour un aventurier, la chute constitue un des risques les plus courants. Suite �
 ### Asphyxie
 Une créature peut retenir sa respiration pendant un nombre de minutes égal à 1 + son modificateur de Constitution, avec un minimum de 30 secondes.
 
-Quand une créature n'a plus d'air ou qu'elle est en train d'étouffer, elle peut survivre un nombre de rounds égal à son modificateur de Constitution (avec un minimum de 1 round). Au début du round suivant, son nombre de point de vie est réduit à 0 et elle agonise. Elle ne peut pas regagner de point de vie ou être stabilisée tant qu'elle ne peut pas respirer.
+Quand une créature n'a plus d'air ou qu'elle est en train d'étouffer, elle peut survivre un nombre de rounds égal à son modificateur de Constitution (avec un minimum de 1 round). Au début du round suivant, son nombre de point d'action est réduit à 0 et elle agonise. Elle ne peut pas regagner de point d'action ou être stabilisée tant qu'elle ne peut pas respirer.
 
-Par exemple, une créature avec une Constitution de 14 peut retenir sa respiration pendant 3 minutes. Si elle commence à suffoquer, elle a deux rounds pour trouver de l'air avant de tomber à 0 point de vie.
+Par exemple, une créature avec une Constitution de 14 peut retenir sa respiration pendant 3 minutes. Si elle commence à suffoquer, elle a deux rounds pour trouver de l'air avant de tomber à 0 point d'action.
 
 ### Vision et lumière
 Les fondamentaux de la vie d'un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d'un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.

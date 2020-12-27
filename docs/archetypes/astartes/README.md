@@ -20,7 +20,7 @@ title: Astartes
 |**15**|[Chevalier prestigieux](#chevalier-prestigieux)|
 |**16**|[Châtiment](#chatiment)|
 |**17**|[Troisième Attaque](#troisieme-attaque)|
-|**20**|[Parangon héroïque](parangon-heroïque)|
+|**20**|[Parangon héroïque](#parangon-heroïque)|
 §§§
 
 ## Aptitudes d'Archétype
