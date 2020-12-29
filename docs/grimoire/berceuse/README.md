@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: false
   material: true
-  materials:"Une tige de roseau ou une petite branche de sureau évidée"
+  materials: "Une tige de roseau ou une petite branche de sureau évidée"
 ritual: false
 classes:
   - Magie
