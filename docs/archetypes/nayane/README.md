@@ -16,9 +16,6 @@ title: Nayane
 |**9**|[Attaque supplémentaire (seconde attaque)](#attaque-supplementaire)|
 |**10**|[Immunité au poison](#immunite-au-poison)|
 |**11**|[Intouchable ((5-6)](#intouchable)|
-|**12**|[Héraldique](#heraldique)|
-|**13**|[Héraldique](#heraldique)|
-|**14**|[Héraldique](#heraldique)|
 |**15**|[Intouchable (4-6)](#intouchable)|
 |**16**|[Attaque supplémentaire (Troisième attaque)](#attaque-supplementaire)|
 |**17**|[Sang empoisonné](#sang-empoisonne)|
@@ -86,7 +83,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 ### Immunité au poison  
 **En Selm : Issussissas'sessessis**  
-A partir du niveau 8, la Nayane est immunisée à toutes les formes de poison.  
+A partir du niveau 10, la Nayane est immunisée à toutes les formes de poison.  
 
 ### Sang empoisonné    
 **En Selm : Sassuis'sessessus**  

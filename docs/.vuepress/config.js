@@ -304,8 +304,8 @@ module.exports = {
               path: '/archetypes/sermazloth',
             },
           {
-              title: "Shangarah",
-              path: '/archetypes/shangarah',
+              title: "Shangharah",
+              path: '/archetypes/Shangharah',
             },
           {
               title: "Skell",

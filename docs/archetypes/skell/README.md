@@ -8,7 +8,7 @@ title:  Skell
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Expert](#expert)|
-|**5**|[Œil du gardien des runes](#oeil-du-gardien-des-runes)|
+|**5**|[Oeil du gardien des runes](#oeil-du-gardien-des-runes)|
 |**6**|[Pierre de puissance  ](#pierre-de-puissance)|
 |**7**|[Compagnon animal renard](#compagnon-animal-renard )|
 |**8**|[Critique brutal (+1d6)](#critique-brutal)|
@@ -40,7 +40,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 **En Melg : Ekspert**  
 À partir du niveau 3, en remplacement de l'aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix. Vous pouvez choisir deux compétences parmi celles que vous maîtrisez déjà, et dans ce cas vous doublez leur bonus de maîtrise.  
 
-### Œil du gardien des runes
+### Oeil du gardien des runes
 **En Melg : Oye Vaktare Runa**  
 À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchants.  
 
