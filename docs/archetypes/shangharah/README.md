@@ -9,7 +9,7 @@ title: Shangharah
 |:-:|:-:|
 |**3**|[Disciple de la vie](#disciple-de-la-vie)|
 |**4**|[Préserver la vie](#preserver-la-vie)|
-|**6**|[(Guérisseur béni](#(guerisseur-béni)|
+|**6**|[(Guérisseur béni](#guerisseur-beni)|
 |**8**|[Frappe spirituelle (+1d6)](#frappe-spirituelle)|
 |**10**|[Bénédiction du guide](#benediction-du-guide)|
 |**11**|[Lame assoiffée](#lame-assoiffee)|
@@ -18,7 +18,7 @@ title: Shangharah
 |**14**|[Frappe spirituelle (+2d6)](#frappe-spirituelle)|
 |**15**|[Buveuse de vie](#buveuse-de-vie)|
 |**17**|[Guérison suprême](#guerison-supreme)|
-|**18**|[Langage du Guide](#(langage-du-guide)|
+|**18**|[Langage du Guide](#langage-du-guide)|
 |**19**|[Vison du guide](#vision-du-guide)|
 §§§
 
@@ -55,7 +55,7 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 Au niveau 8, vous gagnez la capacité d'insuffler de l'énergie spirituelle dans les coups que vous portez au corps à corps. Une fois par tour, quand vous frappez un adversaire avec une arme, vous pouvez causer 1d6 dégâts supplémentaires à votre cible. Quand vous atteignez le niveau 14, ces dégâts passent à 2d6.  
 
 ### Bénédiction du guide  
-**En Sogh :Goziri N’bo**  
+**En Sogh : Goziri N’bo**  
 À partir du niveau 10, quand vous réduisez un adversaire hostile à 0 point d’action, vous gagnez un nombre de points d’action temporaire égal à votre modificateur de Charisme + votre niveau de Shangharah (avec un minimum de 1).  
 
 
