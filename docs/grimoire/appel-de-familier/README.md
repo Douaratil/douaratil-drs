@@ -17,7 +17,7 @@ classes:
     - Magie
 
 ---
-**Coût** : 4 points de Magie 
+**Coût** : 4 points de Magie  
 
 Vous vous attachez les services d'un familier, un esprit qui prend la forme d'un animal de votre choix **que seul vous voyez**: une chauve-souris, un chat, un faucon, une chouette, un serpent venimeux, un rat, un corbeau ou une belette. Le familier apparaît dans un emplacement inoccupé à portée et possède le même profil technique que l'animal dont il revêt la forme, bien qu'il soit un céleste, une fée ou un fiélon (à vous de choisir) au lieu d'une bête.
 

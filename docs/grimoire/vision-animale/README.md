@@ -17,8 +17,9 @@ classes:
   - Magie
   - Foi
 ---
-**Coût** : 4 points de Magie ou de Foi
-**Enchantement** Le sorcier enchante une petite quantité de graisse de chien ou de loup Il a pour cela besoin de 100 grammes de graisse de chien ou de loup, de 5 po de matériel (encens, bougies...). L'enchantement permet de créer 2d6 doses.
+**Coût** : 4 points de Magie ou de Foi  
+
+**Enchantement** Le sorcier enchante une petite quantité de graisse de chien ou de loup Il a pour cela besoin de 100 grammes de graisse de chien ou de loup, de 5 po de matériel (encens, bougies...). L'enchantement permet de créer 2d6 doses.  
 
 Le lanceur de sort doit ensuite appliquer cet onguent sur ses yeux, ses oreilles, ses lèvres et son nez pour avoir la même capacité d’odorat, de goût, de vision et d’ouïs que les animaux. Ce sort octroie l’un des effets suivant aléatoirement :
 §§§ .table-container

@@ -17,7 +17,7 @@ classes:
     - Magie
 
 ---
-**Coût** : 1 point de Magie
+**Coût** : 1 point de Magie  
 **enchantement**  
 La mage prend un citron ou un fruit acide. N’importe quel fruit qui n’est pas mûr peut faire l’affaire. Il prend le fruit dans sa main gauche et un oeuf de caille dans sa main droite puis il incante ensuite en langage ancien durant une minute. L’oeuf de caille se remplie de l’acidité du fruit tandis que le composant fruit est desséché. Cet œuf garde ses propriétés durant une lune.  
 
