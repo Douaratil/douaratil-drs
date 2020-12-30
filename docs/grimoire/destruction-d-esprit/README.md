@@ -16,6 +16,6 @@ classes:
   - Magie
 
 ---
-**Coût** : 1 points de Magie  
+**Coût** : 1 point de Magie  
 
 Ce sort génère une onde d’énergie positive. Le personnage doit toucher l’esprit à l’aide d’une [attaque](/combattre/#jets-d-attaque) de contact à distance. S’il y parvient, l’esprit subit 1d6 points de dégâts.  
