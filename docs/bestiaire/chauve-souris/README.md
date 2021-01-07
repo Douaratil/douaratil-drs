@@ -4,7 +4,7 @@ type: "Bête"
 size: "TP"
 alignment: "non-alignée"
 challenge: "0"
-hitDiceCount: 1
+customHP: "2"
 abilityScores:
   for: 2
   dex: 15
@@ -13,7 +13,8 @@ abilityScores:
   sag: 12
   cha: 4
 ac:
-  armorType: null
+  armorType: "custom"
+  value: "13"
 movement:
   walk: 1,50
   fly: 9
@@ -26,8 +27,7 @@ environments:
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
-source_page: 299
+
 ---
 ## Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).

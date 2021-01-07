@@ -4,7 +4,7 @@ type: "Bête"
 size: "M"
 alignment: "non-alignée"
 challenge: "0"
-hitDiceCount: 1
+customHP: "11"
 abilityScores:
   for: 12
   dex: 10
@@ -12,12 +12,13 @@ abilityScores:
   int: 2
   sag: 10
   cha: 5
-ac: 
-  armorType: null
-movement: 
+ac:
+  armorType: "custom"
+  value: "10"
+movement:
   walk: 12
-senses: 
-languages: 
+senses:
+languages:
   - ""
 environments:
   - Collines / Vallées
@@ -32,4 +33,4 @@ _**Pied sûr**_. La chèvre obtient un [_avantage_](/utiliser-les-caracteristiqu
 
 ## Actions
 _**Coup de bélier**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 (1d4+1) dégâts contondants.
+_Touché_ : 3 dégâts contondants.

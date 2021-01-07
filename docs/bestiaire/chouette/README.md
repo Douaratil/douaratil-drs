@@ -4,7 +4,7 @@ type: "Bête"
 size: "TP"
 alignment: "non-alignée"
 challenge: "0"
-hitDiceCount: 1
+customHP: "2"
 abilityScores:
   for: 3
   dex: 13
@@ -13,7 +13,8 @@ abilityScores:
   sag: 12
   cha: 7
 ac:
-  armorType: null
+  armorType: "custom"
+  value: "12"
 skills:
   - name: "discretion"
     isExpert: true

@@ -4,7 +4,7 @@ type: "Bête"
 size: "G"
 alignment: "non-alignée"
 challenge: "0.25"
-hitDiceCount: 4
+customHP: "22"
 abilityScores:
   for: 15
   dex: 16
@@ -12,22 +12,22 @@ abilityScores:
   int: 2
   sag: 12
   cha: 6
-ac: 
-  armorType: null
-movement: 
+ac:
+  armorType: "custom"
+  value: "14"
+movement:
   walk: 3
   fly: 18
-senses: 
+senses:
   blindsight: 18
-languages: 
+languages:
   - ""
 environments:
   - Jungle
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
-source_page: 299
+
 ---
 ## Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
@@ -36,4 +36,4 @@ _**Ouïe aiguisée**_. La chauve-souris obtient un [_avantage_](/utiliser-les-ca
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 5 (1d6+2) dégâts perforants.
+_Touché_ : 6 dégâts perforants.
