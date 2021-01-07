@@ -430,6 +430,10 @@ module.exports = {
                 title: "Miz Kerzu 720",
                 path: '/chroniques/miz-kerzu-720'
               },
+              {
+                title: "Miz Genver 721",
+                path: '/chroniques/miz-genver-721'
+              },
             ]
           },
         ]

@@ -2,11 +2,6 @@
   <div class="spell">
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto b-4" />
-      <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
-        <v-btn :outlined="!isSpellInSpellBook" color="accent" class="mr-4 mb-4" depressed @click="toggleSpellInSpellBook"><v-icon>mdi-book</v-icon> {{ displayToggleSpellButton }}</v-btn>
-        <MySpellsButton />
-      </div>
     </div>
     <Spell :spell="$page" />
     <Edit />

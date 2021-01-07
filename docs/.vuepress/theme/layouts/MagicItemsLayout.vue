@@ -3,10 +3,7 @@
 
     <div class="d-flex flex-wrap align-center">
       <Breadcrumb class="mr-auto mb-4" />
-      <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
-        <MyMagicItemsButton />
-      </div>
+
     </div>
 
     <h1>Liste des objets magiques</h1>

@@ -4,7 +4,7 @@ type: "Bête"
 size: "M"
 alignment: "non-alignée"
 challenge: "0.25"
-hitDiceCount: "13"
+customHP: "13"
 abilityScores:
   for: 12
   dex: 15
@@ -13,8 +13,8 @@ abilityScores:
   sag: 12
   cha: 6
 ac:
-  armorType: "armure naturelle"
-  value: 2
+  armorType: "custom"
+  value: "13"
 skills:
   - name: "discretion"
   - name: "perception"

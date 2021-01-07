@@ -20,12 +20,12 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Bilan d'une fin d'année
-Le projet de ce site est encore jeune mais permet déjà d'être utilisé. Je remercie encore Em-squared pour le travail effectué et je vous invite évidemment à visiter le site original [Héros & Dragons DRS](https://heros-et-dragons.fr/).  
-Le site de Douaratil s'est étoffé de nombreux Archétypes et de Sorts. Chaque nouvelle rubrique est l'occasion de faire des ajustements, des modifications aussi dans le code des pages. Je remercie d'ailleurs toujours le même,  Em-squared pour le support régulier qu'il m'accorde pour compenser les lacunes informatiques.  
-La prochaine grande étape est la modification du bestiaire, car les règles modifient quelques mécanismes et je dois pour cela une nouvelle fois retourner dans le code. Je vous souhaite donc une bonne fin d'année, avec plein d'espérance pour la nouvelle année qui se prépare. A l'année prochaine.  
+## La reprise et les résolutions
+En ce début d'année, les bonnes résolutions sont de mises. En ce sens, j'ai bien l'intention de continuer à m'investir pour ce site, pour mes joueurs et pour toutes les personnes qui pourraient être intéressées par le monde de Douaratil. Je dois aussi terminer le 4° roman de Douaratil. J'avais repris l'écriture de ce projet qui a une allure de serpent de mer (on en parle mais on ne le voit jamais) et je devais terminer fin 2020. Ce sera pour 2021.
+Ce matin, sur les explications judicieuses d'Em-squared, j'ai pu régler un point bloquant pour le bestiaire. Les créatures vont donc commencer à arriver sur le site et de nouveaux sorts seront ajoutés prochainement.
+A bientôt.
 _**Olivier**_,  
-_le 31 décembre 2020_
+_le 7 janvier 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

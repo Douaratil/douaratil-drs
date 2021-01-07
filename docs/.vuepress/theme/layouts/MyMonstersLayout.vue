@@ -5,19 +5,7 @@
       <v-btn :outlined="!$store.state.l5r" color="primary" class="mr-4" depressed @click="$store.commit('setL5r', !$store.state.l5r)"><span class="orn">8</span> Règles cinq royaumes</v-btn>
       <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
       <v-btn color="primary" depressed link to="/bestiaire/">Bestiaire</v-btn>
-    </div>
-
-    <h1>Mon bestiaire</h1>
-
-    <div class="my-4 d-flex flex-wrap d-print-none">
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed :loading="isUploading" @click="onUploadClick">
-        <v-icon left>mdi-file-upload</v-icon> Charger
-      </v-btn>
-      <input ref="uploader" class="d-none" type="file" @change="upload">
-      <v-btn outlined color="error" class="mb-1" depressed @click.stop="confirmDeleteDialog = true" :disabled="$store.state.myMonsters.monsters.length <= 0"><v-icon>mdi-delete</v-icon> Effacer le bestiaire</v-btn>
-    </div>
+  
 
     <v-dialog v-model="confirmDeleteDialog" max-width="290">
       <v-card>

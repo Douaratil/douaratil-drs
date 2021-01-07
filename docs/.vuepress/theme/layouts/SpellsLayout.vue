@@ -3,10 +3,6 @@
 
     <div class="d-flex flex-wrap align-center">
       <Breadcrumb class="mr-auto mb-4" />
-      <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-de-sort/"><v-icon left>mdi-plus</v-icon> Créer un sort</v-btn>
-        <MySpellsButton />
-      </div>
     </div>
 
     <h1>Grimoire</h1>

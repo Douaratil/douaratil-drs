@@ -22,3 +22,4 @@ Le site a été créé pour regrouper les règles du jeu et les informations sur
 ### Début de campagne
 - [Miz Du Anno 720](/chroniques/miz-du-720/)
 - [Miz Kerzu Anno 720](/chroniques/miz-kerzu-720/)
+- [Miz Genver Anno 721](/chroniques/miz-genver-721/)

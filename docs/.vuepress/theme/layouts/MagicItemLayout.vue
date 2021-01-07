@@ -2,11 +2,7 @@
   <div class="magic-item">
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
-      <div class="d-flex flex-wrap align-center">
-        <v-btn color="primary" class="mr-4 mb-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
-        <v-btn :outlined="!isMagicItemInTreasureChest" color="accent" class="mr-4 mb-4" depressed @click="toggleMagicItemInTreasureChest"><v-icon>mdi-book</v-icon> {{ displayToggleMagicItemButton }}</v-btn>
-        <MyMagicItemsButton />
-      </div>
+
     </div>
     <MagicItem :magicItem="$page" />
     <Edit />

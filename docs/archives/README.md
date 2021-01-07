@@ -10,6 +10,14 @@ toc: false
 <v-row>
 <v-col cols="12" md="6">
 
+## Bilan d'une fin d'année
+Le projet de ce site est encore jeune mais permet déjà d'être utilisé. Je remercie encore Em-squared pour le travail effectué et je vous invite évidemment à visiter le site original [Héros & Dragons DRS](https://heros-et-dragons.fr/).  
+Le site de Douaratil s'est étoffé de nombreux Archétypes et de Sorts. Chaque nouvelle rubrique est l'occasion de faire des ajustements, des modifications aussi dans le code des pages. Je remercie d'ailleurs toujours le même,  Em-squared pour le support régulier qu'il m'accorde pour compenser les lacunes informatiques.  
+La prochaine grande étape est la modification du bestiaire, car les règles modifient quelques mécanismes et je dois pour cela une nouvelle fois retourner dans le code. Je vous souhaite donc une bonne fin d'année, avec plein d'espérance pour la nouvelle année qui se prépare. A l'année prochaine.  
+_**Olivier**_,  
+_le 31 décembre 2020_
+
+
 ## Ajout des Archétypes & des sorts
 Ces derniers jours ont été l'occasion d'ajouter des [archétypes](/archetypes/) sur le site (Astartes, Bhaner, Bhegelm & Gwylwir). Dans la rubrique [grimoire](/grimoire/) ont été ajoutés treize nouveaux sorts mineurs originaux inventés par Elric (Air magique, appel de la pluie, atmosphère électrique, atmosphère vertueuse, boussole mentale, charge d'épée, coup de poing de cuivre, déperlance, main au fer blanc, main de l'air, miroir du Douargwar, poing purificateur & torche). Enfin, une rubrique [chroniques](/chroniques/) a été ajoutée et raconte les aventures des aventuriers qui parcourent actuellement le monde de Douaratil dans une partie maîtrisée par votre serviteur.
 §§§ .text-right

@@ -1,8 +1,8 @@
 <template>
   <div class="404 d-flex align-center flex-column">
     <h1>404</h1>
-    <p>Oh, il semble que vous ayez fait fausse route...</p>
-    <router-link :to="{ path: '/' }">Retourner sur la voie</router-link>
+    <p>Oh, il semble que vous vous soyez égaré...</p>
+    <router-link :to="{ path: '/' }">Revenez vers la lumière</router-link>
   </div>
 </template>
 

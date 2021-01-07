@@ -2,10 +2,7 @@
   <div class="create-spell">
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
-      <div class="d-flex flex-wrap align-center">
-        <MySpellsButton class="mr-4" />
-        <v-btn color="primary" class="mb-4" depressed link to="/grimoire/">Grimoire</v-btn>
-      </div>
+
     </div>
 
     <h1 class="d-print-none">Création de sort</h1>

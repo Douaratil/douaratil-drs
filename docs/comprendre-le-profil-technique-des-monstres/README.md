@@ -86,10 +86,9 @@ Un monstre meurt ou est détruit quand ses points d'action tombent à 0. Voir le
 
 La taille d'un monstre détermine le dé utilisé pour calculer ses points d'action, comme indiqué dans la table des dés de vie en fonction de la taille.
 
-### Dés de vie en fonction de la taille
+### Poinst d'action en fonction de la taille
 §§§ .table-container
-| Taille du monstre | Valeur de constitution |Points d’action par
-ID |
+| Taille du monstre | Valeur de constitution |Points d’action par ID |
 |:-|:-:|:-:|
 | **Très petit** | X 0,25 | 2 |
 | **Petit** | x 0,5 | 3 |
@@ -281,7 +280,7 @@ ID |
 | **Moyen** | 3 |
 | **Grand** | 6 |
 | **Très grand** | 10 |
-| **Gigantesque** | 20 | 
+| **Gigantesque** | 20 |
 §§§
 
 

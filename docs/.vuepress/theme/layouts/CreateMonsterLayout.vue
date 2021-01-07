@@ -2,11 +2,7 @@
   <div class="create-monster">
     <div class="d-flex flex-wrap align-center d-print-none">
       <Breadcrumb class="mr-auto mb-4" />
-      <div class="d-flex flex-wrap align-center">
-        <v-btn :outlined="!$store.state.l5r" color="primary" class="mr-4 mb-4" depressed @click="$store.commit('setL5r', !$store.state.l5r)"><span class="orn">8</span> Règles cinq royaumes</v-btn>
-        <MyMonstersButton class="mr-4" />
-        <v-btn color="primary" class="mb-4" depressed link to="/bestiaire/">Bestiaire</v-btn>
-      </div>
+
     </div>
 
     <h1 class="d-print-none">Création de monstre/PNJ</h1>

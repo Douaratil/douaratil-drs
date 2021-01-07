@@ -4,19 +4,7 @@
       <Breadcrumb class="mr-auto" />
       <v-btn color="primary" class="mr-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
       <v-btn color="primary" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
-    </div>
 
-    <h1>Mes objets magiques</h1>
-
-    <div class="my-4 d-flex flex-wrap d-print-none">
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="print" :disabled="$store.state.myMagicItems.magicItems.length <= 0"><v-icon>mdi-printer</v-icon> Imprimer</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed @click="download" :disabled="$store.state.myMagicItems.magicItems.length <= 0"><v-icon>mdi-file-download</v-icon> Sauvegarder</v-btn>
-      <v-btn outlined color="accent" class="mr-1 mb-1" depressed :loading="isUploading" @click="onUploadClick">
-        <v-icon left>mdi-file-upload</v-icon> Charger
-      </v-btn>
-      <input ref="uploader" class="d-none" type="file" @change="upload">
-      <v-btn outlined color="error" class="mb-1" depressed @click.stop="confirmDeleteDialog = true" :disabled="$store.state.myMagicItems.magicItems.length <= 0"><v-icon>mdi-delete</v-icon> Effacer les objets magiques</v-btn>
-    </div>
 
     <v-dialog v-model="confirmDeleteDialog" max-width="290">
       <v-card>
