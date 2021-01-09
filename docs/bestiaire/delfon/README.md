@@ -38,6 +38,7 @@ _**Apnée**_. Le delpfon peut respirer uniquement à l’air libre mais à une g
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
 ---
 
 Le Delfon aussi appelé « porte bonheur des marins » mesure en moyenne douze pieds de long. C’est un mammifère marin comme le dauphin mais ses origines sont beaucoup plus anciennes. Avec le temps, si sa morphologie n'a pas beaucoup évolué, le Delfon s'est adapté pour chasser dans les grandes profondeurs.

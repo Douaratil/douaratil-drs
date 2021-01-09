@@ -12,9 +12,9 @@ abilityScores:
   int: 3
   sag: 11
   cha: 6
-  ac:
-    armorType: "custom"
-    value: "12 (armure naturelle)"
+ac:
+  armorType: "custom"
+  value: "12 (armure naturelle)"
 movement:
   walk: 12
 senses:

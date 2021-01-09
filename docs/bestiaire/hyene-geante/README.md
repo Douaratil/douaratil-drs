@@ -12,9 +12,9 @@ abilityScores:
   int: 2
   sag: 12
   cha: 7
-  ac:
-    armorType: "custom"
-    value: "13"
+ac:
+  armorType: "custom"
+  value: "13"
 skills:
   - name: "perception"
 movement:
