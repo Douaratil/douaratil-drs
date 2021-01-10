@@ -4,7 +4,7 @@ type: "Bête"
 size: "M"
 alignment: "non-alignée"
 challenge: "0"
-hitDiceCount: 1
+customHP: "13"
 abilityScores:
   for: 7
   dex: 10
@@ -12,22 +12,22 @@ abilityScores:
   int: 2
   sag: 12
   cha: 4
-ac: 
-  armorType: null
-skills: 
+ac:
+  armorType: "custom"
+  value: "11"
+skills:
   - name: "perception"
     isExpert: true
-movement: 
+movement:
   walk: 3
   fly: 15
-senses: 
-languages: 
+senses:
+languages:
   - ""
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
-source_page: 324
+
 ---
 ## Capacités
 _**Odorat et vue aiguisés**_. Le vautour obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
@@ -36,4 +36,4 @@ _**Tactique de groupe**_. Le vautour obtient un [_avantage_](/utiliser-les-carac
 
 ## Actions
 _**Bec**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 (1d4) dégâts perforants.
+_Touché_ : 3 dégâts perforants.
