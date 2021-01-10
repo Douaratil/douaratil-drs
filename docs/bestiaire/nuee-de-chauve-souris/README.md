@@ -6,7 +6,7 @@ type: "Bête"
 size: "M"
 alignment: "non-alignée"
 challenge: "0.25"
-hitDiceCount: 5
+customHP: "12"
 abilityScores:
   for: 5
   dex: 15
@@ -14,14 +14,15 @@ abilityScores:
   int: 2
   sag: 12
   cha: 4
-ac: 
-  armorType: null
-movement: 
+ac:
+  armorType: "custom"
+  value: "13"
+movement:
   walk: 0
   fly: 9
-senses: 
+senses:
   blindsight: 18
-conditionImmunities: 
+conditionImmunities:
   - "a-terre"
   - "charme"
   - "empoigne"
@@ -30,18 +31,17 @@ conditionImmunities:
   - "paralyse"
   - "petrifie"
   - "terrorise"
-damageTypeResistances: 
+damageTypeResistances:
   - "contondant"
   - "perforant"
   - "tranchant"
-languages: 
+languages:
   - ""
 dungeonTypes:
   - Caverne aménagée
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
-source_page: 313
+
 ---
 ## Capacités
 _**Écholocalisation**_. La nuée ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
@@ -52,4 +52,4 @@ _**Ouïe aiguisée**_. La nuée obtient un [_avantage_](/utiliser-les-caracteris
 
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
-_Touché_ : 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nuée a perdu au moins la moitié de ses points de vie.
+_Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.

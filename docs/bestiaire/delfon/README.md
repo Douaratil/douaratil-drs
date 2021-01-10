@@ -4,7 +4,7 @@ type: "Bête"
 size: "G"
 alignment: "non-alignée"
 challenge: "2"
-customHP: "42"
+customHP: "46"
 abilityScores:
   for: 18
   dex: 16

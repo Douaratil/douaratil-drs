@@ -3,8 +3,8 @@ title: "Hyène à tête rouge"
 type: "Bête"
 size: "G"
 alignment: "non-alignée"
-challenge: "1"
-customHP: "42"
+challenge: "2"
+customHP: "44"
 abilityScores:
   for: 16
   dex: 14

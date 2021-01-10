@@ -25,8 +25,7 @@ languages:
 environments:
   - Collines / Vallées
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
-source_page: 312
+
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le mastiff obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.

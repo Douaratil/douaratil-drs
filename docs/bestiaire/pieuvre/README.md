@@ -4,7 +4,7 @@ type: "Bête"
 size: "P"
 alignment: "non-alignée"
 challenge: "0"
-hitDiceCount: 1
+customHP: "6"
 abilityScores:
   for: 4
   dex: 15
@@ -13,7 +13,8 @@ abilityScores:
   sag: 10
   cha: 4
 ac:
-  armorType: null
+  armorType: "custom"
+  value: "12"
 skills:
   - name: "discretion"
     isExpert: true
@@ -30,8 +31,7 @@ environments:
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
-source_page: 317
+
 ---
 ## Capacités
 _**Camouflage sous l'eau**_. La pieuvre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués sous l'eau.
