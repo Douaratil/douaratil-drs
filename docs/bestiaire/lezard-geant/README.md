@@ -15,7 +15,6 @@ abilityScores:
 ac:
   armorType: "custom"
   value: "13 (armure naturelle)"
-  value: 1
 movement:
   walk: 9
   climb: 9
