@@ -33,7 +33,7 @@ dungeonTypes:
 ## Capacités
 _**Solidarité communautaire**_.  Le delfon obtient un  [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu’un autre delfon est à proximité (1,5m) et qu’il n’est pas neutralisé.
 
-_**Apnée**_. Le delpfon peut respirer uniquement à l’air libre mais à une grande capacité d’apnée qui lui permet de plonger sous la surface des océans et de ne pas remonter avant une heure.  
+_**Apnée**_. Le delfon peut respirer uniquement à l’air libre mais à une grande capacité d’apnée qui lui permet de plonger sous la surface des océans et de ne pas remonter avant une heure.  
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  

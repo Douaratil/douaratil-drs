@@ -28,9 +28,9 @@ senses:
 languages:
   - ""
 environments:
-  - Bois / Forêt
-source: "Créatures & Oppositions"
-source_page: 303
+  - Arctique / Subarctique
+  - Montagnes
+
 ---
 ## Capacités
 _**Ouïe et vue aiguisées**_. La chouette obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
