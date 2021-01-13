@@ -24,6 +24,7 @@ _le 8 décembre 2020_
 En ce début d'année, les bonnes résolutions sont de mises. En ce sens, j'ai bien l'intention de continuer à m'investir pour ce site, pour mes joueurs et pour toutes les personnes qui pourraient être intéressées par le monde de Douaratil. Je dois aussi terminer le 4° roman de Douaratil. J'avais repris l'écriture de ce projet qui a une allure de serpent de mer (on en parle mais on ne le voit jamais) et je devais terminer fin 2020. Ce sera pour 2021.
 Ce matin, sur les explications judicieuses d'Em-squared, j'ai pu régler un point bloquant pour le bestiaire. Les créatures vont donc commencer à arriver sur le site et de nouveaux sorts seront ajoutés prochainement.
 A bientôt.
+§§§ .text-right
 _**Olivier**_,  
 _le 7 janvier 2021_
 

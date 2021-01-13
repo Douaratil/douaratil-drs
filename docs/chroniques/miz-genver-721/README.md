@@ -30,11 +30,17 @@ Il apprend à Lôchetos que Sawrina est d'origine Assyrhim, un lointain royaume 
 Il apprend au passage quelques mots à Lôchetos:  
 
 Bonjour : Sabalkhyr  
-Bonsoir : A'salkhayr
+Bonsoir : A'salkhayr  
 Manger :  Akal'tarh  
-Content : Sh'aeidah
-Peur : Alkha'ph
+Content : Sh'aeidah  
+Peur : Alkha'ph  
 Oui : Neh  
 Non :  Aya  
 
 Ashur Begaya quitte les lieux non sans mettre en garde Lôchetos contre les forces qu'il a dérangé. Il lui conseille d'être discret et de régler ses affaires terrestres car son temps est désormais compté.   
+
+## Guenddon
+**12 Miz Genver**
+Après les avertissements d'Ashur Begaya, les compagnons sont repartis rapidement et discrètement en direction des terres de Guenddon, terres natales des familles sous la coupe du clan Lugeto.  
+Le voyage a pris quelques jours, car Owain a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Guenddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
+Finalement, le sol s'affermi et les ajoncs s'éparpillent et c'est ainsi qu'Owain se retourne vers ses compagnons et montre fièrement le village de Caohaydhan, siège du pourvoir Lugeto.  

@@ -196,7 +196,7 @@ module.exports = {
   themeConfig: {
     domain: 'https://douaratil.fr',
     repository: 'https://github.com/douaratil/heros-et-dragons-drs',
-    kofi: 'https://ko-fi.com/S6S410PB8',
+    kofi: 'https://ko-fi.com/douaratil',
     forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
     discord: 'https://discord.gg/vRXeVwrNvK',
     primaryColor: '#5B3C11', // Hero
@@ -436,6 +436,8 @@ module.exports = {
               },
             ]
           },
+          {title: "Atlas",
+           children: [{title: "Carte du monde", path:'/atlas-du-monde/carte-du-monde'}]}
         ]
       },
       {type: 'divider'},

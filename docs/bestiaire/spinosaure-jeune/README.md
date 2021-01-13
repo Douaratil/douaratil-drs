@@ -13,9 +13,9 @@ abilityScores:
   int: 2
   sag: 11
   cha: 8
-  ac:
-    armorType: "custom"
-    value: "14 (armure naturelle)"
+ac:
+  armorType: "custom"
+  value: "14 (armure naturelle)"
 skills:
   - name: "perception"
 movement:

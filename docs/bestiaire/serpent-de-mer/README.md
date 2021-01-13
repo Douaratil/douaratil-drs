@@ -16,9 +16,9 @@ abilityScores:
 savingThrows:
   - "con"
   - "sag"
-  ac:
-    armorType: "custom"
-    value: "18 (armure naturelle)"
+ac:
+  armorType: "custom"
+  value: "18 (armure naturelle)"
 movement:
   swim: 15
 senses:

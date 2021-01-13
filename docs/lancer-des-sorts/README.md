@@ -75,6 +75,21 @@ Il est possible d'autre part de moduler la difficulté en doublant le nombre de 
 ## Lancer un sort
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.
 
+Lancer un sort n'engage pas une réussite automatique. La magie est un art difficile et imprévisible. Ainsi, les sorts exigent un test de compétence d'Arcane pour la Magie et de Religion pour la Foi. Un échec entraine la perte des points de Magie ou de Foi correspondants.
+
+§§§ .table-container
+|Niveau||Difficulté du test|
+|:-:|:-:|
+|Novice|8|
+|Disciple|12|
+|Apprenti|16|
+|Adepte|22|
+|Expert|28|
+|Maître|35|
+§§§
+
+Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF) comme pour l'enchantement des composantes matérielles. Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
+
 Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire/) commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
 
 ### Temps d'incantation
