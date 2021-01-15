@@ -9,7 +9,7 @@ Cette section raconte les aventures de :
 - **Lôchetos** le Llawenos
 - **Malala Soa** la Shangarah
 - **Margs** le Bhegelm
-- **Owain** le Gwyliwir
+- **Owain** le Gwylwir
 - **Rudolf** le Skell
 - **Sawrina** La Nayane
 - **Tiberius** l'Astartes

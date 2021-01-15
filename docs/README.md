@@ -20,10 +20,10 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## La reprise et les résolutions
-En ce début d'année, les bonnes résolutions sont de mises. En ce sens, j'ai bien l'intention de continuer à m'investir pour ce site, pour mes joueurs et pour toutes les personnes qui pourraient être intéressées par le monde de Douaratil. Je dois aussi terminer le 4° roman de Douaratil. J'avais repris l'écriture de ce projet qui a une allure de serpent de mer (on en parle mais on ne le voit jamais) et je devais terminer fin 2020. Ce sera pour 2021.
-Ce matin, sur les explications judicieuses d'Em-squared, j'ai pu régler un point bloquant pour le bestiaire. Les créatures vont donc commencer à arriver sur le site et de nouveaux sorts seront ajoutés prochainement.
-A bientôt.
+## Des sorts, des bêtes & de la géographie
+Le site continue progressivement de s'enrichir. Les règles des sorts ont été précisées. Désormais, 59 sorts sont convertis pour les rats de bibliothèque. Pour les défis, c'est aussi 94 adversaires (des bêtes et des monstres pour le moment) qui ont été convertis avec l'ajout pour certains de descriptions.  
+C'est aussi l'ajout de la carte du monde de Douaratil : en 8K s'il vous plait. Cette carte est amenée à être complétée, elle sera mise à jour régulièrement.
+A bientôt pour plus de nouvelles et prenez soin de vous.
 §§§ .text-right
 _**Olivier**_,  
 _le 7 janvier 2021_

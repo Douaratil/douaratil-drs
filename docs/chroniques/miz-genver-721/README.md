@@ -9,7 +9,7 @@ Cette section raconte les aventures de :
 - **Lôchetos** le Llawenos
 - **Malala Soa** la Shangarah
 - **Margs** le Bhegelm
-- **Owain** le Gwyliwir
+- **Owain** le Gwylwir
 - **Rudolf** le Skell
 - **Sawrina** La Nayane
 - **Tiberius** l'Astartes
@@ -40,7 +40,13 @@ Non :  Aya
 Ashur Begaya quitte les lieux non sans mettre en garde Lôchetos contre les forces qu'il a dérangé. Il lui conseille d'être discret et de régler ses affaires terrestres car son temps est désormais compté.   
 
 ## Guenddon
-**12 Miz Genver**
+**12 Miz Genver**  
 Après les avertissements d'Ashur Begaya, les compagnons sont repartis rapidement et discrètement en direction des terres de Guenddon, terres natales des familles sous la coupe du clan Lugeto.  
 Le voyage a pris quelques jours, car Owain a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Guenddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
 Finalement, le sol s'affermi et les ajoncs s'éparpillent et c'est ainsi qu'Owain se retourne vers ses compagnons et montre fièrement le village de Caohaydhan, siège du pourvoir Lugeto.  
+Dès son arrivée à Caohaydhan, Lôchetos se rend au chevet de son oncle pour prendre de ses nouvelles, …
+il est encore souffrant. Le Meldète implore les dieux et tente de le soigner grâce à la prière, en se remémorant tous les gestes et paroles que lui a appris Korydwen. Il demande à sa mère ainsi qu’au plus jeune adulte de la famille en qui il a confiance de l’assister.  
+Laissant les deux sacs de farines ainsi que le tonnelet de bière à sa famille, il leur demande strictement en confiant la tâche à sa grande sœur Sedelia et son petit frère Larixo, de ne pas les consommer mais de les vendre afin d’acheter autre chose.  
+Pendant ce temps, il prends une chambre d’auberge pour l’Assyrhim afin de ne pas mêler m
+sa famille à cette histoire et propose à Gwion et Owain de monter la garde avec lui le temps d’avoir une audience avec le chef de clan.  
+Concernant l’audience, Il demande à son père, comme il est garde de Lugeto, s’il peut lui obtenir un tête à tête, en toute discretion avec Lugeto, en lui disant que c’est très urgent et qu'il ne peux rien dévoiler sans risque de mettre la famille en danger. Le père est réticent de ces secrets soudain et refuse de faire l'intermédiaire. Lôchetos passe quelques temps avec Sawrina pour échanger sur sa langue et essayer de lui apprendre le Mèlde. De son côté, Gwion profite de la nouvelle lune pour s'éloigner dans les marais et procéder à de sombres et mystérieuses cérémonies d'enchantement..  

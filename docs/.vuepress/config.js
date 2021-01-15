@@ -412,6 +412,10 @@ module.exports = {
           {
             title: "Les poisons",
             path: '/poisons/'
+          },
+          {
+            title: "Les plantes",
+            path: '/herbier/'
           }
         ]
       },
@@ -437,7 +441,8 @@ module.exports = {
             ]
           },
           {title: "Atlas",
-           children: [{title: "Carte du monde", path:'/atlas-du-monde/carte-du-monde'}]}
+           children: [{title: "Carte du monde", path:'/atlas-du-monde/carte-du-monde'},
+        {title: "Douaratil", path:'/atlas-du-monde/douaratil'}]}
         ]
       },
       {type: 'divider'},
