@@ -9,7 +9,7 @@ title: Shangharah
 |:-:|:-:|
 |**3**|[Disciple de la vie](#disciple-de-la-vie)|
 |**4**|[Préserver la vie](#preserver-la-vie)|
-|**6**|[(Guérisseur béni](#guerisseur-beni)|
+|**6**|[Guérisseur béni](#guerisseur-beni)|
 |**8**|[Frappe spirituelle (+1d6)](#frappe-spirituelle)|
 |**10**|[Bénédiction du guide](#benediction-du-guide)|
 |**11**|[Lame assoiffée](#lame-assoiffee)|
