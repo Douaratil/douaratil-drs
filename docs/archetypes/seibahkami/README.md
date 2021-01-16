@@ -19,7 +19,7 @@ title: Seibahkami
 §§§
 
 ## Aptitudes d'Archétype
-En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
+En tant que Seibahkami, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires.  
