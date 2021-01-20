@@ -2,7 +2,7 @@
 title: "Cercle de mort"
 description: "Les créatures dans la sphère subissent 8d6 dégâts nécrotiques."
 school: "Nécromancie"
-level: 6
+level: 2
 concentration: false
 casting_time: "1 action"
 duration: "instantanée"
