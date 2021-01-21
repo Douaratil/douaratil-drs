@@ -2,7 +2,7 @@
 title: "Embruns prismatiques"
 description: "Huit rayons aux effets aléatoires frappent les cibles à 18 mètres."
 school: "Évocation"
-level: 7
+level: 3
 concentration: false
 casting_time: "1 action"
 duration: "instantanée"
@@ -25,5 +25,4 @@ Huit traits d'énergie jaillissent de votre main. Chacun possède des pouvoirs e
 7. **_Poison_**. La cible subit 10d6 dégâts de poison si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
 8-9. **_Froid_**. La cible subit 10d6 dégâts de froid si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
 10. **_Pétrification_**. Si la cible rate son jet de sauvegarde, elle est entravée et doit alors faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine, si elle en rate trois, elle se change définitivement en pierre et est pétrifiée. Les succès et les échecs n'ont pas à être consécutifs : tenez le compte dans chaque catégorie jusqu'à ce que l'une d'elles arrive à trois.
-11. **_Violet_**. La cible est aveuglée si elle rate son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Elle doit alors faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse au début de votre prochain tour. Si elle le réussit, elle recouvre la vue ; si elle le rate, elle est emportée sur un autre plan d'existence choisi par le MJ et recouvre aussi la vue. (En général, une créature qui ne se trouve pas sur son propre plan d'existence est bannie là-bas tandis que les autres créatures sont envoyées sur le plan astral ou éthéré.)
-12. **_Spécial_**. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 12.
+11-12. **_Spécial_**. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 12.

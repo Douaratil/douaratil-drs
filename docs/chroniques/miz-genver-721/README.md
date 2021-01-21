@@ -50,3 +50,33 @@ Laissant les deux sacs de farines ainsi que le tonnelet de bière à sa famille,
 Pendant ce temps, il prends une chambre d’auberge pour l’Assyrhim afin de ne pas mêler m
 sa famille à cette histoire et propose à Gwion et Owain de monter la garde avec lui le temps d’avoir une audience avec le chef de clan.  
 Concernant l’audience, Il demande à son père, comme il est garde de Lugeto, s’il peut lui obtenir un tête à tête, en toute discretion avec Lugeto, en lui disant que c’est très urgent et qu'il ne peux rien dévoiler sans risque de mettre la famille en danger. Le père est réticent de ces secrets soudain et refuse de faire l'intermédiaire. Lôchetos passe quelques temps avec Sawrina pour échanger sur sa langue et essayer de lui apprendre le Mèlde. De son côté, Gwion profite de la nouvelle lune pour s'éloigner dans les marais et procéder à de sombres et mystérieuses cérémonies d'enchantement..  
+
+**17 Miz Genver**  
+Chaque jour Lôchetos se rend au chevet de son oncle qui ne se semble ne pas se remettre de son affection et convaincu des vertus apaisantes de la musique joue quelques notes à celui qui fut l'un de ses premiers précepteurs de musique et qui lui enseigna la lyre.  
+Après avoir retrouvés leurs proches et réglé leurs affaires, les trois jeunes Meldètes du clan Lugeto décident d’honorer leur devoir et de faire leur rapport à leur chef de clan avec les offrandes qu’ils ont pût obtenir en chemin.  
+En feignant d’être porteur d’un message de la part de Morwenna, Lôchetos tente sans succès d’obtenir  un entretien privé avec le chef de clan.  
+Lôchetos fait la demande par l'intermédiaire de son père une faveur en lui promettant de raconter plus qu’un simple message de la part de Morwenna : faire le serment qu’il va accorder la protection à Sawrina car elle risque d’être la clé des évènements qui vont arriver sur Douaratil dans les prochaines lunes.  
+Intrigué Gaenor Lugeto finit par accorder une entrevue en toute discrétion avec le jeune meldète. Il lui promet sans conviction de veiller sur la sécurité de la jeune étrangère, du moins sur ses terres.  
+Au cours de cet entretien privé Lôchetos dévoile à son chef de clan les intrigues et forces en mouvement que ses compagnons et lui ont pu déceler lors de leur périple.  
+Il racconte les tensions entre Alarig Pinvidic et Beda Modiern, demi-frère de Morwenna et bâtard du Rek Goulvenig Moisan :  
+-    Le fait que Beda Modiern ne voit pas d’un bon œil l’arrivé d’Alarig en pole position d’héritier et qu’il risque de comploter pour empêcher cette union même s’il semble respecter le choix de sa sœur.  
+-    Le fait qu’Alarig a fait en sorte qu’on quitte les lieux vite et qu’il a tenté de se débarrasser de nous trois, grâce aux dieux nous avons pu terrasser nos adversaires et ramener nos compagnons.  
+-    Qu’Alarig, ce qui est logique ne compte pas nous laisser tranquille une fois sur le trône.  
+Le Llawenos lui dit qu’il serait peut être dans l'intérêt de Gaenor de profiter de ses tentions pour affaiblir le pouvoir et retrouver notre autonomie.  
+Il lui fait part ensuite de la découverte dans la grotte :
+-    L’argent + les provisions
+-    Les écriteaux mystiques
+-    Les bateaux entre Kerzu et les royaumes de Shaia
+-    La femme enfermée dans le cercueil
+-    Le sorcier et le fait qu’il semble puissant
+-    Le complot contre le cercle de Kernac de la part du cercle de la nuit.  
+Le cercle de Kernac pourrait se faire un nouvel allié puissant si on lui amenait ces informations ainsi qu’un soutient.  
+Il lui demande de faire surveiller les allées et venues des étrangers sur son territoire.  
+Gaenor accepte d'envoyer des hommes sous le prétexte de ramener les chevaux de Morwenna à Ker-Saozon. Ils fait transmettre les ordres en ce sens et les cavaliers partent immédiatement avec pour instruction de faire route jour et nuit.  
+
+**19 Miz Genver**  
+Arrivé sur place en seulement deux jours, les cavaliers du clan Lugeto rendent les chevaux qui sont éreintés et en profitent pour prendre des renseignements sur ville. Morwenna s'étonne de cette estafette et donne pour instruction à ses gens restés fidèles Yan Zin et Malala Soa de les prendre en filature et de ramener des informations.  
+
+**20 Miz Genver**  
+Après s'être bien éloigné de Ker-Saozon, Yan Zin se rend compte trop tard qu'ils ont été repérés et tombent dans une embuscade de Meldètes du clan Lugeto. Pour la sécurité de Malala Soa, le Yotakaï préfère poser les armes et les deux compagnons sont faits prisonniers.  
+Ils sont emmenés vers une zone inconnue, en terre hostile, dans les marais de Guenddon.   

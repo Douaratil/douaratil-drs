@@ -9,6 +9,15 @@ toc: false
 
 <v-row>
 <v-col cols="12" md="6">
+
+§§§
+## Des sorts et des bêtes.
+J'ai rajouté quelques sorts aux site pour un total désormais de 77 et trois nouvelles bêtes (le Malaak, le Mandrill des Montagnes & l'ours charognard) pour un total de 97 adversaires.
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 15 janvier 2021_
+
 §§§
 ## Des sorts, des bêtes & de la géographie
 Le site continue progressivement de s'enrichir. Les règles des sorts ont été précisées. Désormais, 59 sorts sont convertis pour les rats de bibliothèque. Pour les défis, c'est aussi 94 adversaires (des bêtes et des monstres pour le moment) qui ont été convertis avec l'ajout pour certains de descriptions.  

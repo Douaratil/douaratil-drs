@@ -20,12 +20,12 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Des sorts et des bêtes.
-J'ai rajouté quelques sorts aux site pour un total désormais de 77 et trois nouvelles bêtes (le Malaak, le Mandrill des Montagnes & l'ours charognard) pour un total de 97 adversaires.
+## Des sorts et un Archétype.
+La conversion des sorts continue et c'est désormais 181 sorts qui sont disponibles. Certains choix sont délicats car je dois évincer certains sorts amusants mais qui ne sont pas dans l'esprit du monde de Douaratil. Un nouvel Archétype est désormais aussi disponible : Le Ior. Il s'agit d'un guerrier berserk du peuple meldète. Ce sera un allié ou un adversaire redoutable.  
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
-_le 15 janvier 2021_
+_le 20 janvier 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)
