@@ -65,6 +65,14 @@
         </v-expansion-panel-content>
       </v-expansion-panel>
 
+      <v-expansion-panel>
+        <v-expansion-panel-header>Categories</v-expansion-panel-header>
+        <v-expansion-panel-content>
+          <v-btn class="mb-2 mt-2" small color="primary" @click="resetCategories" dark>Réinitialiser</v-btn>
+          <v-switch v-for="category in categories" v-model="category.value" :label="category.label" dense class="ma-0" @change="switchCategory" color="accent"></v-switch>
+        </v-expansion-panel-content>
+      </v-expansion-panel>
+
     </v-expansion-panels>
 
   </div>
@@ -139,6 +147,15 @@ export default {
         this.$store.commit('monsterFilters/setDungeonTypes', newValue)
       }
     },
+
+    categories: {
+      get () {
+        return this.$store.state.monsterFilters.categories
+      },
+      set (newValue) {
+        this.$store.commit('monsterFilters/setCategories', newValue)
+      }
+    },
   },
 
   methods: {
@@ -194,6 +211,16 @@ export default {
       setUrlParams('donjons', list)
     },
 
+    switchCategory () {
+      let list = []
+      for (var i = 0; i < this.categories.length; i++) {
+        if (this.categories[i].value) {
+          list.push(this.categories[i].label)
+        }
+      }
+      setUrlParams('categories', list)
+    },
+
     setColor (value, compare, color) {
       if (value === compare) {
         return color
@@ -220,6 +247,11 @@ export default {
       this.$store.commit('monsterFilters/resetDungeonTypes')
       this.switchDungeonType()
     },
+
+    resetCategories () {
+      this.$store.commit('monsterFilters/resetCategories')
+      this.switchCategory()
+    },
   },
 
   mounted () {
@@ -230,6 +262,7 @@ export default {
     let selectedTypes = getUrlParameter(window.location.href, "types").split(",")
     let selectedEnvironments = getUrlParameter(window.location.href, "environnements").split(",")
     let selectedDungeonTypes = getUrlParameter(window.location.href, "donjons").split(",")
+    let selectedCategories = getUrlParameter(window.location.href, "categories").split(",")
 
     if (challengeRange && challengeRange[0] != '' && challengeRange[1] != '') {
       let convertedChallengeRange = []
@@ -251,6 +284,7 @@ export default {
     setListMutation(selectedSizes, this.$store, 'monsterFilters/setSizesFromList')
     setListMutation(selectedEnvironments, this.$store, 'monsterFilters/setEnvironmentsFromList')
     setListMutation(selectedDungeonTypes, this.$store, 'monsterFilters/setDungeonTypesFromList')
+    setListMutation(selectedCategories, this.$store, 'monsterFilters/setCategoriesFromList')
   }
 }
 </script>

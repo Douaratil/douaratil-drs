@@ -54,6 +54,10 @@ export default {
       { label: "Ruines souterraines", value: false },
       { label: "Ruines sous-marines", value: false },
     ],
+    categories: [
+      { label: "PJ", value: false },
+      { label: "PNJ", value: false },
+    ],
   },
 
   getters: {
@@ -62,6 +66,7 @@ export default {
     sizes: state => state.sizes,
     environments: state => state.environments,
     dungeonTypes: state => state.dungeonTypes,
+    categories: state => state.categories,
   },
 
   actions: {
@@ -110,6 +115,15 @@ export default {
     },
     resetDungeonTypes: ({ commit }) => {
       commit('resetDungeonTypes')
+    },
+    updateCategories: ({ commit }, payload) => {
+      commit('setCategories', payload)
+    },
+    updateCategoriesFromList: ({ commit }, payload) => {
+      commit('setCategoriesFromList', payload)
+    },
+    resetCategories: ({ commit }) => {
+      commit('resetCategories')
     },
   },
 
@@ -230,6 +244,25 @@ export default {
         { label: "Ruines extérieures", value: false },
         { label: "Ruines souterraines", value: false },
         { label: "Ruines sous-marines", value: false },
+      ]
+    },
+    setCategories: (state, payload) => {
+      state.categories = payload
+    },
+    setCategoriesFromList: (state, payload) => {
+      for (let i = 0; i < payload.length; i++) {
+        let idx = state.categories.findIndex(item => {
+          return item.label == payload[i]
+        })
+        if (idx > -1) {
+          state.categories[idx].value = true
+        }
+      }
+    },
+    resetCategories: (state) => {
+      state.categories = [
+        { label: "PJ", value: false },
+        { label: "PNJ", value: false },
       ]
     },
   }

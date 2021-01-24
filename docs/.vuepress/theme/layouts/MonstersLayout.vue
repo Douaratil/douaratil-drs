@@ -24,6 +24,9 @@
       <div class="dungeon-types-filter mb-1" v-if="selectedDungeonTypes.length > 0">
         <strong>Types de donjons</strong> : <v-chip class="mr-1" v-for="(dType, idx) in selectedDungeonTypes">{{ dType }}</v-chip>
       </div>
+      <div class="categories-filter mb-1" v-if="selectedCategories.length > 0">
+        <strong>Catégories</strong> : <v-chip class="mr-1" v-for="(category, idx) in selectedCategories">{{ category }}</v-chip>
+      </div>
     </div>
 
     <v-data-table
@@ -130,6 +133,7 @@ export default {
       sizes: state => state.monsterFilters.sizes,
       environments: state => state.monsterFilters.environments,
       dungeonTypes: state => state.monsterFilters.dungeonTypes,
+      categories: state => state.monsterFilters.categories,
     }),
 
     selectedTypes() {
@@ -172,6 +176,16 @@ export default {
       return result
     },
 
+    selectedCategories() {
+      let result = []
+      for (let category of this.categories) {
+        if (category.value) {
+          result.push(category.label)
+        }
+      }
+      return result
+    },
+
     monsters() {
       let results = this.$pagination.pages
 
@@ -185,6 +199,19 @@ export default {
       results = results.filter(item => {
         return item.frontmatter.challenge >= Number(CHALLENGES[minID].value) && item.frontmatter.challenge <= Number(CHALLENGES[maxID].value)
       })
+
+      // Filter categories
+      let selectedCategories = []
+      for (var i = 0; i < this.categories.length; i++) {
+        if (this.categories[i].value) {
+          selectedCategories.push(this.categories[i].label)
+        }
+      }
+      if (selectedCategories.length) {
+        results = results.filter(item => {
+          return selectedCategories.indexOf(item.frontmatter.category) > -1
+        })
+      }
 
       // Filter types
       let selectedTypes = []
