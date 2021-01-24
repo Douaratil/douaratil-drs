@@ -13,9 +13,9 @@ abilityScores:
   int: 10
   sag: 14
   cha: 11
-  ac:
-    armorType: "custom"
-    value: "12"
+ac:
+  armorType: "custom"
+  value: "12"
 skills:
   - name: "medecine"
   - name: "religion"

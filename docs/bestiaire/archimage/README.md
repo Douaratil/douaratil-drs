@@ -16,9 +16,9 @@ abilityScores:
 savingThrows:
   - "int"
   - "sag"
-  ac:
-    armorType: "custom"
-    value: "14 (17 Armure du mage)"
+ac:
+  armorType: "custom"
+  value: "14 (17 Armure du mage)"
 skills:
   - name: "arcanes"
     isExpert: true

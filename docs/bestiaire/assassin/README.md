@@ -16,9 +16,9 @@ abilityScores:
 savingThrows:
   - "dex"
   - "int"
-  ac:
-    armorType: "custom"
-    value: "16 (Armure de cuir clouté)"
+ac:
+  armorType: "custom"
+  value: "16 (Armure de cuir clouté)"
 skills:
   - name: "acrobaties"
   - name: "discretion"

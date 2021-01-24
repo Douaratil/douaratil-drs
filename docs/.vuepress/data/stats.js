@@ -11,10 +11,10 @@ export const stats = {
     "Fiélon": { plural: "Fiélons", swarm: "de fiélons", label: "Fiélon"},
     "Géant": { plural: "Géants", swarm: "de géants", label: "Géant"},
     "Humanoïde": { plural: "Humanoïdes", swarm: "d'humanoïdes", label: "Humanoide"},
-    "PJ": { plural: "PJ's", swarm: "PJ", label: "PJ"},
     "Mort-vivant": { plural: "Morts-vivants", swarm: "de morts-vivants", label: "Mort-vivant"},
+    "PJ": { plural: "PJ's", swarm: "PJ", label: "PJ"},
     "Plante": { plural: "Plantes", swarm: "de plantes", label: "Plante"},
-    "PJ": { plural: "PJ", swarm: "PJ", label: "PJ"},
+    "PNJ": { plural: "PNJ", swarm: "PNJ", label: "PNJ"},
     "Vase": { plural: "Vases", swarm: "de vases", label: "Vase"},
   },
 

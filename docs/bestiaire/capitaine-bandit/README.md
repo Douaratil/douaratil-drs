@@ -17,9 +17,9 @@ savingThrows:
   - "for"
   - "dex"
   - "sag"
-  ac:
-    armorType: "custom"
-    value: "15 (Armure de cuir cloutée)"
+ac:
+  armorType: "custom"
+  value: "15 (Armure de cuir cloutée)"
 skills:
   - name: "athletisme"
   - name: "supercherie"
