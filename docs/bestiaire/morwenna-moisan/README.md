@@ -22,17 +22,21 @@ ac:
 skills:
   - name: "athletisme"
   - name: "supercherie"
-  isExpert: true
-- name: "persuasion"
-- name: "perspicacité"
+  - name: "persuasion"
+    isExpert: true
+  - name: "perspicacité"
+    isExpert: true
 movement:
   walk: 9
 senses:
 languages:
   - " le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bena’ch dialecte khenraë, le Mèlde langue meldète"
+---
   ## Capacités
   _**Voie des armes**_. : Morwenna est niveau 5 dans la voie des armes.
+
   _**Style de combat défense**_. : Quand Morwenna porte une armure, elle gagne un bonus de +1 à votre VD.
+
   _**Second souffle**_. : Morwenna joui d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes (2d6+5). Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
 
