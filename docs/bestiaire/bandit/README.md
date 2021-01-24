@@ -13,9 +13,9 @@ abilityScores:
   int: 10
   sag: 10
   cha: 10
-  ac:
-    armorType: "custom"
-    value: "12 (Armure de cuir)"
+ac:
+  armorType: "custom"
+  value: "12 (Armure de cuir)"
 movement:
   walk: 9
 senses:

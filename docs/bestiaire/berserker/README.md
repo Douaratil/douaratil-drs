@@ -13,9 +13,9 @@ abilityScores:
   int: 9
   sag: 11
   cha: 9
-  ac:
-    armorType: "custom"
-    value: "12 (Armure de peau)"
+ac:
+  armorType: "custom"
+  value: "12 (Armure de peau)"
 movement:
   walk: 9
 senses:
