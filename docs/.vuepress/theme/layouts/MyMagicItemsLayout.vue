@@ -4,6 +4,7 @@
       <Breadcrumb class="mr-auto" />
       <v-btn color="primary" class="mr-4" depressed link to="/creation-d-objet-magique/"><v-icon left>mdi-plus</v-icon> Créer un objet magique</v-btn>
       <v-btn color="primary" depressed link to="/liste-objets-magiques/">Liste des objets magiques</v-btn>
+    </div>
 
 
     <v-dialog v-model="confirmDeleteDialog" max-width="290">

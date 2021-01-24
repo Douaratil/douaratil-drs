@@ -8,6 +8,7 @@ toc: false
 §§§
 
 <v-row>
+
 <v-col cols="12" md="6">
 
 §§§
@@ -86,3 +87,7 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 §§§ .text-right
 _**Olivier**_,  
 _le 8 décembre 2020_
+
+</v-col>
+
+</v-row>

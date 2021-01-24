@@ -8,6 +8,7 @@ toc: false
 §§§
 
 <v-row>
+
 <v-col cols="12" md="6">
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
@@ -31,6 +32,7 @@ _le 20 janvier 2021_
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 
 Bon jeu à tout le monde !
+
 </v-col>
 
 <v-col cols="12" md="6">
@@ -45,4 +47,5 @@ Bon jeu à tout le monde !
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
 
 </v-col>
+
 </v-row>

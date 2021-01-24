@@ -175,7 +175,7 @@ export default {
       let result = []
       for (let level of this.levels) {
         if (level.value) {
-          result.push(this.levelDisplay(level))
+          result.push(this.levelDisplay(level.level))
         }
       }
       return result

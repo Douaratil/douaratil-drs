@@ -5,7 +5,8 @@
       <v-btn :outlined="!$store.state.l5r" color="primary" class="mr-4" depressed @click="$store.commit('setL5r', !$store.state.l5r)"><span class="orn">8</span> Règles cinq royaumes</v-btn>
       <v-btn color="primary" class="mr-4" depressed link to="/creation-de-monstre-pnj/"><v-icon left>mdi-plus</v-icon> Créer un monstre</v-btn>
       <v-btn color="primary" depressed link to="/bestiaire/">Bestiaire</v-btn>
-  
+    </div>
+
 
     <v-dialog v-model="confirmDeleteDialog" max-width="290">
       <v-card>
