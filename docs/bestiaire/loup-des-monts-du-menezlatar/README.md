@@ -25,6 +25,7 @@ languages:
   - ""
 environments:
   - Montagnes
+  - Arctique / Subarctique
 
 ---
 ## Capacités

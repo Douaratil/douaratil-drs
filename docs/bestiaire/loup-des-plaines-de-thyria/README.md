@@ -26,7 +26,7 @@ languages:
 environments:
   - Bois / Forêt
   - Collines / Vallées
-  - Plaines
+  - Plaine / Champs / Prairie / Savane
 
 ---
 ## Capacités

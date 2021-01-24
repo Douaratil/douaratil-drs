@@ -39,10 +39,10 @@ Non :  Aya
 
 Ashur Begaya quitte les lieux non sans mettre en garde Lôchetos contre les forces qu'il a dérangé. Il lui conseille d'être discret et de régler ses affaires terrestres car son temps est désormais compté.   
 
-## Guenddon
+## Geunddon
 **12 Miz Genver**  
-Après les avertissements d'Ashur Begaya, les compagnons sont repartis rapidement et discrètement en direction des terres de Guenddon, terres natales des familles sous la coupe du clan Lugeto.  
-Le voyage a pris quelques jours, car Owain a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Guenddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
+Après les avertissements d'Ashur Begaya, les compagnons sont repartis rapidement et discrètement en direction des terres de Geunddon, terres natales des familles sous la coupe du clan Lugeto.  
+Le voyage a pris quelques jours, car Owain a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Geunddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
 Finalement, le sol s'affermi et les ajoncs s'éparpillent et c'est ainsi qu'Owain se retourne vers ses compagnons et montre fièrement le village de Caohaydhan, siège du pourvoir Lugeto.  
 Dès son arrivée à Caohaydhan, Lôchetos se rend au chevet de son oncle pour prendre de ses nouvelles, …
 il est encore souffrant. Le Meldète implore les dieux et tente de le soigner grâce à la prière, en se remémorant tous les gestes et paroles que lui a appris Korydwen. Il demande à sa mère ainsi qu’au plus jeune adulte de la famille en qui il a confiance de l’assister.  
@@ -79,4 +79,11 @@ Arrivé sur place en seulement deux jours, les cavaliers du clan Lugeto rendent 
 
 **20 Miz Genver**  
 Après s'être bien éloigné de Ker-Saozon, Yan Zin se rend compte trop tard qu'ils ont été repérés et tombent dans une embuscade de Meldètes du clan Lugeto. Pour la sécurité de Malala Soa, le Yotakaï préfère poser les armes et les deux compagnons sont faits prisonniers.  
-Ils sont emmenés vers une zone inconnue, en terre hostile, dans les marais de Guenddon.   
+Ils sont emmenés vers une zone inconnue, en terre hostile, dans les marais de Geunddon.   
+
+**23 Miz Genver**  
+Depuis plusieurs jours, Gwion Gornoc parcours le marais à la recherche de précieuses Cépates qu'il retravaille en onguent.  
+De son côté Lôchetos Vlatcano utilise son temps libre pour enquêter sur les rumeurs diffamantes qui ont frappé le clan Gornoc. A laisser trainer ses oreilles dans les conversations de taverne et au marché, il commence à comprendre que Elusco Gornoc, aurait été accusé à tort. La femme de Britomartos, la grosse Taurilla, est fort laide mais sa famille lui avait fourni une grosse dote. Il se dirait même que Britomartos répugne à la connaître. D'autres disent encore que lui-même aurait lancé cette rumeur envers un clan moins puissant pour désavouer sa femme et pouvoir la répudier si la faute était avéré avec la bénédiction des Drodanos. La grosse femme serait peut-être envoyée chez les Sermazloths avec une chance de survie quasi nulle. Cela permettrait aussi au clan Nantono de Britomartos de soumettre le clan Cornog en cas de conflit armé.  
+Dans la journée, les éclaireurs de Gaenor Lugeto reviennent de Ker-Saozon avec deux prisonniers, la rumeur dit que l'un à la face applatie et les yeux bridés et que l'autre est une femme à la peau très sombre.  
+Les compagnons comprennent immédiatement qu'il s'agit de Yan Zin et de Malala Soa. Ils se rendent au palais de Caer'Caohaydhan et demandent une entrevue avec le Genos Gaenor Lugeto pour obtenir la libération de leurs amis. Celui-ci leur accorde mais sous leur seule responsabilité.  
+Dans le même temps, Sawrina est hébergée à l'auberge de la Mouette noire

@@ -402,6 +402,10 @@ module.exports = {
             path: '/maladies/'
           },
           {
+            title: "Passions, honneur & interactions sociales",
+            path: '/passion-honneur-et-interactions-sociales/'
+          },
+          {
             title: "La folie",
             path: '/folie/'
           },

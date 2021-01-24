@@ -19,7 +19,9 @@ export default {
       { label: "Géant", value: false },
       { label: "Humanoïde", value: false },
       { label: "Mort-vivant", value: false },
+      { label: "PJ", value: false },
       { label: "Plante", value: false },
+      { label: "PNJ", value: false },
       { label: "Vase", value: false },
     ],
     sizes: [
