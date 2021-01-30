@@ -29,7 +29,7 @@ En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : aucun  
 **Jets de sauvegarde** : Force, Constitution.  
 **Compétences** : Athlétisme, Dressage, Intimidation, Perception, Survie.  
-**Conditions d'accessibilité**: Être de culture Meldète
+**Conditions d'accessibilité**: Être de culture Meldète  
 **Points de Magie** :  Le Ior est un Archétype sacré, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
 La caste des Ioros regroupe une élite meldètes qui décide de vivre de la guerre pour la gloire du dieu de la guerre Teutès. Souvent placés auprès de membres de la caste des Genos, plus rarement guerriers itinérants ou mercenaires, les Ioros sont facilement reconnaissables au tatouage de deux yeux sur leur front (le « regard de Teutès »). Tout membre de la caste des Ioros qui n'est pas engagé au service d'un Genos ou d'un roi peut être requis par le roi local ou un drodan pour accomplir une mission. Un prix sera toujours fixé, dont la moitié sera versée d'avance. Un Ior peut refuser une mission, mais cela peut entacher son « Tor » et le faire passer pour un lâche. Si un membre de cette caste acquiert une réputation de lâche, les autres Ioros auront le devoir sacré de le traquer, de le défier et de le tuer pour exposer sa carcasse aux charognards.  

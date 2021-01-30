@@ -42,13 +42,13 @@ Ashur Begaya quitte les lieux non sans mettre en garde Lôchetos contre les forc
 ## Geunddon
 **12 Miz Genver**  
 Après les avertissements d'Ashur Begaya, les compagnons sont repartis rapidement et discrètement en direction des terres de Geunddon, terres natales des familles sous la coupe du clan Lugeto.  
-Le voyage a pris quelques jours, car Owain a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Geunddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
-Finalement, le sol s'affermi et les ajoncs s'éparpillent et c'est ainsi qu'Owain se retourne vers ses compagnons et montre fièrement le village de Caohaydhan, siège du pourvoir Lugeto.  
-Dès son arrivée à Caohaydhan, Lôchetos se rend au chevet de son oncle pour prendre de ses nouvelles, …
+Le voyage a pris quelques jours, car [Owain Macaro](/bestiaire/owain-macaro) a pris bien soins de faire des détours adéquates pour perdre d'éventuels poursuivants. Il s'agit d'entrer discrètement dans les marais de Geunddon dont les chemins sûr ne sont connus que des pisteurs meldètes. L'ambiance est lugubre et Margs, Rudolf et Tiberius se demandent comment les Meldètes peuvent vivre dans ces conditions. Le 12 Miz Genver au soir, les premiers villages sur pilotis apparaissent. Ils croisent des pêcheurs dont les canots filent en silence entre les ajoncs.  
+Finalement, le sol s'affermi et les ajoncs s'éparpillent et c'est ainsi qu'[Owain Macaro](/bestiaire/owain-macaro) se retourne vers ses compagnons et montre fièrement le village de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan), siège du pourvoir Lugeto.  
+Dès son arrivée à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan), Lôchetos se rend au chevet de son oncle pour prendre de ses nouvelles, …
 il est encore souffrant. Le Meldète implore les dieux et tente de le soigner grâce à la prière, en se remémorant tous les gestes et paroles que lui a appris Korydwen. Il demande à sa mère ainsi qu’au plus jeune adulte de la famille en qui il a confiance de l’assister.  
 Laissant les deux sacs de farines ainsi que le tonnelet de bière à sa famille, il leur demande strictement en confiant la tâche à sa grande sœur Sedelia et son petit frère Larixo, de ne pas les consommer mais de les vendre afin d’acheter autre chose.  
 Pendant ce temps, il prends une chambre d’auberge pour l’Assyrhim afin de ne pas mêler m
-sa famille à cette histoire et propose à Gwion et Owain de monter la garde avec lui le temps d’avoir une audience avec le chef de clan.  
+sa famille à cette histoire et propose à Gwion et [Owain Macaro](/bestiaire/owain-macaro) de monter la garde avec lui le temps d’avoir une audience avec le chef de clan.  
 Concernant l’audience, Il demande à son père, comme il est garde de Lugeto, s’il peut lui obtenir un tête à tête, en toute discretion avec Lugeto, en lui disant que c’est très urgent et qu'il ne peux rien dévoiler sans risque de mettre la famille en danger. Le père est réticent de ces secrets soudain et refuse de faire l'intermédiaire. Lôchetos passe quelques temps avec Sawrina pour échanger sur sa langue et essayer de lui apprendre le Mèlde. De son côté, Gwion profite de la nouvelle lune pour s'éloigner dans les marais et procéder à de sombres et mystérieuses cérémonies d'enchantement..  
 
 **17 Miz Genver**  
@@ -86,4 +86,18 @@ Depuis plusieurs jours, Gwion Gornoc parcours le marais à la recherche de préc
 De son côté Lôchetos Vlatcano utilise son temps libre pour enquêter sur les rumeurs diffamantes qui ont frappé le clan Gornoc. A laisser trainer ses oreilles dans les conversations de taverne et au marché, il commence à comprendre que Elusco Gornoc, aurait été accusé à tort. La femme de Britomartos, la grosse Taurilla, est fort laide mais sa famille lui avait fourni une grosse dote. Il se dirait même que Britomartos répugne à la connaître. D'autres disent encore que lui-même aurait lancé cette rumeur envers un clan moins puissant pour désavouer sa femme et pouvoir la répudier si la faute était avéré avec la bénédiction des Drodanos. La grosse femme serait peut-être envoyée chez les Sermazloths avec une chance de survie quasi nulle. Cela permettrait aussi au clan Nantono de Britomartos de soumettre le clan Cornog en cas de conflit armé.  
 Dans la journée, les éclaireurs de Gaenor Lugeto reviennent de Ker-Saozon avec deux prisonniers, la rumeur dit que l'un à la face applatie et les yeux bridés et que l'autre est une femme à la peau très sombre.  
 Les compagnons comprennent immédiatement qu'il s'agit de Yan Zin et de Malala Soa. Ils se rendent au palais de Caer'Caohaydhan et demandent une entrevue avec le Genos Gaenor Lugeto pour obtenir la libération de leurs amis. Celui-ci leur accorde mais sous leur seule responsabilité.  
-Dans le même temps, Sawrina est hébergée à l'auberge de la Mouette noire
+Dans le même temps, Sawrina est hébergée à l'auberge de la Mouette noire. Les compagnons apprenent qu'elle fait des cauchemard et qu'elle hurle la nuit.  
+Un orage arrive sur [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et la nuit devient très sombre. Ils décident de faire un tour de garde pour protéger la jeune femme orientale.  
+Avant d'aller se coucher, alors que Lôchetos l'interroge, elle arrive juste à prononcer : *"Il arrive"*  
+Rudolf et Lôchetos prennent le premier tour de garde.  
+En pleine nuit, Sawrina se réveille en sursaut et voit au dessus de son lit une silhouette qui tend la main dans sa direction. Elle s'esquive rapidement et saute par la fenêtre. Rudolf et Lôchetos s'en rendent compte. Rudolf monte dans la chambre rapidement et constate qu'une silhouette saute par la fenêtre à la poursuite de la jeune femme. Il est immédiatement assailli par un adversaire qui se cachait derrière la porte.  
+Lôchetos de son côté part à la poursuite de l'homme et de Sawrina.
+Par chance, ils croisent en chemin, durant leur cavalcade, Margs et Tibérius qui venaient les relever.  
+Un troisième adversaire entre dans la partie. Une mêlée confuse s'en suit et Sawrina va se réfugier chez les parents de Lôchetos dans le quartier de Cyslog, réveillant Gwion en sursaut par la même occasion.  
+Tiberius est blessé durant le combat et se rend compte qu'un puissant poison l'affecte, il s'effondre.  
+Après un combat épique, les compagnons arrivent à mettre à bas leur trois adversaires sans réussir à faire de prisonniers.  
+Ils découvrent quelques richesses, et quelques objets dont une flûte qui semble enchantée.  
+Il est décidé de la donner à Rudolf qui aime jouer de la flute dans les bois.  
+
+**23 Miz Genver**  
+Gwion s'éloigne du groupe et fait un rituel pour identifier la flûte. Il le peut car il a fait l'acquisition d'un perle d'une valeur de 100 po. Il découvre qu'il s'agit d'un objet merveilleux : une [flûte de charme](/liste-des-objets-magiques/flute-de-charme).

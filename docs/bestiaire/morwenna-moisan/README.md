@@ -4,7 +4,7 @@ type: "PNJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Neutre Bon"
-challenge: "5"
+challenge: "3"
 customHP: "30"
 abilityScores:
   for: 10
@@ -31,13 +31,14 @@ movement:
 senses:
 languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bena’ch dialecte khenraë, le Mèlde langue meldète "
+category: "PNJ"
 ---
 ## Capacités
 _**Voie des armes**_. : Morwenna est niveau 5 dans la voie des armes.
 
 _**Style de combat défense**_. : Quand Morwenna porte une armure, elle gagne un bonus de +1 à votre VD.
 
-_**Second souffle**_. : Morwenna joui d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes (2d6+5). Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
+_**Second souffle**_. : Morwenna jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes (2d6+5). Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
 _**Sursaut d'activité**_. :À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 

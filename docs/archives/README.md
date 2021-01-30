@@ -10,6 +10,13 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+§§§
+## Des sorts et un Archétype.
+La conversion des sorts continue et c'est désormais 181 sorts qui sont disponibles. Certains choix sont délicats car je dois évincer certains sorts amusants mais qui ne sont pas dans l'esprit du monde de Douaratil. Un nouvel Archétype est désormais aussi disponible : Le Ior. Il s'agit d'un guerrier berserk du peuple meldète. Ce sera un allié ou un adversaire redoutable.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 20 janvier 2021_
 
 §§§
 ## Des sorts et des bêtes.
