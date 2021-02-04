@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "FOR+4"
+customSavingThrows: "for +4, dex +3, con +3, int +0, sag +0, cha +0"
 savingThrows:
   - "dex"
   - "con"
@@ -36,6 +36,15 @@ languages:
 category: "PJ"
 ---
 ## Capacités
+_**Historique  Bandit de grand chemin:**_. :  
+**Compétences** : Intimidation, Survie.  
+**Outils maîtrisés** : Véhicules (terrestres).  
+**Langues maîtrisées** : Une langue au choix.  
+**Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
+**Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)
+
+_**Maîtrises:**_. : Ames courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
+
 _**Voie des armes & Gwylwir**_. : Owain est niveau 3 dans la voie des armes et Archétype Gwylwir.
 
 _**Style de combat Archérie**_. : Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
@@ -67,5 +76,13 @@ Owain appartient au clan meldète Macaro qui a prêté allégeance à Gaenor Lug
 §§§ .hero
 ### Equipement:  
 Owain possède l'équipement suivant : une couverture, des vêtements de voyage, (20) chausses trappes, (2)boîtes à amadou, outre d'eau, bourse, glaive, une hache, un arc long, un carquois, (17)flèches, une armure de cuir, sac de couchage, un sac à dos, une gamelle, (10) torches, (10)jours de ration, une outre, une corde de chanvre (15m).  
-Owain possède aussi un âne avec 4 saccoches (210 kg de portage)
+Owain possède aussi un âne avec 4 saccoches (210 kg de portage). 3000 PC, 820 PA, 20 PE & 117 PO.  
+§§§
+
+§§§ .hero
+### Autres informations:  
+**XP acquis** : 1650  
+**Points de Magie** :10  
+**Points de Foi** :10   
+**Points d'honneur** :16  
 §§§
