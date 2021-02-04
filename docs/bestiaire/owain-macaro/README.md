@@ -4,7 +4,7 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "2"
+challenge: "3"
 customHP: "25"
 abilityScores:
   for: 10

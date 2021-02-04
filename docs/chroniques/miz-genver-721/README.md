@@ -100,4 +100,4 @@ Ils découvrent quelques richesses, et quelques objets dont une flûte qui sembl
 Il est décidé de la donner à Rudolf qui aime jouer de la flute dans les bois.  
 
 **23 Miz Genver**  
-Gwion s'éloigne du groupe et fait un rituel pour identifier la flûte. Il le peut car il a fait l'acquisition d'un perle d'une valeur de 100 po. Il découvre qu'il s'agit d'un objet merveilleux : une [flûte de charme](/liste-des-objets-magiques/flute-de-charme).
+Gwion s'éloigne du groupe et fait un rituel pour identifier la flûte. Il le peut car il a fait l'acquisition d'un perle d'une valeur de 100 po. Il découvre qu'il s'agit d'un objet merveilleux : une [flûte de charme](/liste-objets-magiques/flute-de-charme).

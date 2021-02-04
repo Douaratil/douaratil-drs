@@ -4,7 +4,7 @@ type: "PNJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Neutre Bon"
-challenge: "3"
+challenge: "5"
 customHP: "30"
 abilityScores:
   for: 10
