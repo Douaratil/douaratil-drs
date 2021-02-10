@@ -93,6 +93,11 @@ Lôchetos appartient au clan meldète Vlatcano qui a prêté allégeance à Gaen
 §§§
 
 §§§ .hero
+### Description physique:  
+Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les cheveux noirs et les yeux bleus. Il mesure un mètre soixante quinze pour soixante dix kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la hanche gauche.  
+§§§
+
+§§§ .hero
 ### Equipement:  
 Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 8PC, 156 PA, 20 PE, 860 PO, 3 doses de Coulemine, 3 doses d'églantiane.
 §§§

@@ -74,6 +74,11 @@ Owain appartient au clan meldète Macaro qui a prêté allégeance à Gaenor Lug
 §§§
 
 §§§ .hero
+### Description physique:  
+Owain est un Meldète d'un vingt quatre printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. De grande stature, il mesure un mètre quatre vingt deux pour quatre vingt kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la clavicule gauche.  
+§§§
+
+§§§ .hero
 ### Equipement:  
 Owain possède l'équipement suivant : une couverture, des vêtements de voyage, (20) chausses trappes, (2)boîtes à amadou, outre d'eau, bourse, glaive, une hache, un arc long, un carquois, (17)flèches, une armure de cuir, sac de couchage, un sac à dos, une gamelle, (10) torches, (10)jours de ration, une outre, une corde de chanvre (15m).  
 Owain possède aussi un âne avec 4 saccoches (210 kg de portage). 3000 PC, 820 PA, 20 PE & 117 PO.  

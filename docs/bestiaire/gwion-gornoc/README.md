@@ -83,6 +83,11 @@ Gwion appartient au clan meldète Gornoc qui a prêté allégeance à Gaenor Lug
 §§§
 
 §§§ .hero
+### Description physique:  
+Gwion est un Meldète d'un vingt cinq printemps. Il a la peau blanche les cheveux blancs et les yeux blancs. Il mesure un mètre soixante sept pour soixante  kilos. Gwion a les doigts crochus. Il est légèrement bossu depuis sa naissance et a une tâche de vin sur la clavicule droite. Il a la joue gauche marquée au fer rouge et à une scarification sur le front en forme d'étoile à six branches. Gravement blessé par un la lame d'un Khernaë de Ker-Saozon durant l'hiver, il a une grosse cicatrice dans le bas du dos.  
+§§§
+
+§§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3000 PC, 29 PA, 15 PE, 168 PO, ainsi que 43 Cépates et 18 onguents de Cépates.
 §§§
