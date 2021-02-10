@@ -99,13 +99,13 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 8PC, 156 PA, 20 PE, 860 PO, 3 doses de Coulemine, 3 doses d'églantiane.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 8PC, 160 PA, 24 PE, 878 PO, 3 doses de Coulemine, 3 doses d'églantiane.
 §§§
 
 
 §§§ .hero
 ### Sorts connus:  
-**Novice** : soin des blessures.  
+**Novice** : [soin des blessures](/grimoire/soin-des-blessures).  
 §§§
 
 §§§ .hero

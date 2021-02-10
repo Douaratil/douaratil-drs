@@ -43,7 +43,7 @@ _**Historique  Bandit de grand chemin:**_. :
 **Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)
 
-_**Maîtrises:**_. : Ames courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
+_**Maîtrises:**_. : Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 
 _**Voie des armes & Gwylwir**_. : Owain est niveau 3 dans la voie des armes et Archétype Gwylwir.
 

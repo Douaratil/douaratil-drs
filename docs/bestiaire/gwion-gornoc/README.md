@@ -89,7 +89,7 @@ Gwion est un Meldète d'un vingt cinq printemps. Il a la peau blanche les cheveu
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3000 PC, 29 PA, 15 PE, 168 PO, ainsi que 43 Cépates et 18 onguents de Cépates.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3000 PC, 33 PA, 19 PE, 186 PO, ainsi que 51 Cépates et 23 onguents de Cépates.
 §§§
 
 §§§ .hero
@@ -99,7 +99,7 @@ Perle de 100 po, une clochette enchantée, 6 oeufs de cailles enchantés (aspers
 
 §§§ .hero
 ### Sorts connus:  
-**Novice** : Aspersion d'acide, identification, Prestidigitation, projectile magique, soin des blessures.  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [soin des blessures](/grimoire/soin-des-blessures).  
 
 **Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, restauration inférieure, serviteur invisible, suggestion, vision dans le noir.
 §§§
