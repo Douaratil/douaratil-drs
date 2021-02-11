@@ -81,7 +81,7 @@ Tiberius Don Alonzo appartient à l'illustre famille alcante de Courdoes. Pour �
 
 §§§ .hero
 ### Description physique:  
-Tiberius est un Alcante d'un vingt un printemps. Il a la peau sombre, les cheveux bruns et les yeux gris. De  stature moyenne, il mesure un mètre soixante treize pour soixante kilos.
+Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux bruns et les yeux gris. De  stature moyenne, il mesure un mètre soixante treize pour soixante kilos.
 §§§
 
 §§§ .hero

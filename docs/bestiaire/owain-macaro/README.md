@@ -49,7 +49,7 @@ _**Voie des armes & Gwylwir**_. : Owain est niveau 3 dans la voie des armes et A
 
 _**Style de combat Archérie**_. : Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
-_**Second souffle**_. : Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes (2d6+3). Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
+_**Second souffle**_. : Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
 _**Sursaut d'activité**_. :À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 
@@ -75,7 +75,7 @@ Owain appartient au clan meldète Macaro qui a prêté allégeance à Gaenor Lug
 
 §§§ .hero
 ### Description physique:  
-Owain est un Meldète d'un vingt quatre printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. De grande stature, il mesure un mètre quatre vingt deux pour quatre vingt kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la clavicule gauche.  
+Owain est un Meldète de vingt quatre printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. De grande stature, il mesure un mètre quatre vingt deux pour quatre vingt kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la clavicule gauche.  
 §§§
 
 §§§ .hero
