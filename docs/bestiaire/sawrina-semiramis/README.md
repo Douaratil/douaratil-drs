@@ -21,7 +21,7 @@ ac:
   armorType: "custom"
   value: "16 (Armure de cuir)"
 skills:
-  - name: "acrobatie"
+  - name: "acrobaties"
     isExpert: true
   - name: "athletisme"
     isExpert: true
@@ -32,8 +32,6 @@ skills:
   - name: "perception"
   - name: "representation"
     isExpert: true
-
-
 movement:
   walk: 9
 senses:
@@ -63,9 +61,7 @@ _**Langues universelles**_. : A partir du niveau 3, la Nayane obtient la connais
 _**Santé surnaturelle**_. :A partir du niveau 3, la Nayane ne garde aucune cicatrice de ses blessures. Toute trace de blessure disparait complètement en une lune après la guérison d'une blessure grave.
 
 
-
 ## Actions
-
 _**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
