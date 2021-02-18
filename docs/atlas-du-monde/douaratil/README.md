@@ -118,8 +118,6 @@ Forteresse de la région de Ker-Kroaz, résidence du seigneur Gaeth.
 village meldète.  
 
 ## Menezlatar (Monts du)
-Rempart naturel entre les royaumes meldètes, khernaës et les grandes plaines de Thyria à l'est. Ce rempart coupe les terres du nord au sud.  
-
 Rempart naturel entre les royaumes meldètes, khernaës et les grandes plaines de Thyria à l'est. Ce rempart coupe les terres du nord au sud.   
 
 ## Môr-leidr (Dinas)

@@ -11,6 +11,15 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Ajout des PNJ, des PJ & atlas.
+Cette semaine a été chargée et la mise à jour du site en a un peu souffert. Le 23 janvier, une partie de Douaratil s'est déroulée avec mon groupe de joueur habituel. Cela a été l'occasion d'explorer de nouveaux mécanismes de jeu. Le bestiaire va s'enrichir des PNJ qui apparaissent dans la chronique mais aussi des PJ qui seront mis à jour au fur et à mesure de leur progression. Des exemples sont disponibles dans le bestiaire avec la belle [Morwena Moisan](/bestiaire/morwenna-moisan) et le beau [Owain Macaro](/bestiaire/owain-macaro). Le village de [caohaydhan](/atlas-du-monde/douaratil/caohaydhan) a été détaillé.  
+De nouvelles règles de [passion, honneur & interactions sociales](/passion-honneur-et-interactions-sociales) sont en cours d'élaboration.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 30 janvier 2021_
+
+§§§
 ## Des sorts et un Archétype.
 La conversion des sorts continue et c'est désormais 181 sorts qui sont disponibles. Certains choix sont délicats car je dois évincer certains sorts amusants mais qui ne sont pas dans l'esprit du monde de Douaratil. Un nouvel Archétype est désormais aussi disponible : Le Ior. Il s'agit d'un guerrier berserk du peuple meldète. Ce sera un allié ou un adversaire redoutable.  
 Bon jeu.

@@ -21,13 +21,12 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Ajout des PNJ, des PJ & atlas.
-Cette semaine a été chargée et la mise à jour du site en a un peu souffert. Le 23 janvier, une partie de Douaratil s'est déroulée avec mon groupe de joueur habituel. Cela a été l'occasion d'explorer de nouveaux mécanismes de jeu. Le bestiaire va s'enrichir des PNJ qui apparaissent dans la chronique mais aussi des PJ qui seront mis à jour au fur et à mesure de leur progression. Des exemples sont disponibles dans le bestiaire avec la belle [Morwena Moisan](/bestiaire/morwenna-moisan) et le beau [Owain Macaro](/bestiaire/owain-macaro). Le village de [caohaydhan](/atlas-du-monde/douaratil/caohaydhan) a été détaillé.  
-De nouvelles règles de [passion, honneur & interactions sociales](/passion-honneur-et-interactions-sociales) sont en cours d'élaboration.  
+## Ajout des PJ.
+Un mois beaucoup plus calme qui a aussi permis de faire une petite pause. jous avons appris avec tristesse la fin de la gamme H&D suite à un conflit commercial avec Wotc. Le projet n'est pas impacté normalement et je continuerais, avec mes joueurs, de développer le monde de Douaratil.  De nouveaux personnages sont intégrés dans le bestiaire. je vous invite ainsi à chercher Gwion, Lôchetos, Margs, Rudolf, Sawrina, Tibérius & Yan Zin, dans la barre des tâches.   
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
-_le 30 janvier 2021_
+_le 18 février 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

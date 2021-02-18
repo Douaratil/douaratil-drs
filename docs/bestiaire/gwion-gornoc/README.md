@@ -27,6 +27,7 @@ skills:
   - name: "escamotage"
   - name: "intimidation"
     isExpert: true
+  - name: "medecine"
 movement:
   walk: 9
 senses:
@@ -99,6 +100,8 @@ Perle de 100 po, une clochette enchantée, 6 oeufs de cailles enchantés (aspers
 
 §§§ .hero
 ### Sorts connus:  
+**Bonus d'incantation: +3**  
+**DD de Sauvegarde: 12**  
 **Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [soin des blessures](/grimoire/soin-des-blessures).  
 
 **Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, restauration inférieure, serviteur invisible, suggestion, vision dans le noir.
@@ -106,8 +109,8 @@ Perle de 100 po, une clochette enchantée, 6 oeufs de cailles enchantés (aspers
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 5850  
-**Points de Magie** :24  
+**XP acquis** : 6350  
+**Points de Magie** :29
 **Points de Foi** :10  
 **Points d'honneur** :18  
 §§§

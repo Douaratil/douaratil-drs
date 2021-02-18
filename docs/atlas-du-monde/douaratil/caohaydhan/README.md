@@ -197,7 +197,7 @@ Bière légère, Bière au miel, Vin blanc, Vin de cerises, Cervoise au miel, Vi
 ### A la mouette noire
 A la mouette noire est une auberge réputée, se situant dans le quartier de Yhwall, tenue par Rusetg (Melg, feminin) et son amie d'enfance Gwenhwyfar "Gewny" Atho (Meldète, feminin).   
 
-Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, à la vue de sa robustesse, on se dit qu'il doit être de construction nanique. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Un sol aux pierres parfaitement taillées donne une idée de la qualité de l'auberge. A l'arrière, se situe la cuisine où Owain Raerto (Meldète, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Civet de lapin aux épices" de toute la région.  
+Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, à la vue de sa robustesse, on se dit qu'il doit être de construction en pierre de gré. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Un sol aux pierres parfaitement taillées donne une idée de la qualité de l'auberge. A l'arrière, se situe la cuisine où Owain Raerto (Meldète, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Civet de lapin aux épices" de toute la région.  
 
 A l'étage se trouvent les chambres, 2 chambres joliment décorées avec la possibilité d'y prendre un bain.  
 Il est possible de bénéficier des 4 services suivants dans cet établissement :  

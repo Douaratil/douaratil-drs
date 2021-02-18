@@ -105,12 +105,14 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 
 §§§ .hero
 ### Sorts connus:  
+**Bonus d'incantation: +1**  
+**DD de Sauvegarde: 9**  
 **Novice** : [soin des blessures](/grimoire/soin-des-blessures).  
 §§§
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 5350  
+**XP acquis** : 5850  
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :18  
