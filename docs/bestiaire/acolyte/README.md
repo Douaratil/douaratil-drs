@@ -23,7 +23,6 @@ movement:
   walk: 9
 languages:
   - "une langue au choix (commun ethnique le plus souvent)"
-category: "PNJ"
 ---
 ## Capacités
 _**Points de Foi**_ : 26

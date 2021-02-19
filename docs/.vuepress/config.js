@@ -375,47 +375,66 @@ module.exports = {
                 title: "Construire une rencontre",
                 path: '/construire-une-rencontre/'
               },
+              {
+                title: "Bestiaire & rencontres",
+                path: '/bestiaire/'
+              },
             ]
           },
           {
-            title: "Bestiaire",
-            path: '/bestiaire/'
+            title: "Trésors & objets magiques",
+            children: [
+              {
+                title: "Les trésors",
+                path: '/les-tresors/'
+              },
+              {
+                title: "Objets magiques",
+                path: '/objets-magiques/'
+              },
+              {
+                title: "Liste des objets magiques",
+                path: '/liste-objets-magiques/'
+              },
+            ]
           },
           {
-            title: "Les trésors",
-            path: '/les-tresors/'
+            title: "Pièges & dangers",
+            children: [
+              {
+                title: "Les pièges",
+                path: '/pieges/'
+              },
+              {
+                title: "Les maladies",
+                path: '/maladies/'
+              },
+              {
+                title: "Les poisons",
+                path: '/poisons/'
+              },
+              {
+                title: "La folie",
+                path: '/folie/'
+              },
+            ]
           },
           {
-            title: "Objets magiques",
-            path: '/objets-magiques/'
-          },
-          {
-            title: "Liste des objets magiques",
-            path: '/liste-objets-magiques/'
-          },
-          {
-            title: "Les pièges",
-            path: '/pieges/'
-          },
-          {
-            title: "Les maladies",
-            path: '/maladies/'
-          },
-          {
-            title: "Passions, honneur & interactions sociales",
-            path: '/passion-honneur-et-interactions-sociales/'
-          },
-          {
-            title: "La folie",
-            path: '/folie/'
+            title: "Fief, famille & destinée",
+            children: [
+              {
+                title: "Passions, honneur & interactions sociales",
+                path: '/passion-honneur-et-interactions-sociales/'
+              },
+              {
+                title: "L'expérience",
+                path: '/experience/'
+              }
+            ]
           },
           {
             title: "Les objets",
             path: '/objets-opposition/'
-          },
-          {
-            title: "Les poisons",
-            path: '/poisons/'
           },
           {
             title: "Les plantes",

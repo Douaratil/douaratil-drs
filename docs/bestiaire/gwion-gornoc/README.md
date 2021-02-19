@@ -110,7 +110,7 @@ Perle de 100 po, une clochette enchantée, 6 oeufs de cailles enchantés (aspers
 §§§ .hero
 ### Autres informations:  
 **XP acquis** : 6350  
-**Points de Magie** :29
+**Points de Magie** :29  
 **Points de Foi** :10  
 **Points d'honneur** :18  
 §§§
