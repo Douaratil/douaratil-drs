@@ -2,7 +2,7 @@
 title: "Lenteur"
 description: "Les cibles voient leur vitesse, leur VD et leur nombre d'actions diminués."
 school: "Transmutation"
-level: 3
+level: 1
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 1 minute"

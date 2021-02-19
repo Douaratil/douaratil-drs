@@ -2,7 +2,7 @@
 title: "Coquille antivie"
 description: "Crée une barrière qui empêche les créatures d'approcher du PJ."
 school: "Abjuration"
-level: 5
+level: 3
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 1 heure"

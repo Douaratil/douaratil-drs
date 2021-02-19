@@ -2,7 +2,7 @@
 title: "Fusion dans la pierre"
 description: "Le PJ peut se fondre dans la pierre."
 school: "Transmutation"
-level: 3
+level: 1
 concentration: false
 casting_time: "1 action"
 duration: "8 heures"

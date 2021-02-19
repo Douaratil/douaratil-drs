@@ -2,7 +2,7 @@
 title: "Coercition mystique"
 description: "La cible est charmée pendant 30 jours et doit obéir aux ordres du PJ."
 school: "Enchantement"
-level: 5
+level: 3
 concentration: false
 casting_time: "1 minute"
 duration: "30 jours"

@@ -2,7 +2,7 @@
 title: "Colère des damnés"
 description: "Les cibles dans la zone subissent 3d6  dégâts et sont <em>entravées</em>."
 school: "Invocation"
-level: 3
+level: 1
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 1 minute"

@@ -461,6 +461,10 @@ module.exports = {
                 title: "Miz Genver 721",
                 path: '/chroniques/miz-genver-721'
               },
+              {
+                title: "Miz Favros 721",
+                path: '/chroniques/miz-favros-721'
+              },
             ]
           },
           {title: "Atlas",

@@ -2,7 +2,7 @@
 title: "Déblocage"
 description: "Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>."
 school: "Transmutation"
-level: 2
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "instantanée"

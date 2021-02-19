@@ -2,7 +2,7 @@
 title: "Grande foulée"
 description: "+3 mètres à la vitesse de la cible."
 school: "Transmutation"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "1 heure"

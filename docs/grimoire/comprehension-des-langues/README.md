@@ -2,7 +2,7 @@
 title: "Compréhension des langues"
 description: "Le PJ comprend les langages écrits ou parlés."
 school: "Divination"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "1 heure"

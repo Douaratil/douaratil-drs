@@ -2,7 +2,7 @@
 title: "Fléau"
 description: "Jusqu'à trois cibles doivent retrancher 1d6 à leurs jets d'attaque et de sauvegarde."
 school: "Enchantement"
-level: 1
+level: 0
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 1 minute"

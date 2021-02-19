@@ -11,6 +11,14 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Ajout des PJ.
+Un mois beaucoup plus calme qui a aussi permis de faire une petite pause. jous avons appris avec tristesse la fin de la gamme H&D suite à un conflit commercial avec Wotc. Le projet n'est pas impacté normalement et je continuerais, avec mes joueurs, de développer le monde de Douaratil.  De nouveaux personnages sont intégrés dans le bestiaire. je vous invite ainsi à chercher [Gwion](/bestiaire/gwion-gornoc), [Lôchetos](/bestiaire/lochetos-vlatcano), [Margs](/bestiaire/margs-maenkalon), [Rudolf](/bestiaire/rudolf-fareg), [Sawrina](/bestiaire/sawrina-semiramis), [Tiberius](/bestiaire/tiberius-don-alonzo) & [Yan Zin](/bestiaire/yan-zin), dans la barre des tâches.   
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 18 février 2021_
+
+§§§
 ## Ajout des PNJ, des PJ & atlas.
 Cette semaine a été chargée et la mise à jour du site en a un peu souffert. Le 23 janvier, une partie de Douaratil s'est déroulée avec mon groupe de joueur habituel. Cela a été l'occasion d'explorer de nouveaux mécanismes de jeu. Le bestiaire va s'enrichir des PNJ qui apparaissent dans la chronique mais aussi des PJ qui seront mis à jour au fur et à mesure de leur progression. Des exemples sont disponibles dans le bestiaire avec la belle [Morwena Moisan](/bestiaire/morwenna-moisan) et le beau [Owain Macaro](/bestiaire/owain-macaro). Le village de [caohaydhan](/atlas-du-monde/douaratil/caohaydhan) a été détaillé.  
 De nouvelles règles de [passion, honneur & interactions sociales](/passion-honneur-et-interactions-sociales) sont en cours d'élaboration.  

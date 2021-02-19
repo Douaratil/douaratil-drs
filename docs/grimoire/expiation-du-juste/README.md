@@ -2,7 +2,7 @@
 title: "Expiation du juste"
 description: "La cible de la prochaine attaque du PJ subit 4d6 dégâts et est <em>étourdie</em>."
 school: "Évocation"
-level: 4
+level: 1
 concentration: true
 casting_time: "1 action bonus"
 duration: "jusqu'à 1 minute"

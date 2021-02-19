@@ -2,7 +2,7 @@
 title: "Arc enchanté"
 description: "L'arc du PJ devient magique et tire plus rapidement."
 school: "Enchantement"
-level: 3
+level: 2
 concentration: false
 casting_time: "1 action"
 duration: "1 minute"

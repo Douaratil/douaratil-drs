@@ -2,7 +2,7 @@
 title: "Armure du mage"
 description: "La VD de base de la cible devient 13 + modificateur de Dextérité."
 school: "Abjuration"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "8 heures"

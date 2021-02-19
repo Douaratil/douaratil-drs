@@ -2,7 +2,7 @@
 title: "Détection du mal et du bien"
 description: "Détecte les créatures bénéfiques ou maléfiques par nature."
 school: "Divination"
-level: 1
+level: 0
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 10 minutes"

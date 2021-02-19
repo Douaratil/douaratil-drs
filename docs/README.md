@@ -21,12 +21,13 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Ajout des PJ.
-Un mois beaucoup plus calme qui a aussi permis de faire une petite pause. jous avons appris avec tristesse la fin de la gamme H&D suite à un conflit commercial avec Wotc. Le projet n'est pas impacté normalement et je continuerais, avec mes joueurs, de développer le monde de Douaratil.  De nouveaux personnages sont intégrés dans le bestiaire. je vous invite ainsi à chercher Gwion, Lôchetos, Margs, Rudolf, Sawrina, Tibérius & Yan Zin, dans la barre des tâches.   
+## Réorganisation, ajouts des règles d'expérience et corrections.
+Le menu de gauche du site a été réorganisé et de sliens manquant ont été rajoutés. J'ai souhaité regrouper certaines catégories pour plus de lisibilité.  
+Du côté des règles, une page sur la gestion de l'[expérience](/experience) a été rédigée. D'autre part, grâce à l'oeil attentif de [Gwion](/bestiaire/gwion-gornoc), de nombreuses erreurs du grimoire ont été corrigées, notamment dans la classification de certains sorts et leur coût en Magie ou en Foi. Dans les heures qui viennent, les chroniques devraient être mises à jour.  
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
-_le 18 février 2021_
+_le 19 février 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

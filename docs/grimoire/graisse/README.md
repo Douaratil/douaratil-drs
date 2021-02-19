@@ -2,7 +2,7 @@
 title: "Graisse"
 description: "Une zone de 3 mètres de côté devient extrêmement glissante."
 school: "Invocation"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action"
 duration: "1 minute"
