@@ -12,7 +12,7 @@
         </v-breadcrumbs-item>
       </template>
     </v-breadcrumbs>
-    <v-row v-else justify="center"><img class="d-block home-logo" src="/dragon_rouge.svg" /></v-row>
+    <v-row v-else justify="center"><img class="d-block home-logo" src="/dragon_rouge.svg" style="width:30px;height:30px;"/></v-row>
   </div>
 </template>
 
