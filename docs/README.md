@@ -3,7 +3,7 @@ title: DOUARATIL
 notEditable: true
 toc: false
 ---
-§§§ .text-right
+
 # Document Référence Système
 §§§
 
