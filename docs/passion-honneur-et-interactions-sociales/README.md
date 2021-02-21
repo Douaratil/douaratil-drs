@@ -1,5 +1,5 @@
 ---
-title: Passions, honneur & interactions sociales
+title: Gestion de l'honneur - Passions, honneur & interactions sociales
 ---
 # Les passions
 
@@ -45,3 +45,41 @@ Plusieurs compétences peuvent être utilisées dans le cadre d'interactions soc
 - Charisme : intimidation, persuasion, supercherie
 
 ## Honneur & interactions sociales
+L'honneur représente deux facteurs du personnage. Son maximum correspond à sa reconnaissance sociale alors que son encours correspond à son égo.  
+Un affrontement social peut prendre plusieurs tours de jeu, jsuqu'à ce qu'un des deux soit obligé d'arrêter. Les points d'honneur correspondent ainsi à une quantité de "blessures psychiques" que peut encaisser une personne.  
+Ainsi, la difficulté des affrontements sociaux est toujours la résistance de la personne qui se trouve en face.  
+Se retrouver avec 0 point d'honneur n'a pas d'autre effet que d'accorder un désavantage à toutes les compétences sociales et les jets de sauvegarde psychiques (Intelligence, Sagesse & Charisme) jusqu'à ce que le personnage retrouve la totalité de ses points d'honneur.  
+Ainsi, un personnage peut perdre des points d'honneur en tentant de convaincre, corrompre, séduire, marchander etc... Dans toute interaction sociale. Cela a pour effet de limiter le nombre de tentatives lors des interactions sociales.  
+
+**Règle spéciale : affronter une personne en public ou duel social**  
+Cette règle se prête a bien des situations : procès, diplomatie, honte publique etc... Un personnage peut engager un duel social contre une autre personne si et seulement si possède au moins la moitié de ses points d'honneur (PH). Ce combat se déroule jusqu'a ce que l'un des deux protagonistes ne tombe à 0 point d'honneur (PH). la pénalité du désavantage s'applique pour toute interaction contre son adversaire et cela pendant une période d'une lune.   
+
+La règle des affrontements d'honneur est le suivant (reportez vous au tableau plus bas pour plus de détail) :  
+
+**Acteur/Attaquant - DD du défenseur = montant de la perte de PH**  
+
+Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à avaler". En effet une personne ne peut se laisser convaincre que quelque chose de manifestement impossible ou incroyable.
+
+§§§ .table-container
+||Bonus au JS||
+|Véracité|Compétence ou Caractéritique|
+|:-:|:-:|
+|Plausible|0|
+|Improbable|+1|
+|Très improbable|+2|
+|Impossible| +4|
+§§§
+
+§§§ .table-container
+||Table des affrontements sociaux||
+|Action|Compétence ou Caractéritique|JS|
+|:-:|:-:|:-:|
+|Convaincre|Persuasion / Charisme  |JS Intelligence|
+|Flatter|Supercherie / Charisme|JS Sagesse|
+|Menacer|Intimidation ou représentation/ Charisme ou Constitution ou Force|Js Sagesse ou Js Charisme|
+|Mentir| Supercherie / Intelligence|Js Intelligenceou Js Sagesse|
+|Séduire|Charisme |Js Sagesse ou Js Charisme|
+|Se moquer| Intimidation / Charisme|Js Sagesse|
+|Se vanter| Intimidation, représentation ou Supercherie / Charisme ou Intelligence|Js Sagesse|
+|Supplier| Perspicacité / Sagesse|Js Sagesse|
+§§§

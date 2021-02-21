@@ -420,11 +420,19 @@ module.exports = {
             ]
           },
           {
-            title: "Fief, famille & destinée",
+            title: "Domaine, famille & destinée",
             children: [
               {
-                title: "Passions, honneur & interactions sociales",
+                title: "Gestion de l'honneur",
                 path: '/passion-honneur-et-interactions-sociales/'
+              },
+              {
+                title: "Gestion de la famille et des biens",
+                path: '/intermedes/'
+              },
+              {
+                title: "Gestion du domaine",
+                path: '/domaine/'
               },
               {
                 title: "L'expérience",

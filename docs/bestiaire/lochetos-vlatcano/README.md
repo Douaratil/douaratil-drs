@@ -4,17 +4,19 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "4"
-customHP: "25"
+challenge: "5"
+customHP: "29"
 abilityScores:
-  for: 8
-  dex: 8
-  con: 16
-  int: 13
-  sag: 10
+  for: 10
+  dex: 10
+  con: 14
+  int: 10
+  sag: 12
   cha: 12
-customSavingThrows: "for +1, dex +4, con +2, int +2, sag +1, cha +3 "
+customSavingThrows: "for +1, dex +6, con +2, int +3, sag +1, cha +4 "
 savingThrows:
+  - "dex"
+  - "dex"
   - "int"
   - "cha"
 ac:
@@ -28,10 +30,12 @@ skills:
   - name: "investigation"
     isExpert: true
   - name: "perception"
+    isExpert: true
   - name: "persuasion"
     isExpert: true
   - name: "representation"
   - name: "supercherie"
+    isExpert: true
 movement:
   walk: 9
 senses:
@@ -41,36 +45,43 @@ category: "PJ"
 ---
 
 ## Capacités
-_**Historique Limier:**_. :   
-**Compétences** : Investigation ou Perspicacité, Supercherie.  
-**Outils maîtrisés** : Accessoires de déguisement, outils de voleur.  
-**Équipement** : Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
-**Aptitude** : [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
+_**Historique Limier:**_.    
+**Compétences**. Investigation ou Perspicacité, Supercherie.  
+**Outils maîtrisés**. Accessoires de déguisement, outils de voleur.  
+**Équipement**. Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
+**Aptitude**. [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
 
-_**Maîtrises:**_. : épée longue, rapière, épée courte, hached e bataille, glaive, hache, accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armes courantes, armure légère, armure intermédiaire.
+_**Maîtrises:**_. épée longue, rapière, épée courte, hached e bataille, glaive, hache, accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armes courantes, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. : Lôchetos est niveau 4 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 5 dans la voie des Ombres et Archétype Llawenos.  
 
-_**Expertise**_. :
-Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
+_**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  
 
-_**Attaque sournoise**_. : Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
+_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
 Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
 
 
-_**Ruse**_. :À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
+_**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
 
-_**Inspiration bardique**_. :La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.  
+_**Inspiration bardique**_. *(Llawenos)* La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.  
 Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à tous tests de caractéristique, de jets d'attaque ou de jets de sauvegarde durant son round d'action. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une personne ne peut disposer que d'un dé d'inspiration bardique à la fois.  
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.  
 Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps au fur et à mesure que vous montez de niveau:  2d6 et 2 rounds au niveau 6, 3d6 et 3 rounds au niveau 10 et 4d6 et 4 rounds au niveau 15. Lorsque le personnage utilise son inspiration, il a donc le choix d'utiliser la totalité de son inspiration sur un round ou de la répartir sur plusieurs rounds. Ainsi, i peut faire une action d'éclat sur un seul round en utilisant ses 4d6 au niveau 15, ou alors les répartir sur 2 rounds à 2d6 ou sur 3 rounds à 2d6 durant 1 round et 1d6 durant deux rounds ou encore 1d6 durant quatre rounds.  
 
-_**Touche à tout**_. :À partir du niveau 3, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.  
+_**Touche à tout**_. *(Ombre)* À partir du niveau 3, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.  
 
-_**Chant reposant**_. :À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
+_**Chant reposant**_. *(Llawenos)* À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.    
+
+_**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
+
+_**Expertise**_. *(Llawenos)* Au niveau 5, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.
+Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
+
+_**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
+
 
 ## Actions
 
@@ -99,9 +110,8 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 8PC, 160 PA, 24 PE, 878 PO, 3 doses de Coulemine, 3 doses d'églantiane.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 808PC, 960 PA, 24 PE, 1078 PO, 3 doses de Coulemine, 3 doses d'églantiane.
 §§§
-
 
 §§§ .hero
 ### Sorts connus:  
@@ -111,9 +121,22 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§
 
 §§§ .hero
-### Autres informations:  
-**XP acquis** : 5850  
+### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+§§§
+
+§§§ .hero
+### Domaine
+**Bâtiments** : Une bâtisse principale
+**Serviteurs** : 0
+**Revenus** : 0
+§§§
+
+§§§ .hero
+### Autres informations:
+**Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
+**XP acquis** : 7575  
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :18  
+**Points d'honneur** :27  
 §§§

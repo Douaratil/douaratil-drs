@@ -15,6 +15,8 @@ abilityScores:
   cha: 10
 customSavingThrows: "for +4, dex +3, con +3, int +0, sag +0, cha +0"
 savingThrows:
+  - "for"
+  - "for"
   - "dex"
   - "con"
 ac:
@@ -36,24 +38,24 @@ languages:
 category: "PJ"
 ---
 ## Capacités
-_**Historique  Bandit de grand chemin:**_. :  
-**Compétences** : Intimidation, Survie.  
-**Outils maîtrisés** : Véhicules (terrestres).  
-**Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
-**Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)
+_**Historique  Bandit de grand chemin:**_.
+**Compétences**. Intimidation, Survie.  
+**Outils maîtrisés**. Véhicules (terrestres).  
+**Langues maîtrisées**. Une langue au choix.  
+**Équipement**. Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
+**Aptitude**. [Signes de piste](/personnalite-et-historique/#signes-de-piste)
 
-_**Maîtrises:**_. : Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
+_**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 
-_**Voie des armes & Gwylwir**_. : Owain est niveau 3 dans la voie des armes et Archétype Gwylwir.
+_**Voie des armes & Gwylwir**_. Owain est niveau 3 dans la voie des armes et Archétype Gwylwir.
 
-_**Style de combat Archérie**_. : Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
+_**Style de combat Archérie**_. *(Armes)* Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
-_**Second souffle**_. : Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
+_**Second souffle**_. *(Armes)* Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
-_**Sursaut d'activité**_. :À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
+_**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 
-_**Ennemi juré**_. : Dès le niveau 3, Owain a une expérience significative dans le combat contre un ennemi particulier qui a menacé par le passé son clan (Khernaë).
+_**Ennemi juré**_. *(Gwylwir)* Dès le niveau 3, Owain a une expérience significative dans le combat contre un ennemi particulier qui a menacé par le passé son clan (Khernaë).
 Tous ses tests sociaux excepté intimidation subiront désormais un désavantage.
 Il obtient par contre un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'Intelligence permettant de se rappeler d'informations les concernant. Quand il gagne cette aptitude, vous apprenez également une langue de son choix qui est parlée par l'un de ses ennemis jurés.
 
@@ -84,7 +86,7 @@ Owain possède l'équipement suivant : une couverture, des vêtements de voyage,
 Owain possède aussi un âne avec 4 saccoches (210 kg de portage). 3000 PC, 820 PA, 20 PE & 117 PO.  
 §§§
 
-§§§ .hero
+§§§ .hero  
 ### Autres informations:  
 **XP acquis** : 1650  
 **Points de Magie** :10  
