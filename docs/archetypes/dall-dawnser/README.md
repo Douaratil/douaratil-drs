@@ -72,7 +72,7 @@ Vous pouvez dépenser 1 point de Nerzhkalon pour utiliser l'action se [_se dése
 ### Déplacement sans armure  
 **En Khern : Finval San Harnez**  
 À partir du niveau 3, votre vitesse augmente de 3 mètres tant que vous ne portez pas d'armure ni de bouclier. Ce bonus s'accroît 3 mètres au niveau 12 et de 3 mètres supplémentaires au niveau 17.
-Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surfaces verticales ou sur des liquides pendant votre tour, tant que vous finissez votre mouvement sur une surface plane et solide.  
+Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surfaces verticales pendant votre tour, tant que vous finissez votre mouvement sur une surface plane et solide.  
 
 ### Blocage de projectiles  
 **En Khern : Gwashkanban**  
@@ -99,7 +99,7 @@ Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avant
 
 ### Attaque supplémentaire  
 **En Khern : Argad Adh**  
-À partir du niveau 7, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour.   
+À partir du niveau 7, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour. Si le Dall Dawnser vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +1 aux dégâts.  
 
 ### Frappe étourdissante  
 **En Khern : Taolskanv**  

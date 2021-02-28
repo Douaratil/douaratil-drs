@@ -7,11 +7,11 @@ alignment: "Chaotique neutre"
 challenge: "4"
 customHP: "22"
 abilityScores:
-  for: 11
+  for: 12
   dex: 12
   con: 10
   int: 10
-  sag: 12
+  sag: 13
   cha: 10
 customSavingThrows: "for +2, dex +3, con +2, int +0, sag +3, cha +0"
 savingThrows:

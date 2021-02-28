@@ -89,11 +89,12 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir.  
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 4700 PC, 1004 PA, 24 PE & 1159 PO.  
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 2900 PC, 4 PA, 24 PE & 79 PO.  
 §§§
 
 §§§ .hero
 ### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 petite maison à Ker-Saozon.  
 **Rente d'Azenor** : 3d6 PO / Partie.  
 §§§

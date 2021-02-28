@@ -127,5 +127,5 @@ Perle de 100 po, une clochette enchantée.
 **XP acquis** : 8175  
 **Points de Magie** :34
 **Points de Foi** :10  
-**Points d'honneur** :25  
+**Points d'honneur** :27  
 §§§

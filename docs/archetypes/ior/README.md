@@ -43,8 +43,8 @@ A partir du niveau 3, quand vous vous retrouvez au cœur de la bataille, vous ê
 Ce bonus augmente en même temps que votre niveau.  
 • Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
-Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
-Le Ior possède deux états de rage, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.  
+Votre rage dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Le Ior possède **deux états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.  
 
 
 ### Témérité  
