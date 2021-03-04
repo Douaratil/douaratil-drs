@@ -16,6 +16,7 @@ ritual: false
 classes:
   - Magie
   - Foi
+source: "Gwion"
 ---
 **Coût** : 2 points de Magie ou de Foi
-Le sorcier doit se concentrer pour connaître la position des quatre points cardinaux. Il connait aussi précisement la température, ainsi que l’altitude par rapport au niveau de la mer.
+Le sorcier doit se concentrer pour connaître la position des quatre points cardinaux. Il connait aussi précisément la température, ainsi que l’altitude par rapport au niveau de la mer.

@@ -15,6 +15,7 @@ components:
 ritual: false
 classes:
   - Magie
+source: "Gwion"
 ---
 **Coût** : 1 points de Magie  
 

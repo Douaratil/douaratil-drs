@@ -16,6 +16,7 @@ ritual: true
 classes:
   - Magie
   - Foi
+source: "Gwion"
 ---
 **Coût** : 4 point de Magie ou de Foi  
 

@@ -11,6 +11,14 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Complément des règles d'honneur, mises à jour et perspectives.
+Les [règles d'honneur](/passion-honneur-et-interactions-sociales) ont été complétées afin de pouvoir engager enfin des affrontements sociaux et introduisant ainsi de nouvelles mécaniques de gameplay. Les règles de gestion du Domaine, du "Housing" devraient suivre. Les chroniques ont d'autre part été mises à jour avec les évènements de [Miz Favros](/chroniques/miz-favros-721). C'est aussi l'arrivée d'un nouvel archétype : la [Fürtane](/archetypes/furtane). La description d'un nouveau PNJ, [Shamash Eriba](/bestiaire/shamash-eriba) a été ajoutée au Bestiaire:  un futur adversaire ou allié?  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 27 février 2021_
+
+§§§
 ## Réorganisation, ajouts des règles d'expérience et corrections.
 Le menu de gauche du site a été réorganisé et de sliens manquant ont été rajoutés. J'ai souhaité regrouper certaines catégories pour plus de lisibilité.  
 Du côté des règles, une page sur la gestion de l'[expérience](/experience) a été rédigée. D'autre part, grâce à l'oeil attentif de [Gwion](/bestiaire/gwion-gornoc), de nombreuses erreurs du grimoire ont été corrigées, notamment dans la classification de certains sorts et leur coût en Magie ou en Foi. Dans les heures qui viennent, les chroniques devraient être mises à jour.  

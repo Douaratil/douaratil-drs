@@ -15,6 +15,7 @@ components:
 ritual: false
 classes:
   - Foi
+source: "Gwion"
 ---
 **Coût** : 2 points de Foi  
 
