@@ -96,3 +96,18 @@ La troupe shahim se retire en bon ordre sans qu'aucune victoire ne soit déclar�
 De retour à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan), Gaenor gratifie [Lôchetos](/bestiaire/lochetos-vlatcano) et [Gwion](/bestiaire/gwion-gornoc) de terres pour leurs clans respectifs.  
 Les deux Meldètes utilisent une partie de leur richesse pour développer leur clan. Gaenor offre en outre la somme de 1000 PO aux autres participants. [Tiberius](/bestiaire/tiberius-don-alonzo) en profite pour faire prospérer son réseau commercial et familial mais les début de sont guère concluants.  
 Entre temps, un messager venant de l'orient vient informer [Yan Zin](/bestiaire/yan-zin) que son père est souffrant. Le Yotakaï envisage de faire le voyage pour voir son père, peut-être une dernière fois mais aussi pour ne pas être spolié par sa fratrie.  
+
+**21 Miz Favros**  
+Après la Bataille du pont de Pren Derv opposant les Shahims et les Meldètes, [Gwion](/bestiaire/gwion-gornoc) propose son aide pour soigner les blessés à l’aide de ses sorts, et de ses connaissances en herbes. Ne pouvant s'occuper de tous le monde, il fait de son mieux pour soulager les maux de la folie des hommes.  
+Suite à la bataille, encore un peu déboussolé par les combats de la veille, Lôchetos passe un peu de temps près des siens et désormais bien conscient des forces incommensurables qui règnent dans ce monde, il prend la ferme décision d'employer tous les moyens disponibles pour protéger son peuple.  
+
+**22 Miz Favros**  
+Profitant d'un moment de répit, [Gwion](/bestiaire/gwion-gornoc) et [Lôchetos](/bestiaire/lochetos-vlatcano) partent parcourir la campagne autours de Geunddon. Ils passent de longs moments à échanger au sujet de l'herboristerie. L"Ambeanamos lui enseigne les secrets de la Cépate, tandis que le Llawenos lui révèle ses connaissances concernant l'Eglantiane et la Coulemine. Riches de ces nouveaux savoirs, les deux compagnons rentrent à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) à la nuit tombée.  
+
+**23 Miz Favros**  
+Intrigué par la décision qu'avait prit son chef de clan lors de la bataille du pont de Pren Derv au sujet de l'achat de la jeune femme, Lôchetos passe quelques jours à prendre la température auprès des gens de tous les milieux pour distinguer quels sont les soutiens et ennemis actuels de Gaenor.  
+Il se rend compte que les avis sont évidemment partagés. Certains attachés aux traditions et à l'honneur soutiennent la décision de leur chef avec la notion de "quoiqu'il en coûte". D'autres plus pragmatiques, prônant le "en même temps" pensent qu'un accord avec les Shahims auraient pû être trouvé sans avoir à céder une partie de la richesse du royaume.  
+Pour autant, Gaenor est perçu comme un bon chef et quelqu'un de solide. Les difficultés actuelles sont ressenties comme des épreuves passagères, comme toutes celles vécues depuis la défaite contre les Khernaëes de Goulvenig Moisan. Le peuple est en attente de jours meilleurs.  
+
+**24 Miz Favros**  
+Conscient de la valeur commerciale de l'Eglantiane, [Gwion](/bestiaire/gwion-gornoc) décide de passer des jours entiers à la recherche des petites baies qui se vendent à prix d'or dans certaines échoppes. [Lôchetos](/bestiaire/lochetos-vlatcano) poursuit ses enquêtes afind e prévenir tout risque politique pour son souverain. Rapidement, l'Ambeanamos envisage de partir vendre une partie de ses stocks dans la légendaires ville portuaire de Thaouet, plus au nord.  

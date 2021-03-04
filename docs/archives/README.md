@@ -11,6 +11,14 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Ajout de sorts, mise à jour Chronique.
+L'ajout de tous les sorts "classiques" est désormais terminé. Les suivants seront réellement des nouveautés. J'ai rajouté sur certains sorts une option "sources" pour y mettre le nom des auteurs car jusqu'à maintenant, ils étaient anonymes alors que Gwion a beaucoup participé, ainsi que Lôchetos pour un sort. C'est chose réparée. La Chronique de Favros se termine et s'ouvre sur un nouveau mois : Miz Morz.
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 2 mars 2021_
+
+§§§
 ## Complément des règles d'honneur, mises à jour et perspectives.
 Les [règles d'honneur](/passion-honneur-et-interactions-sociales) ont été complétées afin de pouvoir engager enfin des affrontements sociaux et introduisant ainsi de nouvelles mécaniques de gameplay. Les règles de gestion du Domaine, du "Housing" devraient suivre. Les chroniques ont d'autre part été mises à jour avec les évènements de [Miz Favros](/chroniques/miz-favros-721). C'est aussi l'arrivée d'un nouvel archétype : la [Fürtane](/archetypes/furtane). La description d'un nouveau PNJ, [Shamash Eriba](/bestiaire/shamash-eriba) a été ajoutée au Bestiaire:  un futur adversaire ou allié?  
 Bon jeu.

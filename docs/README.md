@@ -21,12 +21,11 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Ajout de sorts, mise à jour Chronique.
-L'ajout de tous les sorts "classiques" est désormais terminé. Les suivants seront réellement des nouveautés. J'ai rajouté sur certains sorts une option "sources" pour y mettre le nom des auteurs car jusqu'à maintenant, ils étaient anonymes alors que Gwion a beaucoup participé, ainsi que Lôchetos pour un sort. C'est chose réparée. La Chronique de Favros se termine et s'ouvre sur un nouveau mois : Miz Morz. 
-Bon jeu.
+## Quelques nouvelles d'avancement.
+J'ai fait le compte. Le site contient désormais 320 sorts et je dois y ajouter une fournée de Gwion, très inspiré en se moment. Je vais mettre à jour la Chronique (j'ai pris un peu de retard)et terminer la section sur la gestion des domaines. En attendant :Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
-_le 2 mars 2021_
+_le 4 mars 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)
