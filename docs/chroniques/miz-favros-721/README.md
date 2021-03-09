@@ -111,3 +111,20 @@ Pour autant, Gaenor est perçu comme un bon chef et quelqu'un de solide. Les dif
 
 **24 Miz Favros**  
 Conscient de la valeur commerciale de l'Eglantiane, [Gwion](/bestiaire/gwion-gornoc) décide de passer des jours entiers à la recherche des petites baies qui se vendent à prix d'or dans certaines échoppes. [Lôchetos](/bestiaire/lochetos-vlatcano) poursuit ses enquêtes afind e prévenir tout risque politique pour son souverain. Rapidement, l'Ambeanamos envisage de partir vendre une partie de ses stocks dans la légendaires ville portuaire de Thaouet, plus au nord.  
+
+**27 Miz Favros**  
+Afin de remercier son compagnon [Gwion](/bestiaire/gwion-gornoc) d'avoir sauvé Aberthol, [Lôchetos](/bestiaire/lochetos-vlatcano) accepte d'accompagner le jeune Ambenamos écouler ses stocks de baume magiques à Thaouet.  
+Les deux Meldètes ayant fixé la date de leur départ pour le premier jour du mois, cela ne laisse plus que quelques jours au jeune meldète du clan Vlatcano pour préparer ce périple.  
+Enrichit des informations récoltés auprès des proches de Gaenor et des cadres des clans les plus importants de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan), il se rend auprès de son Genos pour essayer d'en apprendre plus sur la raison de sa décision et ce qu'il comptait faire avec Sawrina. Le Llawenos comprend rapidement que Gaenor est lui aussi pragmatique et qu'il n'a pas fait cela par bonté de coeur. Il souhaite que les forces en présence agissent au grand jour, ce qui lui laissera vraiment le choix de prendre position dans l'échiquier régional.  
+Apprenant le départ de [Lôchetos](/bestiaire/lochetos-vlatcano), il le missionne pour lui ramener des nouvelles fraiches de Thaouet.  
+
+**28 Miz Favros**   
+Pour le voyage vers Thaouet [Lôchetos](/bestiaire/lochetos-vlatcano)est accompagné de 2 membres du clan Vlatcano et s'équipe de :
+- 2 paquetages d'explorateurs
+- 3 mules
+- 2 armures de cuir
+- 3 arcs + 60 fleches + 3 carquois
+- 1 balance de marchand
+- un stock de fer de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) : 1300 livres de fers (590kg pour une charge max à 630kg sur les mules)  
+
+[Gwion](/bestiaire/gwion-gornoc)  est accompagné de 3 membres de son clan et de son stock d'onguents et d'églantianes.  

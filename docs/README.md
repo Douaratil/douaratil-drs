@@ -21,11 +21,11 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Quelques nouvelles d'avancement.
-J'ai fait le compte. Le site contient désormais 320 sorts et je dois y ajouter une fournée de Gwion, très inspiré en se moment. Je vais mettre à jour la Chronique (j'ai pris un peu de retard)et terminer la section sur la gestion des domaines. En attendant :Bon jeu.
+## Gestion du domaine.
+La page de gestion des domaines est désormais en ligne. Elle permettra aux joueurs qui le désirent, d'approfondir le background et l'enracinement dans le monde de Douaratil. Evidemment, ce type de mécanisme de jeu s'intègre parfaitement dans une campagne. Elle est particulièrement adaptée pour intriguent politiques et donnera plus de profondeur au personnage du joueurs. Bonne découverte et bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 4 mars 2021_
+_le 6 mars 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

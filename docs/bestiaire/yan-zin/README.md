@@ -87,7 +87,7 @@ Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux
 ### Equipement:  
 Yan Zin possède l'équipement suivant : Vêtement de bonne qualité, insigne de cavalerie (officier en formation), sabre oriental, dague, arc court, flèches (11), Armure de cuir.
 Yan Zin possède un cheval.
-39 PO.  
+1031 PO.  
 §§§
 
 §§§ .hero

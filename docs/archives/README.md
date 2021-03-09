@@ -11,6 +11,14 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Quelques nouvelles d'avancement.
+J'ai fait le compte. Le site contient désormais 342 sorts avec la fournée de Gwion, très inspiré en se moment. Je vais mettre à jour la Chronique (j'ai pris un peu de retard) mais le mois de Favros est fini. Je terminerai la section sur la gestion des domaines demain. En attendant : Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 4 mars 2021_
+
+
+§§§
 ## Ajout de sorts, mise à jour Chronique.
 L'ajout de tous les sorts "classiques" est désormais terminé. Les suivants seront réellement des nouveautés. J'ai rajouté sur certains sorts une option "sources" pour y mettre le nom des auteurs car jusqu'à maintenant, ils étaient anonymes alors que Gwion a beaucoup participé, ainsi que Lôchetos pour un sort. C'est chose réparée. La Chronique de Favros se termine et s'ouvre sur un nouveau mois : Miz Morz.
 Bon jeu.

@@ -83,7 +83,7 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 
 §§§ .hero
 ### Equipement:  
-Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourrin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir.   600 PC,  345 PA, 52 PO .
+Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourrin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir.   600 PC,  345 PA, 46 PO .
 §§§
 
 

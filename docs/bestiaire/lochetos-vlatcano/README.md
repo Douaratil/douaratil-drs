@@ -110,7 +110,7 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 808PC, 960 PA, 24 PE, 1078 PO, 3 doses de Coulemine, 3 doses d'églantiane.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 808PC, 880 PA, 24 PE, 868 PO, 3 doses de Coulemine, 3 doses d'églantiane.
 §§§
 
 §§§ .hero
@@ -139,4 +139,14 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :27  
+§§§
+
+§§§ .hero
+### Commerce
+- 2 paquetages d'explorateurs
+- 3 mules
+- 2 armures de cuir
+- 3 arcs + 60 fleches + 3 carquois
+- 1 balance de marchand
+- un stock de fer de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) : 1300 livres de fers (590kg pour une charge max à 630kg sur les mules)
 §§§

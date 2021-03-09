@@ -56,7 +56,7 @@ Le personnage possède un patrimoine important qui peut comprendre plusieurs fer
 **Patrimoine Très important**  
 *Condition :10 et + *
 *Investissement: 32 000 pièces d'or*  
-Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
+Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
 
 §§§ .table-container
 |Table de fluctuation économique|||
