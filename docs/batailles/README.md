@@ -24,29 +24,29 @@ Par convention sur le champs de bataille, les unités se déplacent selon leur t
 |Table de caractéristiques des unités ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Infanterie légère inexpérimentée|20|14|+3|1|18m/3|0/0|450|
-|Infanterie légère normale|30|14|+4|1|18m/3|0/0|1100|
-|Infanterie légère élite|40|14|+5|2|18m/3|0/0|2300|
+|Infanterie légère inexpérimentée|20|14|+3|1|18m/3|0/0|225|
+|Infanterie légère normale|30|14|+4|1|18m/3|0/0|550|
+|Infanterie légère élite|40|14|+5|2|18m/3|0/0|1150|
 |||||||||
-|Infanterie lourde inexpérimentée|20|17|+3|1|12m/2|0/0|500|
-|Infanterie lourde normale|30|17|+4|1|12m/2|0/0|1200|
-|Infanterie lourde élite|40|17|+5|2|12m/2|0/0|2400|
+|Infanterie lourde inexpérimentée|20|17|+3|1|12m/2|0/0|250|
+|Infanterie lourde normale|30|17|+4|1|12m/2|0/0|600|
+|Infanterie lourde élite|40|17|+5|2|12m/2|0/0|1200|
 |||||||||
-|Archer inexpérimenté|20|12|+3|1|18m/3|24m/96m - 8/32|450|
-|Archer normal|30|12|+4|1|18m/3|24m/96m - 8/32|1100|
-|Archer élite|40|12|+5|2|18m/3|24m/96m - 8/32|2300|
+|Archer inexpérimenté|20|12|+3|1|18m/3|24m/96m - 8/32|225|
+|Archer normal|30|12|+4|1|18m/3|24m/96m - 8/32|1050|
+|Archer élite|40|12|+5|2|18m/3|24m/96m - 8/32|1150|
 |||||||||
-|Cavalerie légère inexpérimentée|20|15|+3|1|30m/10|0/0|500|
-|Cavalerie légère normale|30|15|+4|1|30m/10|0/0|1200|
-|Cavalerie légère élite|40|15|+5|2|30m/10|0/0|2400|
+|Cavalerie légère inexpérimentée|20|15|+3|1|30m/10|0/0|250|
+|Cavalerie légère normale|30|15|+4|1|30m/10|0/0|600|
+|Cavalerie légère élite|40|15|+5|2|30m/10|0/0|1200|
 |||||||||
-|Cavalerie lourde inexpérimentée|20|18|+3|1|24m/8|0/0|550|
-|Cavalerie lourde normale|30|18|+4|1|24m/8|0/0|1300|
-|Cavalerie lourde élite|40|18|+5|2|24m/8|0/0|2500|
+|Cavalerie lourde inexpérimentée|20|18|+3|1|24m/8|0/0|275|
+|Cavalerie lourde normale|30|18|+4|1|24m/8|0/0|650|
+|Cavalerie lourde élite|40|18|+5|2|24m/8|0/0|1250|
 |||||||||
-|Cavalerie archer inexpérimenté|20|12|+3|1|30m/10|24m/96m - 8/32|500|
-|Cavalerie archer normal|30|12|+4|1|30m/10|24m/96m - 8/32|1200|
-|Cavalerie archer élite|40|12|+5|2|30m/10|24m/96m - 8/32|2400|
+|Cavalerie archer inexpérimenté|20|12|+3|1|30m/10|24m/96m - 8/32|250|
+|Cavalerie archer normal|30|12|+4|1|30m/10|24m/96m - 8/32|600|
+|Cavalerie archer élite|40|12|+5|2|30m/10|24m/96m - 8/32|1200|
 §§§
 
 **Infanterie légère**
