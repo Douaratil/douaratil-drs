@@ -6,38 +6,74 @@ Dans le cours de leur vie, les personnages seront amenés à participer à des c
 Le combat de masse est constitué de combattant de tous genre, qui peuvent généralement, malgré une possible grande hétérogénéité, se regrouper en unités. Chaque unité est une entité propre avec ses caractéristiques de combat.  
 
 ## Constituer un groupe de combattant  
-Pour constituer un groupe de combattant, il faut rassembler des individus qui ont sensiblement le même niveau et le même équipement.
+Pour constituer un groupe de combattant, il faut rassembler des individus qui ont sensiblement le même niveau et le même équipement. Il faut ainsi regrouper les combattants par 5 minimums. En dessous de ce nombre, il ne sont plus constitués en unité et subissent un désavantage pour tous leurs tests.  
 
 ## Organiser son armée  
+On peut distinguer principalement l'infanterie et la cavalerie. Pour chaque, il y a une version légère et une version lourde. Il y a aussi les unités d'attaque à distance.  
+Il y a ensuite le niveau d'expertise de l'unité: inexpérimentée (Niv 2), Normale (Niv 4) ou Elite (Niv 6). Les troupes ne peuvent pas être plus haute que le niveau élite. Les personnages qui sont plus expérimentées doivent être joués individuellement en tant que PNJ exceptionnels.  
 
 ## Quelles valeurs Utiliser  
+Valeur de défense (VD)
+Valeur offensive (VO)
+Points d'action (PA)
 
+Déplacement
+Par convention sur le champs de bataille, les unités se déplacent selon leur type et leur encombrement. Le déplacement est compté pour 2 rounds comme nous le verrons dans le cadre de l'unité de temps.
+
+§§§ .table-container
+|Table de caractéristiques des unités ||||||||
+|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Infanterie légère inexpérimentée|20|14|+3|1|18m/3|0/0|450|
+|Infanterie légère normale|30|14|+4|1|18m/3|0/0|1100|
+|Infanterie légère élite|40|14|+5|2|18m/3|0/0|2300|
+|||||||||
+|Infanterie lourde inexpérimentée|20|17|+3|1|12m/2|0/0|500|
+|Infanterie lourde normale|30|17|+4|1|12m/2|0/0|1200|
+|Infanterie lourde élite|40|17|+5|2|12m/2|0/0|2400|
+|||||||||
+|Archer inexpérimenté|20|12|+3|1|18m/3|24m/96m - 8/32|450|
+|Archer normal|30|12|+4|1|18m/3|24m/96m - 8/32|1100|
+|Archer élite|40|12|+5|2|18m/3|24m/96m - 8/32|2300|
+|||||||||
+|Cavalerie légère inexpérimentée|20|15|+3|1|30m/10|0/0|500|
+|Cavalerie légère normale|30|15|+4|1|30m/10|0/0|1200|
+|Cavalerie légère élite|40|15|+5|2|30m/10|0/0|2400|
+|||||||||
+|Cavalerie lourde inexpérimentée|20|18|+3|1|24m/8|0/0|550|
+|Cavalerie lourde normale|30|18|+4|1|24m/8|0/0|1300|
+|Cavalerie lourde élite|40|18|+5|2|24m/8|0/0|2500|
+|||||||||
+|Cavalerie archer inexpérimenté|20|12|+3|1|30m/10|24m/96m - 8/32|500|
+|Cavalerie archer normal|30|12|+4|1|30m/10|24m/96m - 8/32|1200|
+|Cavalerie archer élite|40|12|+5|2|30m/10|24m/96m - 8/32|2400|
+§§§
+
+**Infanterie légère**
+Les soldats sont équipés d'une armure légère type armure de cuir, d'un bouclier, d'une arme à une main (hache, épée) et d'un javelot.  
+**Infanterie lourde**
+Les soldats sont équipés d'une armure lourde type armure de broigne, d'un bouclier, d'une arme à une main (hache, épée) et d'un javelot.  
+**Archers**
+Les soldats sont équipés d'une armure légère type armure de cuir, d'une arme à une main (hache, épée) et d'un arc court.  
+**Cavalerie légère**
+Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'un bouclier, d'une arme à une main (hache, épée) et d'un javelot.  
+**Cavalerie lourde**
+Les soldats sont équipés d'une armure lourde type armure de clibanion, d'un bouclier, d'une arme à une main (hache, épée) et d'une lance. Leurs chevaux sont de lourds destriers.  
+**Cavalerie archer**
+Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'une arme à une main (hache, épée) et d'un arc court.  
 ## Unité de temps  
+2 rounds
 
 ## Les modificateurs
+avantage
+désavantage
+charges bonus/encaisser
+
 
 ## Déroulement de la bataille  
 
 
 
-La phase de gestion du domaine n'est pas indispensable pour les parties mais les joueurs qui développeront cet aspect, en plus de l'expansion de leur famille, apprécieront ce mécanisme du jeu qui approfondira leur histoire et ancrage dans le monde de Douaratil.  
-
-## La vitrine de la puissance du personnage
-Un domaine est d'abord un élément narratif du jeu. Il coûtera probablement plus d'or qu'il n'en rapportera. Pourtant, le domaine est aussi la vitrine de la puissance du personnage. Il participe ainsi au développement du royaume et à le soutien des personnes qui bénéficient de cette expansion économique : villageois, fermiers mais aussi seigneur qui sait pouvoir compter sur un allier puissant.
-
-## La douceur de la vie du foyer   
-Un foyer accueillant est aussi un endroit où le personnage aime se retirer pour se reposer, profiter de sa famille, recevoir les amis et nouer de nouvelles alliances. C'est aussi un lieu pour se remettre de ses blessures, étudier et s'entraîner.  
-
-## La question de l'acquisition  
-Un domaine ne peut s'acquérir simplement par de l'argent. C'est en général un don de la part d'un puissant en échange de l'allégeance et de la gestion saine des lieux. Acquérir un domaine est en fait un ensemble d'obligation envers sa famille, ses gens et son suzerain. L'acquisition d'un domaine doit s'intégrer dans le contexte de la campagne et pouvoir s'expliquer.  
-Par exemple, il serait impensable qu'un étranger, sous prétexte qu'il possède quelques richesses, s'empare des terres. Ce serait de la part du vendeur un acte de trahison envers son peuple et un acte de guerre de la part de l'acheteur. On peut cependant estimer qu'en échange de services et de loyauté, un domaine soit donné en tant "colonie" à un population d'oigine étrangère.  
-
-## La gestion du domaine  
-Le domaine est géré par le personnage. Comme les tests familiaux et économiques, les décisions de dépenses et les revenus se génèrent tous les mois, pendant les intermèdes. Un option de bâtiment est construite en une lune, il faut donc attendre un mois pour en bénéficier.  
-
-## Les options de personnalisation  
-Le domaine, au départ, n'est qu'un unique bâtiment battu par les vents. Il est souvent placé en haut d'une petite colline et surplombe l'espace qui est sous la responsabilité du personnage.  
-Le maître du domaine voudra sûrement, s'il en a les moyens, améliorer sa vie quotidienne et son prestige. Pour cela il peut choisir de rajouter des "options" comme il est indiqué ci-dessous. Dans le domaine, il faut distinguer deux entités. La première est le bâtiment principal et ses annexes. C'est en réalité la demeure du seigneur des lieux. Il y a ensuite les bâtiments et les ressources du domaine qui se regroupent à quelques lancer de pierre du bâtiment principal. Pour résumer, un château et un village.  
 
 §§§ .table-container
 |Table du bâtiment principal & des annexes | (le château)|||
@@ -63,30 +99,3 @@ Le maître du domaine voudra sûrement, s'il en a les moyens, améliorer sa vie 
 |Sortie secrète|7000 po|Sans|Passage connu uniquement par le seigneur du domaine|
 * Les revenus sont entendus, charges et autres impôts déduits.
 §§§
-Chaque élément de s'acquière qu'une seule fois, exception faite des chambres d'invités. Il est possible d'en ajouter une ou deux supplémentaire dans la bâtisse principale.  
-
-§§§ .table-container
-|Table des bâtiments & des ressources du domaine |(le bourg)||||
-|Type|Coûts|Revenus|Personnel| Détails|
-|:-:|:-:|:-:|:-:|:-:|
-|Salle du conseil|1000 po|0|Sans|Salle de réunion, de fête et de cérémonie de la communauté|
-|Ferme|500 po|1d6 pa|Une famille|Famille qui travaille la terre et s'occupe du bétail, cette option peut-être choisie plusieurs fois|
-|Atelier de poterie|1000 po|1d6 po|Une famille|Famille qui fournit les récipients et les tuiles|
-|Forge|2000 po|2d6 po|Une famille|Famille qui fournit les outils, les fers et autres ustensiles|
-|Menuiserie|1500 po|1d6 po|Une famille|Famille qui s'occupe de la menuiserie, charpente, bucheronnage et charbonnerie suivant la saison|
-|Moulin|2500 po|3d6 po|Une famille|Famille qui s'occupe de la farine et des stocks de céréales|
-||||||
-|Four|500 po|0|Un boulanger|-|
-|Puits|500 po|0|Sans|15 mètres de profondeur|
-|Enceinte en bois|500 po|0|-|Mur de 2 m de hauteur|
-|Ecurie|2000 po|0|Une famille de palefrenier|S'occupe des montures |
-|Basse-cour|500 po|1d6 pa|Une famille|S'occupe des différents poulaillers|
-|Porcherie|500 po|1d6 po|Une famille|S'occupe des troupeaux de cochons|
-|Etable|1000 po|2d6 po|Une famille|S'occupe des troupeaux de bovins|
-|Bergerie|1000 po|2d6 pa|Une famille|S'occupe des troupeaux de ovins|
-* Les revenus sont entendus, charges et autres impôts déduits.
-§§§
-Chaque élément de s'acquière qu'une seule fois, exception faite des fermes qui peuvent être acquises jusqu'au un nombre maximum de 10 + bonus de charisme du personnage.  
-
-## Avantage concret du développement
-Le fait d'augmenter la bâtisse permet d'être considéré dans les alentours. Un investissement de 10 000 po dans la bâtisse permet d'avoir l'équivalent du **haut fait de richesse "héroïque"** avec les avantages de points d'honneur qu'il en découle.  
