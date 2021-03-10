@@ -441,6 +441,10 @@ module.exports = {
             ]
           },
           {
+            title: "Les batailles",
+            path: '/batailles/'
+          },
+          {
             title: "Les objets",
             path: '/objets-opposition/'
           },
@@ -472,6 +476,10 @@ module.exports = {
               {
                 title: "Miz Favros 721",
                 path: '/chroniques/miz-favros-721'
+              },
+              {
+                title: "Miz Morz 721",
+                path: '/chroniques/miz-morz-721'
               },
             ]
           },
