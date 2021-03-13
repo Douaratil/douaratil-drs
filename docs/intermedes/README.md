@@ -132,6 +132,19 @@ La famille est une cellule très importante pour le personnage et joue un rôle 
 
 ## Les compagnons  
 Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffisamment développés pour être intégralement transcrit sur une feuille de personnage. Le Narrateur peut prendre le contrôle d'un compagnon à tous moment mais généralement, le joueur en garde la maîtrise. Un compagnon est un allié fidèle qui risquera sa vie pour son maître. En échange, celui-ci partage ses richesses avec lui, particulièrement lors des partages de trésor. Les compagnons prennent 10 % de la part du joueur et de ses revenus sans jamais dépasser 50 % quelque soit le nombre de compagnon. **Le nombre de compagnon maximum correspond au bonus de charisme**.
+§§§ .hero
+**Règles concernant les compagnons**: Les compagnons sont joués comme des personnages normaux et sont entièrement sous le contrôle du personnage. Le compagnon revers 50% de ses points d'expérience au personnage principal si celui-ci est absent. Sinon, à l'inverse, si le ou les compagnons sont avec le personnage principal durant le jeu, ils gagnent l'équivalent de 50% des XP du joueur.  
+Ainsi un compagnon  monte de niveau plus lentement qu'un personnage principal.  
+D'autre part, un compagnon n'a pas d'Archétype, il choisit simplement l'une des [trois voies](/voies).  
+Enfin, un compagnon est à la charge financière du joueur qui doit lui maintenir au minimum un [train de vie modeste](/partir-a-l-aventure/#le-train-de-vie) (1po par jour).  
+
+***Pour résumer:  
+- Coût minimum de 1po/jours  
+- 10% de part de richesse (trésor) par compagnon sans dépenser 50%  
+- Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.  
+- Le compagnon n'a pas d'Archétype mais choisi l'une des [trois voies](/voies).***  
+§§§
+
 
 ## levées des armées   
 L’host ne peut être invoqué normalement qu’une fois par saison. Cela mobilise de forte ressource pour le clan du personnage. Cela peut être fait à la demande du suzerain dans le cadre d'obéissance et de loyauté. Les armées du clan peuvent être aussi utiliser pour régler des conflits qui oppose des familles. La composition de l'host dépend du patrimoine du clan du personnage.  

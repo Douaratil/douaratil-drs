@@ -87,40 +87,11 @@ Les soldats sont équipés d'une armure lourde type armure de clibanion, d'un bo
 **Cavalerie archer**
 Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'une arme à une main (hache, épée) et d'un arc court.  
 ## Unité de temps  
-2 rounds
+L'unité de temps d'une bataille est le double d'un round. Cela permet au personnage d'intervenir deux fois chaque étape de la bataille. Il peut par contre lui être opposé plusieurs adversaires à chaque round, s'il se trouve au contact. Au niveau des personnages, les adversaires qui lui sont opposés le sont à son créneau d'initiative.   
 
 ## Les modificateurs
-avantage
-désavantage
-charges bonus/encaisser
-
+Les modificateurs sont les mêmes que pour le combat individuel. Il peut fonctionner avec des bonus et des malus, ou des avantages et des désavantages selon les situations.  
 
 ## Déroulement de la bataille  
-
-
-
-
-§§§ .table-container
-|Table du bâtiment principal & des annexes | (le château)|||
-|Type|Coûts|Personnel| Détails|
-|:-:|:-:|:-:|:-:|
-|Salle principale|3000 po|Une servante|Le plus souvent la fille de la ferme attachée au domaine|
-|Cuisines|2500 po|Un couple de cuisiniers|Service de cuisine et approvisionnement|
-|Garde manger|1500 po|Sans|Le garde manger est géré par le cuisinier|
-|Chambre nuptiale|1500 po|Une suivante|Une jeune fille attachée au service de la maîtresse de maison|
-|Chambre d'enfants|1000 po|Sans|A la charge de la maîtresse de maison et de sa suivante|
-|Chambre d'invités|1000 po|Sans|A la charge du personnel de la maison|
-|Corps de garde|2500 po|3 gardes |Le plus souvent un est affecté à la porte d'entrée, une sentinelle sur les murs et un garde du corps|
-|||||
-|Enceinte en bois|500 po|-|Mur de 2 m de hauteur|
-|Enceinte en pierre|2000 po|-|Mur de 3 m de hauteur|
-|Fosse|1000 po|-|3 mètres de profondeur|
-|Douves|5000 po|-|3 mètres de profondeur, inondées, possibilité d'y mettre des carpes|
-|Pont-levis|2500 po|2 gardes|Le plus souvent affecté à sécuriser l'entrée et la sortie du domaine|
-|Herse|3000 po|sans|Gérée par les gardes du pont-levis|
-|Four|500 po|Un boulanger|-|
-|Puits|500 po|Sans|15 mètres de profondeur|
-|Pigeonnier|500 po|Sans|A la charge de la maîtresse de maison et de sa suivante|
-|Sortie secrète|7000 po|Sans|Passage connu uniquement par le seigneur du domaine|
-* Les revenus sont entendus, charges et autres impôts déduits.
-§§§
+Au début de la bataille, on défini quelle armée agit en premier. Ce choix peut être fait par tous moyens que vous jugez bon (Pair ou impair sur 1d6 par exemple).
+Ensuite pour chaque camps, s'il y a de chaque côté des adversaires majeurs (personnage et PNJ), il faut
