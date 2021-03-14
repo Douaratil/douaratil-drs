@@ -11,6 +11,13 @@ toc: false
 
 <v-col cols="12" md="6">
 §§§
+## Gestion du domaine.
+La page de gestion des domaines est désormais en ligne. Elle permettra aux joueurs qui le désirent, d'approfondir le background et l'enracinement dans le monde de Douaratil. Evidemment, ce type de mécanisme de jeu s'intègre parfaitement dans une campagne. Elle est particulièrement adaptée pour intriguent politiques et donnera plus de profondeur au personnage du joueurs. Bonne découverte et bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 6 mars 2021_
+
+§§§
 ## Quelques nouvelles d'avancement.
 J'ai fait le compte. Le site contient désormais 342 sorts avec la fournée de Gwion, très inspiré en se moment. Je vais mettre à jour la Chronique (j'ai pris un peu de retard) mais le mois de Favros est fini. Je terminerai la section sur la gestion des domaines demain. En attendant : Bon jeu.  
 §§§ .text-right

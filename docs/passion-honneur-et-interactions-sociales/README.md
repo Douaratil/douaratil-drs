@@ -46,7 +46,7 @@ Plusieurs compétences peuvent être utilisées dans le cadre d'interactions soc
 
 ## Honneur & interactions sociales
 L'honneur représente deux facteurs du personnage. Son maximum correspond à sa reconnaissance sociale alors que son encours correspond à son égo.  
-Un affrontement social peut prendre plusieurs tours de jeu, jsuqu'à ce qu'un des deux soit obligé d'arrêter. Les points d'honneur correspondent ainsi à une quantité de "blessures psychiques" que peut encaisser une personne.  
+Un affrontement social peut prendre plusieurs tours de jeu, jusqu'à ce qu'un des deux soit obligé d'arrêter. Les points d'honneur correspondent ainsi à une quantité de "blessures psychiques" que peut encaisser une personne.  
 Ainsi, la difficulté des affrontements sociaux est toujours la résistance de la personne qui se trouve en face.  
 Se retrouver avec 0 point d'honneur n'a pas d'autre effet que d'accorder un désavantage à toutes les compétences sociales et les jets de sauvegarde psychiques (Intelligence, Sagesse & Charisme) jusqu'à ce que le personnage retrouve la totalité de ses points d'honneur.  
 Ainsi, un personnage peut perdre des points d'honneur en tentant de convaincre, corrompre, séduire, marchander etc... Dans toute interaction sociale. Cela a pour effet de limiter le nombre de tentatives lors des interactions sociales.  

@@ -283,6 +283,10 @@ module.exports = {
               title: "Jörghal",
               path: '/archetypes/jorghal',
             },
+            {
+                title: "Legatos",
+                path: '/archetypes/legatos',
+              },
           {
               title: "Llawenos",
               path: '/archetypes/llawenos',

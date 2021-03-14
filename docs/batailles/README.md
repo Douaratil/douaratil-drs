@@ -6,7 +6,7 @@ Dans le cours de leur vie, les personnages seront amenés à participer à des c
 Le combat de masse est constitué de combattant de tous genre, qui peuvent généralement, malgré une possible grande hétérogénéité, se regrouper en unités. Chaque unité est une entité propre avec ses caractéristiques de combat.  
 
 ## Constituer un groupe de combattant  
-Pour constituer un groupe de combattant, il faut rassembler des individus qui ont sensiblement le même niveau et le même équipement. Il faut ainsi regrouper les combattants par 5 minimums. En dessous de ce nombre, il ne sont plus constitués en unité et subissent un désavantage pour tous leurs tests.  
+Pour constituer un groupe de combattant, il faut rassembler des individus qui ont sensiblement le même niveau et le même équipement. Il faut ainsi regrouper les combattants par 10 minimums. En dessous de ce nombre, il ne sont plus constitués en unité et subissent un désavantage pour tous leurs tests.  
 
 ## Organiser son armée  
 On peut distinguer principalement l'infanterie et la cavalerie. Pour chaque, il y a une version légère et une version lourde. Il y a aussi les unités d'attaque à distance.  
@@ -90,8 +90,53 @@ Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'
 L'unité de temps d'une bataille est le double d'un round. Cela permet au personnage d'intervenir deux fois chaque étape de la bataille. Il peut par contre lui être opposé plusieurs adversaires à chaque round, s'il se trouve au contact. Au niveau des personnages, les adversaires qui lui sont opposés le sont à son créneau d'initiative.   
 
 ## Les modificateurs
-Les modificateurs sont les mêmes que pour le combat individuel. Il peut fonctionner avec des bonus et des malus, ou des avantages et des désavantages selon les situations.  
+Les modificateurs sont les mêmes que pour le combat individuel. Il peut fonctionner avec des bonus et des malus, ou des avantages et des désavantages selon les situations mais il faut aussi considérer les modificateurs suivants:   
+
+- La charge donne un bonus de 1d6
+- Les attaques de flancs donnent un bonus de 1d6
+- Les attaques de dos donnent un bonus de 2d6
 
 ## Déroulement de la bataille  
 Au début de la bataille, on défini quelle armée agit en premier. Ce choix peut être fait par tous moyens que vous jugez bon (Pair ou impair sur 1d6 par exemple).
-Ensuite pour chaque camps, s'il y a de chaque côté des adversaires majeurs (personnage et PNJ), il faut
+Ensuite pour chaque camps, s'il y a de chaque côté des adversaires majeurs (personnage et PNJ), il faut procéder à un test d'[initiative](/combattre/#initiative).
+
+La phase de combat se joue en trois actes. Chaque armée joue et ensuite les personnages et PNJ individuellement.  
+
+### PA des unités  
+Les unités ont un nombre de points d'action (PA) égal à PA individuel multiplié par le nombre d'individu dans l'unité.  
+
+*Par exemple : une unité d'infanterie lourde normale de 100 effectifs possède 3000 PA (30 PA X 100)*  
+
+Les PA sont soustraits au fur et à mesure. A chaque fois qu'un montant atteint 30 (quelque soit la cause des dégâts).
+
+*Par exemple : Des personnages attaquent une unité d'infanterie lourde normale. A trois, ils arrivent à causer 63 points de dégâts d'action. Pour ce tour, l'unité perd deux soldats (2 X 30). Il reste 3 points qui sont comptabilisés pour les rounds suivants. Dés que 27 PA de dégâts seront causés, il faudra ajouter les 3 PA excédentaires du round précédent. On arrive ainsi à 30 PA et un autre soldat est mis hors de combat.*
+
+### Les attaques des unités  
+Les unités attaquent normalement avec 3d6 et ajoute leur VO. Au résultat est soustrait la Valeur de défense (VD) de l'unité adverse.  
+Les unités ajoutent 1d6 par 10 soldats qui la constituent au delà de 10.  
+Les dés sont lancés autant de fois qu'il y a d'attaque (2 dans le cas des troupes d'élites) et que des groupes de 10 soldats qui sont au contact. Le positionnement des unités est donc très important.  
+
+### Le bonus de surnombre & le bonus de rang
+Une unité qui est au moins deux fois plus nombreuse que ses adversaire gagne un bonus de 2d6 de surnombre.  
+Le bonus de rang est un peu différent. L'unité gagne 1d6 par rang de soldats en formation.  
+
+### Bonus de commandement  
+Les unités commandées par des personnages reçoivent un bonus de commandement qui leur donne un avantage lors des tests de déroute et un bonus de zèle au combat de 2d6.  
+
+### Attaques contre les personnages  
+Les attaques contre les personnages se jouent normalement mais il existe une exception dans le contexte d'une bataille, lorsque le personnage commande une unité. En effet, lorsque le personnage commande une unité, la moitié des dégâts reçus sont transférés à l'unité (cela représente les soldats qui protègent leur chef).   
+
+### Déroute  
+Lorsqu'une unité perd des effectifs, elle peut avoir une baisse de moral. Une unité qui perd des effectifs peut être fixée si elle n'est pas au corps à corps. Une unité qui perd 10% de ses effectifs doit faire un test de sagesse DD 12. Si elle échoue:
+- Au contact, elle fuit
+- A distance, elle s'immobilise.
+Il est possible de tenter de rallier une unité tous les rounds avec un JS de Sagesse DD16 ou de Charisme DD16 si un personnage est au sein de l'unité.  
+
+
+§§§ .hero
+### Illustration : exemples de bataille  
+Une unité de 60 fantassins légers inexpérimentés (1200 PA, VD 14, VO +3) combat une unité de 50 fantassins lourds inexpérimentés (1000 PA, VD 17, VO +3).
+Respectivement lors de la phase de combat (à ce moment) l'unité de fantassins légers attaque avec 3d6 +3 +5d6 alors que les fantassins lourds attaqueront avec 3d6 +3 +4d6.  
+
+Il faudra ainsi moduler tout cela avec le positionnement des unités, les bonus de rangs et le nombre d'attaques.  
+§§§

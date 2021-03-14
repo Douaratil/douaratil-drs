@@ -87,7 +87,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 §§§ .hero
 ### Equipement:  
 Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir
-Margs possède : 3005 PC, 938 PA, 24 PE & 1114 PO.  
+Margs possède : 3005 PC, 938 PA, 24 PE & 1096PO.  
 Dette 500 PO, (rumeur d'enlèvement contre son clan ou guerre)
 §§§
 

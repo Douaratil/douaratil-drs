@@ -42,7 +42,7 @@ On retrouve également quelques 45 hommes d'arme, formés de quelques villageois
 Il est également possible de demander de l'aide aux aventurier présent à Caohaydhan  
 
 ### Détails des nobles, professionnels, religieux ou assimilés, aventuriers et héros
-La région est tenues par différentes grandes familles meldètes dont voici les principales : Atho, Balaeso, Braamo, Bregetho, Brombiro, Cenalo, Cornog, Dagano, Dogardo, Dolasatho, Easo, Fiodo, Hethuso, Hizino, Jaino, Jidilo, Losalo, Lugeto, Macaro, Marasieno, Nantono, Perano, Peribrerto, Pimalo, Potasiono, Raerto, Setero, Skarpo, Thetano, Vebro, Veco, Vlatcano, Vosego
+La région est tenues par différentes grandes familles meldètes dont voici les principales : Atho, Balaeso, Braamo, Bregetho, Brombiro, Cenalo, Dagano, Dogardo, Dolasatho, Easo, Fiodo, Gornoc, Hethuso, Hizino, Jaino, Jidilo, Losalo, Lugeto, Macaro, Marasieno, Nantono, Perano, Peribrerto, Pimalo, Potasiono, Raerto, Setero, Skarpo, Thetano, Vebro, Veco, Vlatcano, Vosego
 
 ### Nobles  
 - Alahna Lugeto (Meldète, feminin) Femme du Genos Gaenor Lugeto
@@ -64,7 +64,7 @@ La région est tenues par différentes grandes familles meldètes dont voici les
 - Une chasseuse du nom de Cain Cenalo (Meldète, feminin)
 - Un palefrenier du nom de Tudur Potasiono (Meldète, masculin)
 - Une tailleuse de pierre du nom de Eilwen Cenalo (Meldète, feminin)
-- Un forgeron du nom de Dyfnan Cornog (Meldète, masculin)
+- Un forgeron du nom de Dyfnan Gornoc (Meldète, masculin)
 - Un boquetier du nom de Braith Hethuso (Meldète, masculin)
 - Une forgerone du nom de Caron Peribrerto (Meldète, feminin)
 - Une fromagère du nom de Myfanwy Vebro (Meldète, feminin)
@@ -90,7 +90,7 @@ La région est tenues par différentes grandes familles meldètes dont voici les
 ### Commerces  
 - Une auberge portant le nom : Aux cent chats [Détail](#aux-cent-chats)
 - Un temple de Khoulggotatelle tenu par Rhys Thetano (Meldète, masculin)
-- Une auberge portant le nom : Au comptoir de la belette noire [Détail](#au-comptoir-de-la-belette noire)
+- Une auberge portant le nom : Au comptoir de la belette noire [Détail](#au-comptoir-de-la-belette-noire)
 - Une étable tenu par Gwenhwyfar Jidilo (Meldète, feminin)
 - Une auberge portant le nom : A la brasserie du renard [Détail](#a-la-brasserie-du-renard)
 - Un moulin tenu par Owain Brombiro (Meldète, masculin)
@@ -98,7 +98,7 @@ La région est tenues par différentes grandes familles meldètes dont voici les
 - Une auberge portant le nom : A la mouette noire [Détail](#a-la-mouette-noire)
 - Une auberge portant le nom : A la table de la mouche verte [Détail](#a-la-table-de-la-mouche-verte)
 - Un moulin tenu par Merfin Lugeto (Meldète, masculin)
-- Une étable tenu par Ieuan Cornog (Meldète, masculin)
+- Une étable tenu par Ieuan Gornoc (Meldète, masculin)
 - Une temple de Sheggothlil tenu par Dilys Lugeto (Meldète, feminin)
 - Une boulangerie tenu par Mair Cenalo (Meldète, feminin)
 

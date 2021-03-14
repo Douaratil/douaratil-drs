@@ -5,7 +5,7 @@ subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
 challenge: "5"
-customHP: "24"
+customHP: "26"
 abilityScores:
   for: 8
   dex: 8
@@ -92,7 +92,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 165 PA, 19 PE, 2579 PO.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 165 PA, 19 PE, 2459 PO.
 §§§
 
 §§§ .hero
@@ -104,9 +104,9 @@ Perle de 100 po, une clochette enchantée.
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [soin des blessures](/grimoire/soin-des-blessures).  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/restauration-inferieure), [serviteur invisible](/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures).  
 
-**Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, restauration inférieure, serviteur invisible, suggestion, vision dans le noir.
+**Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, suggestion, vision dans le noir.
 §§§
 
 §§§ .hero
@@ -116,15 +116,15 @@ Perle de 100 po, une clochette enchantée.
 
 §§§ .hero
 ### Domaine
-**Bâtiments** : Une bâtisse principale
-**Serviteurs** : 0
-**Revenus** : 0
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 8175  
+**XP acquis** : 9275  
 **Points de Magie** :34
 **Points de Foi** :10  
 **Points d'honneur** :27  

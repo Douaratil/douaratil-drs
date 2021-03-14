@@ -85,7 +85,7 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2).  
-Sawrina possède 4 PA, 23 PE & 1030 PO.  
+Sawrina possède 4 PA, 23 PE & 1010 PO.  
 §§§
 
 §§§ .hero

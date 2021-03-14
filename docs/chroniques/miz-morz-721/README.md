@@ -56,7 +56,7 @@ Les hommes de [Lôchetos](/bestiaire/lochetos-vlatcano) se rendent au port afin 
 Ainsi, ils apprennent qu'un petit emplacement de bateau avec son entrepôt est disponible à la vente. Ce genre d'affaire n'est pas commun car les places sont chères. Avoir un accès au port évite de payer la taxe de droit de vente de marchandise à chaque entrée dans la cité car des impôts sont prélevés sur l'amarrage du bateau et la garde de l'entrepôt. Le coût d'achat est de 500 PO mais permet de d'avoir une rente commerciale (2d6 PO par lune). Ne laissant pas passer l'occasion, [Lôchetos](/bestiaire/lochetos-vlatcano) envoie l'un de ses hommes acheter le lieu et y placer Aelhaearn Vlatcano, un marchand pêcheur qui pourra fournir son propre bateau (une grosse barque à voile).  
 [Lôchetos](/bestiaire/lochetos-vlatcano) en profite pour revendre les marchandises à profit (650 livres de fer) qu'il avait amené pour la somme de 1235 PA soit une marge bénéficiaire de 90%.  
 
-**10 Miz Morz**  
+**11 Miz Morz**  
 [Tiberius](/bestiaire/tiberius-don-alonzo) est à Ker-Saozon depuis maintenant trois jour. Il s'occupe d'Azenor mais prétexte d'aller chercher des ingrédients pour la soigner pour partir enquêter sur cette affaire. Il se rend compte que les hommes d'Alarig le cherchent car ils ont appris l'arrivée de l'Alcante en ville.  
 Discrètement, [Tiberius](/bestiaire/tiberius-don-alonzo), passe voir Morwenna Moisan. Elle n'apporte pas d'informations particulières sur la tentative d'estropier Azenor. Par contre, elle fait transférer l'amante de [Tiberius](/bestiaire/tiberius-don-alonzo) au palais d'Alarig et s'engage à garantir sa sécurité.  
 [Lôchetos](/bestiaire/lochetos-vlatcano) en profite pour revendre les marchandises à profit (3 doses de Coulemine, 3 doses d'églantiane) qu'il avait amené pour lui pour la somme de 7PO, 7PA & 8PC soit une marge bénéficiaire de 160%.  
@@ -64,11 +64,11 @@ Discrètement, [Tiberius](/bestiaire/tiberius-don-alonzo), passe voir Morwenna M
 Pendant ce temps, [Gwion](/bestiaire/gwion-gornoc) trouve une échoppe intéressante du nom "Les mystères d'Orient" tenue par Osrath Ibn Zendrim. Cet étrange marchand vend tout type d'ingrédient magique dont le prix unitaire n'excède pas 100 po.  
 Il peut avoir des ingrédient plus cher jusqu'à 1000 po mais il faut attendre une lune de délai pour la livraison des fournisseurs.  
 
-**11 Miz Morz**  
+**12 Miz Morz**  
 Le lendemain, [Lôchetos](/bestiaire/lochetos-vlatcano) retourne au marché pour revendre les marchandises à profit (14 Cépates et 29 onguents de Cépates) qui avaient été amenée par [Gwion](/bestiaire/gwion-gornoc) pour la somme de 32 PA et 2PC pour les Cépates & de 266 PO et 8 PA pour la vente des onguents de Cépates  soit une marge bénéficiaire de 130%.  
 Fort de cette entrée d'argent, [Gwion](/bestiaire/gwion-gornoc) va chercher le matériel pour étudier de nouveaux sorts et s'enferme dans sa chambre. Il se penche sur l'apprentissage de "[Restauration inférieure](/grimoire/restauration-inferieure)" qu'il apprend sans difficulté.  
 
-**12 Miz Morz**  
+**13 Miz Morz**  
 Le lendemain, [Gwion](/bestiaire/gwion-gornoc) va chercher le matériel pour étudier de nouveaux sorts et s'enferme dans sa chambre. Il se penche sur l'apprentissage de "[Serviteur invisible](/grimoire/serviteur-invisible)" qu'il apprend sans difficulté. A partir de maintenant, le balais sera passé et le lit tiré dans la chambre de l'Ambeamanos.   
 [Lôchetos](/bestiaire/lochetos-vlatcano) n'apprend rien malgré ses recherches sur le "Cercle de la nuit" mais il apprend sans surprise que de nombreuses assemblées magiques existent sous diverses formes à Thaouet.  
 Il n'y a pas eu de marchandises "inhabituelles" vendues à Thaouet mais cela reste subjectif car beaucoup de choses se vendent à Thaouet.  
