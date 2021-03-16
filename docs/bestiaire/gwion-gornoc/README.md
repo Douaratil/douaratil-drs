@@ -104,7 +104,7 @@ Perle de 100 po, une clochette enchantée.
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/restauration-inferieure), [serviteur invisible](/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures).  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures).  
 
 **Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, suggestion, vision dans le noir.
 §§§
