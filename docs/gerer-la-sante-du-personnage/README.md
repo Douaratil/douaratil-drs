@@ -24,11 +24,18 @@ Une créature morte ne peut pas regagner de point d'action.
 Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entrainent de façon durable des pénalités.   
 Une personne gravement blessée doit passer un repos long par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque repos long, un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
-3-4 Tête  (3-4 Front, 5-6 nez, 7-8 joue droite, 9-10 joue gauche, 11-12 oreille droite, 13-14 oreille gauche, 15-16 cou,17-18 crâne)  
-5-9 Partie haute (3-4 clavicule droite, 5-6 clavicule gauche, 7-9 pectoral droit, 10-12 pectoral gauche, 13-15 omoplate droite, 16-18 omoplate gauche)  
-9-12 partie basse (3-5 ventre, 6-7 hanche droite, 8-9 hanche gauche, 10 entrejambe, 11-12 bas du dos, 13-15 fesse droite, 16-18 fesse gauche )  
-13-15 bras (3-4 épaule droite, 5-6 épaule gauche, 7-9 bras droit, 10-12 bras gauche, 13-14 avant bras droit, 15-16 avant bras gauche, 17 main droite, 18 main gauche)    
-16-18 jambe (3-5 cuisse droite, 6-8 cuisse gauche, 9-10 mollet droit, 11-12 mollet gauche, 13-14 tibias droit, 15-16 tibias gauche, 17 pied droit, 18 pied gauche)  
+§§§ .table-container
+| 3d6* | Effet |
+|:-:|:-|
+|3-4 Tête|  (3-4 Front, 5-6 nez, 7-8 joue droite, 9-10 joue gauche, 11-12 oreille droite, 13-14 oreille gauche, 15-16 cou,17-18 crâne)  |
+|5-9 |Partie haute (3-4 clavicule droite, 5-6 clavicule gauche, 7-9 pectoral droit, 10-12 pectoral gauche, 13-15 omoplate droite, 16-18 omoplate gauche)  |
+|9-12| partie basse (3-5 ventre, 6-7 hanche droite, 8-9 hanche gauche, 10 entrejambe, 11-12 bas du dos, 13-15 fesse droite, 16-18 fesse gauche )|  
+|13-15| bras (3-4 épaule droite, 5-6 épaule gauche, 7-9 bras droit, 10-12 bras gauche, 13-14 avant bras droit, 15-16 avant bras gauche, 17 main droite, 18 main gauche) |   
+|16-18| jambe (3-5 cuisse droite, 6-8 cuisse gauche, 9-10 mollet droit, 11-12 mollet gauche, 13-14 tibias droit, 15-16 tibias gauche, 17 pied droit, 18 pied gauche)|  
+* test non explosif
+
+
+§§§
 
 **Les conséquences des blessures graves**:
 - 1 mètre de déplacement de pénalité par blessure non guérie.
