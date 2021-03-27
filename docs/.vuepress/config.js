@@ -331,10 +331,6 @@ module.exports = {
             path: '/equipement/',
           },
           {
-            title: 'Options de personnalisation',
-            path: '/options-de-personnalisation/'
-          },
-          {
             title: 'Utiliser les caractéristiques',
             path: '/utiliser-les-caracteristiques/'
           },

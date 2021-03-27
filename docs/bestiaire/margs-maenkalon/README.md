@@ -13,7 +13,7 @@ abilityScores:
   int: 8
   sag: 8
   cha: 8
-customSavingThrows: "for +3, dex +3, con +3, int +1, sag +1, cha -1"
+customSavingThrows: "for +3, dex +4, con +3, int +1, sag +1, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -69,8 +69,8 @@ _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 _**Epée courte**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
-_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5 dégâts tranchants (légère). (arme exceptionnel +1 de maître, comprise dans le calcul)
+_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)
 
 
 
@@ -87,7 +87,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 §§§ .hero
 ### Equipement:  
 Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir
-Margs possède : 3005 PC, 938 PA, 24 PE & 1096PO.  
+Margs possède : 3005 PC, 938 PA, 24 PE & 1076PO.  
 Dette 500 PO, (rumeur d'enlèvement contre son clan ou guerre)
 §§§
 

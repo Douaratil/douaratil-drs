@@ -73,3 +73,21 @@ Le lendemain, [Gwion](/bestiaire/gwion-gornoc) va chercher le matériel pour ét
 [Lôchetos](/bestiaire/lochetos-vlatcano) n'apprend rien malgré ses recherches sur le "Cercle de la nuit" mais il apprend sans surprise que de nombreuses assemblées magiques existent sous diverses formes à Thaouet.  
 Il n'y a pas eu de marchandises "inhabituelles" vendues à Thaouet mais cela reste subjectif car beaucoup de choses se vendent à Thaouet.  
 [Lôchetos](/bestiaire/lochetos-vlatcano) décide d'acheter des denrées pour les revendre à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan). Il achète pour le retour 10 têtes de bétail et 10 livres d'épices pour un montant de 200po.
+
+**18 Miz Morz**  
+Après ces quelques jours à Thaouet, les deux compagnons redescendent sur [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) sans s'arrêter cette fois-ci à la capitale Masyvum. Avec leurs cinq garde, la caravane n'est pas inquiétée sur le retour.  
+De retour, à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan), ils retrouvent les autres. Owain est revenu de ses patrouilles dans la forêt de Koaddon.  
+Shin Hame, qui est hébergé chez les Vlatcano s'habitue à sa nouvelle vie dans les terres de l'Ouest.  
+Margs pour sa part est entre-temps reparti à Kernac.  
+[Tiberius](/bestiaire/tiberius-don-alonzo) revient aussi de Ker-Saozon, rassuré de savoir Azenor sous la protection de Morwenna.  
+
+**19 Miz Morz**  
+Le lendemain soir, tous les compagnons se retrouvent à l'auberge dans le quartier sur de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et restent jusqu'à la fermeture, à boire et chanter.  
+Lorsque chacun rentre vers son domicile pour passer la nuit, [Owain](/bestiaire/owain-macaro) entend une cavalcade sur la place centrale. Ailleurs, [Gwion](/bestiaire/gwion-gornoc) regarde le ciel et s'inquiète, ne le trouvant pas naturel.  
+Intrigué [Owain](/bestiaire/owain-macaro) revient sur ses pas et découvre, sous une pluie battante, le cadavre d'un garde de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) tranché de haut en bas. Il se rend immédiatement chez [Lôchetos](/bestiaire/lochetos-vlatcano) puis chez [Gwion](/bestiaire/gwion-gornoc), et ensuite, le groupe déclenche l'alerte dans la ville, découvrant de nombreux cadavres au fur et à mesure de leur progression.  
+Il se rendent rapidement compte que tout cela amène vers le chateau de [Gaenor Lugeto](/bestiaire/gaenor-lugeto).  
+Ils se rendent rapidement sur place, accompagnés de gardes, et découvre [Gaenor Lugeto](/bestiaire/gaenor-lugeto) qui est blessé et de nombreux serviteurs qui sont morts.  
+Ils prodiguent les premiers soins et incantent des sortilèges de guérison, mais [Gaenor Lugeto](/bestiaire/gaenor-lugeto) est très blessé. Il n'en mourra pas mais restera diminué pendant de longs jours.  
+Il dit que sa fille a été enlevée. Il faut la retrouver. Il a entendu parler de la vieille forêt de Koaddan et du lieu de Kerduenn, un ancien cercle sacrificiel.  
+[Owain](/bestiaire/owain-macaro) et [Rudolf](/bestiaire/rudolf-fareg) se mettent en quête de traces et retrouvent une piste qui amène derrière le palais,jusqu'à un gros chêne.  
+Plus tard, à l'extérieur de la ville, à cent cinquante pas, au pied d'un autre arbre, ils retrouvent les traces. Les compagnons rassemblent rapidement des provisions et se lancent à la poursuite du ou des ravisseurs.  

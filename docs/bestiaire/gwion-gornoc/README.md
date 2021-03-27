@@ -66,13 +66,13 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +2 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 _**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, portée 6/18.  
@@ -92,7 +92,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 165 PA, 19 PE, 2459 PO.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1689 PO.
 §§§
 
 §§§ .hero
@@ -111,7 +111,7 @@ Perle de 100 po, une clochette enchantée.
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 §§§
 
 §§§ .hero
@@ -124,7 +124,7 @@ Perle de 100 po, une clochette enchantée.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 9275  
+**XP acquis** : 10 325  
 **Points de Magie** :34
 **Points de Foi** :10  
 **Points d'honneur** :27  

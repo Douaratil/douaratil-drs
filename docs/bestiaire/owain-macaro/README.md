@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "3"
-customHP: "25"
+challenge: "4"
+customHP: "29"
 abilityScores:
   for: 10
-  dex: 12
+  dex: 14
   con: 13
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for +4, dex +3, con +3, int +0, sag +0, cha +0"
+customSavingThrows: "for +4, dex +4, con +3, int +0, sag +0, cha +0"
 savingThrows:
   - "for"
   - "for"
@@ -47,7 +47,7 @@ _**Historique  Bandit de grand chemin:**_.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 
-_**Voie des armes & Gwylwir**_. Owain est niveau 3 dans la voie des armes et Archétype Gwylwir.
+_**Voie des armes & Gwylwir**_. Owain est niveau 4 dans la voie des armes et Archétype Gwylwir.
 
 _**Style de combat Archérie**_. *(Armes)* Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
@@ -58,6 +58,20 @@ _**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousse
 _**Ennemi juré**_. *(Gwylwir)* Dès le niveau 3, Owain a une expérience significative dans le combat contre un ennemi particulier qui a menacé par le passé son clan (Khernaë).
 Tous ses tests sociaux excepté intimidation subiront désormais un désavantage.
 Il obtient par contre un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'Intelligence permettant de se rappeler d'informations les concernant. Quand il gagne cette aptitude, vous apprenez également une langue de son choix qui est parlée par l'un de ses ennemis jurés.
+
+_**Explorateur-né**_. *(Gwylwir)* A partir du niveau 4, vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, **forêt**, plaine, montagne ou marais. Ce choix doit être dicté par l’expérience du personnage. Quand vous faites un test d'Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.  
+Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous obtenez les bénéfices suivants :  
+• Les terrains difficiles ne ralentissent pas le déplacement de votre groupe.  
+• Votre groupe ne peut pas se perdre, sauf s'il est soumis à un effet magique.  
+• Même si vous avez commencé une autre activité pendant votre voyage (comme chercher de
+la nourriture, naviguer ou pister), vous restez vigilant.  
+• Si vous voyagez seul, vous pouvez vous déplacer discrètement tout en conservant une allure
+normale.  
+• Quand vous cherchez de la nourriture, vous trouvez deux fois plus de nourriture que
+normalement.  
+• Si vous pistez d'autres créatures, vous pouvez déterminer leur nombre exact, leur taille et
+quand elles ont traversé la zone que vous examinez.  
+Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.  
 
 ## Actions
 
@@ -83,13 +97,18 @@ Owain est un Meldète de vingt quatre printemps. Il a la peau blanche les cheveu
 §§§ .hero
 ### Equipement:  
 Owain possède l'équipement suivant : une couverture, des vêtements de voyage, (20) chausses trappes, (2)boîtes à amadou, outre d'eau, bourse, glaive, une hache, un arc long, un carquois, (17)flèches, une armure de cuir, sac de couchage, un sac à dos, une gamelle, (10) torches, (10)jours de ration, une outre, une corde de chanvre (15m).  
-Owain possède aussi un âne avec 4 saccoches (210 kg de portage). 3000 PC, 820 PA, 20 PE & 89 PO.  
+Owain possède aussi un âne avec 4 sacoches (210 kg de portage). 87 PO.  
+§§§
+
+§§§ .hero
+### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 §§§
 
 §§§ .hero  
 ### Autres informations:  
-**XP acquis** : 1650  
+**XP acquis** : 3100  
 **Points de Magie** :10  
 **Points de Foi** :10   
-**Points d'honneur** :16  
+**Points d'honneur** :18  
 §§§

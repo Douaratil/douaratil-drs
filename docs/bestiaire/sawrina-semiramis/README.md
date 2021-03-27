@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 11
   cha: 10
-customSavingThrows: "for +0, dex +6, con +0, int +2, sag +2, cha +0"
+customSavingThrows: "for +0, dex +7, con +0, int +2, sag +2, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "15 (Armure de cuir)"
+  value: "16 (Armure de cuir)"
 skills:
   - name: "acrobaties"
     isExpert: true
@@ -85,13 +85,14 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2).  
-Sawrina possède 4 PA, 23 PE & 1010 PO.  
+Sawrina possède 4 PA, 23 PE & 990 PO.  
 §§§
 
 §§§ .hero
 ### Autres informations:  
+2 blessures graves
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 4000  
+**XP acquis** : 5150
 **Points de Magie** :10  
 **Points de Foi** :10   
 **Points d'honneur** :23

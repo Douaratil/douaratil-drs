@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "4"
-customHP: "24"
+challenge: "5"
+customHP: "27"
 abilityScores:
   for: 12
   dex: 14
   con: 12
-  int: 9
+  int: 10
   sag: 8
   cha: 11
-customSavingThrows: "for +2, dex +5, con +1, int +1, sag -1, cha +0"
+customSavingThrows: "for +4, dex +8, con +1, int +2, sag -1, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "int"
 ac:
   armorType: "custom"
-  value: "14 (Armure de cuir)"
+  value: "13 (Armure de cuir)"
 skills:
   - name: "discretion"
   - name: "escamotage"
@@ -51,28 +51,32 @@ _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glai
 
 _**Voie des ombres & Astartes**_. Tiberius est niveau 4 dans la voie des ombres et Archétype Astartes.  
 
-_**Expertise**_. Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur**  
+_**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur**  
 
-_**Attaque sournoise**_. Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
+_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
 
-_**Ruse**_. À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
+_**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
-_**Châtiment**_. À partir du niveau 3, quand vous touchez un adversaire avec une arme de corps-à-corps, vous pouvez utiliser 1d6 points de Foi pour infliger des dégâts supplémentaires à cet adversaire en plus des dégâts normaux de l'arme. Vous infligez 1d6 dégâts supplémentaires.  
+_**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.  
 
-_**Santé**_. Au niveau 4, la foi qui vous anime vous immunise contre les maladies.
+_**Châtiment**_. *(Astartes)* À partir du niveau 3, quand vous touchez un adversaire avec une arme de corps-à-corps, vous pouvez utiliser 1d6 points de Foi pour infliger des dégâts supplémentaires à cet adversaire en plus des dégâts normaux de l'arme. Vous infligez 1d6 dégâts supplémentaires.  
+
+_**Santé**_. *(Astartes)* Au niveau 4, la foi qui vous anime vous immunise contre les maladies.
+
+_**Seconde attaque**_. *(Astartes)* À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.  
 
 ## Actions  
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants .
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -89,7 +93,7 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir.  
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 2900 PC, 4 PA, 24 PE & 31 PO.  
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 5300 PC, 1004 PA, 24 PE & 1085 PO.  
 §§§
 
 §§§ .hero
@@ -102,8 +106,8 @@ petite maison à Ker-Saozon.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 6090  
+**XP acquis** : 7240  
 **Points de Magie** :9  
 **Points de Foi** :8   
-**Points d'honneur** :24  
+**Points d'honneur** :226  
 §§§

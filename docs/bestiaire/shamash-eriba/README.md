@@ -49,13 +49,13 @@ _**Indomptable**_. *(Armes)*  À partir du niveau 9, vous pouvez relancer un jet
 ## Actions
 _**Attaques multiples**_. Shamash Eriba peut effectuer 4 attaques (3 de la Voie des Armes et 1 pour combat à deux armes)
 
-_**Cimeterre +2**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-Le cimeterre de Shamash Eriba est infusé de magie et ses dégâts sont augménetés de 2.  
-_Touché_ : 8 dégâts tranchants (Finesse, légère).
+_**Cimeterre +2**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+Le cimeterre de Shamash Eriba est infusé de magie.  
+_Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Dague +2 de saignement**_. _Attaque d'arme au corps à corps ou à distance_ : + 6 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
+_**Dague +2 de saignement**_. _Attaque d'arme au corps à corps ou à distance_ : + 8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 La dague de Shamash Eriba est infusée de deux sortilèges. Le premier augmente les dégât de 2. Le second permet de déclencher des saignements. La personne touchée doit réussir un JS de constitution DD 14 ou subir 2 PA par round pendant 1D6 round. Chaque saignement est géré indépendamment.
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 4 dégâts perforants.
 
 §§§ .hero
 ### Présentation:  

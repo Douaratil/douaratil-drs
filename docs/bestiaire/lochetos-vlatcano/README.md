@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 12
   cha: 12
-customSavingThrows: "for +1, dex +6, con +2, int +3, sag +1, cha +4 "
+customSavingThrows: "for +0, dex +6, con +2, int +3, sag +1, cha +4 "
 savingThrows:
   - "dex"
   - "dex"
@@ -85,10 +85,10 @@ _**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez tout
 
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 _**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, portée 6/18.  
@@ -110,7 +110,7 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 816PC, 2823 PA, 24 PE, 139 PO.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 816PC, 2823 PA, 24 PE, 737 PO.
 §§§
 
 §§§ .hero
@@ -136,7 +136,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 8575  
+**XP acquis** : 9625  
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :27  
