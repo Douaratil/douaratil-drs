@@ -10,6 +10,13 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## Règles de bataille, nouvel Archétype et autres.  
+Une nouvelle page est en cours de construction et proposera des règles pour gérer les [batailles](/batailles). Parmi les ajouts, un nouvel Archétype de la culture alcante est désormais disponible : le [Legatos](/archetypes/legatos). Ce type de personnage aura une grande influence et parlera avec autorité.  
+Côté PJ, le personnage [Malala Soa](/bestiaire/malala-soa) a été enfin décrit.   
+§§§ .text-right
+_**Olivier**_,  
+_le 14 mars 2021_
+
 §§§
 ## Gestion du domaine.
 La page de gestion des domaines est désormais en ligne. Elle permettra aux joueurs qui le désirent, d'approfondir le background et l'enracinement dans le monde de Douaratil. Evidemment, ce type de mécanisme de jeu s'intègre parfaitement dans une campagne. Elle est particulièrement adaptée pour intriguent politiques et donnera plus de profondeur au personnage du joueurs. Bonne découverte et bon jeu.  

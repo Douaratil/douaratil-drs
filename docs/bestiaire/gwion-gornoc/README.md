@@ -92,7 +92,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1689 PO.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1339 PO.
 §§§
 
 §§§ .hero
@@ -104,9 +104,10 @@ Perle de 100 po, une clochette enchantée.
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures).  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
+[suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
-**Sorts possédés à apprendre** : cécité/surdité, détection de la magie, main du mage, message, messager animal, réparation, suggestion, vision dans le noir.
+**Sorts possédés à apprendre** : main du mage, message, messager animal, réparation, suggestion, vision dans le noir.
 §§§
 
 §§§ .hero
@@ -124,7 +125,7 @@ Perle de 100 po, une clochette enchantée.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 10 325  
+**XP acquis** : 10 675  
 **Points de Magie** :34
 **Points de Foi** :10  
 **Points d'honneur** :27  

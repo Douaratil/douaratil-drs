@@ -21,12 +21,14 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Règles de bataille, nouvel Archétype et autres.  
-Une nouvelle page est en cours de construction et proposera des règles pour gérer les [batailles](/batailles). Parmi les ajouts, un nouvel Archétype de la culture alcante est désormais disponible : le [Legatos](/archetypes/legatos). Ce type de personnage aura une grande influence et parlera avec autorité.  
-Côté PJ, le personnage [Malala Soa](/bestiaire/malala-soa) a été enfin décrit.   
+## Table de localisation des blessures, politique de gestion des cookies  
+Des semaines plus chargées et le retour des beaux jours laissent moins de temps pour le site. Je travaille (enfin surtout lui pour l'instant) avec le joueur de Rudolf pour la création d'une feuille de personnage éditable. J'ai mis en ligne une feuille de personnage réellement vide car elle n'était pas utilisable en l'espèce.  
+Dans la section de la gestion de la santé des personnages, la section localisation des blessures a été réorganisée en tableau.  
+Enfin, côté vie privée, les cookies de navigation google analytics ont été retirés. Seuls les cookies nécessaire à la navigation du site on été gardé et le message d'accueil a été mis à jour en ce sens.  
+Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 14 mars 2021_
+_le 27 mars 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)
