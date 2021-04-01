@@ -59,7 +59,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Augmentation de caractéristiques**. Votre valeur de sagesse de 1.  	  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Compétences maîtrisées**. Vous maîtrisez la lance et le bouclier.  
-**Langues supplémentaires**. Vous parlez et écrivez le *Cyrynith*, votre langue maternelle. Le lacède choisist un dialecte parmis les suivants : *Thessal*, *Athos*, *Mécède*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+**Langues supplémentaires**. Vous parlez et écrivez le *Cyrynith*, votre langue maternelle. Le lacède choisit un dialecte parmi les suivants : *Thessal*, *Athos*, *Mécède*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Peuple Saramath
 **Saramath**. peuple de bergers et de guerriers montagnards. Ils vivent dans les monts Pithakrès entre les royaumes lacèdes et l'empire alcante.  

@@ -81,6 +81,7 @@ Shin Hame, qui est hébergé chez les Vlatcano s'habitue à sa nouvelle vie dans
 Margs pour sa part est entre-temps reparti à Kernac.  
 [Tiberius](/bestiaire/tiberius-don-alonzo) revient aussi de Ker-Saozon, rassuré de savoir Azenor sous la protection de Morwenna.  
 
+## Caohaydhan
 **19 Miz Morz**  
 Le lendemain soir, tous les compagnons se retrouvent à l'auberge dans le quartier sur de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et restent jusqu'à la fermeture, à boire et chanter.  
 Lorsque chacun rentre vers son domicile pour passer la nuit, [Owain](/bestiaire/owain-macaro) entend une cavalcade sur la place centrale. Ailleurs, [Gwion](/bestiaire/gwion-gornoc) regarde le ciel et s'inquiète, ne le trouvant pas naturel.  
@@ -91,3 +92,53 @@ Ils prodiguent les premiers soins et incantent des sortilèges de guérison, mai
 Il dit que sa fille a été enlevée. Il faut la retrouver. Il a entendu parler de la vieille forêt de Koaddan et du lieu de Kerduenn, un ancien cercle sacrificiel.  
 [Owain](/bestiaire/owain-macaro) et [Rudolf](/bestiaire/rudolf-fareg) se mettent en quête de traces et retrouvent une piste qui amène derrière le palais,jusqu'à un gros chêne.  
 Plus tard, à l'extérieur de la ville, à cent cinquante pas, au pied d'un autre arbre, ils retrouvent les traces. Les compagnons rassemblent rapidement des provisions et se lancent à la poursuite du ou des ravisseurs.  
+
+**20 Miz Morz**  
+En pleine nuit, dés les premières heures, les compagnons se lancent à la poursuite du ravisseur. [Owain](/bestiaire/owain-macaro) et [Rudolf](/bestiaire/rudolf-fareg) réussissent à la suivre pendant un bon moment et le groupe s'enfonce dans la forêt de Koaddon. [Gwion](/bestiaire/gwion-gornoc) pense que le ravisseur qui est selon toute vraissemblance un utilisateur de la magie a utilisé un sortilège de type "passage sans trace". [Gwion](/bestiaire/gwion-gornoc) s'agace de ne pas avoir appris le sort "Détection de la Magie".  
+Ils poursuivent tout de même leur progression.  
+Poursuivant leur chemin, le groupe pénètre dans un corridor qui semble s'enfoncer en partie dans la terre. Dans les méandres et la pénombre, ils croisent le chemin d'un gigantesque ours charognard. Alors qu'ils s'apprêtent à l'affronter, [Rudolf](/bestiaire/rudolf-fareg) sort sa flûte enchantée et hypnotise la créature. Ils passent sans combattre.  
+Les deux pisteurs retrouvent la trace de la fille de [Gaenor Lugeto](/bestiaire/gaenor-lugeto) avec quelques cheveux sur une roche et un peu de sang. Ils sont sur la bonne piste.  
+Arrivant dans une grande salle d'où jaillit une source qui s'enfonce dans un tunnel, des nuées de chauve souris attaquent les infortunés visiteurs. Les créatures agressives sont innombrables mais sont finalement dispersées.   
+Cependant [Shin Hame](/bestiaire/shin-hame) et [Sawrina](/bestiaire/sawrina-semiramis) ont été gravement blessés. Les deux sont griffés et mordus à de nombreux endroits. La Nayane au bras gauche et le guerrier asiatique au mollet droit et à la hanche gauche.  
+Le groupe prend une pause et constate que les blessés vont les ralentirs. Les deux pisteurs décident de poursuivre leurs recherches, tandis que le reste des compagnons retourne à [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) pour reprendre des forces.  
+
+**21 Miz Morz**  
+Dés le lendemain, [Sawrina](/bestiaire/sawrina-semiramis) n'a presque plus de trace de sa blessure. Cela est surprenant. Elle semble en tous cas complètement guérie. Les blessures de [Shin Hame](/bestiaire/shin-hame) ne sont pas guéries et une fièvre apparait. Il commence à grelotter dans son lit.  
+[Gwion](/bestiaire/gwion-gornoc) renvoie tout les gens de sa maison, et s’enferma dans sa chambre. Il demande le plus grand silence lorsqu’il se mettait à étudier. Il étudia pour le sort [détection de la magie](/grimoire/detection-de-la-magie).
+
+**22 Miz Morz**  
+Les blessures de [Shin Hame](/bestiaire/shin-hame) ne sont pas guéries et sa fièvre augmente, il délire. Sur les conseils de [Gwion](/bestiaire/gwion-gornoc), il est baigné dans des bassines d'eau glacée et à le droit à des fumigation de sauge matin et soir.  
+le jour suivant, [Gwion](/bestiaire/gwion-gornoc) se remet à étudier pour le sort [messager animal](/grimoire/messager-animal).  
+
+**23 Miz Morz**  
+Les blessures de [Shin Hame](/bestiaire/shin-hame) ne sont pas guéries. [Gwion](/bestiaire/gwion-gornoc) arrêt les fumigation car [Shin Hame](/bestiaire/shin-hame) se met désormais à tousser à chaque séance. [Gwion](/bestiaire/gwion-gornoc) se retire dans sa chambre et apprend  le sort [vision dans le noir](/grimoire/vision-dans-le-noir).  
+
+**24 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) s'améliore et l'infection de la hanche  a disparue (sûrement grâce aux fumigations). Le mollet n'est pas beau et du pue s'échappe des blessures. [Gwion](/bestiaire/gwion-gornoc) arrose la blessure avec de l'eau de vie (et s'envoie un gorgeons a passage). [Shin Hame](/bestiaire/shin-hame) quitte la pièce en hurlant et en sautant sur une jambe. [Gwion](/bestiaire/gwion-gornoc) se retire de nouveau et apprend le sort [Main du mage](/grimoire/main-du-mage).  
+
+**25 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) pose question. L'infection au mollet est importante malgré l'eau de vie et dés que [Gwion](/bestiaire/gwion-gornoc) s'approche avec la bouteille, [Shin Hame](/bestiaire/shin-hame) crie dans sa langue et menace de lancer des objets sur l'Ambeanamos.  
+[Gwion](/bestiaire/gwion-gornoc) confie à [Lôchetos](/bestiaire/lochetos-vlatcano) qu'il va falloir peut-être couper la jambe. Au niveau du genou ce ne serait pas mal, mais par sécurité, au niveau de la cuisse ce serait mieux. [Gwion](/bestiaire/gwion-gornoc) ne garantie pas la survie du guerrier dans la manoeuvre.  [Lôchetos](/bestiaire/lochetos-vlatcano) conseil au sorcier de patienter encore quelques jours.  
+[Gwion](/bestiaire/gwion-gornoc) se retire en bougonnant et étudie cette fois ci pour [cécité/surdité](/grimoire/cecite-surdite).  
+
+**26 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et sa blessure est vilaine. [Gwion](/bestiaire/gwion-gornoc) est interdit de visite auprès du Yotakaï et un garde du clan de Vlatcano est posté devant la chambre de l'asiatique. [Gwion](/bestiaire/gwion-gornoc) renonce à son amputation et s'enferme pour apprendre le sort [message](/grimoire/message).  
+
+**27 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et l'odeur est nauséabonde dans la chambre.  
+[Lôchetos](/bestiaire/lochetos-vlatcano) rassemble les femmes de son clan et organise un petit groupe de prière. Des chants religieux envahissent la maison des Vlatacano. [Lôchetos](/bestiaire/lochetos-vlatcano) confie le blessé a Sheggothlil qui avait déjà été bonne pour lui.  
+[Gwion](/bestiaire/gwion-gornoc) repropose ses services en vain et s'enferme pour apprendre le sort [réparation](/grimoire/reparation).  
+La consommation de bougie et d'encens est énorme, sa demeure ressemble à une cathédrale de cire.  
+
+**28 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et à de grosses fièvres et des moment de délire. [Gwion](/bestiaire/gwion-gornoc) propose de l'étouffer sous un matelas pour abréger ses souffrances. La solution une fois de plus est écartée.  
+[Gwion](/bestiaire/gwion-gornoc) promet de trouver une solution et s'enferme pour apprendre le sort [suggestion](/grimoire/suggestion).  
+
+**29 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas mais la présence de [Gwion](/bestiaire/gwion-gornoc) n'est pas souhaitée. Il est gentiment remercié. [Gwion](/bestiaire/gwion-gornoc) part alors trouver l’aventurier du nom de « Mitemard Easo » dans la ville de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan). Il lui demande une entrevue en privée, et lui propose une mission qui consiste à être son informateur sur les événements qui se déroulent à Ker-Saozon. Son objectif est de s’intéresser à la princesse Morewenna Moisan et son futur époux Alarig Pinvidic. Gwion a bien fait entendre qu’il voulait tout savoir et qu’il « préfère être tenu au courant de dix choses inutiles qu’une seule chose importante soit omise ». Le sorcier envoie aussi quelqu’un de son clan se renseigner à propos des missions proposées sur l’écriteau à annonce à l’auberge "À la mouette noire".    
+
+**30 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et[Gwion](/bestiaire/gwion-gornoc) se présente avec une tisane qui selon ses dires, permettra au malheureux de s'endormir dans un éternel repos. Cette solution n'est pas souhaitée. Il est gentiment remercié. On lui conseille d'aller vérifier si les églantianes ont bien repoussé. Il s'y rend et trouve trois églantiannes.  
+
+**31 Miz Morz**  
+L'état de [Shin Hame](/bestiaire/shin-hame) est stable dans son malheur amis cela ne s'aggrave plus et[Gwion](/bestiaire/gwion-gornoc)  ravi d'avoir trouvé des églantiannes repart dans le marais avec son panier et sifflotant. Il trouve onze églantiannes et repère un coin prometteur. Il se promet de s'y rendre dés le lendemain.  

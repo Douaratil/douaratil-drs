@@ -67,7 +67,7 @@ Shin Hame est un serviteur du clan Yotakaï de Yan Zin et est l'un de ses compag
 
 §§§ .hero
 ### Description physique:  
-Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos.
+Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos. Cicatrices de petites griffures et morsures à la hanche gauche e tau mollet droit.  
 §§§
 
 §§§ .hero

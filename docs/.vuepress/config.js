@@ -475,6 +475,10 @@ module.exports = {
                 title: "Miz Morz 721",
                 path: '/chroniques/miz-morz-721'
               },
+              {
+                title: "Miz Ebrel 721",
+                path: '/chroniques/miz-ebrel-721'
+              },
             ]
           },
           {title: "Atlas",
