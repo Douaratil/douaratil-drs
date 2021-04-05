@@ -177,5 +177,5 @@ Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre duré
 **En Khernaë :Aotrou Chatakh**  
 **En Meldète : A'Thiarna'Beithigh**    
 **En Melg :Herra Eläimen**  
-Dès le niveau 20, vous devenez un avatar de votre allégeance bestiale. Vos caractéristiques liées à votre animal augmentent de 2de façon permanente, jusqu'à un maximum de 22.  
+Dès le niveau 20, vous devenez un avatar de votre allégeance bestiale. Vos caractéristiques liées à votre animal augmentent de 2 de façon permanente, jusqu'à un maximum de 22.  
 Vos déplacements augmentent de 6 mètres par tour pour représenter votre rapidité animale.  

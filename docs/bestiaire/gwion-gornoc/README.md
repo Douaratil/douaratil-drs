@@ -92,7 +92,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1339 PO et 51 églantianne.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1339 PO et 166 églantianne.
 §§§
 
 §§§ .hero
@@ -125,7 +125,7 @@ Perle de 100 po, une clochette enchantée.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 10 675  
+**XP acquis** : 11 080  
 **Points de Magie** :34
 **Points de Foi** :10  
 **Points d'honneur** :27  
