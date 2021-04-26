@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 12
   cha: 12
-customSavingThrows: "for +0, dex +6, con +2, int +3, sag +1, cha +4 "
+customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +4 "
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "13 (armure de cuir)"
+  value: "14 (armure de cuir cloutée)"
 skills:
   - name: "athletisme"
   - name: "discretion"
@@ -91,7 +91,7 @@ _Touché_ : 4 dégâts tranchants (6 à deux mains).
 _**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -110,7 +110,7 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 816PC, 15894 PA, 24 PE, 1353 PO.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1316PC, 2100 PA, 24 PE, 1481 PO.
 §§§
 
 §§§ .hero
@@ -136,7 +136,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 9625  
+**XP acquis** : 11 785  
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :27  
@@ -146,4 +146,5 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 ### Commerce
 2050 livres de fer.
 5 têtes de bétail
+Achat de quatres grandes barques
 §§§

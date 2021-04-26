@@ -270,6 +270,11 @@ Une attaque par arme naturelle (morsure, griffe) peut être bloquée à main nue
 #### Réaction esquive
 L’esquive est une [_réaction défensive_](/combattre/#reaction-defensive). L’esquive sous forme d’action est décrite plus haut à la section [_esquiver_](/combattre/#esquiver). L’esquive est la meilleure solution dans un combat mais elle nécessite une grande dextérité de la part de celui qui l’utilise car l’attaque doit être anticipée. Une esquive est utilisable si et seulement si la valeur de dextérité du défenseur est supérieure à la dextérité de l’attaquant.  
 
+§§§ .hero
+### Règle optionnelle
+L'utilisation des réactions défensives entraine beaucoup plus de lancer de dés et d'interactions. Cependant, le jeu étant particulièrement mortel avec le système des dés explosifs, il serait injuste d'en priver les joueurs qui peuvent par un lancer de dés bien ajusté se sortir d'une situation périlleuse. Nous préconisons donc pour améliorer la fluidité du jeu de n'utiliser ces règles que pour les personnages joueurs et les PNJ importants. Pour le reste des opposants, la valeur de défense est suffisante pour représenter la capacité de survie de l'adversaire.  
+§§§
+
 ### Opposition en combat
 Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
 

@@ -79,7 +79,7 @@ Malala Soa est une Sooghaï de vingt printemps. Elle a la peau très sombre, les
 
 §§§ .hero
 ### Equipement:  
-Malala Soa possède l'équipement suivant : Dague, Massue, Fronde, Billes (20), Habits courants, outils de cuisine, bouteille d'alcool fort, 7 PO.
+Malala Soa possède l'équipement suivant : Dague, Massue, Fronde, Billes (20), Habits courants, outils de cuisine, bouteille d'alcool fort, -43 PO.
 §§§
 
 §§§ .hero

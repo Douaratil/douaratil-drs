@@ -54,7 +54,7 @@ _Touché_ : 4 dégâts tranchants (légère). (arme enchantée de maître)
 
 §§§ .hero
 ### Présentation:  
-Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la loi religieuse khernaëe.  
+Margs Maenkalon est un bhegelm du cercle de la nuit. C'est un dissident de la hiérarchie religieuse khernaëe.  
 §§§
 
 §§§ .hero

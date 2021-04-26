@@ -42,7 +42,7 @@ category: "PJ"
 
 **Maîtrises**: dagues, fléchettes, frondes, bâtons, sabre, outils de cartographie  
 
-_**Voie de la magie**_. Shin Chambre est niveau 1 dans la voie la Magie.
+_**Voie de la magie**_. Shin Hame est niveau 1 dans la voie la Magie.
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
 
@@ -72,7 +72,7 @@ Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noi
 
 §§§ .hero
 ### Equipement:  
-Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 1020 po.  
+Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 999 po.  
 §§§
 
 §§§ .hero

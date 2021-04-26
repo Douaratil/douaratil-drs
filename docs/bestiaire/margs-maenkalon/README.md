@@ -63,10 +63,10 @@ _**Récupération naturelle**_. *(Bhegelm)* À partir du niveau 4, vous pouvez r
 _**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hachette**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Hachette**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
 _**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
@@ -87,7 +87,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 §§§ .hero
 ### Equipement:  
 Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir
-Margs possède : 3005 PC, 938 PA, 24 PE & 1076PO.  
+Margs possède : 3005 PC, 938 PA, 24 PE & 1055PO.  
 Dette 500 PO, (rumeur d'enlèvement contre son clan ou guerre)
 §§§
 

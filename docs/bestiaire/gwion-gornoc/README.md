@@ -4,15 +4,15 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "5"
-customHP: "26"
+challenge: "6"
+customHP: "28"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 14
   sag: 10
-  cha: 12
+  cha: 14
 customSavingThrows: "for -1, dex -1, con +3, int +5, sag +6, cha +4 "
 savingThrows:
   - "int"
@@ -49,7 +49,7 @@ _**Maîtrises:**_. glaive, hache, dague, fléchette, frondes, bâtons, armes cou
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
-_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 5 dans la voie de la Magie et Archétype Ambeanamos.  
+_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 6 dans la voie de la Magie et Archétype Ambeanamos.  
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
 
@@ -62,6 +62,10 @@ Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pou
 _**Malédiction de l’ombre**_.  *(Ambeanamos)* Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.   
 
 _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.  
+
+ _**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).
+
+
 
 
 ## Actions
@@ -92,19 +96,25 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 2665 PA, 19 PE, 1339 PO et 166 églantianne.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 3602 PA, 19 PE, 1775 PO et 301 églantiannes, 4 doses d'herbefolles.
 §§§
 
 §§§ .hero
 ### Composantes de sorts:  
 Perle de 100 po, une clochette enchantée.
+10 oeuf de cailles enchantés.  
+bout de ficelle et d’un morceau de bois enchanté.  
+un petit fil de cuivre enchanté.  
+
 §§§
 
 §§§ .hero
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),   
+[Oeil magique](/grimoire/oeil-magique),  
+[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Sorts possédés à apprendre** : néant
@@ -125,9 +135,9 @@ Perle de 100 po, une clochette enchantée.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 11 080  
-**Points de Magie** :34
+**XP acquis** : 14 760  
+**Points de Magie** :38
 **Points de Foi** :10  
-**Points d'honneur** :27  
+**Points d'honneur** :31  
 **Inspirations religieuses** : 2 (culte à Lhaothlastholo)
 §§§

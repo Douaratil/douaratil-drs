@@ -48,9 +48,18 @@ Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose
 Dans le cadre d’un coup reçu alors que la cible est à 0 points d’action, un test doit être effectué à chaque nouveau dégât encaissé et le DD correspond au cumul des dégâts. Le « compteur » diminue tous les tours d’un montant correspondant à la constitution du personnage jusqu’à revenir à zéro. Ainsi une personne peut encaisser plusieurs blessures avant de s’effondrer ou de mourir. Chaque coup reçu à zéro de point de vie laisse une cicatrice et correspond à une blessure grave. **Si le JS de Constitution échoue de plus de 10, le personnage est mort**.  
 D’autre part, pour chaque blessure grave reçue, des pénalités s’appliqueront tant qu’elles ne seront pas totalement guéries (voir section blessure grave).  
 Par exemple, une guerrier a un nombre de points d'action maximum de 12. Il lui reste actuellement 6 points d'action. Si il subit 18 dégâts suite à une attaque, il tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. 12 est donc le DD pour résister.   
+
+§§§ .table-container
+|Type| Dégats| test nécessaire |Effet|
+|:-:|:-:|:-:|:-:|
+|Coup critique|Si dégâts > à valeur de constitution| JS CON > Dégâts reçus|Si échec perte de conscience (1d6 rd) / Si échec > 10 Mort|
+|Dégâts cumulés|Si PA = ou  < à 0 |JS CON > Dégâts reçus cumulés du round à chaque coups reçus |Si échec perte de conscience (1d6 rd)/ Si échec > 10 Mort|
+**Le personnage récupère un nombre de PA/round = à sa valeur de CONstitution (sans dépasser 0)**
+§§§
+
 #### Perdre conscience
-Si les dégâts que vous subissez vous font tomber à 0 point d’action mais ne vous tuent pas par **un échec au DD de dégâts compris entre 10 et 1**, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle ne pourra agir que le round suivant.   
-L’autre situation qui peut entrainer l’inconscience est le fait de subir des dégâts massifs quelque soit le montant de points d'action restant. Cette quantité de dégât est variable selon chaque individu ou créature et correspond à sa caractéristique de constitution. Si ce montant est atteint, il faut réussir un JS DD16 ou s’effondrer pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle ne pourra agir que le round suivant.  
+Si les dégâts que vous subissez vous font tomber à 0 point d’action mais ne vous tuent pas par **un échec au DD de dégâts compris entre 10 et 1**, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle pourra agir immédiatement.   
+L’autre situation qui peut entrainer l’inconscience est le fait de subir des dégâts massifs quelque soit le montant de points d'action restant. Cette quantité de dégât est variable selon chaque individu ou créature et correspond à sa caractéristique de constitution. Si ce montant est dépassé, il faut réussir un JS DD16 ou s’effondrer pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle pourra agir immédiatement.   
 
 #### Jets de sauvegarde contre la mort
 À chaque fois que vous commencez votre tour de jeu à 0 point de'action, vous devez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) spécial appelé [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).

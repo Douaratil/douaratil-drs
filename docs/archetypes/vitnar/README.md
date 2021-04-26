@@ -7,19 +7,15 @@ title:  Vitnar
 §§§ .table-container
 |Niveau|Aptitudes|
 |:-:|:-:|
-|**3**|[Expert](#expert)|
-|**5**|[Oeil du gardien des runes](#oeil-du-gardien-des-runes)|
-|**6**|[Pierre de puissance  ](#pierre-de-puissance)|
-|**7**|[Compagnon animal renard](#compagnon-animal-renard )|
-|**8**|[Critique brutal (+1d6)](#critique-brutal)|
-|**9**|[Seconde Attaque](#seconde-attaque)|
-|**10**|[Pierre de puissance supérieure](#pierre-de-puissance-superieure)|
-|**11**|[Compagnon animal loup](#compagnon-animal-loup )|
-|**12**|[Pierre de puissance suprême](#pierre-de-puissance-supreme)|
-|**13**|[Critique brutal (+2d6)](#critique-brutal)|
-|**14**|[Compréhension](#comprehension)|
-|**17**|[Compagnon animal second loup](#compagnon-animal-second-loup ), [Critique brutal (+3d6)](#critique-brutal)|
-|**19**|[Troisième Attaque ](#troisieme-attaque )|
+|**3**|[Ecriture sacrée](#ecriture-sacree), [Défense sans armure ](#defense-sans-armure)|
+|**3**|[Quêteur spirituel](#queteur-spirituel)|
+|**5**|[Esprit totem](#esprit-totem)|
+|**6**|[Aspect de la bête](#aspect-de-la-bete)|
+|**7**|[Ami de mes amis](#ami-de-mes-amis)|
+|**10**|[Marcheur spirituel](#marcheur-spirituel)|
+|**12**|[Mixture de soin](#mixture-de-soin)|
+|**14**|[Lien totémique  ](#lien-totemique  )|
+|**15**|[Mixture d’empoisonnement](#mixture-d-empoisonnement)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -36,15 +32,13 @@ En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Vitnars forment une caste respectée chez les Melgs. Les Vitnar de la voie des Armes sont appelés Galhelt, littéralement « furieux ». Ce sont des guerriers redoutables qui puisent une partie de leurs compétences dans la communion avec leurs animaux totems pour sublimer le combat et dominer l’adversaire. Les Vitnars de la voie de l’Ombre sont appelés Morke, littéralement « ténêbreux ». Ils utilisent leurs connaissances de mixtures pour empoisonner et leurs animaux totems pour développer leurs capacités. Les Vitnars de la voie de la Magie sont appelés Sserh, littéralement « Celui qui voit ». Ils sont souvent au service de grands seigneurs Melgs et dispensent leur sagesse.
 
-
-
 ### Ecriture sacrée
 **En langue Melg : Holtar**  
 Vous connaissez les signes anciens Holtar, la langue magique des Vitnar. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
 
 ### Défense sans armure  
 **En langue Melg : Forsv’ustning**  
-Au niveau 3 Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution.  
+Au niveau 3 Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse+ votre modificateur de Constitution.  
 
 ### Quêteur spirituel    
 **En langue Melg : Sogen’sind**  
@@ -90,3 +84,5 @@ Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem
 ### Mixture d’empoisonnement  
 **En langue Melg : Bland’forgiftning**  
 Au niveau 15, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins.
+
+### A TERMINER   

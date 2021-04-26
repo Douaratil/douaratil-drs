@@ -65,10 +65,10 @@ _**Santé surnaturelle**_. *(Nayane)* A partir du niveau 3, la Nayane ne garde a
 _**Vision nâcrée**_. *(Nayane)*  A partir du niveau 4, la Nayane obtient une vision dans le noir d'une portée 18 mètres.
 
 ## Actions  
-_**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -85,7 +85,7 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2).  
-Sawrina possède 4 PA, 23 PE & 990 PO.  
+Sawrina possède 4 PA, 23 PE & 969 PO.  
 §§§
 
 §§§ .hero
