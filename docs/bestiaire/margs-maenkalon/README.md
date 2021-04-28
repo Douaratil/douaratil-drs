@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "4"
-customHP: "28"
+challenge: "5"
+customHP: "32"
 abilityScores:
   for: 12
-  dex: 19
+  dex: 20
   con: 12
   int: 8
   sag: 8
   cha: 8
-customSavingThrows: "for +3, dex +4, con +3, int +1, sag +1, cha -1"
+customSavingThrows: "for +4, dex +5, con +4, int +2, sag +2, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "16 (Armure de cuir)"
+  value: "17 (Armure de cuir cloutée)"
 skills:
   - name: "athletisme"
   - name: "intimidation"
@@ -44,9 +44,9 @@ _**Historique  Inquisiteur:**_.
 **Équipement**.  Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.  
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)   
 
-_**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
+_**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
 
-_**Voie des armes & Bhegelm**_. Margs est niveau 4 dans la voie des armes et Archétype Bhegelm.
+_**Voie des armes & Bhegelm**_. Margs est niveau 5 dans la voie des armes et Archétype Bhegelm.
 
 _**Style de Combat à deux armes** *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
@@ -58,19 +58,28 @@ _**Langue sacrée**_. *(Bhegelm)* À partir du niveau 3,vous connaissez le Yezhs
 
 _**Récupération naturelle**_. *(Bhegelm)* À partir du niveau 4, vous pouvez regagner une partie de votre énergie magique en méditant et en communiant avec la nature. Pendant un repos court, vous pouvez choisir de récupérer soit des  points de Magie (PM), soit des points de Foi (PF). Le montant est de 1d6 tous les deux niveaux (1, 3, 5, 7, 9, 11, 13, 15, 17, 19) Vous ne pouvez pas utiliser cette aptitude de nouveau tant que vous n'avez pas terminé un repos long.  
 
+_**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
+Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
+
+_**Compagnon animal corneille**_. *(Bhegelm)*  À partir du niveau 5, le Bhegelm se lie avec une corneille. Il doit s’agir d’un animal qui vit dans les contrées où réside le Bhegelm. Si la corneille devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en croassant. La corneille peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, ou des baies et des fruits.  
+Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Bhegelm.
+
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hachette**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Hachette**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
 _**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)
+_Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
+
+**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 6 dégâts tranchants (Finesse & légère).  
 
 
 
@@ -86,15 +95,14 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir
-Margs possède : 3005 PC, 938 PA, 24 PE & 1055PO.  
-Dette 500 PO, (rumeur d'enlèvement contre son clan ou guerre)
+Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce)
+Margs possède : 3005 PC, 938 PA, 36 PE & 1276 PO, 5 PP.  
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 5325  
+**XP acquis** : 8275  
 **Points de Magie** :8  
 **Points de Foi** :8   
 **Points d'honneur** :23  

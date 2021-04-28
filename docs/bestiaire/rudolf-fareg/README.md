@@ -47,9 +47,9 @@ _**Historique explorateur:**_.
 **Équipement**. Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15  m), bourse contenant 15 po.  
 **Aptitude**. [Découvreur](/personnalite-et-historique/#decouvreur)    
 
-_**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, hache, pique, véhicule terrestres, flûte, tambourin.  
+_**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, flûte, tambourin.  
 
-_**Voie des armes & Skell**_. Rudolf est niveau 4 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Skell**_. Rudolf est niveau 5 dans la voie des armes et Archétype Skell.
 
 _**Style de combat Protection**_. *(Armes)* Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.    
 
@@ -66,19 +66,19 @@ _**Oeil du gardien des runes**_.  *(Skell)*  À partir du niveau 5, vous pouvez 
 
 ## Actions  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 
 §§§ .hero
 ### Présentation:  
-Rudolf Fareg alias Rudy est un jeune Melg issu du clan Fareg qui est isntallé aux pieds des Monts du Menezlatar. Il fait parti des familles qui ont fait le choix de rester à l'Ouest.
+Rudolf Fareg alias Rudy est un jeune Melg issu du clan Fareg qui est installé aux pieds des Monts du Menezlatar. Il fait parti des familles qui ont fait le choix de rester à l'Ouest.
 §§§
 
 §§§ .hero
@@ -88,7 +88,8 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 
 §§§ .hero
 ### Equipement:  
-Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourrin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir.   600 PC,  345 PA, 506 PO .
+Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourrin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métall et cuir circulaires (Valeur 100po pièce)   
+600 PC,  345 PA, 12 PE, 877 PO, 5 PP.
 §§§
 
 

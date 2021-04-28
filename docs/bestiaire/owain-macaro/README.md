@@ -45,7 +45,7 @@ _**Historique  Bandit de grand chemin:**_.
 **Équipement**. Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
 **Aptitude**. [Signes de piste](/personnalite-et-historique/#signes-de-piste)
 
-_**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
+_**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hache, arc long, l'arc composite et les armes courantes) boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 
 _**Voie des armes & Gwylwir**_. Owain est niveau 4 dans la voie des armes et Archétype Gwylwir.
 
@@ -75,13 +75,13 @@ Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection sup
 
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc long**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 45/180.  
+_**Arc long**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 45/180.  
 _Touché_ : 6 dégâts perforants .
 
 §§§ .hero

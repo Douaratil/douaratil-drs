@@ -51,7 +51,7 @@ _**Historique Limier:**_.
 **Équipement**. Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
 **Aptitude**. [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
 
-_**Maîtrises:**_. épée longue, rapière, épée courte, hached e bataille, glaive, hache, accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armes courantes, armure légère, armure intermédiaire.
+_**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
 _**Voie des Ombres & Llawenos**_. Lôchetos est niveau 5 dans la voie des Ombres et Archétype Llawenos.  
 
@@ -85,13 +85,16 @@ _**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez tout
 
 ## Actions
 
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 6 dégâts tranchants (Finesse & légère).
+
 _**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 _**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -110,7 +113,8 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 10 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1316PC, 2100 PA, 24 PE, 1481 PO.
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), 1 amulette antidote.  
+1316PC, 2100 PA, 36 PE, 1737 PO, 5 PP.  
 §§§
 
 §§§ .hero

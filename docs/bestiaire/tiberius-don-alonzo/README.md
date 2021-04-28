@@ -47,9 +47,9 @@ _**Historique  Bâtard:**_.
 **Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
 **Aptitude**. [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
 
-_**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet, boucliers, armure légère, armure intermédiaire, armure lourde, outils de joalliers, outils de voleur.  
+_**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  
 
-_**Voie des ombres & Astartes**_. Tiberius est niveau 4 dans la voie des ombres et Archétype Astartes.  
+_**Voie des ombres & Astartes**_. Tiberius est niveau 5 dans la voie des ombres et Archétype Astartes.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur**  
 
@@ -92,8 +92,9 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir.  
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 5300 PC, 1004 PA, 24 PE & 1064 PO.  
+Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 5300 PC, 1004 PA, 36 PE & 1395 PO, 5 PP.  
+1 Chrysolbéryl (500po),  1 péridot (500po), 1 perle noire (500po), 1 topaze (500po).
 §§§
 
 §§§ .hero
@@ -106,7 +107,7 @@ petite maison à Ker-Saozon.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 7240  
+**XP acquis** : 10540  
 **Points de Magie** :9  
 **Points de Foi** :8   
 **Points d'honneur** :226  

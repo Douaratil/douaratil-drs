@@ -206,7 +206,7 @@ Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distan
 Si vous vous demandez si une action que vous êtes en train de faire peut être considérée comme une attaque, rappelez-vous une règle simple : si vous faites un [jet d'attaque](/combattre/#jets-d-attaque), c'est que vous être en train de faire une attaque.
 
 ### Jets d'attaque
-Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un 3d6 et ajoutez les modificateurs appropriés. Si le total du dé et des modificateurs est supérieur ou égal à la **Valeur de défense (VD)** de votre cible, votre attaque est réussie. La VD d'un personnage est déterminée au moment de sa création, tandis que la VD d'un adversaire est indiquée dans ses statistiques.
+Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un 3d6 et ajoutez les modificateurs appropriés, il s'agit de la **Valeur Offensive (VO)**. Si le total du dé et des modificateurs est supérieur ou égal à la **Valeur de défense (VD)** de votre cible, votre attaque est réussie. La VD d'un personnage est déterminée au moment de sa création, tandis que la VD d'un adversaire est indiquée dans ses statistiques.
 
 #### Modificateurs du jet
 Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un adversaire porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.
@@ -219,7 +219,16 @@ Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer c
 
 ### Valeur de Défense
 La Valeur de Défense (VD) est égale à :  
-**10 + (Bonus de Dextérité + Bonus de Sagesse)/2 + Bonus (d’armure et bouclier).**
+**10 + (Bonus de Dextérité + Bonus de Sagesse)/2 + Bonus (d’armure et bouclier).**  
+
+### Valeur de Offensive
+La Valeur de Offensive (VO) est égale à :  
+**Bonus de Maîtrise (Si applicable) + Modificateur de caractéristique + Bonus (arme magique par ex)**
+
+### Valeur de Offensive globale
+La Valeur de Offensive globale (VOG) est égale à :  
+**10 + Bonus de Maîtrise (Si applicable) + Modificateur de caractéristique + Bonus (arme magique par ex).**  
+
 
 ### Attaquants et cibles invisibles
 Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'[_invisibilité_](/grimoire/invisibilite/) ou en se fondant dans les ténèbres.
@@ -267,12 +276,15 @@ Le blocage est une [_réaction défensive_](/combattre/#reaction-defensive) dés
 Une attaque avec une arme à une main peut être bloquée par une autre arme à une main, une arme à deux mains ou un bouclier.  
 Une attaque avec une arme à deux mains peut être bloquée avec une autre arme à deux mains ou un bouclier.  
 Une attaque par arme naturelle (morsure, griffe) peut être bloquée à main nue pour une même catégorie de taille ou inférieure, avec une arme à une main ou à deux main (les dégâts de l’arme s’appliquent immédiatement), pour une même catégorie de taille ou une supérieure, avec un bouclier pour toute catégorie de taille jusqu’à TG (Très Grande). Les créature grandes (G) bousculent et font reculer celui qui se protège derrière son bouclier. Les créatures très grandes (TG) font tomber le défenseur qui devient à terre.  
+La blocage stoppe les dommages en réussissant un test de combat contre la Valeur offensive globale (VOG) de l'adversaire. Cette valeur est augmentée de 1 par dés explosif réussi par l'attaquant.
+
 #### Réaction esquive
-L’esquive est une [_réaction défensive_](/combattre/#reaction-defensive). L’esquive sous forme d’action est décrite plus haut à la section [_esquiver_](/combattre/#esquiver). L’esquive est la meilleure solution dans un combat mais elle nécessite une grande dextérité de la part de celui qui l’utilise car l’attaque doit être anticipée. Une esquive est utilisable si et seulement si la valeur de dextérité du défenseur est supérieure à la dextérité de l’attaquant.  
+L’esquive est une [_réaction défensive_](/combattre/#reaction-defensive). L’esquive sous forme d’action est décrite plus haut à la section [_esquiver_](/combattre/#esquiver). L’esquive est la meilleure solution dans un combat mais elle nécessite une grande dextérité de la part de celui qui l’utilise car l’attaque doit être anticipée. **Une esquive est utilisable si et seulement si la valeur de dextérité du défenseur est supérieure à la dextérité de l’attaquant**.  
+L'esquive ignore les dommages en réussissant un test JS de dextérité contre la Valeur offensive globale (VOG) de l'adversaire.  
 
 §§§ .hero
 ### Règle optionnelle
-L'utilisation des réactions défensives entraine beaucoup plus de lancer de dés et d'interactions. Cependant, le jeu étant particulièrement mortel avec le système des dés explosifs, il serait injuste d'en priver les joueurs qui peuvent par un lancer de dés bien ajusté se sortir d'une situation périlleuse. Nous préconisons donc pour améliorer la fluidité du jeu de n'utiliser ces règles que pour les personnages joueurs et les PNJ importants. Pour le reste des opposants, la valeur de défense est suffisante pour représenter la capacité de survie de l'adversaire.  
+L'utilisation des réactions défensives entraine beaucoup plus de lancer de dés et d'interactions. Cependant, le jeu étant particulièrement mortel avec le système des dés explosifs, il serait injuste d'en priver les joueurs qui peuvent par un lancer de dés bien ajusté se sortir d'une situation périlleuse. **Nous préconisons donc pour améliorer la fluidité du jeu de n'utiliser ces règles que pour les personnages joueurs et les PNJ importants**. Pour le reste des opposants, la valeur de défense est suffisante pour représenter la capacité de survie de l'adversaire.  
 §§§
 
 ### Opposition en combat

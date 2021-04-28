@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "9"
+  value: "12 (Armure de cuir cloutée)"
 skills:
   - name: "arcanes"
     isExpert: true
@@ -45,7 +45,7 @@ _**Historique rebouteux:**_.
 **Équipement**. Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.  
 **Aptitude**. [Aimé et Détesté](/personnalite-et-historique/#aime-et-deteste)     
 
-_**Maîtrises:**_. glaive, hache, dague, fléchette, frondes, bâtons, armes courantes, armure légères, accessoire de déguisement, jeu de dés, outils d'alchimie, outils d'herboristerie.  
+_**Maîtrises:**_. glaive, hache, armes courantes (Double maîtrise pour dague, fléchette, frondes, bâtons), armure légères, accessoire de déguisement, jeu de dés, outils d'alchimie, outils d'herboristerie.  
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
@@ -70,16 +70,16 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +2 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -96,7 +96,8 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 3602 PC, 3602 PA, 19 PE, 1775 PO et 301 églantiannes, 4 doses d'herbefolles.
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
+3602 PC, 3602 PA, 31 PE, 2080 PO, 5 PP et 426 églantiannes, 4 doses d'herbefolles.
 §§§
 
 §§§ .hero
@@ -110,12 +111,14 @@ un petit fil de cuivre enchanté.
 
 §§§ .hero
 ### Sorts connus:  
-**Bonus d'incantation: +5**  
+**Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),   
-[Oeil magique](/grimoire/oeil-magique),  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
 [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
+
+**Novice** :  
+[Oeil magique](/grimoire/oeil-magique)  
 
 **Sorts possédés à apprendre** : néant
 §§§
@@ -135,9 +138,9 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 14 760  
+**XP acquis** : 14 800  
 **Points de Magie** :38
 **Points de Foi** :10  
 **Points d'honneur** :31  
-**Inspirations religieuses** : 2 (culte à Lhaothlastholo)
+**Inspirations religieuses** : 0 (culte à Lhaothlastholo)
 §§§

@@ -75,7 +75,7 @@ Il est possible d'autre part de moduler la difficulté en doublant le nombre de 
 ## Lancer un sort
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.
 
-Lancer un sort n'engage pas une réussite automatique. La magie est un art difficile et imprévisible. Ainsi, les sorts exigent un test de compétence d'Arcane pour la Magie et de Religion pour la Foi. Un échec entraine la perte des points de Magie ou de Foi correspondants.
+Lancer un sort n'engage pas une réussite automatique. La magie est un art difficile et imprévisible. **Ainsi, les sorts exigent un test de compétence d'Arcane pour la Magie et de Religion pour la Foi**. Un échec entraine la perte des points de Magie ou de Foi correspondants.
 
 §§§ .table-container
 |Niveau||Difficulté du test|
