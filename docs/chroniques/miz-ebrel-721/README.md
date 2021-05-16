@@ -86,7 +86,9 @@ La famille Gornoc est partie avec les familles Vlatcano et Macaro chercher un no
 **15 Miz Ebrel**  
 Le clan Gornoc est enfin arrivé au camp. [Gwion](/bestiaire/gwion-gornoc) commence à rassembler ses troupes pour la bataille, et continue à étudier.  
 La compagnie, arrivée à Masyvum après plusieurs jours de marche, [Lôchetos](/bestiaire/lochetos-vlatcano) se rend au palais du Genos afin d'y demander audience. [Lôchetos](/bestiaire/lochetos-vlatcano), après lui avoir fait une offrande laisse une fois de plus son destin entre les mains de Sheggothlil et proposa aux membres du groupe de négocier en leur nom auprès du roi Bryn Tuticanos. Après une mise en garde très théâtrale sur le danger que représente le cercle de la nuit, [Lôchetos](/bestiaire/lochetos-vlatcano) demande au Genos de leur venir en aide pour neutraliser la menace et reprendre Caohaydhan. Bryn Tuticanos est réservé quant à sa participation. Il avait en estime Gaenor mais en tant que roi, il ne peut intervenir directement. Les dieux n'ont ils pas favorisé Britomartos? Il promet par contre de ne pas intervenir pour empêcher la reconquête de Caohaydhan jusqu'à l'hiver prochain. Le clan qui aura Caohaydhan en genver 722 sera légitime. Cela laisse huit lunes aux Lugetos pour reconquérir le trône.  
-
+Il est décidé de se séparer pour éviter une attaque du clan Nantono de Britomartos et de ses alliés. Les Vlatcano se rendent donc en majorité vers Thaouet, Les Gornoc vers Kerzu et les Macaros se rendent en terre Khernaëe à Lornac.  
+[Margs](/bestiaire/margs-maenkalon) envisage de repasser par Lornac.  
+[Tiberius](/bestiaire/tiberius-don-alonzo) envisage de retourner à Ker-Saozon et propose à [Shin Hame](/bestiaire/shin-hame) ainsi qu'à Malala Soa de l'accompagner.  
 
 **16 Miz Ebrel**  
 À peine arrivé au camp, Gwion repart avec deux membres armés de sa famille, en direction des marécages de Geunddon avec une idée précise derrière la tête. Il continue ses études magiques sur la route.  
@@ -94,12 +96,54 @@ Après de longues négociations ayant durée jusqu'assez tard, les quelques memb
 
 **17 Miz Ebrel**  
 Plus [Gwion](/bestiaire/gwion-gornoc) et sa famille qui l’accompagne se rapprochent de Geunddon, plus ceux là se font discrets, connaissant les dangers qui les guettent s’ils se font reconnaître par les alliés de celui qui les a banni. Gwion reste comme absent de lui même, ne faisant pas attention à ce qui l’entoure, tant il est plongé dans ses études.  
+Avant de repartir avec Tiberius, [Shin Hame](/bestiaire/shin-hame) fait envoyer une missive à Yan Zin pour l'informer de la situation politique mais aussi des opportunités économiques que cela pourrait permettre. Il lui fait un compte rendu complet de toutes les informations qu'il a pu réunir afin que Yan Zin soit au courant de tout pour son retour. Le message devrait mettre plus d'une lune à atteindre les royaumes Yotakaï.    
 
 **18 Miz Ebrel**  
 [Gwion](/bestiaire/gwion-gornoc) et sa famille sont arrivés dans les marécages de Geunddon. Celui-ci leur ordonne d’aller à l’endroit où il aurait dû rencontrer Pedr Pimalo, et leur indique le lieu et précisant qu’ils doivent y être pour le 25 du mois. Après avoir eu l’information ils doivent remonter à Kerzu, là Gwion les attendra. L’Ambeanamos passe sa journée pour la dernière fois à étudier le parchemin. En fin de journée, il comprend entièrement ce sortilège. [Gwion](/bestiaire/gwion-gornoc) campe assez loin de la ville pour ne pas être repéré.  
+[Margs](/bestiaire/margs-maenkalon) retourne une nouvelle foi au cercle de Lornac pour informer sur les actions du cercle de la nuit. Ses supérieurs ne le prenne pas suffisament au sérieux et surtout, il n'est qu'un jeune initié. Il est invité à patienter et à gravir les étapes de l'ascension intérieure vers la révélation personnelle du moi et de se séparer de son égo qui l'agite en tout sens avec des problèmes bien terrestres.  
+Dépité, il se retire en forêt pour prier les Felspaërs. L'un de ses formateurs, Roawenn Grisebarbe, lui offre deux tablettes d'Omaths.
+- Tu as passé trop de temps à te préparer au combat. Voici quelques exercices pour développer ta force intérieure.
+[Margs](/bestiaire/margs-maenkalon) n'est pas trop convaincu mais accepte les tablettes et se promet de les étudier. Sur les tablettes, il comprend qu'il peut apprendre comment enchanter ses armes ou guérir avec le seul son de sa voix. Il décide de s'y mettre.  
+
 
 **19 Miz Ebrel**  
-[Gwion](/bestiaire/gwion-gornoc) passe sa journée à sonder Caohaydhan avec son sort « oeil magique ». Il se repose en cherchant des eglantiannes.  
+[Gwion](/bestiaire/gwion-gornoc) passe sa journée à sonder Caohaydhan avec son sort « oeil magique ». Il se repose en cherchant des eglantiannes. Il en profite pour apprendre beaucoup de choses sur la ville et particulièrement des choses inavouables pour certains habitants de Caohaydhan. Il pourra tenter de s'en rappeler le moment venu pour l'utiliser mais au risque de se faire des ennemis. [Gwion](/bestiaire/gwion-gornoc) n'arrive pas à localiser la pierre de [Sawrina](/bestiaire/sawrina-semiramis). La jeune femme elle-même n'a qu'uen idée diffuse de sa présence.   
+Une nouvelle importante est diffusée par les Bhaners et les Llawenos, outre les changements politiques, le mariage de Morwenna Moisan avec le seigneur Alarig Pindivic est prévu pour la fêtes des feux de Balt. Tous les clans sont invités à se réjouir pour cette nouvelle puissante alliance chez les Khernaës.  
 
 **20 Miz Ebrel**  
-Dès leur arrivée les voyageurs sont accueillis par Aelhaearn Vlatcano. Après un court repos pendant lequel ils racontent au pêcheur toutes leurs aventures et ce qui les amènent ici, ils retournent à leur affaires sans perdre plus de temps.  [Lôchetos](/bestiaire/lochetos-vlatcano) rode auprès du chantier naval de la ville afin de trouver un artisan auquel il commande quatre grandes barques pour dans deux lunes tandis que Siwan a pour mission de développer un réseaux d'information avec comme objectif d'être opérationnel d'ici une à deux lunes et d'avoir des informations sur la plus grande partie du monde connu possible grâce au rayonnement commercial de Thaouet.
+Dès leur arrivée les voyageurs sont accueillis par Aelhaearn Vlatcano. Après un court repos pendant lequel ils racontent au pêcheur toutes leurs aventures et ce qui les amènent ici, ils retournent à leur affaires sans perdre plus de temps.  [Lôchetos](/bestiaire/lochetos-vlatcano) rode auprès du chantier naval de la ville afin de trouver un artisan auquel il commande quatre grandes barques pour dans deux lunes tandis que Siwan a pour mission de développer un réseaux d'information avec comme objectif d'être opérationnel d'ici une à deux lunes et d'avoir des informations sur la plus grande partie du monde connu possible grâce au rayonnement commercial de Thaouet.  
+[Margs](/bestiaire/margs-maenkalon) est dans la forêt et une corneille s'attache à sa personne. Elle lui amène des baies toutes la journée pour se faire accepter.  
+
+**21 Miz Ebrel**
+[Gwion](/bestiaire/gwion-gornoc) continue sa route vers Kerzu. [Lôchetos](/bestiaire/lochetos-vlatcano) s'occupe du suivi des transactions commerciales qu'il a entreprise. Il commence à réfléchir comment sécuriser les routes qu'il avait envisagé d'emprunter pour développer son projet. Il commence aussi à réfléchir à d'autres solutions si la situation politique perdure telle quel.  
+
+**22 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) est arrivé à Kerzu. Il loue une mansarde médiocre le temps de son séjour.  
+[Tiberius](/bestiaire/tiberius-don-alonzo), [Shin Hame](/bestiaire/shin-hame) et Mala Soa arrivent à Ker-Saozon. Ils sont accueillis par Morwenna qui exprime ses condoléances pour la mort de Gaenor Lugeto et de sa fille. La nouvelle s'est répandue dans le pays comme une traînée de poudre.
+[Tiberius](/bestiaire/tiberius-don-alonzo) envisage de rallier à sa cause Morwenna. Il se promet de lui en parler. [Tiberius](/bestiaire/tiberius-don-alonzo) retrouve Azenor qui est revenue d'entre les morts. Sous la protection de Morwenna, et des soins d'Ewan le Bhegelm, elle s'est remise rapidement. Après des retrouvailles émouvantes, elle avoue à [Tiberius](/bestiaire/tiberius-don-alonzo) qu'elle a fait tuer son mari qui était le commanditaire de son agression. Mais elle soupçonne au delà de la vengeance personnelle pour l'infidélité d'Azenor, qu'il s'agissait aussi de toucher [Tiberius](/bestiaire/tiberius-don-alonzo).  
+
+**23 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) continue sa collecte d’eglantianne et se renseigne sur les services qu’il pourrait prodiguer aux habitants de Kerzu. Il s’assure que les autorités de la ville portuaire sont au courant de ce qui s’est passé à Caohaydhan. Il leur explique que Britomartos a trahi son roi, a fait un coup d’état, et a assassiné lâchement le roi en lui donnant une mort honteuse pour quelqu’un de son rang. Le clan Gornoc est accepté et nombreux sont ceux qui s'embarquent sur des bateaux de pèche.   
+
+**24 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) s’informe par les marins de l’état du monde derrière les monts du Menezlatar. Les informations sont nombreuses. Une paix précaire règne entre l'Empire alcante qui a repris de la puissance depuis les  guerres contre les royaumes de Shaia et un statu quo a permis de développer le commerce sur la mer intérieure. Il apprend aussi que de grandes guerres ont lieu plus à l'est et que l'empire minghour se fragmente de plus en plus. C'est une bonne nouvelle pour les peuples de l'Ouest. [Gwion](/bestiaire/gwion-gornoc)  continue sa cueillette.  
+[Margs](/bestiaire/margs-maenkalon) comprend la prière "Arme magique". Il la garde précieusement.
+
+**25 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) recherche toujours des plantes et fait de la divination pour les habitants de Kerzu.  
+
+**26 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) recherche toujours des plantes.  
+
+**27 Miz Ebrel**  
+Le reste des membres de la famille Gornoc sont arrivés à Kerzu, et informent [Gwion](/bestiaire/gwion-gornoc) de ce que Pedr Pimalo leur a dit. [Rudolf](/bestiaire/rudolf-fareg) qui a erré ces derniers jours décide de retourner à ker-Saozon et peut-être même de rentrer dans sa famille.  
+
+**28 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) cueille des eglantiannes.   
+
+**29 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) cueille des eglantiannes.  
+
+**30 Miz Ebrel**  
+[Gwion](/bestiaire/gwion-gornoc) cueille des eglantiannes.  
+[Margs](/bestiaire/margs-maenkalon) comprend la prière "Mot de guérison". Il la garde précieusement.

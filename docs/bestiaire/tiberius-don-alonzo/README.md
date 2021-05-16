@@ -57,11 +57,11 @@ _**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper 
 
 _**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
-_**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.  
-
 _**Châtiment**_. *(Astartes)* À partir du niveau 3, quand vous touchez un adversaire avec une arme de corps-à-corps, vous pouvez utiliser 1d6 points de Foi pour infliger des dégâts supplémentaires à cet adversaire en plus des dégâts normaux de l'arme. Vous infligez 1d6 dégâts supplémentaires.  
 
-_**Santé**_. *(Astartes)* Au niveau 4, la foi qui vous anime vous immunise contre les maladies.
+_**Santé**_. *(Astartes)* Au niveau 4, la foi qui vous anime vous immunise contre les maladies.  
+
+_**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.  
 
 _**Seconde attaque**_. *(Astartes)* À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.  
 
@@ -93,13 +93,13 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 5300 PC, 1004 PA, 36 PE & 1395 PO, 5 PP.  
-1 Chrysolbéryl (500po),  1 péridot (500po), 1 perle noire (500po), 1 topaze (500po).
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 6000 PC, 1254 PA, 36 PE & 881 PO, 5 PP.  
+1 péridot (500po), 1 perle noire (500po), 1 topaze (500po).
 §§§
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 petite maison à Ker-Saozon.  
 **Rente d'Azenor** : 3d6 PO / Partie.  
 §§§
@@ -107,8 +107,8 @@ petite maison à Ker-Saozon.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 10540  
+**XP acquis** : 13690  
 **Points de Magie** :9  
 **Points de Foi** :8   
-**Points d'honneur** :226  
+**Points d'honneur** :26  
 §§§

@@ -182,7 +182,7 @@ En tant que voie de la magie, vous bénéficiez des aptitudes de classe suivante
 **Armes**: dagues, fléchettes, frondes, bâtons  
 **Outils** : aucun  
 **Jets de sauvegarde**: Intelligence, Sagesse  
-**Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion  
+**Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Intimidation, Investigation, Médecine, Perspicacité et Religion  
 ### Incantations
 En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau.
 ### Lancer des sorts

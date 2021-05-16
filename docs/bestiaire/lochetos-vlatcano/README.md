@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "5"
-customHP: "29"
+challenge: "6"
+customHP: "32"
 abilityScores:
   for: 10
   dex: 10
   con: 14
   int: 10
   sag: 12
-  cha: 12
-customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +4 "
+  cha: 14
+customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +5 "
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "14 (armure de cuir cloutée)"
+  value: "16 (cuirasse)"
 skills:
   - name: "athletisme"
   - name: "discretion"
@@ -31,9 +31,11 @@ skills:
     isExpert: true
   - name: "perception"
     isExpert: true
+  - name: "perspicacite"
   - name: "persuasion"
     isExpert: true
   - name: "representation"
+    isExpert: true
   - name: "supercherie"
     isExpert: true
 movement:
@@ -53,11 +55,11 @@ _**Historique Limier:**_.
 
 _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 5 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 6 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
-Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  
-
+(Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)
+)
 _**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
 Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
@@ -80,7 +82,9 @@ _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant q
 _**Expertise**_. *(Llawenos)* Au niveau 5, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.
 
-_**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.
+_**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.  
+
+_**Contre-charme**_. *(Llawenos)* Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde contre les effets [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) et [_charmée_](/gerer-la-sante-du-personnage/#charme). Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise), réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).  
 
 
 ## Actions
@@ -98,6 +102,9 @@ _**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, 
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
+**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
+_Touché_ : 4 dégâts perforants .
+
 
 
 §§§ .hero
@@ -113,8 +120,8 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), 1 amulette antidote.  
-1316PC, 2100 PA, 36 PE, 1737 PO, 5 PP.  
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, [Amulette antidote](/liste-objets-magiques/amulette-antidote).  
+2116PC, 2210 PA, 36 PE, 2057 PO, 5 PP.  
 §§§
 
 §§§ .hero
@@ -126,7 +133,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 **Un emplacement & un petit entrepôt au port de Thaouet** 2d6 pièces d'or.
 §§§
 
@@ -140,15 +147,13 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 11 785  
+**XP acquis** : 16 035  
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :27  
+**Points d'honneur** :29  
 §§§
 
 §§§ .hero
 ### Commerce
-2050 livres de fer.
-5 têtes de bétail
-Achat de quatres grandes barques
+Achat de quatre grandes barques
 §§§

@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "5"
-customHP: "32"
+challenge: "6"
+customHP: "36"
 abilityScores:
   for: 12
   dex: 20
   con: 12
   int: 8
-  sag: 8
+  sag: 10
   cha: 8
-customSavingThrows: "for +4, dex +5, con +4, int +2, sag +2, cha -1"
+customSavingThrows: "for +4, dex +5, con +4, int +2, sag +3, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "17 (Armure de cuir cloutée)"
+  value: "18 (Armure de cuir cloutée)"
 skills:
   - name: "athletisme"
   - name: "intimidation"
@@ -46,7 +46,7 @@ _**Historique  Inquisiteur:**_.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
 
-_**Voie des armes & Bhegelm**_. Margs est niveau 5 dans la voie des armes et Archétype Bhegelm.
+_**Voie des armes & Bhegelm**_. Margs est niveau 6 dans la voie des armes et Archétype Bhegelm.
 
 _**Style de Combat à deux armes** *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
@@ -62,7 +62,20 @@ _**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez atta
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
 
 _**Compagnon animal corneille**_. *(Bhegelm)*  À partir du niveau 5, le Bhegelm se lie avec une corneille. Il doit s’agir d’un animal qui vit dans les contrées où réside le Bhegelm. Si la corneille devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en croassant. La corneille peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, ou des baies et des fruits.  
-Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Bhegelm.
+Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Bhegelm.  
+
+_**Forme sauvage**_. *(Bhegelm)*  À partir du niveau 6, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.  
+Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 6, par exemple, vous pouvez vous connecter à n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
+
+§§§ .table-container
+|Niveau|ID|Limitations|Exemple|
+|:-:|:-:|-:|-:|
+|6|1/4|Pas de vitesse de vol ou de nage|Loup|
+|7|1/2|Pas de vitesse de vol|Ours|
+|8|1|-|Aigle|
+§§§
+
+Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
 
 ## Actions
 
@@ -96,14 +109,26 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 §§§ .hero
 ### Equipement:  
 Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce)
-Margs possède : 3005 PC, 938 PA, 36 PE & 1276 PO, 5 PP.  
+Margs possède : 3005 PC, 938 PA, 36 PE & 254 PO, 5 PP.  
+§§§
+
+§§§ .hero
+### Sorts connus:  
+**Bonus d'incantation: +5**  
+**DD de Sauvegarde: 7**  
+**Novice** : [arme magique](/grimoire/arme-magique), [mot de guérison](/grimoire/mot-de-guerison).  
+§§§
+
+§§§ .hero
+### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 8275  
+**XP acquis** : 18 375  
 **Points de Magie** :8  
-**Points de Foi** :8   
-**Points d'honneur** :23  
+**Points de Foi** :10   
+**Points d'honneur** :25  
 §§§

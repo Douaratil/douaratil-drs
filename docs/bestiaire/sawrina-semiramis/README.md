@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "5"
+challenge: "6"
 customHP: "25"
 abilityScores:
   for: 10
-  dex: 16
+  dex: 18
   con: 10
   int: 10
   sag: 12
   cha: 10
-customSavingThrows: "for +0, dex +9, con +0, int +3, sag +4, cha +0"
+customSavingThrows: "for +0, dex +10, con +0, int +3, sag +4, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "16 (Armure de cuir)"
+  value: "17 (Armure de cuir)"
 skills:
   - name: "acrobaties"
     isExpert: true
@@ -32,8 +32,10 @@ skills:
   - name: "medecine"
   - name: "nature"
   - name: "perception"
+    isExpert: true
   - name: "representation"
     isExpert: true
+  - name: "survie"
 movement:
   walk: 9
 senses:
@@ -50,9 +52,9 @@ _**Historique  Médecin:**_.
 
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 
-_**Voie des ombres & Nayane**_. Sawrina est niveau 5 dans la voie des ombres et Archétype Nayane.  
+_**Voie des ombres & Nayane**_. Sawrina est niveau 6 dans la voie des ombres et Archétype Nayane.  
 
-_**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation**  
+_**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation, survie, perception**  
 
 _**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
 
@@ -67,6 +69,8 @@ _**Vision nâcrée**_. *(Nayane)*  A partir du niveau 4, la Nayane obtient une v
 _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.  
 
 _**Equilibre parfait**_. *(Nayane)*  A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se déplacer sur des surfaces de 2 cm de large sans problème. Elle peut marcher sur une corde à sa vitesse normale comme s'il s'agissait d'un terrain normal.  
+
+_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. [repos court ou long](/gerer-la-sante-du-personnage/#repos).  
 
 ## Actions  
 _**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
@@ -84,22 +88,22 @@ _Touché_ : 4 dégâts tranchants (légère).
 Sawrina est une jeune assyrhim, issue d'une famille riche de Shahia qui se destinait aux études de guérisseuse. Elle a été enlevée et entraînée par des Assssyr'hims qui l'ont entrainé pendant plusieurs mois avant de lui faire boire l'eau de lune Selmontite et d'être vendue comme esclave assassin à un mystérieux commanditaire. Elle a été retrouvée dans un sarcophage métallique et libéré. Depuis, elle suit ses nouveaux compagnons en sachant qu'elle sera désormais pourchassée.  
 §§§
 
-§§§ .hero
+§§§ .hero  
 ### Description physique:  
 Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante hui kilos.
 §§§
 
 §§§ .hero
 ### Equipement:  
-Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce) 
-Sawrina possède 4 PA, 36 PE & 1344 PO, 5 PP.  
+Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)
+Sawrina possède 4 PA, 36 PE & 1322 PO, 5 PP.  
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 6780  
+**XP acquis** : 14 180  
 **Points de Magie** :10  
 **Points de Foi** :10   
-**Points d'honneur** :25
+**Points d'honneur** :25  
 §§§

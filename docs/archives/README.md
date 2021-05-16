@@ -6,6 +6,16 @@ toc: false
 §§§ .text-center
 # Archives
 §§§
+## Table de localisation des blessures, politique de gestion des cookies  
+Des semaines plus chargées et le retour des beaux jours laissent moins de temps pour le site. Je travaille (enfin surtout lui pour l'instant) avec le joueur de Rudolf pour la création d'une feuille de personnage éditable. J'ai mis en ligne une feuille de personnage réellement vide car elle n'était pas utilisable en l'espèce.  
+Dans la section de la gestion de la santé des personnages, la section localisation des blessures a été réorganisée en tableau.  
+Enfin, côté vie privée, les cookies de navigation google analytics ont été retirés. Seuls les cookies nécessaire à la navigation du site on été gardé et le message d'accueil a été mis à jour en ce sens.  
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 27 mars 2021_
+
+§§§
 
 <v-row>
 

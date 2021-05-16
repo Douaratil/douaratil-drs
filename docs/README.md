@@ -21,14 +21,13 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Table de localisation des blessures, politique de gestion des cookies  
-Des semaines plus chargées et le retour des beaux jours laissent moins de temps pour le site. Je travaille (enfin surtout lui pour l'instant) avec le joueur de Rudolf pour la création d'une feuille de personnage éditable. J'ai mis en ligne une feuille de personnage réellement vide car elle n'était pas utilisable en l'espèce.  
-Dans la section de la gestion de la santé des personnages, la section localisation des blessures a été réorganisée en tableau.  
-Enfin, côté vie privée, les cookies de navigation google analytics ont été retirés. Seuls les cookies nécessaire à la navigation du site on été gardé et le message d'accueil a été mis à jour en ce sens.  
+## Quelques nouvelles  
+Le site avance régulièrement même si je ne communique pas forcément sur chaque détail. Les règles de patrimoine et de gestion des familles sont maintenant bien intégrées par mes joueurs et cela rajoute vraiment dans les projets et les plans qu'ils élaborent. La campagne continue son cours et prend des allures dramatiques.  
+Côté des règles, vous trouverez sous peu l'archétype Yotakaï du Sohoten et Khernaëe de la Sermazloth.   
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 27 mars 2021_
+_le 16 mai 2021_
 
 §§§
 L'historique de l'avancement est disponible dans les [archives](/archives/)

@@ -89,16 +89,16 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 §§§ .hero
 ### Equipement:  
 Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourrin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métall et cuir circulaires (Valeur 100po pièce)   
-600 PC,  345 PA, 12 PE, 877 PO, 5 PP.
+600 PC,  345 PA, 12 PE, 855 PO, 5 PP.
 §§§
 
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 6840  
-**Points de Magie** :9
+**XP acquis** : 10 040  
+**Points de Magie** :9  
 **Points de Foi** :12  
-**Points d'honneur** :19
+**Points d'honneur** :19  
 
 Rudolf vient d'avoir une petite fille née en Miz Genver
 §§§

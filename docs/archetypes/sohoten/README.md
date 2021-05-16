@@ -22,32 +22,33 @@ title: Sohoten
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** : armures légères, armures intermédiaires.  
-**Armes** : armes courantes, Sabre, Arc long.  
+**Armures** : armures légères
+**Armes** : Bâton (Boten & Nachoten)
 **Outils** : Calligraphie.    
-**Jets de sauvegarde** : Dextérité, Sagesse.  
-**Compétences** : choisissez deux compétences parmi les suivantes : Acrobatie, Athlétisme, Dressage, Intimidation, Perception, Religion et Représentation.  
+**Jets de sauvegarde** : Dextérité, Constitution.  
+**Compétences** : choisissez trois compétences parmi les suivantes : Acrobatie, Arcanes, Athlétisme, Dressage, escamotage, Perception, Religion et Représentation.  
 **Conditions d'accessibilité**: Être de culture Yotakaï.  
-**Points de Magie** : Le Sohoten fait partie des voies magique du guerrier, de ce fait, il développe les points de Magie (PM).  
+**Points de Magie** : Le Sohoten fait partie d’une voie hybride (mystique & Foi) du guerrier, de ce fait, il développe les points de Foi (PF) et les points de Magie (PM). Pour les voie de la Magie, la progression n’est que de deux points mais dans les PF et les PM.  
 
-Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Les Seibahkamis de la voie des Armes sont appelés Shibōshaï, littéralement «Fatalité». Véritables fureur au combat, les Shibōshaïs sont redoutés de leurs adversaires pour la précision de leurs frappes au sabre et des traits de leurs arcs. Souvent, ils s’attache auprès d’un seigneur. Les Seibahkamis de la voie de l’Ombre sont appelés Sakeranaï, littéralement «Inévitable». Dans les légendes populaires les Sakeranaïs sont assimilés à des hommes démons mais en fait, dans leur recherche de la perfection, celui de tuer les ont rendu terrifiants. Ils vendent fort cher leurs services. Les Seibahkamis de la voie de la Magie sont appelés Shinjiranaï, littéralement « Incroyable». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur lame et leurs flèches. Les Shinjiranaïs sont d’éternels chercheurs de connaissance.  
+Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Parmi les Archétype existant, le Sohoten est un exemple de cette recherche de la perfection. Ils concentrent toutes leurs recherches sur le contrôle de l’esprit et du corps pour maîtriser les énergies subtiles et ne faire qu’un avec leurs armes de prédilection que sont le « Boten », bâton de la taille du combattant et le « Nanshoten », arme constituée de deux bâtons d’une longueur correspondant égale à la distance du coude à la jonction de l’annulaire du combattant, joint par une corde tressée. Le Shohoten préfère combattre avec ces armes à défaut de tout autres.
+Les Sohotens de la voie des Armes sont appelés Sohohittos, littéralement «frappe vigoureuse». Véritables fureur au combat, les Sohohittos sont redoutés de leurs adversaires pour la précision de leurs frappes et leur détermination au combat. Souvent, ils se rendent utiles auprès de la population ou du seigneur local en échange du gîte et du couvert. Les Sohotens de la voie de l’Ombre sont appelés Sohohaibus, littéralement «caresse vigoureuse». Dans les légendes populaires les Sohohaibus sont assimilés à des hommes animaux.
+Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement « esprit vigoureux». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur manière de combattre. Les Sohomaindus sont des mages/prêtres. Cette approche hybride des arts magiques les rendent plus polyvalents que leurs homolgues.  
 
 
-### Détermination
-**En Yotaï : Kettei**  
-À partir du niveau 3, vous gardez votre sabre dans son étui et attendez le meilleur moment pour le dégainer contre vos adversaires. Vous pouvez baisser le résultat de votre initiative de 5 pour le combat, en contre partie, lors de votre premier round d’attaque, vous pouvez porter vos attaques contre 3 adversaires maximum qui vous font face. Vous portez l’ensemble de vos attaques sur chaque adversaire.
-Cette capacité lorsqu’elle est utilisée, nécessite un repos long pour être de nouveau utilisée. Au niveau 12, un repos court suffit et au niveau 18, il n’y a plus de limitation.
+### mur de bois
+**En Yotaï : Kabe Mokuzai**  
+À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.
 
-### Préserver la vie
+### Course dans les arbres
 **En Yotaï : Chebh N’do**  
 À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
 Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un repos court ou un repos long pour utiliser de nouveau cette aptitude.  
 
-### Empathie équestre
+### Esquive magnifique
 **En Yotaï : Kyōkan Jōba**  
 À partir du niveau 5, vous êtes tellement à l’aide avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
 
-### Ami équestre  
+### Coup imparable
 **En Yotaï : Yūjō Jōba**  
 À partir du niveau 7, vous avez une relation puissante avec votre monture. Elle n’accepte que vous comme cavalier. Vous pouvez la laisser vaquer sans craindre de la perdre et il vous suffit de siffler et le cheval rapplique le plus rapidement possible. La portée est de 10 mètres de rayon par niveau.  
  D’autre part, le personnage peut monter sur sa monture alors qu’elle passe au galop devant lui en tant qu’action bonus. Il peut même le faire en sautant d’un toit ou d’une hauteur et ceci est considéré comme une manœuvre à cheval donc bénéficie du bonus de Kyōkan Jōba (Empathie équestre).  

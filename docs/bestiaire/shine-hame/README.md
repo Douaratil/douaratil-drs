@@ -67,18 +67,18 @@ Shin Hame est un serviteur du clan Yotakaï de Yan Zin et est l'un de ses compag
 
 §§§ .hero
 ### Description physique:  
-Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos. Cicatrices de petites griffures et morsures à la hanche gauche e tau mollet droit.  
+Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos. Cicatrices de petites griffures et morsures à la hanche gauche et au mollet droit.  
 §§§
 
 §§§ .hero
 ### Equipement:  
-Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 999 po.  
+Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 977 po.  
 §§§
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 575  
+**XP acquis** : 595  
 **Points de Magie** :15  
 **Points de Foi** :10   
-**Points d'honneur** :13
+**Points d'honneur** :13  
 §§§

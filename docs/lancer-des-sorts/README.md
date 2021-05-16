@@ -12,7 +12,10 @@ Les sorts ont un coût en point de magie ou en point de foi suivant l’archéty
 **A partir du niveau 13**, il obtient la capacité de lancer des sorts d’**adepte** sous réserve de posséder 17 dans la caractéristique de lancement de sort.  
 **A partir du niveau 15**, il obtient la capacité de lancer des sorts d’**expert** sous réserve de posséder 18 dans la caractéristique de lancement de sort.  
 **A partir du niveau 17**, il obtient la capacité de lancer des sorts de **maître** sous réserve de posséder 20 dans la caractéristique de lancement de sort.  
-Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leur bonus d’incantation**. ***D’autre part le DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise****.
+Les personnages de la voie de la magie, contrairement aux autres voies **ajoutent leur bonus de Maîtrise au DD de sauvegarde**.
+***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise pour les Voies de la Magie***.
+***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique pour les Voies des Armes et de l'Ombre***.
+
 
 ### Coût des Sorts
 Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coûts varient selon les niveaux de sorts.

@@ -310,6 +310,10 @@ module.exports = {
               path: '/archetypes/skell',
             },
           {
+              title: "Sohoten",
+              path: '/archetypes/sohoten',
+            },
+          {
               title: "Sorser",
               path: '/archetypes/sorser',
             },
@@ -478,6 +482,10 @@ module.exports = {
               {
                 title: "Miz Ebrel 721",
                 path: '/chroniques/miz-ebrel-721'
+              },
+              {
+                title: "Miz Mae 721",
+                path: '/chroniques/miz-mae-721'
               },
             ]
           },

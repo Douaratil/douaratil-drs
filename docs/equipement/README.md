@@ -241,8 +241,6 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Rapière|25 po|+4 perforant|1 kg|Finesse|
 |Trident|5 po|+4 perforant|2 kg|Lancer (portée 6/18), polyvalente (+6)|
 |**Armes à distance de guerre**|||||
-|Arbalète de poing|75 po|1d6 perforant|1,5 kg|Munitions (portée 9/36), légère, chargement|
-|Arbalète lourde|50 po|1d10 perforant|9 kg|Munitions (portée 30/120), lourde, chargement, à deux mains|
 |Arc long|50 po|+6 perforant|1 kg|Munitions (portée 45/180), lourde, à deux mains|
 |Arc composite|50 po|+6 perforant|1 kg|Munitions (portée 30/120), lourde, à deux mains|
 |Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|

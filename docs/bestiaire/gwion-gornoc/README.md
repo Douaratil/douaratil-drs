@@ -30,6 +30,7 @@ skills:
   - name: "intimidation"
     isExpert: true
   - name: "medecine"
+
 movement:
   walk: 9
 senses:
@@ -97,7 +98,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 3602 PA, 31 PE, 2080 PO, 5 PP et 426 églantiannes, 4 doses d'herbefolles.
+3602 PC, 4327 PA, 31 PE, 1948 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles.
 §§§
 
 §§§ .hero
@@ -117,7 +118,7 @@ un petit fil de cuivre enchanté.
 [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
-**Novice** :  
+**Disciple** :  
 [Oeil magique](/grimoire/oeil-magique)  
 
 **Sorts possédés à apprendre** : néant
@@ -138,9 +139,10 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 14 800  
+**XP acquis** : 19 320
 **Points de Magie** :38
 **Points de Foi** :10  
 **Points d'honneur** :31  
 **Inspirations religieuses** : 0 (culte à Lhaothlastholo)
+Note : une cousine blessée
 §§§
