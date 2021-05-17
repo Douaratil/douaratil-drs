@@ -72,6 +72,31 @@ Deux méthodes s'offrent à vous :
 
 Nous vous conseillons plutôt la première méthode. Les créatures n'ont pas vocation à suivre les mêmes règles que les PJ, et la seconde méthode donne souvent des DD très élevés et difficiles à surmonter pour vos PJ. Les monstres issus du bestiaire utilisent la première méthode. Toutefois, le DD indiqué peut être plus élevé ou plus faible de 2 à 3 points. Globalement, plus l'aptitude est puissante et risque de provoquer une situation délicate pour les PJ, plus vous pouvez abaisser le DD.
 
+### Valeurs et modificateurs
+Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
+
+§§§ .table-container
+#### Table des modificateurs
+
+| Valeur | Modificateur |
+|:-:|:-:|
+| **2-3** | -4 |
+| **4-5** | -3 |
+| **6-7** | -2 |
+| **8-9** | -1 |
+| **10-11** | 0 |
+| **12-13** | +1 |
+| **14-15** | +2 |
+| **16-17** | +3 |
+| **18-19** | +4 |
+| **20-21** | +5 |
+| **22-23** | +6 |
+| **24-25** | +7 |
+| **26-27** | +8 |
+| **28-29** | +9 |
+| **30** | +10 |
+§§§
+
 ### Sauvegardes et compétences
 Vous pouvez enfin choisir quelques maîtrises pour votre créature : compétences et sauvegardes. Si la créature est spécialisée dans un domaine, vous pouvez doubler son bonus de maîtrise lorsque vous calculez son score de compétence. Toutefois n'abusez pas de ces scores annexes, la plupart des créatures n'ont accès qu'à une ou deux compétences, et beaucoup de créatures faibles ne maîtrisent aucune sauvegarde, tandis que les plus puissantes en maîtrisent jusqu'à quatre (dragon adulte ou vénérable, par exemple).
 

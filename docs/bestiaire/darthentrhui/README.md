@@ -1,5 +1,5 @@
 ---
-title: "Darthenthui"
+title: "Darthentrhui"
 type: "Aberration"
 subtype: "Dieu"
 size: "Gig"
@@ -39,7 +39,6 @@ damageTypeImmunities:
   - "poison"
 languages:
   - "commun"
-  - "elfique"
   - "géant"
   - "infernal"
   - "sylvestre"
@@ -48,31 +47,39 @@ telepathy: 72
 
 ---
 ## Capacités
-_**Absorption de la trame**_. Quand Darthenthui contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
+_**Absorption de la trame**_. Quand Darthentrhui contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.   
 
-_**Inébranlable**_. Darthenthui ne peut pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  
+_**Résistance à la magie**_. Darthentrhui obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.  
 
-_**Résistance à la magie**_. Darthenthui obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.  
+_**Résistance légendaire (3/jour)**_. Si Darthentrhui rate un jet de sauvegarde, elle peut choisir à la place de le réussir.
 
-_**Résistance légendaire (3/jour)**_. Si Darthenthui rate un jet de sauvegarde, elle peut choisir à la place de le réussir.
+_**Présence divine**_. La présence de l'entité divine est tellement puissante que toute créature inférieure au niveau 10 doit réussir un test de sagesse (SAG) DD 22 ou être terrorisé. Au niveau 15 le DD est de 17. Au niveau 20, les créature ou les personnages sont immunisés à cet effet.  
+
+
 
 ## Actions
-_**Attaques multiples**_. Darthenthui effectue trois attaques.  
+_**Attaques multiples**_. Darthentrhui effectue trois attaques.  
 
-_**Pattes griffues**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+_**Pattes griffues empoisonnée**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 3 m, une cible.  
+_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
 ## Actions légendaires
-Darthenthui peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
+Darthentrhui peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
 
-_**Attaque**_. La Reine des sorcières fait une attaque.
+_**Attaque**_. Darthentrhui fait une attaque.
 
-_**Charmeuse**_. Darthenthui peut utiliser n'importe quel sort de l'école de Magie d'enchantement, la résistance à ses sorts est DD 22.
+_**Charmeuse**_. Darthentrhui peut utiliser n'importe quel sort de l'école de Magie d'enchantement, la résistance à ses sorts est DD 22.
 
-_**Aveuglement**_. Darthenthui désigne une cible qu'elle peut voir dans un rayon de 30 m. Cette cible doit réussir un jet de sauvegarde de Constitution DD 22 ou être aveuglée jusqu'à la fin de son tour suivant.
+_**Aveuglement**_. Darthentrhui désigne une cible qu'elle peut voir dans un rayon de 30 m. Cette cible doit réussir un jet de sauvegarde de Constitution DD 22 ou être aveuglée jusqu'à la fin de son tour suivant.
 
 ## Description  
+Déesse Primaire/Intermédiaire  
+Symbole : Une araignée  
+Plan d’origine :  
+Attribution : Désir, sexe, jalousie, trahison, ivresse  
+Adorateur : De nombreuse personne dans le secret Domaine : Désir, Jalousie, Trahison  
+Arme de prédilection : dard  
 Darthentrhui, déesse du désir, de la débauche et de l’ambition est dépeinte dans des fresques de bien différentes façon ( tout dépend du fantasme de l’artiste ), mais toujours avec des pattes d’araignées très longues dans son dos qui touche le sol. Le bas de son corps, bien que l’on voit l’objet du désir humain, se termine par le dard d’une araignée. De nombreux fils entourent la représentation, de façon à faire penser à une épaisse toile d’araignée pour symboliser le désir, la débauche et l’ambition qui fini tôt ou tard par attraper sa proie, en l’occurrence les hommes. Cette déesse a été l’origine d’une multitude de coups d’État, d’adultères et de vies médiocres remplies de prostitués et d’alcool.   Darthentrhui n’a jamais été priée par un culte établi, et elle n’en a pas besoin. Car malgré tout, elle finit toujours par tisser sa toile toxique dans la vie du plus innocent des hommes. Elle tire son pouvoir de toutes les actions de trahison, les sentiments de jalousie qu’elle produit chez les hommes. Elle tire sa puissance de son autosuffisance à se procurer de la puissance. Ceux qui la prient le font dans le secret et utilisent souvent le dard comme arme.   
 
 ## Dogme  

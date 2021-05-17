@@ -443,6 +443,10 @@ module.exports = {
             path: '/batailles/'
           },
           {
+            title: "Le commerce",
+            path: '/commerce'
+          },
+          {
             title: "Les objets",
             path: '/objets-opposition/'
           },
@@ -456,6 +460,10 @@ module.exports = {
         title: 'Le monde de Douaratil',
         icon: 'mdi-map',
         children: [
+          {
+            title: "Dieux, Divinités & autres forces",
+            path: '/dieux-divinites'
+          },
           {
             title: "Les chroniques",
             children: [

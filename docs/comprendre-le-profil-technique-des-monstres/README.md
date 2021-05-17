@@ -237,7 +237,7 @@ Le monstre dispose d'une liste de sorts connus ou préparés issus d'une classe 
 Vous pouvez changer les sorts connus d'un monstre en remplaçant chaque sort par un autre de même niveau et issu de la liste associée à la même voie magique. Si vous changez des sorts de cette façon, le monstre peut représenter une menace plus ou moins dangereuse que celle suggérée par son indice de dangerosité.
 
 ### Incantation innée
-Un monstre capable de lancer des sorts de manière innée possède le trait spécial « _incantation innée_ ». Sauf indication contraire, un sort inné de niveau 1 ou plus est toujours lancé au niveau le plus bas possible et jamais à un niveau plus élevé. Si un monstre connaît un tour de magie pour lequel son niveau de lanceur de sorts importe mais qu'aucun niveau n'est précisé, prenez l'indice de dangerosité du monstre comme niveau.
+Un monstre capable de lancer des sorts de manière innée possède le trait spécial « _incantation innée_ ». Sauf indication contraire, un sort inné de niveau Novice ou plus est toujours lancé au niveau le plus bas possible et jamais à un niveau plus élevé. Si un monstre connaît un tour de magie pour lequel son niveau de lanceur de sorts importe mais qu'aucun niveau n'est précisé, prenez l'indice de dangerosité du monstre comme niveau.
 
 Des règles ou des restrictions spéciales peuvent modifier l'utilisation d'un sort inné. Par exemple, un mage drow peut lancer de manière innée le sort de [_lévitation_](/grimoire/levitation/), mais ce sort impose une restriction « _soi-même_ », ce qui signifie qu'il affecte le mage drow seulement.
 

@@ -71,7 +71,7 @@ _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 §§§ .hero
 ### Présentation:  
-Gaenor est le chef du clan Lugeto et le Genos de Geunddon. Il règne en maître sur la principale agglomération, la ville de Caohaydhan.  
+Gaenor est le chef du clan Lugeto et le Genos de Geunddon. Il règne en maître sur la principale agglomération, la ville de Caohaydhan. Gaenor est mort crucifié le 10 Miz Ebrel 721 après le sacrifice de sa fille par le Cercle de la nuit et l'insurrection du clan Nantono dirigé par Britomartos.   
 §§§
 
 §§§ .hero
