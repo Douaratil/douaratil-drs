@@ -191,10 +191,10 @@ module.exports = {
     domain: 'https://douaratil.fr',
     repository: 'https://github.com/douaratil/heros-et-dragons-drs',
     kofi: 'https://ko-fi.com/douaratil',
-    forum: 'https://www.black-book-editions.fr/forums.php?board_id=115',
+    twitter: 'https://twitter.com/douaratil',
     discord: 'https://discord.gg/vRXeVwrNvK',
-    primaryColor: '#5B3C11', // Hero
-    accentColor: '#730800', // Dragon
+    primaryColor: '#4D5153', // Hero
+    accentColor: '#293E4D', // Dragon
     searchPlaceholder: 'Recherche',
     nav: [
       { text: 'Home', link: '/' },

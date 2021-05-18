@@ -45,7 +45,8 @@ Bon jeu à tout le monde !
 ### À propos de ce site
 &nbsp;
 <v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/vRXeVwrNvK), pour discuter de ce site.  
-<v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
+<v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.
+<v-icon>mdi-forum</v-icon> [Twitter Douaratil](https://twitter.com/douaratil), pour les annonces des mises à jour régulières.
 
 </v-col>
 

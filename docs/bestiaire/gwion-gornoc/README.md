@@ -98,7 +98,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 4327 PA, 31 PE, 1948 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles.
+3602 PC, 4327 PA, 31 PE, 1913 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
 §§§
 
 §§§ .hero
@@ -127,6 +127,7 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Patrimoine  
 **Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+**Apoticaire de Caohaydan** : 3d6 po
 §§§
 
 §§§ .hero
@@ -139,10 +140,11 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 19 320
+**XP acquis** : 19 335
 **Points de Magie** :38
 **Points de Foi** :10  
 **Points d'honneur** :31  
 **Inspirations religieuses** : 0 (culte à Lhaothlastholo)
 Note : une cousine blessée
+**Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§
