@@ -208,117 +208,146 @@ module.exports = {
         children: [
           {
             title: "Création du personnage",
+            icon: 'mdi-drama-masks',
             path: '/creation-du-personnage/'
           },
           {
             title: 'Les ethnies',
+            icon: 'mdi-human-male-female',
             path: '/ethnies/',
           },
           {
             title: "Personnalité & Historique",
+            icon: 'mdi-human-greeting',
             path: '/personnalite-et-historique/',
           },
           {
             title: "Les trois voies",
+            icon: 'mdi-axis-arrow',
             path: '/voies/',
           },
           {
             title: "Les Archétypes",
+            icon: 'mdi-human-queue',
             children: [
           {
               title: "Ambeanamos",
+              icon: 'mdi-auto-fix',
               path: '/archetypes/ambeanamos',
             },
           {
               title: "Astartes",
+              icon: 'mdi-sword',
               path: '/archetypes/astartes',
             },
           {
               title: "Bhaner",
+              icon: 'mdi-guitar-acoustic',
               path: '/archetypes/bhaner',
             },
           {
               title: "Bhegelm",
+              icon: 'mdi-celtic-cross',
               path: '/archetypes/bhegelm',
             },
           {
               title: "Dall Dawnser",
+              icon: 'mdi-sword',
               path: '/archetypes/dall-dawnser',
             },
           {
               title: "Drodan",
+              icon: 'mdi-celtic-cross',
               path: '/archetypes/drodan',
             },
           {
               title: "Fürtane",
+              icon: 'mdi-sword',
               path: '/archetypes/furtane',
             },
           {
               title: "Gwylwir",
+              icon: 'mdi-sword',
               path: '/archetypes/gwylwir',
             },
           {
               title: "Herredyr",
+              icon: 'mdi-paw',
               path: '/archetypes/herredyr',
             },
           {
               title: "Holtseidar",
+              icon: 'mdi-celtic-cross',
               path: '/archetypes/holtseidar',
             },
           {
               title: "Ior",
+              icon: 'mdi-sword',
               path: '/archetypes/ior',
             },
           {
               title: "Jargl",
+              icon: 'mdi-sword',
               path: '/archetypes/jargl',
             },
           {
               title: "Jörghal",
+              icon: 'mdi-sword',
               path: '/archetypes/jorghal',
             },
-            {
-                title: "Legatos",
-                path: '/archetypes/legatos',
-              },
+          {
+              title: "Legatos",
+              icon: 'mdi-knife-military',
+              path: '/archetypes/legatos',
+            },
           {
               title: "Llawenos",
+              icon: 'mdi-guitar-acoustic',
               path: '/archetypes/llawenos',
             },
           {
               title: "Magios",
+              icon: 'mdi-auto-fix',
               path: '/archetypes/magios',
             },
           {
               title: "Nayane",
+              icon: 'mdi-knife-military',
               path: '/archetypes/nayane',
             },
           {
               title: "Seibahkami",
+              icon: 'mdi-sword',
               path: '/archetypes/seibahkami',
             },
           {
               title: "Sermazloth",
+              icon: 'mdi-sword',
               path: '/archetypes/sermazloth',
             },
           {
               title: "Shangharah",
+              icon: 'mdi-celtic-cross',
               path: '/archetypes/Shangharah',
             },
           {
               title: "Skell",
+              icon: 'mdi-guitar-acoustic',
               path: '/archetypes/skell',
             },
           {
               title: "Sohoten",
+              icon: 'mdi-sword',
               path: '/archetypes/sohoten',
             },
           {
               title: "Sorser",
+              icon: 'mdi-auto-fix',
               path: '/archetypes/sorser',
             },
           {
               title: "Vitnar",
+              icon: 'mdi-celtic-cross',
               path: '/archetypes/vitnar',
             },
 
@@ -326,30 +355,37 @@ module.exports = {
           },
           {
             title: "Equipement",
+            icon: 'mdi-gavel',
             path: '/equipement/',
           },
           {
             title: 'Utiliser les caractéristiques',
+            icon: 'mdi-weight-lifter',
             path: '/utiliser-les-caracteristiques/'
           },
           {
             title: "Partir à l'aventure",
+            icon: 'mdi-campfire',
             path: '/partir-a-l-aventure/'
           },
           {
             title: "Combattre",
+            icon: 'mdi-sword-cross',
             path: '/combattre/'
           },
           {
             title: "Gérer la santé du personnage",
+            icon: 'mdi-account-heart',
             path: '/gerer-la-sante-du-personnage/'
           },
           {
             title: "Lancer des sorts",
+            icon: 'mdi-atom-variant',
             path: '/lancer-des-sorts/'
           },
           {
             title: 'Grimoire',
+            icon: 'mdi-firebase',
             path: '/grimoire/'
           },
         ]
@@ -360,146 +396,190 @@ module.exports = {
         children: [
           {
             title: "Créatures & oppositions",
+            icon: 'mdi-snake',
             children: [
               {
                 title: "Comprendre le profil technique des monstres",
+                icon: 'mdi-ghost',
                 path: '/comprendre-le-profil-technique-des-monstres/'
               },
               {
                 title: "Inventer un monstre ou un PNJ",
+                icon: 'mdi-ghost-outline',
                 path: '/inventer-un-monstre-ou-un-pnj/'
               },
               {
                 title: "Construire une rencontre",
+                icon: 'mdi-halloween',
                 path: '/construire-une-rencontre/'
               },
               {
                 title: "Bestiaire & rencontres",
+                icon: 'mdi-paw',
                 path: '/bestiaire/'
               },
             ]
           },
           {
             title: "Trésors & objets magiques",
+            icon: 'mdi-gift-open',
             children: [
               {
                 title: "Les trésors",
+                icon: 'mdi-gift',
                 path: '/les-tresors/'
               },
               {
                 title: "Objets magiques",
+                icon: 'mdi-star-circle',
                 path: '/objets-magiques/'
               },
               {
                 title: "Liste des objets magiques",
+                icon: 'mdi-script-text',
                 path: '/liste-objets-magiques/'
               },
             ]
           },
           {
             title: "Pièges & dangers",
+            icon: 'mdi-spider',
             children: [
               {
                 title: "Les pièges",
+                icon: 'mdi-spider-thread',
                 path: '/pieges/'
               },
               {
                 title: "Les maladies",
+                icon: 'mdi-heart-pulse',
                 path: '/maladies/'
               },
               {
                 title: "Les poisons",
+                icon: 'mdi-mushroom',
                 path: '/poisons/'
               },
               {
                 title: "La folie",
+                icon: 'mdi-freebsd',
                 path: '/folie/'
               },
             ]
           },
           {
             title: "Domaine, famille & destinée",
+            icon: 'mdi-castle',
             children: [
               {
                 title: "Gestion de l'honneur",
+                icon: 'mdi-crown',
                 path: '/passion-honneur-et-interactions-sociales/'
               },
               {
                 title: "Gestion de la famille et des biens",
+                icon: 'mdi-fireplace',
                 path: '/intermedes/'
               },
               {
                 title: "Gestion du domaine",
+                icon: 'mdi-home-flood',
                 path: '/domaine/'
               },
               {
                 title: "L'expérience",
+                icon: 'mdi-upload',
                 path: '/experience/'
               }
             ]
           },
           {
             title: "Les batailles",
+            icon: 'mdi-shield',
             path: '/batailles/'
           },
           {
             title: "Le commerce",
+            icon: 'mdi-sack',
             path: '/commerce'
           },
           {
             title: "Les objets",
+            icon: 'mdi-weight',
             path: '/objets-opposition/'
           },
           {
             title: "Les plantes",
+            icon: 'mdi-flower',
             path: '/herbier/'
           }
         ]
       },
       {
         title: 'Le monde de Douaratil',
-        icon: 'mdi-map',
+        icon: 'mdi-earth',
         children: [
           {
             title: "Dieux, Divinités & autres forces",
+            icon: 'mdi-shuriken',
             path: '/dieux-divinites'
           },
           {
             title: "Les chroniques",
+            icon: 'mdi-script',
             children: [
               {
                 title: "Miz du 720",
+                icon: 'mdi-script-text-outline',
                 path: '/chroniques/miz-du-720'
               },
               {
                 title: "Miz Kerzu 720",
+                icon: 'mdi-script-text-outline',
                 path: '/chroniques/miz-kerzu-720'
               },
               {
                 title: "Miz Genver 721",
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-genver-721'
               },
               {
                 title: "Miz Favros 721",
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-favros-721'
               },
               {
                 title: "Miz Morz 721",
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-morz-721'
               },
               {
                 title: "Miz Ebrel 721",
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-ebrel-721'
               },
               {
                 title: "Miz Mae 721",
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-mae-721'
               },
             ]
           },
           {title: "Atlas",
-           children: [{title: "Carte du monde", path:'/atlas-du-monde/carte-du-monde'},
-        {title: "Douaratil", path:'/atlas-du-monde/douaratil'}]}
+          icon: 'mdi-wallpaper',
+           children: [
+              {
+                title: "Carte du monde",
+                icon: 'mdi-map-search',
+                path:'/atlas-du-monde/carte-du-monde'
+              },
+              {
+                title: "Douaratil",
+                icon: 'mdi-map-search-outline',
+                path:'/atlas-du-monde/douaratil'
+              }
+            ]
+    }
         ]
       },
       {type: 'divider'},

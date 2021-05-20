@@ -1,7 +1,7 @@
 ---
 title: "Khoulggotateelle"
 type: "Aberration"
-subtype: "Dieu"
+subtype: "Déesse"
 size: "Gig"
 alignment: "Neutre"
 challenge: "30"
@@ -71,7 +71,7 @@ _Touché_ : 20 dégâts tranchants et JS de constitution DD 25 ou flétrissement
 
 
 ## Actions légendaires
-*** peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
+Khoulggotateelle peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
 
 _**Attaque**_. Khoulggotateelle fait une attaque.
 
@@ -86,12 +86,12 @@ Déesse du destin
 Khoulggotateelle  
 Elle, l’Indéfinissable  
 Déesse Primaire  
-Symbole : 9 flèches sur un cœur ou sur une poitrine, entourées de tresses de cheveux humains.   
-Plan d’origine : Le Simulacre du Paradis de  Khoulggotateelle  
-Attribution : Mort, cœur, tresse   
-Adorateur : aucun officiellement Alignement des prêtres : N, s’il y a encore des prêtres  
-Domaine : Mort, Destin  
-Arme de prédilection : fouet   
+**Symbole** : 9 flèches sur un cœur ou sur une poitrine, entourées de tresses de cheveux humains.   
+**Plan d’origine** : Le Simulacre du Paradis de  Khoulggotateelle  
+**Attribution** : Mort, cœur, tresse   
+**Adorateur** : aucun officiellement Alignement des prêtres : N, s’il y a encore des prêtres  
+**Domaine** : Mort, Destin  
+**Arme de prédilection** : fouet   
 Khoulggotateelle, déesse du destin et en particulier de la mort est dépeinte dans de vielles sculptures de bois comme une grande femme, maigre et nue, s’écartant la poitrine pour laisser apercevoir un trou béant. Elle tient dans sa bouche son cœur saignant, criblé de nombreuses flèches. La plupart du temps, le cœur est transpercé de 9 flèches, le nombre 9 représentant la fin d’un cycle ou le renouveau. Elle possède comme cheveux 9 tresses irrégulières et de couleur différentes. Elle ne possède pas d’yeux si ce n’est des morceaux de charbon. On dit qu’elle vole les yeux des personnes aveugles pour recouvrir la vue. La déesse primaire tresse les cheveux qui représente la vie, jusqu’à ce qu’il n’y en ait plus ou jusqu’à ce qu’elle les coupe. Cette déesse a créé une chose dans l’univers : le destin. Celui qui est inamovible. On dit qu’elle a aussi créée le hasard. Cette déesse a disparue à une date inconnue. On présume qu’elle a disparue à cause de l’avancée des civilisation et donc la disparition des rites anciens et primitifs. D’autre plus intellectuel, qui y croient encore, pense qu’elle n’a pas voulue connaître son propre destin dans le risque de finir déchue par un dieu plus ambitieux et plus puissant. Cependant, certain village et peuple, où l’inceste, les sacrifices humains, la polygamies sont encore chose très communes, vénèrent encore ce reliquat d’un âge où les peuples humanoïdes n’étaient qu’à leur prémices. Cette ancienne divinité paraît-il, est quelqu’un d’indifférente aux prières et aux supplications de ses fidèles, qui retire sans vergogne la vie au plus innocent des enfants. Elle tire son pouvoir de la terreur qu’elle afflige aux mortels et par leurs prières, elle devient plus puissante. Elle est l'une des sources de la nécromancie.  
 
 

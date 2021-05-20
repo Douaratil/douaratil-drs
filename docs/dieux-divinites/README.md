@@ -14,4 +14,5 @@ Si un dieu est confronté et défait, il se reconstitue dans un délai correspon
 Parmi les dieux connus nous pouvons citer:  
 
 - [Darthentrhui](/bestiaire/darthentrhui), déesse du désir, de la débauche et de l’ambition.
-- [Khoulggotateelle](/bestiaire/khoulggotateelle), du destin et en particulier de la mort.
+- [Khoulggotateelle](/bestiaire/khoulggotateelle), déesse du destin et en particulier de la mort.
+- [Sathyakurm’de](/bestiaire/Sathyakurm-de), déesse des héros, des exploits et des leaders.

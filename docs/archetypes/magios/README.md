@@ -77,5 +77,5 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 
 ### Orateur suprême  
 **En Alcante : Oratori**  
-À partir du niveau 20, vous pouvez utiliser votre énergie charismatique pour influencer tous vos interlocuteurs. Lorsque vous puisez cette énergie, les gens ont tendance à être amical envers vous. Vous avez un avantage sur toutes les compétences sociales durant 1d6 round. Vous doublez les dégâts durant und un social.  
+À partir du niveau 20, vous pouvez utiliser votre énergie charismatique pour influencer tous vos interlocuteurs. Lorsque vous puisez cette énergie, les gens ont tendance à être amical envers vous. Vous avez un avantage sur toutes les compétences sociales durant 1d6 round. Vous doublez les dégâts durant un duel social.  
 Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un repos long.   

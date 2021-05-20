@@ -1,7 +1,7 @@
 ---
 title: "Darthentrhui"
 type: "Aberration"
-subtype: "Dieu"
+subtype: "Déesse"
 size: "Gig"
 alignment: "Chaotique Neutre"
 challenge: "24"
@@ -75,11 +75,11 @@ _**Aveuglement**_. Darthentrhui désigne une cible qu'elle peut voir dans un ray
 
 ## Description  
 Déesse Primaire/Intermédiaire  
-Symbole : Une araignée  
-Plan d’origine :  
-Attribution : Désir, sexe, jalousie, trahison, ivresse  
-Adorateur : De nombreuse personne dans le secret Domaine : Désir, Jalousie, Trahison  
-Arme de prédilection : dard  
+**Symbole** : Une araignée  
+**Plan d’origine** :  -
+**Attribution** : Désir, sexe, jalousie, trahison, ivresse  
+**Adorateur** : De nombreuse personne dans le secret Domaine : Désir, Jalousie, Trahison  
+**Arme de prédilection** : dard  
 Darthentrhui, déesse du désir, de la débauche et de l’ambition est dépeinte dans des fresques de bien différentes façon ( tout dépend du fantasme de l’artiste ), mais toujours avec des pattes d’araignées très longues dans son dos qui touche le sol. Le bas de son corps, bien que l’on voit l’objet du désir humain, se termine par le dard d’une araignée. De nombreux fils entourent la représentation, de façon à faire penser à une épaisse toile d’araignée pour symboliser le désir, la débauche et l’ambition qui fini tôt ou tard par attraper sa proie, en l’occurrence les hommes. Cette déesse a été l’origine d’une multitude de coups d’État, d’adultères et de vies médiocres remplies de prostitués et d’alcool.   Darthentrhui n’a jamais été priée par un culte établi, et elle n’en a pas besoin. Car malgré tout, elle finit toujours par tisser sa toile toxique dans la vie du plus innocent des hommes. Elle tire son pouvoir de toutes les actions de trahison, les sentiments de jalousie qu’elle produit chez les hommes. Elle tire sa puissance de son autosuffisance à se procurer de la puissance. Ceux qui la prient le font dans le secret et utilisent souvent le dard comme arme.   
 
 ## Dogme  

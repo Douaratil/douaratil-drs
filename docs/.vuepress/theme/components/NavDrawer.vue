@@ -90,13 +90,13 @@
               </v-list-item-title>
             </v-list-item-content>
           </template>
-          <v-list-item v-if="$site.themeConfig.forum" link :href="$site.themeConfig.forum" target="_blank">
+          <v-list-item v-if="$site.themeConfig.twitter" link :href="$site.themeConfig.twitter" target="_blank">
             <v-list-item-icon>
-              <v-icon>mdi-forum</v-icon>
+              <v-icon>mdi-twitter</v-icon>
             </v-list-item-icon>
             <v-list-item-content>
               <v-list-item-title>
-                Forum
+                Twitter
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>

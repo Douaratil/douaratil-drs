@@ -1,7 +1,7 @@
 ---
 title: "Equipement"
 ---
-# Système monétaire
+# Système monétaire  
 La monnaie se présente sous plusieurs formes et dénominations en fonction de la valeur du métal qui la compose. Les trois types de pièces les plus courantes sont les **pièces d'or** (po), les **pièces d'argent** (pa) et les **pièces de cuivre** (pc).
 
 Une pièce d'or vaut 10 pièces d'argent, qui est la pièce la plus courante parmi la population générale. Une pièce d'argent permet d'embaucher un ouvrier pour la moitié d'une journée, de remplir une lampe d'huile pour la nuit ou de passer la nuit dans une auberge miteuse.
