@@ -44,7 +44,7 @@ category: "PJ"
 **Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  
 **Outils maîtrisés**. Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
-**Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
+**Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.  
 **Aptitude**. [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
 
 _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  

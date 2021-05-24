@@ -33,11 +33,11 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial' "
+  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
 category: "PJ"
 ---
 ## Capacités
-_**Historique  Inquisiteur:**_.   
+_**Historique**. Inquisiteur.   
 **Compétences**. Intimidation, Religion.  
 **Outils maîtrisés**. Matériel de calligraphie.  
 **Langues maîtrisées**. Une langue au choix.  
@@ -48,7 +48,7 @@ _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Gla
 
 _**Voie des armes & Bhegelm**_. Margs est niveau 6 dans la voie des armes et Archétype Bhegelm.
 
-_**Style de Combat à deux armes** *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+_**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
 _**Second souffle**_. *(Armes)* Margs jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 

@@ -38,7 +38,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 
 ### Expert
 **En Melg : Ekspert**  
-À partir du niveau 3, en remplacement de l'aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix. Vous pouvez choisir deux compétences parmi celles que vous maîtrisez déjà, et dans ce cas vous doublez leur bonus de maîtrise.  
+À partir du niveau 3, vous obtenez la maîtrise de deux compétences supplémentaires au choix. Vous pouvez choisir deux compétences parmi celles que vous maîtrisez déjà, et dans ce cas vous doublez leur bonus de maîtrise.  
 
 ### Oeil du gardien des runes
 **En Melg : Oye Vaktare Runa**  

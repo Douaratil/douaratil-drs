@@ -47,7 +47,7 @@ category: "PJ"
 ---
 
 ## Capacités
-_**Historique Limier:**_.    
+_**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
 **Outils maîtrisés**. Accessoires de déguisement, outils de voleur.  
 **Équipement**. Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
@@ -58,7 +58,7 @@ _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, gl
 _**Voie des Ombres & Llawenos**_. Lôchetos est niveau 6 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
-(Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)
+(Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)  
 )
 _**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
 Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.

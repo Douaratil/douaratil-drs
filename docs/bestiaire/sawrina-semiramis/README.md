@@ -40,7 +40,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) "
+  - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
 category: "PJ"
 ---
 ## Capacités

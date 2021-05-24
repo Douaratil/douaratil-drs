@@ -74,4 +74,19 @@ Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un p
 [Gwion](/bestiaire/gwion-gornoc) part en direction de Thaouet à cheval. Il continue d’apprendre ses sorts. Il offre à nouveau des cadeaux à Lhaothlastolho.
 
 **16 Miz Mae**
-[Gwion](/bestiaire/gwion-gornoc), arrivé à Thaouet prend une chambre en ville et va voir l’échoppe qu’il avait repéré il y a plusieurs mois déjà du nom « Les mystères d’Orient » tenue par Osrath Ibn Zendrim. Il achète 20 doses de fortiliane et se renseigne sur les différents articles de son échoppe.
+[Gwion](/bestiaire/gwion-gornoc), arrivé à Thaouet prend une chambre en ville et va voir l’échoppe qu’il avait repéré il y a plusieurs mois déjà du nom « Les mystères d’Orient » tenue par Osrath Ibn Zendrim. Il achète 20 doses de fortiliane et se renseigne sur les différents articles de son échoppe.  
+
+**17 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) termine d’apprendre le sort « contresort » et se renseigne sur l’endroit où il pourrait trouver une oracle. Il apprend qu’une devineresse du nom d’Aodrena War Arc’hant réside sur l’île d’Avelhaden. Le temps est à l'orage est n'est pas propice pour naviguer. De lourds nuages et du vent balayent les côtes ouest.  
+
+**18 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) repart à cheval pour l’île d’Avelhaden et confie sa route aux mains des dieux. Sur le chemin, il étudie à nouveau les parchemins de son ancien maître.  
+
+**23 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) arrive à Kerzu. Il profite de ce moment pour soigner sa cousine malade, et cherche un groupe de matelot capable de naviguer jusqu’à l’île d’Avelhaden. Personne ne souhaite traverser la mer pour une telle destination.  
+
+**24 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) cherche encore une fois un bateau capable de l’emmener sur l’île mais en vain. Sa cousine se porte déjà mieux, et il connaît désormais le sortilège « dissipation de la magie ».  
+
+**25 Miz Mae**
+Gwion trouve enfin un équipage capable de l’emmener sur l’île redoutée. Il profite de la traversée pour étudier d’autres parchemins malgré les nausées qui lui tenaillent l'estomac. Il place un seau à côté de lui pour vomir à loisir sans risquer d'abimer les parchemins.  
