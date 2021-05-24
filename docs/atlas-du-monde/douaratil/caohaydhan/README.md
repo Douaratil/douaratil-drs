@@ -37,9 +37,9 @@ Caohaydhan, ne possède aucune protection particulière sauf ses habitants et sa
 Les 4 portes de la ville devaient être belles mais l'humidité ambiante à déposé dessus de la moisissure et des champignons se sont développés.  
 
 **Protection en hommes**
-Gaenor Lugeto peut compter sur 30 guerriers expérimentés (Voie des armes profil Novice) dont 10 Ioros (Ior profil Disciple ), fanatiquement fidèles.
+Gaenor Lugeto peut compter sur 30 guerriers expérimentés (Voie des armes profil Novice) dont 10 Ioros (Ior profil Disciple ), fanatiquement fidèles.  
 On retrouve également quelques 45 hommes d'arme, formés de quelques villageois maniant maladroitement épée et arc...  
-Il est également possible de demander de l'aide aux aventurier présent à Caohaydhan  
+Il est également possible de demander de l'aide aux aventuriers présents à Caohaydhan.  
 
 ### Détails des nobles, professionnels, religieux ou assimilés, aventuriers et héros
 La région est tenues par différentes grandes familles meldètes dont voici les principales : Atho, Balaeso, Braamo, Bregetho, Brombiro, Cenalo, Dagano, Dogardo, Dolasatho, Easo, Fiodo, Gornoc, Hethuso, Hizino, Jaino, Jidilo, Losalo, Lugeto, Macaro, Marasieno, Nantono, Perano, Peribrerto, Pimalo, Potasiono, Raerto, Setero, Skarpo, Thetano, Vebro, Veco, Vlatcano, Vosego

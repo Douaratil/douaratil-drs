@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Foi
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 **Enchantement** Le lanceur de sort enchante une Torche et du souffre. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  

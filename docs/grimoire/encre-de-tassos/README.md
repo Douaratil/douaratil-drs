@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante de l'encre de pieuvre de la baie d'émeraude. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  

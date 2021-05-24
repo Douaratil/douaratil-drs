@@ -16,7 +16,7 @@ ritual: false
 classes:
   - Magie
   - Foi
-source: "Lôchetos"
+source: "Georges"
 ---
 **Coût** : 4 points de Magie ou de Foi  
 

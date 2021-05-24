@@ -11,7 +11,8 @@ title: Douaratil
 ## Aradon (Feurm)  
 
 ## Avelhaden
-Grande île au sud de Douaratil, « Le vent semé »  
+Cette grande île au sud de Douaratil,  signifie « Le vent semé » et en effet, force est de constaté que les vents sont présents et balayent ses terres de leurs rafales rageuses. Séparée des terre par la Mor Skhoumaen, Avelhaden n’abrite qu’une seule ville portuaire de Dinas Môr-leidr. Les deux petites îles plus au sud ne sont pas habitées car considérées comme maudites et la navigation à proximité est rendue très hasardeuse par des récifs à fleur d’eau.  
+Derrière la cité portuaire, de grandes collines s’élèvent. De l’autre côté sur toutes la côte, une forêt traverse l’île de bas en haut. Avelhaden est connu pour principalement deux choses, d’abord les activités de piraterie sur les lignes commerciales de Kerzu et de Thaouet. Dinas Môr-leidr est un lieu peu fréquentable où se retrouve une grande partie des laissés pour compte du continent; et d’autre part, pour son oracle Aodrena War Arc’hant, ce qui signifie Aodrena Feu d’Argent.  
 
 ## Beloen  
 
@@ -87,7 +88,7 @@ Le cercle de Pierre. Il s'agit d'un lieu où sont dressés d'antiques mégalithe
 ## Keryen
 
 ## Kerzu
-Ville Sud
+Kerzu est la ville portuaire du sud de Douaratil qui est la plus prospère. Sans atteindre la richesse et le prestige de Thaouet, de nombreux bateaux de l'empire alcante et des royaumes de shahias viennent y proposer leurs marchandises pour la zone économique de Lornac.
 
 ## Koaddon (Foret de) 
 Forêt profonde
@@ -121,7 +122,7 @@ village meldète.
 Rempart naturel entre les royaumes meldètes, khernaës et les grandes plaines de Thyria à l'est. Ce rempart coupe les terres du nord au sud.   
 
 ## Môr-leidr (Dinas)
-Ville pirate
+Dinas Môr-leidr est une ville portuaire pirate construite sur les vestiges d'un ancien fort alcante. Adossée à des falaises, elle est facilement défendable et depuis que des pirates, il y  a de cela très longtemps, ont pris par ruse la place forte, elle n'a jamais été reprise. Naturellement, cette ville portuaire est devenue un lieu où tous les trafics se font et échappent aux lois des Reks et des Genos. Même les navigateurs shahims évitent la zone et font souvent du cabotage pour atteindre Kerzu.  
 
 ## Norshez Dentaes
 Dents du nordiques   

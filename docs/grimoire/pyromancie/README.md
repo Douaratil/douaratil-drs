@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 8 points de Magie  
 **Enchantement** e lanceur de sort enchante un quartz. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  

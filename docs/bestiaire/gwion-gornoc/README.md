@@ -98,7 +98,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 4327 PA, 31 PE, 1913 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
+3602 PC, 4327 PA, 31 PE, 1778 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
 §§§
 
 §§§ .hero
@@ -114,12 +114,12 @@ un petit fil de cuivre enchanté.
 ### Sorts connus:  
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
+**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
 [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Oeil magique](/grimoire/oeil-magique)  
+[Contresort](/grimoire/contresort), [Oeil magique](/grimoire/oeil-magique)      
 
 **Sorts possédés à apprendre** : néant
 §§§
@@ -140,11 +140,11 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 19 335
+**XP acquis** : 19 505
 **Points de Magie** :38
 **Points de Foi** :10  
 **Points d'honneur** :31  
-**Inspirations religieuses** : 0 (culte à Lhaothlastholo)
+**Inspirations religieuses** : 2 (culte à Lhaothlastholo)
 Note : une cousine blessée
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§

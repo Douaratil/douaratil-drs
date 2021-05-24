@@ -1,3 +1,4 @@
+
 <template>
   <v-app class="srd">
 
@@ -132,7 +133,7 @@ export default {
     const L5R = Cookies.get('heros-et-dragons-l5r')
     this.$store.state.l5r = L5R
 
-    // Chargement des donées utilisateur depuis le navigateur
+    // Chargement des données utilisateur depuis le navigateur
     this.$store.commit('mySpells/initialiseStore')
     this.$store.commit('myMonsters/initialiseStore')
     this.$store.commit('myMagicItems/initialiseStore')

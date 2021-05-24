@@ -525,6 +525,22 @@ module.exports = {
             path: '/dieux-divinites'
           },
           {
+            title: "Les peuples",
+            icon: 'mdi-script',
+            children: [
+              {
+                title: "Les Khernaës",
+                icon: 'mdi-dna',
+                path: '/peuples/khernaes'
+              },
+              {
+                title: "Les Oynours",
+                icon: 'mdi-dna',
+                path: '/peuples/oynours'
+              }
+              ]
+              },
+            {
             title: "Les chroniques",
             icon: 'mdi-script',
             children: [

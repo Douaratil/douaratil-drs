@@ -16,7 +16,7 @@ ritual: true
 classes:
     - Magie  
     - Foi
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un linge, graisse de carnivore, agate ( destruction après utilisation ), peau de carnivore, cœur de volatile. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  

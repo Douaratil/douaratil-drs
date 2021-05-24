@@ -5,7 +5,7 @@ subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
 challenge: "6"
-customHP: "25"
+customHP: "28"
 abilityScores:
   for: 10
   dex: 18
@@ -105,5 +105,5 @@ Sawrina possède 4 PA, 36 PE & 1322 PO, 5 PP.
 **XP acquis** : 14 180  
 **Points de Magie** :10  
 **Points de Foi** :10   
-**Points d'honneur** :25  
+**Points d'honneur** :27  
 §§§

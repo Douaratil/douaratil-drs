@@ -1,5 +1,6 @@
 ---
 title: Commerce (Règles optionnelles)
+source: "Georges"
 ---
 # Le commerce :  
 **Ces règles sont le fruit du cerveau (malade?) de Georges, joueur de Lôchetos. Merci à lui.**

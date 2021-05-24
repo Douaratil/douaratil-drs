@@ -15,7 +15,7 @@ components:
 ritual: false
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 L’enchantement permet de propager ou de réduire un feu de 1 mètre tout les 2 rounds dans n’importe quelle direction. Ce feu peut se déplacer sur toute les matières, sauf l’eau.   

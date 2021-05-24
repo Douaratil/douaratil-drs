@@ -1,11 +1,11 @@
 ---
 title: "Khoulggotateelle"
 type: "Aberration"
-subtype: "Déesse"
+subtype: "Déesse primaire"
 size: "Gig"
 alignment: "Neutre"
 challenge: "30"
-customHP: "***"
+customHP: "700"
 abilityScores:
   for: 27
   dex: 24
@@ -49,6 +49,7 @@ languages:
   - "sylvestre"
 
 telepathy: 72
+source: "Elric"
 
 ---
 ## Capacités
@@ -63,10 +64,10 @@ _**Présence divine**_. La présence de l'entité divine est tellement puissante
 ## Actions
 _**Attaques multiples**_. Khoulggotateelle effectue six attaques.  
 
-_**griffes**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 3 m, une cible.  
+_**griffes**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 20 dégâts perforants.
 
-**Fouet**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 3 m, une cible.  
+**Fouet**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 20 dégâts tranchants et JS de constitution DD 25 ou flétrissement mortel de 1d6 cumulatif par round (1d6 le premier round, 2d6 le second, 3d6 le troisième etc...)(finesse, allonge)
 
 
@@ -83,9 +84,7 @@ _**Hémorragie**_. Khoulggotateelle désigne une cible qu'elle peut voir dans un
 
 ## Description  
 Déesse du destin  
-Khoulggotateelle  
 Elle, l’Indéfinissable  
-Déesse Primaire  
 **Symbole** : 9 flèches sur un cœur ou sur une poitrine, entourées de tresses de cheveux humains.   
 **Plan d’origine** : Le Simulacre du Paradis de  Khoulggotateelle  
 **Attribution** : Mort, cœur, tresse   

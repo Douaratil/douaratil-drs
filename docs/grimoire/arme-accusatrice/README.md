@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Foi
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante une arme et agate . Il a pour cela besoin de 40 po de matériel (encens, bougies...).  

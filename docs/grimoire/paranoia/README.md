@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 **Enchantement** e lanceur de sort enchante un objet appartenant à la victime. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  

@@ -16,7 +16,7 @@ ritual: true
 classes:
 
     - Foi
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 6 points de Foi  
 **Enchantement** Le lanceur de sort enchante un onguent à base de Fluor et poudre noir. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  

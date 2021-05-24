@@ -135,14 +135,12 @@ Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffi
 §§§ .hero
 **Règles concernant les compagnons**: Les compagnons sont joués comme des personnages normaux et sont entièrement sous le contrôle du personnage. Le compagnon revers 50% de ses points d'expérience au personnage principal si celui-ci est absent. Sinon, à l'inverse, si le ou les compagnons sont avec le personnage principal durant le jeu, ils gagnent l'équivalent de 50% des XP du joueur.  
 Ainsi un compagnon  monte de niveau plus lentement qu'un personnage principal.  
-D'autre part, un compagnon n'a pas d'Archétype, il choisit simplement l'une des [trois voies](/voies).  
 Enfin, un compagnon est à la charge financière du joueur qui doit lui maintenir au minimum un [train de vie modeste](/partir-a-l-aventure/#le-train-de-vie) (1po par jour).  
 
 ***Pour résumer:  
 - Coût minimum de 1po/jours  
 - 10% de part de richesse (trésor) par compagnon sans dépenser 50%  
-- Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.  
-- Le compagnon n'a pas d'Archétype mais choisi l'une des [trois voies](/voies).***  
+- Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.***  
 §§§
 
 

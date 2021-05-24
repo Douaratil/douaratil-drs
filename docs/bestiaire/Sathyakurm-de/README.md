@@ -1,11 +1,11 @@
 ---
 title: "Sathyakurm’de"
 type: "Aberration"
-subtype: "Déesse"
+subtype: "Déesse primaire"
 size: "Gig"
 alignment: "Loyal neutre"
 challenge: "29"
-customHP: "***"
+customHP: "690"
 abilityScores:
   for: 30
   dex: 24
@@ -20,7 +20,7 @@ savingThrows:
 
 ac:
   armorType: "custom"
-  value: "25 (armure naturelle)"
+  value: "29 (armure naturelle)"
 movement:
   walk: 18
 senses:
@@ -57,6 +57,7 @@ languages:
   - "sylvestre"
 
 telepathy: 72
+source: "Elric"
 
 ---
 ## Capacités
@@ -71,22 +72,21 @@ _**Résistance légendaire (4/jour)**_. Si Sathyakurm’de rate un jet de sauveg
 ## Actions
 _**Attaques multiples**_. Sathyakurm’de effectue 8 attaques.  
 
-_**Armes tranchante**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 3 m, une cible.  
+_**Armes tranchante**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou mourir, transpercé, écrasé ou découpé par l'arme te u par la déesse.  
 
 
 ## Actions légendaires
-*** peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
+Sathyakurm’de peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
 
 _**Attaque**_. Sathyakurm’de fait une attaque.
 
 _**Transmutation**_. Sathyakurm’de peut utiliser n'importe quel sort de l'école de Magie de transmutation, la résistance à ses sorts est DD 22.
 
-_**Aveuglement**_. Sathyakurm’de désigne une cible qu'elle peut voir dans un rayon de 30 m. Cette cible doit réussir un jet de sauvegarde de Constitution DD 22 ou être aveuglée jusqu'à la fin de son tour suivant.
+_**Douleur**_. Sathyakurm’de désigne une cible qu'elle peut voir dans un rayon de 30 m. Cette cible doit réussir un jet de sauvegarde de Constitution DD 22 ou souffrir en encaissant 3d6 point d'action par round (jusqu'à réussite du JS).
 
 ## Description  
-Déesse des héros, des exploits et des leaders  
-Déesse Primaire/Intermédiaire  
+Déesse des héros, des exploits et des leaders   
 **Symbole** : un soleil sur un trône   
 **Plan d’origine** : -  
 **Attribution** : courage, conquête, discipline, exploits physiques, honneur  

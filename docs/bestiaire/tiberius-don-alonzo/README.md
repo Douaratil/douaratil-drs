@@ -41,7 +41,7 @@ languages:
 category: "PJ"
 ---
 ## Capacités
-_**Historique  Bâtard:**_.   
+**Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  
 **Outils maîtrisés**. Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
 **Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
@@ -93,8 +93,8 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po 6000 PC, 1254 PA, 36 PE & 881 PO, 5 PP.  
-1 péridot (500po), 1 perle noire (500po), 1 topaze (500po).
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 1254 PA, 36 PE & 781 PO, 5 PP.  
+1 péridot (500po).
 §§§
 
 §§§ .hero
@@ -108,7 +108,7 @@ petite maison à Ker-Saozon.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
 **XP acquis** : 13690  
-**Points de Magie** :9  
+**Points de Magie** :10   
 **Points de Foi** :8   
 **Points d'honneur** :26  
 §§§

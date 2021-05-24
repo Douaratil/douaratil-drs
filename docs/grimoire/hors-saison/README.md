@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante une Hirondelle/Blé/chrysanthèmes/crâne humain et animal (Voir description détaillée ci-dessous). Il a pour cela besoin de 40 po de matériel (encens, bougies...).  

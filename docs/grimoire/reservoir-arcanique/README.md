@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : Spécial : 36 points de Magie   
 **Enchantement** e lanceur de sort enchante une gemme à 1000 PO minimum. Il a pour cela besoin de 360 po de matériel (encens, bougies...).  

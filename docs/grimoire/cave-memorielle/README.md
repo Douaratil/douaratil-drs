@@ -15,7 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
-sources: "Gwion"
+source: "Elric"
 ---
 **Coût** : 8 points de Magie ou de Foi
 **Enchantement** Le lanceur de sort enchante des pigments de peinture. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  

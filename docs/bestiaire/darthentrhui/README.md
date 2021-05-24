@@ -1,11 +1,11 @@
 ---
 title: "Darthentrhui"
 type: "Aberration"
-subtype: "Déesse"
+subtype: "Déesse primaire"
 size: "Gig"
 alignment: "Chaotique Neutre"
-challenge: "24"
-customHP: "556"
+challenge: "26"
+customHP: "596"
 abilityScores:
   for: 22
   dex: 26
@@ -45,6 +45,8 @@ languages:
 
 telepathy: 72
 
+source: "Elric"
+
 ---
 ## Capacités
 _**Absorption de la trame**_. Quand Darthentrhui contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.   
@@ -60,7 +62,7 @@ _**Présence divine**_. La présence de l'entité divine est tellement puissante
 ## Actions
 _**Attaques multiples**_. Darthentrhui effectue trois attaques.  
 
-_**Pattes griffues empoisonnée**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 3 m, une cible.  
+_**Pattes griffues empoisonnée**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
@@ -74,7 +76,7 @@ _**Charmeuse**_. Darthentrhui peut utiliser n'importe quel sort de l'école de M
 _**Aveuglement**_. Darthentrhui désigne une cible qu'elle peut voir dans un rayon de 30 m. Cette cible doit réussir un jet de sauvegarde de Constitution DD 22 ou être aveuglée jusqu'à la fin de son tour suivant.
 
 ## Description  
-Déesse Primaire/Intermédiaire  
+Déesse du désir, de la débauche et de l’ambition
 **Symbole** : Une araignée  
 **Plan d’origine** :  -
 **Attribution** : Désir, sexe, jalousie, trahison, ivresse  

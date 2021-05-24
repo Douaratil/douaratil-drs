@@ -4,6 +4,7 @@
     <Content class="content" />
 
   </main>
+
 </template>
 
 <script>
