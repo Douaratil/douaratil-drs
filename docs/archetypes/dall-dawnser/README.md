@@ -47,27 +47,26 @@ Les Dall Dawnsers qui viennent de la Voie des Armes sont appelés Eoster , c’e
 Dès le niveau 3, votre pratique des arts de combat Dall Hadur vous permet de maîtriser différents styles comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde. Le Dall Hadur est une technique de combat qui mélange l’usage des armes et des membres du Dall Dawnser, transformant tout son corps en arme.
 Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type d’arme, vous obtenez les bénéfices suivants :
 •Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque.
-•Quand vous utilisez l'action attaquer pour porter un coup avec une arme pendant votre tour, vous pouvez porter une attaque à main nue en action bonus qui est représenté par un bonus de dégât de 1d6, puis 2d6 au niveau 10 et 3d6 au niveau 15 (si l’attaque touche évidemment).
+•Quand vous utilisez l'action attaquer pour porter un coup avec une arme pendant votre tour, vous portez automatiquement une attaque à main nue qui est représentée par un bonus de dégât de 1d6, puis 2d6 au niveau 10 et 3d6 au niveau 15 (si l’attaque touche évidemment).
 
 ### Force d’âme
 **En Khern : Nerzhkalon**  
-À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie se présente sous la forme d'un nombre de points de Nerzhkalon qui dépend de votre niveau de Dall Dawnser. **Vous commencez avec 3 points de Nerzhkalon puis vous en gagnez un par niveau**. Vous avez un maximum de point de Nerzhkalon correspondant à votre niveau.  
-Ces points vous permettent d'utiliser certaines aptitudes qui fonctionnent avec le Nerzhkalon. Quand vous débutez, vous avez trois aptitudes de ce type : Glavtaol [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
-Une fois que vous avez dépensé des points de Nerzhkalon, vous ne pouvez plus les utiliser avant d'avoir terminé un repos court ou un repos long, qui vous permettent de recharger toute votre réserve de Nerzhkalon. Pour regagner vos points de Nerzhkalon, vous devez méditer au moins 30 minutes pendant votre période de repos.   
-Certaines de vos aptitudes liées au Nerzhkalon permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi :  
+À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie ce qui vous permet de puiser dans votre réserve de point de foi (PF) pour utiliser vos aptitudes de Dall Dawnser. 
+Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : Glavtaol [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
+Certaines de vos aptitudes permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi :  
 **DD de sauvegarde contre le Nerzhkalon = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**.  
 
 ### Déluge de frappe  
 **En Khern : Glavtaol**  
-Immédiatement après avoir choisi l'action [_attaquer_](/combattre/#attaquer) lors de votre tour, vous pouvez dépenser 1 point de Nerzhkalon et utiliser une action bonus pour porter deux attaques.  
+Immédiatement après avoir choisi l'action [_attaquer_](/combattre/#attaquer) lors de votre tour, vous pouvez dépenser 3 points et utiliser une action bonus pour porter une attaque supplémentaire.  
 
 ### Défense patiente  
 **En Khern : Dival Teol**  
-Vous pouvez dépenser 1 point de Nerzhkalon pour utiliser l'action [_esquiver_](/combattre/#esquiver) en action bonus lors de votre tour.   
+Vous pouvez dépenser 3 points pour utiliser l'action [_esquiver_](/combattre/#esquiver) en action bonus lors de votre tour.   
 
 ### Déplacement aérien  
 **En Khern : Finvalaer**  
-Vous pouvez dépenser 1 point de Nerzhkalon pour utiliser l'action se [_se désengager_](/combattre/#se-desengager) ou se [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.  
+Vous pouvez dépenser 3 points pour utiliser l'action se [_se désengager_](/combattre/#se-desengager) ou se [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.  
 
 ### Déplacement sans armure  
 **En Khern : Finval San Harnez**  
@@ -77,11 +76,11 @@ Au niveau 9, vous gagnez la capacité de vous déplacer sans chuter sur des surf
 ### Blocage de projectiles  
 **En Khern : Gwashkanban**  
 À partir du niveau 4, vous pouvez utiliser votre réaction pour parer ou attraper un projectile quand vous êtes touché par une attaque venant d'une arme à distance. Quand vous utilisez cette aptitude, les dégâts que vous subissez sont réduits de 2d6 + votre modificateur de Dextérité + votre niveau de Dall Dawnser.  
-Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu'il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 1 point de Nerzhkalon pour faire, toujours dans la même réaction, une attaque à distance avec l'arme ou la munition que vous venez d'attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de Dall Dawnser pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.  
+Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper le projectile si vous avez une main de libre et qu'il est assez petit pour que vous puissiez le tenir dans une main. Si vous réussissez à attraper un projectile de cette manière, vous pouvez dépenser 3 points pour faire, toujours dans la même réaction, une attaque à distance avec l'arme ou la munition que vous venez d'attraper. Cette attaque est considérée comme maîtrisée, peu importe quelles armes vous maîtrisez ou non, et le projectile est considéré comme une arme de Dall Dawnser pour cette attaque, avec une portée normale de 6 mètres et une portée longue de 18 mètres.  
 
 ### Griffe du prédateur  
 **En Khern : Skilfpreizher**  
-Vous faites l'acquisition de cette technique au niveau 4. La skilfpreizher vous permet d'infliger des dégâts tranchants pour vos dégâts bonus au lieu de contondants lorsque vous faites une attaque si vous le souhaitez. De plus, en dépensant 1 point de Nerzhkalon, vous obtenez automatiquement le résultat maximum sur votre d6 bonus de dégâts. Si vous dépensez 2 points de Nerzhkalon, vous obtenez le maximum de dégâts sur vos dégâts bonus à mains nues lors de votre tour entier.  
+Vous faites l'acquisition de cette technique au niveau 4. La skilfpreizher vous permet d'infliger des dégâts tranchants pour vos dégâts bonus au lieu de contondants lorsque vous faites une attaque si vous le souhaitez. De plus, en dépensant 3 points, vous obtenez automatiquement le résultat maximum sur votre d6 bonus de dégâts. Si vous dépensez 6 points, vous obtenez le maximum de dégâts sur vos dégâts bonus à mains nues lors de votre tour entier.  
 
 ### Blocage  
 **En Khern : Gwashkan**  
