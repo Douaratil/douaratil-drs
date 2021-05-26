@@ -9,14 +9,17 @@ title: Sohoten
 |:-:|:-:|
 |**3**|[Mur de bois](#mur-de-bois)|
 |**4**|[Course dans les arbres](#course-dans-les-arbres)|
-|**5**|[Empathie équestre](#empathie-equestre)|
-|**7**|[Ami équestre](#ami-equestre)|
-|**8**|[Tir lointain](#tir-lointain)|
+|**5**|[Esquive intuitive (1)](#esquive-intuitive)|
+|**7**|[Coup distant (portée doublée)](#coup-distant)|
+|**8**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
 |**9**|[Coup parfait](#coup-parfait)|
-|**10**|[Frappe majestueuse](#frappe-majestueuse)|
+|**10**|[Esquive intuitive (2)](#esquive-intuitive)|
 |**11**|[Calligraphie](#calligraphie)|
 |**12**|[Tir puissant](#tir-puissant)|
+|**14**|[Coup distant (portée triplée)](#coup-distant)|
+|**15**|[Esquive intuitive (3)](#esquive-intuitive)|
 |**19**|[Frappe divine](#frappe-divine)|
+|**20**|[Esquive intuitive (4)](#esquive-intuitive)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -60,14 +63,13 @@ Cette technique est très érpouvante et demande une très bonne condition physi
 |**20**|4|
 §§§
 
-### Coup imparable
+### Coup distant
 **En Yotaï : Yūjō Jōba**  
-À partir du niveau 7, vous avez une relation puissante avec votre monture. Elle n’accepte que vous comme cavalier. Vous pouvez la laisser vaquer sans craindre de la perdre et il vous suffit de siffler et le cheval rapplique le plus rapidement possible. La portée est de 10 mètres de rayon par niveau.  
- D’autre part, le personnage peut monter sur sa monture alors qu’elle passe au galop devant lui en tant qu’action bonus. Il peut même le faire en sautant d’un toit ou d’une hauteur et ceci est considéré comme une manœuvre à cheval donc bénéficie du bonus de Kyōkan Jōba (Empathie équestre).  
+À partir du niveau 7, vous avez pouvez porter vos attaques à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.  
 
-### Tir lointain  
+### Maîtrise de la concentration    
 **En Yotaï : Shūto Tōi**  
-À partir du niveau 8, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche au double de sa portée.  
+À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un repos court ou d'un repos long est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
 ### Coup parfait  
 **En Yotaï : Nōsotchū Kanpeki**  
