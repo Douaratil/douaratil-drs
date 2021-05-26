@@ -17,7 +17,7 @@ Si vous ne souhaitez pas (ou ne pouvez pas) corriger une erreur vous-même, vous
 ### Développement
 Pour travailler sur le projet, vous devrez au préalable télécharger les sources :
 ```
-git clone git@github.com:douaratil/douaratil-drs.git
+git clone git@github.com:Douaratil/douaratil-drs.git
 ```
 Puis installer les dépendances :
 ```
