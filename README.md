@@ -17,16 +17,16 @@ Si vous ne souhaitez pas (ou ne pouvez pas) corriger une erreur vous-même, vous
 ### Développement
 Pour travailler sur le projet, vous devrez au préalable télécharger les sources :
 ```
-git clone git@github.com:em-squared/heros-et-dragons-drs.git
+git clone git@github.com:douaratil/douaratil-drs.git
 ```
 Puis installer les dépendances :
 ```
-cd heros-et-dragons-drs
+cd douaratil-drs
 yarn install
 ```
 ou
 ```
-cd heros-et-dragons-drs
+cd douaratil-drs
 npm install
 ```
 Et lancer le service en local :
