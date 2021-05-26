@@ -26,8 +26,8 @@ title: Sohoten
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** : armures légères
-**Armes** : Bâton (Boten & Nachoten)
+**Armures** : armures légères   
+**Armes** : Bâton (Boten & Nachoten)   
 **Outils** : Calligraphie.    
 **Jets de sauvegarde** : Dextérité, Constitution.  
 **Compétences** : choisissez trois compétences parmi les suivantes : Acrobatie, Arcanes, Athlétisme, Dressage, escamotage, Perception, Religion et Représentation.  
