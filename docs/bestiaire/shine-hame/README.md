@@ -19,7 +19,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "12 "
+  value: "11 "
 skills:
   - name: "arcanes"
     isExpert: true
@@ -29,7 +29,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Tohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
+  - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
 ## Capacités
@@ -78,7 +78,7 @@ Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougie
 §§§ .hero
 ### Autres informations:  
 **XP acquis** : 595  
-**Points de Magie** :15  
+**Points de Magie** :20  
 **Points de Foi** :10   
 **Points d'honneur** :13  
 §§§
