@@ -41,8 +41,10 @@ Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement «
 
 ### Course dans les arbres
 **En Yotaï : Chebh N’do**  
-À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
-Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un repos court ou un repos long pour utiliser de nouveau cette aptitude.  
+À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.  
+C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
+Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
+Cette technique est très érpouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
 
 ### Esquive magnifique
 **En Yotaï : Kyōkan Jōba**  
