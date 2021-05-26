@@ -11,11 +11,14 @@ title: Seibahkami
 |**5**|[Empathie équestre](#empathie-equestre)|
 |**7**|[Ami équestre](#ami-equestre)|
 |**8**|[Tir lointain](#tir-lointain)|
-|**9**|[Coup parfait](#coup-parfait)|
+|**9**|[Coup parfait (+1d6)](#coup-parfait)|
 |**10**|[Frappe majestueuse](#frappe-majestueuse)|
 |**11**|[Calligraphie](#calligraphie)|
 |**12**|[Tir puissant](#tir-puissant)|
+|**13**|[Coup parfait (+2d6)](#coup-parfait)|
+|**17**|[Coup parfait (+3d6)](#coup-parfait)|
 |**19**|[Frappe divine](#frappe-divine)|
+|**20**|[Coup parfait (+4d6)](#coup-parfait)|
 §§§
 
 ## Aptitudes d'Archétype
