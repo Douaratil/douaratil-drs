@@ -21,15 +21,20 @@ Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de
 _**Olivier**_,  
 _le 8 décembre 2020_
 §§§
-## Quelques nouvelles  
-Le site avance régulièrement même si je ne communique pas forcément sur chaque détail. Les règles de patrimoine et de gestion des familles sont maintenant bien intégrées par mes joueurs et cela rajoute vraiment dans les projets et les plans qu'ils élaborent. La campagne continue son cours et prend des allures dramatiques.  
-Côté des règles, vous trouverez sous peu l'archétype Yotakaï du Sohoten et Khernaëe de la Sermazloth.   
+
+## Caohaydhan, Sohoten, règles optionnelles et peuples  
+Voici les en gros les dernières nouvelles. Je vais sûrement en oublier car il y a eu beaucoup de choses ce mois-ci.  
+Création d'une page de règles optionnelles sur le [commerce](/commerce/) d'après une idée de Georges.  
+Création d'une page sur les [Dieux, divinités & autres forces](/dieux-divinites/) et dans le bestiaire avec l'arrivée de puissantes (divine?) aberrations telle [Darthentrhui](/bestiaire/darthentrhui/), [Khoulggotateelle](/bestiaire/khoulggotateelle/), [Sathyakurm’de](/bestiaire/sathyakurm-de/),  [Shandoth](/bestiaire/shandoth/) et  [Sheggothlil](/bestiaire/sheggothlil/).  
+Une nouvelle section est apparue dans le menu du monde de douaratil pour décrire les peuples, avec la description du peuple [Oynours](/peuples/oynours/) d'après une libre interprétation des peuples des steppes de David et la description du peuple [Khernaë](/peuples/khernaes/).  
+Sur le front des Archétypes de personnages, la description du [Sohoten](/archetypes/sohoten/) et la révision en profondeur du [Dall Dawnser](/archetypes/dall-dawnser/). J'ai procédé aussi à quelques retouches du [Seibahkami](/archetypes/seibahkami/).  
+Et pour rendre à César ce qui lui revient, Em-squared est intervenu sur le site (après des essais infructueux de ma part) pour permettre d'afficher les "sources" sur les pages standards. Les auteurs qui sont publiés ne seront plus oubliés.  
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 16 mai 2021_
-
+_le 27 mai 2021_
 §§§
+
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 
 Bon jeu à tout le monde !
