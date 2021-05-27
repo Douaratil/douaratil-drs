@@ -71,23 +71,6 @@ Cette technique est très érpouvante et demande une très bonne condition physi
 **En Yotaï : Shūto Tōi**  
 À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un repos court ou d'un repos long est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
-### Coup parfait  
-**En Yotaï : Nōsotchū Kanpeki**  
-À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts supplémentaires causés par un coup critique lors d'une attaque de corps-à-corps, c’est à dire que les dégâts ont dépassé la valeur de la constitution de l’adversaire..  
-À partir du niveau 13, vous lancez deux dés additionnels, trois dés à partir du niveau 17 et quatre dés au niveau 20.  
-
-### Frappe majestueuse  
-**En Yotaï : Nōsotchū Yūdaina**  
-A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire est décapité sans avoir la possibilité de parer.  
-
-### Calligraphie  
+### Mille mains  
 **En Yotaï : Shodō**  
 A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez un bonus de +2 lorsque vous faîtes de la calligraphie.  
-
-### Tir puissant
-**En Yotaï : Shūto Kyōryoku**  
-À partir du niveau 12, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche beaucoup plus puissante. Si le tir touche et blesse l’adversaire, les dégâts sont majorés de +1d6.  
-
-### Frappe divine  
-**En Yotaï : Nōsotchū Kami**  
-A partir du niveau 18, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire est décapité sans avoir la possibilité de parer.  

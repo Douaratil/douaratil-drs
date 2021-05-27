@@ -11,6 +11,4 @@ Les Archétypes actuellement disponibles sont :
 - [Bhaner](/archetypes/bhaner/)
 - [Bhegelm](/archetypes/bhegelm/)
 - [Gwylwir](/archetypes/gwylwir/)
-- [Llawenos](/archetypes/astartes/)
-
-D'autres suivront...
+- [Llawenos](/archetypes/llawenos/)
