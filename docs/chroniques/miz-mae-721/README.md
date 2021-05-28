@@ -91,4 +91,16 @@ Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un p
 **25 Miz Mae**
 Gwion trouve enfin un équipage capable de l’emmener sur l’île redoutée. Il profite de la traversée pour étudier d’autres parchemins malgré les nausées qui lui tenaillent l'estomac. Il place un seau à côté de lui pour vomir à loisir sans risquer d’abîmer les parchemins. La navigation n'est pas facile en raison d'un vent de travers nord sud-est. La bateau tangue dans les vagues dont les crêtes se transforment en écume.  
 Malgré l'inconfort, l'Ambeanamos [Gwion](/bestiaire/gwion-gornoc)  continue de se concentrer, toujours avide de nouvelles connaissances qui lui permettront de mener à bien ses quêtes.   
-Soudain, le noir se fait eet [Gwion](/bestiaire/gwion-gornoc)  a l'impression d'étouffer. Il veut se débattre et enlever le sac qui a recouvert sa tête Son esprit cherche frénétiquement un sortilège pour le sortir de ce mauvais pas. En vain, un coup sourd frappe sa tête et une sensation de douleur envahit son crâne. Un second rideau d'obscurité s'abat sur lui. [Gwion](/bestiaire/gwion-gornoc)  perd connaissance.  
+Soudain, le noir se fait et [Gwion](/bestiaire/gwion-gornoc)  a l'impression d'étouffer. Il veut se débattre et enlever le sac qui a recouvert sa tête Son esprit cherche frénétiquement un sortilège pour le sortir de ce mauvais pas. En vain, un coup sourd frappe sa tête et une sensation de douleur envahit son crâne. Un second rideau d'obscurité s'abat sur lui. [Gwion](/bestiaire/gwion-gornoc)  perd connaissance.
+Lorsqu'il revient à lui, à un moment indéterminé plus tard, [Gwion](/bestiaire/gwion-gornoc) se rend compte qu'il a les poings liés, que sa bouche es bâillonnée par un linge. Sur sa tête, toujours ce sac. Il a aussi mal à la cage thoracique, mais à cause du poids de son propre corps, qui se balance au rythme de la marche d'un animal qu'il identifie comme étant un cheval ou une mule.  
+Il entend parlé et reconnait la voix des marins qu'il avait recruté pour la traversée.  
+Une journée de voyage très inconfortable se termine.  
+
+**26 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) se réveille. Il a toujours ce sac sur la tête. Il a très soif. Soudain, il entend une nouvelle voix.
+*- "Enfin, te voilà, misérable"*
+[Gwion](/bestiaire/gwion-gornoc) cherche dans sa mémoire cette voix familière qui lui semble affaiblie.  
+*- "gnnn, gnnn, gnnn"*
+*- "Je ne comprend rien à ce que tu dis, mais je ne serais pas stupide de t'enlever le bâillon. Je vais éviter que tu me jettes un autre sortilège, Maudit!*  
+***Britomartos***, pensa [Gwion](/bestiaire/gwion-gornoc).
+*- "Et oui, Genos Britomartos"*, déclara le Meldète rouquin, *-"Et je vais te couper un morceau tous les jours, jusqu'à ce que tu lèves la malédiction, en commençant par tes immondes doigts crochus".*  
