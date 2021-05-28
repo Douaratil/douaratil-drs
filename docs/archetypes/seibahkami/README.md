@@ -20,7 +20,7 @@ title: Seibahkami
 |**17**|[Coup parfait (+3d6)](#coup-parfait)|
 |**18**|[Tir puissant (+3d6)](#tir-puissant)|
 |**19**|[Frappe divine](#frappe-divine)|
-|**20**|[Coup parfait (+4d6)](#coup-parfait, [Véritable Seibahkami](#veritable-seibahkami)|
+|**20**|[Coup parfait (+4d6)](#coup-parfait), [Véritable Seibahkami](#veritable-seibahkami)|
 §§§
 
 ## Aptitudes d'Archétype

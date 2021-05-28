@@ -20,7 +20,7 @@ title: Nayane
 |**16**|[Attaque supplémentaire (Troisième attaque)](#attaque-supplementaire)|
 |**17**|[Sang empoisonné](#sang-empoisonne)|
 |**19**|[Intouchable (3-6)](#intouchable)|
-|**20**|[Parangon de mort](#parangon-de-mort),[Véritable Holtseidar](#veritable-holtseidar)|
+|**20**|[Parangon de mort](#parangon-de-mort),[Véritable Nayane](#veritable-nayane)|
 §§§
 
 ## Aptitudes d'Archétype

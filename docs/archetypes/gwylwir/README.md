@@ -20,7 +20,7 @@ title: Gwylwir
 |**15**|[Salve](#salve)|
 |**18**|[Sens sauvages](#sens-sauvages)|
 |**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
-|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Fürtane](#veritable-furtane)|
+|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Gwylvir](#veritable-gwylvir)|
 §§§
 
 ## Aptitudes d'Archétype

@@ -80,6 +80,6 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'att
 **En Yotaï : Hi Ni**  
 A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un repos court, le Sohoten le considère comme un repos long. Il s'agit uniquement d'un repos court, les autres sont considérés normalement.
 
-## Véritable Sohoten  
+### Véritable Sohoten  
 **En Yotaï : Sohoten**  
 Au niveau 20, le Sohoten est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  

@@ -17,7 +17,7 @@ title: Ior
 |**11**|[Rage Implacable de Teutès](#rage-implaccable-de-teutes)|
 |**15**|[Attaque supplémentaire](#attaque-supplementaire)|
 |**16**|[Rage Indomptable de Teutès](#rage-indomptable-de-teutes)|
-|**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Holtseidar](#veritable-holtseidar)|
+|**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Ior](#veritable-ior)|
 §§§
 
 ## Aptitudes d'Archétype
