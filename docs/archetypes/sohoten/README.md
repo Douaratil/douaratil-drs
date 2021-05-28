@@ -20,7 +20,7 @@ title: Sohoten
 |**14**|[Coup distant (portée triplée)](#coup-distant)|
 |**15**|[Esquive intuitive (3)](#esquive-intuitive)|
 |**19**|[Frappe divine](#frappe-divine)|
-|**20**|[Esquive intuitive (4)](#esquive-intuitive)|
+|**20**|[Esquive intuitive (4)](#esquive-intuitive), [Véritable Sohoten](#veritable-sohoten)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -80,6 +80,6 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'att
 **En Yotaï : Hi Ni**  
 A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un repos court, le Sohoten le considère comme un repos long. Il s'agit uniquement d'un repos court, les autres sont considérés normalement.
 
-## Sohoten  
+## Véritable Sohoten  
 **En Yotaï : Sohoten**  
 Au niveau 20, le Sohoten est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  

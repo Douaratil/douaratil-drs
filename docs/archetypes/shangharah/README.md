@@ -20,6 +20,7 @@ title: Shangharah
 |**17**|[Guérison suprême](#guerison-supreme)|
 |**18**|[Langage du Guide](#langage-du-guide)|
 |**19**|[Vison du guide](#vision-du-guide)|
+|**20**|[Véritable Shangharah](#veritable-shangharah)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -88,6 +89,6 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 **En Sogh : Ohuu N’bo**  
  À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.  
 
- ### Vision du Guide  
- **En Sogh : Shangharah**  
- Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
+### Véritable Shangharah
+**En Sogh : Shangharah**  
+Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.

@@ -18,7 +18,7 @@ title: Jargl
 |**15**|[Champion (Seuil de critique 4)](#champion)|
 |**18**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**19**|[Champion (Seuil de critique 3)](#champion), [Champion mythique](#champion-mythique)|
-|**20**||
+|**20**|[Véritable Jargl](#veritable-jargl)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -74,6 +74,6 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 Au niveau 19, vos incarnez le champion mythique.  
 Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
 
-### Champion Jargl
+### Véritable Jargl
 **En Khern : Jargl**  
 Au niveau 20, le Jargl est accompli et augmente ses caractéristiques de Constitution et de Dextérité de 2 points sans pouvoir dépasser 22.

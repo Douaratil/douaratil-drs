@@ -20,7 +20,7 @@ title: Nayane
 |**16**|[Attaque supplémentaire (Troisième attaque)](#attaque-supplementaire)|
 |**17**|[Sang empoisonné](#sang-empoisonne)|
 |**19**|[Intouchable (3-6)](#intouchable)|
-|**20**|[Parangon de mort](#parangon-de-mort)|
+|**20**|[Parangon de mort](#parangon-de-mort),[Véritable Holtseidar](#veritable-holtseidar)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -93,6 +93,6 @@ A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de c
 **En Selm : Sossus**  
 Au niveau 19, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.  
 
-### Nayane
+### Véritable Nayane
 **En Selm : Sassasse**  
 Au niveau 20, la Nayane est accomplie et augmente ses caractéristiques de Dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.

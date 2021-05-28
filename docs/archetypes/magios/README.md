@@ -19,6 +19,7 @@ title: Magios
 |**14**|[Magie discrète (3d6)](#magie-discrete)|
 |**18**|[Troisième Attaque](#troisieme-attaque)|
 |**19**|[Orateur suprême](#orateur-supreme)|
+|**20**|[Véritable Magios](#veritable-magios)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -80,6 +81,6 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 À partir du niveau 19, vous pouvez utiliser votre énergie charismatique pour influencer tous vos interlocuteurs. Lorsque vous puisez cette énergie, les gens ont tendance à être amical envers vous. Vous avez un avantage sur toutes les compétences sociales durant 1d6 round. Vous doublez les dégâts durant un duel social.  
 Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un repos long.   
 
-### Magios  
-**En Alcante : Magios** 
+### Véritable Magios  
+**En Alcante : Magios**
 Au niveau 20, le Magios est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.

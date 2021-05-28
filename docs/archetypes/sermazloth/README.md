@@ -17,7 +17,7 @@ title: Sermazloth
 
 |**15**|[Rage infernale (+3)](#rage-infernale)|
 
-|**20**|[Rage infernale (+4)](#rage-infernale)|
+|**20**|[Rage infernale (+4)](#rage-infernale), [Véritable Sermazloth](#veritable-sermazloth)|
 
 §§§
 
@@ -77,6 +77,6 @@ A partir du niveau 10,
 **En Khernaë: **  
 A partir du niveau 18,
 
-### Sermazloth  
+### Véritable Sermazloth  
 **En Khernaë: Sermazloth**  
 Au niveau 20, la Sermazloth est accomplie et augmente ses caractéristiques de Constitution et de Sagesse de 2 points sans pouvoir dépasser 22.

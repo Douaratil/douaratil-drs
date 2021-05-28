@@ -20,7 +20,7 @@ title: Seibahkami
 |**17**|[Coup parfait (+3d6)](#coup-parfait)|
 |**18**|[Tir puissant (+3d6)](#tir-puissant)|
 |**19**|[Frappe divine](#frappe-divine)|
-|**20**|[Coup parfait (+4d6)](#coup-parfait, [Seibahkami](#seibahkami)||
+|**20**|[Coup parfait (+4d6)](#coup-parfait, [Véritable Seibahkami](#veritable-seibahkami)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -82,6 +82,6 @@ A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l�
 **En Yotaï : Nōsotchū Kami**  
 A partir du niveau 18, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire de taille grande maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD15 + modificateur de charisme ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) à tous les tests de combat jusqu'à réussir le JS. Les personnes terrorisées essaient de fuir devant vous, ce qui vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques.
 
-### Seibahkami  
+### Véritable Seibahkami  
 **En Yotaï : Seibahkami**  
 A partir du niveau 20, vous incarnez l'âme du Seibhakami, vous gagnez +2 en dextérité et en Sagesse pour atteindre un maximum de 22 dans ses deux caractéristiques. En prenant un round de concentration, vous pouvez cumuler les avantages de [Tir lointain](/#tir-lointain)  et de [Tir puissant](/#tir-puissant).  

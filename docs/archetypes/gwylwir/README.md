@@ -20,7 +20,7 @@ title: Gwylwir
 |**15**|[Salve](#salve)|
 |**18**|[Sens sauvages](#sens-sauvages)|
 |**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
-|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis)|
+|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Fürtane](#veritable-furtane)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -112,6 +112,6 @@ Au niveau 19, vous pouvez utiliser votre action pour faire une attaque de corps-
 **En Meldète : Marbhadh nàimhdean**  
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.    
 
-### Gwylvir
+### Véritable Gwylvir
 **En Meldète : Gwylvir**  
 Au niveau 20, le Gwylvir est accompli et augmente ses caractéristiques de Force et de Dextérité de 2 points sans pouvoir dépasser 22.

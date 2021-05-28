@@ -21,6 +21,7 @@ title: Llawenos
 |**16**|[Compétence hors pair](#compétence-hors-pair)|
 |**17**|[Chant reposant (4d6)](#chant-reposant)|
 |**19**|[Inspiration supérieure](#inspiration-supérieure)|
+|**20**|[Véritable Llawenos](#veritable-llawenos)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -101,6 +102,6 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 **En Meldète : Subrosnachadh**  
 Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez une.  
 
-### Llawenos
+### Véritable Llawenos
 **En Meldète : Llawenos**  
 Au niveau 20, le Llawenos est accompli et augmente ses caractéristiques de Dextérité et de Charisme de 2 points sans pouvoir dépasser 22.

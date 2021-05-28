@@ -16,6 +16,7 @@ title:  Vitnar
 |**12**|[Mixture de soin](#mixture-de-soin)|
 |**14**|[Lien totémique  ](#lien-totemique  )|
 |**15**|[Mixture d’empoisonnement](#mixture-d-empoisonnement)|
+|**20**|[Véritable Vitnar](#veritable-vitnar)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -85,6 +86,6 @@ Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem
 **En langue Melg : Bland’forgiftning**  
 Au niveau 15, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins.
 
-### Vitnar
+### Véritable Vitnar
 **En langue Melg : Vitnar**  
 Au niveau 20, le Vitnar est accompli et augmente ses caractéristiques de Sagesse et de Constitution de 2 points sans pouvoir dépasser 22.
