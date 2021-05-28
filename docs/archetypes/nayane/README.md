@@ -91,4 +91,8 @@ A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de c
 
 ### Parangon de mort
 **En Selm : Sossus**  
-Au niveau 20, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Au niveau 19, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.  
+
+### Nayane
+**En Selm : Sassasse**  
+Au niveau 20, la Nayane est accomplie et augmente ses caractéristiques de Dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.

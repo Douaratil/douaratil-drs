@@ -76,3 +76,7 @@ A partir du niveau 10,
 ###
 **En Khernaë: **  
 A partir du niveau 18,
+
+### Sermazloth  
+**En Khernaë: Sermazloth**  
+Au niveau 20, la Sermazloth est accomplie et augmente ses caractéristiques de Constitution et de Sagesse de 2 points sans pouvoir dépasser 22.

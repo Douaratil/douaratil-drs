@@ -20,7 +20,7 @@ title: Bhegelm
 |**17**|[Jeunesse éternelle](#jeunesse-eternelle)|
 |**18**|[Incantation animale)](#incantation-animale)|
 |**19**|[Monture sacrée parfaite](#monture-sacree-parfaite)|
-|**20**|[Archidruide](#archidruide)|
+|**20**|[Archidruide](#archidruide), [Véritable Bhegelm](#veritable-bhegelm)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -104,7 +104,7 @@ La créature est consciente de cet effet avant de vous attaquer.
 
 ### Incantation animale  
 **En Khern : Breou Ioen**  
-À partir du niveau 16, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.  
+À partir du niveau 18, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.  
 
 ### Monture sacrée parfaite  
 **En Khern : Kezeg Helgae**  
@@ -114,3 +114,7 @@ La créature est consciente de cet effet avant de vous attaquer.
 **En Khern : Bras Drouiz**  
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
+
+### Véritable Bhegelm  
+**En Khern : Bhegelm**
+Au niveau 20, le Bhegelm est accompli et augmente ses caractéristiques d'intelligence et de Sagesse de 2 points sans pouvoir dépasser 22.

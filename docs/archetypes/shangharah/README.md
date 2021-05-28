@@ -34,7 +34,7 @@ En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être de culture Sooghaï et de sexe féminin  
 **Points de Magie** : Le Shangharag fait partie des voies shamaniques Sooghaï, de ce fait, il développe les points de Foi (PF)  
 
-Dans les divers cultures Sooghaï, les Sangharah ont une place aussi importante que les guerriers. Ces femmes ont reçu un esprit guide qui leur fournit des connaissances dans les domaines magiques et particulièrement dans les soins. Les Shangharahs de la voie des Armes sont appelés Moa, littéralement «Mère». Les Shangharahs de la voie de l’Ombre sont appelés Loa, littéralement «Soeur». Les Shangharahs de la voie de la Magie sont appelés N’Goa littéralement « fille».  
+Dans les divers cultures Sooghaï, les Sangharahs ont une place aussi importante que les guerriers. Ces femmes ont reçu un esprit guide qui leur fournit des connaissances dans les domaines magiques et particulièrement dans les soins. Les Shangharahs de la voie des Armes sont appelés Moa, littéralement «Mère». Les Shangharahs de la voie de l’Ombre sont appelés Loa, littéralement «Soeur». Les Shangharahs de la voie de la Magie sont appelés N’Goa littéralement « fille».  
 
 
 ### Disciple de la vie
@@ -87,3 +87,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 ### Vision du Guide  
 **En Sogh : Ohuu N’bo**  
  À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.  
+
+ ### Vision du Guide  
+ **En Sogh : Shangharah**  
+ Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.

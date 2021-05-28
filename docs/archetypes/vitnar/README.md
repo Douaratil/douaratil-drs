@@ -85,4 +85,6 @@ Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem
 **En langue Melg : Bland’forgiftning**  
 Au niveau 15, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins.
 
-### A TERMINER   
+### Vitnar
+**En langue Melg : Vitnar**  
+Au niveau 20, le Vitnar est accompli et augmente ses caractéristiques de Sagesse et de Constitution de 2 points sans pouvoir dépasser 22.

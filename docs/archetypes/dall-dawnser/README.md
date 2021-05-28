@@ -24,7 +24,7 @@ title: Dall Dawnser
 |**17**|[Âme translucide](#ame-translucide)|
 |**18**|[Fureur](#fureur)|
 |**19**|[étreinte mortelle](#etreinte-mortelle)|
-|**20**|[Perfection](#perfection)|
+|**20**|[Perfection](#perfection), [Véritable Dall Dawnser](#veritable-dall-dawnser)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -63,7 +63,7 @@ Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type
 
 ### Force d’âme
 **En Khern : Nerzhkalon**  
-À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie ce qui vous permet de puiser dans votre réserve de point de foi (PF) pour utiliser vos aptitudes de Dall Dawnser. 
+À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie ce qui vous permet de puiser dans votre réserve de point de foi (PF) pour utiliser vos aptitudes de Dall Dawnser.
 Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : Glavtaol [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
 Certaines de vos aptitudes permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi :  
 **DD de sauvegarde contre le Nerzhkalon = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**.  
@@ -169,5 +169,8 @@ Lorsque vous réussissez une empoignade, vous pouvez dépenser 6 points de Foi p
 
 ### Perfection  
 **En Khern : Argad Adh**  
-Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de Foi en réserve, vous regagnez automatiquement 2d6 points de Foi. 
-Votre dextérité et votre sagesse sont augementées de 2 points pour un maximum de 22 dans la caractéristique.
+Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de Foi en réserve, vous regagnez automatiquement 2d6 points de Foi.
+
+### Véritable Dall Dawnser  
+**En Khern : Dall Dawnser**  
+Au niveau 20, le Dall Dawnser est accompli et augmente ses caractéristiques de dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.

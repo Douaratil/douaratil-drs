@@ -19,7 +19,7 @@ title: Fürtane
 |**15**|[Cercle de la mort implacable](#cercle-de-la-mort-implacable)|
 |**17**|[Furie indomptable](#furie-indomptable)|
 |**19**|[Cercle de la mort implacable](#cercle-de-la-mort-indomptable)|
-|**20**|[Mère louve](#mere-louve)|
+|**20**|[Mère louve](#mere-louve), [Véritable Fürtane](#veritable-furtane)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -111,4 +111,8 @@ La furie possède **quatre états de furie**, une fois que vous êtes entrés en
 ### Mère louve  
 **En Khern : Mamm'bleizez**  
 Au niveau 20, la Fürtane est complètement accomplie et devient l'exemple ultime à suivre pour toutes les autres Fürtanes.
-Elle obtient un bonus de +2 en Dextérité et Constitution. Elle ne peut plus être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise). Les autres Fürtanes sous ses ordres obtiennent la même immunité dans un rayon de 30 mètres autours de la Mère louve. Elles obtiennent aussi un bonus de +2 pour l'action attaquer.  
+Elle ne peut plus être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise). Les autres Fürtanes sous ses ordres obtiennent la même immunité dans un rayon de 30 mètres autours de la Mère louve. Elles obtiennent aussi un bonus de +2 pour l'action attaquer.  
+
+### Véritable Fürtane  
+**En Khern : Fürtane**  
+Au niveau 20, la Fürtane est accomplie et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  

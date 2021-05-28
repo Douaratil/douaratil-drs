@@ -85,3 +85,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 ### Troisième Attaque  
 **En Melg : Tredje Angreb**  
 À partir du niveau 19, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous ajoutez +4 aux Dégâts supplémentaires à l’arme de prédilection que vous aviez choisis précédemment.  
+
+### Skell
+**En Melg : Skell**  
+Au niveau 20, le Skell est accompli et augmente ses caractéristiques de Dextérité et de Charisme de 2 points sans pouvoir dépasser 22.

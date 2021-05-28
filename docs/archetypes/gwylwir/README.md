@@ -110,4 +110,8 @@ Au niveau 19, vous pouvez utiliser votre action pour faire une attaque de corps-
 
 ### Tueur d'ennemis  
 **En Meldète : Marbhadh nàimhdean**  
-Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.  
+Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.    
+
+### Gwylvir
+**En Meldète : Gwylvir**  
+Au niveau 20, le Gwylvir est accompli et augmente ses caractéristiques de Force et de Dextérité de 2 points sans pouvoir dépasser 22.

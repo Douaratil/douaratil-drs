@@ -86,3 +86,7 @@ Les Holtseidars de la voie des Armes sont appelés Rûnya Styrke, littéralement
 ### Troisième Attaque  
 **En Melg : Tredje Angreb**  
 À partir du niveau 19, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous ajoutez +4 aux Dégâts supplémentaires à l’arme de prédilection que vous aviez choisis précédemment.  
+
+### Holtseidar    
+**En Melg : Holtseidar**  
+Au niveau 20, le Holtseidar est accompli et augmente ses caractéristiques de * et de * de 2 points sans pouvoir dépasser 22.

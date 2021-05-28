@@ -15,6 +15,7 @@ title: Ambeanamos
 |**14**|[Charme intense](#charme-intense)|
 |**16**|[Second compagnon animal](#second-compagnon-animal)|
 |**18**|[Présence puissante](#presence-puissante)|
+|**20**|[Véritable Ambeanamos](#veritable-ambeanamos)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -117,4 +118,8 @@ De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#av
 
 ### Présence puissante  
 **En Meldète : Làthaircumdach**  
-À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures. Vous ne pouvez utiliser ce pouvoir un nombre de fois maximum égal à votre bonus d’Intelligence entre deux [Repos longs](/gerer-la-sante-du-personnage/#repos-long).
+À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures. Vous ne pouvez utiliser ce pouvoir un nombre de fois maximum égal à votre bonus d’Intelligence entre deux [Repos longs](/gerer-la-sante-du-personnage/#repos-long).  
+
+### Véritable Ambeanamos  
+**En Meldète : Ambeanamos**  
+Au niveau 20, l'Ambeanamos est accompli et augmente ses caractéristiques de Sagesse et de Charisme de 2 points sans pouvoir dépasser 22.

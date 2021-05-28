@@ -20,7 +20,8 @@ title: bhaner
 |**15**|[Inspiration bardique (4d6/4rd)](#inspiration-bardique)|
 |**16**|[Compétence hors pair](#compétence-hors-pair)|
 |**17**|[Chant reposant (4d6)](#chant-reposant)|
-|**20**|[Inspiration supérieure](#inspiration-supérieure)|
+|**19**|[Inspiration supérieure](#inspiration-supérieure)|
+|**20**|[Véritable Bhaner](#veritable-bhaner)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -99,4 +100,8 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 
 ### Inspiration supérieure  
 **En Khern : Arz Awen**  
-Une fois que vous atteignez le niveau 20, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez 1d6.
+Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez 1d6.
+
+### Véritable Bhaner  
+**En Khern : Bhaner**  
+Au niveau 20, le Bhaner est accompli et augmente ses caractéristiques de dextérité et de Charisme de 2 points sans pouvoir dépasser 22.
