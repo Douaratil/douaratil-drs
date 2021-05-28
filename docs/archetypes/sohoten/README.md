@@ -16,6 +16,7 @@ title: Sohoten
 |**10**|[Esquive intuitive (2)](#esquive-intuitive)|
 |**11**|[Calligraphie](#calligraphie)|
 |**12**|[Tir puissant](#tir-puissant)|
+|**13**|[Feu intérieur](#feu-interieur)|
 |**14**|[Coup distant (portée triplée)](#coup-distant)|
 |**15**|[Esquive intuitive (3)](#esquive-intuitive)|
 |**19**|[Frappe divine](#frappe-divine)|
@@ -44,14 +45,14 @@ Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement «
 À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.
 
 ### Course dans les arbres
-**En Yotaï : Chebh N’do**  
+**En Yotaï : Jinshu Ki**  
 À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.  
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
-Cette technique est très érpouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
+Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
 
 ### Esquive intuitive
-**En Yotaï : Kyōkan Jōba**  
+**En Yotaï :D'kan-teki**  
 À partir du niveau 5, vous êtes tellement agile et rapide que vous êtes très difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
 
 §§§ .table-container
@@ -64,13 +65,21 @@ Cette technique est très érpouvante et demande une très bonne condition physi
 §§§
 
 ### Coup distant
-**En Yotaï : Yūjō Jōba**  
+**En Yotaï : Nōsōtchū**  
 À partir du niveau 7, vous avez pouvez porter vos attaques à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.  
 
 ### Maîtrise de la concentration    
-**En Yotaï : Shūto Tōi**  
+**En Yotaï : Shūjuku Nōdo**  
 À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un repos court ou d'un repos long est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
 ### Mille mains  
-**En Yotaï : Shodō**  
-A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez un bonus de +2 lorsque vous faîtes de la calligraphie.  
+**En Yotaï : Sen Te**  
+A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'attaque qu'il a d'adversaire. Il peut porter une attaque en lieu et place de l'action [_attaquer_](/combattre/#attaquer) et donc des éventuelles attaques multiples. A attaquer un Sohoten en surnombre n'est donc pas forcément une bonne tactique que ses adversaires apprenent souvent à leurs dépends.  
+
+### Feu intérieur  
+**En Yotaï : Hi Ni**  
+A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un repos court, le Sohoten le considère comme un repos long. Il s'agit uniquement d'un repos court, les autres sont considérés normalement.
+
+## Sohoten  
+**En Yotaï : Sohoten**  
+Au niveau 20, le Sohoten est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
