@@ -64,7 +64,7 @@ Les raids débutant sur le nord de Ker-Saozon, Alarig Pinvidic et Morwenna Moisa
 **9 Miz Mae**  
 [Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son coeur.  
 Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un parquet de rouleaux de parchemins en peau de chèvre.  
-**- Voici des sortilège que je n'ai jamais pris le temps d'apprendre mais l'heure étant grave, tu en feras meilleur usage que moi. Je te souhaite bonne chance car tu as encore beaucoup à faire et les forces m'abandonnent. Je ne t'envie pas [Gwion](/bestiaire/gwion-gornoc).  
+*- Voici des sortilège que je n'ai jamais pris le temps d'apprendre mais l'heure étant grave, tu en feras meilleur usage que moi. Je te souhaite bonne chance car tu as encore beaucoup à faire et les forces m'abandonnent. Je ne t'envie pas [Gwion](/bestiaire/gwion-gornoc).*  
 [Gwion](/bestiaire/gwion-gornoc) repart sur sa monture, chargé de documents précieux.  
 
 **10 Miz Mae**

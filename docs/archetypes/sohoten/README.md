@@ -52,7 +52,7 @@ Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement
 Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
 
 ### Esquive intuitive
-**En Yotaï :D'kan-teki**  
+**En Yotaï :Dhkan-teki**  
 À partir du niveau 5, vous êtes tellement agile et rapide que vous êtes très difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
 
 §§§ .table-container
