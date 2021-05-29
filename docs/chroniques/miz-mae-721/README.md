@@ -104,3 +104,42 @@ Une journée de voyage très inconfortable se termine.
 *- "Je ne comprend rien à ce que tu dis, mais je ne serais pas stupide de t'enlever le bâillon. Je vais éviter que tu me jettes un autre sortilège, Maudit!*  
 ***Britomartos***, pensa [Gwion](/bestiaire/gwion-gornoc).
 *- "Et oui, Genos Britomartos"*, déclara le Meldète rouquin, *-"Et je vais te couper un morceau tous les jours, jusqu'à ce que tu lèves la malédiction, en commençant par tes immondes doigts crochus".*  
+Le reste de la journée n'est qu'un enchainement de douleurs, [Gwion](/bestiaire/gwion-gornoc) reçoit des coups, sans savoir qui lui donne, et n'importe quel moment.  
+
+**27 Miz Mae**  
+[Gwion](/bestiaire/gwion-gornoc) se réveille en sursaut et se recroqueville en attendant une nouvelle avalanche de coups. Mais la main qui se pose sur lui semble rassurante.  
+*- "Vous pouvez marcher?"*
+*- "gnnn, gnnn, gnnn"*
+*- "Je prends ça pour un oui"*
+[Gwion](/bestiaire/gwion-gornoc) se contracte instinctivement et refuse de se lever.  
+*- "gnnn, gnnn, gnnn"*  
+L'homme reprends :  
+*- "Silence! Vous allez alerter les gardes! Zut, ils arrivent ..."*  
+Des pas approchent. Une autre voix.  
+*- "Ca va Drystan?"*  
+*- "Oui, oui, je m'amusais avec le prisonnier, tiens charogne"*  
+[Gwion](/bestiaire/gwion-gornoc) reçoit un coup de pied dans le ventre.  
+*- "gnnn, gnnn, gnnn"*
+Un temps indéterminé plus tard.  
+*- "Vous pouvez marcher?"*  
+*- "gnnn, gnnn, gnnn"*  
+*- "Je prends ça pour un oui, levez-vous, je ne vous enlève pas le sac pour ne pas être maudit par votre regard. Je suis Drystan, je suis un homme de Pedr Pimalo"*  
+[Gwion](/bestiaire/gwion-gornoc)  accepte de se lever. Il entend les chouettes dans la nuit et le bruit de la forêt. Soutenu par Drystan, les deux fugitifs s'éloignent du campement.  
+Soudain Drystan se fige.  
+Une autre voix.  
+*- "Alors l'ami, tu joues à quoi avec le prisonnier"*
+*- "Il a demandé à pisser"*
+*- "Laisse le se faire dessus. Je crois surtout que tu te moques de nous"*  
+Drystan semble hésiter.  
+Soudain, il arrache le sac sur la tête de Gwion.   
+*- "Courrez!"*  
+Drystan dégaine son glaive et s'élance vers ses adversaires beaucoup plus nombreux. Certains se jettent sur Drystan et d'autres s'élancent à la poursuite de [Gwion](/bestiaire/gwion-gornoc) qui porte toujours le bâillon et qui a les mains attachées dans le dos. Tout son corps lui fait mal.  
+Il tombe.  
+*- "gnnn, gnnn, gnnn"*  
+Malgré la douleur, il se relève. Il entend au loin les cris d'agonie de Drystan. Il se retourne et voit quatre silhouettes à ses trousses. Il pense à renoncer mais dans un élan désespéré, reprend sa fuite. Dans cette obscurité, le moindre faux pas peut-être fatal et les forêts sont épaisses. Il trébuche une nouvelle fois et tombe en rouler-bouler au fond d'un petit vallon, heureusement rempli de feuilles de chênes. Il veut se relever, mais remarque que ses pas s'enfoncent dans le sol.  
+Un bruit de bulles se fait entendre. Il comprend : une vasière. Lorsque ses poursuivants arrivent à sa hauteur, [Gwion](/bestiaire/gwion-gornoc) est déjà enfoncé jusqu'aux cuisses.  
+*- "gnnn, gnnn, gnnn"*  
+*- "On le laisse couler les gars?"*   
+Les brutes s'esclaffent. Une sifflement sec et le bruit d'un impact fend le silence de la forêt, suivi de trois autres. Les quatre brutes tombent en avant dans la vasière, chacun une flèche à travers le corps.  
+*- "Il va falloir revoir mes honoraires"*  
+[Gwion](/bestiaire/gwion-gornoc) continue de s'enfoncer mais n'a jamais été aussi content de revoir Pedr Pimalo. Il reconnait aussi Siwan Vlatcano, la tante de [Lôchetos](/bestiaire/lochetos-vlatcano) et [Owain](/bestiaire/owain-macaro) le Gwylwir. Epuisé, Gwion est emmené. Siwan et Pedr partent éliminer le reste des gardes et récupérer la dépouille de Drystan.  
