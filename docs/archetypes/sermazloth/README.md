@@ -10,7 +10,7 @@ title: Sermazloth
 |**3**|[Présence infernale](#presence-infernale)|
 |**4**|[Résistance infernale](#resistance-infernale)|
 |**5**|[Rage infernale (+1)](#rage-infernale)|
-
+|**7**|[Métabolisme infernal](#metabolisme-infernal)|
 |**8**|[Célérité infernale](#celerite-infernale)|
 
 |**10**|[Rage infernale (+2)](#rage-infernale)|
@@ -37,24 +37,24 @@ L'histoire de l'ordre des Sermazloths se perd dans les nimbes du passé. Il est 
 Les Sermazloths de la voie des Armes sont appelés Seurez Loskadur, littéralement «Soeur de la brûlure». Les Sermazloths de la voie de l’Ombre sont appelés Seurez Marv, littéralement «Soeur de la mort». Les Sermazloths de la voie de la Magie sont appelés Seurez Tenval Anaoudegezh, littéralement « Soeur de la sombre connaissance».  
 
 ### Présence infernale  
-**En Khernaë: **    
+**En Khernaë: Bezañs Infern**    
 À partir du niveau 3,  la Sermazloth est intimidante. Elle a toujours un avantage pour ses tests d'intimidation, avec un bonus de +3 lorsque la cible est Khernaëe.   
 
 ### Résistance infernale  
-**En Khernaë: **    
+**En Khernaë: Harz Infern**    
 À partir du niveau 4, la Sermazloth est résistante à toutes les formes de poisons et les maladies, mêmes celles d'origines magiques. Ainsi, elle obtient un avantage sur tout ses tests et ne subit que la moitié des dommages.    
 
 
 ### Rage infernale
-**En Khernaë: **  
+**En Khernaë: Drough Infern**  
 À partir du niveau 5,  la Sermazloth ajoute +1 lors du calcul des dégâts infligés. Cela représente la rage avec laquelle, la Sermazloth porte ses coups. Le bonus passe à +2 au niveau 10, +3 au niveau et +4 au niveau 20.   
 
-###
-**En Khernaë: **  
-À partir du niveau 7,
+### Métabolisme infernal
+**En Khernaë: Mabol'gh Infern**  
+À partir du niveau 7, la Sermazloth est habituée à jeuner et se contente de peu pour survivre. Vous pouvez jeûner pendant un nombre de jour égal à 6 + son modificateur de Constitution (avec un minimum de 1) au lieu de 3.
 
 ### Célérité infernale
-**En Khernaë: **  
+**En Khernaë: Herderr Infern**  
 À partir du niveau 8,  la Sermazloth gagne 3m dans sa capacité de déplacement maximum autours d'un round.
 
 ###  
@@ -62,7 +62,7 @@ Les Sermazloths de la voie des Armes sont appelés Seurez Loskadur, littéraleme
 À partir du niveau 9,
 
 ### Immunité infernale
-**En Khernaë: **  
+**En Khernaë: Dive'cg Ifern**  
 A partir du niveau 10, la Sermazloth est immunisée à toutes les formes de poisons et les maladies, mêmes celles d'origines magiques.
 
 ###
