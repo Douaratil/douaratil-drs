@@ -17,7 +17,7 @@ ac:
   armorType: "custom"
   value: "14 (armure de cuir)"
 skills:
-  - name: "acrobatie"
+  - name: "acrobaties"
   - name: "religion"
   - name: "survie"
 movement:
