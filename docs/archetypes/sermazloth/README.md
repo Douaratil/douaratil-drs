@@ -32,7 +32,7 @@ En tant que Sermazloth, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : Matériel d'empoisonneur.    
 **Jets de sauvegarde** : Sagesse, Constitution.    
 **Compétences** : choisissez trois compétences parmi les suivantes : Acrobatie, Athlétisme, Dressage, Perception, Religion et Survie.    
-**Conditions d'accessibilité**: Être de culture Khernaëe, être de sexe féminin.    
+**Conditions d'accessibilité**: Être de culture Khernaëe, être de sexe féminin, être d'alignement mauvais.    
 **Points de Magie** : La Sermazloth est un Archétype mystique, de ce fait, elle développe les points de Foi (PF) s’elle emprunte la voie de la Magie.  
 
 L'histoire de l'ordre des Sermazloths se perd dans les nimbes du passé. Il est divisé en plusieurs familles qui se répartissent sur le territoire mais qui restent soumises au monastère principal de Vantréhic. Les Sermazloths sont des moniales khernaëes formées à leur sacerdoce dans des conditions "infernales" car elles sont considérées comme les gardiennes des enfers. Elles portent des piercings et des scarifications au fur et à mesure de leur initiation et de leur progression dans la hiérarchie moniale.     
@@ -58,7 +58,7 @@ Les Sermazloth sont organisées en sororités d'adoratrices.
 
 ### Rage infernale
 **En Khernaë: Drough Infern**  
-À partir du niveau 5,  la Sermazloth ajoute +1 lors du calcul des dégâts infligés. Cela représente la rage avec laquelle, la Sermazloth porte ses coups. Le bonus passe à +2 au niveau 10, +3 au niveau et +4 au niveau 20.   
+À partir du niveau 5,  la Sermazloth ajoute +1 lors du calcul des dégâts infligés. Cela représente la rage avec laquelle, la Sermazloth porte ses coups. Le bonus passe à +2 au niveau 10, +3 au niveau 15 et +4 au niveau 20.   
 
 ### Métabolisme infernal
 **En Khernaë: Mabol'gh Infern**  
