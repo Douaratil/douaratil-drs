@@ -63,6 +63,8 @@ languages:
 
 telepathy: 72
 
+source: "Elric"
+
 ---
 ## Capacités
 _**Absorption de la trame**_. Quand Vhaxrrixz contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
