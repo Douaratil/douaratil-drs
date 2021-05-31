@@ -15,7 +15,7 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
 ## Panthéon des dieux primaires & Herbier.
 Le panthéon des dieux primaires, inventés par Elric, a été complété en ligne avec l'ajout du dieu [Lhaothlastholo](/bestiaire/lhaothlastholo), Dieu des prophéties, des malédictions, des bénédictions et des secrets et de la déesse [Vhaxrrixz](/bestiaire/vhaxrrixz), Déesse de la vérité, des rêves et des choix.
-L'herbier (section plantes) a été aussi complété en ajoutant une modulation des DD de difficulté de cueillette suivant les saisons.  
+L'herbier (section plantes) a été aussi complétée en ajoutant une modulation des DD de difficulté de cueillette suivant les saisons.  
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
