@@ -93,12 +93,12 @@ _**Vérité**_. Vhaxrrixz désigne une cible qu'elle peut voir dans un rayon de 
 
 ## Description  
 Déesse de la vérité, des rêves et des choix  
-**Symbole** : une femme, les yeux fermé, la gorge coupée
-**Plan d’origine** : -
-**Attribution** : Vérité, loyauté, choix, rêve
-**Adorateur** : peu de monde
-**Domaine** : Vérité, Rêve, Choix
-**Arme de prédilection** : dague
+**Symbole** : une femme, les yeux fermé, la gorge coupée  
+**Plan d’origine** : -  
+**Attribution** : Vérité, loyauté, choix, rêve  
+**Adorateur** : peu de monde  
+**Domaine** : Vérité, Rêve, Choix  
+**Arme de prédilection** : dague  
 Vhaxrrixz, déesse de la vérité, des rêves et des choix est dépeinte dans des tableaux comme une jeune femme, les yeux fermés comme si elle dormait mais debout, et la gorge coupée. Sa gorge a été tranchée par sa sœur, Sheggothlil, pour qu’elle ne dise plus la vérité. Cette déesse a donné les lois aux mortels, ainsi que les principes moraux. Vhaxrrixz n’est pas priée, car à quoi bon prier la déesse de la vérité, qui ne peut plus la transcrire avec la gorge coupée. Mais les hommes et les femmes se trompent en lui accordant aussi peu d’intérêt, car ils semblent un peu trop oublier que c’est aussi la déesse des rêves et des choix.  
 
 
