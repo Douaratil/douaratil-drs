@@ -46,7 +46,7 @@ Ne laissant pas le temps aux villageois de réagir, l’homme masqué sort de l�
 
 **3 Miz Mae**  
 Tous le monde a quitté Ker-Saozon sauf [Tiberius](/bestiaire/tiberius-don-alonzo) qui est resté près d'Azenor. [Owain](/bestiaire/owain-macaro) apprend que les clans Nantono, Dagano et Hizino ont rassemblés leurs troupes mobilisant 85 fantassins légers, 70 fantassins lourds, 38 éclaireurs, 13 archers et 16 cavaliers légers.  
-[Owain](/bestiaire/owain-macaro), [Lôchetos](/bestiaire/lochetos-vlatcano) et [Gwion](/bestiaire/gwion-gornoc) apprennent leurs domaines font l'objets de raids réguliers et les gens sous leurs autorités se sont dispersés.  
+[Owain](/bestiaire/owain-macaro), [Lôchetos](/bestiaire/lochetos-vlatcano) et [Gwion](/bestiaire/gwion-gornoc) apprennent que leurs domaines font l'objets de raids réguliers et les gens sous leurs autorités se sont dispersés.  
 La délégation Vlatcano décide de retourner auprès des leurs à Thaouet, en longeant la côte sud et en remontant au nord à partir de Kostezatil
 
 **4 Miz Mae**  
@@ -60,6 +60,9 @@ Les Reks Berac'h Segalen, Friard Cornec et Sezig Le Guevel, se sont unis dans un
 
 **7 Miz Mae**  
 Les raids débutant sur le nord de Ker-Saozon, Alarig Pinvidic et Morwenna Moisan mobilisent leurs troupes. Ils envoient une navette pour demander l'aide de Goulvening Moisan qui hésite encore à s'impliquer contre ses pairs.  Ker-Saozon aligne 85 fantassins lourds, 25 fantassins légers, 31 éclaireurs, 58 archers et 13 cavaliers légers.  
+[Rudolf](/bestiaire/rudolf-fareg) repart rapidement pour son village natal de Tilfugtsby, au delà de Ostporten car son père Sigurd Fareg, chef de clan l'a fait mandé. C'est un peu avec appréhension que le jeune [Rudolf](/bestiaire/rudolf-fareg) reprends la route vers ce qu'il considère comme une prison, lui qui a besoin de liberté et de grands espaces.  
+*La fougue de la jeunesse doit bien cesser un jour*, se dit-il en regardant Ker-Saozon s'éloigner.  
+D'autre part, la perspective d'assumer son rôle de père ne le ravi pas réellement. Il sait que Sigurd et son clan sont en porte à faux avec le clan Bernsen. Pensant aux aspects positifs, la petite Ann est douce, pétillante et intelligente ... et peu farouche dans l'intimité, ce qui ne gâche rien.  
 
 **9 Miz Mae**  
 [Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son coeur.  

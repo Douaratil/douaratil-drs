@@ -3,7 +3,7 @@ title: "Questions & réponses"
 ---
 # Questions générales  
 ### C'est quoi?    
-*Il n'y a pas réellement de réponse simple à cette question. Douaratil est un ensemble, de livres, d'aventures, de légendes, de dessins et aussi un jeu de rôle. Pour résumer, c'est mon projet créatif d'un monde de (middle fantasy) que j'ai commencé un peu, car pour l'anecdote, c'est en écrivant le background d'un personnage pour le, jeu vidéo de Dar Age of Camelot, que j'ai écrit les premières lignes.*   
+*Il n'y a pas réellement de réponse simple à cette question. Douaratil est un ensemble, de livres, d'aventures, de légendes, de dessins et aussi un jeu de rôle. Pour résumer, c'est mon projet créatif d'un monde de (middle fantasy) que j'ai commencé un peu, car pour l'anecdote, c'est en écrivant le background d'un personnage pour le, jeu vidéo de Dark Age of Camelot, que j'ai écrit les premières lignes.*   
 
 ### Des livres à lire?
 *Difficile d'évaluer sa propre écriture mais j'y ai mis beaucoup de soins et d'efforts pour développer un monde avec une vraie âme. La première série d'aventure est constituée de "l'honneur perdu", "l'ombre intime", "le hurlement du loups" et "les âmes égarées". J'ai écrit aussi les "Les dunes de sang" qui se déroule dans le même monde. Les livres se situent environ cent ans avant la période de jeu.*  
