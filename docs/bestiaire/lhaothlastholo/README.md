@@ -69,13 +69,13 @@ source: "Elric"
 
 ---
 ## Capacités
-_**Absorption de la trame**_. Quand Lhaothlastholo contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
+_**Absorption de la trame**_. Quand Lhaothlastholo contre ou dissipe un sort, il est soigné d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
 
-_**Inébranlable**_. Lhaothlastholo ne peut pas être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  
+_**Inébranlable**_. Lhaothlastholo ne peut pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  
 
 _**Résistance à la magie**_. Lhaothlastholo obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.  
 
-_**Résistance légendaire (3/jour)**_. Si Lhaothlastholo rate un jet de sauvegarde, elle peut choisir à la place de le réussir.
+_**Résistance légendaire (3/jour)**_. Si Lhaothlastholo rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
 ## Actions
 _**Attaques multiples**_. Lhaothlastholo effectue 3 attaques.  
@@ -91,7 +91,7 @@ _Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvega
 
 
 ## Actions légendaires
-Lhaothlastholo peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
+Lhaothlastholo peut faire trois actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, il récupère les actions légendaires dépensées.
 
 _**Attaque**_. Lhaothlastholo fait une attaque.
 

@@ -13,6 +13,15 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## FAQ, Panthéon, FAQ & chroniques.
+Le panthéon des dieux primaires, inventés par Elric, est enfin terminé avec l'arrivée de son dernier bébé [Emhyhruigdrux](/bestiaire/emhyhruigdrux). J'en ai profité pour réorganiser la pages des [dieux et des divnités](/dieux-divinites) et y déplacer les mythes khernaës et Oynours. Je décrierai leurs divinité techniquement plus tard.  
+J'ai rajouté une page [questions fréquentes](/FAQ). Je la complèterai au fur et à mesure.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 1 juin 2021_
+§§§
+
 ## Panthéon des dieux primaires & Herbier.
 Le panthéon des dieux primaires, inventés par Elric, a été complété en ligne avec l'ajout du dieu [Lhaothlastholo](/bestiaire/lhaothlastholo), Dieu des prophéties, des malédictions, des bénédictions et des secrets et de la déesse [Vhaxrrixz](/bestiaire/vhaxrrixz), Déesse de la vérité, des rêves et des choix.
 L'herbier (section plantes) a été aussi complétée en ajoutant une modulation des DD de difficulté de cueillette suivant les saisons.  
