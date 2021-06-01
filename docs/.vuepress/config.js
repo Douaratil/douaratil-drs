@@ -601,6 +601,11 @@ module.exports = {
       },
       {type: 'divider'},
       {
+        title: "FAQ",
+        path: '/FAQ/',
+        icon: 'mdi-head-question'
+      },
+      {
         title: "Licence OGL",
         path: '/licence-ogl/',
         icon: 'mdi-clipboard-text'
