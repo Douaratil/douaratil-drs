@@ -13,6 +13,14 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Nouveaux sorts.
+J'ai ajouté quelques nouveaux sorts forts utiles qui sont [Murmure aquatique](/grimoire/murmure-aquatique), [Sacrement de l'arbre fruitier](/grimoire/sacrement-de-l-arbre-fruitier), [Souffle du messager](/grimoire/souffle-du-messager).  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 2 juin 2021_
+§§§
+
 ## FAQ, Panthéon, FAQ & chroniques.
 Le panthéon des dieux primaires, inventés par Elric, est enfin terminé avec l'arrivée de son dernier bébé [Emhyhruigdrux](/bestiaire/emhyhruigdrux). J'en ai profité pour réorganiser la pages des [dieux et des divnités](/dieux-divinites) et y déplacer les mythes khernaës et Oynours. Je décrierai leurs divinité techniquement plus tard.  
 J'ai rajouté une page [questions fréquentes](/FAQ). Je la complèterai au fur et à mesure.  

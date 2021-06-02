@@ -7,7 +7,7 @@ title: "Chroniques du loup gris"
 Cette section raconte les aventures de :
 - **Gwion** l'Ambeanamos
 - **Lôchetos** le Llawenos
-- **Malala Soa** la Shangarah
+- **Malala Soa** la Shangharah
 - **Margs** le Bhegelm
 - **Owain** le Gwyliwir
 - **Rudolf** le Skell
