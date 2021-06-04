@@ -4,7 +4,7 @@ title: Caohaydhan
 
 ## Caohaydhan
 
-[![Caohaydhan](/caohaydhanlite.png)](https://www.douaratil.fr/cartes/caohaydhan.png)
+[![Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/caohaydhanlite.png)](https://www.douaratil.fr/cartes/caohaydhan.png)
 
 Caohaydhan est un imposant village composé de plus ou moins 321 maisons et autres bâtiments. Au dernier recensement, la population comptait 900 individus.
 Caohaydhan est une société isolée et repliée sur elle-même de ce fait les éthnies s'y retrouvent sensiblement concentrées et réparties plus exactement en 864 Meldètes, 18 Khernaës, 9 Melgs, 9 citoyens d'autres ethnies.  
