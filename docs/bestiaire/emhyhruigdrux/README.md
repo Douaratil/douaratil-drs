@@ -100,7 +100,7 @@ Dieu de la Guerre, des athlète et de la haine
 **Adorateur** : guerrier, barbare  
 **Domaine** : Guerre, Haine  
 **Arme de prédilection** : dent  
-Emhyhruigdrux, dieu de la guerre, des athlètes et de la haine est représenté dans les épopées exactement comme son homonyme féminin, Sathyakurme’de, mais recouvert de sang de la tête au pied, les yeux emplis de haine, et la bouche munie de longues dents aiguisé écumants de bave. À la différence de sa cadette, Sathyakurme’de, il n’a pas d’arme dans ses mains, mais il attaque avec ses longues dents aussi tranchantes qu’une épée.    
+Emhyhruigdrux, dieu de la guerre, des athlètes et de la haine est représenté dans les épopées exactement comme son homologue féminin, Sathyakurme’de, mais recouvert de sang de la tête au pied, les yeux emplis de haine, et la bouche munie de longues dents aiguisé écumants de bave. À la différence de sa cadette, Sathyakurme’de, il n’a pas d’arme dans ses mains, mais il attaque avec ses longues dents aussi tranchantes qu’une épée.    
 ## Dogme  
  Emhyhruigdrux est vu par ses semblables comme quelqu’un qu’il ne faut pas provoquer et vers qui il faut se plier au doigt et à l’œil. (Sa mère, son frère et sa sœur ne s’y sont pas pliés. Ils le regrettent à présent.)  
  Il est peu vénéré par les mortels car souvent substitué à un dieu de la guerre inférieur et plus accessible.  
