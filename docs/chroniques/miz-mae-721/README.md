@@ -65,16 +65,22 @@ Les raids débutant sur le nord de Ker-Saozon, Alarig Pinvidic et Morwenna Moisa
 D'autre part, la perspective d'assumer son rôle de père ne le ravi pas réellement. Il sait que Sigurd et son clan sont en porte à faux avec le clan Bernsen. Pensant aux aspects positifs, la petite Ann est douce, pétillante et intelligente ... et peu farouche dans l'intimité, ce qui ne gâche rien.  
 
 **9 Miz Mae**  
-[Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son coeur.  
+[Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son cœur.  
 Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un parquet de rouleaux de parchemins en peau de chèvre.  
 *- Voici des sortilège que je n'ai jamais pris le temps d'apprendre mais l'heure étant grave, tu en feras meilleur usage que moi. Je te souhaite bonne chance car tu as encore beaucoup à faire et les forces m'abandonnent. Je ne t'envie pas [Gwion](/bestiaire/gwion-gornoc).*  
 [Gwion](/bestiaire/gwion-gornoc) repart sur sa monture, chargé de documents précieux.  
 
 **10 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc) prie et offre des sacrifices à Lhaothlastholo. Il étudie aussi le sort « Invisibilité », transmis par Siarl.  
+[Rudolf](/bestiaire/rudolf-fareg) arrive dans son village natal de Tilfugtsby. Son père Sigurd le reçoit assez froidement et gromèle :  
+*- "Il est temps pour toi de grandir un peu ... J'espère que ta tête dure va se remplir un peu de raison"*  
+Son frère Bjorn l'accueil avec un peu de distance mais la situation se détend rapidement avec l'arrivée du petit Olaf, son fils et neveu de [Rudolf](/bestiaire/rudolf-fareg), qui a échappé aux bras d'Hedvig sa belle soeur. Olaf court autours de tonton "[Rudolf](/bestiaire/rudolf-fareg)". Le jeune guerrier lui offre un petit jouet en bois qu'il a taillé pendant son voyage et qui représente un ours. Olaf est ravi et s'enfuie avec son nouveau trésor.  
+La soirée est détendue et propice aux retrouvailles. Signe Fareg, la mère de [Rudolf](/bestiaire/rudolf-fareg), regarde son fils avec mélancolie. Elle sait qu'elle va le perdre.  
+
 
 **11 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc) part en direction de Thaouet à cheval. Il continue d’apprendre ses sorts. Il offre à nouveau des cadeaux à Lhaothlastolho.
+A Tilfugtsby, l'ambiance est lourde. Les guerriers du clan Bernsen et Fareg se sont réunis. Les deux chefs de clans Thorkild et Sigurd se font face. Sigurd a expliqué à [Rudolf](/bestiaire/rudolf-fareg) l'accord qu'il attend entre les deux clans. [Rudolf](/bestiaire/rudolf-fareg) étant plus jeune que son frère Bjorn qui a 20 ans, il n'est pas l'héritier direct du clan. Sa soeur Maja qui a 15 ans sera mariée à un autre clan. Un autre clan que les Bernsen en tous cas même si cela avait été envisagé par le passé. Il est donc décidé que [Rudolf](/bestiaire/rudolf-fareg) épouse Ann et reconnaisse sa fille Aase. Les frères d'Ann étant plus jeunes, Thorvald ayant 12 ans et Soren ayant 13 ans, il est décidé que [Rudolf](/bestiaire/rudolf-fareg) soit adpoté comme fils par Thorkild et abandonne le nom de Fareg pour devenir un Bernsen. En échange, il hérite de la gestion du clan en maintenant à titre honorifique la place de Thorkild. Les Bernsen et les Faregs seront alliés et les Bernsens prêteront allégeances au clan Fareg.
 
 **16 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc), arrivé à Thaouet prend une chambre en ville et va voir l’échoppe qu’il avait repéré il y a plusieurs mois déjà du nom « Les mystères d’Orient » tenue par Osrath Ibn Zendrim. Il achète 20 doses de fortiliane et se renseigne sur les différents articles de son échoppe.  
