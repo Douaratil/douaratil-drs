@@ -27,3 +27,4 @@ Le site a été créé pour regrouper les règles du jeu et les informations sur
 - [Miz Moz Anno 721](/chroniques/miz-morz-721/)
 - [Miz Ebrel Anno 721](/chroniques/miz-ebrel-721/)
 - [Miz Mae Anno 721](/chroniques/miz-mae-721/)
+- [Miz Even Anno 721](/chroniques/miz-even-721/)

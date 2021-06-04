@@ -580,6 +580,11 @@ module.exports = {
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-mae-721'
               },
+              {
+                title: "Miz Even 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-even-721'
+              }
             ]
           },
           {title: "Atlas",
