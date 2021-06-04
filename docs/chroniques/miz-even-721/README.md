@@ -33,3 +33,10 @@ Une fois sorti de la protection des côtes, la mer est déjà plus agitée et in
 Le ciel est bas en ce jour et les forces du vents viennent arracher des volutes des nuages qui viennent s'étaler sur la surface de l'eau en de larges nappes de brumes qui dissimule les rochers à fleur d'eau.  
 C'est en fin de matinée que la côte mystérieuse d'Avelhaden se découpe à l'horizon. Pedr Primalo qui est à la manœuvre remarque deux voiles qui semble remonter dans la direction du navire.  
 *-"Ils ont du nous prendre pour des marchands égarés"*, se met-il à crier en désignant les voiles menaçantes.  
+S'en suit un long moment d'angoisse où les bateaux plus rapides remontent et présentent à portée de flèches. Monopolisant leur attention, les compagnons n'ont pas vu qu'ils était presque arrivée et déjà l'écume jaillissante de la roche aux cheveux d'argent jonchée d'épaves attirées par des naufrageurs ou de marins peu aguerris, avant de pénétrer dans la baie paisible où la mer se calme, surplombée par les falaises et les maisons de Dinas Mor-Leidr.  
+Les poursuivants semblent avoir lâché l'affaire et les compagnons peuvent admirer les hautes falaises, écouter le cris des mouettes et le grondement des vagues contre les rochers et les .... les squelettes humains en bas des falaises dans des cages à fleur d'eau.  
+D'autres bateaux vont et viennent sans se soucier de l'arrivée de nouveaux venus.  
+La ville semble de prime abords une ville tout à fait normale à l'exception des blasons affichant des têtes de morts en haut des mâts des bateaux.  
+Une fois débarqués et au prix de quelques pièces sonnantes et trébuchantes, les compagnons s'installent dans le quartier marchand à la taverne du rat royal (Shû Hûangshi) qui est suffisamment bien entretenu pour convenir mais aussi fréquenté à l'occasion par des courtisanes. Les chambres peuvent être louées avec compagnie.  
+Prenant contact avec Guénolé Quintin, la patronne, pour se renseigner sur les attractions locales et les bons coins à visiter, ils sont dirigés vers les arènes souterraines tenues par le clan des crabes jaunes.  
+Un lieu pleins de divertissements et de sensations fortes.  
