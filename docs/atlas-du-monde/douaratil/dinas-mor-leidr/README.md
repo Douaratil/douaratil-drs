@@ -2,14 +2,15 @@
 title: "Dinas Mor-Leidr"
 ---
 ## Dinas Môr-Leidr   
+[![Caohaydhan](/dinas-mor-leidrlite.png)](https://www.douaratil.fr/cartes/dinas-mor-leidr.jpg)
 
 Dinas Môr-Leidr est une petite cité portuaire construite au sud-est de l’île légendaire d’Avelhaden.Meldète Elle est composée de plus ou moins 345 maisons et autres bâtiments. Au dernier recensement, la population comptait 758 individus.   
 Dinas Môr-Leidr est une société cosmopolite où tout un chacun a le droit d'y loger de ce fait les ethnies s'y retrouvent fort différentes avec beaucoup de muticulturalité et réparties plus exactement en 273 Meldètes, 152 Khernaës, 136 Melgs, 76 Alcantes, 53 Ygouths, 38 Lassymides, 23 Ashkémites, 7 citoyens d'autres ethnies.   
 **Commerces, guildes et aventuriers, héros**  
-Il existe dans Dinas Môr-Leidr, 14 commerces remarquables (voir la liste des commerces).  
-Dinas Môr-Leidr comporte en son sein un aventurier remarqable (voir l'aventurier).   
-Dinas Môr-Leidr a le privilège d'avoir parmi ses habitants 2 héros ayant accompli quelques chose d’exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici.(voir liste des héros).   
-Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.(voir liste les lieux).   
+Il existe dans Dinas Môr-Leidr, 14 commerces remarquables [(voir la liste des commerces)](/#commerces).  
+Dinas Môr-Leidr comporte en son sein un aventurier remarquable [(voir l'aventurier)](/#aventurier).   
+Dinas Môr-Leidr a le privilège d'avoir parmi ses habitants 2 héros ayant accompli quelques chose d’exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici.[(voir liste des héros)](/#heros).   
+Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.[(voir liste les lieux)](/#lieux).   
 ### Dirigeant(s)   
 La ville est dirigée par un pirate, ancien Genos Meldète déchu portant le nom de Ateponos Vertor (Meldète, masculin)   
 ### Economie
@@ -60,19 +61,18 @@ Détails des nobles, professionnels, religieux ou assimilés, aventuriers et hé
 - Un alchimiste du nom de Enya Mersuros (Meldète, féminin)   
 - Un scribe du nom de Keith Sagilos (Meldète, féminin)   
 - Un scribe du nom de Logan Teutos (Meldète, masculin)   
-
-- Une auberge portant le nom : Au renard qui philosophe Détail   
-- Une auberge portant le nom : La belle et le roc Détail   
-- Une auberge portant le nom : A la muse affectueuse Détail   
+- Une auberge portant le nom : Au renard qui philosophe [Détail](/#au-renard-qui-philosophe)   
+- Une auberge portant le nom : La belle et le roc [Détail](/#la-belle-et-le-roc)   
+- Une auberge portant le nom : A la muse affectueuse [Détail](/#a-la-muse-affectueuse)   
 - Une boulangerie tenu par Yorrick Adamatos (Meldète, masculin)   
-- Une auberge portant le nom : Le rat royal Détail   
-- Une auberge portant le nom : La loutre joviale Détail   
+- Une auberge portant le nom : Le rat royal [Détail](/#le-rat-royal)   
+- Une auberge portant le nom : La loutre joviale [Détail](/#la-loutre-joviale)   
 - Une petite échoppe de magie tenu par Alarig Guyomard (Khernaë, masculin)   
 - Une temple d'une divinité mauvaise tenu par Evène Daupertos (Meldète, féminin)   
 - Une salle de jeux tenu par Nolvenn Le Tallec (Khernaë, féminin)   
 - Une petite échoppe de magie tenu par Silven Eponinos (Meldète, féminin)  
 - Une auberge portant le nom : Le chemin perdu Détail   
-- Une auberge portant le nom : Au bol bleu Détail   
+- Une auberge portant le nom : Au bol bleu [Détail](/#au-bol-bleu)   
 
 ### Aventurier
 - Elid Mordelet (Khernaë, masculin) Dall Danser de niveau 9 de tendance bienveillante  
@@ -84,7 +84,7 @@ Détails des nobles, professionnels, religieux ou assimilés, aventuriers et hé
 ### Auberges :
 
 
-### Au renard qui philosophe (Sionnach’Athronwyr )
+#### Au renard qui philosophe (Sionnach’Athronwyr )
 Au renard qui philosophe est un établissement de mauvaise qualité tenu par Glenn Velacostos (Meldète, féminin).   
 
 Le bâtiment de forme rectangulaire est composé d'un unique rez-de-chaussée, la toiture semble ne plus beaucoup tenir. A l'intérieur, se trouve une salle pouvant contenir 10 personnes. Des débris de mobiliers témoignant des nombreuses bagarres démontre la qualité de l'auberge. Derrière, se situe la cuisine où Daros Catlos (Meldète, masculin) est au fourneau. Le cuistot prépare une tourte au mouton qu'il est fort déconseillé de manger.   
@@ -94,7 +94,7 @@ Il est seulement possible d'avoir le service suivant dans cet établissement :
 
 Il est fréquent de croiser le chemin de individus peu fréquentables, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-### La belle et le roc (Jamila wad’n sakhar
+#### La belle et le roc (Jamila wad’n sakhar)
 La belle et le roc est une auberge qui est plutôt réputée tenue par Zirat-banit (Ashkémite, féminin) et son amie Melaine Segalen (Khernaëe, féminin).   
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et de deux étages, la bâtisse témoigne d'un excellent savoir-faire. Au rez-de-chaussée, se trouve une salle pouvant contenir au maximum 40 personnes. Un sol aux pierres parfaitement taillées illustre la qualité de l'auberge. Dans le fond, se situe la cuisine où Gwinal Kerprigent (Khernaë, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Ragoût de lapin sauce verte" de toute la région.   
@@ -122,7 +122,7 @@ Il est possible de bénéficier des 3 services suivants dans cet établissement 
 
 Dans cette auberge, on peut rencontrer des engeances de la ville, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-### Le rat royal (Shû Hûangshi)
+#### Le rat royal (Shû Hûangshi)
 Le rat royal est un établissement qui est plutôt prestigieux tenu par Guénolé Quintin (Khernaë, féminin).   
 
 Le bâtiment en forme de H est composé d'un rez-de-chaussée et de deux étages, celui-ci est idéalement situé au cœur de la ville. Au rez-de-chaussée, se trouve une salle pouvant contenir 40 personnes. Des boiseries finement ciselées révèlent la qualité de l'auberge. Derrière, se situe la cuisine où Chang Zemin (Ygouth, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Lapin au sirop" de toute la région.   
@@ -138,7 +138,7 @@ Il est possible de bénéficier des 5 services suivants dans cet établissement 
 
 L'on y rencontre souvent des héros cherchant fortune dans les eaux troubles et coulant des jours heureux, de plus la proximité de la tour d'un magicien renommé, semble attirer bon nombre de voyageurs.  
 
-### La loutre joviale (Qundus Marahana)  
+#### La loutre joviale (Qundus Marahana)  
 La loutre joviale est une résidence qui est plutôt de qualité médiocre tenue par Adham el-Jalil (Lassymide, masculin) et un ancien compagnon d'aventure Asinius Cecilius (Alcante, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, celui-ci laisse entrevoir le ciel en de nombreux endroits. Au rez-de-chaussée, se trouve une salle pouvant contenir au maximum 20 personnes. Sur le côté, se situe la cuisine où Soaig Menguy (Khernaë, masculin) est au fourneau. Le cuistot prépare un ragoût d’abats qu'il est fort déconseillé de manger.  
@@ -151,7 +151,7 @@ Il est possible de bénéficier des 3 services suivants dans cet établissement 
 
 L'on y rencontre souvent des individus peu fréquentables, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-### Le chemin perdu (Tariq Daillie)
+#### Le chemin perdu (Tariq Daillie)
 Le chemin perdu est une auberge réputée tenue par Haatim el-Uddin (Lassymide, masculin).   
 
 Le bâtiment en forme de U est composé d'un rez-de-chaussée et de deux étages, l'architecture de la maison est très recherchée. Au rez-de-chaussée, se trouve une salle pouvant contenir 40 personnes. Sur le côté, se situe la cuisine où Dai Shun (Ygouth, féminin) est au fourneau. La cuistot se targue de faire le meilleur "Potage Jaunet" de toute la région.   
@@ -168,8 +168,8 @@ Il est possible de bénéficier des 6 services suivants dans cet établissement 
 
 Dans cet établissement viennent souvent des nobles et des nantis n'ayant d'autre occupation que de se détendre, de plus la proximité de la tour d'un magicien renommé, semble attirer bon nombre de voyageurs.   
 
-### Au bol bleu (Wân Lân Sè de)  
-Au bol bleu est une taverne de qualité médiocre tenue par Luo Ling (Ygouth, masculin).  
+#### Au bol bleu (Wân Lân Sè de)
+Au bol bleu (Wân Lân Sè de) est une taverne de qualité médiocre tenue par Luo Ling (Ygouth, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, celui-ci laisse entrevoir le ciel en de nombreux endroits. Au rez-de-chaussée, se trouve une salle pouvant contenir 10 personnes. La cheminée complètement bouchée par la suie témoignent de la qualité de l'auberge. Derrière, se situe la cuisine où Bucculeia Auxentius (Alcante, féminin) est au fourneau. La cuistot prépare un cake aux carottes qu'il est fort déconseillé de manger.  
 
@@ -182,22 +182,31 @@ Il est possible de bénéficier des 3 services suivants dans cet établissement 
 L'on y rencontre souvent des personnages à la réputation plus que douteuse, de plus la proximité des docks, permet aux marins inactifs d'être des clients assidus.   
 
 ### Lieux et toponymie  
-**Dyf’nder** (Profondeur) est l’entrée d’un profond souterrain que personne n’ose explorer.  
+
+**Alley'cath'peswch** rue du chat qui tousse.  
+**Alley'uchel** rue haute.  
+**Alley'utylan** rue extérieure.  
 **Anelg’urh** (Obscur) est une anfractuosité qui conduit aux profondeurs de la terre.  
-**Heib’ad’warh** (La passe des héros) est le passage étroit à passer en bateau pour atteindre le port. Le capitaine des bateaux sont considérés comme des héros car les courant sont traîtres et les roches pointues dans cette zone.    
-**Harb’arh** (le port) est le quartier du port et des docks.  
-**Ardal’uchel (quartier haut) est le quartier sur les hauteurs ouest.  
+**Ardal’uchel** (quartier haut) est le quartier sur les hauteurs ouest.  
 **Ardal’iselh** (Quartier bas) est le quartier qui est à proximité du port. C’est la zone la plus mal fréquentée de la ville.  
-**Pen’Marv** (Bois mourant) est le nom d’une grande zone où les arbres ont séché sur pied. Certains pensent qu’il s’agit d’une malédiction.   
-**Neidh’dirvy** (Le saut du condamné) lieu pour procéder aux exécutions depuis le haut de la falaise.  
-**Farchnadh’kavout** (Le marché trouve tout) marché sur les hauteurs est de la ville où se négocient beaucoup de biens et de services.     
-**Baeh’pery** (Baie dangereuse) zone maritime connue pour sa dangerosité.   
-**Bae’Peoch** (Baie paisible) zone maritime calme à l’entrée de la ville portuaire.  
-**Ponh’folh** (le pont des fous) pont de cordes entre les deux falaises de la ville (très dangereux).   
-**Kosten Gwer** (La côte verte)  
-**Kosten Glav’h** (La côte bleue)  
-**Cerrig Gwallt Arc’hant** (Roche des cheveux d’argent)    
-**Ceg’dragh** (La bouche du dragon)  
-**Cerrig’Nereidh** (La roche des sirènes)    
 **Bae Neidr Môr** (baie des serpents de mer)  
 **Bae Kalon’cnauh** (baie des âmes noyées)  
+**Bae’Peoch** (Baie paisible) zone maritime calme à l’entrée de la ville portuaire.  
+**Baeh’Pery** (Baie dangereuse) zone maritime connue pour sa dangerosité.   
+**Ceg’dragh** (La bouche du dragon)  
+**Cerrig Gwallt Arc’hant** (Roche des cheveux d’argent)    
+**Cerrig’Nereidh** (La roche des sirènes)    
+**Cloestr Arh'damnadh**  Cloître des âmes damnées.   
+**Dyf’nder** (Profondeur) est l’entrée d’un profond souterrain que personne n’ose explorer.  
+**Farchnadh’kavout** (Le marché trouve tout) marché sur les hauteurs est de la ville où se négocient beaucoup de biens et de services.     
+**Harb’arh** (le port) est le quartier du port et des docks.  
+**Heib’ad’warh** (La passe des héros) est le passage étroit à passer en bateau pour atteindre le port. Le capitaine des bateaux sont considérés comme des héros car les courant sont traîtres et les roches pointues dans cette zone.  
+**Koad'anhysbys** La forêt inconnue.   
+**Koad'le'mae** La forêt de l'Ouest
+**Koad'yn glir** La forêt clairsemée  
+**Koad'melinog** La forêt jaunie.  
+**Kosten Glav’h** (La côte bleue)  
+**Kosten Gwer** (La côte verte)  
+**Neidh’dirvy** (Le saut du condamné) lieu pour procéder aux exécutions depuis le haut de la falaise.   
+**Pen’Marv** (Bois mourant) est le nom d’une grande zone où les arbres ont séché sur pied. Certains pensent qu’il s’agit d’une malédiction.   
+**Ponh’folh** (le pont des fous) pont de cordes entre les deux falaises de la ville (très dangereux).   

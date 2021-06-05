@@ -121,7 +121,7 @@ village meldète.
 ## Menezlatar (Monts du)
 Rempart naturel entre les royaumes meldètes, khernaës et les grandes plaines de Thyria à l'est. Ce rempart coupe les terres du nord au sud.   
 
-## Môr-leidr (Dinas)
+## [Môr-leidr (Dinas)](/atlas-du-monde/douaratil/dinas-mor-leidr)
 Dinas Môr-leidr est une ville portuaire pirate construite sur les vestiges d'un ancien fort alcante. Adossée à des falaises, elle est facilement défendable et depuis que des pirates, il y  a de cela très longtemps, ont pris par ruse la place forte, elle n'a jamais été reprise. Naturellement, cette ville portuaire est devenue un lieu où tous les trafics se font et échappent aux lois des Reks et des Genos. Même les navigateurs shahims évitent la zone et font souvent du cabotage pour atteindre Kerzu.  
 
 ## Norshez Dentaes

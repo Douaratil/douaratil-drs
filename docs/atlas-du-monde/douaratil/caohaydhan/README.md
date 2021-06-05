@@ -4,7 +4,7 @@ title: Caohaydhan
 
 ## Caohaydhan
 
-[![Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/caohaydhanlite.png)](https://www.douaratil.fr/cartes/caohaydhan.png)
+[![Caohaydhan](/caohaydhanlite.png)](https://www.douaratil.fr/cartes/caohaydhan.jpg)
 
 Caohaydhan est un imposant village composé de plus ou moins 321 maisons et autres bâtiments. Au dernier recensement, la population comptait 900 individus.
 Caohaydhan est une société isolée et repliée sur elle-même de ce fait les éthnies s'y retrouvent sensiblement concentrées et réparties plus exactement en 864 Meldètes, 18 Khernaës, 9 Melgs, 9 citoyens d'autres ethnies.  
@@ -116,7 +116,9 @@ La région est tenues par différentes grandes familles meldètes dont voici les
 - Un parc dans le château de Caer'Caohaydhan
 - Une fontaine d'eau chaude sur la place centrale du village
 
-### Aux cent chats
+### Auberges  
+
+#### Aux cent chats
 Aux cent chats est un établissement moyen, se situant dans le quartier de Ratodh, tenu par Oddvar Nordland (Melg, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et de deux étages, la construction est correcte. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Derrière, se situe la cuisine où Ivona Danoën (Khernaë, feminin) est au fourneau. La cuistot n'a pas de recette favorite la cuisine y est correct.  
@@ -145,7 +147,7 @@ Une tourte au veau et aux céleris accompagnée d'une salade. Des gâteaux.  au 
 Boissons :  
 Bière triple, Bière de garde, Vin épicé, Vin aromatisé de thym, Vin blanc au miel , Vin de rose, Liqueur de châtaigne, Jus d'amande.
 
-### Au comptoir de la belette noire
+#### Au comptoir de la belette noire
 Au comptoir de la belette noire est un établissement médiocre, se situant dans le quartier de Ti'bring, tenu par Olaf Dyrdahl (Melg, masculin).  
 
 Le bâtiment en forme de L est composé d'un unique rez-de-chaussée, celui-ci laisse entrevoir le ciel en de nombreux endroits. A l'intérieur, se trouve une salle pouvant contenir 20 personnes. Un bar en chêne rongé par les champignons témoignent de la qualité de l'auberge. Dans le fond, se situe la cuisine où Iselle Losalo (Meldète, feminin) est au fourneau. La cuistot prépare une omelette à la sauce grise et ses croûtons qu'il est fort déconseillé de manger.  
@@ -170,7 +172,7 @@ De l'agneau à la sauce à l'ail avec un plat de pois chiches et de pourpiers en
 Boissons :  
 Bière ambrée, Bière blanche, Vin blanc, Vin de groseilles, Hydromel , Liqueur de clémentine, Jus de clémentine.
 
-### A la brasserie du renard
+#### A la brasserie du renard
 A la brasserie du renard est un établissement médiocre, se situant dans le quartier de Cyslog, tenu par Yusek Klerg (Khernaë, masculin) et sa belle soeurs Ioena Klerg (Khernaë, feminin).  
 
 Le bâtiment en forme de H est composé d'un unique rez-de-chaussée, celui-ci semble avoir subi les ravages de la guerre. A l'intérieur, se trouve une salle pouvant contenir 20 personnes. Sur le côté, se situe la cuisine où Laouig Ar Mason (Khernaë, masculin) est au fourneau. Le cuistot prépare une omelette à la sauce grise et ses croûtons qu'il est fort déconseillé de manger.  
@@ -194,7 +196,7 @@ Une tourte au poulet, au porc, au fromage, aux herbes et aux épices avec un pla
 Boissons :  
 Bière légère, Bière au miel, Vin blanc, Vin de cerises, Cervoise au miel, Vin de rose, Elixir de griotte, Jus de bleuet.  
 
-### A la mouette noire
+#### A la mouette noire
 A la mouette noire est une auberge réputée, se situant dans le quartier de Yhwall, tenue par Rusetg (Melg, feminin) et son amie d'enfance Gwenhwyfar "Gewny" Atho (Meldète, feminin).   
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, à la vue de sa robustesse, on se dit qu'il doit être de construction en pierre de gré. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Un sol aux pierres parfaitement taillées donne une idée de la qualité de l'auberge. A l'arrière, se situe la cuisine où Owain Raerto (Meldète, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Civet de lapin aux épices" de toute la région.  
@@ -222,7 +224,7 @@ Des oeufs aux plats persillés accompagnés d'une bouillie d'avoine. Du pain per
 Boissons :  
 Bière forte, Bière noire, Vin liquoreux (très sucré), Vin aromatisé de thym, Hydromel aux épices, Bière fruitière, Eau de vie de griotte, Jus d'arbouse.
 
-### A la table de la mouche verte  
+#### A la table de la mouche verte  
 A la table de la mouche verte est un établissement qui est plutôt réputé tenu par Edwen Vebro (Meldète, feminin) et son ami Maredudd Veco (Meldète, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et de deux étages, la bâtisse témoigne d'un excellent savoir-faire. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Derrière, se situe la cuisine où Nesta Skarpo (Meldète, feminin) est au fourneau. La cuistot se targue de faire le meilleur "Agneau rôti au sel" de toute la région.  

@@ -40,7 +40,7 @@ Les Sermazloths de la voie des Armes sont appelés Seurez Loskadur, littéraleme
 
 Les Sermazloth sont organisées en sororités d'adoratrices.
 
-- Arh'damnadh, adoratrices des âmes damnées, banche mineure, localisée sur l'île de Avenhadel et protectrice de l'oracle Aodrena War Arc’hant.  
+- Arh'damnadh, adoratrices des âmes damnées, branche mineure, localisée sur l'île de Avenhadel et protectrice de l'oracle Aodrena War Arc’hant.  
 - Dar'chdamn, adoratrices du pic maudit, branche majeure, localisée au monastère de Vantréhic.  
 - Teifrinn, branche, mineure, adoratrices des feux infernaux, localisée à l’Est de la ville état de Thaouet.  
 - Dorchdrean, adoratrices de la sombre vallée, localisée à l’Ouest aux confins de Douarfin.  
