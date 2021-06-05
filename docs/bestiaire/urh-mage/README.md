@@ -19,7 +19,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "14 (armure de coir clouté)"
+  value: "14 (armure de cuir clouté)"
 skills:
   - name: "arcanes"
   - name: "perception"
@@ -46,8 +46,6 @@ _**Régénération**_. Le Ur'h mage récupère 10 points d'action au début de s
 
 ## Actions
 _**Attaques multiples**_. Le Ur'h mage effectue deux attaques, soit avec ses griffes, soit avec sa massue.
-
-_**Changer de forme**_. L'oni peut se métamorphoser par magie en humanoïde de taille M ou P, en géant de taille G, ou reprendre sa véritable forme. Ses statistiques, à l'exception de sa taille, restent les mêmes, quelle que soit la forme adoptée. Seule sa coutille est également transformée ; elle rétrécit pour qu'il puisse la manier quand il adopte une forme humanoïde. L'oni reprend sa véritable forme quand il meurt, et sa coutille retrouve alors sa taille normale.
 
 _**massue**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts contondant.

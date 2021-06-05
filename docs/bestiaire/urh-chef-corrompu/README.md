@@ -18,7 +18,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "11 (armure de coir clouté)"
+  value: "11 (armure de cuir clouté)"
 movement:
   walk: 12
 senses:

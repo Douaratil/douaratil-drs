@@ -13,6 +13,14 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Quelques mises à jour.
+J'ai ajouté la description de Dinas Mor-leidr dans la section de l'atlas de Douaratil. Les chroniques ont été mises aussi à jour, nous voici désormais en Miz Even. Les terribles Ur'hs sont venus garnir le bestiaire. Les joueurs ne tarderont pas à rencontrer ces étranges tribus primitives des forêts profondes et des monts du Menezlatar.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 2 juin 2021_
+§§§
+
 ## Nouveaux sorts.
 J'ai ajouté quelques nouveaux sorts forts utiles qui sont [Murmure aquatique](/grimoire/murmure-aquatique), [Sacrement de l'arbre fruitier](/grimoire/sacrement-de-l-arbre-fruitier), [Souffle du messager](/grimoire/souffle-du-messager).  
 Bon jeu.
