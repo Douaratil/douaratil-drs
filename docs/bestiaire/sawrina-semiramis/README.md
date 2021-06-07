@@ -96,13 +96,13 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)
-Sawrina possède 4 PA, 36 PE & 1322 PO, 5 PP.  
+Sawrina possède 4 PA, 36 PE & 1242 PO, 5 PP.  
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 14 180  
+**XP acquis** : 20 340   
 **Points de Magie** :10  
 **Points de Foi** :10   
 **Points d'honneur** :27  

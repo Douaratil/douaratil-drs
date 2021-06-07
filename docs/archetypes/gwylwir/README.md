@@ -68,7 +68,7 @@ Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de
 ### Attaque supplémentaire  
 **En Meldète : Onsaigh’bharrachd**  
 À partir du niveau 6, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
-Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Gwylwir vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +1 aux dégâts au niveau 6 et +2 au niveau 15.  
+Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Gwylwir vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +2 aux dégâts au niveau 6 et +3 au niveau 15.  
 
 ### Style de combat à deux armes  
 **En Meldète : Steil Ymladd**  

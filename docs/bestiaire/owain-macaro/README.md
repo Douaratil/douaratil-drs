@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "4"
-customHP: "29"
+challenge: "5"
+customHP: "33"
 abilityScores:
   for: 10
   dex: 14
@@ -47,7 +47,7 @@ _**Historique:**_  Bandit de grand chemin.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hache, arc long, l'arc composite et les armes courantes) boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.  
 
-_**Voie des armes & Gwylwir**_. Owain est niveau 4 dans la voie des armes et Archétype Gwylwir.
+_**Voie des armes & Gwylwir**_. Owain est niveau 5 dans la voie des armes et Archétype Gwylwir.
 
 _**Style de combat Archérie**_. *(Armes)* Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.   
 
@@ -73,15 +73,17 @@ normalement.
 quand elles ont traversé la zone que vous examinez.  
 Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection supplémentaire.  
 
+_**Style de combat**_. *(Gwylwir)* Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
+
 ## Actions  
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc long**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 45/180.  
+_**Arc long**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
 _Touché_ : 6 dégâts perforants .
 
 §§§ .hero
@@ -97,18 +99,18 @@ Owain est un Meldète de vingt quatre printemps. Il a la peau blanche les cheveu
 §§§ .hero
 ### Equipement:  
 Owain possède l'équipement suivant : une couverture, des vêtements de voyage, (20) chausses trappes, (2)boîtes à amadou, outre d'eau, bourse, glaive, une hache, un arc long, un carquois, (17)flèches, une armure de cuir, sac de couchage, un sac à dos, une gamelle, (10) torches, (10)jours de ration, une outre, une corde de chanvre (15m).  
-Owain possède aussi un âne avec 4 sacoches (210 kg de portage). 2500 PC, 50 PA & 115 PO.  
+Owain possède aussi un âne avec 4 sacoches (210 kg de portage). 2496 PC, 50 PA & 35 PO.  
 §§§
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 §§§
 
 §§§ .hero  
 ### Autres informations:  
-**XP acquis** : 6250  
+**XP acquis** : 10390  
 **Points de Magie** :10  
 **Points de Foi** :10   
-**Points d'honneur** :18  
+**Points d'honneur** :20  
 §§§

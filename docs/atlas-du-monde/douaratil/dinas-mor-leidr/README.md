@@ -7,10 +7,10 @@ title: "Dinas Mor-Leidr"
 Dinas Môr-Leidr est une petite cité portuaire construite au sud-est de l’île légendaire d’Avelhaden.Meldète Elle est composée de plus ou moins 345 maisons et autres bâtiments. Au dernier recensement, la population comptait 758 individus.   
 Dinas Môr-Leidr est une société cosmopolite où tout un chacun a le droit d'y loger de ce fait les ethnies s'y retrouvent fort différentes avec beaucoup de muticulturalité et réparties plus exactement en 273 Meldètes, 152 Khernaës, 136 Melgs, 76 Alcantes, 53 Ygouths, 38 Lassymides, 23 Ashkémites, 7 citoyens d'autres ethnies.   
 **Commerces, guildes et aventuriers, héros**  
-Il existe dans Dinas Môr-Leidr, 14 commerces remarquables [(voir la liste des commerces)](/#commerces).  
-Dinas Môr-Leidr comporte en son sein un aventurier remarquable [(voir l'aventurier)](/#aventurier).   
-Dinas Môr-Leidr a le privilège d'avoir parmi ses habitants 2 héros ayant accompli quelques chose d’exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici.[(voir liste des héros)](/#heros).   
-Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.[(voir liste les lieux)](/#lieux).   
+Il existe dans Dinas Môr-Leidr, 14 commerces remarquables [(voir la liste des commerces)](#commerces).  
+Dinas Môr-Leidr comporte en son sein un aventurier remarquable [(voir l'aventurier)](#aventurier).   
+Dinas Môr-Leidr a le privilège d'avoir parmi ses habitants 2 héros ayant accompli quelques chose d’exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici.[(voir liste des héros)](#heros).   
+Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.[(voir liste les lieux)](#lieux).   
 ### Dirigeant(s)   
 La ville est dirigée par un pirate, ancien Genos Meldète déchu portant le nom de Ateponos Vertor (Meldète, masculin)   
 ### Economie
@@ -61,18 +61,20 @@ Détails des nobles, professionnels, religieux ou assimilés, aventuriers et hé
 - Un alchimiste du nom de Enya Mersuros (Meldète, féminin)   
 - Un scribe du nom de Keith Sagilos (Meldète, féminin)   
 - Un scribe du nom de Logan Teutos (Meldète, masculin)   
-- Une auberge portant le nom : Au renard qui philosophe [Détail](/#au-renard-qui-philosophe)   
-- Une auberge portant le nom : La belle et le roc [Détail](/#la-belle-et-le-roc)   
-- Une auberge portant le nom : A la muse affectueuse [Détail](/#a-la-muse-affectueuse)   
+
+### Commerces
+- Une auberge portant le nom : Au renard qui philosophe [Détail](#au-renard-qui-philosophe)   
+- Une auberge portant le nom : La belle et le roc [Détail](#la-belle-et-le-roc)   
+- Une auberge portant le nom : A la muse affectueuse [Détail](#a-la-muse-affectueuse)   
 - Une boulangerie tenu par Yorrick Adamatos (Meldète, masculin)   
-- Une auberge portant le nom : Le rat royal [Détail](/#le-rat-royal)   
-- Une auberge portant le nom : La loutre joviale [Détail](/#la-loutre-joviale)   
+- Une auberge portant le nom : Le rat royal [Détail](#le-rat-royal)   
+- Une auberge portant le nom : La loutre joviale [Détail](#la-loutre-joviale)   
 - Une petite échoppe de magie tenu par Alarig Guyomard (Khernaë, masculin)   
 - Une temple d'une divinité mauvaise tenu par Evène Daupertos (Meldète, féminin)   
 - Une salle de jeux tenu par Nolvenn Le Tallec (Khernaë, féminin)   
 - Une petite échoppe de magie tenu par Silven Eponinos (Meldète, féminin)  
 - Une auberge portant le nom : Le chemin perdu Détail   
-- Une auberge portant le nom : Au bol bleu [Détail](/#au-bol-bleu)   
+- Une auberge portant le nom : Au bol bleu [Détail](#au-bol-bleu)   
 
 ### Aventurier
 - Elid Mordelet (Khernaë, masculin) Dall Danser de niveau 9 de tendance bienveillante  
@@ -84,8 +86,8 @@ Détails des nobles, professionnels, religieux ou assimilés, aventuriers et hé
 ### Auberges :
 
 
-#### Au renard qui philosophe (Sionnach’Athronwyr )
-Au renard qui philosophe est un établissement de mauvaise qualité tenu par Glenn Velacostos (Meldète, féminin).   
+#### Au renard qui philosophe
+Au renard qui philosophe (Sionnach’Athronwyr )est un établissement de mauvaise qualité tenu par Glenn Velacostos (Meldète, féminin).   
 
 Le bâtiment de forme rectangulaire est composé d'un unique rez-de-chaussée, la toiture semble ne plus beaucoup tenir. A l'intérieur, se trouve une salle pouvant contenir 10 personnes. Des débris de mobiliers témoignant des nombreuses bagarres démontre la qualité de l'auberge. Derrière, se situe la cuisine où Daros Catlos (Meldète, masculin) est au fourneau. Le cuistot prépare une tourte au mouton qu'il est fort déconseillé de manger.   
 
@@ -94,8 +96,8 @@ Il est seulement possible d'avoir le service suivant dans cet établissement :
 
 Il est fréquent de croiser le chemin de individus peu fréquentables, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-#### La belle et le roc (Jamila wad’n sakhar)
-La belle et le roc est une auberge qui est plutôt réputée tenue par Zirat-banit (Ashkémite, féminin) et son amie Melaine Segalen (Khernaëe, féminin).   
+#### La belle et le roc
+La belle et le roc (Jamila wad’n sakhar) est une auberge qui est plutôt réputée tenue par Zirat-banit (Ashkémite, féminin) et son amie Melaine Segalen (Khernaëe, féminin).   
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et de deux étages, la bâtisse témoigne d'un excellent savoir-faire. Au rez-de-chaussée, se trouve une salle pouvant contenir au maximum 40 personnes. Un sol aux pierres parfaitement taillées illustre la qualité de l'auberge. Dans le fond, se situe la cuisine où Gwinal Kerprigent (Khernaë, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Ragoût de lapin sauce verte" de toute la région.   
 
@@ -109,8 +111,8 @@ Il est possible de bénéficier des 4 services suivants dans cet établissement 
 
 Dans cet établissement viennent souvent des riches marchands se reposant avant de repartir, de plus la proximité de l'hôtel de ville, permet d'y rencontrer souvent les notables.   
 
-#### A la muse affectueuse(Tamalhanuna)    
-A la muse affectueuse est une habitation de qualité médiocre tenue par Maiwenna Hemon (Khernaë, féminin) et son amie Tabni-Ishtar (Ashkémite, féminin). Cet établissement ne cache pas son véritable usage, celui d’être un lupanar à tenir.  
+#### A la muse affectueuse   
+A la muse affectueuse (Tamalhanuna) est une habitation de qualité médiocre tenue par Maiwenna Hemon (Khernaë, féminin) et son amie Tabni-Ishtar (Ashkémite, féminin). Cet établissement ne cache pas son véritable usage, celui d’être un lupanar à tenir.  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, celui-ci semble avoir subi les ravages de la guerre. Au rez-de-chaussée, se trouve une salle pouvant contenir 10 personnes. A l'arrière, se situe la cuisine où Shi An (Ygouth, féminin) est au fourneau. La cuistot prépare une omelette à la sauce grise et ses croûtons qu'il est fort déconseillé de manger.   
 Devant l'établissement, deux malheureux tabourets font office de terrasse.   
@@ -122,8 +124,8 @@ Il est possible de bénéficier des 3 services suivants dans cet établissement 
 
 Dans cette auberge, on peut rencontrer des engeances de la ville, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-#### Le rat royal (Shû Hûangshi)
-Le rat royal est un établissement qui est plutôt prestigieux tenu par Guénolé Quintin (Khernaë, féminin).   
+#### Le rat royal
+Le rat royal (Shû Hûangshi) est un établissement qui est plutôt prestigieux tenu par Guénolé Quintin (Khernaë, féminin).   
 
 Le bâtiment en forme de H est composé d'un rez-de-chaussée et de deux étages, celui-ci est idéalement situé au cœur de la ville. Au rez-de-chaussée, se trouve une salle pouvant contenir 40 personnes. Des boiseries finement ciselées révèlent la qualité de l'auberge. Derrière, se situe la cuisine où Chang Zemin (Ygouth, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Lapin au sirop" de toute la région.   
 
@@ -138,8 +140,8 @@ Il est possible de bénéficier des 5 services suivants dans cet établissement 
 
 L'on y rencontre souvent des héros cherchant fortune dans les eaux troubles et coulant des jours heureux, de plus la proximité de la tour d'un magicien renommé, semble attirer bon nombre de voyageurs.  
 
-#### La loutre joviale (Qundus Marahana)  
-La loutre joviale est une résidence qui est plutôt de qualité médiocre tenue par Adham el-Jalil (Lassymide, masculin) et un ancien compagnon d'aventure Asinius Cecilius (Alcante, masculin).  
+#### La loutre joviale
+La loutre joviale (Qundus Marahana) est une résidence qui est plutôt de qualité médiocre tenue par Adham el-Jalil (Lassymide, masculin) et un ancien compagnon d'aventure Asinius Cecilius (Alcante, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, celui-ci laisse entrevoir le ciel en de nombreux endroits. Au rez-de-chaussée, se trouve une salle pouvant contenir au maximum 20 personnes. Sur le côté, se situe la cuisine où Soaig Menguy (Khernaë, masculin) est au fourneau. Le cuistot prépare un ragoût d’abats qu'il est fort déconseillé de manger.  
 Devant l'établissement, deux malheureux tabourets font office de terrasse.   
@@ -151,8 +153,8 @@ Il est possible de bénéficier des 3 services suivants dans cet établissement 
 
 L'on y rencontre souvent des individus peu fréquentables, de plus la proximité des bas-quartiers, rend cet établissement peu fréquentable.   
 
-#### Le chemin perdu (Tariq Daillie)
-Le chemin perdu est une auberge réputée tenue par Haatim el-Uddin (Lassymide, masculin).   
+#### Le chemin perdu
+Le chemin perdu (Tariq Daillie) est une auberge réputée tenue par Haatim el-Uddin (Lassymide, masculin).   
 
 Le bâtiment en forme de U est composé d'un rez-de-chaussée et de deux étages, l'architecture de la maison est très recherchée. Au rez-de-chaussée, se trouve une salle pouvant contenir 40 personnes. Sur le côté, se situe la cuisine où Dai Shun (Ygouth, féminin) est au fourneau. La cuistot se targue de faire le meilleur "Potage Jaunet" de toute la région.   
 Devant l'établissement, installées sur du parquet, de belles tables et chaises permettent de se restaurer en contemplant le paysage.   
@@ -168,7 +170,7 @@ Il est possible de bénéficier des 6 services suivants dans cet établissement 
 
 Dans cet établissement viennent souvent des nobles et des nantis n'ayant d'autre occupation que de se détendre, de plus la proximité de la tour d'un magicien renommé, semble attirer bon nombre de voyageurs.   
 
-#### Au bol bleu (Wân Lân Sè de)
+#### Au bol bleu 
 Au bol bleu (Wân Lân Sè de) est une taverne de qualité médiocre tenue par Luo Ling (Ygouth, masculin).  
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage, celui-ci laisse entrevoir le ciel en de nombreux endroits. Au rez-de-chaussée, se trouve une salle pouvant contenir 10 personnes. La cheminée complètement bouchée par la suie témoignent de la qualité de l'auberge. Derrière, se situe la cuisine où Bucculeia Auxentius (Alcante, féminin) est au fourneau. La cuistot prépare un cake aux carottes qu'il est fort déconseillé de manger.  
