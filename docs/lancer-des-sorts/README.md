@@ -81,7 +81,7 @@ Quand un personnage lance un sort, il suit toujours les mêmes règles de base, 
 Lancer un sort n'engage pas une réussite automatique. La magie est un art difficile et imprévisible. **Ainsi, les sorts exigent un test de compétence d'Arcane pour la Magie et de Religion pour la Foi**. Un échec entraine la perte des points de Magie ou de Foi correspondants.
 
 §§§ .table-container
-|Niveau||Difficulté du test|
+|Niveau|Difficulté du test|
 |:-:|:-:|
 |Novice|8|
 |Disciple|12|

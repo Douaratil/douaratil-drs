@@ -65,8 +65,8 @@ A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui pe
 §§§ .table-container
 |Niveau|Intouchable sur 1d6|
 |:-:|:-:|
-|**7**|[6|
-|**11**|[5-6|
+|**7**|6|
+|**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
 §§§
