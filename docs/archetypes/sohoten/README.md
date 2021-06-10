@@ -45,68 +45,15 @@ Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement «
 À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.
 
 ### Course dans les arbres
----
-title: Sohoten
----
-# Sohoten
-
-## Évolution du Sohoten
-§§§ .table-container
-|Niveau|Aptitudes|
-|:-:|:-:|
-|**3**|[Mur de bois](#mur-de-bois)|
-|**4**|[Course dans les arbres](#course-dans-les-arbres)|
-|**5**|[Esquive intuitive (1)](#esquive-intuitive)|
-|**7**|[Coup distant (portée doublée)](#coup-distant)|
-|**8**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
-|**9**|[Coup parfait](#coup-parfait)|
-|**10**|[Esquive intuitive (2)](#esquive-intuitive)|
-|**11**|[Calligraphie](#calligraphie)|
-|**12**|[Tir puissant](#tir-puissant)|
-|**13**|[Feu intérieur](#feu-interieur)|
-|**14**|[Coup distant (portée triplée)](#coup-distant)|
-|**15**|[Esquive intuitive (3)](#esquive-intuitive)|
-|**19**|[Frappe divine](#frappe-divine)|
-|**20**|[Esquive intuitive (4)](#esquive-intuitive), [Véritable Sohoten](#veritable-sohoten)|
-§§§
-
-## Aptitudes d'Archétype
-En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
-
-### Maîtrises
-**Armures** : armures légères   
-**Armes** : Bâton (Boten & Nachoten)   
-**Outils** : Calligraphie.    
-**Jets de sauvegarde** : Dextérité, Constitution.  
-**Compétences** : choisissez trois compétences parmi les suivantes : Acrobatie, Arcanes, Athlétisme, Dressage, escamotage, Perception, Religion et Représentation.  
-**Conditions d'accessibilité**: Être de culture Yotakaï.  
-**Points de Magie** : Le Sohoten fait partie d’une voie hybride (mystique & Foi) du guerrier, de ce fait, il développe les points de Foi (PF) et les points de Magie (PM). Pour les voie de la Magie, la progression n’est que de deux points mais dans les PF et les PM.  
-
-Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Parmi les Archétype existant, le Sohoten est un exemple de cette recherche de la perfection. Ils concentrent toutes leurs recherches sur le contrôle de l’esprit et du corps pour maîtriser les énergies subtiles et ne faire qu’un avec leurs armes de prédilection que sont le « Boten », bâton de la taille du combattant et le « Nanshoten », arme constituée de deux bâtons d’une longueur correspondant égale à la distance du coude à la jonction de l’annulaire du combattant, joint par une corde tressée. Le Shohoten préfère combattre avec ces armes à défaut de tout autres.
-Les Sohotens de la voie des Armes sont appelés Sohohittos, littéralement «frappe vigoureuse». Véritables fureur au combat, les Sohohittos sont redoutés de leurs adversaires pour la précision de leurs frappes et leur détermination au combat. Souvent, ils se rendent utiles auprès de la population ou du seigneur local en échange du gîte et du couvert. Les Sohotens de la voie de l’Ombre sont appelés Sohohaibus, littéralement «caresse vigoureuse». Dans les légendes populaires les Sohohaibus sont assimilés à des hommes animaux.
-Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement « esprit vigoureux». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur manière de combattre. Les Sohomaindus sont des mages/prêtres. Cette approche hybride des arts magiques les rendent plus polyvalents que leurs homolgues.  
-
-
-### mur de bois
-**En Yotaï : Kabe Mokuzai**  
-À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.
-
-### Course dans les arbres
-<<<<<<< master
-**En Yotaï : Chebh N’do**  
-À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie **En Yotaï : Chebh N’do**  
-À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.  
-C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
-Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
-Cette technique est très érpouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
->>>>>>>-master
-surface **En Yotaï : Jinshu Ki**  
+**En Yotaï : Jinshu Ki**  
 À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.  
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
 Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
->>>>>>>+origin/master
-ès difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
+
+### Esquive Intuitive
+**En Yotaï: Dhkan-teki**
+À partir du niveau 5, vous êtes tellement agile et rapide que vous êtes très difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
 
 §§§ .table-container
 |Niveau|Bonus de VD|
