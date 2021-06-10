@@ -11,11 +11,16 @@ title: Seibahkami
 |**5**|[Empathie équestre](#empathie-equestre)|
 |**7**|[Ami équestre](#ami-equestre)|
 |**8**|[Tir lointain](#tir-lointain)|
-|**9**|[Coup parfait](#coup-parfait)|
+|**9**|[Coup parfait (+1d6)](#coup-parfait)|
 |**10**|[Frappe majestueuse](#frappe-majestueuse)|
 |**11**|[Calligraphie](#calligraphie)|
-|**12**|[Tir puissant](#tir-puissant)|
+|**12**|[Tir puissant (+1d6)](#tir-puissant)|
+|**13**|[Coup parfait (+2d6)](#coup-parfait)|
+|**15**|[Tir puissant (+1d6)](#tir-puissant)|
+|**17**|[Coup parfait (+3d6)](#coup-parfait)|
+|**18**|[Tir puissant (+3d6)](#tir-puissant)|
 |**19**|[Frappe divine](#frappe-divine)|
+|**20**|[Coup parfait (+4d6)](#coup-parfait), [Véritable Seibahkami](#veritable-seibahkami)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -58,21 +63,25 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 
 ### Coup parfait  
 **En Yotaï : Nōsotchū Kanpeki**  
-À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts supplémentaires causés par un coup critique lors d'une attaque de corps-à-corps, c’est à dire que les dégâts ont dépassé la valeur de la constitution de l’adversaire..  
-À partir du niveau 13, vous lancez deux dés additionnels, trois dés à partir du niveau 17 et quatre dés au niveau 20.  
+À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts supplémentaires causés par un coup critique lors d'une attaque de corps-à-corps, c’est à dire que les dégâts ont dépassé la valeur de la constitution de l’adversaire..  
+À partir du niveau 13, vous lancez deux dés additionnels (+2d6), trois dés (+3d6) à partir du niveau 17 et quatre dés (+4d6) au niveau 20.  
 
 ### Frappe majestueuse  
 **En Yotaï : Nōsotchū Yūdaina**  
-A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire est décapité sans avoir la possibilité de parer.  
+A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire de taille moyenne maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD10 + modificateur de charisme ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de combat jusqu'à réussir le JS.     
 
 ### Calligraphie  
 **En Yotaï : Shodō**  
-A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez un bonus de +2 lorsque vous faîtes de la calligraphie.  
+A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez toujours un avantage pour vos tests de calligraphie.  
 
 ### Tir puissant
 **En Yotaï : Shūto Kyōryoku**  
-À partir du niveau 12, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche beaucoup plus puissante. Si le tir touche et blesse l’adversaire, les dégâts sont majorés de +1d6.  
+À partir du niveau 12, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche beaucoup plus puissante. Si le tir touche et blesse l’adversaire, les dégâts sont majorés de +1d6. La puissance augmente avec le niveau : +2d6 au niveau 15 et +3d6 au niveau 18.  
 
 ### Frappe divine  
 **En Yotaï : Nōsotchū Kami**  
-A partir du niveau 18, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire est décapité sans avoir la possibilité de parer.  
+A partir du niveau 18, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire de taille grande maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD15 + modificateur de charisme ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) à tous les tests de combat jusqu'à réussir le JS. Les personnes terrorisées essaient de fuir devant vous, ce qui vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques.
+
+### Véritable Seibahkami  
+**En Yotaï : Seibahkami**  
+A partir du niveau 20, vous incarnez l'âme du Seibhakami, vous gagnez +2 en dextérité et en Sagesse pour atteindre un maximum de 22 dans ses deux caractéristiques. En prenant un round de concentration, vous pouvez cumuler les avantages de [Tir lointain](/#tir-lointain)  et de [Tir puissant](/#tir-puissant).  

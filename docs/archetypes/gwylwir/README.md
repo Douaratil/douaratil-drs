@@ -20,7 +20,7 @@ title: Gwylwir
 |**15**|[Salve](#salve)|
 |**18**|[Sens sauvages](#sens-sauvages)|
 |**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
-|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis)|
+|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Gwylvir](#veritable-gwylvir)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -68,7 +68,7 @@ Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de
 ### Attaque supplémentaire  
 **En Meldète : Onsaigh’bharrachd**  
 À partir du niveau 6, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
-Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Gwylwir vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +1 aux dégâts au niveau 6 et +2 au niveau 15.  
+Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Gwylwir vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +2 aux dégâts au niveau 6 et +3 au niveau 15.  
 
 ### Style de combat à deux armes  
 **En Meldète : Steil Ymladd**  
@@ -110,4 +110,8 @@ Au niveau 19, vous pouvez utiliser votre action pour faire une attaque de corps-
 
 ### Tueur d'ennemis  
 **En Meldète : Marbhadh nàimhdean**  
-Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.  
+Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.    
+
+### Véritable Gwylvir
+**En Meldète : Gwylvir**  
+Au niveau 20, le Gwylvir est accompli et augmente ses caractéristiques de Force et de Dextérité de 2 points sans pouvoir dépasser 22.

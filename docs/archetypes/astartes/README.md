@@ -20,7 +20,8 @@ title: Astartes
 |**15**|[Chevalier prestigieux](#chevalier-prestigieux)|
 |**16**|[Châtiment](#chatiment)|
 |**17**|[Troisième Attaque](#troisieme-attaque)|
-|**20**|[Parangon héroïque](#parangon-heroïque)|
+|**19**|[Parangon héroïque](#parangon-heroïque)|
+|**20**|[Véritable Astartes](#veritable-astartes)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -82,8 +83,12 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ### Troisième attaque  
 **En Alcante : Tertio Impetos**  
-À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  
+À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  Si vous avez déjà une deuxième attaque, vous ajoutez +3 aux dégâts en compensation.
 
 ### Parangon héroïque  
 **En Alcante : Nosterio Herkhos**  
-Au niveau 20, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau semble prendre la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Au niveau 19, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau semble prendre la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.  
+
+### Véritable Astartes  
+**En Alcante : Astartes**  
+Au niveau 20, l'Astartes est accompli et augmente ses caractéristiques de dextérité et de Force de 2 points sans pouvoir dépasser 22.  

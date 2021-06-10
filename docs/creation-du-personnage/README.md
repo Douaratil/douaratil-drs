@@ -102,7 +102,7 @@ Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes sup
 
 Quand votre modificateur de Constitution augmente de 1, votre maximum de Points d'Action augmente de 1.  
 
-Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 20 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
+Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
 §§§ .table-container
 ## Évolution des personnages

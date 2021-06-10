@@ -12,9 +12,13 @@ Les plantes et les produits décrits ensuite sont rares et demandent souvent de 
 Le cèpate est un champignon qui apparaît après l’été à l’orée des bois et sur les coteaux des montagnes. Les cèpates présentent à l'état adulte, ils présentent une silhouette avec un chapeau convexe, souvent épais et en forme de coussin: ils sont dits pulvinés. Ils ont tous une surface comme une éponge sous le chapeau constituée de tubes au lieu de lames comme chez d’autres champignons. Ces tubes ont une variété de couleurs comme le rouge, le blanc, le marron le gris et le vert olive quand ils vieillissent. La marge ou bord du chapeau est enroulée. Ils ont pied ventru ou en forme de massue, il est parfois recouvert d'un réseau de mailles. Ils peuvent aussi développer une saveur amère ou poivrée et s'ils restent comestibles, ils sont immangeables.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie DD 16. En cas de réussite, il trouvera 1d6  
-doses par heure de prospection.  
-Valeur : 1 pièce d’argent la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 22   
+**Automne** :DD 12    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 Le cèpate est utilisé principalement pour ses hautes qualités nutritives qui ont assuré sa réputation, particulièrement en période de mauvaises récoltes.  
@@ -33,7 +37,13 @@ Le stipe; haut de de six à seize pouces, est élancé, creux, bulbeux à la bas
 
 **Localisation**  
 Assez commune, la coulemine vient, parfois en grandes troupes, dans les sous-bois dégagés ou les clairières, plutôt sur terrains siliceux. Généralement précoce fin de l’été, début de l’automne, on la trouve jusqu'à l’hiver dans les régions alcantes.  
-Le prospecteur devra réussir un test en Survie DD 16. En cas de réussite, il trouvera 2d6 doses par heure de prospection. Valeur : 1 pièce d’argent la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 12  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
@@ -47,8 +57,13 @@ Les fleurs sont de couleur blanc ivoire et la période de floraison s’étale s
 
 **Localisation**  
 L’ églantiane se trouve dans les fourrés arbustifs.  
-Le prospecteur devra réussir un test en Survie 16 DD . En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-Valeur : 1 pièce d’or la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 16  
+**Printemps** :DD 16  
+**Eté** :DD 22   
+**Automne** :DD 16  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.    
+**Valeur** : 1 pièce d’or la dose.   
 
 **Utilisation**  
 *Usage culinaire* (Survie DD 16, 5 doses) : Ses baies rouges peuvent être séchées et enrobées de miel, puis caramélisé à la flamme. Chaque dose équivaut un repas.  
@@ -66,8 +81,13 @@ L'inflorescence est une grande ombelle composée de fleurs verdâtres.
 
 **Localisation**
 On la trouve notamment sur les berges de zones humides et sur les bords de fossés.
-Le prospecteur devra réussir un test en survie DD 22. En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
-Valeur : 1 pièce d’argent la dose.  
+Le prospecteur devra réussir un test en survie:  
+**Hivers** :DD 28  
+**Printemps** :DD 22  
+**Eté** :DD 16   
+**Automne** :DD 22  
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 *Patisserie & confiserie* (Cuisine/Survie DD 16, 5 doses) : Pétioles et tiges sont utilisées en pâtisserie et confiserie sous forme de fruits confits, l'Empeurine . C'est une spécialité de la ville de Thaouet.   
@@ -91,8 +111,13 @@ La Fortliane est une liane hallucinogène utilisées dans la tradition chamaniqu
 
 **Localisation**  
 La Fortliane se trouve en forêt ou contre des parois rocheuses orientées au sud car elle apprécie la lumière du soleil.  
-Le prospecteur devra réussir un test en survie DD 28. En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
-Valeur : 1 pièce d’or la dose.  
+Le prospecteur devra réussir un test en survie:
+**Hivers** :DD 28  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
+**Valeur** : 1 pièce d’or la dose.  
 
 **Utilisation**  
 *Infusion* ( Herboristerie DD 16) infusion, restitue 1d6 points de Magie et de Foi. Usage de 3 doses de récoltes pour une dose d’infusion.  
@@ -107,8 +132,13 @@ La Fougérade offre une bonne couverture au sol, ce qui permet la diminution de 
 
 **Localisation**  
 La Fougérade se développe en pleine lumière ou semi-ombragées, souvent sur des sols pierreux ou sableux et acides et assez profonds. Elle est indifférente à l'humidité du sol. Elle se développe depuis le niveau de la mer jusqu'à six mille pieds d'altitude, des étages collinéens à montagnards.  
-Le prospecteur devra réussir un test en Survie DD 35. En cas de réussite, il trouvera 5d6 doses par heure de prospection.   
-Valeur : 5 pièces d’or la dose.  
+Le prospecteur devra réussir un test en Survie:   
+**Hivers** :DD 35  
+**Printemps** :DD 28  
+**Eté** :DD 35   
+**Automne** :DD 28  
+En cas de réussite, il trouvera 5d6 doses par heure de prospection.   
+**Valeur** : 5 pièces d’or la dose.  
 
 **Utilisation**
 *Paillage antifongique* (Survie DD 16 2d6 doses) : La Fougérade peut être utilisée en jardinage. On la récolte de préférence sèche ou jaunissante, à l'automne. À cette époque de l'année, sa vocation première est de servir de protection contre le gel à toutes les plantes sensibles: mâches, chicorée sauvage, scarole, artichaut... Quand vient le printemps, la fougèrade se transforme en matériau idéal pour la couverture du sol. C'est dans les fraisiers qu'elle donne le meilleur d'elle-même grâce à son action antifongique contre la pourriture grise. Mais on peut également l'utiliser pour pailler toutes sortes de cultures dès lors que le sol s'est réchauffé, en guise d'assurances anti-sécheresse et anti- mauvaises herbes. En paillage frais ou sec, elle attire mais empoisonne les limaces.  
@@ -135,8 +165,13 @@ Les fleurs blanches sont réunies par groupes d'une dizaine.
 Les fruits, composés, sont formés d'un ensemble de petites boules rouges. Non adhérentes au cône du réceptacle, elles s'en détachent facilement à maturité.  
 
 **Localisation**  
-Son habitat naturel se situe surtout dans les sous-bois montagneux, généralement en dessous de quatre mille cinq cent pieds, mais on la trouve aussi en plaine. Dans son milieu naturel, on observe que la frambole est souvent associé à d'autres plantes telles que le hêtre, le sorbier ou le sureau. Le prospecteur devra réussir un test en Survie DD 16. En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
-Valeur : 1 pièce d’argent la dose.  
+Son habitat naturel se situe surtout dans les sous-bois montagneux, généralement en dessous de quatre mille cinq cent pieds, mais on la trouve aussi en plaine. Dans son milieu naturel, on observe que la frambole est souvent associé à d'autres plantes telles que le hêtre, le sorbier ou le sureau. Le prospecteur devra réussir un test en Survie:
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 16  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 *Fruits frais* (Cuisine/Surviet DD 16) : Les fruits frais, les framboles, se consomment nature au miel, en salade de fruit, ou donnent lieu à des transformations en confiture, gelée, sirops, coulis ...  
@@ -155,8 +190,13 @@ Les graines réniformes sont noires.
 
 **Localisation**  
 Elle pousse dans les terres incultes : les champs, les friches, les décombres, les sables des cours d'eau, et aime les terres fraîchement retournées où elle est considérée comme une mauvaise herbe très envahissante.  
-Le prospecteur devra réussir un test en survie et en connaissance des plantes DD 22. En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
-Valeur : 1 pièce d’argent la dose.   
+Le prospecteur devra réussir un test en survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 12  
+**Eté** :DD 16   
+**Automne** :DD 16  
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d’argent la dose.   
 
 **Utilisation**  
 *Jardinage* (Survie DD 16, 2d6 doses) : Il est utile dans la lutte contre les parasite pour le maraichage.  
@@ -186,8 +226,13 @@ L'état produit par la plante s'apparente à un état de somnambulisme, de rêve
 Les menthes forment un genre de plantes herbacées vivaces, comprenant de nombreuses espèces, dont beaucoup sont cultivées comme plantes aromatiques et condimentaires, ornementales ou médicinales. La Menthagile est l'une d'entre elle, très appréciée pour de nombreuses vertus.   
 
 **Localisation**  
-La Menthagile peut être assez courante sous réserve de découvrir des lieux où elle se développe car elle est peu expansive. On la trouve aussi bien en plaine qu'en montagne et sur de larges latitudes. Le prospecteur devra réussir un test en Survie DD 22. En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-Valeur : 2 pièce d’argent la dose.  
+La Menthagile peut être assez courante sous réserve de découvrir des lieux où elle se développe car elle est peu expansive. On la trouve aussi bien en plaine qu'en montagne et sur de larges latitudes. Le prospecteur devra réussir un test en Survie:   
+**Hivers** :DD 28  
+**Printemps** :DD 16  
+**Eté** :DD 22   
+**Automne** :DD 16  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 2 pièce d’argent la dose.  
 
 **Utilisation**  
 La menthagile est l’une des plantes médicinales les plus célèbres. Elle aurait des vertus digestives, spasmolytiques, carminatives, antiseptiques, toniques et stimulantes. Elle participerait à l’équilibre digestif et améliorerait le tonus général. La Menthagile est la plus utilisée en phytothérapie, pour ses propriétés, connues de la tradition et étudiées scientifiquement. La Menthagile est employée très couramment comme herbe aromatique, principalement dans les cuisines alcantes et shahiates, par exemple dans le thé à la menthagile ou le taboulé ptolème, et minghours avec les rouleaux fris et les salades.  
@@ -206,8 +251,13 @@ L'un des effets les plus recherchés de la Menthagile est sa capacité à dével
 La Mûrcine est une baie qui se récolte dans les dernières lunes de l'été. Ce fruit se présente comme une mûre de la taille d'un marron. Elle est protégée des prédateurs par une coque. Le fruit est noir et très sucré. Cette baie se cueille sur une plante qui prend la forme d'un arbuste.  
 
 **Localisation**  
-Il est possible de trouver cette plante le long de certains chemins mais peu de gens en connaissent les vertus. Elle se trouve aussi en bas de certaines falaises ensoleillées. On en trouve du nord au sud car cette plante s'acclimate aussi bien aux régions montagneuses du Sud qu'au climat plus froid des forêts nordiques. Elle est assez commune et le prospecteur devra réussir un test en Survie DD 28. En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
-Valeur : 1 pièce d’argent la dose.  
+Il est possible de trouver cette plante le long de certains chemins mais peu de gens en connaissent les vertus. Elle se trouve aussi en bas de certaines falaises ensoleillées. On en trouve du nord au sud car cette plante s'acclimate aussi bien aux régions montagneuses du Sud qu'au climat plus froid des forêts nordiques. Elle est assez commune et le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 35  
+**Printemps** :DD 28  
+**Eté** :DD 22   
+**Automne** :DD 28  
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 Il y a plusieurs utilisations pour ces baies. Il s'agit de la seule partie de la plante qui est utilisable.  
@@ -222,8 +272,13 @@ Valeur : 8 pièces d’or la dose.
 L'ognotte est une espèce herbacée, vivace par son bulbe unique, cultivée comme une annuelle ou bisannuelle (floraison la deuxième année). C'est une plante haute de deux à quatre pieds, dont les feuilles de couleur verte sont cylindriques, creuses. La tige florale dressée est également creuse. Elle présente un renflement vers sa base. Le bulbe est relativement gros, de forme sphérique, parfois plus ou moins aplati. Les fleurs petites, de couleur blanche ou verte, sont regroupées en une ombelle sphérique, en position terminale sur la tige. Cette plante possède un bulbe qui lui permet de se reproduire.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie DD 22. En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
-Valeur : 3 pièces d’or la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 16  
+**Printemps** :DD 22  
+**Eté** :DD 28   
+**Automne** :DD 12  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
+**Valeur** : 3 pièces d’or la dose.  
 
 **Utilisation**  
 *Larmoiement* : Couper des ognottes (ou bulbes ou feuilles de plantes proches de la même famille) provoque un larmoiement important, très irritantes pour les yeux. La réaction produisant l'agent lacrymogène étant optimale à température ambiante, on peut refroidir ou réchauffer l'oignon pour diminuer, voire éviter, le larmoiement.  
@@ -242,7 +297,12 @@ Valeur : 5 pièces d’or la dose.
 L'Ortiefanne se présente comme un plante assez haute et facilement reconnaissable. Elle ressemble à une grande fougère de couleur brune, ce qui lui donne d'être l'apparence d'être séchée ou fanée. La surface inférieure des feuilles est urticante et les démangeaisons peuvent durer assez longtemps: jusqu'à deux jours. Cet urticaire est assez douloureux, semblable en intensité à la piqure d'une guêpe.  
 
 **Localisation**  
-Cette plante se trouve aux abords des zones boisées de milieux tempérés. Pour en trouver, le prospecteur doit réussir un test de survie et de connaissance des plantes DD 28. En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
+Cette plante se trouve aux abords des zones boisées de milieux tempérés. Pour en trouver, le prospecteur doit réussir un test de survie:  
+**Hivers** :DD 35  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 28  
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 Valeur : 3 pièce d’argent la dose.  
 
 **Utilisation**  
@@ -261,8 +321,13 @@ Les feuilles, pennées, mesurent de quinze à vingt un pieds de long, à pétiol
 Le fruit est une drupe charnue, de forme ovoïde, sessile. La pulpe, de couleur jaune-orangé, renferme près une grande quantité de lipides qui constituent l'huile de Palmirose. Les noix de palme sont groupées en régimes. Un régime peut porter jusqu'à quinze cents drupes.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie DD 16. En cas de réussite, il trouvera 3d6 doses par heure de prospection.   
-Valeur : 1 pièce d’argent la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16  
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.   
+**Valeur** : 1 pièce d’argent la dose.  
 
 **Utilisation**  
 On tire du Palmirose une huile et une boisson alcoolisée mais aussi un somnifère puissant:  
@@ -280,8 +345,13 @@ Le fruit est une capsule comprimée.
 
 **Localisation**  
 C'est un arbre caractéristique de la mangrove. Sa principale particularité est d'être pourvu de racines aériennes. Il dispose de racines en échasse qui lui permettent d'avancer sur la mer et d'affronter les vagues. Il affectionne par conséquent les zones boueuses ou les eaux peu profondes.  
-Le prospecteur devra réussir un test en Survie DD 28. En cas de réussite, il trouvera 1d6 doses par heure de prospection.   
-Valeur : 4 pièce d’argent la dose.  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 22  
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.   
+**Valeur** : 4 pièce d’argent la dose.  
 
 **Utilisation**   
 Le bois sert à fabriquer des poteaux, du charbon de bois et du bois de chauffage. L'écorce est riche en tanin servant à tanner les peaux.  

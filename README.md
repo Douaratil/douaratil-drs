@@ -1,7 +1,7 @@
-[![H&D DRS Sources Loog](https://github.com/em-squared/heros-et-dragons-drs/blob/master/docs/.vuepress/public/dragon_binaire.png "H&D DRS Sources")](#)
 
-# Héros & Dragons DRS
-Ici se trouvent les sources du Document de Référence Système pour le jeu de rôle Héros & Dragons (H&D).
+
+# Douaratil Document Reference System (DRS)
+Ici se trouvent les sources du Document de Référence Système pour le jeu de rôle Douaratil.
 
 ## Documentation
 ### Publication
@@ -17,16 +17,16 @@ Si vous ne souhaitez pas (ou ne pouvez pas) corriger une erreur vous-même, vous
 ### Développement
 Pour travailler sur le projet, vous devrez au préalable télécharger les sources :
 ```
-git clone git@github.com:em-squared/heros-et-dragons-drs.git
+git clone git@github.com:Douaratil/douaratil-drs.git
 ```
 Puis installer les dépendances :
 ```
-cd heros-et-dragons-drs
+cd douaratil-drs
 yarn install
 ```
 ou
 ```
-cd heros-et-dragons-drs
+cd douaratil-drs
 npm install
 ```
 Et lancer le service en local :

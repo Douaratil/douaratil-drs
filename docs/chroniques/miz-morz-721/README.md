@@ -7,7 +7,7 @@ title: "Chroniques du loup gris"
 Cette section raconte les aventures de :
 - **Gwion** l'Ambeanamos
 - **Lôchetos** le Llawenos
-- **Malala Soa** la Shangarah
+- **Malala Soa** la Shangharah
 - **Margs** le Bhegelm
 - **Owain** le Gwylwir
 - **Rudolf** le Skell
@@ -138,7 +138,7 @@ L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et à de grosses f
 L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas mais la présence de [Gwion](/bestiaire/gwion-gornoc) n'est pas souhaitée. Il est gentiment remercié. [Gwion](/bestiaire/gwion-gornoc) part alors trouver l’aventurier du nom de « Mitemard Easo » dans la ville de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan). Il lui demande une entrevue en privée, et lui propose une mission qui consiste à être son informateur sur les événements qui se déroulent à Ker-Saozon. Son objectif est de s’intéresser à la princesse Morewenna Moisan et son futur époux Alarig Pinvidic. Gwion a bien fait entendre qu’il voulait tout savoir et qu’il « préfère être tenu au courant de dix choses inutiles qu’une seule chose importante soit omise ». Le sorcier envoie aussi quelqu’un de son clan se renseigner à propos des missions proposées sur l’écriteau à annonce à l’auberge "À la mouette noire".    
 
 **30 Miz Morz**  
-L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et[Gwion](/bestiaire/gwion-gornoc) se présente avec une tisane qui selon ses dires, permettra au malheureux de s'endormir dans un éternel repos. Cette solution n'est pas souhaitée. Il est gentiment remercié. On lui conseille d'aller vérifier si les églantianes ont bien repoussé. Il s'y rend et trouve trois églantiannes.  
+L'état de [Shin Hame](/bestiaire/shin-hame) ne s'arrange pas et [Gwion](/bestiaire/gwion-gornoc) se présente avec une tisane qui selon ses dires, permettra au malheureux de s'endormir dans un éternel repos. Cette solution n'est pas souhaitée. Il est gentiment remercié. On lui conseille d'aller vérifier si les églantianes ont bien repoussé. Il s'y rend et trouve trois églantiannes.  
 
 **31 Miz Morz**  
-L'état de [Shin Hame](/bestiaire/shin-hame) est stable dans son malheur amis cela ne s'aggrave plus et[Gwion](/bestiaire/gwion-gornoc)  ravi d'avoir trouvé des églantiannes repart dans le marais avec son panier et sifflotant. Il trouve onze églantiannes et repère un coin prometteur. Il se promet de s'y rendre dés le lendemain.  
+L'état de [Shin Hame](/bestiaire/shin-hame) est stable dans son malheur amis cela ne s'aggrave plus et [Gwion](/bestiaire/gwion-gornoc)  ravi d'avoir trouvé des églantiannes repart dans le marais avec son panier et sifflotant. Il trouve onze églantiannes et repère un coin prometteur. Il se promet de s'y rendre dés le lendemain.  

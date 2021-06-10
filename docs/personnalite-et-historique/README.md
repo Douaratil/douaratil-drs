@@ -143,9 +143,6 @@ Le passé de certains personnages leur donne la capacité de pratiquer des langu
 ### Équipement
 Chaque historique donne accès à un équipement de départ. Si vous utilisez la règle optionnelle qui vous permet à la place d'acheter votre propre équipement, vous ne recevez aucun équipement lié à votre historique. Cette option est décrite dans le chapitre [Création du personnage](/creation-du-personnage/#_5-equiper-le-personnage).
 
-### Suggestions de personnalités
-Chaque historique vous suggère des traits de personnalité liés à l'histoire de votre personnage. Vous pouvez les sélectionner, lancer des dés pour laisser le hasard décider, ou utiliser ces suggestions pour inventer vous-même les spécificités de votre personnage.
-
 ### Personnaliser votre historique
 Vous voudrez peut-être adapter certains détails d'un historique pour qu'il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d'outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d'utiliser l'équipement de départ proposé ou d'acheter vous-même votre équipement, comme expliqué au chapitre [Création du personnage](/creation-du-personnage/#_2-choisir-un-historique). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut.
 
@@ -304,7 +301,7 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Compétences** : Perspicacité, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un instrument de musique au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
-**Aptitude** : [Esprit protecteur](/personnalite-et-historique/#esprit protecteur)  
+**Aptitude** : [Esprit protecteur](/personnalite-et-historique/#esprit-protecteur)  
 
 ## Gens du voyage
 **Compétences** : Deux au choix parmi Intimidation, Représentation, Supercherie.  

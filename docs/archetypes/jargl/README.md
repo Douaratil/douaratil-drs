@@ -17,8 +17,8 @@ title: Jargl
 |**14**|[Représailles](#represailles)|
 |**15**|[Champion (Seuil de critique 4)](#champion)|
 |**18**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
-|**19**|[Champion (Seuil de critique 3)](#champion)|
-|**20**|[Champion mythique](#champion-mythique)|
+|**19**|[Champion (Seuil de critique 3)](#champion), [Champion mythique](#champion-mythique)|
+|**20**|[Véritable Jargl](#veritable-jargl)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -71,5 +71,9 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 
 ### Champion mythique
 **En Khern : Maout'Mojenn**  
-Au niveau 20, vous incarnez le champion khernaë. Votre dextérité et votre constitution augmente définitivement de 4 points, jusqu'à un maximum de 24.  
+Au niveau 19, vos incarnez le champion mythique.  
 Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
+
+### Véritable Jargl
+**En Khern : Jargl**  
+Au niveau 20, le Jargl est accompli et augmente ses caractéristiques de Constitution et de Dextérité de 2 points sans pouvoir dépasser 22.

@@ -78,7 +78,7 @@ _**Aveuglement**_. Darthentrhui désigne une cible qu'elle peut voir dans un ray
 ## Description  
 Déesse du désir, de la débauche et de l’ambition
 **Symbole** : Une araignée  
-**Plan d’origine** :  -
+**Plan d’origine** :  -  
 **Attribution** : Désir, sexe, jalousie, trahison, ivresse  
 **Adorateur** : De nombreuse personne dans le secret Domaine : Désir, Jalousie, Trahison  
 **Arme de prédilection** : dard  

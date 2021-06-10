@@ -192,7 +192,7 @@ De la même manière, quand vous choisissez l'action _se tenir prêt_ avec un so
 Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action [_attaquer_](/combattre/#attaquer). Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action _utiliser un objet_. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
 
 ### Autre chose ?
-Dans _**Héros & Dragons**_, la seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
+Dans _**Douaratil**_, la seule limite au jeu est votre imagination. Les précédentes actions résument les principales possibilités qui s'offrent à votre héros lors d'une scène de combat. Mais rien ne vous empêche de faire autre chose : tenter de faire rire votre adversaire, tenter de casser une fiole à sa ceinture, tout est possible. C'est alors au MJ de déterminer les chances de réussite de votre action et de vous demander, s'il le souhaite, un lancer de dés.
 
 ## Porter une attaque
 Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distance ou que vous fassiez un [jet d'attaque](/combattre/#jets-d-attaque) dans le cadre d'un sort, cette attaque se décompose ainsi :
@@ -332,27 +332,27 @@ Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui
 
 Voilà ci-dessous la liste des différents types de dégâts, avec des exemples pour aider le MJ à assigner un type de dégât à un nouvel effet.
 
-**Acide**. Le souffle corrosif d'un dragon noir et les enzymes dissolvants d'un pouding noir infligent des dégâts d'acide.
+**Acide**. Le souffle corrosif et les enzymes dissolvants de certaines créatures infligent des dégâts d'acide.
 
 **Contondant**. Les attaques de force brute – coup de marteau, chute, constriction, etc. – infligent des dégâts contondants.
 
-**Feu**. Les dragons rouges crachent du feu et de nombreux sorts permettent d'invoquer des flammes et d'infliger des dégâts de feu.
+**Feu**. Certaines créatures crachent du feu et de nombreux sorts permettent d'invoquer des flammes et d'infliger des dégâts de feu.
 
 **Force**. La force est le résultat de l'énergie magique pure, concentrée pour infliger des dégâts. La plupart des effets qui infligent des dégâts de force sont des sorts, notamment [_projectile magique_](/grimoire/projectile-magique/) et [_arme spirituelle_](/grimoire/arme-spirituelle/).
 
-**Foudre**. Un sort d'éclair inflige des dégâts de foudre, tout comme le souffle d'un dragon bleu.
+**Foudre**. Un sort d'éclair inflige des dégâts de foudre, tout comme le souffle de certaines créatures.
 
-**Froid**. Le froid infernal qui irradie de la lance d'un diable gelé et le souffle glacé d'un dragon blanc infligent des dégâts de froid.
+**Froid**. Le froid infernal qui irradie d'un diable gelé et le souffle glacé de certaines créatures infligent des dégâts de froid.
 
 **Nécrotique**. Les dégâts nécrotiques infligés par certains morts-vivants et des sorts comme [_contact glacial_](/grimoire/contact-glacial/) font se flétrir la matière et même l'âme.
 
 **Perforant**. Les attaques portées dans le but de percer ou d'empaler, notamment celles portées avec des lances ou par des morsures de monstres, infligent des dégâts perforants.
 
-**Poison**. Les piqûres venimeuses et les gaz toxiques dégagés par le souffle d'un dragon vert, par exemple, infligent des dégâts de poison.
+**Poison**. Les piqûres venimeuses et les gaz toxiques dégagés par le souffle de certaines créatures, par exemple, infligent des dégâts de poison.
 
 **Psychique**. Les capacités mentales de certains monstres infligent des dégâts psychiques.
 
-**Radiant**. Les dégâts radiants infligés par le sort [_colonne de flamme_](/grimoire/colonne-de-flamme/) d'un clerc ou les armes brandies par les anges brûlent les chairs comme le feu et submergent l'esprit de pouvoir.
+**Radiant**. Les dégâts radiants infligés par le sort [_colonne de flamme_](/grimoire/colonne-de-flamme/) d'un clerc ou les armes brandies par de certaines créatures brûlent les chairs comme le feu et submergent l'esprit de pouvoir.
 
 **Tonnerre**. Un bruit commotionnant, comme l'effet du sort [_vague tonnante_](/grimoire/vague-tonnante/), inflige des dégâts de tonnerre.
 

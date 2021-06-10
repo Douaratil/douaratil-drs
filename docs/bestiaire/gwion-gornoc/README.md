@@ -4,13 +4,13 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "6"
-customHP: "28"
+challenge: "7"
+customHP: "30"
 abilityScores:
   for: 8
   dex: 8
   con: 16
-  int: 14
+  int: 15
   sag: 10
   cha: 14
 customSavingThrows: "for -1, dex -1, con +3, int +5, sag +6, cha +4 "
@@ -50,23 +50,23 @@ _**Maîtrises:**_. glaive, hache, armes courantes (Double maîtrise pour dague, 
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
-_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 6 dans la voie de la Magie et Archétype Ambeanamos.  
+_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 7 dans la voie de la Magie et Archétype Ambeanamos.  
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
 
 _**Manipulation de la magie ou métamagie**_. *(Ambeanamos)* Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins en dépensant le double de points de magie (PM). Vous gagnez une de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 7, une au niveau 10 et une dernière au niveau 17.  
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.  
 
 *Sort accéléré*  
 Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez transformer ce temps d'incantation en une action bonus pour cette fois-ci.  
+*Sort intense*  
+Quand vous lancez un sort qui force une créature à faire un jet de sauvegarde pour résister à ses effets, vous pouvez infliger un désavantage à la cible lors de son premier jet de sauvegarde contre le sort.    
 
 _**Malédiction de l’ombre**_.  *(Ambeanamos)* Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.   
 
 _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.  
 
  _**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).
-
-
 
 
 ## Actions
@@ -98,7 +98,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 4327 PA, 31 PE, 1668 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
+3602 PC, 5227 PA, 31 PE, 4216 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
 §§§
 
 §§§ .hero
@@ -119,7 +119,7 @@ un petit fil de cuivre enchanté.
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie)   , [Oeil magique](/grimoire/oeil-magique)      
+[Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Oeil magique](/grimoire/oeil-magique)      
 
 **Sorts possédés à apprendre** : néant
 §§§
@@ -140,11 +140,10 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 19 625
-**Points de Magie** :38
+**XP acquis** : 24 985  
+**Points de Magie** :42
 **Points de Foi** :10  
-**Points d'honneur** :31  
+**Points d'honneur** :33  
 **Inspirations religieuses** : 2 (culte à Lhaothlastholo)
-Note : une cousine blessée
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§

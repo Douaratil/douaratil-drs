@@ -121,7 +121,7 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 §§§ .hero
 ### Equipement:  
 Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, [Amulette antidote](/liste-objets-magiques/amulette-antidote).  
-2116PC, 2210 PA, 36 PE, 2057 PO, 5 PP.  
+2116PC, 2210 PA, 36 PE, 5484 PO, 5 PP.  
 §§§
 
 §§§ .hero
@@ -147,7 +147,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 16 035  
+**XP acquis** : 21 085
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :29  
@@ -156,4 +156,5 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Commerce
 Achat de quatre grandes barques
+Dette de 1900 po au charpentier de Thaouet
 §§§

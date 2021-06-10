@@ -189,7 +189,7 @@ module.exports = {
   ],
   themeConfig: {
     domain: 'https://douaratil.fr',
-    repository: 'https://github.com/douaratil/heros-et-dragons-drs',
+    repository: 'https://github.com/douaratil/douaratil-drs',
     kofi: 'https://ko-fi.com/douaratil',
     twitter: 'https://twitter.com/douaratil',
     discord: 'https://discord.gg/vRXeVwrNvK',
@@ -229,6 +229,7 @@ module.exports = {
           {
             title: "Les Archétypes",
             icon: 'mdi-human-queue',
+            //path: '/archetypes',
             children: [
           {
               title: "Ambeanamos",
@@ -579,6 +580,11 @@ module.exports = {
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-mae-721'
               },
+              {
+                title: "Miz Even 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-even-721'
+              }
             ]
           },
           {title: "Atlas",
@@ -599,6 +605,11 @@ module.exports = {
         ]
       },
       {type: 'divider'},
+      {
+        title: "FAQ",
+        path: '/FAQ/',
+        icon: 'mdi-head-question'
+      },
       {
         title: "Licence OGL",
         path: '/licence-ogl/',

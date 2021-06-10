@@ -1,11 +1,11 @@
 ---
-title: "Rudolf Fareg"
+title: "Rudolf Bernsen"
 type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "5"
-customHP: "32"
+challenge: "6"
+customHP: "36"
 abilityScores:
   for: 13
   dex: 13
@@ -49,7 +49,7 @@ _**Historique:**_ explorateur.
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, flûte, tambourin.  
 
-_**Voie des armes & Skell**_. Rudolf est niveau 5 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Skell**_. Rudolf est niveau 6 dans la voie des armes et Archétype Skell.
 
 _**Style de combat Protection**_. *(Armes)* Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.    
 
@@ -63,6 +63,10 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 _**Expert**_.  *(Skell)* À partir du niveau 3, en remplacement de l'aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix. Vous pouvez choisir deux compétences parmi celles que vous maîtrisez déjà, et dans ce cas vous doublez leur bonus de maîtrise.    
 
 _**Oeil du gardien des runes**_.  *(Skell)*  À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchants.    
+
+_**Pierre de puissance**_.  *(Skell)*  À partir du niveau 6, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +1 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être semi-précieuse d’une valeur de 100po.
+
+
 
 ## Actions  
 
@@ -89,16 +93,16 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 §§§ .hero
 ### Equipement:  
 Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce)   
-600 PC,  345 PA, 12 PE, 855 PO, 5 PP.
+1000 PC,  545 PA, 12 PE, 835 PO, 5 PP.
 §§§
 
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 10 040  
+**XP acquis** : 14 690
 **Points de Magie** :9  
 **Points de Foi** :12  
-**Points d'honneur** :19  
+**Points d'honneur** :21    
 
 Rudolf vient d'avoir une petite fille née en Miz Genver
 §§§

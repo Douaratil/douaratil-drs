@@ -13,14 +13,13 @@ title: Herredyr
 |**6**|[Férocité bestiale](#ferocite-bestiale)|
 |**8**|[Compagnon bestial](#compagnon-bestial)|
 |**9**|[Défense](#defense)|
-|**11**|[Vigilance primitive](#vigilance-primitive)|
-|**12**|[Traversée des terrains](#traversee-des-terrains)|
+|**10**|[Sens bestiale](#sens-bestiale)|
+|**12**|[Rage bestiale (+1d6)](#rage-bestiale)|
 |**13**|[Camouflage naturel](#camouflage-naturel)|
 |**14**|[Disparition](#disparition)|
-|**15**|[Salve](#salve)|
-|**18**|[Sens sauvages](#sens-sauvages)|
-|**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
-|**20**|[Tueur d'ennemis](#tueur-d-'-ennemis)|
+|**15**|[longévité bestiale](#longevite-bestiale)|
+|**16**|[Rage bestiale (+2d6)](#rage-bestiale)|
+|**20**|[Seigneur des bêtes](#seigneur-des-betes),[Rage bestiale (+3d6)](#rage-bestiale)|
 §§§
 
 ## Aptitudes d'Archétype

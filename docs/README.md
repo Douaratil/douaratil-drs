@@ -13,23 +13,53 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
-## Bienvenue dans l'univers sombre de Douaratil.
-Voici que je me lance dans ce grand projet de mettre en ligne les règles du jeu de Douaratil. C'est pour moi un défi technique et l'occasion de partager mon jeu et mon univers. Tout d'abord, je dois préciser que le jeu Douaratil est l'adaptation de mes romans Douaratil et de son univers de jeu. Il est basé sur le corpus de DD5 et de sa version française H&D. Cependant, de profonds changements du système et des mécaniques de jeu ne permet pas de rendre compatible avec ce qui existe déjà. Je dois donc suivre mon propre chemin et renoncer à une communauté sympathique et active qui existe déjà. Je ne prétend pas inventer un système original car c'est le résultat de mon expérience de joueur et des jeux que j'ai pu pratiquer ou lire: rolemaster, D&D, Pendragon, H&D, Les 5 royaumes et autres.
-Ce site est surtout possible grâce au travail d'Em-squared qui l'a construit de toutes pièces, je ne fais que modifier la structure.
-
+## Quelques mises à jour.
+J'ai ajouté la description de Dinas Mor-leidr dans la section de l'atlas de Douaratil. Les chroniques ont été mises aussi à jour, nous voici désormais en Miz Even. Les terribles Ur'hs sont venus garnir le bestiaire. Les joueurs ne tarderont pas à rencontrer ces étranges tribus primitives des forêts profondes et des monts du Menezlatar.  
+Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
-_le 8 décembre 2020_
+_le 2 juin 2021_
 §§§
-## Quelques nouvelles  
-Le site avance régulièrement même si je ne communique pas forcément sur chaque détail. Les règles de patrimoine et de gestion des familles sont maintenant bien intégrées par mes joueurs et cela rajoute vraiment dans les projets et les plans qu'ils élaborent. La campagne continue son cours et prend des allures dramatiques.  
-Côté des règles, vous trouverez sous peu l'archétype Yotakaï du Sohoten et Khernaëe de la Sermazloth.   
+
+## Nouveaux sorts.
+J'ai ajouté quelques nouveaux sorts forts utiles qui sont [Murmure aquatique](/grimoire/murmure-aquatique), [Sacrement de l'arbre fruitier](/grimoire/sacrement-de-l-arbre-fruitier), [Souffle du messager](/grimoire/souffle-du-messager).  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 2 juin 2021_
+§§§
+
+## FAQ, Panthéon, FAQ & chroniques.
+Le panthéon des dieux primaires, inventés par Elric, est enfin terminé avec l'arrivée de son dernier bébé [Emhyhruigdrux](/bestiaire/emhyhruigdrux). J'en ai profité pour réorganiser la pages des [dieux et des divnités](/dieux-divinites) et y déplacer les mythes khernaës et Oynours. Je décrierai leurs divinité techniquement plus tard.  
+J'ai rajouté une page [questions fréquentes](/FAQ). Je la complèterai au fur et à mesure.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 1 juin 2021_
+§§§
+
+## Panthéon des dieux primaires & Herbier.
+Le panthéon des dieux primaires, inventés par Elric, a été complété en ligne avec l'ajout du dieu [Lhaothlastholo](/bestiaire/lhaothlastholo), Dieu des prophéties, des malédictions, des bénédictions et des secrets et de la déesse [Vhaxrrixz](/bestiaire/vhaxrrixz), Déesse de la vérité, des rêves et des choix.
+L'herbier (section plantes) a été aussi complétée en ajoutant une modulation des DD de difficulté de cueillette suivant les saisons.  
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 31 mai 2021_
+§§§
+
+## Caohaydhan, Sohoten, règles optionnelles et peuples  
+Voici les en gros les dernières nouvelles. Je vais sûrement en oublier car il y a eu beaucoup de choses ce mois-ci.  
+Création d'une page de règles optionnelles sur le [commerce](/commerce/) d'après une idée de Georges.  
+Création d'une page sur les [Dieux, divinités & autres forces](/dieux-divinites/) et dans le bestiaire avec l'arrivée de puissantes (divine?) aberrations telle [Darthentrhui](/bestiaire/darthentrhui/), [Khoulggotateelle](/bestiaire/khoulggotateelle/), [Sathyakurm’de](/bestiaire/sathyakurm-de/),  [Shandoth](/bestiaire/shandoth/) et  [Sheggothlil](/bestiaire/sheggothlil/).  
+Une nouvelle section est apparue dans le menu du monde de douaratil pour décrire les peuples, avec la description du peuple [Oynours](/peuples/oynours/) d'après une libre interprétation des peuples des steppes de David et la description du peuple [Khernaë](/peuples/khernaes/).  
+Sur le front des Archétypes de personnages, la description du [Sohoten](/archetypes/sohoten/) et la révision en profondeur du [Dall Dawnser](/archetypes/dall-dawnser/). J'ai procédé aussi à quelques retouches du [Seibahkami](/archetypes/seibahkami/).  
+Et pour rendre à César ce qui lui revient, Em-squared est intervenu sur le site (après des essais infructueux de ma part) pour permettre d'afficher les "sources" sur les pages standards. Les auteurs qui sont publiés ne seront plus oubliés.  
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 16 mai 2021_
-
+_le 27 mai 2021_
 §§§
+
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 
 Bon jeu à tout le monde !

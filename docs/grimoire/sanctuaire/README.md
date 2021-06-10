@@ -2,7 +2,7 @@
 title: "Sanctuaire"
 description: "Pour attaquer la cible, l'assaillant doit réussir un jet de sauvegarde de Sagesse."
 school: "Abjuration"
-level: 1
+level: 0
 concentration: false
 casting_time: "1 action bonus"
 duration: "1 minute"

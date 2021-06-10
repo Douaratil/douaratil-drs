@@ -15,7 +15,7 @@ title: Drodan
 |**14**|[Prédateur de l'hiver](#predateur-de-l-hiver)|
 |**18**|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale)](#incantation-animale)|
 |**19**|[Compagnon animal Aigle)](#compagnon-animal-aigle)|
-|**20**|[Archidruide](#archidruide)|
+|**20**|[Archidruide](#archidruide), [Véritable Drodan](#veritable-drodan)|
 
 §§§
 
@@ -116,4 +116,8 @@ L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour rési
 ### Archidruide  
 **En Meldète : Archesgobaeth**  
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.  
-De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de Drodan ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
+De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de Drodan ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.
+
+### Véritable Drodan  
+**En Meldète : Drodan**  
+Au niveau 20, le Drodan est accompli et augmente ses caractéristiques d'intelligence et de Sagesse de 2 points sans pouvoir dépasser 22.

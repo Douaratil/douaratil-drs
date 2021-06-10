@@ -17,7 +17,7 @@ title: Ior
 |**11**|[Rage Implacable de Teutès](#rage-implaccable-de-teutes)|
 |**15**|[Attaque supplémentaire](#attaque-supplementaire)|
 |**16**|[Rage Indomptable de Teutès](#rage-indomptable-de-teutes)|
-|**20**|[Champion de Teutès](#champion-de-teutes)|
+|**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Ior](#veritable-ior)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -102,4 +102,8 @@ Le Ior possède **six états de rage**, une fois que vous êtes entrés en état
 
 ### Champion de Teutès  
 **En Meldète : Campwerh’Teutès**  
-Au niveau 20, vous êtes devenu une véritable force de la puissance de Teutès. Vous pouvez rentrer en rage de façon illimitée. Vos valeurs de Force et de Constitution augmentent de 2. Le maximum que vous pouvez atteindre pour ces caractéristiques est désormais de 22.  
+Au niveau 20, vous êtes devenu une véritable force de la puissance de Teutès. Vous pouvez rentrer en rage de façon illimitée.
+
+### Véritable Ior
+**En Meldète : Ior**  
+Au niveau 20, le Ior est accompli et augmente ses caractéristiques de Force et de Constitution de 2 points sans pouvoir dépasser 22.

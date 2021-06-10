@@ -7,7 +7,7 @@ title: "Chroniques du loup gris"
 Cette section raconte les aventures de :
 - **Gwion** l'Ambeanamos
 - **Lôchetos** le Llawenos
-- **Malala Soa** la Shangarah
+- **Malala Soa** la Shangharah
 - **Margs** le Bhegelm
 - **Owain** le Gwylwir
 - **Rudolf** le Skell
@@ -46,7 +46,7 @@ Ne laissant pas le temps aux villageois de réagir, l’homme masqué sort de l�
 
 **3 Miz Mae**  
 Tous le monde a quitté Ker-Saozon sauf [Tiberius](/bestiaire/tiberius-don-alonzo) qui est resté près d'Azenor. [Owain](/bestiaire/owain-macaro) apprend que les clans Nantono, Dagano et Hizino ont rassemblés leurs troupes mobilisant 85 fantassins légers, 70 fantassins lourds, 38 éclaireurs, 13 archers et 16 cavaliers légers.  
-[Owain](/bestiaire/owain-macaro), [Lôchetos](/bestiaire/lochetos-vlatcano) et [Gwion](/bestiaire/gwion-gornoc) apprennent leurs domaines font l'objets de raids réguliers et les gens sous leurs autorités se sont dispersés.  
+[Owain](/bestiaire/owain-macaro), [Lôchetos](/bestiaire/lochetos-vlatcano) et [Gwion](/bestiaire/gwion-gornoc) apprennent que leurs domaines font l'objets de raids réguliers et les gens sous leurs autorités se sont dispersés.  
 La délégation Vlatcano décide de retourner auprès des leurs à Thaouet, en longeant la côte sud et en remontant au nord à partir de Kostezatil
 
 **4 Miz Mae**  
@@ -60,18 +60,27 @@ Les Reks Berac'h Segalen, Friard Cornec et Sezig Le Guevel, se sont unis dans un
 
 **7 Miz Mae**  
 Les raids débutant sur le nord de Ker-Saozon, Alarig Pinvidic et Morwenna Moisan mobilisent leurs troupes. Ils envoient une navette pour demander l'aide de Goulvening Moisan qui hésite encore à s'impliquer contre ses pairs.  Ker-Saozon aligne 85 fantassins lourds, 25 fantassins légers, 31 éclaireurs, 58 archers et 13 cavaliers légers.  
+[Rudolf](/bestiaire/rudolf-fareg) repart rapidement pour son village natal de Tilfugtsby, au delà de Ostporten car son père Sigurd Fareg, chef de clan l'a fait mandé. C'est un peu avec appréhension que le jeune [Rudolf](/bestiaire/rudolf-fareg) reprends la route vers ce qu'il considère comme une prison, lui qui a besoin de liberté et de grands espaces.  
+*La fougue de la jeunesse doit bien cesser un jour*, se dit-il en regardant Ker-Saozon s'éloigner.  
+D'autre part, la perspective d'assumer son rôle de père ne le ravi pas réellement. Il sait que Sigurd et son clan sont en porte à faux avec le clan Bernsen. Pensant aux aspects positifs, la petite Ann est douce, pétillante et intelligente ... et peu farouche dans l'intimité, ce qui ne gâche rien.  
 
 **9 Miz Mae**  
-[Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son coeur.  
+[Gwion](/bestiaire/gwion-gornoc) qui est retourné voir son vieux maître Siarl le Hiboux. Le vieil homme est bien affligé par la chute de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) et le massacre du cercle de Khernac n'est pas une bonne nouvelle même s'il n'a jamais porté les Bhegelms et leur prétention dans son cœur.  
 Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un parquet de rouleaux de parchemins en peau de chèvre.  
-**- Voici des sortilège que je n'ai jamais pris le temps d'apprendre mais l'heure étant grave, tu en feras meilleur usage que moi. Je te souhaite bonne chance car tu as encore beaucoup à faire et les forces m'abandonnent. Je ne t'envie pas [Gwion](/bestiaire/gwion-gornoc).  
+*- Voici des sortilège que je n'ai jamais pris le temps d'apprendre mais l'heure étant grave, tu en feras meilleur usage que moi. Je te souhaite bonne chance car tu as encore beaucoup à faire et les forces m'abandonnent. Je ne t'envie pas [Gwion](/bestiaire/gwion-gornoc).*  
 [Gwion](/bestiaire/gwion-gornoc) repart sur sa monture, chargé de documents précieux.  
 
 **10 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc) prie et offre des sacrifices à Lhaothlastholo. Il étudie aussi le sort « Invisibilité », transmis par Siarl.  
+[Rudolf](/bestiaire/rudolf-fareg) arrive dans son village natal de Tilfugtsby. Son père Sigurd le reçoit assez froidement et gromèle :  
+*- "Il est temps pour toi de grandir un peu ... J'espère que ta tête dure va se remplir un peu de raison"*  
+Son frère Bjorn l'accueil avec un peu de distance mais la situation se détend rapidement avec l'arrivée du petit Olaf, son fils et neveu de [Rudolf](/bestiaire/rudolf-fareg), qui a échappé aux bras d'Hedvig sa belle soeur. Olaf court autours de tonton "[Rudolf](/bestiaire/rudolf-fareg)". Le jeune guerrier lui offre un petit jouet en bois qu'il a taillé pendant son voyage et qui représente un ours. Olaf est ravi et s'enfuie avec son nouveau trésor.  
+La soirée est détendue et propice aux retrouvailles. Signe Fareg, la mère de [Rudolf](/bestiaire/rudolf-fareg), regarde son fils avec mélancolie. Elle sait qu'elle va le perdre.  
+
 
 **11 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc) part en direction de Thaouet à cheval. Il continue d’apprendre ses sorts. Il offre à nouveau des cadeaux à Lhaothlastolho.
+A Tilfugtsby, l'ambiance est lourde. Les guerriers du clan Bernsen et Fareg se sont réunis. Les deux chefs de clans Thorkild et Sigurd se font face. Sigurd a expliqué à [Rudolf](/bestiaire/rudolf-fareg) l'accord qu'il attend entre les deux clans. [Rudolf](/bestiaire/rudolf-fareg) étant plus jeune que son frère Bjorn qui a 20 ans, il n'est pas l'héritier direct du clan. Sa soeur Maja qui a 15 ans sera mariée à un autre clan. Un autre clan que les Bernsen en tous cas même si cela avait été envisagé par le passé. Il est donc décidé que [Rudolf](/bestiaire/rudolf-fareg) épouse Ann et reconnaisse sa fille Aase. Les frères d'Ann étant plus jeunes, Thorvald ayant 12 ans et Soren ayant 13 ans, il est décidé que [Rudolf](/bestiaire/rudolf-fareg) soit adpoté comme fils par Thorkild et abandonne le nom de Fareg pour devenir un Bernsen. En échange, il hérite de la gestion du clan en maintenant à titre honorifique la place de Thorkild. Les Bernsen et les Faregs seront alliés et les Bernsens prêteront allégeances au clan Fareg.
 
 **16 Miz Mae**
 [Gwion](/bestiaire/gwion-gornoc), arrivé à Thaouet prend une chambre en ville et va voir l’échoppe qu’il avait repéré il y a plusieurs mois déjà du nom « Les mystères d’Orient » tenue par Osrath Ibn Zendrim. Il achète 20 doses de fortiliane et se renseigne sur les différents articles de son échoppe.  
@@ -89,4 +98,62 @@ Il offre à son ancien apprenti, qui est désormais un Ambeanamos puissant, un p
 [Gwion](/bestiaire/gwion-gornoc) cherche encore une fois un bateau capable de l’emmener sur l’île mais en vain. Sa cousine se porte déjà mieux, et il connaît désormais le sortilège « dissipation de la magie ».  
 
 **25 Miz Mae**
-Gwion trouve enfin un équipage capable de l’emmener sur l’île redoutée. Il profite de la traversée pour étudier d’autres parchemins malgré les nausées qui lui tenaillent l'estomac. Il place un seau à côté de lui pour vomir à loisir sans risquer d'abimer les parchemins.  
+Gwion trouve enfin un équipage capable de l’emmener sur l’île redoutée. Il profite de la traversée pour étudier d’autres parchemins malgré les nausées qui lui tenaillent l'estomac. Il place un seau à côté de lui pour vomir à loisir sans risquer d’abîmer les parchemins. La navigation n'est pas facile en raison d'un vent de travers nord sud-est. La bateau tangue dans les vagues dont les crêtes se transforment en écume.  
+Malgré l'inconfort, l'Ambeanamos [Gwion](/bestiaire/gwion-gornoc)  continue de se concentrer, toujours avide de nouvelles connaissances qui lui permettront de mener à bien ses quêtes.   
+Soudain, le noir se fait et [Gwion](/bestiaire/gwion-gornoc)  a l'impression d'étouffer. Il veut se débattre et enlever le sac qui a recouvert sa tête Son esprit cherche frénétiquement un sortilège pour le sortir de ce mauvais pas. En vain, un coup sourd frappe sa tête et une sensation de douleur envahit son crâne. Un second rideau d'obscurité s'abat sur lui. [Gwion](/bestiaire/gwion-gornoc)  perd connaissance.
+Lorsqu'il revient à lui, à un moment indéterminé plus tard, [Gwion](/bestiaire/gwion-gornoc) se rend compte qu'il a les poings liés, que sa bouche es bâillonnée par un linge. Sur sa tête, toujours ce sac. Il a aussi mal à la cage thoracique, mais à cause du poids de son propre corps, qui se balance au rythme de la marche d'un animal qu'il identifie comme étant un cheval ou une mule.  
+Il entend parlé et reconnait la voix des marins qu'il avait recruté pour la traversée.  
+Une journée de voyage très inconfortable se termine.  
+
+**26 Miz Mae**
+[Gwion](/bestiaire/gwion-gornoc) se réveille. Il a toujours ce sac sur la tête. Il a très soif. Soudain, il entend une nouvelle voix.
+*- "Enfin, te voilà, misérable"*
+[Gwion](/bestiaire/gwion-gornoc) cherche dans sa mémoire cette voix familière qui lui semble affaiblie.  
+*- "gnnn, gnnn, gnnn"*
+*- "Je ne comprend rien à ce que tu dis, mais je ne serais pas stupide de t'enlever le bâillon. Je vais éviter que tu me jettes un autre sortilège, Maudit!*  
+***Britomartos***, pensa [Gwion](/bestiaire/gwion-gornoc).
+*- "Et oui, Genos Britomartos"*, déclara le Meldète rouquin, *-"Et je vais te couper un morceau tous les jours, jusqu'à ce que tu lèves la malédiction, en commençant par tes immondes doigts crochus".*  
+Le reste de la journée n'est qu'un enchainement de douleurs, [Gwion](/bestiaire/gwion-gornoc) reçoit des coups, sans savoir qui lui donne, et n'importe quel moment.  
+
+**27 Miz Mae**  
+[Gwion](/bestiaire/gwion-gornoc) se réveille en sursaut et se recroqueville en attendant une nouvelle avalanche de coups. Mais la main qui se pose sur lui semble rassurante.  
+*- "Vous pouvez marcher?"*
+*- "gnnn, gnnn, gnnn"*
+*- "Je prends ça pour un oui"*
+[Gwion](/bestiaire/gwion-gornoc) se contracte instinctivement et refuse de se lever.  
+*- "gnnn, gnnn, gnnn"*  
+L'homme reprends :  
+*- "Silence! Vous allez alerter les gardes! Zut, ils arrivent ..."*  
+Des pas approchent. Une autre voix.  
+*- "Ca va Drystan?"*  
+*- "Oui, oui, je m'amusais avec le prisonnier, tiens charogne"*  
+[Gwion](/bestiaire/gwion-gornoc) reçoit un coup de pied dans le ventre.  
+*- "gnnn, gnnn, gnnn"*
+Un temps indéterminé plus tard.  
+*- "Vous pouvez marcher?"*  
+*- "gnnn, gnnn, gnnn"*  
+*- "Je prends ça pour un oui, levez-vous, je ne vous enlève pas le sac pour ne pas être maudit par votre regard. Je suis Drystan, je suis un homme de Pedr Pimalo"*  
+[Gwion](/bestiaire/gwion-gornoc)  accepte de se lever. Il entend les chouettes dans la nuit et le bruit de la forêt. Soutenu par Drystan, les deux fugitifs s'éloignent du campement.  
+Soudain Drystan se fige.  
+Une autre voix.  
+*- "Alors l'ami, tu joues à quoi avec le prisonnier"*
+*- "Il a demandé à pisser"*
+*- "Laisse le se faire dessus. Je crois surtout que tu te moques de nous"*  
+Drystan semble hésiter.  
+Soudain, il arrache le sac sur la tête de Gwion.   
+*- "Courrez!"*  
+Drystan dégaine son glaive et s'élance vers ses adversaires beaucoup plus nombreux. Certains se jettent sur Drystan et d'autres s'élancent à la poursuite de [Gwion](/bestiaire/gwion-gornoc) qui porte toujours le bâillon et qui a les mains attachées dans le dos. Tout son corps lui fait mal.  
+Il tombe.  
+*- "gnnn, gnnn, gnnn"*  
+Malgré la douleur, il se relève. Il entend au loin les cris d'agonie de Drystan. Il se retourne et voit quatre silhouettes à ses trousses. Il pense à renoncer mais dans un élan désespéré, reprend sa fuite. Dans cette obscurité, le moindre faux pas peut-être fatal et les forêts sont épaisses. Il trébuche une nouvelle fois et tombe en rouler-bouler au fond d'un petit vallon, heureusement rempli de feuilles de chênes. Il veut se relever, mais remarque que ses pas s'enfoncent dans le sol.  
+Un bruit de bulles se fait entendre. Il comprend : une vasière. Lorsque ses poursuivants arrivent à sa hauteur, [Gwion](/bestiaire/gwion-gornoc) est déjà enfoncé jusqu'aux cuisses.  
+*- "gnnn, gnnn, gnnn"*  
+*- "On le laisse couler les gars?"*   
+Les brutes s'esclaffent. Une sifflement sec et le bruit d'un impact fend le silence de la forêt, suivi de trois autres. Les quatre brutes tombent en avant dans la vasière, chacun une flèche à travers le corps.  
+*- "Il va falloir revoir mes honoraires"*  
+[Gwion](/bestiaire/gwion-gornoc) continue de s'enfoncer mais n'a jamais été aussi content de revoir Pedr Pimalo. Il reconnait aussi Siwan Vlatcano, la tante de [Lôchetos](/bestiaire/lochetos-vlatcano) et [Owain](/bestiaire/owain-macaro) le Gwylwir. Epuisé, Gwion est emmené. Siwan et Pedr partent éliminer le reste des gardes et récupérer la dépouille de Drystan.  
+
+## Kerzu  
+**30 Miz Mae**
+Les compagnons se sont regroupés à Kerzu. La guilde des voleurs et les hommes de Pedr Pimalo nfont remonter l'information qu'une grosse transaction a eu lieu à Kerzu avec un chef pirate d'Avelhaden, l’île maudite. Le prix en aurait été une femme étrange aux yeux de nâcre. Sawrina est donc à Avelhaden et le Cercle de la nuit s'en serait séparé. Mais est-ce que les pirates sont un ennemis moins dangereux qu'Agowen le maudit et son ordre du cercle de la nuit. De toutes les manières, il n'y a plus de nouvelles du cerclede la nuit mais le massacre des druides de Kernac a déclenché des conflits et le chaos règne désormais sur la région de Lornac et ses larges environs au de là de Koaddan.  
+Il est décidé de trouver un équipage et Pedr Pimalo s'engage à recruter des hommes de confiance et de trouver un bateau. Pendant ce temps, [Owain](/bestiaire/owain-macaro) va avertir [Tiberius](/bestiaire/tiberius-don-alonzo) et [Rudolf](/bestiaire/rudolf-fareg) de leurs intention d'aller sur Avelhaden pour récupérer Sawrina et rencontrer la devineresse à fin d'en savoir plus sur l'avenir des pays meldètes et kkhernaës.  

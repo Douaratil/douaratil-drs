@@ -20,7 +20,7 @@ title: Nayane
 |**16**|[Attaque supplémentaire (Troisième attaque)](#attaque-supplementaire)|
 |**17**|[Sang empoisonné](#sang-empoisonne)|
 |**19**|[Intouchable (3-6)](#intouchable)|
-|**20**|[Parangon de mort](#parangon-de-mort)|
+|**20**|[Parangon de mort](#parangon-de-mort),[Véritable Nayane](#veritable-nayane)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -65,8 +65,8 @@ A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui pe
 §§§ .table-container
 |Niveau|Intouchable sur 1d6|
 |:-:|:-:|
-|**7**|[6|
-|**11**|[5-6|
+|**7**|6|
+|**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
 §§§
@@ -91,4 +91,8 @@ A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de c
 
 ### Parangon de mort
 **En Selm : Sossus**  
-Au niveau 20, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.
+Au niveau 19, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.  
+
+### Véritable Nayane
+**En Selm : Sassasse**  
+Au niveau 20, la Nayane est accomplie et augmente ses caractéristiques de Dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.

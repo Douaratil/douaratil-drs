@@ -17,7 +17,8 @@ title: Legatos
 |**11**|[Lacération égotique (2d6)](#laceration-égotique)|
 |**17**|[[Lacération égotique (3d6)](#laceration-égotique)|
 |**18**|[Troisième attaque](#troisieme-attaque)|
-|**20**|[Infaillible](#infaillible)|
+|**19**|[Infaillible](#infaillible)|
+|**20**|[Véritable Legatos](#veritable-legatos)|
 §§§
 
 ## Aptitudes d'Archétype
@@ -65,4 +66,8 @@ Ces dégâts passent à 2d6 au niveau 11 et 3d6 au niveau 17.
 
 ### Infaillible  
 **En Alcante : Infalibo**  
-Au niveau 20, vous pouvez relancer n'importe quel type de dés ou de test car vous avez la réputation d'être infaillible. Vous ne pouvez utiliser cette aptitude qu'une fois entre chaque [repos longs](/gerer-la-sante-du-personnage/#repos-long).  
+Au niveau 19, vous pouvez relancer n'importe quel type de dés ou de test car vous avez la réputation d'être infaillible. Vous ne pouvez utiliser cette aptitude qu'une fois entre chaque [repos longs](/gerer-la-sante-du-personnage/#repos-long).  
+
+### Véritable Legatos  
+**En Alcante : Legatos**  
+Au niveau 20, le Legatos est accompli et augmente ses caractéristiques de Sagesse et de Charisme de 2 points sans pouvoir dépasser 22.

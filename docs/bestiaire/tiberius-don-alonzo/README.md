@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "5"
-customHP: "27"
+challenge: "6"
+customHP: "30"
 abilityScores:
   for: 12
   dex: 14
@@ -65,6 +65,11 @@ _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant q
 
 _**Seconde attaque**_. *(Astartes)* À partir du niveau 5, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.  
 
+_**Aura de protection**_. *(Astartes)* À partir du niveau 6, quand vous ou une personne amicale qui se trouve dans un rayon de 3 mètres doit faire un jet de sauvegarde, cette créature gagne un bonus à son jet de sauvegarde égal à votre modificateur de Charisme (avec un bonus minimum de +1). Vous ne devez pas être inconscient pour que ce bonus soit pris en compte.  
+Au niveau 18, le rayon de cette aura atteint 9 mètres.    
+
+
+
 ## Actions  
 
 _**Epée courte**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
@@ -93,7 +98,7 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 1254 PA, 36 PE & 781 PO, 5 PP.  
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 3052 PA, 36 PE & 3394 PO, 5 PP.  
 1 péridot (500po).
 §§§
 
@@ -107,8 +112,8 @@ petite maison à Ker-Saozon.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 13690  
+**XP acquis** : 17840    
 **Points de Magie** :10   
 **Points de Foi** :8   
-**Points d'honneur** :26  
+**Points d'honneur** :28   
 §§§
