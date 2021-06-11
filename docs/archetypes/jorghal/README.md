@@ -13,11 +13,9 @@ title: "Jörghal"
 |**7**|[Attaque supplémentaire (seconde attaque) ](#attaque-supplementaire)|
 |**9**|[Colosse](#colosse)|
 |**10**|[Survivant](#survivant)|
-|**12**|[Rapidité (+6m)](#rapidite)|
 |**14**|[Représailles](#represailles)|
 |**17**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**18**|[Champion (Seuil de critique 4)](#champion)|
-|**19**|[Champion (Seuil de critique 3)](#champion), [Champion mythique](#champion-mythique)|
 |**20**|[Véritable Jargl](#veritable-jargl)|
 §§§
 
@@ -59,7 +57,7 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 
 ### Survivant
 **En Melg : Rebohserzh**  
-À partir du niveau 10, vous obtenez un avantage permanent pour vos tests d'athlétisme et de survie.  
+À partir du niveau 10, vous obtenez un avantage permanent pour vos tests de récupération des blessures graves lors des repos ou des intermèdes..  
 
 ### Représailles  
 **En Melg : Rebohserzh**  
