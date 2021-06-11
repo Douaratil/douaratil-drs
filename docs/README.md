@@ -13,6 +13,14 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Le terrible Jörghal
+Vous trouverez en mise à jour l'ajout de l'Archétype du [Jörghal](/archetype/jorghal), un terrible champion melg au service de son Rolf. La chronique a aussi été mise à jour depuis la dernière partie du 5 juin.
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 11 juin 2021_
+§§§
+
 ## Quelques mises à jour.
 J'ai ajouté la description de Dinas Mor-leidr dans la section de l'atlas de Douaratil. Les chroniques ont été mises aussi à jour, nous voici désormais en Miz Even. Les terribles Ur'hs sont venus garnir le bestiaire. Les joueurs ne tarderont pas à rencontrer ces étranges tribus primitives des forêts profondes et des monts du Menezlatar.  
 Bon jeu.
