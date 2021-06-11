@@ -17,7 +17,7 @@ title: "Jörghal"
 |**14**|[Représailles](#represailles)|
 |**17**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**18**|[Champion (Seuil de critique 4)](#champion)|
-|**20**|[Véritable Jargl](#veritable-jargl)|
+|**20**|[Véritable Jörghal](#veritable-jorghal)|
 §§§
 
 ## Aptitudes d'Archétype  
@@ -44,7 +44,7 @@ Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéraleme
 À partir du niveau 5, le Jörghal peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
 Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un repos court ou long avant de pouvoir réutiliser cette capacité.  
 
-### Maître des haches 
+### Maître des haches
 **En Melg : Mastraë'hackad**  
 À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)
 
