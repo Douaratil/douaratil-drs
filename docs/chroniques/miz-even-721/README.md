@@ -51,5 +51,11 @@ Gouénolé, la patronne, leur indique un enchanteur qui passe régulièrement en
 Il se rendent donc au lieu indiqué et la porte est ouverte par une guerrière rousse charpentée du nom de Kolna. Ils sont finalement reçu par Ioen l'enchanteur qui les soumet une petite épreuve. Il leur laisse une énigme mais c'est sans compter la perspicacité des nouveaux arrivants.  
 Ioen renseigne au passage [Lôchetos](/bestiaire/lochetos-vlatcano) sur la nature de la Nayane et de la manière de la "commander".   
 Enfin, Ioen indique l'itinéraire pour rejoindre le cloître des âmes damnées, demeure de la Divineresse, gardée par des Sermazloths.   
-Suivant les instructions, ils évitent une regrettable confrontation avec des Ur'hs et arrivant au cloître sont de nouveau soumis à une nouvel enigme.  
-Après l'avoir
+
+**6 Miz Even**  
+Le lendemain, suivant les instructions, ils évitent une regrettable confrontation avec des Ur'hs et arrivant au cloître sont de nouveau soumis à une nouvel enigme.  
+Après l'avoir résolue, les aventuriers pénètrent dans le lieu sacré et sont mis en présence de la Divineresse Aodrena War Arc’hant. L'étrange femme fait une prophétie dans une langue ancienne traduite par une Sermazloth.   
+La prophétie est la suivante :   
+*"Dans la période du Premier Feu, la nation des enfans d’Ylohane s’élèvera et suivra la voie du Cercle de la nuit. Le cercle de Kernac servira de point de rassemblement au peuple et ses traditions seront la source de beaucoup de force. Le Bhegelm choisi par le destin Sacré les conduira à la terre choisie pour les elues du nouveau jour. Vous devrez chercher une île, ancienne maison du peuple déchû, et découvrir le puit reliée à la purification de la terre. Vous trouverez une telle île au début et à la fin de votre voyage. Il y aura sept endroits où vous vous arrêterez sur votre parcours. Vous saurez que vous avez atteint l’endroit choisi quand vous aurez atteint une terre où la nourriture se développe sur l’eau. Si vous y restez, vous périrez."*   
+Le groupe repart à Dinas Mor-leidr se demandant comment interprêter de telles paroles.  
+[Gwion](/bestiaire/gwion-gornoc) envisage de visiter les environs, certaines îles interdites l'intéressent particulièrement.    
