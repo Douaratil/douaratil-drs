@@ -13,6 +13,7 @@ title: "Jörghal"
 |**7**|[Attaque supplémentaire (seconde attaque) ](#attaque-supplementaire)|
 |**9**|[Colosse](#colosse)|
 |**10**|[Survivant](#survivant)|
+|**12**|[Âme du guerrier](#ame-du-guerrier)|
 |**14**|[Représailles](#represailles)|
 |**17**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**18**|[Champion (Seuil de critique 4)](#champion)|
@@ -31,8 +32,8 @@ En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être de culture melge  
 **Points de Magie** : Le Jörghal est un Archétype mystique, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
-Les Jörghal sont des champions qui se mettent au service d'un Rolf melg.  
-Les Jörghal de la voie des Armes sont appelés Bjerg Ofrahkölig, littéralement «La montagne infranchissable». Les Jörghal de la voie de l’Ombre sont appelés Andetag Norr, littéralement «Le souffle du nord». Les Jörghal de la voie de la Magie sont appelés Obeveklig, littéralement « inéxorable».
+Les Jörghals sont des champions qui se mettent au service d'un Rolf melg.  
+Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéralement «La montagne infranchissable». Les Jörghals de la voie de l’Ombre sont appelés Andetag Norr, littéralement «Le souffle du nord». Les Jörghals de la voie de la Magie sont appelés Obeveklig, littéralement « inéxorable».
 
 ### Vengeance    
 **En Melg : Hämnad**  
@@ -57,7 +58,11 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 
 ### Survivant
 **En Melg : Rebohserzh**  
-À partir du niveau 10, vous obtenez un avantage permanent pour vos tests de récupération des blessures graves lors des repos ou des intermèdes..  
+À partir du niveau 10, vous obtenez un avantage permanent pour vos tests de récupération des blessures graves lors des repos ou des intermèdes.
+
+### Âme du guerrier  
+**En Melg : Sjaelkriger**  
+À partir du niveau 12, le Jörghal ne peut plus être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). La peur est une notion qui lui est étrangère.     
 
 ### Représailles  
 **En Melg : Rebohserzh**  
