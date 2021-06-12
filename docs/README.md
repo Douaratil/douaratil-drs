@@ -14,7 +14,7 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
 ## Le terrible Jörghal
-Vous trouverez en mise à jour l'ajout de l'Archétype du [Jörghal](/archetype/jorghal), un terrible champion melg au service de son Rolf. La chronique a aussi été mise à jour depuis la dernière partie du 5 juin.
+Vous trouverez en mise à jour l'ajout de l'Archétype du [Jörghal](/archetypes/jorghal), un terrible champion melg au service de son Rolf. La chronique a aussi été mise à jour depuis la dernière partie du 5 juin.
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
