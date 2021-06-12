@@ -17,6 +17,7 @@ Les Archétypes actuellement disponibles sont :
 - [Herredyr](/archetypes/herredyr/), homme bête de culture clanique.  
 - [Ior](/archetypes/ior/), guerrier frénétique meldète.  
 - [Jargl](/archetypes/jargl/), champion khernaë.  
+- [Jörghal](/archetypes/jorghal/), champion melg.  
 - [Legatos](/archetypes/legatos/), leader alcante.  
 - [Llawenos](/archetypes/llawenos/), barde mledète.  
 - [Magios](/archetypes/magios/), mage alcante.  
