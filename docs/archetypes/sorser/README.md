@@ -3,7 +3,7 @@ title: "Sorser"
 ---
 # Sorser
 
-## Évolution du Magios
+## Évolution du Sorser
 §§§ .table-container
 |Niveau|Aptitudes|
 |:-:|:-:|

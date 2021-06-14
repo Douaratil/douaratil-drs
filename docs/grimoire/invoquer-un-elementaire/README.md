@@ -17,7 +17,7 @@ classes:
     - Foi
     - Magie
 ---
-**Coût** : 10 points de Foi oiu de Magie  
+**Coût** : 12 points de Foi ou de Magie  
 Vous invoquez un serviteur élémentaire. Choisissez une zone d'air, de terre, de feu ou d'eau occupant un cube de 3 mètres d'arête situé à portée. Un élémentaire doté d'un indice de dangerosité inférieur ou égal à 5 et adapté à la zone que vous avez choisie apparaît dans un espace inoccupé situé dans un rayon de 3 mètres autour d'elle. Par exemple, un élémentaire du feu jaillit d'un brasier tandis qu'un élémentaire de la terre sort du sol. L'élémentaire disparaît dès qu'il tombe à 0 point de vie ou quand le sort se termine.
 
 L'élémentaire se montre amical envers vous et vos compagnons. Déterminez son initiative, sachant qu'il dispose de ses propres tours de jeu. Il obéit aux ordres verbaux que vous lui donnez (sans que cela vous demande d'utiliser une action). En l'absence d'ordre, il se défend contre les créatures hostiles, mais n'entreprend pas d'autre action.

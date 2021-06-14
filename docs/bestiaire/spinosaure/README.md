@@ -4,8 +4,8 @@ type: "Bête"
 subtype: "Dinosaure"
 size: "Gig"
 alignment: "non-alignée"
-challenge: "348"
-customHP: ""
+challenge: "13"
+customHP: "348"
 abilityScores:
   for: 27
   dex: 9
