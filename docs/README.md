@@ -16,7 +16,7 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 ## Les travaux en cours
 Je travaille actuellement sur un nouvel Archétype magique puissant, le Sorser, dont l'un des plus connus a été Morringer.  
 Dans le bestiaire, ajout du [Spectre](/bestiaire/spectre).   
-J'ai aussi ajouté de nouveaux sorts : [invoquer les fantômes](/grimoire/invoquer-les-fantomes), [Puissance guerrière](/grimoire/puissance-guerriere),[Brise os](/grimoire/brise-os)
+J'ai aussi ajouté de nouveaux sorts : [invoquer les fantômes](/grimoire/invoquer-les-fantomes), [Puissance guerrière](/grimoire/puissance-guerriere),[Brise os](/grimoire/brise-os), [Brûlure de l'âme](/grimoire/brulure-de-l-ame), [Brûlure de la peau](/grimoire/brulure-de-la-peau), [Cauchemars](/grimoire/cauchemars), [Chaînes mentales](/grimoire/chaines-mentales), [Crainte](/grimoire/crainte), 
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
