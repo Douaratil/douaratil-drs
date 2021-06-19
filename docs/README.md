@@ -13,10 +13,19 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Derniers ajouts
+Voici les derniers ajouts dont le Sorser qui avance doucement mais qui n'est pas du tout terminé.
+Ajout dans le bestiaire de l'[âme en peine](/bestiaire/ame-en-peine),[Goule](/bestiaire/goule) et le [Fantome](/bestiaire/fantome) et dans le grimoire le sort [Douleur nerveuse](/grimoire/douleur-nerveuse)
+Bon jeu.
+§§§ .text-right
+_**Olivier**_,  
+_le 18 juin 2021_
+§§§
+
 ## Les travaux en cours
 Je travaille actuellement sur un nouvel Archétype magique puissant, le Sorser, dont l'un des plus connus a été Morringer.  
 Dans le bestiaire, ajout du [Spectre](/bestiaire/spectre).   
-J'ai aussi ajouté de nouveaux sorts : [invoquer les fantômes](/grimoire/invoquer-les-fantomes), [Puissance guerrière](/grimoire/puissance-guerriere),[Brise os](/grimoire/brise-os), [Brûlure de l'âme](/grimoire/brulure-de-l-ame), [Brûlure de la peau](/grimoire/brulure-de-la-peau), [Cauchemars](/grimoire/cauchemars), [Chaînes mentales](/grimoire/chaines-mentales), [Crainte](/grimoire/crainte), 
+J'ai aussi ajouté de nouveaux sorts : [invoquer les fantômes](/grimoire/invoquer-les-fantomes), [Puissance guerrière](/grimoire/puissance-guerriere),[Brise os](/grimoire/brise-os), [Brûlure de l'âme](/grimoire/brulure-de-l-ame), [Brûlure de la peau](/grimoire/brulure-de-la-peau), [Cauchemars](/grimoire/cauchemars), [Chaînes mentales](/grimoire/chaines-mentales), [Crainte](/grimoire/crainte),
 Bon jeu.
 §§§ .text-right
 _**Olivier**_,  
