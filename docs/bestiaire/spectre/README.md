@@ -4,7 +4,7 @@ type: "Mort-vivant"
 size: "M"
 alignment: "Chaotique Mauvais"
 challenge: "1"
-customHP: "348"
+customHP: "14"
 abilityScores:
   for: 1
   dex: 14

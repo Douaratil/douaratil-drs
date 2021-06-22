@@ -12,9 +12,9 @@ abilityScores:
   int: 12
   sag: 14
   cha: 15
-  ac:
-    armorType: "custom"
-    value: "15"
+ac:
+  armorType: "custom"
+  value: "15"
 movement:
   walk: 0
   fly: 18

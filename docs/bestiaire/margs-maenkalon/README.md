@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "6"
-customHP: "36"
+challenge: "7"
+customHP: "40"
 abilityScores:
   for: 12
   dex: 20
@@ -22,6 +22,7 @@ savingThrows:
 ac:
   armorType: "custom"
   value: "18 (Armure de cuir cloutée)"
+customskills: "acrobatie, arcanes, athlétisme, discrétion, dressage, escamotage, histoire, intimidation, investigation, médecine, nature, perception, perspicacité, persuasion, religion, représentation, supercherie, survie "  
 skills:
   - name: "athletisme"
   - name: "intimidation"
@@ -46,7 +47,7 @@ _**Historique**. Inquisiteur.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
 
-_**Voie des armes & Bhegelm**_. Margs est niveau 6 dans la voie des armes et Archétype Bhegelm.
+_**Voie des armes & Bhegelm**_. Margs est niveau 7 dans la voie des armes et Archétype Bhegelm.
 
 _**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
@@ -108,7 +109,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce)
+Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce), [Cape de déplacement](/listes-objets-magiques/cape-de-deplacement).
 Margs possède : 3605 PC, 1038 PA, 36 PE & 254 PO, 5 PP.  
 §§§
 
