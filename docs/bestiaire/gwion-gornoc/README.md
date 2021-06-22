@@ -23,13 +23,39 @@ ac:
   armorType: "custom"
   value: "12 (Armure de cuir cloutée)"
 skills:
+  - name: "custom"
+    value: "acrobatie -1"
   - name: "arcanes"
     isExpert: true
+  - name: "custom"
+    value: "athlétisme -1"
   - name: "discretion"
+  - name: "custom"
+    value: "dressage +0"
   - name: "escamotage"
+  - name: "custom"
+    value: "histoire +2"
   - name: "intimidation"
     isExpert: true
+  - name: "custom"
+    value: "investigation +2"
   - name: "medecine"
+  - name: "custom"
+    value: "nature+2"
+  - name: "custom"
+    value: "perception +0 (désavantage pour les tests visuels)"
+  - name: "custom"
+    value: "perspicacité +0"
+  - name: "custom"
+    value: "persuasion +2 (désavantage pour les tests)"
+  - name: "custom"
+    value: "religion +2"
+  - name: "custom"
+    value: "représentation +2"
+  - name: "custom"
+    value: "supercherie +2"
+  - name: "custom"
+    value: "survie +0"
 
 movement:
   walk: 9
@@ -140,10 +166,10 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 24 985  
-**Points de Magie** :42
-**Points de Foi** :10  
-**Points d'honneur** :33  
-**Inspirations religieuses** : 2 (culte à Lhaothlastholo)
+**XP acquis** : 29 440   
+**Points de Magie** :42   
+**Points de Foi** :10    
+**Points d'honneur** :33    
+**Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§

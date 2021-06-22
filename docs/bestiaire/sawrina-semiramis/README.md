@@ -25,16 +25,36 @@ ac:
 skills:
   - name: "acrobaties"
     isExpert: true
+  - name: "custom"
+    value: "arcanes +0"
   - name: "athletisme"
     isExpert: true
   - name: "discretion"
     isExpert: true
+  - name: "custom"
+    value: "dressage +1"
+  - name: "custom"
+    value: "escamotage +4"
+  - name: "custom"
+    value: "histoire +0"
+  - name: "custom"
+    value: "intimidation +0"
+  - name: "custom"
+    value: "investigation +0"
   - name: "medecine"
   - name: "nature"
   - name: "perception"
     isExpert: true
+  - name: "custom"
+    value: "perspicacité +1"
+  - name: "custom"
+    value: "persuasion +0"
+  - name: "custom"
+    value: "religion +0"
   - name: "representation"
     isExpert: true
+  - name: "custom"
+    value: "supercherie +0"
   - name: "survie"
 movement:
   walk: 9

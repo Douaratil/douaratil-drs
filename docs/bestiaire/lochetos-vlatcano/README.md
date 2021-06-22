@@ -4,11 +4,11 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "6"
-customHP: "32"
+challenge: "7"
+customHP: "35"
 abilityScores:
   for: 10
-  dex: 10
+  dex: 11
   con: 14
   int: 10
   sag: 12
@@ -23,21 +23,39 @@ ac:
   armorType: "custom"
   value: "16 (cuirasse)"
 skills:
+  - name: "custom"
+    value: "acrobatie +1"
+  - name: "custom"
+    value: "arcanes +1"
   - name: "athletisme"
   - name: "discretion"
     isExpert: true
+  - name: "custom"
+    value: "dressage +2"
+  - name: "custom"
+    value: "escamotage +1"
   - name: "histoire"
+  - name: "custom"
+    value: "intimidation +3"
   - name: "investigation"
     isExpert: true
+  - name: "custom"
+    value: "médecine +2"
+  - name: "custom"
+    value: "nature +1"
   - name: "perception"
     isExpert: true
   - name: "perspicacite"
   - name: "persuasion"
     isExpert: true
+  - name: "custom"
+    value: "religion +1"
   - name: "representation"
     isExpert: true
   - name: "supercherie"
     isExpert: true
+  - name: "custom"
+    value: "survie +2"
 movement:
   walk: 9
 senses:
@@ -55,7 +73,7 @@ _**Historique:**_ Limier.
 
 _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 6 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 7 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 (Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)  
@@ -74,8 +92,8 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 
 _**Touche à tout**_. *(Ombre)* À partir du niveau 3, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.  
 
-_**Chant reposant**_. *(Llawenos)* À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
-Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.    
+_**Chant reposant**_. *(Llawenos)* À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés d'action, chacune des créatures concernées gagne 1d6 points d'action supplémentaires.  
+Plus votre niveau de barde est élevé, plus le nombre de points d'action récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.    
 
 _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
 
@@ -86,23 +104,27 @@ _**Source d'inspiration**_. *(Llawenos)* Dès le niveau 5, vous récupérez tout
 
 _**Contre-charme**_. *(Llawenos)* Au niveau 6, vous gagnez la capacité d'utiliser des notes de musique ou des mots de pouvoir pour interrompre des effets qui affectent la pensée d'une créature. Vous pouvez utiliser une action pour vous lancer dans une performance qui durera jusqu'à la fin de votre prochain tour. Pendant le temps que dure votre performance, vous et toute créature amicale dans un rayon de 9 mètres obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de sauvegarde contre les effets [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) et [_charmée_](/gerer-la-sante-du-personnage/#charme). Une créature qui veut en bénéficier doit être en mesure de vous entendre. La performance est interrompue si vous êtes [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise), réduit au silence ou si vous décidez d'y mettre fin volontairement (cela ne nécessite pas d'action).  
 
+_**Mots cinglants**_. *(Llawenos)* Toujours au niveau 7, vous apprenez à utiliser votre répartie pour distraire, semer la confusion ou saper la confiance et les capacités des autres. Quand une créature qui se trouve dans votre champ de vision et dans un rayon de 18 mètres réalise un jet d'attaque, de dégâts ou un test de caractéristique, vous pouvez utiliser votre réaction pour dépenser l'une de vos inspirations bardiques, lancer le dé approprié et soustraire le résultat du total obtenu par la créature. Vous pouvez choisir d'utiliser cette aptitude après que la créature a lancé les dés mais avant que le MJ annonce si le jet d'attaque ou le test de caractéristique a réussi ou échoué, ou avant que la créature n'ait porté ses dégâts. La créature est immunisée contre cette aptitude si elle ne vous entend pas ou si elle est immunisée à l'effet [_charmée_](/gerer-la-sante-du-personnage/#charme).  
+
+_**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
+
 
 ## Actions
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 _**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
+**Arc court**_. _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 
@@ -133,7 +155,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.  
 **Un emplacement & un petit entrepôt au port de Thaouet** 2d6 pièces d'or.
 §§§
 
@@ -147,10 +169,10 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 21 085
+**XP acquis** : 25 600
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :29  
+**Points d'honneur** :31  
 §§§
 
 §§§ .hero

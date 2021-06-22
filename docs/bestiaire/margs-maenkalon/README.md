@@ -11,7 +11,7 @@ abilityScores:
   dex: 20
   con: 12
   int: 8
-  sag: 10
+  sag: 11
   cha: 8
 customSavingThrows: "for +4, dex +5, con +4, int +2, sag +3, cha -1"
 savingThrows:
@@ -23,12 +23,40 @@ ac:
   armorType: "custom"
   value: "18 (Armure de cuir cloutée)"
 skills:
+  - name: "custom"
+    value: "acrobatie +5"
+  - name: "custom"
+    value: "arcanes -1"
   - name: "athletisme"
+  - name: "custom"
+    value: "discrétion +5"
+  - name: "custom"
+    value: "dressage +0"  
+  - name: "custom"
+    value: "escamotage +5"
+  - name: "custom"
+    value: "histoire -1"
   - name: "intimidation"
     isExpert: true
+  - name: "custom"
+    value: "investigation -1"
+  - name: "custom"
+    value: "médecine +0"
+  - name: "custom"
+    value: "nature -1"
+  - name: "custom"
+    value: "perception +0"
   - name: "perspicacite"
+  - name: "custom"
+    value: "persuasion -1"
   - name: "religion"
     isExpert: true
+  - name: "custom"
+    value: "représentatipn -1"
+  - name: "custom"
+    value: "supercherie -1"
+  - name: "custom"
+    value: "survie +0"
 movement:
   walk: 9
 senses:
@@ -77,6 +105,10 @@ Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (vo
 
 Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
 
+_**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.  
+
+_**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
+
 ## Actions
 
 _**Glaive**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
@@ -108,7 +140,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce), [Cape de déplacement](/listes-objets-magiques/cape-de-deplacement).
+Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterre finement ouvragé (Valeur 50po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement).
 Margs possède : 3605 PC, 1038 PA, 36 PE & 254 PO, 5 PP.  
 §§§
 
@@ -127,8 +159,8 @@ Margs possède : 3605 PC, 1038 PA, 36 PE & 254 PO, 5 PP.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 22 535  
+**XP acquis** : 26 765
 **Points de Magie** :8  
 **Points de Foi** :10   
-**Points d'honneur** :25  
+**Points d'honneur** :27  
 §§§

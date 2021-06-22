@@ -52,8 +52,8 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 
 ### Chant reposant  
 **En Meldète : òratàimh**  
-À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
-Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
+À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés d'action, chacune des créatures concernées gagne 1d6 points d'action supplémentaires.  
+Plus votre niveau de barde est élevé, plus le nombre de points d'action récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
 
 ### Expertise  
 **En Meldète : Eòlas**  
