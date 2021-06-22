@@ -22,7 +22,6 @@ savingThrows:
 ac:
   armorType: "custom"
   value: "18 (Armure de cuir cloutée)"
-customskills: "acrobatie, arcanes, athlétisme, discrétion, dressage, escamotage, histoire, intimidation, investigation, médecine, nature, perception, perspicacité, persuasion, religion, représentation, supercherie, survie "  
 skills:
   - name: "athletisme"
   - name: "intimidation"

@@ -260,7 +260,7 @@ export default {
     displayAbilityScore (value) { return displayAbilityScore(value) },
     getModifier (value) { return getModifier(value) },
     getProficiencyBonus () {
-      if (this.monsterStats.proficiencyBonus) {
+    if (this.monsterStats.proficiencyBonus) {
         return parseInt(this.monsterStats.proficiencyBonus)
       }
       return getProficiencyBonus(this.monsterStats.challenge)
