@@ -7,8 +7,8 @@ alignment: "Loyal bon"
 challenge: "6"
 customHP: "36"
 abilityScores:
-  for: 13
-  dex: 13
+  for: 14
+  dex: 14
   con: 12
   int: 9
   sag: 12
@@ -123,7 +123,7 @@ Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magique
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 14 690
+**XP acquis** : 14 690  
 **Points de Magie** :9  
 **Points de Foi** :12  
 **Points d'honneur** :21    
