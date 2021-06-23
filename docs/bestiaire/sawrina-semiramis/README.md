@@ -110,7 +110,7 @@ Sawrina est une jeune assyrhim, issue d'une famille riche de Shahia qui se desti
 
 §§§ .hero  
 ### Description physique:  
-Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante hui kilos.
+Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante huit kilos.
 §§§
 
 §§§ .hero

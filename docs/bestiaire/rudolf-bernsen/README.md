@@ -23,12 +23,36 @@ ac:
   armorType: "custom"
   value: "16 (armure de cuir & bouclier)"
 skills:
+  - name: "custom"
+    value: "acrobatie +1"
+  - name: "custom"
+    value: "arcanes -1"
   - name: "athletisme"
     isExpert: true
+  - name: "custom"
+    value: "discrétion +1"
+  - name: "custom"
+    value: "escamotage +1"
+  - name: "custom"
+    value: "histoire -1"
   - name: "intimidation"
+  - name: "custom"
+    value: "inestigation -1"
+  - name: "custom"
+    value: "médecine +1"
+  - name: "custom"
+    value: "nature -1"
   - name: "perception"
     isExpert: true
+  - name: "custom"
+    value: "perspicacité +1"
+  - name: "custom"
+    value: "persuasion -1"
+  - name: "custom"
+    value: "religion -1"
   - name: "representation"
+  - name: "custom"
+    value: "supercherie -1"
   - name: "survie"
 
 movement:
@@ -40,7 +64,7 @@ category: "PJ"
 ---
 
 ## Capacités
-_**Historique:**_ explorateur.   
+**Historique:**_ explorateur.   
 **Compétences**. Athlétisme, Survie.  
 **Outils maîtrisés**. Véhicules (terrestres).  
 **Langues maîtrisées**. Une langue au choix.  
