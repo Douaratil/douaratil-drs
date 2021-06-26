@@ -3,23 +3,16 @@ title: "Sorser"
 ---
 # Sorser
 
-## Évolution du Magios
+## Évolution du Sorser
 §§§ .table-container
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Canal arcanique](#canal-arcanique)|
 |**4**|[Clairaudience](#clairaudience)||
 |**5**|[Pas brumeux](#pas-brumeux)|
-|**6**|[Imposture](#imposture)|
-|**7**|[Magie discrète (1d6)](#magie-discrete)|
-|**8**|[Influenceur](#influenceur)|
-|**9**|[Historien](#historien)|
-|**10**|[Magie discrète (2d6)](#magie-discrete), [Seconde attaque](#seconde-attaque), [Pas brumeux(2)](#pas-brumeux) |
-|**11**|[Discret](#discret)|
-|**14**|[Magie discrète (3d6)](#magie-discrete)|
+|**7**|[Ressource inépuisable](#ressource-inepuisable)|
+|**10**|[Pas brumeux(2)](#pas-brumeux) |
 |**15** |[Pas brumeux(3)](#pas-brumeux) |
-|**18**|[Troisième Attaque](#troisieme-attaque)|
-|**19**|[Orateur suprême](#orateur-supreme)|
 |**20**|[Véritable Sorser](#veritable-sorser), [Pas brumeux(4)](#pas-brumeux) |
 §§§
 
@@ -28,7 +21,7 @@ En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  Armures légères   
-**Armes** : Dague, bâton     
+**Armes** : Dague, bâton  
 **Outils** :Outils d'alchimie et d'herboristerie.     
 **Jets de sauvegarde** : Intelligence, Charisme    
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Médecine et Religion    
@@ -48,10 +41,6 @@ Dès le niveau 4, vous pouvez bénéficier de la capacité d'entendre à distanc
 ### Pas brumeux  
 **En Khern : Bheag Misten**  
 Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre intelligence. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
-
-### Pas brumeux  
-**En Khern : Bheag Misten**  
-Au niveau 6,
 
 ### Ressource inépuisable  
 **En Khern : Paedra  dihesk**  

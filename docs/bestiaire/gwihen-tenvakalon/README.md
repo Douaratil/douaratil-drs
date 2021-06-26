@@ -5,109 +5,93 @@ subtype: "Khernaë"
 size: "M"
 alignment: "Loyal mauvais"
 challenge: "7"
-customHP: "40"
+customHP: "41"
 abilityScores:
   for: 10
-  dex: 10
-  con: 10
-  int: 10
+  dex: 14
+  con: 13
+  int: 14
   sag: 10
   cha: 10
-customSavingThrows: "for +4, dex +5, con +4, int +2, sag +3, cha -1"
+customSavingThrows: "for +3, dex +2, con +4, int +5, sag +0, cha +3"
 savingThrows:
   - "for"
   - "con"
   - "int"
-  - "sag"
+  - "cha"
 ac:
   armorType: "custom"
-  value: "18 (Armure de cuir cloutée)"
+  value: "15 (Armure du mage)"
 skills:
   - name: "custom"
-    value: "acrobatie +5"
+    value: "acrobatie +2"
+  - name: "arcanes"
   - name: "custom"
-    value: "arcanes -1"
-  - name: "athletisme"
+    value: "athletisme +0"
   - name: "custom"
-    value: "discrétion +5"
+    value: "discrétion +2"
   - name: "custom"
     value: "dressage +0"  
   - name: "custom"
-    value: "escamotage +5"
+    value: "escamotage +2"
+  - name: "histoire"
   - name: "custom"
-    value: "histoire -1"
-  - name: "intimidation"
-    isExpert: true
+    value: "intimidation +0"
   - name: "custom"
-    value: "investigation -1"
+    value: "investigation +2"
   - name: "custom"
     value: "médecine +0"
   - name: "custom"
-    value: "nature -1"
+    value: "nature +2"
+  - name: "perception"
   - name: "custom"
-    value: "perception +0"
-  - name: "perspicacite"
+    value: "perspicacité +0"
   - name: "custom"
-    value: "persuasion -1"
-  - name: "religion"
-    isExpert: true
+    value: "persuasion +0"
   - name: "custom"
-    value: "représentatipn -1"
+    value: "religion +2"
   - name: "custom"
-    value: "supercherie -1"
+    value: "représentatipn +0"
   - name: "custom"
-    value: "survie +0"
+    value: "supercherie +0"
+  - name: "survie"
+
 movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
+  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
 ## Capacités
-**Historique**. Inquisiteur.   
-**Compétences**. Intimidation, Religion.  
-**Outils maîtrisés**. Matériel de calligraphie.  
+**Historique**. Solitaire.   
+**Compétences**. Nature, Survie.   
+**Outils maîtrisés**. Pottier & Tisserand.  
 **Langues maîtrisées**. Une langue au choix.  
-**Équipement**.  Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.  
-**Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)   
+**Équipement**.  Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.   
+**Aptitude**. [Position d'autorité](/personnalite-et-historique/#besoin-de-personne)   
 
-_**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
+_**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, dagues, bâtons), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste, outils de Pottier, outils de tisserand.
 
-_**Voie des armes & Bhegelm**_. Margs est niveau 7 dans la voie des armes et Archétype Bhegelm.
+_**Voie des armes & Sorser**_. Ghwihem est niveau 7 dans la voie des armes et Archétype Sorser.
 
-_**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+_**Style de Combat à deux mains**_. *(Armes)* Quand vous faites 1 avec un dé pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.   
 
-_**Second souffle**_. *(Armes)* Margs jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
+_**Second souffle**_. *(Armes)* Gwihem jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.
 
 _**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.
 
-_**Langue sacrée**_. *(Bhegelm)* À partir du niveau 3,vous connaissez le Yezhsakr, la langue secrète des Beghelms. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le Yezhsakr, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer. L’écriture est sacrée et utilise des signes qui s’appellent des Omaths.  
+_**Canal arcanique**_. *(Sorser)* Dès le niveau 3, vous êtes le point de passage des énergies arcaniques environnante et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empeintez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vouas ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.   
 
-_**Récupération naturelle**_. *(Bhegelm)* À partir du niveau 4, vous pouvez regagner une partie de votre énergie magique en méditant et en communiant avec la nature. Pendant un repos court, vous pouvez choisir de récupérer soit des  points de Magie (PM), soit des points de Foi (PF). Le montant est de 1d6 tous les deux niveaux (1, 3, 5, 7, 9, 11, 13, 15, 17, 19) Vous ne pouvez pas utiliser cette aptitude de nouveau tant que vous n'avez pas terminé un repos long.  
+_**Clairaudience**_. *(Sorser)* Dès le niveau 4, vous pouvez bénéficier de la capacité d'entendre à distance comme le sort [clairvoyance](/grimoire/clairvoyance) mais la portée est limitée à 12 mètres et le point d'écoute doit être visible du Sorser. La durée du sort est de un round mais il peut être utilisé un nombre de fois égal à son modificateur d'intelligence (minimum 1). Ensuite, il doit attendre un repos court pour pouvoir réutiliser cette capacité.    
 
 _**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
-Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
+Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.  
 
-_**Compagnon animal corneille**_. *(Bhegelm)*  À partir du niveau 5, le Bhegelm se lie avec une corneille. Il doit s’agir d’un animal qui vit dans les contrées où réside le Bhegelm. Si la corneille devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en croassant. La corneille peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, ou des baies et des fruits.  
-Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Bhegelm.  
+_**Pas brumeux**_. *(Sorser)* Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre intelligence. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
 
-_**Forme sauvage**_. *(Bhegelm)*  À partir du niveau 6, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.  
-Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 6, par exemple, vous pouvez vous connecter à n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
-
-§§§ .table-container
-|Niveau|ID|Limitations|Exemple|
-|:-:|:-:|-:|-:|
-|6|1/4|Pas de vitesse de vol ou de nage|Loup|
-|7|1/2|Pas de vitesse de vol|Ours|
-|8|1|-|Aigle|
-§§§
-
-Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
-
-_**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.  
-
-_**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
+_**Ressource inépuisable**_. *(Sorser)*  
+Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 ## Actions
 
@@ -127,25 +111,25 @@ _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
 §§§ .hero
 ### Présentation:  
-Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la loi religieuse khernaëe.  
+Gwihem Tenvakalon est un sorser guerrier d'une famille disparue. Il a été banni et cherche désormais la rédemption.  
 §§§
 
 §§§ .hero
 ### Description physique:  
-Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse.  
+Gwihem est un Khernaë de cinquante printemps. Il a la peau blanche, les cheveux foncés et grisonnants et les yeux gris. De stature moyenne, il mesure un mètre quatre vingt pour quatre vingt kilos. Il porte une barbe grisonnante.   
 §§§
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés (Valeur 50po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), 1 calcédoine (50po), 1 onyx (50po).
-Margs possède : 4619 PC, 4104 PA, 36 PE & 1601 PO, 100 PP.  
+Gwihem possède l'équipement suivant : Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po, 1 Glaive, 1 armure de cuir cloutée, 1 cheval.  
+Gwihem possède : 10 PC, 100 PA, 10 PE & 1000 PO, 5 PP.  
 §§§
 
 §§§ .hero
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
-**DD de Sauvegarde: 7**  
-**Novice** : [arme magique](/grimoire/arme-magique), [mot de guérison](/grimoire/mot-de-guerison).  
+**DD de Sauvegarde: 13**  
+**Novice** : [arme magique](/grimoire/arme-magique), [appel de familier](/grimoire/appel-de-familier), [armure du mage](/grimoire/armure-du-mage), [[hâte](/grimoire/hate), [Invisibilité](/grimoire/invisibilite), [mot de guérison](/grimoire/mot-de-guerison),[Silence](/grimoire/silence), [Souffle du messager](/grimoire/souffle-du-messager).  
 §§§
 
 §§§ .hero
@@ -155,9 +139,8 @@ Margs possède : 4619 PC, 4104 PA, 36 PE & 1601 PO, 100 PP.
 
 §§§ .hero
 ### Autres informations:  
-**Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 29 200
-**Points de Magie** :8   
+**XP acquis** : 23 000   
+**Points de Magie** :21   
 **Points de Foi** :10    
-**Points d'honneur** :27    
+**Points d'honneur** :24    
 §§§
