@@ -1,18 +1,18 @@
 ---
-title: "Margs Maenkalon"
+title: "Gwihem Tenvakalon"
 type: "PJ"
 subtype: "Khernaë"
 size: "M"
-alignment: "Loyal neutre"
+alignment: "Loyal mauvais"
 challenge: "7"
 customHP: "40"
 abilityScores:
-  for: 12
-  dex: 20
-  con: 12
-  int: 8
-  sag: 11
-  cha: 8
+  for: 10
+  dex: 10
+  con: 10
+  int: 10
+  sag: 10
+  cha: 10
 customSavingThrows: "for +4, dex +5, con +4, int +2, sag +3, cha -1"
 savingThrows:
   - "for"

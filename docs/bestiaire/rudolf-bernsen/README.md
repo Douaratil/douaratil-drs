@@ -94,14 +94,17 @@ _**Pierre de puissance**_.  *(Skell)*  À partir du niveau 6, Le Skell enchante 
 
 ## Actions  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 _**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .
+_Touché_ : 4 dégâts perforants .  
+
+_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
 
 
 §§§ .hero
@@ -117,7 +120,7 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 §§§ .hero
 ### Equipement:  
 Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce)   
-1000 PC,  545 PA, 12 PE, 835 PO, 5 PP.
+1180 PC,  2945 PA, 12 PE, 1675 PO, 45 PP.
 §§§
 
 

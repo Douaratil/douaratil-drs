@@ -78,7 +78,7 @@ _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule d
 
 _**Voie de la Magie & Ambeanamos**_. Gwion est niveau 7 dans la voie de la Magie et Archétype Ambeanamos.  
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. 
 
 _**Manipulation de la magie ou métamagie**_. *(Ambeanamos)* Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins en dépensant le double de points de magie (PM). Vous gagnez une de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 7, une au niveau 10 et une dernière au niveau 17.  
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.  
@@ -124,7 +124,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 5227 PA, 31 PE, 3586 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
+4176 PC, 9294 PA, 31 PE, 4865 PO, 100 PP et 598 églantiannes, 5 doses de Fortilianes, 1 calcédoine (50po), 1 onyx (50po).  
 §§§
 
 §§§ .hero

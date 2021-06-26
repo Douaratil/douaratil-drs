@@ -36,22 +36,26 @@ Réussir une action difficile et/ou dangereuse peut amener de l'expérience. Ain
 ### Gérer les évènements économiques & familiaux
 Comme il a été évoqué, toutes les lunes (trente jours), des jets de dés sont effectués sur la table des évènements économiques & familiaux. Ces évènements amènent quelques fois des bonus ou des pénalités, mais surtout des épreuves à surmonter (réunir une somme d'argent, passer une mauvaise période économique, engager une guerre de clan). La résolution de ces évènements peut entraîner un montant d'expérience qui est distribué au moment de la résolution de l'épreuve. Cette résolution peut avoir une approche transverse avec d'autres sections (affrontements, réussite d'une épreuve etc...)
 
-### Travailler et commercer
+### Travailler, commercer, Test de compétences & Jets de sauvegarde
 Certains personnages possèdent la maîtrise d'outils d'artisan. Par ce biais, ils peuvent utiliser leur art et gagner de l'argent pour leur labeur, et aussi de l'expérience. Les personnages peuvent travailler tous les jours, sauf lors des fêtes sacrées et en doivent pas être handicapés par la convalescence d'une blessure grave. Cette partie se trouve dans le chapitre "Partir à l'aventure" dans la section [Moments de répit](/partir-a-l-aventure/#moments-de-repit).
 Pour rappel, le fait de travailler en [exerçant une profession](/partir-a-l-aventure/#exercer-une-profession) évite de payer 1po par jour pour maintenir son niveau de vie.  
 Une petite précision est nécessaire. Il faut distinguer l'artisanat de l'exercice d'une profession en terme de jeu. En exerçant une profession pour le bénéfice de la communauté, le personnage se garanti un train de vie et subvient à ses dépenses quotidiennes. Pour cela, il doit travailler au moins la moitié de la journée. L'artisanat fonctionne un peu différemment. Le personnage part à la recherche des ingrédients pour son art (quand c'est nécessaire) et passe ensuite son temps à exercer son art. Chaque phase prend environ une demi journée. Chaque phase peut-être découpée en plusieurs sous phases suivant l'activité (à l'appréciation du Narrateur).  
-Travailler dans l'artisanat permet de gagner des points d'expérience suivant la difficultés des tests. L'expérience n'est attribuée qu'en cas de test réussi.  
+Travailler dans l'artisanat permet de gagner des points d'expérience suivant la difficultés des tests. L'expérience n'est attribuée qu'en cas de test réussi.
+
+Durant les parties, une grande partie de l'expérience peut venir de la capacité du personnage à réussir une épreuve ou survivre à un danger. Il peut ainsi être appliqué le même tableau pour les réussites aux tests de compétences et aux jets de sauvegarde.   
+
+Pour rappel, toutes ces règles ne sont que des propositions et doivent être adaptée ou disciminée par le Narrateur suivant le rythme de progression qu'il souhaite donner à sa campagne. 
 
 ### Degrés de difficulté typiques
 §§§ .table-container
 | Difficulté de l'action | DD |XP|
 |:-|:-:|:-:|
-| **Très facile** | 8 |10|
-| **Facile** | 12 |15|
-| **Modérée** | 16 |20|
-| **Difficile** | 22 |50|
-| **Très difficile** | 28 |100|
-| **Presque impossible** | 35 |200|
+| **Très facile** | 8 |1XP/Pt de marge|
+| **Facile** | 12 |10 + 2XP/Pt de marge|
+| **Modérée** | 16 |20 + 10xp/Pt de marge|
+| **Difficile** | 22 |50 + 25xp/Pt de marge|
+| **Très difficile** | 28 |100 + 50xp/Pt de marge|
+| **Presque impossible** | 35 |200 + 100xp/Pt de marge|
 
 §§§
 

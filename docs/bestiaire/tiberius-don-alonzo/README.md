@@ -51,7 +51,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  
 
-_**Voie des ombres & Astartes**_. Tiberius est niveau 5 dans la voie des ombres et Archétype Astartes.  
+_**Voie des ombres & Astartes**_. Tiberius est niveau 6 dans la voie des ombres et Archétype Astartes.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur, perception et persuasion**  
 
@@ -74,16 +74,16 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 
 ## Actions  
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants .
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -100,7 +100,7 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 §§§ .hero
 ### Equipement:  
 Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 3052 PA, 36 PE & 3394 PO, 5 PP.  
+Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 4750 PA, 36 PE & 6187 PO, 5 PP.  
 1 péridot (500po).
 §§§
 
@@ -114,8 +114,8 @@ petite maison à Ker-Saozon.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 17840    
+**XP acquis** : 17 840       
 **Points de Magie** :10   
-**Points de Foi** :8   
+**Points de Foi** :10     
 **Points d'honneur** :28   
 §§§
