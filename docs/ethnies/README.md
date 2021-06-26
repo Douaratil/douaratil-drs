@@ -73,7 +73,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Langues**. Vous parlez et écrivez le *Weslèdh*, le commun nordique.  
 
-### Traits du Kernaë
+### Traits du Khernaë
 
 **Augmentation de caractéristiques**. Votre valeur de dextérité augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
