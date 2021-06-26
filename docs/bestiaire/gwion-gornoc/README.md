@@ -124,7 +124,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-3602 PC, 5227 PA, 31 PE, 4216 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
+3602 PC, 5227 PA, 31 PE, 3586 PO, 5 PP et 598 églantiannes, 4 doses d'herbefolles, 20 doses de Fortilianes.  
 §§§
 
 §§§ .hero
@@ -145,9 +145,9 @@ un petit fil de cuivre enchanté.
 [suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Oeil magique](/grimoire/oeil-magique)      
+[Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
 
-**Sorts possédés à apprendre** : néant
+**Sorts possédés à apprendre** : Alarme, Brume glaciale, chien de garde, clairvoyance, silence, Vague tonnante.
 §§§
 
 §§§ .hero
@@ -166,7 +166,7 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 29 440   
+**XP acquis** : 32 170     
 **Points de Magie** :42   
 **Points de Foi** :10    
 **Points d'honneur** :33    
