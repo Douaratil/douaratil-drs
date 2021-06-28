@@ -40,7 +40,7 @@ category: "PJ"
 **Équipement** : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)
 
-**Maîtrises**: dagues, fléchettes, frondes, bâtons, sabre, outils de cartographie  
+**Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  
 
 _**Voie de la magie**_. Shin Hame est niveau 4 dans la voie la Magie et Archétype Shohoten.
 
@@ -57,7 +57,7 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 
 ## Actions
 
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Sabre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
@@ -86,7 +86,7 @@ Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougie
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 2700  
+**XP acquis** : 6238     
 **Points de Magie** :20  
 **Points de Foi** :19   
 **Points d'honneur** :17  

@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "6"
-customHP: "28"
+challenge: "7"
+customHP: "31"
 abilityScores:
   for: 10
   dex: 18
   con: 10
   int: 10
-  sag: 12
+  sag: 13
   cha: 10
 customSavingThrows: "for +0, dex +10, con +0, int +3, sag +4, cha +0"
 savingThrows:
@@ -93,6 +93,20 @@ _**Equilibre parfait**_. *(Nayane)*  A partir du niveau 5, la Nayane obtient un 
 
 _**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. [repos court ou long](/gerer-la-sante-du-personnage/#repos).  
 
+_**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
+
+_**Intouchable**_. *(Nayane)*  A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper vigilante, rapide et insensible à la douleur. Pendant une durée égale à 1d6 + son bonus de sagesse, la Nayane obtient une invulnérabilité de 6 sur 1d6. C'est à dire qu'à chaque coup sensé l'atteindre, il faut lancer 1d6 et si un 6 est obtenu, le coup est ignoré (Il est toujours possible de l'esquiver ou de le parer avec les règles normales de [_réactions défensives_](/combattre/#reaction-defensive). Cette capacité évolue avec le niveau de la Nayane.
+
+§§§ .table-container
+|Niveau|Intouchable sur 1d6|
+|:-:|:-:|
+|**7**|6|
+|**11**|5-6|
+|**15**|4-6|
+|**19**|3-6|
+§§§
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [repos long](/gerer-la-sante-du-personnage/#repos-long).   
+
 ## Actions  
 _**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
@@ -117,14 +131,19 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)
-Sawrina possède 180 PC, 2404 PA, 36 PE & 2082 PO, 45 PP.  
+Sawrina possède 180 PC, 4204 PA, 36 PE & 2582 PO, 45 PP.  
+§§§
+
+§§§ .hero
+### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 22 680    
+**XP acquis** : 30 536    
 **Points de Magie** :10  
 **Points de Foi** :10   
-**Points d'honneur** :27  
+**Points d'honneur** :29  
 §§§

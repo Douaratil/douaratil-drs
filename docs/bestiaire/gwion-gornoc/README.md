@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "7"
-customHP: "30"
+challenge: "8"
+customHP: "32"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 15
-  sag: 10
+  sag: 12
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int +5, sag +6, cha +4 "
+customSavingThrows: "for -1, dex -1, con +3, int +5, sag +7, cha +4 "
 savingThrows:
   - "int"
   - "sag"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "12 (Armure de cuir cloutée)"
+  value: "13 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie -1"
@@ -31,7 +31,7 @@ skills:
     value: "athlétisme -1"
   - name: "discretion"
   - name: "custom"
-    value: "dressage +0"
+    value: "dressage +1"
   - name: "escamotage"
   - name: "custom"
     value: "histoire +2"
@@ -43,9 +43,9 @@ skills:
   - name: "custom"
     value: "nature+2"
   - name: "custom"
-    value: "perception +0 (désavantage pour les tests visuels)"
+    value: "perception +1 (désavantage pour les tests visuels)"
   - name: "custom"
-    value: "perspicacité +0"
+    value: "perspicacité +1"
   - name: "custom"
     value: "persuasion +2 (désavantage pour les tests)"
   - name: "custom"
@@ -55,7 +55,7 @@ skills:
   - name: "custom"
     value: "supercherie +2"
   - name: "custom"
-    value: "survie +0"
+    value: "survie +1"
 
 movement:
   walk: 9
@@ -76,9 +76,9 @@ _**Maîtrises:**_. glaive, hache, armes courantes (Double maîtrise pour dague, 
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
-_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 7 dans la voie de la Magie et Archétype Ambeanamos.  
+_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 8 dans la voie de la Magie et Archétype Ambeanamos.  
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. 
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 _**Manipulation de la magie ou métamagie**_. *(Ambeanamos)* Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins en dépensant le double de points de magie (PM). Vous gagnez une de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 7, une au niveau 10 et une dernière au niveau 17.  
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.  
@@ -92,7 +92,13 @@ _**Malédiction de l’ombre**_.  *(Ambeanamos)* Au niveau 4, l’Ambeanamos obt
 
 _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.  
 
- _**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).
+ _**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).   
+
+ _**Compagnon animal**_.  *(Ambeanamos)* À partir du niveau 8, l’Ambeanamos se lie avec une chouette. Il doit s’agir d’un animal qui vit dans les contrées où réside l’Ambeanamos. Si la chouette devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en chuintant. La chouette peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson, tous les jours à l’Ambeanamos.   
+ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau de l’Ambeanamos.    
+
+ _**Magie du sang**_.  *(Ambeanamos)* À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux repos courts ou longs.
+ Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
 
 
 ## Actions
@@ -124,7 +130,7 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-4176 PC, 9294 PA, 31 PE, 4865 PO, 100 PP et 598 églantiannes, 5 doses de Fortilianes, 1 calcédoine (50po), 1 onyx (50po).  
+4176 PC, 10594 PA, 31 PE, 5080 PO, 100 PP et 598 églantiannes, 5 doses de Fortilianes, 1 calcédoine (50po), 1 onyx (50po).  
 §§§
 
 §§§ .hero
@@ -140,9 +146,9 @@ un petit fil de cuivre enchanté.
 ### Sorts connus:  
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
+**Novice** : [Alarme](/grimoire/alarme), [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
 [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
-[suggestion](/grimoire/suggestion), [vision dans le noir](/grimoire/vision-dans-le-noir).  
+[suggestion](/grimoire/suggestion),[vague tonnanante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
 [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
@@ -166,10 +172,10 @@ un petit fil de cuivre enchanté.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 32 170     
-**Points de Magie** :42   
-**Points de Foi** :10    
-**Points d'honneur** :33    
+**XP acquis** : 40 393       
+**Points de Magie** :47   
+**Points de Foi** :12    
+**Points d'honneur** :35       
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§
