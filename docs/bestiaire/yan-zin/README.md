@@ -132,6 +132,7 @@ Yan Zin possède un cheval.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
+ *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 12 676     
 **Points de Magie** :10  
 **Points de Foi** :13      

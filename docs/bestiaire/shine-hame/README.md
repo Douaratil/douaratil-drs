@@ -86,8 +86,9 @@ Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougie
 
 §§§ .hero
 ### Autres informations:  
+**Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 6238     
 **Points de Magie** :20  
 **Points de Foi** :19   
-**Points d'honneur** :17  
+**Points d'honneur** :22    
 §§§

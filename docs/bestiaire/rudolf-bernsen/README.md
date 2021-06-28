@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "6"
-customHP: "36"
+challenge: "7"
+customHP: "40"
 abilityScores:
   for: 14
   dex: 14
@@ -13,7 +13,7 @@ abilityScores:
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +4, dex +4, con +4, int -1, sag +1, cha +1 "
+customSavingThrows: "for +4, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1 "
 savingThrows:
   - "for"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "16 (armure de cuir & bouclier)"
+  value: "17 (chemise de maille & bouclier)"
 skills:
   - name: "custom"
     value: "acrobatie +1"
@@ -88,7 +88,9 @@ _**Expert**_.  *(Skell)* À partir du niveau 3, en remplacement de l'aptitude vi
 
 _**Oeil du gardien des runes**_.  *(Skell)*  À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchants.    
 
-_**Pierre de puissance**_.  *(Skell)*  À partir du niveau 6, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +1 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être semi-précieuse d’une valeur de 100po.
+_**Pierre de puissance**_.  *(Skell)*  À partir du niveau 6, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +1 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être semi-précieuse d’une valeur de 100po.   
+
+_**Compagnon animal renard**_.  *(Skell)*  À partir du niveau 7, le Skell s’attache les services d’un renard roux. L’animal ne s’éloigne jamais plus de 20 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.    
 
 
 
@@ -119,17 +121,22 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 
 §§§ .hero
 ### Equipement:  
-Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (9), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce)   
-1180 PC,  2945 PA, 12 PE, 1675 PO, 45 PP.
+Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (29), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce), 1 opaline (val 100po enchantée pour la DEX), 1 chemise de maille.     
+2780 PC,  2995 PA, 12 PE, 1755 PO, 45 PP.
 §§§
 
+§§§ .hero
+### Patrimoine  
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+§§§
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 16 905
+**Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
+**XP acquis** : 24 204   
 **Points de Magie** :9  
 **Points de Foi** :12  
-**Points d'honneur** :21    
+**Points d'honneur** :23    
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 §§§

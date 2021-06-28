@@ -142,6 +142,7 @@ Sawrina possède 180 PC, 4204 PA, 36 PE & 2562 PO, 45 PP.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
+ *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 30 536    
 **Points de Magie** :10  
 **Points de Foi** :10   
