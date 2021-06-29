@@ -12,8 +12,8 @@ abilityScores:
   con: 14
   int: 10
   sag: 12
-  cha: 14
-customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +5 "
+  cha: 16
+customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +6 "
 savingThrows:
   - "dex"
   - "dex"
@@ -36,7 +36,7 @@ skills:
     value: "escamotage +1"
   - name: "histoire"
   - name: "custom"
-    value: "intimidation +3"
+    value: "intimidation +4"
   - name: "investigation"
     isExpert: true
   - name: "custom"

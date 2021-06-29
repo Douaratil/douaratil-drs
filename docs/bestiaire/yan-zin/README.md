@@ -113,7 +113,7 @@ Yan Zin est à la cour de Goulvening car il est du clan de Ran'Kaze Taiya Rebana
 
 §§§ .hero
 ### Description physique:  
-Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante quinze pour soixante douze kilos.
+Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante quinze pour soixante douze kilos. Cicatrice hanche gauche (percée par une lance).   
 §§§
 
 §§§ .hero
