@@ -136,7 +136,7 @@ Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magique
 **XP acquis** : 24 204   
 **Points de Magie** :9  
 **Points de Foi** :12  
-**Points d'honneur** :23    
+**Points d'honneur** :28    
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 §§§
