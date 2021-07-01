@@ -7,13 +7,13 @@ alignment: "Loyal bon"
 challenge: "7"
 customHP: "40"
 abilityScores:
-  for: 14
+  for: 16
   dex: 14
   con: 12
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +4, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1 "
+customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1 "
 savingThrows:
   - "for"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "17 (chemise de maille & bouclier)"
+  value: "18 (chemise de maille & bouclier)"
 skills:
   - name: "custom"
     value: "acrobatie +1"
@@ -96,16 +96,16 @@ _**Compagnon animal renard**_.  *(Skell)*  À partir du niveau 7, le Skell s’a
 
 ## Actions  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .  
 
-_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
 
 
