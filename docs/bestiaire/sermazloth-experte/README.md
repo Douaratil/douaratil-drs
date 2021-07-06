@@ -38,7 +38,7 @@ _**Sorts de Novice**_ : [_anathème_](/grimoire/anatheme/), [_bouffée de poison
 _**Sorts de Disciple**_ : [_confusion_](/grimoire/confusion/), [_jeter une malédiction_](/grimoire/jeter-une-malediction/), [_nappe de brouillard_](/grimoire/nappe-de-brouillard/)    
 _**Sorts de Apprenti**_ : [_contagion_](/grimoire/contagion/), [_jugement dernier_](/grimoire/jugement-dernier/)  
 _**Présence infernale**_ : La Sermazloth est intimidante. Elle a toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests d'intimidation, avec un bonus de +3 lorsque la cible est Khernaëe.   
-_**à la douleur infernale**_ La souffrance alimente la vitalité de la Sermazloth. A chaque round où elle encaisse des dégâts, elle regagne 1d6 points d'action.  
+_**Résistance à la douleur infernale**_ La souffrance alimente la vitalité de la Sermazloth. A chaque round où elle encaisse des dégâts, elle regagne 1d6 points d'action.  
 
 ## Actions  
 _**Attaques multiples**_. La Sermazloth porte deux attaques.  

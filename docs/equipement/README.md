@@ -57,8 +57,8 @@ Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouc
 |[Demi-plate](#armure-de-demi-plate)|550 po|+5|-|Désavantage|20 kg|
 |**Armures lourdes**||||||
 |[Broigne](#broigne)|30 po|+5|-|Désavantage|20 kg|
-|[Cotte de mailles](#cotte-de-mailles)|75 po|+5|For 13|Désavantage|27,5 kg|
-|[Clibanion](#clibanion)|200 po|+6|For 15|Désavantage|30 kg|
+|[Cotte de mailles](#cotte-de-mailles)|75 po|+6|For 13|Désavantage|27,5 kg|
+|[Clibanion](#clibanion)|200 po|+7|For 15|Désavantage|30 kg|
 |[Armure à plaques](#armure-a-plaques)|1500 po|+8|For 15|Désavantage|32,5 kg|
 |**Bouclier**||||||
 |Bouclier|10 po|+2|-|-|3 kg|

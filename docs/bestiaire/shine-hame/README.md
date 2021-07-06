@@ -40,11 +40,11 @@ category: "PJ"
 **Équipement** : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)
 
-**Maîtrises**: dagues, fléchettes, frondes, bâtons, sabre, outils de cartographie  
+**Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  
 
 _**Voie de la magie**_. Shin Hame est niveau 4 dans la voie la Magie et Archétype Shohoten.
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.  
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 _**mur de bois**_. *(Sohoten)* À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.  
 
@@ -57,13 +57,13 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 
 ## Actions
 
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Sabre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts tranchants (Polyvalent +4 à deux mains).
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
 _**Fronde**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 9/36.  
@@ -86,8 +86,9 @@ Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougie
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 2700  
+**Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
+**XP acquis** : 6238     
 **Points de Magie** :20  
 **Points de Foi** :19   
-**Points d'honneur** :17  
+**Points d'honneur** :22    
 §§§

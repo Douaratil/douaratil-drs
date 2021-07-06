@@ -74,7 +74,7 @@ Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [repos long]
 
 ### Imparable  
 **En Selm : Serssiss's**  
-A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse, la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [repos long](/gerer-la-sante-du-personnage/#repos-long).
+A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse de la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [repos long](/gerer-la-sante-du-personnage/#repos-long). Contre les adversaires "standards", le modificateur de Dextérité (DEX) n'est pas pris en compte dans le calcul de la VD.   
 
 ### Attaque supplémentaire  
 **En Selm : Issessus**  

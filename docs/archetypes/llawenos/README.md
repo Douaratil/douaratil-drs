@@ -74,7 +74,7 @@ Toujours au niveau 7, vous apprenez à utiliser votre répartie pour distraire, 
 
 ### Orateur exceptionnel  
 **En Meldète : Neachairleth**  
-Également au niveau 8, vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).  
+Également au niveau 8, vous pouvez utiliser (à volonté) votre capacité d'un inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).  
 
 ### Héraldique  
 **En Meldète : Hérald**  

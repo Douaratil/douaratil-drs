@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "7"
-customHP: "35"
+challenge: "8"
+customHP: "38"
 abilityScores:
   for: 10
   dex: 11
   con: 14
   int: 10
   sag: 12
-  cha: 14
-customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +5 "
+  cha: 16
+customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +6 "
 savingThrows:
   - "dex"
   - "dex"
@@ -36,7 +36,7 @@ skills:
     value: "escamotage +1"
   - name: "histoire"
   - name: "custom"
-    value: "intimidation +3"
+    value: "intimidation +4"
   - name: "investigation"
     isExpert: true
   - name: "custom"
@@ -108,6 +108,8 @@ _**Mots cinglants**_. *(Llawenos)* Toujours au niveau 7, vous apprenez à utilis
 
 _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
 
+_**Orateur exceptionnel**_. *(Llawenos)* Également au niveau 8, vous pouvez utiliser (à volonté) votre capacité d'un inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).   
+
 
 ## Actions
 
@@ -142,8 +144,8 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, [Amulette antidote](/liste-objets-magiques/amulette-antidote).  
-2116PC, 2210 PA, 36 PE, 5484 PO, 5 PP.  
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, [Amulette antidote](/liste-objets-magiques/amulette-antidote), 1 calcédoine (50po), 1 pierre de lune (50po), 1 onyx (50po), quartz rose étoilé (50po), Zircon (50po).  
+430PC, 6067 PA, 6 PE, 5709 PO, 100 PP.  
 §§§
 
 §§§ .hero
@@ -169,14 +171,14 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 §§§ .hero
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
-**XP acquis** : 25 600  
+ *héroïque: Bataille de Ker-Saozon + 5 PH*  
+**XP acquis** : 36 353
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :31  
+**Points d'honneur** :35     
 §§§
 
 §§§ .hero
 ### Commerce
 Achat de quatre grandes barques
-Dette de 1900 po au charpentier de Thaouet
 §§§
