@@ -137,8 +137,8 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés (Valeur 50po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), 1 calcédoine (50po), 1 onyx (50po).
-Margs possède : 4619 PC, 4104 PA, 36 PE & 1601 PO, 100 PP.  
+Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés plaqués argent (Valeur 125 po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), 1 calcédoine (50po), 1 onyx (50po), 1 fronde avec billes (20).
+Margs possède : 4619 PC, 2103 PA, 36 PE & 101 PO, 0 PP.  
 §§§
 
 §§§ .hero
@@ -150,7 +150,8 @@ Margs possède : 4619 PC, 4104 PA, 36 PE & 1601 PO, 100 PP.
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+**Dépôt auprès de la famille** : 500 po  
 §§§
 
 §§§ .hero

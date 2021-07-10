@@ -94,3 +94,14 @@ Pedr Pimalo et ses hommes accompagnent [Gwion](/bestiaire/gwion-gornoc), [Margs]
 **21 Miz Even**   
 Les compagnons traversent de nouveau la mer pour s'installer à Kerzu, les fréquentations de Dinas Mor Leidr étant trop dangereuses. [Margs](/bestiaire/margs-maenkalon) prend congés de ses compagnons et annonce vouloir rejoindre le cercle de Kernac et visiter sa famille.   
 Le reste du groupe reste à Kerzu en attendant de voir comment la situation régionale évolue.   
+
+**25 Miz Even**  
+Les jours se passent lentement dans une ambiance qui s'alourdit dans la région avec le conflit entre Alarig et ses alliés contre la coalition. Les campagne ne sont plus sûres et une partie du traffic commercial de Kerzu s'est détournée sur d'autres ports et en particulier Thaouet au nord qui est encore protégé par la stabilité de Masyvum.  
+
+[Margs](/bestiaire/margs-maenkalon) arrive enfin à Kernac après avoir évité plusieurs groupes de pillards, non sans avoir occis un malandrin qui violait une fille de ferme.  
+Le Beghelm ne peut que constater les ravages de la guerre qui n'ont d'autres intérêts que de redistribuer les cartes entre les puissants, au dépends des plus faibles.  
+[Margs](/bestiaire/margs-maenkalon) retrouve sa famille et peut admirer sa fille qui a déjà tellement changé. Revenant les bras chargé de cadeau et de richesses, il investit dans son patrimoine pour assurer l'avenir de sa famille et de son clan.  
+L'expérience de la rencontre des spectre l'ayant profondément marqué, il fait plaquer ses deux cimeterres avec de l'argent, métal réputer pour blesser les créatures intangibles.  
+Le même jour à Kerzu, deux évènements importants ont lieu. Revenant d'un très long voyage pour gérer la succession de son père [Yan Zin](/bestiaire/yan-zin) revient. Il a du choisir l'exil pour ne pas finir exécuter par son propre frère. Il a cependant l'opportunité de créer un comptoir Yotakaï en Douaratil.  
+C'est avec un grand plaisir qu'il retrouve ses anciens compagnons, particulièrement [Shin Hame](/bestiaire/shin-hame)  et [Tiberius](/bestiaire/tiberius-don-alonzo).  
+Mais les retrouvailles ne sont que de courtes durées car les compagnons expliquent la situation qui s'est dégradée en Douaratil. Les troupes de Britomartos sont à l'extérieure de la ville alors que le clan Gornoc s'est réfugié derrières les enceintes de la ville portuaire.  
