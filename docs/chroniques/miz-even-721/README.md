@@ -27,7 +27,7 @@ Les routes ne sont plus sûre et les pillages sont réguliers.
 Averti par une corneille, [Margs](/bestiaire/margs-maenkalon) a fait le voyage et a pu constater les ravages de la guerre. La coalition de Britomartos et de ses alliés, ayant soigneusement évité de contrarier Masyvum, parcours les terres du nord vers Kernac mais aussi celles du sud vers Kerzu. Pas encore assez fort pour se dresser contre les pouvoirs en place, cette coalition semble dans l'attente d'un évènement déclencheur. Les rêves de [Margs](/bestiaire/margs-maenkalon) ne sont d'ailleurs pas très clairs à ce sujet.  
 [Gwion](/bestiaire/gwion-gornoc) se remet doucement de ses blessures et de sa captivité.  
 
-**5 Miz Even**
+**5 Miz Even**  
 Des provisions pour la traversée ont été rassemblée et c'est au petit matin que le bateau, un vieux navire à un mâts et à rames, quitte le rivage sur une mer d'huile. Embrasées de rose et de feu, la mer et le ciel ne font qu'un pendant un instant. Le cri des mouettes, le clapotis des rames et le souffle léger des élémentaires de l'air auraient pu augurer une traversée paisible mais [Gwion](/bestiaire/gwion-gornoc) , plus que tout autres, connaissait la sordide réputation d'Avelhaden.  
 Une fois sorti de la protection des côtes, la mer est déjà plus agitée et instinctivement, tous ceux qui n'ont pas le pied marin, s'agrippent à la rambarde ou a des cordages de peur de basculer et de sombrer au fond de l'océan avec armes et bagages.  
 Le ciel est bas en ce jour et les forces du vents viennent arracher des volutes des nuages qui viennent s'étaler sur la surface de l'eau en de larges nappes de brumes qui dissimule les rochers à fleur d'eau.  
@@ -97,7 +97,6 @@ Le reste du groupe reste à Kerzu en attendant de voir comment la situation rég
 
 **25 Miz Even**  
 Les jours se passent lentement dans une ambiance qui s'alourdit dans la région avec le conflit entre Alarig et ses alliés contre la coalition. Les campagne ne sont plus sûres et une partie du traffic commercial de Kerzu s'est détournée sur d'autres ports et en particulier Thaouet au nord qui est encore protégé par la stabilité de Masyvum.  
-
 [Margs](/bestiaire/margs-maenkalon) arrive enfin à Kernac après avoir évité plusieurs groupes de pillards, non sans avoir occis un malandrin qui violait une fille de ferme.  
 Le Beghelm ne peut que constater les ravages de la guerre qui n'ont d'autres intérêts que de redistribuer les cartes entre les puissants, au dépends des plus faibles.  
 [Margs](/bestiaire/margs-maenkalon) retrouve sa famille et peut admirer sa fille qui a déjà tellement changé. Revenant les bras chargé de cadeau et de richesses, il investit dans son patrimoine pour assurer l'avenir de sa famille et de son clan.  
@@ -105,3 +104,7 @@ L'expérience de la rencontre des spectre l'ayant profondément marqué, il fait
 Le même jour à Kerzu, deux évènements importants ont lieu. Revenant d'un très long voyage pour gérer la succession de son père [Yan Zin](/bestiaire/yan-zin) revient. Il a du choisir l'exil pour ne pas finir exécuter par son propre frère. Il a cependant l'opportunité de créer un comptoir Yotakaï en Douaratil.  
 C'est avec un grand plaisir qu'il retrouve ses anciens compagnons, particulièrement [Shin Hame](/bestiaire/shin-hame)  et [Tiberius](/bestiaire/tiberius-don-alonzo).  
 Mais les retrouvailles ne sont que de courtes durées car les compagnons expliquent la situation qui s'est dégradée en Douaratil. Les troupes de Britomartos sont à l'extérieure de la ville alors que le clan Gornoc s'est réfugié derrières les enceintes de la ville portuaire.  
+Azenor arrive à Kerzu, elle demande de l'aide des clans meldètes Gornoc, Vlatcano et à tous leurs alliés de les aider au nom de leur amitié pour Morwenna.  
+[Tiberius](/bestiaire/tiberius-don-alonzo) se rend compte qu'Azenor est blessée. Elle a reçu une flèche en franchissant le blocus khernaë de Ker-Saozon.  
+[Gwion](/bestiaire/gwion-gornoc) lui prodigue des soins. Les compagnons se réunissent et discutent de leur position par rapport aux différentes puissances engagées. Ils décident de prendre le risque d'aider Alarig et Morwenna en espérant bénéficier de leur soutien futur pour reconquérir [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan).   
+Tous envoient des messagers pour rassembler leurs troupes et se rendre à Ker-Saozon.   
