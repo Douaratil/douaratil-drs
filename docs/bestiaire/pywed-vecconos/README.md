@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "14 (armure de cuir cloutée)"
+  value: "16 (armure de cuir cloutée + bouclier en bois)"
 skills:
   - name: "custom"
     value: "acrobatie +0"
@@ -86,7 +86,7 @@ Votre niveau de Drodan détermine en quel animal vous pouvez vous connecter (voi
 |Niv. |ID |Limitations|Exemple|
 |:-:|:-:|:-:|:-:|
 |3 |1/4 |Pas de vitesse de vol ou de nage|Loup|
-|5 |1/2| Pas de vitesse de vol||Ours noir|
+|5 |1/2| Pas de vitesse de vol|Ours noir|
 |8 |1 |-|Ours brun|
 §§§
 Vous pouvez conserver cette connexion pendant un nombre d'heures équivalent à la moitié de votre niveau de Drodan (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis.
@@ -123,7 +123,7 @@ Pywed Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les 
 §§§ .hero
 ### Equipement:  
 Pywed Vecconos possède l'équipement suivant :
-Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse.  
+Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse.  Armure de cuir cloutée, cimeterre, hache, glaive, bouclier en bois.
 20 po  
 §§§
 
