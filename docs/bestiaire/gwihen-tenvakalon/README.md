@@ -88,7 +88,7 @@ _**Clairaudience**_. *(Sorser)* Dès le niveau 4, vous pouvez bénéficier de la
 _**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.  
 
-_**Pas brumeux**_. *(Sorser)* Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre intelligence. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
+_**Pas brumeux**_. *(Sorser)* Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre initiative. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
 
 _**Ressource inépuisable**_. *(Sorser)*  
 Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
@@ -129,7 +129,7 @@ Gwihem possède : 10 PC, 100 PA, 10 PE & 1000 PO, 5 PP.
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [arme magique](/grimoire/arme-magique), [appel de familier](/grimoire/appel-de-familier), [armure du mage](/grimoire/armure-du-mage), [[hâte](/grimoire/hate), [Invisibilité](/grimoire/invisibilite), [mot de guérison](/grimoire/mot-de-guerison),[Silence](/grimoire/silence), [Souffle du messager](/grimoire/souffle-du-messager).  
+**Novice** : [arme magique](/grimoire/arme-magique), [appel de familier](/grimoire/appel-de-familier), [armure du mage](/grimoire/armure-du-mage), [hâte](/grimoire/hate), [Invisibilité](/grimoire/invisibilite), [mot de guérison](/grimoire/mot-de-guerison),[Silence](/grimoire/silence), [Souffle du messager](/grimoire/souffle-du-messager).  
 §§§
 
 §§§ .hero

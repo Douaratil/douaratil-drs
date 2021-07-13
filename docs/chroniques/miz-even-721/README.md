@@ -108,3 +108,22 @@ Azenor arrive à Kerzu, elle demande de l'aide des clans meldètes Gornoc, Vlatc
 [Tiberius](/bestiaire/tiberius-don-alonzo) se rend compte qu'Azenor est blessée. Elle a reçu une flèche en franchissant le blocus khernaë de Ker-Saozon.  
 [Gwion](/bestiaire/gwion-gornoc) lui prodigue des soins. Les compagnons se réunissent et discutent de leur position par rapport aux différentes puissances engagées. Ils décident de prendre le risque d'aider Alarig et Morwenna en espérant bénéficier de leur soutien futur pour reconquérir [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan).   
 Tous envoient des messagers pour rassembler leurs troupes et se rendre à Ker-Saozon.   
+
+**27 Miz Even**  
+Les troupes des clans Gornoc et Vlatcano se rassemblent, supplées par un nombreux renfort des Melgs du clan Bernsen, des guerrières libres de l'Ouest, des mercenaires de la famille Don Alonzo et des bandes armées Yotakaï. Cette armée hétéroclite rassemble plusieurs centaines de guerriers qui ont répondu à l'appel.   
+
+**28 Miz Even**  
+La troupe se met en marche vers Ker-Saozon. Il est prévu trois jours de voyage pour rejoindre la cité de Morwenna mais le nombre augmente les difficultés. La première nuit, le campement subit une attaque des éclaireurs de la coalition khernaëe. Un comabt confus se déroule en pleine nuit, les soldats du campement étant dans un premier temps surpris. Les compagnons participent activement au combat à l'exception de [Gwion](/bestiaire/gwion-gornoc) qui reste endormi, épuisés par ses recherches magiques. Yan Zin est gravement blessé et coulé au sol par une lance khernaëe. Finalement, les attaquants rompent le combat après avoir causé des dommages et semé le doute. La mêlée très violente a mis hors de combat une soixantaine de combattant répartis à peu près équitablement.  
+
+**29 Miz Even**  
+La troupe continue sa progression et dresse un campement à une journée de marche de Ker-Saozon. La météo est morne et l'ambiance déjà plombée par l'attaque du jour suivant. Les chefs distribuent un peu d'alcool et de remontants. Le moral revient doucement et chacun sait que beaucoup de choses vont se jouer dés le lendemain.   
+
+**30 Miz Even**  
+L'armée coalisée arrive à vue de Ker-Saozon et découvre une ville en état de siège. En contrebas, dans la plaine, les tentes de campements des seigneurs de guerre kernaëes les Reks Berac'h Segalen, Friard Cornec et Sezig Le Guevel. Les machines de guerre lancent sporadiquement des traits de feu et des pierres sur la ville.  
+Les compagnons mettent en place des stratagèmes pour affaiblir et désorganiser l'adversaire. Il s décident d'envoyer [Sawrina](/bestiaire/sawrina-semiramis) dans le camps adverse.   
+Grâce à ses talents, elle s'infiltre et souille des réserves d'eau, met le feu au campement. En même temps, ils approchent quelques rangs d'archers pour harceler ceux qui tenteraient d'éteindre les foyers qui s'embrasent.
+L'effet escompter va au delà des espérance car se croyant soudainement attaqués, les troupes des Reks se rassemblent pour faire face. Observant cela depuis la ville, et étant à bout de force à cause du long siège, les portes de Ker-Saozon s'ouvrent et les troupes de Morwenna et d'Alarig se lancent dans la bataille. Dans cet enchainement, tous le monde est pris de cours et toutes les armées se ruent les unes sur les autres dans une mélée sauvage.  
+Chacun part au combat et affronte de nombreux adversaires.  
+La force du nombre et l'entrainement des troupes des Reks Berac'h Segalen, Friard Cornec et Sezig Le Guevel finissent par faire basculer le cours de la bataille. Les troupes meldètes et leurs alliés tombent de plus en plus nombreux, sont faits prisonniers ou s'enfuient.   
+Le reste des survivants se réfugie dans la cité de Ker-Saozon.  Seul [Gwion](/bestiaire/gwion-gornoc) qui n'a pas réussi à trouver refuge dans la cité, repart vers la forêt et se rendant invisible, franchit les lignes adverse.   
+Ce jour est bien sombre.   

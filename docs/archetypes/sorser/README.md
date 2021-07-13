@@ -40,7 +40,7 @@ Dès le niveau 4, vous pouvez bénéficier de la capacité d'entendre à distanc
 
 ### Pas brumeux  
 **En Khern : Bheag Misten**  
-Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre intelligence. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
+Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre initiative. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
 
 ### Ressource inépuisable  
 **En Khern : Paedra  dihesk**  
