@@ -61,13 +61,13 @@ Vous connaissez le Drodan, la langue secrète des Drodanos. Vous pouvez parler c
 
 ### Vigueur du printemps  
 **En Meldète : Gwylgwanwyn**  
-Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un repos long, vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
+Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
 De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points d'action temporaire égal au double de votre niveau de drodan. Vous ne conservez pas ces points d'action lorsque vous quittez la connexion avec l'animal.  
 
 
 ### Forme sauvage  
 **En Meldète : Ffurfgwyllt**  
-À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.  
+À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.  
 Votre niveau de Drodan détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 3, par exemple, vous pouvez vous transformer en n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
 
 §§§ .table-container

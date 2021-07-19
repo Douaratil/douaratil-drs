@@ -42,7 +42,7 @@ Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéraleme
 ### Champion  
 **En Melg : Mästareh**  
 À partir du niveau 5, le Jörghal peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
-Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un repos court ou long avant de pouvoir réutiliser cette capacité.  
+Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
 
 ### Maître des haches
 **En Melg : Mastraë'hackad**  
@@ -54,7 +54,7 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 
 ### Colosse  
 **En Melg : Kolosh**  
-À partir du niveau 9, le Jörghal peut utiliser sa force un nombre de fois égale à son modificateur de force. Il obtient ainsi un avantage pour tout test de force (JS, combat, compétences...). Il doit attendre un repos court ou long pour récupérer cette capacité.   
+À partir du niveau 9, le Jörghal peut utiliser sa force un nombre de fois égale à son modificateur de force. Il obtient ainsi un avantage pour tout test de force (JS, combat, compétences...). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long pour récupérer cette capacité.   
 
 ### Survivant
 **En Melg : Rebohserzh**  
@@ -66,7 +66,7 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 
 ### Représailles  
 **En Melg : Rebohserzh**  
-À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un repos court avant de pouvoir réutiliser cette capacité.
+À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.
 
 ### Attaque supplémentaire  
 **En Melg : Yttelgatk**  

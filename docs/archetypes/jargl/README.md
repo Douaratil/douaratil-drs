@@ -43,7 +43,7 @@ Les Jargls de la voie des Armes sont appelés Karreg, littéralement «Le Rocher
 ### Champion  
 **En Khern : Maout**  
 À partir du niveau 5, le Jargl peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
-Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 15 et 3 au niveau 19. Vous devez faire un repos long avant de pouvoir réutiliser cette capacité.  
+Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 15 et 3 au niveau 19. Vous devez faire un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 
 ### Rapidité  
 **En Khern : Taoler**  
@@ -63,7 +63,7 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 
 ### Représailles  
 **En Khern : Rebohserzh**  
-À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un repos court avant de pouvoir réutiliser cette capacité.
+À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.
 
 ### Attaque supplémentaire  
 **En Khern : Argad Adh**  

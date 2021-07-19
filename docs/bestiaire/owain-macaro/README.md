@@ -51,9 +51,9 @@ _**Voie des armes & Gwylwir**_. Owain est niveau 5 dans la voie des armes et Arc
 
 _**Style de combat Archérie**_. *(Armes)* Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.   
 
-_**Second souffle**_. *(Armes)* Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un repos court ou un repos long avant de l'utiliser de nouveau.   
+_**Second souffle**_. *(Armes)* Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
 
-_**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.   
+_**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.   
 
 _**Ennemi juré**_. *(Gwylwir)* Dès le niveau 3, Owain a une expérience significative dans le combat contre un ennemi particulier qui a menacé par le passé son clan (Khernaë).
 Tous ses tests sociaux excepté intimidation subiront désormais un désavantage.

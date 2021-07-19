@@ -71,15 +71,15 @@ _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , go
 
 _**Voie de la Magie & Drodan**_. Pywed est niveau 3 dans la voie de la Magie et Archétype Dordan.  
 
-**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
+**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
 
 _**Langue sacrée**_. *(Drodan)*  Vous connaissez le Drodan, la langue secrète des Drodanos. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres personnes peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer. L’écriture est le Drods et les Oghens de Briach.  
 
-_**Vigueur du printemps**_. *(Drodan)*  Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un repos long, vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.  
+_**Vigueur du printemps**_. *(Drodan)*  Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.  
 De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points d'action temporaire égal au double de votre niveau de drodan. Vous ne conservez pas ces points d'action lorsque vous quittez la connexion avec l'animal.    
 
 
-_**Forme sauvage**_. *(Drodan)*  À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.   
+_**Forme sauvage**_. *(Drodan)*  À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.   
 Votre niveau de Drodan détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 3, par exemple, vous pouvez vous transformer en n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.   
 
 §§§ .table-container

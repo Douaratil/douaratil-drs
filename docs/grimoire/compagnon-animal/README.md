@@ -21,7 +21,7 @@ Vous tentez de convaincre une bête à portée et dans votre champ de vision de 
 
 Si le sort est un succès, vous pouvez communiquer de façon rudimentaire avec votre compagnon et lui donner des ordres simples comme attaquer une cible ou la suivre, rapporter un objet en vue, garder un lieu ou une créature, etc. Cela ne vous demande pas de dépenser une action. De plus, vous pouvez entendre et voir par l'intermédiaire des oreilles et des yeux de votre compagnon, comme si vous occupiez son emplacement. À votre tour, vous pouvez dépenser une action bonus pour passer de l'utilisation de ses sens à celle des vôtres et inversement. Tant que vous utilisez ses sens, vous êtes aveugle et sourd à votre propre environnement.
 
-Lorsque les points d'action d'un compagnon animal sont égaux à 0, il suit les mêmes règles qu'un personnage et il peut bénéficier de soins. Après chaque repos court, les points d'action du compagnon animal remontent à la moitié de son maximum s'ils sont inférieurs à cette valeur. Après chaque repos long, le compagnon récupère l'intégralité des points d'action perdus.
+Lorsque les points d'action d'un compagnon animal sont égaux à 0, il suit les mêmes règles qu'un personnage et il peut bénéficier de soins. Après chaque [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les points d'action du compagnon animal remontent à la moitié de son maximum s'ils sont inférieurs à cette valeur. Après chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), le compagnon récupère l'intégralité des points d'action perdus.
 
 Chaque jour, vous pouvez conserver le même compagnon animal sans devoir à nouveau lancer le sort, simplement en sacrifiant les points de Foi correspondants et en utilisant une action bonus.
 

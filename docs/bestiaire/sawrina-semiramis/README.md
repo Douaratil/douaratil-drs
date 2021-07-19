@@ -91,7 +91,7 @@ _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant q
 
 _**Equilibre parfait**_. *(Nayane)*  A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se déplacer sur des surfaces de 2 cm de large sans problème. Elle peut marcher sur une corde à sa vitesse normale comme s'il s'agissait d'un terrain normal.  
 
-_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. [repos court ou long](/gerer-la-sante-du-personnage/#repos).  
+_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. [[_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long](/gerer-la-sante-du-personnage/#repos).  
 
 _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
 
@@ -105,7 +105,7 @@ _**Intouchable**_. *(Nayane)*  A partir du niveau 7, la Nayane peut entrer dans 
 |**15**|4-6|
 |**19**|3-6|
 §§§
-Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [repos long](/gerer-la-sante-du-personnage/#repos-long).   
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).   
 
 ## Actions  
 _**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  

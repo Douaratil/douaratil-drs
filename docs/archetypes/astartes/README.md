@@ -60,6 +60,10 @@ Au niveau 18, le rayon de cette aura atteint 9 mètres.
 À partir du niveau 7, vous et les créatures amicales qui se trouvent à 3 mètres de vous ne pouvez pas être [_charmés_](/gerer-la-sante-du-personnage/#charme). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).  
 Au niveau 18, le rayon de cette aura s'étend à 9 mètres.  
 
+### Cri de ralliement
+**En Alcante : Clamor concursum**  
+À partir du niveau 8, l'Astartes peut au prix d'une action bonus, crier et rallier ses alliés [_charmés_](/gerer-la-sante-du-personnage/#charme), [_étourdis_](/gerer-la-sante-du-personnage/#etourdi), [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) ou [_repoussés_](/gerer-la-sante-du-personnage/#repoussee) dans un rayon de 18m. Les effets sont immédiatement dissipés. Cette capacité ne peut être utilisée de nouveau qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+
 ### Aura de courage  
 **En Alcante : Sphaera animo**  
 À partir du niveau 10, vous, ainsi que toute personne amicale qui se trouve à 3 mètres de vous, ne pouvez être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
@@ -75,7 +79,7 @@ Au niveau 13, lorsque vous combattez avec ferveur, vous obtenez un [_avantage_](
 ### Contact purifiant   
 **En Alcante : Tangere Integro**    
 À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.  
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux repos longs.  
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s.  
 
 ### Chevalier prestigieux  
 **En Alcante : Equès Gloriosum**   
@@ -87,7 +91,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ### Parangon héroïque  
 **En Alcante : Nosterio Herkhos**  
-Au niveau 19, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau semble prendre la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un repos long avant de pouvoir de nouveau utiliser cette aptitude.  
+Au niveau 19, au prix d'une action, vous pouvez devenir un parangon d'héroïsme. Pendant 1 minute, votre peau semble prendre la teinte de l'or pur et émet une faible lumière dorée dans un rayon de 6 mètres autour de vous. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude.  
 
 ### Véritable Astartes  
 **En Alcante : Astartes**  

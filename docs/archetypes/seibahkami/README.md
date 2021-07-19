@@ -41,12 +41,12 @@ Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Il
 ### Détermination
 **En Yotaï : Kettei**  
 À partir du niveau 3, vous gardez votre sabre dans son étui et attendez le meilleur moment pour le dégainer contre vos adversaires. Vous pouvez baisser le résultat de votre initiative de 5 pour le combat, en contre partie, lors de votre premier round d’attaque, vous pouvez porter vos attaques contre 3 adversaires maximum qui vous font face. Vous portez l’ensemble de vos attaques sur chaque adversaire.
-Cette capacité lorsqu’elle est utilisée, nécessite un repos long pour être de nouveau utilisée. Au niveau 12, un repos court suffit et au niveau 18, il n’y a plus de limitation.
+Cette capacité lorsqu’elle est utilisée, nécessite un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour être de nouveau utilisée. Au niveau 12, un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) suffit et au niveau 18, il n’y a plus de limitation.
 
 ### Préserver la vie
 **En Yotaï : Chebh N’do**  
 À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
-Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un repos court ou un repos long pour utiliser de nouveau cette aptitude.  
+Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
 
 ### Empathie équestre
 **En Yotaï : Kyōkan Jōba**  

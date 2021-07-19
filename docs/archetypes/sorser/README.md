@@ -36,15 +36,15 @@ Dès le niveau 3, vous êtes le point de passage des énergies arcaniques enviro
 
 ### Clairaudience  
 **En Khern : Soileir Eisteacht**  
-Dès le niveau 4, vous pouvez bénéficier de la capacité d'entendre à distance comme le sort [clairvoyance](/grimoire/clairvoyance) mais la portée est limitée à 12 mètres et le point d'écoute doit être visible du Sorser. La durée du sort est de un round mais il peut être utilisé un nombre de fois égal à son modificateur d'intelligence (minimum 1). Ensuite, il doit attendre un repos court pour pouvoir réutiliser cette capacité.    
+Dès le niveau 4, vous pouvez bénéficier de la capacité d'entendre à distance comme le sort [clairvoyance](/grimoire/clairvoyance) mais la portée est limitée à 12 mètres et le point d'écoute doit être visible du Sorser. La durée du sort est de un round mais il peut être utilisé un nombre de fois égal à son modificateur d'intelligence (minimum 1). Ensuite, il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) pour pouvoir réutiliser cette capacité.    
 
 ### Pas brumeux  
 **En Khern : Bheag Misten**  
-Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre initiative. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un repos long avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
+Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vous entrevoyez le futur très proche. Cela vous permet d’être très réactif. Vous ajoutez votre modificateur d’intelligence en lieu et place de celui de dextérité pour déterminer votre initiative. De plus, si vous avez l’initiative sur tous vos adversaires, vous pouvez disparaitre et réapparaitre où vous le souhaitez dans un rayon de 9 mètres autours de vous. Il faut un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité. Cependant vous pouvez l’utiliser une seconde fois au niveau 10, une troisième fois au niveau 15 et une quatrième fois au niveau 20.   
 
 ### Ressource inépuisable  
 **En Khern : Paedra  dihesk**  
-Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 ### Véritable Sorser  
 **En Khern : Sorser**

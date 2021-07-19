@@ -130,7 +130,7 @@ Au niveau 11, vous apprenez des techniques de projection vous permettant de reto
 
 ### soins physique  
 **En Khern : Emellkorf**  
-Au niveau 12, vous gagnez la capacité de vous soigner seul. En utilisant une action, vous pouvez regagner un nombre de points d’action égal à trois fois votre niveau de Dall Dawnser. Vous devez finir un repos long avant de pouvoir utiliser cette aptitude de nouveau.  
+Au niveau 12, vous gagnez la capacité de vous soigner seul. En utilisant une action, vous pouvez regagner un nombre de points d’action égal à trois fois votre niveau de Dall Dawnser. Vous devez finir un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir utiliser cette aptitude de nouveau.  
 
 ### Dérobade  
 **En Khern : Tech’hout**  
