@@ -185,33 +185,8 @@ En tant que voie de la magie, vous bénéficiez des aptitudes de classe suivante
 **Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Intimidation, Investigation, Médecine, Perspicacité et Religion  
 ### Incantations
 En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau.
-### Lancer des sorts
-Lorsque le personnage monte de niveau et seulement à partir du niveau de 3 l’initié aura la possibilité d’utiliser ses propres rituels plus puissants sous réserve de posséder les prérequis dans sa caractéristique d’incantation. Les sorts nécessitent l’utilisation d’un test d’art de la magie. L’art de la magie est décrit dans le paragraphe suivant.
-Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.
-**A partir du niveau 3**, lors du choix de l’archétype, le personnage obtient la capacité de lancer des sorts de **novice** sous réserve de posséder 12 dans la caractéristique de lancement de sort.  
-**A partir du niveau 5**, il obtient la capacité de lancer des sorts de **disciple** sous réserve de posséder 14 dans la caractéristique de lancement de sort.  
-**A partir du niveau 9**, il obtient la capacité de lancer des sorts d’**apprenti** sous réserve de posséder 16 dans la caractéristique de lancement de sort.  
-**A partir du niveau 13**, il obtient la capacité de lancer des sorts d’**adepte** sous réserve de posséder 17 dans la caractéristique de lancement de sort.  
-**A partir du niveau 15**, il obtient la capacité de lancer des sorts d’**expert** sous réserve de posséder 18 dans la caractéristique de lancement de sort.  
-**A partir du niveau 17**, il obtient la capacité de lancer des sorts de **maître** sous réserve de posséder 20 dans la caractéristique de lancement de sort.  
-Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leur bonus d’incantation**. ***D’autre part le DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise****.
-### Apprendre des rituels de niveau supérieur
-Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
-Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
+### Duel arcanique
 
-### Coût d'apprentissage de sorts en temps & ressources
-§§§ .table-container
-|Type|Temps|Coût|DA Voie de la Magie |DA Voie de l'Ombre |DA Voie des Armes |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|Novice|1 journée|50 po| 8 |12|16|
-|Disciple|1 semaine|100 po|  12|16|22|
-|Apprenti|1 demi lune|300 po|  16|22|28|
-|Adepte|1 lune|600 po|  22|28|35|
-|Expert|2 lunes|1200 po|  28|35|-|
-|Maître|3 lunes|2400 po|35|-|-|
-* DA : Difficultée d'apprentissage  
-* Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
-§§§
 
 ### Restauration magique
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
