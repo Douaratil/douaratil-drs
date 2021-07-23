@@ -16,6 +16,10 @@ Les personnages de la voie de la magie, contrairement aux autres voies **ajouten
 ***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise pour les Voies de la Magie***.
 ***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique pour les Voies des Armes et de l'Ombre***.
 
+### Apprendre des rituels de niveau supérieur
+Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
+Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
+
 
 ### Coût des Sorts
 Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coûts varient selon les niveaux de sorts.
