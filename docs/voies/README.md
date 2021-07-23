@@ -146,23 +146,23 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 §§§ .table-container
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
-|**1**|+2|[Incantations](#incantations), [Restauration magique (1d6)](#restauration-magique)|+4|
+|**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
 |**2**|+4|-|+8|
-|**3**|+6|[Archétype arcanique](#archetype-arcanique,), [Lancer des sorts de Novice (Carac 12)](#lancer-des-sorts)|+12|
+|**3**|+6|[Archétype arcanique](#archetype-arcanique,)|+12|
 |**4**|+8|[Restauration magique (2d6)](#restauration-magique)|+16|
-|**5**|+10|[Lancer des sorts de disciple (Carac 14)](#lancer-des-sorts)|+20|
+|**5**|+10|-|+20|
 |**6**|+12|-|+24|
 |**7**|+14|[Restauration magique (3d6)](#restauration-magique)|+28|
 |**8**|+16|-|+32|
-|**9**|+18|[Lancer des sorts d'apprenti (Carac 16)](#lancer-des-sorts)|+36|
+|**9**|+18|-|+36|
 |**10**|+20|[Restauration magique (4d6)](#restauration-magique)|+40|
 |**11**|+22|-|+44|
 |**12**|+24|-|+48|
 |**13**|+26|[Restauration magique (5d6)](#restauration-magique), [Lancer des sorts d'adepte (Carac 17)](#lancer-des-sorts)|+52|
 |**14**|+28|-|+56|
-|**15**|+30|[Lancer des sorts d'Expert (Carac 18)](#lancer-des-sorts)|+60|
+|**15**|+30|-|+60|
 |**16**|+32|[Restauration magique (6d6)](#restauration-magique)|+64|
-|**17**|+34|[Lancer des sorts de Maître (Carac 20)](#lancer-des-sorts)|+68|
+|**17**|+34|-|+68|
 |**18**|+36|[Maîtrise des sorts](#maitrise-des-sorts)|+72|
 |**19**|+38|[Restauration magique (7d6)](#restauration-magique)|+76|
 |**20**|+40|[Sorts de prédilection](#sorts-de-predilection)|+80|
