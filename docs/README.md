@@ -13,6 +13,15 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Modification de la Voie de la Magie et corrections
+En cette période si particulière, avec les contraintes sanitaires et les aléas climatiques, je vous souhaite tout de même un bel été. De nombreux ajustements au jeu ont été effectués et des corrections apportées au fur et à mesure de la découvertes d'erreur.La voie de la magie a été remaniée pour une plus grande cohérence avec l'usage de la magie et insister sur la différence entre les utilisateurs de la magie de cette voie et de celles des autres voies.   
+La campagne de jeu continue et je souhaite remercier mes joueurs pour leur investissement, particulièrement Bastian, Georges et Elric qui m'aident à ajouter des contenus régulièrement.   
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 25 juillet 2021_
+§§§
+
 ## Derniers ajouts
 Voici les derniers ajouts dont le Sorser qui avance doucement mais qui n'est pas du tout terminé.
 Ajout dans le bestiaire de l'[âme en peine](/bestiaire/ame-en-peine),[Goule](/bestiaire/goule) et le [Fantome](/bestiaire/fantome) et dans le grimoire le sort [Douleur nerveuse](/grimoire/douleur-nerveuse)
