@@ -61,18 +61,18 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 **Protection**
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.  
 ### Second souffle
-Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.
+Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_[_repos long_](/gerer-la-sante-du-personnage/#repos-long)_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
 ### Sursaut d'activité
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
-Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
+Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 ### Archétype martial
 Au niveau 3, vous choisissez un archétype. 
 ### Attaque supplémentaire
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
 ### Indomptable
-À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.
-À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux repos longs et trois fois à partir du niveau 17.
+À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.
 
 # Voie de l’ombre
 ## Évolution de la voie de l'ombre
@@ -140,29 +140,29 @@ Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez 
 Au niveau 18, vous êtes tellement agile que vos ennemis ont rarement le dessus quand ils vous affrontent. Tant que vous n'êtes pas neutralisé, aucun jet d'attaque qui vous cible ne peut bénéficier d'un avantage.
 ### Coup de chance
 Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous entreprenez au moment opportun. Si vous attaquez une cible qui se trouve à votre portée et que vous échouez à votre jet d'attaque, vous pouvez transformer cet échec en une réussite. Alternativement, si vous échouez à un test de caractéristique, vous pouvez transformer le résultat du 3d6 en 20.
-Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un repos long avant de pouvoir l'utiliser de nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
 # Voie de la magie
 ## Évolution de la voie de la magie
 §§§ .table-container
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
-|**1**|+2|[Incantations](#incantations), [Restauration magique (1d6)](#restauration-magique)|+4|
+|**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
 |**2**|+4|-|+8|
-|**3**|+6|[Archétype arcanique](#archetype-arcanique,), [Lancer des sorts de Novice (Carac 12)](#lancer-des-sorts)|+12|
+|**3**|+6|[Archétype arcanique](#archetype-arcanique,)|+12|
 |**4**|+8|[Restauration magique (2d6)](#restauration-magique)|+16|
-|**5**|+10|[Lancer des sorts de disciple (Carac 14)](#lancer-des-sorts)|+20|
+|**5**|+10|-|+20|
 |**6**|+12|-|+24|
 |**7**|+14|[Restauration magique (3d6)](#restauration-magique)|+28|
 |**8**|+16|-|+32|
-|**9**|+18|[Lancer des sorts d'apprenti (Carac 16)](#lancer-des-sorts)|+36|
+|**9**|+18|-|+36|
 |**10**|+20|[Restauration magique (4d6)](#restauration-magique)|+40|
 |**11**|+22|-|+44|
 |**12**|+24|-|+48|
 |**13**|+26|[Restauration magique (5d6)](#restauration-magique), [Lancer des sorts d'adepte (Carac 17)](#lancer-des-sorts)|+52|
 |**14**|+28|-|+56|
-|**15**|+30|[Lancer des sorts d'Expert (Carac 18)](#lancer-des-sorts)|+60|
+|**15**|+30|-|+60|
 |**16**|+32|[Restauration magique (6d6)](#restauration-magique)|+64|
-|**17**|+34|[Lancer des sorts de Maître (Carac 20)](#lancer-des-sorts)|+68|
+|**17**|+34|-|+68|
 |**18**|+36|[Maîtrise des sorts](#maitrise-des-sorts)|+72|
 |**19**|+38|[Restauration magique (7d6)](#restauration-magique)|+76|
 |**20**|+40|[Sorts de prédilection](#sorts-de-predilection)|+80|
@@ -184,41 +184,26 @@ En tant que voie de la magie, vous bénéficiez des aptitudes de classe suivante
 **Jets de sauvegarde**: Intelligence, Sagesse  
 **Compétences** : choisissez deux compétences parmi Arcanes, Histoire, Intimidation, Investigation, Médecine, Perspicacité et Religion  
 ### Incantations
-En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau.
-### Lancer des sorts
-Lorsque le personnage monte de niveau et seulement à partir du niveau de 3 l’initié aura la possibilité d’utiliser ses propres rituels plus puissants sous réserve de posséder les prérequis dans sa caractéristique d’incantation. Les sorts nécessitent l’utilisation d’un test d’art de la magie. L’art de la magie est décrit dans le paragraphe suivant.
-Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.
-**A partir du niveau 3**, lors du choix de l’archétype, le personnage obtient la capacité de lancer des sorts de **novice** sous réserve de posséder 12 dans la caractéristique de lancement de sort.  
-**A partir du niveau 5**, il obtient la capacité de lancer des sorts de **disciple** sous réserve de posséder 14 dans la caractéristique de lancement de sort.  
-**A partir du niveau 9**, il obtient la capacité de lancer des sorts d’**apprenti** sous réserve de posséder 16 dans la caractéristique de lancement de sort.  
-**A partir du niveau 13**, il obtient la capacité de lancer des sorts d’**adepte** sous réserve de posséder 17 dans la caractéristique de lancement de sort.  
-**A partir du niveau 15**, il obtient la capacité de lancer des sorts d’**expert** sous réserve de posséder 18 dans la caractéristique de lancement de sort.  
-**A partir du niveau 17**, il obtient la capacité de lancer des sorts de **maître** sous réserve de posséder 20 dans la caractéristique de lancement de sort.  
-Les personnages de la voie de la magie **ajoutent leur bonus de Maîtrise à leur bonus d’incantation**. ***D’autre part le DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise****.
-### Apprendre des rituels de niveau supérieur
-Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
-Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
+En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).  
+### Loi primordiale  
+"Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui interdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.  
+Cette règle perment aux utilisateurs de la voie de la Magie de se cotoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, il perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).   
+Même les plus vils utilisateurs de la voie de la magie sont amenès à respecter la loi primordiale.  
+En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.  
 
-### Coût d'apprentissage de sorts en temps & ressources
-§§§ .table-container
-|Type|Temps|Coût|DA Voie de la Magie |DA Voie de l'Ombre |DA Voie des Armes |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|Novice|1 journée|50 po| 8 |12|16|
-|Disciple|1 semaine|100 po|  12|16|22|
-|Apprenti|1 demi lune|300 po|  16|22|28|
-|Adepte|1 lune|600 po|  22|28|35|
-|Expert|2 lunes|1200 po|  28|35|-|
-|Maître|3 lunes|2400 po|35|-|-|
-* DA : Difficultée d'apprentissage  
-* Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
-§§§
-
+### Duel arcanique  
+En respectant la loi primordiale, les utilisateurs de la voie de la magie peuvent s'affronter en utilisant leur puissance dans ce qui est communément nommé **duel arcanique**.  
+Refuser un duel arcanique est une honte. Le refuse entraine la perte immédiate de 3d6 points d'honneur. Une provocation en duel ne peut avoir lieu qu'une fois par période de 24 heure. Il n'est ainsi pas possible d'harceler un adversaire qui a refusé un duel.  
+Les deux adversaires ne doivent pas être à plus de 18 mètres l'un de l'autre. Lorsque le duel commence, des effets extérieurs se font sentir. L'air se charge d'electricité et des vents tourbillonnants entourent les deux duellistes.   
+Toute personne extérieur au duel qui intervient pour l'intérrompre encourt de graves conséquences.
+En effet, pour chaque round de duel, la puissance magique se cumule au rythme de 1d6. Cela dure autant de rounds que le duelliste à de niveau. Lorsqu'il ne peut plus investi de d6, il maintient sa charge en attendant que l'autre ait terminé. La charge est ensuite libérée. Les dés sont lancés et celui qui possède le plus gros score gagne le duel. Le perdant se voit vidé de tous ses points de Magie et de Foi alors que le vainqueur bénéficie d'un bonus temporaire de points de magie égal à la différence obtenu. Il le réparti à sa guise entre sa réserve de Magie et de Foi. Cette énergie se dissipe peu à peu au rythme de 1d6 par heure. En attendant, elle peut être utilisée librement pour lancer des sorts.
+Une personna qui intervient ou touche un duelliste durant l'affrontement subit un choque dont les dégâts correspondent à la puissance du duel, soit 1d6 par round d'engagement. D'autre part, une personne frappée par cet effet est soudain submergé de terreur (DD22).
 ### Restauration magique
-Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 ### Archétype arcanique
 Au niveau 3, vous choisissez un archétype .
 ### Maîtrise des sorts
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.
 ### Sorts de prédilection
-Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un repos court ou un repos long.
+Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).

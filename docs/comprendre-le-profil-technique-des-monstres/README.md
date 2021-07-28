@@ -293,13 +293,13 @@ Si un monstre peut faire quelque chose de spécial en utilisant sa réaction, ce
 ## Utilisations limitées
 Le nombre d'utilisations de certains pouvoirs spéciaux est limité.
 
-**X/jour**. La notation « _X/jour_ » signifie qu'un pouvoir spécial peut s'utiliser X fois et qu'un monstre doit terminer une période de repos long pour récupérer les utilisations dépensées. Par exemple, « _1/jour_ » signifie qu'un pouvoir spécial peut s'utiliser une seule fois et que le monstre pourra l'utiliser à nouveau après une période de repos long.
+**X/jour**. La notation « _X/jour_ » signifie qu'un pouvoir spécial peut s'utiliser X fois et qu'un monstre doit terminer une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les utilisations dépensées. Par exemple, « _1/jour_ » signifie qu'un pouvoir spécial peut s'utiliser une seule fois et que le monstre pourra l'utiliser à nouveau après une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
-**Recharge X-Y**. La notation « _recharge X-Y_ » signifie qu'un monstre peut utiliser une seule fois un pouvoir spécial et qu'il a une chance déterminée aléatoirement de pouvoir le réutiliser lors de chaque round de combat suivant. Au début de chaque tour du monstre, lancez un d6. Si le résultat obtenu correspond à l'un des nombres indiqués dans la notation « _recharge_ », le monstre récupère l'utilisation du pouvoir spécial. Le monstre récupère également l'utilisation du pouvoir après une période de repos long ou court.
+**Recharge X-Y**. La notation « _recharge X-Y_ » signifie qu'un monstre peut utiliser une seule fois un pouvoir spécial et qu'il a une chance déterminée aléatoirement de pouvoir le réutiliser lors de chaque round de combat suivant. Au début de chaque tour du monstre, lancez un d6. Si le résultat obtenu correspond à l'un des nombres indiqués dans la notation « _recharge_ », le monstre récupère l'utilisation du pouvoir spécial. Le monstre récupère également l'utilisation du pouvoir après une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) ou court.
 
 Par exemple, « _recharge 5-6_ » signifie qu'un monstre peut utiliser une seule fois le pouvoir spécial. Ensuite, au début du tour du monstre, il récupère l'utilisation de ce pouvoir s'il obtient un résultat de 5 ou 6 en lançant un d6.
 
-**Recharge après un repos court ou long**. Cette notation signifie qu'un monstre peut utiliser une seule fois un pouvoir spécial et qu'il pourra l'utiliser à nouveau après une période de repos long ou court.
+**Recharge après un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long**. Cette notation signifie qu'un monstre peut utiliser une seule fois un pouvoir spécial et qu'il pourra l'utiliser à nouveau après une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) ou court.
 
 ## Équipement
 Mis à part son armure et ses armes, le reste de l'équipement d'un monstre est rarement précisé dans son profil. On part du principe qu'une créature qui porte habituellement des vêtements (les humanoïdes, par exemple) est vêtue de manière appropriée.

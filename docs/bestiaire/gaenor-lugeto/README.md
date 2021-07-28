@@ -45,18 +45,18 @@ _**Style de combat Armes à deux mains**_
 Quand vous faites 1 avec un dé pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.  
 
 _**Second souffle**_  
-Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau.   
+Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
 
 _**Sursaut d'activité**_   
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.  
-Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.  
+Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
 _**Attaque supplémentaire**_  
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11.   
 
 _**Indomptable**_  
-À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un repos long.  
+À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 ## Actions
 

@@ -12,7 +12,7 @@ _**Bénédiction des océans**_. Une fois harmonisé à la perle, vous obtenez l
 * Vous avez une vitesse de nage de 18 mètres.
 * Vous pouvez respirer sous l'eau.
 * Vous obtenez une vision dans le noir à 18 mètres.
-* Vous pouvez lancer le sort [_Dominer un monstre_](/grimoire/dominer-un-monstre/) (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) 18) contre toute créature possédant une vitesse de nage innée. Vous pouvez lancer le sort trois fois entre deux repos longs.
+* Vous pouvez lancer le sort [_Dominer un monstre_](/grimoire/dominer-un-monstre/) (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) 18) contre toute créature possédant une vitesse de nage innée. Vous pouvez lancer le sort trois fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s.
 
 _**Appel du kraken**_. Si vous êtes harmonisé à la perle et immergé dans l'océan, vous pouvez éveiller et appeler un [kraken](/bestiaire/kraken/). Ce dernier apparaît 20d6+30 minutes plus tard à 100 mètres de l'endroit où se trouve la perle. Vous n'avez aucun contrôle sur le kraken, et son attitude envers vous – et tout ce qui vous entoure – est hostile.
 

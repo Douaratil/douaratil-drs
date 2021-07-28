@@ -77,7 +77,7 @@ Au niveau 10, vous pouvez lancer le sort communion avec la nature, mais seulemen
 **En langue Melg : Bland’raseri**  
 Au niveau 12, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des mixtures pour déclencher la rage.  Le Vitnar mélange des baies toxiques qui lorsqu'elles sont ingérées, permettent de devenir résistants aux dégâts tranchants, contondants et perforants. La mixture octroie aussi 2d6 points d'action temporaires. L'effet dure 1d6 round.    
 La toxicité de cette mixture engendre un effet secondaire qui cause 3d6 points d'action de dégâts, la moitié en cas de réussite d'un JS de constitution DD 15. A chaque ingestion supplémentaire, les dégâts sont augmentés d'1d6 pour déterminer le contrecoup.   
-Un repos court permet de diminuer la toxicité d'un degré et de la remettre à sa toxicité d'origine en cas de repos long.  
+Un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) permet de diminuer la toxicité d'un degré et de la remettre à sa toxicité d'origine en cas de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 Il peut fabriquer 1d6 doses qui se conservent deux jours et deux nuits.
 
 ### Lien totémique  

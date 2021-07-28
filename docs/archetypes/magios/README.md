@@ -50,7 +50,7 @@ Toujours au niveau 5, vous apprenez le sort [compréhension des langues](/grimoi
 
 ### Imposture  
 **En Alcante : Imposturam**  
-Au niveau 6, vous apprenez le sort [déguisement](/grimoire/deguisement), et vous le lancez sans utiliser composantes, comme s'il s'agissait d'une capacité naturelle.  Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre premier jet d'attaque contre cette cible. Vous devez terminer un repos court avant de pouvoir à nouveau utiliser cette aptitude.
+Au niveau 6, vous apprenez le sort [déguisement](/grimoire/deguisement), et vous le lancez sans utiliser composantes, comme s'il s'agissait d'une capacité naturelle.  Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre premier jet d'attaque contre cette cible. Vous devez terminer un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir à nouveau utiliser cette aptitude.
 
 ### Magie discrète  
 **En Alcante : Magicae Prudens**  
@@ -79,7 +79,7 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 ### Orateur suprême  
 **En Alcante : Oratori**  
 À partir du niveau 19, vous pouvez utiliser votre énergie charismatique pour influencer tous vos interlocuteurs. Lorsque vous puisez cette énergie, les gens ont tendance à être amical envers vous. Vous avez un avantage sur toutes les compétences sociales durant 1d6 round. Vous doublez les dégâts durant un duel social.  
-Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un repos long.   
+Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
 
 ### Véritable Magios  
 **En Alcante : Magios**

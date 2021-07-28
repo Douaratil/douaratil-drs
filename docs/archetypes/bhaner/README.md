@@ -42,7 +42,7 @@ Il peut être homme ou femme. Le Bhaner est libre d'aller où il veut et il est 
 **En Khern : Awen**  
 La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.  
 Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à tous tests de caractéristique, de jets d'attaque ou de jets de sauvegarde durant son round d'action. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une personne ne peut disposer que d'un dé d'inspiration bardique à la fois.  
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un repos long.  
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps au fur et à mesure que vous montez de niveau:  2d6 et 2 rounds au niveau 6, 3d6 et 3 rounds au niveau 10 et 4d6 et 4 rounds au niveau 15. Lorsque le personnage utilise son inspiration, il a donc le choix d'utiliser la totalité de son inspiration sur un round ou de la répartir sur plusieurs rounds. Ainsi, i peut faire une action d'éclat sur un seul round en utilisant ses 4d6 au niveau 15, ou alors les répartir sur 2 rounds à 2d6 ou sur 3 rounds à 2d6 durant 1 round et 1d6 durant deux rounds ou encore 1d6 durant quatre rounds.
 
 ### Touche-à-tout  
@@ -52,7 +52,7 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 
 ### Chant reposant  
 **En Khern : Arsavh**  
-À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un repos court. Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du repos court en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
+À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court). Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
 Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
 
 ### Expertise  
@@ -62,7 +62,7 @@ Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les util
 
 ### Source d'inspiration  
 **En Khern : Soursenn Awen**  
-Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un repos court ou un repos long.  
+Dès le niveau 5, vous récupérez toutes les inspirations bardiques utilisées dès que vous terminez un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 ### Contre-charme  
 **En Khern : Enep Gwezenn**  

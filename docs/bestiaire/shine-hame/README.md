@@ -44,14 +44,14 @@ category: "PJ"
 
 _**Voie de la magie**_. Shin Hame est niveau 4 dans la voie la Magie et Archétype Shohoten.
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
-_**mur de bois**_. *(Sohoten)* À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.  
+_**mur de bois**_. *(Sohoten)* À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) pour pouvoir utiliser de nouveau cette capacité.  
 
 _**Course dans les arbres**_. *(Sohoten)* À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.
-Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour pouvoir réutiliser les déplacements utilisés.  
+Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ensuite pour pouvoir réutiliser les déplacements utilisés.  
 
 
 

@@ -60,7 +60,7 @@ Ce bonus augmente en même temps que votre niveau.
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Votre furie dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
-La furie possède **deux états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.  
+La furie possède **deux états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Cercle de la mort   
 **En Khern : Kel'chmarv**  
@@ -68,7 +68,7 @@ La furie possède **deux états de furie**, une fois que vous êtes entrés en �
 
 ### Ignorer la douleur
 **En Khern : Fae'Poan**  
-Au niveau 8, vous jouissez d'une réserve d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + votre niveau de Fürtane. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau. C'est exactement le même fonctionnement que [second souffle](/voies/#second-souffle) et cela vient s'ajouter à la capacité de la voie des armes.
+Au niveau 8, vous jouissez d'une réserve d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + votre niveau de Fürtane. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau. C'est exactement le même fonctionnement que [second souffle](/voies/#second-souffle) et cela vient s'ajouter à la capacité de la voie des armes.
 
 ### Portée accrue
 **En Khern : Postah'kadenn**  
@@ -83,11 +83,11 @@ Ce bonus augmente en même temps que votre niveau.
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
-La furie possède **trois états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.  
+La furie possède **trois états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Insensible à la douleur
 **En Khern : Dizan'Poan**  
-Au niveau 14, vous jouissez d'une nouvelle réserve d'endurance qui s'ajoute à la première, dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 4d6 + votre niveau de Fürtane. Une fois que vous avez utilisé cette aptitude, vous devez finir un repos court ou un repos long avant de l'utiliser de nouveau. C'est exactement le même fonctionnement que [second souffle](/voies/#second-souffle) et cela vient s'ajouter à la capacité de la voie des armes.
+Au niveau 14, vous jouissez d'une nouvelle réserve d'endurance qui s'ajoute à la première, dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 4d6 + votre niveau de Fürtane. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau. C'est exactement le même fonctionnement que [second souffle](/voies/#second-souffle) et cela vient s'ajouter à la capacité de la voie des armes.
 
 
 ### Cercle de la mort implacable  
@@ -102,7 +102,7 @@ A partir du niveau 17, quand vous vous retrouvez au cœur de la bataille, vous �
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
-La furie possède **quatre états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un repos long avant de pouvoir entrer de nouveau en rage.  
+La furie possède **quatre états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Cercle de la mort indomptable  
 **En Khern : Kel'chmarv Amjestr**  

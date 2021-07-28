@@ -102,7 +102,7 @@ Dès le niveau 5, votre allégeance bestiale vous donne la capacité de puiser d
 |**Panthère**|Sagesse|
 |**Sanglier**|Constitution|
 
-L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un repos long, une fois que tous les avantages ont été dépensés.  
+L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
 §§§
 
 
@@ -134,7 +134,7 @@ Progression du compagnon
 |**Panthère**|Moyenne|4|+4|+5|+6|+7|+8|
 |**Sanglier**|Moyenne|4|+3|+4|+5|+6|+7|
 
-L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un repos long, une fois que tous les avantages ont été dépensés.  
+L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
 §§§
 
 ### Sens bestiale

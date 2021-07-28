@@ -46,7 +46,7 @@ A partir du niveau 3,vous connaissez le Yezhsakr, la langue secrète des Beghelm
 
 ### Récupération naturelle  
 **En Khern : Daspun Gwirion**  
-À partir du niveau 4, vous pouvez regagner une partie de votre énergie magique en méditant et en communiant avec la nature. Pendant un repos court, vous pouvez choisir de récupérer soit des  points de Magie (PM), soit des points de Foi (PF). Le montant est de 1d6 tous les deux niveaux (1, 3, 5, 7, 9, 11, 13, 15, 17, 19) Vous ne pouvez pas utiliser cette aptitude de nouveau tant que vous n'avez pas terminé un repos long.  
+À partir du niveau 4, vous pouvez regagner une partie de votre énergie magique en méditant et en communiant avec la nature. Pendant un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer soit des  points de Magie (PM), soit des points de Foi (PF). Le montant est de 1d6 tous les deux niveaux (1, 3, 5, 7, 9, 11, 13, 15, 17, 19) Vous ne pouvez pas utiliser cette aptitude de nouveau tant que vous n'avez pas terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 
 ### Compagnon animal corneille  
@@ -56,7 +56,7 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 
 ### Forme sauvage  
 **En Khern : Furm Gouez**  
-À partir du niveau 6, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.  
+À partir du niveau 6, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.  
 Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 6, par exemple, vous pouvez vous connecter à n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
 
 §§§ .table-container

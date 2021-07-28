@@ -23,7 +23,7 @@ title: Drodan
 En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** : armures légères, armures intermédiaires, boucliers (les druides n'utilisent pas d'armure ou de bouclier faits en métal)  
+**Armures** : armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal)  
 **Armes** : gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances  
 **Outils** : matériel d'herboriste  
 **Jets de sauvegarde** :  Intelligence, Sagesse  
@@ -61,20 +61,20 @@ Vous connaissez le Drodan, la langue secrète des Drodanos. Vous pouvez parler c
 
 ### Vigueur du printemps  
 **En Meldète : Gwylgwanwyn**  
-Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un repos long, vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
-De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points de vie temporaire égal au double de votre niveau de druide. Vous ne conservez pas ces points de vie lorsque vous reprenez votre forme normale.  
+Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
+De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points d'action temporaire égal au double de votre niveau de drodan. Vous ne conservez pas ces points d'action lorsque vous quittez la connexion avec l'animal.  
 
 
 ### Forme sauvage  
 **En Meldète : Ffurfgwyllt**  
-À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un repos court ou un repos long pour récupérer les deux utilisations de cette aptitude.  
+À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.  
 Votre niveau de Drodan détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 3, par exemple, vous pouvez vous transformer en n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
 
 §§§ .table-container
 |Niv. |ID |Limitations|Exemple|
 |:-:|:-:|:-:|:-:|
 |3 |1/4 |Pas de vitesse de vol ou de nage|Loup|
-|5 |1/2| Pas de vitesse de vol||Ours noir
+|5 |1/2| Pas de vitesse de vol||Ours noir|
 |8 |1 |-|Ours brun|
 §§§
 Vous pouvez conserver cette connexion pendant un nombre d'heures équivalent à la moitié de votre niveau de Drodan (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis.

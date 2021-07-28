@@ -33,10 +33,10 @@ languages:
 _**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  
 
 _**Second souffle**_.
-Le pratiquant de la Voie des armes jouit d'une réserve limitée d'endurance dans laquelle il peut puiser afin de se protéger. Lors de son tour, il peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + 5. Une fois qu'il a  utilisé cette aptitude, il doit finir un repos court ou un repos long avant de l'utiliser de nouveau.   
+Le pratiquant de la Voie des armes jouit d'une réserve limitée d'endurance dans laquelle il peut puiser afin de se protéger. Lors de son tour, il peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + 5. Une fois qu'il a  utilisé cette aptitude, il doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
 
 _**Sursaut d'activité**_.
-Le pratiquant de la Voie des armes peut repousser ses propres limites pendant quelques instants. Lors de son tour, il peut faire une action supplémentaire en plus de son action normale et d'une éventuelle action bonus. Une fois cette aptitude utilisée , il doit finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.  
+Le pratiquant de la Voie des armes peut repousser ses propres limites pendant quelques instants. Lors de son tour, il peut faire une action supplémentaire en plus de son action normale et d'une éventuelle action bonus. Une fois cette aptitude utilisée , il doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
 ## Actions
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  

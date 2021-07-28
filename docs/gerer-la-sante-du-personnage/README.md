@@ -22,7 +22,7 @@ Une créature morte ne peut pas regagner de point d'action.
 
 ### Blessures graves
 Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entrainent de façon durable des pénalités.   
-Une personne gravement blessée doit passer un repos long par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque repos long, un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+Une personne gravement blessée doit passer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
 §§§ .table-container
 | 3d6* | Effet ||
@@ -91,7 +91,7 @@ Les points d'action temporaires ne sont pas restaurés par les soins. Ils ne peu
 
 Si vous êtes à 0 point d'action, recevoir des points d'action temporaires ne vous permet pas de reprendre conscience ou d'être stabilisé. En revanche, ces points d'action temporaires peuvent toujours absorber les dégâts que vous subissez, même quand vous êtes dans cet état. Mais seuls de véritables soins peuvent vous sauver.
 
-Vos points d'action temporaires subsistent jusqu'à ce qu'ils servent à encaisser des dégâts ou jusqu'au terme d'un repos long. Il existe des exceptions à cette règle, dans le cas par exemple d'une aptitude qui vous permet d'obtenir des points d'action temporaires et qui précise combien de temps vous pouvez les conserver.
+Vos points d'action temporaires subsistent jusqu'à ce qu'ils servent à encaisser des dégâts ou jusqu'au terme d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il existe des exceptions à cette règle, dans le cas par exemple d'une aptitude qui vous permet d'obtenir des points d'action temporaires et qui précise combien de temps vous pouvez les conserver.
 
 ## Entre la vie et la mort
 Les blessures lors d'un combat sont bien évidemment le risque à la fois le plus courant et le plus mortel pour votre personnage. Mais il existe bien d'autres états qui peuvent l'affecter sans pour autant menacer sa vie.
@@ -174,7 +174,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 Les états suivants pourraient aussi affecter votre personnage. Tout comme les états spéciaux précédents, ils ne se cumulent pas et ont une durée précisée dans l'effet qui impose chaque état. Toutefois, si un effet ou une capacité annule tous les états qui affectent le personnage, les états suivants ne sont pas concernés, à moins qu'ils soient spécifiquement désignés.
 
 #### Repoussé
-* Une créature _repoussée_ ne peut pas volontairement s'approcher à moins de 9 mètres de la créature (ou toute autre source) à l'origine de l'effet.
+* Une créature [_repoussée_](/gerer-la-sante-du-personnage/#repoussee) ne peut pas volontairement s'approcher à moins de 9 mètres de la créature (ou toute autre source) à l'origine de l'effet.
 * La créature ne peut plus utiliser de réaction.
 * Ses seules actions disponibles sont [_se précipiter_](/combattre/#se-precipiter) et toute action permettant d'échapper à un effet qui l'empêche de se déplacer.
 * Si la créature n'a nulle part où s'enfuir, elle peut utiliser l'action [_esquiver_](/combattre/#esquiver).
@@ -205,26 +205,45 @@ Une créature souffre des effets de son niveau d'épuisement actuel et de tous l
 
 Un effet qui réduit l'épuisement diminue son niveau du montant indiqué dans sa description. Tous les effets d'épuisement se terminent si le niveau d'épuisement de la créature est réduit à moins de 1.
 
-Une fois terminé, un repos long réduit le niveau d'épuisement d'une créature de 1, à condition qu'elle ait eu à boire et à manger.
+Une fois terminé, un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) réduit le niveau d'épuisement d'une créature de 1, à condition qu'elle ait eu à boire et à manger.
 
 ## Repos
 Même si les aventuriers sont des héros, il est impossible de passer ses journées entières à explorer des cavernes, à interagir avec d'autres individus ou à se battre sans jamais se reposer. Vos personnages doivent dormir, manger, soigner leurs blessures, reposer leur esprit afin de lancer à nouveau des sorts, et se préparer à repartir à l'aventure.
 
-Au cours d'une journée, les aventuriers peuvent observer des périodes de repos court. À la fin d'une journée, on parle d'une période de repos long. Il est aussi possible de choisir de récupérer pendant un moment de répit (voir [_Entre les aventures_](/partir-a-l-aventure/#recuperer)).
+Au cours d'une journée, les aventuriers peuvent observer des périodes de [_repos court_](/gerer-la-sante-du-personnage/#repos-court). À la fin d'une journée, on parle d'une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il est aussi possible de choisir de récupérer pendant un moment de répit (voir [_Entre les aventures_](/partir-a-l-aventure/#recuperer)).
 
-### Repos court
-**Un repos court est une période de repos d'au moins 1 heure** pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.  
+### [_repos court_](/gerer-la-sante-du-personnage/#repos-court)
+**Un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) est une période de repos d'au moins 1 heure** pendant laquelle un personnage ne fait rien de plus fatigant que de manger, boire, lire et panser ses blessures.  
 
-A la fin d'une période de repos court, un personnage peut décider de puiser dans sa réserve de dés d’action. Cette dernière est égale à son niveau. Il peut lancer un ou plusieurs dés de points d’action. Pour chaque dé d’action ainsi utilisé, le joueur lance un dé et ajoute à son résultat le modificateur de Constitution de son personnage. Le total correspond au nombre de points d’action regagnés par celui-ci. Le joueur peut décider de lancer ses dés d’action les uns après les autres, et donc d'attendre de connaître le résultat d'un lancer de dé avant de choisir de dépenser un dé d’action supplémentaire. Un personnage regagne une partie des dés d’action utilisés après un repos long, comme expliqué ci-dessous.  
+A la fin d'une période de [_repos court_](/gerer-la-sante-du-personnage/#repos-court), un personnage peut décider de puiser dans sa réserve de dés d’action. Cette dernière est égale à son niveau. Il peut lancer un ou plusieurs dés de points d’action. Pour chaque dé d’action ainsi utilisé, le joueur lance un dé et ajoute à son résultat le modificateur de Constitution de son personnage. Le total correspond au nombre de points d’action regagnés par celui-ci. Le joueur peut décider de lancer ses dés d’action les uns après les autres, et donc d'attendre de connaître le résultat d'un lancer de dé avant de choisir de dépenser un dé d’action supplémentaire. Un personnage regagne une partie des dés d’action utilisés après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), comme expliqué ci-dessous.  
 
-### Repos long
-**Un repos long est une période de repos d'au moins 8 heures**, pendant laquelle un personnage dort ou n'entreprend que des activités reposantes, comme lire, parler, manger. S'il monte la garde, il ne peut pas le faire pendant plus de 2 heures. Si ce repos est interrompu par une période d'activité soutenue, comme par exemple 1 heure passée à marcher, se battre, préparer des rituels, ou tout autre activité similaire, tout le temps passé dans l'optique d'un repos long est perdu. Le personnage doit recommencer la période de repos long du début pour en tirer bénéfice.  
+### [_repos long_](/gerer-la-sante-du-personnage/#repos-long)
+**Un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est une période de repos d'au moins 8 heures**, pendant laquelle un personnage dort ou n'entreprend que des activités reposantes, comme lire, parler, manger. S'il monte la garde, il ne peut pas le faire pendant plus de 2 heures. Si ce repos est interrompu par une période d'activité soutenue, comme par exemple 1 heure passée à marcher, se battre, préparer des rituels, ou tout autre activité similaire, tout le temps passé dans l'optique d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est perdu. Le personnage doit recommencer la période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) du début pour en tirer bénéfice.  
 
-À la fin d'un repos long, un personnage regagne tous ses points d’action (mais il peut être pénalisé s’il se trouve encore sous l’effet d’une blessure grave). Il regagne aussi une partie des dés d’action qu'il a dépensés : toujours au moins un dé d’action dépensé et au maximum la moitié de son total de dés d’action.  
+À la fin d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un personnage regagne tous ses points d’action (mais il peut être pénalisé s’il se trouve encore sous l’effet d’une blessure grave). Il regagne aussi une partie des dés d’action qu'il a dépensés : toujours au moins un dé d’action dépensé et au maximum la moitié de son total de dés d’action.  
 
-Par exemple, si un personnage possède 8 dés d’action, il peut en regagner 4 au maximum à la fin d'un repos long. Un personnage de niveau 1 regagne son dé d’action s'il l'a dépensé.  
+Par exemple, si un personnage possède 8 dés d’action, il peut en regagner 4 au maximum à la fin d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Un personnage de niveau 1 regagne son dé d’action s'il l'a dépensé.  
 
-Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéfices conférés par un repos long et, pour cela, il doit avoir au moins 1 point d’action au début de cette période de repos.  
+Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéfices conférés par un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) et, pour cela, il doit avoir au moins 1 point d’action au début de cette période de repos.  
 
-D’autre part, un repos long permet de récupérer des **point de Magie** ou des points de Foi qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un repos long, le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
-Enfin, il est possible de récupérer des **points d’honneur** qui auraient été perdus. Après un repos long, les blessures morales s’éloignent doucement et le personnage reprend confiance en ses capacités. Il récupère 1 point par niveau + son bonus de charisme. ***Un personnage de la voie des armes double son bonus de caractéristique***.
+D’autre part, un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) permet de récupérer des **point de Magie** ou des points de Foi qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
+Enfin, il est possible de récupérer des **points d’honneur** qui auraient été perdus. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), les blessures morales s’éloignent doucement et le personnage reprend confiance en ses capacités. Il récupère 1 point par niveau + son bonus de charisme. ***Un personnage de la voie des armes double son bonus de caractéristique***.  
+
+### Règle du 1
+
+Quelque soit le test, à l’inverse du 6, le 1 indique une catastrophe. Sur un même lancer de dés, un 1 peut-être annulé par un 6 (au choix du lanceur). Le choix doit être fait avant de relancer un quelconque dés. Les dés sont alors écartés. Il est possible de se demander : quel intérêt d’écarter les dés. Les conséquences sont en fait simples. Il y a de grande chance de rater son action car le test se voit soustrait de 7 (6+1), donc de ne pas réaliser ce qu’il souhaitait. Le bénéfice et de ne pas en subir les conséquences. Si les dés sont gardés, ils sont joués séparément. Les 6 entrainent donc d’autres lancer de dés 6.
+
+Pour chaque 1, 1d6 est lancé de façon explosive. Le résultat peut-être retiré dans n’importe qu’elle jauge du personnage (PA, PM, PF ou PH). Le résultat est interprété en matière de narration.
+
+En ce sens, les PA représentent la capacité physique, les PM la capacité  de concentration, Les PF la confiance en soi et les PH les situations embarrassantes.  
+
+**Atteindre 0 dans une jauge a plusieurs conséquences. La première concernant les PA est le risque d’encaisser des blessures critiques. Mais globalement, un personnage qui à 0 dans une jauge, subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses actions liées à la caractéristiques.**
+
+PA = FOR, DEX et CON
+PM = INT
+PF = SAG
+PH = CHA
+
+Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+
+Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative.

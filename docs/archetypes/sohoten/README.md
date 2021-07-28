@@ -42,14 +42,14 @@ Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement «
 
 ### mur de bois
 **En Yotaï : Kabe Mokuzai**  
-À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un repos court pour pouvoir utiliser de nouveau cette capacité.
+À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier] (/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) pour pouvoir utiliser de nouveau cette capacité.
 
 ### Course dans les arbres
 **En Yotaï : Jinshu Ki**  
 À partir du niveau 4, vous pouvez utiliser votre déplacement pour prendre appuie sur une surface verticale (mur, tronc, bamboue, mât etc...) et vous déplacer une nouvelle fois de votre distance maximale, par tranche de 3 mètres, sous réserve d'avoir une distance maximum de 3 mètres entre chaque points d'appuie.  
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
-Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un repos court ensuite pour  pouvoir réutiliser les déplacements utilisés.   
+Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ensuite pour  pouvoir réutiliser les déplacements utilisés.   
 
 ### Esquive Intuitive
 **En Yotaï: Dhkan-teki**
@@ -70,7 +70,7 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 
 ### Maîtrise de la concentration    
 **En Yotaï : Shūjuku Nōdo**  
-À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un repos court ou d'un repos long est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
+À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
 ### Mille mains  
 **En Yotaï : Sen Te**  
@@ -78,7 +78,7 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'att
 
 ### Feu intérieur  
 **En Yotaï : Hi Ni**  
-A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un repos court, le Sohoten le considère comme un repos long. Il s'agit uniquement d'un repos court, les autres sont considérés normalement.
+A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), le Sohoten le considère comme un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il s'agit uniquement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les autres sont considérés normalement.
 
 ### Véritable Sohoten  
 **En Yotaï : Sohoten**  

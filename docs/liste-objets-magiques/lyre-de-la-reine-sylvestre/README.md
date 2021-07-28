@@ -15,6 +15,6 @@ _**Bénédiction sylvestre**_. Si vous êtes harmonisé à la lyre, vous gagnez 
 * Vous gagnez la maîtrise des lyres.
 * Vous êtes immunisé à l'effet [_charmé_](/gerer-la-sante-du-personnage/#charme).
 
-_**Sorts divins**_. En jouant de la lyre, vous pouvez lancer le sort suivant : [_guérison de groupe_](/grimoire/guerison-de-groupe/). La musique de la lyre remplace toutes les composantes des sorts. Une fois que vous avez lancé un sort grâce à la lyre, vous devez terminer un repos long avant de réutiliser cette capacité.
+_**Sorts divins**_. En jouant de la lyre, vous pouvez lancer le sort suivant : [_guérison de groupe_](/grimoire/guerison-de-groupe/). La musique de la lyre remplace toutes les composantes des sorts. Une fois que vous avez lancé un sort grâce à la lyre, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de réutiliser cette capacité.
 
 _**Détruire la lyre**_. Seule la joie véritable de la reine sylvestre pourrait détruire la lyre. Une véritable quête épique attend celui qui voudrait retrouver le nom de cette reine, la ramener à la vie et lui ramener son époux décédé à l'aube des temps. La lyre perdrait tout pouvoir si la reine, enfin heureuse, y jouait quelques notes.

@@ -39,7 +39,7 @@ Convoqué par Gaenor Lugeto, les compagnons se réunissent dans le palais du Gen
 **12 Miz Favros**  
 A la demande de Lôchetos, Gwion part rencontrer l'oncle malade du Llawenos dans l’espoir de le guérir de sa fièvre. Il ne s’était pas préparé, ne connaissant même pas les souffrances qu’accablent le malade. Usant de ses prières, de ses sortilèges et de ses connaissances en herboristerie, le pauvre homme, que chacun s'apprêtait à destiner à un bûcher funéraire, voit soudainement sa fièvre reculer, puis disparaître avec avec l'arrivée de la lune.  
 Les habitants de la maison de Taranos se réjouissent et le nouvelle se répand rapidement dans le voisinage. Les amis de la familles Vlatcano se pressent à la porte et aux fenêtres de la demeure pour voir Aberthol qui sourit et supe sa soupe enlançant : "Vous croyez ma fin proche, haha, il va falloir encore me supporter quelques saisons".  
-Alors que [Lôchetos](/bestiaire/lochetos-vlatcano) égaye cette soirée heureuse de ses chants, les gens se réjuissent et jettent des regards amicaux et reconnaissants en direction de l'étrange Ambeanamos [Gwion](/bestiaire/gwion-gornoc), ancien disciple de Siarl le Hibou.
+Alors que [Lôchetos](/bestiaire/lochetos-vlatcano) égaye cette soirée heureuse de ses chants, les gens se réjouissent et jettent des regards amicaux et reconnaissants en direction de l'étrange Ambeanamos [Gwion](/bestiaire/gwion-gornoc), ancien disciple de Siarl le Hibou.
 [Tiberius](/bestiaire/tiberius-don-alonzo) est apprécié au palais pour son savoir être. Il est souvent accompagné de Malala Soa et de [Yan Zin](/bestiaire/yan-zin). S'ils ont la juste impression d'être des curiosités dans la maison Lugeto, cette situation permet de vivre confortablement sous le toit de Lugeto et d'aider ainsi, les Vlatcano qui ne vivent pas dans l'opulence, loin s'en faut.  
 
 **13 Miz Favros**  
@@ -56,15 +56,15 @@ Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un �
 C'est pour cette raison que [Lôchetos](/bestiaire/lochetos-vlatcano) avait choisi l'établissement pour [Sawrina](/bestiaire/sawrina-semiramis) et l'intrusion des Assyssir'hims avait fait grand bruit.
 En arrivant [Lôchetos](/bestiaire/lochetos-vlatcano) voit [Sawrina](/bestiaire/sawrina-semiramis) qui regarde les yeux dans le vide la fumée de sa tisane se disperser au dessus de sa tasse. Gwion reste à l'extérieur pour ne pas troubler la clientèle. [Lôchetos](/bestiaire/lochetos-vlatcano) se dirige vers l'Assyrhim et lui dit :" Viens, nous allons rencontrer le maître de Gwion, Siarl le Hibou".  
 [Sawrina](/bestiaire/sawrina-semiramis) hésite.  
-"Je n'aime pas trop l'idée de rencontrer quelqu'un qui s'appelle le hibou" dit-elle.  
-"J'insite c'est important", répond [Lôchetos](/bestiaire/lochetos-vlatcano); " Pour toi et pour nous tous"  
+*"Je n'aime pas trop l'idée de rencontrer quelqu'un qui s'appelle le hibou"* dit-elle.  
+*"J'insiste c'est important"*, répond [Lôchetos](/bestiaire/lochetos-vlatcano); " Pour toi et pour nous tous"  
 Elle regarde [Gwion](/bestiaire/gwion-gornoc) dans l'embrasure de la porte.  
-"Nous allons avec lui?"  
-"Oui pourquoi?" s'interroge le Meldète.  
-"Dés fois, il me fait peur", répond la jeune femme: " Je le trouve bizarre".  
-"Ne t'inquiète pas, je serais là" rassure [Lôchetos](/bestiaire/lochetos-vlatcano), "Viens maintenant", dit-il en tendant la main. "Et puis tu sais, il a sauvé mon oncle Aberthol".  
-"Je ne veux pas, il me fait peur" répond la jeune femme. N'y tenant plus, [Lôchetos](/bestiaire/lochetos-vlatcano) se fâche et lève la voix :
-"Je en te laisse pas le choix! Oublies tu que nous t'avons sauvé? Maintenant tu viens!"
+*"Nous allons avec lui?"*  
+*"Oui pourquoi?"* s'interroge le Meldète.  
+*"Des fois, il me fait peur"*, répond la jeune femme: *" Je le trouve bizarre"*.  
+*"Ne t'inquiète pas, je serais là"* rassure [Lôchetos](/bestiaire/lochetos-vlatcano), *"Viens maintenant"*, dit-il en tendant la main. *"Et puis tu sais, il a sauvé mon oncle Aberthol"*.  
+*"Je ne veux pas, il me fait peur"* répond la jeune femme. N'y tenant plus, [Lôchetos](/bestiaire/lochetos-vlatcano) se fâche et lève la voix :
+*"Je ne te laisse pas le choix! Oublies tu que nous t'avons sauvé? Maintenant tu viens!"*
 Elle se lève à contre coeur et passe devant [Gwion](/bestiaire/gwion-gornoc) qui la salut brièvement en marmonnant une politesse.  
 La jeune femme passe à la hauteur de [Gwion](/bestiaire/gwion-gornoc) sans même le regarder avant de s'engager dans la rue pour quitter la ville.  
 [Gwion](/bestiaire/gwion-gornoc) est habitué finalement à ce genre de réaction et ne s'en offusque pas outre mesure.  

@@ -5,7 +5,7 @@ title: "Lancer des sorts"
 ## Niveau de sort
 Tout sort s'accompagne d'un niveau, allant de Novice à Maître. Ce niveau est une indication générale de la puissance du sort : l'humble (mais toujours efficace) [_projectile magique_](/grimoire/projectile-magique/) est de niveau Novice tandis que le [_souhait_](/grimoire/souhait/), capable de chambouler le monde, est de niveau Maître. Les tours de magie (des sorts simples mais utiles qu'un personnage peut lancer pour un coût réduit) sont de niveau Novice aussi. Plus le niveau d'un sort est élevé, plus celui qui le lance doit avoir atteint un niveau élevé pour le jeter.
 
-Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.
+Les sorts ont un coût en point de magie ou en point de foi suivant l’archétype choisi.  
 **A partir du niveau 3**, lors du choix de l’archétype, le personnage obtient la capacité de lancer des sorts de **novice** sous réserve de posséder 12 dans la caractéristique de lancement de sort.  
 **A partir du niveau 5**, il obtient la capacité de lancer des sorts de **disciple** sous réserve de posséder 14 dans la caractéristique de lancement de sort.  
 **A partir du niveau 9**, il obtient la capacité de lancer des sorts d’**apprenti** sous réserve de posséder 16 dans la caractéristique de lancement de sort.  
@@ -15,6 +15,10 @@ Les sorts ont un coût en point de magie ou en point de foi suivant l’archéty
 Les personnages de la voie de la magie, contrairement aux autres voies **ajoutent leur bonus de Maîtrise au DD de sauvegarde**.
 ***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise pour les Voies de la Magie***.
 ***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique pour les Voies des Armes et de l'Ombre***.
+
+### Apprendre des rituels de niveau supérieur
+Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
+Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
 
 
 ### Coût des Sorts
@@ -44,7 +48,6 @@ Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coû
 * DA : Difficultée d'apprentissage  
 * Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
 §§§
-
 
 ### Utiliser des points de Magie ou des points de Foi?
 Il arrive que certains sorts soient disponibles pour la voie "magique" et la voie "spirituelle". Le sort propose alors d'utiliser des points de Magie (PM) ou de Foi (PF). Le choix est laissé au personnage en sachant que selon son archétype, il ne récupèrera pas de la même vitesse, voir la section [Repos](/gerer-la-sante-du-personnage/#repos-long).  
@@ -94,6 +97,23 @@ Lancer un sort n'engage pas une réussite automatique. La magie est un art diffi
 Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF) comme pour l'enchantement des composantes matérielles. Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
 
 Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire/) commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
+
+### Utiliser la Magie sans en posséder les prérequis.  
+
+§§§ .hero
+*- Je ne comprends pas Maître.*  
+*- C'est bien cela qui me désole.*  
+**Discussion de couloir à l'académie de magie de Thaouet**
+§§§  
+
+Utiliser ou apprendre la Magie sans en posséder les prérequis est dangereux et coûteux. Les caractéristiques minimums demandées permettent normalement une bonne compréhension du sortilège et de ses contingences.
+Ainsi une personne qui souhaite apprendre un sort sans avoir la caractéristique minimal requise ajoute un multiplicateur (en temps et donc en coût) par palier nécessaire et manquant pour apprendre le sort.  
+
+Enfin utiliser un sort sans en posséder la caractéristique est extrêmement dangereux car il entraine la perte d'1d6 points par point de marge raté. Ses points sont soustraits dans un premier temps dans la jauge de magie, puis dans les autres jauges (Foi ou Magie, Honneur et Action) au choix du Narrateur.   
+
+**Lancer un sort sans en posséder la caractéristique prérequise se fait toujours avec un désavantage.**  
+
+Par exemple : Un novice ambitieux, Nolden Branchenoir veux apprendre un sort d'apprenti malgré le fait qu'il n'ai que 12 en intelligence et que le prérequis est de 16. Les sorts d'aprenti sont deux paliers au dessus de celui de Novice (Disciple et Apprenti). Apprendre un sort dans ces conditions lui coutera donc 900 po (300 x 3po et une lune et demi : 3 demi lunes). Est ce que le jeu en vaut la chandelle? Pourtant il vient de la voie de la magie.   
 
 ### Temps d'incantation
 Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.

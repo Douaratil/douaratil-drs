@@ -45,7 +45,7 @@ Dès le niveau 3, vos rituels de soins sont plus efficaces. À chaque fois que v
 ### Préserver la vie
 **En Sogh : Chebh N’do**  
 À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
-Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un repos court ou un repos long pour utiliser de nouveau cette aptitude.  
+Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
 
 ### Guérisseur béni
 **En Sogh : Ogwo Goziri**  
@@ -67,7 +67,7 @@ Au niveau 8, vous gagnez la capacité d'insuffler de l'énergie spirituelle dans
 ### Chance du guide  
 **En Sogh : Chioma N’bo**  
 À partir du niveau 12, vous pouvez faire appel à votre guide pour qu'il altère le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 2d6 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
-Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un repos court ou un repos long avant de pouvoir l'utiliser de nouveau.  
+Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
 ### Séduction du Guide  
 **En Sogh : Seduedu N’bo**  

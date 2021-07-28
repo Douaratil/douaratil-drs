@@ -584,6 +584,11 @@ module.exports = {
                 title: "Miz Even 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-even-721'
+              },
+              {
+                title: "Miz khouéré 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-khouere-721'
               }
             ]
           },

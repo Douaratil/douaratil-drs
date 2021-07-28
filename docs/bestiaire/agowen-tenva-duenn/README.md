@@ -39,11 +39,11 @@ category: "PNJ"
 
 _**Maîtrises:**_. Armes courantes, armure légère, boucliers, armure légère, , outils d'herboriste.
 
-_**Voie de la Magie **_. Agowen est niveau 17 dans la voie de la Magie.
+_**Voie de la Magie**_. Agowen est niveau 17 dans la voie de la Magie.
 
 _**Style de Combat à deux armes** *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
-_**Restauration magique**_. Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un repos court, vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
+_**Restauration magique**_. Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
 
 ## Actions
 
@@ -54,7 +54,7 @@ _Touché_ : 4 dégâts tranchants (légère). (arme enchantée de maître)
 
 §§§ .hero
 ### Présentation:  
-Margs Maenkalon est un bhegelm du cercle de la nuit. C'est un dissident de la hiérarchie religieuse khernaëe.  
+Agowen Tenva Duennest un bhegelm du cercle de la nuit. C'est un dissident de la hiérarchie religieuse khernaëe.  
 §§§
 
 §§§ .hero
