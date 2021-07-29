@@ -1572,8 +1572,8 @@ Comme toujours, faites appel à votre bon sens.</p>
 <strong>Localisation</strong>  description des conditions de prospection.
 + <strong>Hivers</strong> :DD X + <strong>Printemps</strong> :DD X + <strong>Eté</strong> :DD X + <strong>Automne</strong> :DD X  + En cas de réussite, il trouvera X doses par heure de prospection.
 + <strong>Valeur</strong> : X pièces d&#8217;X la dose.
-+ <strong>Facteur d&#8217;addiction</strong> détermine les risques de devenir dépendant de la substance.
-+ <strong>Utilisation</strong> Décrit la méthode d&#8217;utilisation.</p>
++ <strong>Facteur d&#8217;addiction</strong> : détermine les risques de devenir dépendant de la substance.
++ <strong>Utilisation</strong> : Décrit la méthode d&#8217;utilisation.</p>
 </div>
 <div class="paragraph">
 <p>=== Facteur d&#8217;addiction</p>
@@ -1581,8 +1581,51 @@ Comme toujours, faites appel à votre bon sens.</p>
 <div class="paragraph">
 <p>Certaines plantes ou substances peuvent entraîner des effets indésirables d&#8217;accoutumance qui peuvent modifier le comportement de celui qui en consomme.
 Chaque fois que le produit est utilisé un test d&#8217;addiction est fait.
-Chaque utilisation supplémentaire cumule les risques lorsqu&#8217;elles ont lieu dans le cour de la même demi lune après après la première prise.</p>
+Chaque utilisation supplémentaire cumule les risques lorsqu&#8217;elles ont lieu dans le cour de la même demi lune après après la première prise.
++ Pour ne pas devenir dépendant d&#8217;une substance, il suffit de réussir un JS de CON contre 1d6 + la valeur du facteur d&#8217;addiction.</p>
 </div>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Facteur d&#8217;addiction</th>
+<th class="tableblock halign-center valign-top">Valeur</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Inexistant</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">0 (Aucun test nécessaire)</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Très faible</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">1</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Faibre</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">2</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Moyen</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">3</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Important</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">4</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Très important</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">5</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Irrésistible</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">6</p></td>
+</tr>
+</tbody>
+</table>
 <div class="paragraph">
 <p>=== Plantes curatives</p>
 </div>
@@ -1606,12 +1649,14 @@ La fleure d&#8217;asgarbie a par contre des vertus d&#8217;antidote si elle est 
 </div>
 <div class="paragraph">
 <p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone désertique aride: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 22  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.</p>
++ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + L&#8217;asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.
 + <em>Antidote</em> (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d&#8217;asgarbies pour créer ce puissant antidote contre les poisons musculaires.
-Il permet de guérir tout poison musculaire d&#8217;un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.
+La préapration doit être ingérée.
+L&#8217;antidote permet de guérir tout poison musculaire d&#8217;un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.
 + Valeur : 38 pièce d&#8217;or la dose.</p>
 </div>
 <div class="paragraph">
@@ -1628,7 +1673,8 @@ Ils peuvent aussi développer une saveur amère ou poivrée et s&#8217;ils reste
 </div>
 <div class="paragraph">
 <p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 12  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très faible (1)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + Le cèpate est utilisé principalement pour ses hautes qualités nutritives qui ont assurées sa réputation, particulièrement en période de mauvaises récoltes.
@@ -1666,7 +1712,8 @@ Il est particulièrement utilisé pour repousser les insectes et soulager les pi
 <p><strong>Localisation</strong> + Assez commune, la coulemine vient, parfois en grandes troupes, dans les sous-bois dégagés ou les clairières, plutôt sur terrains siliceux.
 Généralement précoce fin de l&#8217;été, début de l&#8217;automne, on la trouve jusqu&#8217;à l&#8217;hiver dans les régions alcantes.
 + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 12 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très faible (1)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Onguent</em> ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent.
@@ -1701,7 +1748,8 @@ l&#8217;églantiane permet d&#8217;ignorer une journée de fatigue ou le manque 
 + Valeur: 5 pièce d&#8217;or la dose.
 + <em>Huile essentielle</em> ( Herboristerie DD 35, 15 doses): Sous forme d&#8217;huile essentielle, l&#8217;églantiane permet de mieux se concentrer pendant 1d6 heures.
 L&#8217;utilisateur obtient un bonus de +2 aux JS de Sagesse et d&#8217;Intelligence ainsi qu&#8217;aux tests de compétences faisant appel à des capacités intellectuelles.
-+ Valeur : 10 pièce d&#8217;or la dose.</p>
++ Valeur : 10 pièce d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
 </div>
 <div class="paragraph">
 <p>== Elheanung</p>
@@ -1711,13 +1759,15 @@ L&#8217;utilisateur obtient un bonus de +2 aux JS de Sagesse et d&#8217;Intellig
 Cette algue qui peut atteindre jusqu&#8217;à 30 coudées possède des propriétés curatives qui ont été découvertes il y a fort longtemps par les peuples pêcheurs nordiques.</p>
 </div>
 <div class="paragraph">
-<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 28  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.</p>
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 22  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + L&#8217;elheanung est utilisé principalement pour ses hautes qualités antitoxiques.
 + <em>Antidote</em> (herboristerie/Survie DD 28, 1 dose) : Il faut 12 feuilles (doses) d&#8217;elheanung pour créer ce puissant antidote contre les poisons de réduction.
-Il permet de guérir tout poison de réduction d&#8217;un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.
+La préapration doit être bouillie pendant une durée de 20 minutes minimum.
+L&#8217;antidote permet de guérir tout poison de réduction d&#8217;un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +6.
 + Valeur : 99 pièce d&#8217;or la dose.</p>
 </div>
 <div class="paragraph">
@@ -1732,7 +1782,8 @@ Les feuilles sont poilues sur la face inférieure, à long pétiole, finement di
 <div class="paragraph">
 <p><strong>Localisation</strong> On la trouve notamment sur les berges de zones humides et sur les bords de fossés.
 Le prospecteur devra réussir un test en survie: + <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 22 + En cas de réussite, il trouvera 3d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : important (4)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Patisserie &amp; confiserie</em> (Cuisine/Survie DD 16, 5 doses) : Pétioles et tiges sont utilisées en pâtisserie et confiserie sous forme de fruits confits, l&#8217;Empeurine . C&#8217;est une spécialité de la ville de Thaouet.
@@ -1779,7 +1830,8 @@ Il est formellement déconseillé d&#8217;en consommer si l&#8217;on se trouve d
 <div class="paragraph">
 <p><strong>Localisation</strong> + La Fortliane se trouve en forêt ou contre des parois rocheuses orientées au sud car elle apprécie la lumière du soleil.
 + Le prospecteur devra réussir un test en survie: <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 28 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;or la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très important (5)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Infusion</em> ( Herboristerie DD 16) infusion, restitue 1d6 points de Magie et de Foi.
@@ -1804,7 +1856,8 @@ Elle se mélange aux fougères communes ce qui la rend très difficile à trouve
 Elle est indifférente à l&#8217;humidité du sol.
 Elle se développe depuis le niveau de la mer jusqu&#8217;à six mille pieds d&#8217;altitude, des étages collinéens à montagnards.
 + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 35 + <strong>Printemps</strong> :DD 28 + <strong>Eté</strong> :DD 35 + <strong>Automne</strong> :DD 28 + En cas de réussite, il trouvera 5d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 5 pièces d&#8217;or la dose.</p>
++ <strong>Valeur</strong> : 5 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : inexistant (0)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> <em>Paillage antifongique</em> (Survie DD 16 2d6 doses) : La Fougérade peut être utilisée en jardinage.
@@ -1849,7 +1902,8 @@ Non adhérentes au cône du réceptacle, elles s&#8217;en détachent facilement 
 <p><strong>Localisation</strong> + Son habitat naturel se situe surtout dans les sous-bois montagneux, généralement en dessous de quatre mille cinq cent pieds, mais on la trouve aussi en plaine.
 Dans son milieu naturel, on observe que la frambole est souvent associé à d&#8217;autres plantes telles que le hêtre, le sorbier ou le sureau.
 Le prospecteur devra réussir un test en Survie: <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 12 + <strong>Automne</strong> :DD 16 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : inexistant (0)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Fruits frais</em> (Cuisine/Surviet DD 16) : Les fruits frais, les framboles, se consomment nature au miel, en salade de fruit, ou donnent lieu à des transformations en confiture, gelée, sirops, coulis &#8230;&#8203;
@@ -1875,7 +1929,8 @@ Une variété porte des fleurs violacées.
 <div class="paragraph">
 <p><strong>Localisation</strong> + Elle pousse dans les terres incultes : les champs, les friches, les décombres, les sables des cours d&#8217;eau, et aime les terres fraîchement retournées où elle est considérée comme une mauvaise herbe très envahissante.
 + Le prospecteur devra réussir un test en survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 12 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 16 + En cas de réussite, il trouvera 3d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : important (4)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Jardinage</em> (Survie DD 16, 2d6 doses) : Il est utile dans la lutte contre les parasite pour le maraichage.
@@ -1916,6 +1971,25 @@ L&#8217;état produit par la plante s&#8217;apparente à un état de somnambulis
 Ceci couplé aux difficultés extrêmes de dosage rend l&#8217;expérience délirogène hautement dangereuse.</p>
 </div>
 <div class="paragraph">
+<p>== Menelath</p>
+</div>
+<div class="paragraph">
+<p><strong>Description</strong> + Le Menelath est un arbre à épines persistantes que l&#8217;on trouve dans les terres éternellement gelées au milieu de forêts de conifères.
+D&#8217;un vert sombre et profond, son fruit, comparable à une petite pomme de pin possède des propriétés antipoison découvertes par les peuples nordiques.</p>
+</div>
+<div class="paragraph">
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone forestière subissant le permafrost: + <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 28 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 28  + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
+</div>
+<div class="paragraph">
+<p><strong>Utilisation</strong> + Le menelath est utilisé principalement pour ses hautes qualités antitoxiques.
++ <em>Antidote</em> (herboristerie/Survie DD 28, 1 dose) : Il faut 6 fruits (doses) de menelath pour créer ce puissant antidote contre les poisons circulatoirs.
+La préapration doit être bouillie pendant une durée de 20 minutes minimum.
+L&#8217;antidote permet de guérir tout poison circulatoir d&#8217;un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +6.
++ Valeur : 65 pièce d&#8217;or la dose.</p>
+</div>
+<div class="paragraph">
 <p>== Menthagile</p>
 </div>
 <div class="paragraph">
@@ -1926,7 +2000,8 @@ La Menthagile est l&#8217;une d&#8217;entre elle, très appréciée pour de nomb
 <p><strong>Localisation</strong> + La Menthagile peut être assez courante sous réserve de découvrir des lieux où elle se développe car elle est peu expansive.
 On la trouve aussi bien en plaine qu&#8217;en montagne et sur de larges latitudes.
 Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 16 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 2 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 2 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + La menthagile est l&#8217;une des plantes médicinales les plus célèbres.
@@ -1948,6 +2023,26 @@ Elle ne doit pas être mise en contact avec les muqueuses tant qu&#8217;elle n&#
 Si la plante est préparée sous l&#8217;une de ses formes habituelles, le bénéficiaire obtient un bonus de +2 à tout ses jets d&#8217;acrobatie, discrétion, escamotage et aux JS de Dextérité pendant 1D6 x 10 minutes.</p>
 </div>
 <div class="paragraph">
+<p>== Mokth</p>
+</div>
+<div class="paragraph">
+<p><strong>Description</strong> + Le mokth est un arbuste que l&#8217;on trouve dans les zones tempérées de moyenne montagne.
+D&#8217;un feuillage vert intense, l&#8217;arbuste devient orange/rouge à l&#8217;autmomne.
+Son fruit, la baie de mokth, comparable à une grosse mûre violette possède des propriétés antipoison.</p>
+</div>
+<div class="paragraph">
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone montagneuse tempérée: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 12 + <strong>Automne</strong> :DD 22  + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 1 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : important (4)</p>
+</div>
+<div class="paragraph">
+<p><strong>Utilisation</strong> + La baie de mokth est utilisée principalement pour ses hautes qualités antitoxiques.
++ <em>Antidote</em> (herboristerie/Survie DD 16, 1 dose) : Il faut 18 fruits (doses) de mokth pour créer ce puissant antidote contre les poisons respiratoire.
+L&#8217;antidote s&#8217;ingère.
+Il permet de guérir tout poison respiratoire d&#8217;un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +4.
++ Valeur : 30 pièce d&#8217;or la dose.</p>
+</div>
+<div class="paragraph">
 <p>== Murcine</p>
 </div>
 <div class="paragraph">
@@ -1962,7 +2057,8 @@ Cette baie se cueille sur une plante qui prend la forme d&#8217;un arbuste.</p>
 Elle se trouve aussi en bas de certaines falaises ensoleillées.
 On en trouve du nord au sud car cette plante s&#8217;acclimate aussi bien aux régions montagneuses du Sud qu&#8217;au climat plus froid des forêts nordiques.
 Elle est assez commune et le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 35 + <strong>Printemps</strong> :DD 28 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 28 + En cas de réussite, il trouvera 3d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très faible (1)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + Il y a plusieurs utilisations pour ces baies.
@@ -1989,7 +2085,8 @@ Cette plante possède un bulbe qui lui permet de se reproduire.</p>
 </div>
 <div class="paragraph">
 <p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 16 + <strong>Printemps</strong> :DD 22 + <strong>Eté</strong> :DD 28 + <strong>Automne</strong> :DD 12 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 3 pièces d&#8217;or la dose.</p>
++ <strong>Valeur</strong> : 3 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : inexistant (0)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + <em>Larmoiement</em> : Couper des ognottes (ou bulbes ou feuilles de plantes proches de la même famille) provoque un larmoiement important, très irritantes pour les yeux.
@@ -2022,7 +2119,8 @@ Cet urticaire est assez douloureux, semblable en intensité à la piqure d&#8217
 <div class="paragraph">
 <p><strong>Localisation</strong> + Cette plante se trouve aux abords des zones boisées de milieux tempérés.
 Pour en trouver, le prospecteur doit réussir un test de survie: + <strong>Hivers</strong> :DD 35 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 28 + En cas de réussite, il trouvera 2d6 doses par heure de prospection.
-+ Valeur : 3 pièce d&#8217;argent la dose.</p>
++ Valeur : 3 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : inexistant (0)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + L&#8217;Ortiefanne s&#8217;utilise de plusieurs manières à des fins curatives tout dépend de sa préparation.
@@ -2050,7 +2148,8 @@ Un régime peut porter jusqu&#8217;à quinze cents drupes.</p>
 </div>
 <div class="paragraph">
 <p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 16 + En cas de réussite, il trouvera 3d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 1 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très faible (1)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + On tire du Palmirose une huile et une boisson alcoolisée mais aussi un somnifère puissant: + <em>Huile</em> ( Herboristerie DD 28, 3d6 doses) : L&#8217;huile de Palmirose est extraite par pression à chaud de la pulpe des fruits, de couleur rouge.
@@ -2081,7 +2180,8 @@ Sa principale particularité est d&#8217;être pourvu de racines aériennes.
 Il dispose de racines en échasse qui lui permettent d&#8217;avancer sur la mer et d&#8217;affronter les vagues.
 Il affectionne par conséquent les zones boueuses ou les eaux peu profondes.
 + Le prospecteur devra réussir un test en Survie: + <strong>Hivers</strong> :DD 22 + <strong>Printemps</strong> :DD 16 + <strong>Eté</strong> :DD 16 + <strong>Automne</strong> :DD 22 + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
-+ <strong>Valeur</strong> : 4 pièce d&#8217;argent la dose.</p>
++ <strong>Valeur</strong> : 4 pièce d&#8217;argent la dose.
++ <strong>Facteur d&#8217;addiction</strong> : inexistant (0)</p>
 </div>
 <div class="paragraph">
 <p><strong>Utilisation</strong> + Le bois sert à fabriquer des poteaux, du charbon de bois et du bois de chauffage.
@@ -2099,7 +2199,66 @@ Une poignée de noix est aussi nourrissante qu&#8217;un bon repas.
 Par contre, elle est réputée pour ses fonctions anti-fongiques et spermicides qui lui permettent d&#8217;être utilisée comme lubrifiant sans risque de procréer.
 Cette huile est largement utilisée dans les harems et certains bordels de luxe.
 Son coût de fabrication et de vente limite la clientèle.
-+ Valeur : 33 pièces d&#8217;or la dose.
++ Valeur : 33 pièces d&#8217;or la dose.</p>
+</div>
+<div class="paragraph">
+<p>== Quilum</p>
+</div>
+<div class="paragraph">
+<p><strong>Description</strong> + Le quilum est une plante à large feuille que l&#8217;on trouve dans les zones tempérées à l&#8217;ombre des forêts de conifères.
+une fois par an, elle donne des petites fleures oranges en forme de lachettes nervurées de jaune.
+Cette fleure est phosporéscente et illumine la campagne à la tombée de la nuit.
+Sa racine noueuse possède des propriétés antipoison.</p>
+</div>
+<div class="paragraph">
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone tempérée dans des forêts de conifères: + <strong>Hivers</strong> :DD 35 + <strong>Printemps</strong> :DD 28 + <strong>Eté</strong> :DD 28 + <strong>Automne</strong> :DD 35  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 3 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très faible (1)</p>
+</div>
+<div class="paragraph">
+<p><strong>Utilisation</strong> + La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.
++ <em>Antidote</em> (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion.
+La préparation doit bouillir 20 minutes au minimum.
+L&#8217;antidote permet de guérir tout poison de conversion d&#8217;un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +6.
++ Valeur : 49 pièce d&#8217;or la dose.</p>
+</div>
+<div class="paragraph">
+<p>== Shîn</p>
+</div>
+<div class="paragraph">
+<p><strong>Description</strong> + Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l&#8217;on trouve dans les zones côtières tempérées.
+Sa feuille possède des propriétés antipoison.</p>
+</div>
+<div class="paragraph">
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone côtière tempérée souvent à flanc de falaise: + <strong>Hivers</strong> :DD 28 + <strong>Printemps</strong> :DD 28 + <strong>Eté</strong> :DD 22 + <strong>Automne</strong> :DD 28  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 3 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : moyen (3)</p>
+</div>
+<div class="paragraph">
+<p><strong>Utilisation</strong> + La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.
++ <em>Antidote</em> (herboristerie/Survie DD 16, 1 dose) : Il faut 16 feuilles (doses) de shîn pour créer ce puissant antidote contre les poisons nerveux.
+La préparation doit être ingérée.
+L&#8217;antidote permet de guérir tout poison nerveux d&#8217;un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +3.
++ Valeur : 27 pièce d&#8217;or la dose.</p>
+</div>
+<div class="paragraph">
+<p>== Ul&#8217;thazah</p>
+</div>
+<div class="paragraph">
+<p><strong>Description</strong> + Le ul&#8217;thazah est une plante de la famille des lièrres de couleur noire que l&#8217;on trouve dans les zones volcaniques semi-arides.
+Sa feuille possède de très puissantes propriétés antipoison.</p>
+</div>
+<div class="paragraph">
+<p><strong>Localisation</strong> + Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-arides: + <strong>Hivers</strong> :DD 35 + <strong>Printemps</strong> :DD 35 + <strong>Eté</strong> :DD 35 + <strong>Automne</strong> :DD 35  + En cas de réussite, il trouvera 1d6 doses par heure de prospection.
++ <strong>Valeur</strong> : 30 pièces d&#8217;or la dose.
++ <strong>Facteur d&#8217;addiction</strong> : très important (5)</p>
+</div>
+<div class="paragraph">
+<p><strong>Utilisation</strong> + La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.
++ <em>Antidote</em> (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul&#8217;thazah pour créer ce puissant antidote contre toutes formes de poisons.
+La préparation doit être ingérée.
+L&#8217;antidote permet de guérir toute forme de poison d&#8217;un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.
++ Valeur : 430 pièce d&#8217;or la dose.
 +&#8201;&#8212;&#8201;title: "Les pièges"&#8201;&#8212;&#8201;</p>
 </div>
 <div class="paragraph">
@@ -6325,7 +6484,7 @@ Une dernière scarification sera placée au milieu du front, en forme de cercle.
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-07-29 14:54:50 +0200
+Last updated 2021-07-29 16:57:23 +0200
 </div>
 </div>
 </body>

@@ -33,12 +33,33 @@ Pour ne pas devenir dépendant d'une substance, il suffit de réussir un JS de C
 | Très important | 5 |  
 | Irrésistible | 6 |  
 
+Une personne sous addiction a des troubles de comportement et subit les effets d'une [folie passagère](/folie/#folie-passagere). Il faut résister 1d6 jours au manque pour être libéré de son addiction.   
+
 
 
 
 ###  Plantes curatives
 
 Les plantes et les produits décrits ensuite sont rares et demandent souvent de longues recherches de la part de spécialistes pour en trouver des doses ou des spécimens suffisants. Les plantes, les champignons et les animaux qui produisent ces substances ne peuvent pas survivre en captivité. Tous les essais jusqu'à présent ont été voués à l'échec. Dans le meilleur des cas, les sujets sont devenus stériles. Ces plantes et ses substances sont souvent considérées magiques même si elles ne le sont pas intrinsèquement. Elles valent souvent extrêmement chères.  
+
+## Afana
+**Description**  
+L'afana est une plante de la famille des roseaux qui pousse la plus part du temps dans des latitudes froides au bords des côtes. Sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone côtières froide:  
+**Hivers** :DD 16  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d'argent la dose.  
+**Facteur d'addiction** : très faible (1)
+
+**Utilisation**  
+La tige de l'afana est utilisée principalement pour ses vertues curatives.  
+*Cataplasme* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 tiges (doses) d'afana pour créer un cataplasme. La préparation doit être appliquée sur la zone de la blessure. Le cataplasme permet de doubler la vitesse de guérison d'une fracture.
+Valeur : 5 pièce d'argent la dose.   
 
 ## Asgarbie
 **Description**  
@@ -51,7 +72,7 @@ Le prospecteur devra réussir un test en Survie dans une zone désertique aride:
 **Eté** :DD 22   
 **Automne** :DD 22    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
+**Valeur** : 1 pièce d'or la dose.  
 **Facteur d'addiction** : moyen (3)
 
 
@@ -59,6 +80,25 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
 *Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d'asgarbies pour créer ce puissant antidote contre les poisons musculaires. La préapration doit être ingérée. L'antidote permet de guérir tout poison musculaire d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.    
 Valeur : 38 pièce d’or la dose.  
+
+## Balahm
+**Description**  
+Le balahm est une plante de la famille des roseaux qui pousse dans des latitudes chaudes et humides, souvent dans des mangroves. La mixture issue de sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone côtières froide:  
+**Hivers** :DD 35  
+**Printemps** :DD 35  
+**Eté** :DD 28   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d'or la dose.  
+**Facteur d'addiction** : très importante (5)
+
+**Utilisation**  
+La tige et les feuilles de balahm sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 6 tiges ou feuilles (doses) de balahm pour créer un mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 1d6 heures.
+Valeur : 160 pièces d'or la dose.   
 
 ## Cepate
 **Description**  

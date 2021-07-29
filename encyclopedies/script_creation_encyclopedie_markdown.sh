@@ -39,11 +39,13 @@ do
 	kramdoc --format=GFM --output=${livre}.asciidoc --wrap=ventilate ${livre}.md
 
 	# On transforme les fichiers asciidoc en html
-	rm -f ${livre}.md ${livre}.html
+	#rm -f ${livre}.md 
+	rm ${livre}.html
 	asciidoctor -b html ${livre}.asciidoc -o ${livre}.html
 
 	# On transforme les fichiers html en odt
-	rm -f ${livre}.asciidoc ${livre}.odt
+	#rm -f ${livre}.asciidoc 
+	rm ${livre}.odt
 	pandoc --base-header-level=3 -V date:"" -V title:"" -f html ${livre}.html -o ${livre}.odt
 
 	# On formate les fichiers odt à l'aide d'une macro

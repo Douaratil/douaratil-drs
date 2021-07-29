@@ -17,8 +17,9 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Le développement de l'Archétype du [Sorser](/archetypes/sorser/) se poursuit doucement et les idées viennent se rajouter progressivement. Elric travaille sur des sorts et a proposé un nouvel Archétype très intéressant mais que je dois ajuster. Georges amène son renfort pour la rédaction de la chronique qui me prenait vraiment beaucoup de temps. Quant à la version papier, je ne désespère pas. J'ai même repris espoir grâce aux compétences de Jordan qui a rédigé un script qui va me permettre d'extraire les pages de mon site. Le gain de temps et la maintenance des versions s'en trouveront facilités.  
 Ajout des sorts  [Convoquer un aigle](/grimoire/convoquer-aigle), [Convoquer une chouette](/grimoire/convoquer-chouette), [Convoquer un rat](/grimoire/convoquer-rat).
 Ajout dans le bestiaire du [Ver piqueur](/bestiaire/ver-piqueur).
-Ajout dans l'herbier de l'[asbargie](/herbier/#asgarbie), un puissant antidote contre les poisons musculaires, de l'[elheanung](/herbier/#elheanung), antidote contre les poisons de réduction, du [menelath](/herbier/#menelath), antidote contre les poisons circulatoirs, de la [baie de mokht](/herbier/#mokht), antidote contre les poisons respiratoires, la [racine de quilum](/herbier/#quilum), antidote contre les poisons de conversion et le [ul'thazah](/herbier/#ul'thazah), antidote universel à haute capacité addictive.   
-Ajout des règles d'[addiction](/herbier/#addiction) aux plantes.
+Ajout dans l'herbier d'une liste d'antidote comme l'[asbargie](/herbier/#asgarbie), un puissant antidote contre les poisons musculaires,  l'[elheanung](/herbier/#elheanung), antidote contre les poisons de réduction, le [menelath](/herbier/#menelath), antidote contre les poisons circulatoirs, la [baie de mokht](/herbier/#mokht), antidote contre les poisons respiratoires, la [racine de quilum](/herbier/#quilum), antidote contre les poisons de conversion et le [ul'thazah](/herbier/#ul'thazah), antidote universel à haute capacité addictive.   
+Ajout dans l'herbier de plantes qui soignent les os avec  [la tige d'afana](/herbier/#afana), la [mixture de balahm](/herbier/#balahm).
+Ajout des règles d'[addiction](/herbier/#addiction) aux plantes.  
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
