@@ -13,6 +13,18 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Archétype, architecture du site et version papier
+Le développement de l'Archétype du [Sorser](/archetypes/sorser/) se poursuit doucement et les idées viennent se rajouter progressivement. Elric travaille sur des sorts et a proposé un nouvel Archétype très intéressant mais que je dois ajuster. Georges amène son renfort pour la rédaction de la chronique qui me prenait vraiment beaucoup de temps. Quant à la version papier, je ne désespère pas. J'ai même repris espoir grâce aux compétences de Jordan qui a rédigé un script qui va me permettre d'extraire les pages de mon site. Le gain de temps et la maintenance des versions s'en trouveront facilités.  
+Ajout des sorts  [Convoquer un aigle](/grimoire/convoquer-aigle), [Convoquer une chouette](/grimoire/convoquer-chouette), [Convoquer un rat](/grimoire/convoquer-rat).
+Ajout dans le bestiaire du [Ver piqueur](/bestiaire/ver-piqueur).
+Ajout dans l'herbier de l'[asbargie](/herbier/#asgarbie), un puissant antidote contre les poisons musculaires, de l'[elheanung](/herbier/#elheanung), antidote contre les poisons de réduction, du [menelath](/herbier/#menelath), antidote contre les poisons circulatoirs, de la [baie de mokht](/herbier/#mokht), antidote contre les poisons respiratoires, la [racine de quilum](/herbier/#quilum), antidote contre les poisons de conversion et le [ul'thazah](/herbier/#ul'thazah), antidote universel à haute capacité addictive.   
+Ajout des règles d'[addiction](/herbier/#addiction) aux plantes.
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 29 juillet 2021_
+§§§
+
 ## Modification de la Voie de la Magie et corrections
 En cette période si particulière, avec les contraintes sanitaires et les aléas climatiques, je vous souhaite tout de même un bel été. De nombreux ajustements au jeu ont été effectués et des corrections apportées au fur et à mesure de la découvertes d'erreur.La voie de la magie a été remaniée pour une plus grande cohérence avec l'usage de la magie et insister sur la différence entre les utilisateurs de la magie de cette voie et de celles des autres voies.   
 La campagne de jeu continue et je souhaite remercier mes joueurs pour leur investissement, particulièrement Bastian, Georges et Elric qui m'aident à ajouter des contenus régulièrement.   

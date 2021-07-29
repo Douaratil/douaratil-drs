@@ -8,7 +8,7 @@ Les statistiques des monstres, parfois appelées **profils**, livrent les inform
 Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très grand (TG) ou gigantesque (Gig). La table des catégories de taille indique l'espace que contrôlent les créatures en fonction de leur taille lors d'un combat. Voir le chapitre [_Combattre - Taille des créatures_](/combattre/#taille-des-creatures) pour plus d'informations sur la taille des créatures et l'emplacement qu'elles occupent.
 
 ### Catégories de taille
-§§§ .table-container
+
 | Taille | Surface occupée | Exemples |
 |:-|:-|:-|
 | **Très petit** | 75 cm de côté | chat |
@@ -17,7 +17,7 @@ Un monstre peut être très petit (TP), petit (P), moyen (M), grand (G), très g
 | **Grand** | 3 m de côté | ours |
 | **Très grand** | 4,50 m de côté | éléphant |
 | **Gigantesque** | 6 m de côté ou + | divinité, créatures anciennes |
-§§§
+
 
 ## Type
 Le type d'un monstre définit sa nature fondamentale. Certains sorts, objets magiques, aptitudes de classe et autres effets dans le jeu interagissent de façon particulière avec les créatures d'un type donné. Par exemple, une _flèche tueuse de loup_ inflige des dégâts supplémentaires aux loups, mais aussi aux autres créatures de type bêtes, telles que les ours et les lions.
@@ -86,8 +86,8 @@ Un monstre meurt ou est détruit quand ses points d'action tombent à 0. Voir le
 
 La taille d'un monstre détermine le dé utilisé pour calculer ses points d'action, comme indiqué dans la table des dés de vie en fonction de la taille.
 
-### Poinst d'action en fonction de la taille
-§§§ .table-container
+### Poinst d'action en fonction de la taille  
+
 | Taille du monstre | Valeur de constitution |Points d’action par ID |
 |:-|:-:|:-:|
 | **Très petit** | X 0,25 | 2 |
@@ -96,7 +96,7 @@ La taille d'un monstre détermine le dé utilisé pour calculer ses points d'act
 | **Grand** | X 2 | 8 |
 | **Très grand** | X 3 | 15 |
 | **Gigantesque** | X 4 | 20 |
-§§§
+
 
 On additionne la valeur de constitution du l’adversaire ajustée par son multiplicateur de taille + (PA X ID). Les points d’action ne peuvent être inférieur à 1.
 
@@ -128,7 +128,7 @@ La ligne « _Jets de sauvegarde_ » apparaît seulement chez les créatures part
 Un bonus aux jets de sauvegarde se calcule en ajoutant le modificateur de la caractéristique pertinente du monstre à son bonus de maîtrise, que l'on détermine grâce à son indice de dangerosité (comme indiqué dans la [table Bonus de maîtrise en fonction de l'indice de dangerosité](#bonus-de-maitrise-en-fonction-de-l-indice-de-dangerosite)).
 
 ### Bonus de maîtrise en fonction de l'indice de dangerosité
-§§§ .table-container
+
 | Indice de dangerosité | Bonus de maîtrise | Indice de dangerosité | Bonus de maîtrise |
 |:-:|:-:|:-:|:-:|
 | **0** | +2 | **14** | +5 |
@@ -148,7 +148,7 @@ Un bonus aux jets de sauvegarde se calcule en ajoutant le modificateur de la car
 | **11** | +4 | **28** | +8 |
 | **12** | +4 | **29** | +9 |
 | **13** | +5 | **30** | +9 |
-§§§
+
 
 ## Compétences
 La ligne « _Compétences_ » est réservée aux monstres qui maîtrisent une ou plusieurs compétences. Par exemple, un monstre particulièrement perceptif ou discret peut avoir des bonus aux tests de Sagesse (Perception) et de Dextérité (Discrétion).
@@ -204,7 +204,7 @@ Sauf indication contraire, un monstre convoqué par un sort ou un autre pouvoir 
 Le chapitre [Construire une rencontre](/construire-une-rencontre/) explique comment créer des rencontres en fonction d'un budget en PX et comment ajuster la difficulté d'une rencontre.
 
 #### Points d'expérience en fonction de l'indice de dangerosité
-§§§ .table-container
+
 | ID | PX | ID | PX |
 |:-:|:-:|:-:|:-:|
 | **0** | 0 ou 10 | **14** | 11500 |
@@ -224,7 +224,7 @@ Le chapitre [Construire une rencontre](/construire-une-rencontre/) explique comm
 | **11** | 7200 | **28** | 120000 |
 | **12** | 8400 | **29** | 135000 |
 | **13** | 10000 | **30** | 155000 |
-§§§
+
 
 ## Traits spéciaux
 Les traits spéciaux (qui apparaissent après l'indice de dangerosité d'un monstre mais avant ses éventuelles actions ou réactions) sont des particularités qui peuvent s'avérer utiles lors d'une rencontre de combat et qui nécessitent quelques explications.
@@ -271,9 +271,9 @@ Une créature capable d'effectuer plusieurs attaques lors de son tour peut réal
 ### Dégâts
 Les dégâts varient aussi selon la taille qui représente l’inertie de l’objet manipulé ou de la masse de la créature. Les dégâts s’appliquent donc selon le tableau suivant :  
 
-§§§ .table-container
+### Dégâts en fonction de la taille.  
+
 | Taille du monstre | Dégâts |
-ID |
 |:-|:-:|
 | **Très petit** | 1 |
 | **Petit** | 2 |
@@ -281,7 +281,7 @@ ID |
 | **Grand** | 6 |
 | **Très grand** | 10 |
 | **Gigantesque** | 20 |
-§§§
+
 
 
 ### Munitions

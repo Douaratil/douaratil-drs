@@ -39,9 +39,9 @@ category: "PNJ"
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 
-_**Voie des armes **_. Gaenor est niveau 12 dans la voie des armes.
+_**Voie des armes**_. Gaenor est niveau 12 dans la voie des armes.
 
-_**Style de combat Armes à deux mains**_
+_**Style de combat Armes à deux mains**_  
 Quand vous faites 1 avec un dé pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.  
 
 _**Second souffle**_  

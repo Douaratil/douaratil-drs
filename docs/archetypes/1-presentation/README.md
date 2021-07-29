@@ -27,4 +27,5 @@ Les Archétypes actuellement disponibles sont :
 - [Shangharah](/archetypes/shangharah/), soigneuse sooghaï.  
 - [Skell](/archetypes/skell/), guerrier barde melg.  
 - [Sohoten](/archetypes/shohoten/), guerrier moine yotakaï.  
+- [Sorser](/archetypes/sorser/), sorcier khernaë.  
 - [Vitnar](/archetypes/vitnar/), chaman melg.  

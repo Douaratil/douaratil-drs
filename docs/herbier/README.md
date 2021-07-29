@@ -3,9 +3,62 @@ title: "Herbier"
 ---
 # herbier
 
+### Comment utiliser l'herbier?  
+ Chaque plante est présentée comme suit :
+
+## Nom  
+**Description** Décrit sommairement la plante.
+**Localisation**  description des conditions de prospection.    
+**Hivers** :DD X  
+**Printemps** :DD X  
+**Eté** :DD X   
+**Automne** :DD X    
+En cas de réussite, il trouvera X doses par heure de prospection.  
+**Valeur** : X pièces d'X la dose.  
+**Facteur d'addiction** : détermine les risques de devenir dépendant de la substance.  
+**Utilisation** : Décrit la méthode d'utilisation.   
+
+### Facteur d'addiction
+Certaines plantes ou substances peuvent entraîner des effets indésirables d'accoutumance qui peuvent modifier le comportement de celui qui en consomme. Chaque fois que le produit est utilisé un test d'addiction est fait. Chaque utilisation supplémentaire cumule les risques lorsqu'elles ont lieu dans le cour de la même demi lune après après la première prise.   
+Pour ne pas devenir dépendant d'une substance, il suffit de réussir un JS de CON contre 1d6 + la valeur du facteur d'addiction.
+
+
+| Facteur d'addiction | Valeur |  
+|:-|:-:|
+| Inexistant | 0 (Aucun test nécessaire) |  
+| Très faible | 1 |  
+| Faibre | 2 |  
+| Moyen | 3 |  
+| Important | 4 |  
+| Très important | 5 |  
+| Irrésistible | 6 |  
+
+
+
+
 ###  Plantes curatives
 
 Les plantes et les produits décrits ensuite sont rares et demandent souvent de longues recherches de la part de spécialistes pour en trouver des doses ou des spécimens suffisants. Les plantes, les champignons et les animaux qui produisent ces substances ne peuvent pas survivre en captivité. Tous les essais jusqu'à présent ont été voués à l'échec. Dans le meilleur des cas, les sujets sont devenus stériles. Ces plantes et ses substances sont souvent considérées magiques même si elles ne le sont pas intrinsèquement. Elles valent souvent extrêmement chères.  
+
+## Asgarbie
+**Description**  
+L'asgarbie est une petite plante grasse qui ne dépasse jamais les quatre pouces. Elle reconnaissable par ses petites excroissances violettes qui pourraient rappeler des oursins. Il s'agit du fruit qui est comestible mais sans intérêt gustatif. L'asgarbie ne se trouve que dans des déserts arides. La fleure d'asgarbie a par contre des vertus d'antidote si elle est correctement préparée.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
+**Hivers** :DD 22  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+
+**Utilisation**  
+L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
+*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d'asgarbies pour créer ce puissant antidote contre les poisons musculaires. La préapration doit être ingérée. L'antidote permet de guérir tout poison musculaire d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.    
+Valeur : 38 pièce d’or la dose.  
 
 ## Cepate
 **Description**  
@@ -19,9 +72,10 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 12    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : très faible (1)
 
 **Utilisation**  
-Le cèpate est utilisé principalement pour ses hautes qualités nutritives qui ont assuré sa réputation, particulièrement en période de mauvaises récoltes.  
+Le cèpate est utilisé principalement pour ses hautes qualités nutritives qui ont assurées sa réputation, particulièrement en période de mauvaises récoltes.  
 *Alimentation* (Cuisine/Survie DD 16, 1 dose) : Un champignon de bonne taille permet de nourrir un unique individu pour une journée complète à condition d’avoir suffisamment de boisson. Se nourrir de ce champignon permet de récupérer plus rapidement sa fatigue, sa surcharge mentale et ses blessures dans les mêmes conditions qu’un hébergement dans une auberge.  
 Valeur : 1 pièce d’or la dose.  
 *Onguent* (Herboristerie DD 16, 3 doses) : le cèpate peut-être préparé en onguent. Il est possible de créer une dose d’onguent de cèpate par trois doses de cèpate sous réserve de réussir (les tests s’effectuent par dose et la préparation prend une heure par dose). Cet onguent à la particularité de soigner 1d6 points d’action et peut se revendre 5 pièces d’argent auprès d’un apothicaire ou d’un soigneur.  
@@ -44,6 +98,7 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 12  
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : très faible (1)
 
 **Utilisation**  
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
@@ -72,6 +127,26 @@ Valeur : 2 pièce d’or la dose.
 Valeur: 5 pièce d’or la dose.  
 *Huile essentielle* ( Herboristerie DD 35, 15 doses): Sous forme d'huile essentielle, l'églantiane permet de mieux se concentrer pendant 1d6 heures. L'utilisateur obtient un bonus de +2 aux JS de Sagesse et d’Intelligence ainsi qu'aux tests de compétences faisant appel à des capacités intellectuelles.  
 Valeur : 10 pièce d’or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+## Elheanung
+**Description**  
+L'elheanung est une plante intéressante que l'on trouve dans les hauts fonds des mers froides. Cette algue qui peut atteindre jusqu'à 30 coudées possède des propriétés curatives qui ont été découvertes il y a fort longtemps par les peuples pêcheurs nordiques.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie:  
+**Hivers** :DD 22  
+**Printemps** :DD 22  
+**Eté** :DD 16   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+L'elheanung est utilisé principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 feuilles (doses) d'elheanung pour créer ce puissant antidote contre les poisons de réduction. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison de réduction d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +6.    
+Valeur : 99 pièce d’or la dose.  
 
 ## Empeurine  
 **Description**  
@@ -88,6 +163,7 @@ Le prospecteur devra réussir un test en survie:
 **Automne** :DD 22  
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : important (4)
 
 **Utilisation**  
 *Patisserie & confiserie* (Cuisine/Survie DD 16, 5 doses) : Pétioles et tiges sont utilisées en pâtisserie et confiserie sous forme de fruits confits, l'Empeurine . C'est une spécialité de la ville de Thaouet.   
@@ -118,6 +194,7 @@ Le prospecteur devra réussir un test en survie:
 **Automne** :DD 28   
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 **Valeur** : 1 pièce d’or la dose.  
+**Facteur d'addiction** : très important (5)
 
 **Utilisation**  
 *Infusion* ( Herboristerie DD 16) infusion, restitue 1d6 points de Magie et de Foi. Usage de 3 doses de récoltes pour une dose d’infusion.  
@@ -139,6 +216,7 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 28  
 En cas de réussite, il trouvera 5d6 doses par heure de prospection.   
 **Valeur** : 5 pièces d’or la dose.  
+**Facteur d'addiction** : inexistant (0)
 
 **Utilisation**
 *Paillage antifongique* (Survie DD 16 2d6 doses) : La Fougérade peut être utilisée en jardinage. On la récolte de préférence sèche ou jaunissante, à l'automne. À cette époque de l'année, sa vocation première est de servir de protection contre le gel à toutes les plantes sensibles: mâches, chicorée sauvage, scarole, artichaut... Quand vient le printemps, la fougèrade se transforme en matériau idéal pour la couverture du sol. C'est dans les fraisiers qu'elle donne le meilleur d'elle-même grâce à son action antifongique contre la pourriture grise. Mais on peut également l'utiliser pour pailler toutes sortes de cultures dès lors que le sol s'est réchauffé, en guise d'assurances anti-sécheresse et anti- mauvaises herbes. En paillage frais ou sec, elle attire mais empoisonne les limaces.  
@@ -172,6 +250,7 @@ Son habitat naturel se situe surtout dans les sous-bois montagneux, généraleme
 **Automne** :DD 16  
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : inexistant (0)
 
 **Utilisation**  
 *Fruits frais* (Cuisine/Surviet DD 16) : Les fruits frais, les framboles, se consomment nature au miel, en salade de fruit, ou donnent lieu à des transformations en confiture, gelée, sirops, coulis ...  
@@ -197,6 +276,7 @@ Le prospecteur devra réussir un test en survie:
 **Automne** :DD 16  
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d’argent la dose.   
+**Facteur d'addiction** : important (4)
 
 **Utilisation**  
 *Jardinage* (Survie DD 16, 2d6 doses) : Il est utile dans la lutte contre les parasite pour le maraichage.  
@@ -221,6 +301,25 @@ Valeur : 3 pièce d’or la dose.
 *Symptômes observés* : Les premiers symptômes apparaissent très rapidement : sécheresse de la bouche, diminution des sécrétions, troubles visuels, dilatation des pupilles, élévation du rythme cardiaque, faiblesse musculaire pouvant aller jusqu'à une incapacité à se tenir debout. Les troubles du comportement, caractérisés par une désorientation spatio-temporelle, apparaissent ensuite. L'individu est congestionné, sa face et son cou sont rouges, il a une parole incohérente ou peut être trouvé dans un coma profond. Il arrive que l'individu décède avant une prise en charge médicale. L'individu a des hallucinations visuelles, auditives, il ne reconnaît plus ses proches et semble vouloir attraper des objets imaginaires. Les hallucinations sont décrites par les usagers comme cauchemardesques  souvent accompagnées de crises d'angoisse et de la perte des repères spatio-temporels. Le retour à la normale demande plusieurs jours. Il s'accompagne en général d'une amnésie totale ou partielle de l'épisode.
 L'état produit par la plante s'apparente à un état de somnambulisme, de rêve éveillé voire de folie, ce qui n'est pas du tout la cas des drogues psychédéliques. Ceci couplé aux difficultés extrêmes de dosage rend l'expérience délirogène hautement dangereuse.  
 
+## Menelath
+**Description**  
+Le Menelath est un arbre à épines persistantes que l'on trouve dans les terres éternellement gelées au milieu de forêts de conifères. D'un vert sombre et profond, son fruit, comparable à une petite pomme de pin possède des propriétés antipoison découvertes par les peuples nordiques.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone forestière subissant le permafrost:  
+**Hivers** :DD 28  
+**Printemps** :DD 28  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+Le menelath est utilisé principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 6 fruits (doses) de menelath pour créer ce puissant antidote contre les poisons circulatoirs. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison circulatoir d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +6.    
+Valeur : 65 pièce d’or la dose.  
+
 ## Menthagile
 **Description**  
 Les menthes forment un genre de plantes herbacées vivaces, comprenant de nombreuses espèces, dont beaucoup sont cultivées comme plantes aromatiques et condimentaires, ornementales ou médicinales. La Menthagile est l'une d'entre elle, très appréciée pour de nombreuses vertus.   
@@ -233,6 +332,7 @@ La Menthagile peut être assez courante sous réserve de découvrir des lieux o�
 **Automne** :DD 16  
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 2 pièce d’argent la dose.  
+**Facteur d'addiction** : moyen (3)
 
 **Utilisation**  
 La menthagile est l’une des plantes médicinales les plus célèbres. Elle aurait des vertus digestives, spasmolytiques, carminatives, antiseptiques, toniques et stimulantes. Elle participerait à l’équilibre digestif et améliorerait le tonus général. La Menthagile est la plus utilisée en phytothérapie, pour ses propriétés, connues de la tradition et étudiées scientifiquement. La Menthagile est employée très couramment comme herbe aromatique, principalement dans les cuisines alcantes et shahiates, par exemple dans le thé à la menthagile ou le taboulé ptolème, et minghours avec les rouleaux fris et les salades.  
@@ -246,6 +346,25 @@ Valeur** : 8 pièces d’or la dose.
 
 L'un des effets les plus recherchés de la Menthagile est sa capacité à développer l'agilité et la souplesse de la personne qui l’ingurgite. Si la plante est préparée sous l'une de ses formes habituelles, le bénéficiaire obtient un bonus de +2 à tout ses jets d'acrobatie, discrétion, escamotage et aux JS de Dextérité pendant 1D6 x 10 minutes.  
 
+## Mokth
+**Description**  
+Le mokth est un arbuste que l'on trouve dans les zones tempérées de moyenne montagne. D'un feuillage vert intense, l'arbuste devient orange/rouge à l'autmomne. Son fruit, la baie de mokth, comparable à une grosse mûre violette possède des propriétés antipoison.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone montagneuse tempérée:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** : important (4)
+
+**Utilisation**  
+La baie de mokth est utilisée principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 18 fruits (doses) de mokth pour créer ce puissant antidote contre les poisons respiratoire. L'antidote s'ingère. Il permet de guérir tout poison respiratoire d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +4.    
+Valeur : 30 pièce d’or la dose.   
+
 ## Murcine
 **Description**  
 La Mûrcine est une baie qui se récolte dans les dernières lunes de l'été. Ce fruit se présente comme une mûre de la taille d'un marron. Elle est protégée des prédateurs par une coque. Le fruit est noir et très sucré. Cette baie se cueille sur une plante qui prend la forme d'un arbuste.  
@@ -258,6 +377,7 @@ Il est possible de trouver cette plante le long de certains chemins mais peu de 
 **Automne** :DD 28  
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : très faible (1)
 
 **Utilisation**  
 Il y a plusieurs utilisations pour ces baies. Il s'agit de la seule partie de la plante qui est utilisable.  
@@ -279,6 +399,7 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 12  
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 **Valeur** : 3 pièces d’or la dose.  
+**Facteur d'addiction** : inexistant (0)
 
 **Utilisation**  
 *Larmoiement* : Couper des ognottes (ou bulbes ou feuilles de plantes proches de la même famille) provoque un larmoiement important, très irritantes pour les yeux. La réaction produisant l'agent lacrymogène étant optimale à température ambiante, on peut refroidir ou réchauffer l'oignon pour diminuer, voire éviter, le larmoiement.  
@@ -304,6 +425,7 @@ Cette plante se trouve aux abords des zones boisées de milieux tempérés. Pour
 **Automne** :DD 28  
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.   
 Valeur : 3 pièce d’argent la dose.  
+**Facteur d'addiction** : inexistant (0)
 
 **Utilisation**  
 L'Ortiefanne s'utilise de plusieurs manières à des fins curatives tout dépend de sa préparation. Une récolte permet de créer les produits suivants:  
@@ -328,6 +450,7 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 16  
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.   
 **Valeur** : 1 pièce d’argent la dose.  
+**Facteur d'addiction** : très faible (1)
 
 **Utilisation**  
 On tire du Palmirose une huile et une boisson alcoolisée mais aussi un somnifère puissant:  
@@ -352,6 +475,7 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 22  
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.   
 **Valeur** : 4 pièce d’argent la dose.  
+**Facteur d'addiction** : inexistant (0)
 
 **Utilisation**   
 Le bois sert à fabriquer des poteaux, du charbon de bois et du bois de chauffage. L'écorce est riche en tanin servant à tanner les peaux.  
@@ -363,3 +487,60 @@ Valeur : 3 pièces d’or la dose.
 Valeur : 3 pièces d’or la dose.  
 *Huile* ( Alchimie DD 35, 1d6 doses) : L'huile fabriquée par des procédés alchimiques n'est pas utilisable dans l'alimentation. Par contre, elle est réputée pour ses fonctions anti-fongiques et spermicides qui lui permettent d'être utilisée comme lubrifiant sans risque de procréer. Cette huile est largement utilisée dans les harems et certains bordels de luxe. Son coût de fabrication et de vente limite la clientèle.  
 Valeur : 33 pièces d’or la dose.  
+
+## Quilum
+**Description**  
+Le quilum est une plante à large feuille que l'on trouve dans les zones tempérées à l'ombre des forêts de conifères. une fois par an, elle donne des petites fleures oranges en forme de lachettes nervurées de jaune. Cette fleure est phosporéscente et illumine la campagne à la tombée de la nuit. Sa racine noueuse possède des propriétés antipoison.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée dans des forêts de conifères:  
+**Hivers** :DD 35  
+**Printemps** :DD 28  
+**Eté** :DD 28   
+**Automne** :DD 35    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'or la dose.  
+**Facteur d'addiction** : très faible (1)
+
+**Utilisation**  
+La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +6.    
+Valeur : 49 pièce d’or la dose.   
+
+## Shîn
+**Description**  
+Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l'on trouve dans les zones côtières tempérées. Sa feuille possède des propriétés antipoison.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone côtière tempérée souvent à flanc de falaise:  
+**Hivers** :DD 28  
+**Printemps** :DD 28  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 feuilles (doses) de shîn pour créer ce puissant antidote contre les poisons nerveux. La préparation doit être ingérée. L'antidote permet de guérir tout poison nerveux d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +3.    
+Valeur : 27 pièce d’or la dose.   
+
+## Ul'thazah
+**Description**  
+Le ul'thazah est une plante de la famille des lièrres de couleur noire que l'on trouve dans les zones volcaniques semi-arides. Sa feuille possède de très puissantes propriétés antipoison.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-arides:  
+**Hivers** :DD 35  
+**Printemps** :DD 35  
+**Eté** :DD 35   
+**Automne** :DD 35    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 30 pièces d'or la dose.  
+**Facteur d'addiction** : très important (5)
+
+**Utilisation**  
+La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul'thazah pour créer ce puissant antidote contre toutes formes de poisons. La préparation doit être ingérée. L'antidote permet de guérir toute forme de poison d'un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.    
+Valeur : 430 pièce d’or la dose.   
