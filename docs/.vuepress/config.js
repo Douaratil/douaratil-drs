@@ -526,6 +526,11 @@ module.exports = {
         icon: 'mdi-earth',
         children: [
           {
+            title: "Chronologie",
+            icon: 'mdi-hourglass',
+            path: 'https://www.tiki-toki.com/timeline/entry/1695352/Chronologie-Douaratil/'
+          },
+          {
             title: "Dieux, Divinités & autres forces",
             icon: 'mdi-shuriken',
             path: '/dieux-divinites'
