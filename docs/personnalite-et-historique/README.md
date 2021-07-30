@@ -44,9 +44,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Athos** | Peuple Lacède | Cyrynith |
 | **Mécède** | Peuple Lacède | Cyrynith |
 | **Thessal** | Peuple Lacède | Cyrynith |
-| **Saramath** | Peuple Saramath | Saramath |
-
-§§§
+| **Saramath** | Peuple Saramath | Saramath 
 
 
 ### Langues Nordiques
@@ -65,9 +63,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Melg** | Peuple Melg | Bergaf |
 | **Draükarn** | Peuple Melg | Bergaf |
 | **Welkarn** | Peuple Melg | Bergaf |
-| **Znorkarn** | Peuple Melg | Bergaf |
-
-§§§
+| **Znorkarn** | Peuple Melg | Bergaf 
 
 
 ### Langues Asiatiques
@@ -82,11 +78,6 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Yoth** | Peuple Meldète | Yohaï |
 
 
-§§§
-
-§§§
-
-
 ### Langues des Royaumes de Shahia
 
 | Langue | Parlée par... | Alphabet |
@@ -98,9 +89,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **Syrioth** | Peuple Assyrhim | Syride |
 | **Lassym** | Peuple Lassymide | Lassyth |
 | **Shèmide** | Peuple Shème | Shèm |
-| **Ptolémique** | Peuple Ptolème | Ptolh |
-
-§§§
+| **Ptolémique** | Peuple Ptolème | Ptolh 
 
 
 ### Langues sacrées, anciennes et secrètes
@@ -113,9 +102,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 | **-** | Mages, Sorcer | Magus |
 | **Nayanide** | Nayane | Naya |
 | **Selmh** | Selmonite | Selmh |
-| **Sogh** | Peuple Sooghaï | - |
-
-§§§
+| **Sogh** | Peuple Sooghaï | - 
 
 ## Inspiration
 L'inspiration est une règle que le Narrateur peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.  

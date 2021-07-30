@@ -55,9 +55,7 @@ Pour rappel, toutes ces règles ne sont que des propositions et doivent être ad
 | **Modérée** | 16 |20 + 10xp/Pt de marge|
 | **Difficile** | 22 |50 + 25xp/Pt de marge|
 | **Très difficile** | 28 |100 + 50xp/Pt de marge|
-| **Presque impossible** | 35 |200 + 100xp/Pt de marge|
-
-§§§
+| **Presque impossible** | 35 |200 + 100xp/Pt de marge
 
 §§§ .hero
 ### Exemple de Gwion Gornoc, Ambeanamos et cueilleur de Cépates.  

@@ -66,9 +66,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 | **14-15** | +2 |
 | **16-17** | +3 |
 | **18-19** | +4 |
-| **20-21** | +5 |
-
-§§§
+| **20-21** | +5 
 
 ### Points d'Action
 Une fois le score et le modificateur de Constitution définis, il est possible de calculer les **Points d'Action (PA)** de départ de votre personnage. Les PA reflètent l'énergie et la forme physique du personnage, son aptitude à poursuivre le combat malgré la fatigue et la douleur. Pour plus de détails sur les points et les points d’action, ainsi que les notions de blessure, de soins et de fatigue, consultez le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage/).
@@ -138,6 +136,4 @@ Le tableau d'évolution des personnages ci-dessous vous indique le nombre de poi
 | **795000** | 27 | +8 |
 | **875000** | 28 | +8 |
 | **965000** | 29 | +9 |
-| **1100000** | 30 | +9 |
-
-§§§
+| **1100000** | 30 | +9 

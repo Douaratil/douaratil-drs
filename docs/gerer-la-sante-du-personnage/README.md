@@ -196,9 +196,7 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 | **3** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques et des sauvegardes |
 | **4** | Maximum de points d'action réduit de moitié |
 | **5** | Vitesse réduite à 0 |
-| **6** | Décès |
-
-§§§
+| **6** | Décès 
 
 Si une personne déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
 

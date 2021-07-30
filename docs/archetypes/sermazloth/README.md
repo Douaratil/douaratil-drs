@@ -19,9 +19,7 @@ title: Sermazloth
 |**15**|[Rage infernale (+3)](#rage-infernale)|
 |**16**|[Sororité infernale (+3)](#sororite-infernale)|  
 |**19**|[Attaque supplémentaire(3)](#attaque-supplementaire)|
-|**20**|[Rage infernale (+4)](#rage-infernale), [Véritable Sermazloth](#veritable-sermazloth)|
-
-§§§
+|**20**|[Rage infernale (+4)](#rage-infernale), [Véritable Sermazloth](#veritable-sermazloth)
 
 ## Aptitudes d'Archétype  
 En tant que Sermazloth, vous bénéficiez des aptitudes d'Archétype suivantes.

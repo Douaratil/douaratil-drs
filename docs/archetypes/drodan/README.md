@@ -15,9 +15,7 @@ title: Drodan
 |**14**|[Prédateur de l'hiver](#predateur-de-l-hiver)|
 |**18**|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale)](#incantation-animale)|
 |**19**|[Compagnon animal Aigle)](#compagnon-animal-aigle)|
-|**20**|[Archidruide](#archidruide), [Véritable Drodan](#veritable-drodan)|
-
-§§§
+|**20**|[Archidruide](#archidruide), [Véritable Drodan](#veritable-drodan)
 
 ## Aptitudes d'Archétype
 En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.

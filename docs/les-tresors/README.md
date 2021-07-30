@@ -542,9 +542,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**15**|**Munitions magiques **|
 |**16**|Broche|
 |**17**|Sac sans fond|
-|**18+**|Relancer sur [table 2](#objets-magiques-2)|
-
-§§§
+|**18+**|Relancer sur [table 2](#objets-magiques-2)
 
 
 #### Objets magiques 2
@@ -566,9 +564,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**15**|Gants|
 |**16**|Pierre|
 |**17**|Poussière|
-|**18+**|Relancer sur [table 3](#objets-magiques-3)|
-
-§§§
+|**18+**|Relancer sur [table 3](#objets-magiques-3)
 
 
 #### Objets magiques 3
@@ -589,9 +585,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**15**|carafe|
 |**16**|gemme|
 |**17**|huile|
-|**18+**|Relancer sur [table 4](#objets-magiques-4)|
-
-§§§
+|**18+**|Relancer sur [table 4](#objets-magiques-4)
 
 
 #### Objets magiques 4
@@ -615,9 +609,6 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**18+**|Relancer sur [table 5](#objets-magiques-5)|
 
 
-§§§
-
-
 #### Objets magiques 5
 
 
@@ -638,9 +629,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**15**|carafe|
 |**16**|gemme|
 |**17**|huile|
-|**18+**|Relancer sur [table 6](#objets-magiques-6)|
-
-§§§
+|**18+**|Relancer sur [table 6](#objets-magiques-6)
 
 
 #### Objets magiques 6
@@ -683,9 +672,7 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 |**15**|carafe|
 |**16**|gemme|
 |**17**|huile|
-|**18+**|Relancer sur [table 8](#objets-magiques-8)|
-
-§§§
+|**18+**|Relancer sur [table 8](#objets-magiques-8)
 
 
 #### Objets magiques 8
