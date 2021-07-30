@@ -179,7 +179,6 @@ Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élev�
 | **aristocratique** | 10 po minimum |
 
 
-
 §§§ .hero
 ##### Autosuffisance
 Les dépenses et les trains de vie décrits dans cette section ont été pensés en partant du principe que vous passez votre temps en ville entre deux aventures et profitez des ressources que vous pouvez vous payer : acheter de la nourriture, louer un logement, payer un artisan pour affûter votre épée et réparer votre armure, et ainsi de suite. Certains personnages préfèrent cependant passer leur temps loin de la civilisation et se débrouiller dans la nature en vivant de chasse et de cueillette et en réparant eux-mêmes leur équipement.

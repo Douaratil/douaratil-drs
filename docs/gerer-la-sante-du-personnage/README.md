@@ -21,8 +21,7 @@ Par exemple, un Beghelm permet à un Dall Dawnser de regagner 8 points d'action 
 Une créature morte ne peut pas regagner de point d'action.
 
 ### Blessures graves
-Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entrainent de façon durable des pénalités.   
-Une personne gravement blessée doit passer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entraînent de façon durable des pénalités.   
 Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
 
 | 3d6* | Effet ||
@@ -35,13 +34,30 @@ Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se ré
 * test non explosif
 
 
-§§§
-
-**Les conséquences des blessures graves**:
+#### Les conséquences génériques des blessures graves
 - 1 mètre de déplacement de pénalité par blessure non guérie.
 - Désavantage pour tous les tests de combats et les tests de caractéristiques impliquant la force ou la dextérité ainsi que les jets de sauvegarde.
 - Le maximum de point d’action est égal à la constitution quelque soit le niveau du blessé (cette conséquence ne s’applique qu’après un combat).
-- à la discrétion du Narrateur, une blessure grave peut entraîner un malus supplémentaire ou une perte continue de point d'action pour illustrer une fracture ou une hémorragie.  
+
+#### Type de blessure grave et rythme de guérison  
+
+Le type de blessure grave est tiré aléatoirement ou bien décidée par le Narrateur. Suivant le type de blessure, le test de guérison qui est un test de Constitution (et pas un jet de sauvegarde) d'un DD de 16 s'effectue entre les intervalles indiqués ci-dessous.  
+La blessure entraîne des limitation génériques comme vu ci-dessus et spécifiques comme indiqué ci-dessous dans le tableau.
+
+
+| 1d6 | Type de blessure |Durée avant les tests|limitations principales|test de volonté|
+|:-:|:-:|:-:|:-:|:-:|
+|1|Contusion|1 jour|Gros hématome, douloureux qui limite les mouvements|8|
+|2|écrasement|3 jours|Mouvement divisé par deux|12|
+|3|plaie|5 jours|Aucun mouvement brusque ou risque d'ouverture de la plaie avec hémorragie (1d6/rd)|16|
+|4|déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|
+|5|hémorragie|10 jours|Mouvements réduits au minimum ou risque d'hémorragie (2d6/rd)|22|
+|6|fracture|20 jours|Usage du membre impossible ou risque d'aggravation|28|
+
+Une personne gravement blessée doit passer un nombre de[_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+
+Certaines herbes et certains sorts ont des effets sur le rythme ou les conditions de guérison.  
+
 ### Tomber à 0 point de d’action ou coup critique
 Quand vous atteignez 0 point de d’action ou que vous subissez un coup critique (c’est à dire un montant de dégât supérieur à votre valeur de constitution en une seule fois), vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
 #### Mort instantanée
@@ -196,7 +212,7 @@ Certaines aptitudes et certains dangers environnementaux, comme la faim et les e
 | **3** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques et des sauvegardes |
 | **4** | Maximum de points d'action réduit de moitié |
 | **5** | Vitesse réduite à 0 |
-| **6** | Décès 
+| **6** | Décès
 
 Si une personne déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
 

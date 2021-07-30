@@ -2,8 +2,9 @@
 title: "Les poisons"
 ---
 # Les poisons
-Les poisons se divisent en quatre catégories.
+Les poisons se divisent en quatre catégories d'utilisation et
 
+## catégories d'utilisation
 **Contact**. Un poison agissant par contact s'applique sur un objet et reste efficace jusqu'à ce que quelqu'un le touche ou qu'on lave la surface de l'objet. Une créature souffre des effets de ce poison si ce dernier entre en contact avec une zone de peau à nu.
 
 **Ingestion**. Une créature doit avaler une dose entière de poison agissant par ingestion pour subir ses effets. On peut administrer cette dose en la camouflant au sein d'un liquide ou de nourriture. Vous pouvez estimer qu'une dose partielle a un effet restreint, se traduisant par exemple par un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou par des dégâts réduits de moitié en cas d'échec au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
@@ -12,23 +13,35 @@ Les poisons se divisent en quatre catégories.
 
 **Blessure**. Un poison agissant via une blessure s'applique sur une arme, une munition, un élément d'un piège ou tout autre objet infligeant des dégâts perforants ou tranchants. Le poison reste actif tant qu'il n'a pas affecté quelqu'un ou été lavé. Une créature est soumise aux effets du poison après avoir reçu des dégâts perforants ou tranchants via un objet enduit de ce type de poison.
 
+## Type de poisons
+
+**musculaire** un poison musculaire s'attaque aux muscles, le plus souvent sous forme de crampes douloureuses qui peuvent atteindre le cœur.  
+
+**respiratoire** un poison respiratoire s'attaque au système respiratoire et paralyse les fonctions d’assimilation de l'oxygène en créant souvent des embolies.  
+
+**circulatoire** un poison circulatoire agit sur les fluide du corps et particulièrement sur le système sanguin, créant des hémorragies.   
+
+**conversion** un poison de conversion convertit une partie affectée. Certaines araignées et créatures utilisent ce type de poison pour liquéfier leur proie et l'aspirer ensuite.   
+
 
 ## Les poisons
-| Objet | Type | Prix pour une dose |
+| Objet | utilisation |Type | Prix pour une dose |
 |:-|:-:|:-:|
-| [**Sang d'assassin**](#sang-d-assassin-ingestion) | ingestion | 150 po |
-| [**Fumées d'othur**](#fumees-d-othur-inhalation) | inhalation | 500 po |
-| [**Mucus de rampant**](#mucus-de-rampant-contact) | contact | 200 po |
-| [**Poison drow**](#poison-drow-blessure) | blessure | 200 po |
-| [**Essence éthérée**](#essence-etheree-inhalation) | inhalation | 300 po |
-| [**Malice**](#malice-inhalation) | inhalation | 250 po |
-| [**Larmes de minuit**](#larmes-de-minuit-ingestion) | ingestion | 1500 po |
-| [**Huile de taggit**](#huile-de-taggit-contact) | contact | 400 po |
-| [**Teinture pâle**](#teinture-pale-ingestion) | ingestion | 250 po |
-| [**Poison de ver pourpre**](#poison-de-ver-pourpre-blessure) | blessure | 2000 po |
-| [**Venin de serpent**](#venin-de-serpent-blessure) | blessure | 200 po |
-| [**Torpeur**](#torpeur-ingestion) | ingestion | 600 po |
-| [**Sérum de vérité**](#serum-de-verite-ingestion) | ingestion | 150 po |
+| [**Essence éthérée**](#essence-etheree-inhalation) | inhalation |respiratoire | 300 po |
+| [**Fumées d'othur**](#fumees-d-othur-inhalation) | inhalation |respiratoire | 500 po |
+| [**Huile de taggit**](#huile-de-taggit-contact) | contact |musculaire | 400 po |
+| [**Larmes de minuit**](#larmes-de-minuit-ingestion) | ingestion |circulatoire | 1500 po |
+| [**Malice**](#malice-inhalation) | inhalation | conversion | 250 po |
+| [**Mucus de rampant**](#mucus-de-rampant-contact) | contact | conversion | 200 po |
+| [**Poison Selmonite**](#poison-drow-blessure) | blessure |circulatoire | 200 po |
+| [**Poison de ver pourpre**](#poison-de-ver-pourpre-blessure) | blessure | conversion | 2000 po |
+| [**Sang d'assassin**](#sang-d-assassin-ingestion) | ingestion | circulatoire | 150 po |
+| [**Sérum de vérité**](#serum-de-verite-ingestion) | ingestion | circulatoire | 150 po |
+| [**Teinture pâle**](#teinture-pale-ingestion) | ingestion | respiratoire | 250 po |
+| [**Torpeur**](#torpeur-ingestion) | ingestion | musculaire | 600 po |
+| [**Venin de serpent**](#venin-de-serpent-blessure) | blessure | musculaire| 200 po |
+
+
 | [**Poison de vouivre**](#poison-de-vouivre-blessure) | blessure | 1200 po |
 
 ## Exemples de poisons
@@ -58,7 +71,7 @@ Ce poison se récolte sur un ver pourpre mort ou [_neutralisé_](/gerer-la-sante
 ### Poison de vouivre (blessure)
 Ce poison se récolte sur une vouivre morte ou [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Si elle échoue, elle subit 7d6 dégâts de poison, la moitié seulement si elle réussit.
 
-### Poison drow (blessure)
+### Poison Selmonite (blessure)
 En règle générale, les drows sont les seuls à fabriquer ce poison et seulement en des lieux très éloignés de la lumière du soleil. Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Si elle rate son jet de 5 ou plus, elle est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) tout le temps que dure l'empoisonnement. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
 
 ### Sang d'assassin (ingestion)

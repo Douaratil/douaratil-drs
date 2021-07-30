@@ -123,6 +123,7 @@ Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.
 |**Armure lourde**|10 minutes|5 minutes|
 |**Bouclier**|1 action|1 action|
 
+
 §§§ .hero
 ## Option : Encombrement des armures
 Par défaut, les règles imposent très peu de malus pour le port des armures. Toutefois, si le MJ le souhaite, il peut utiliser cette règle optionnelle ; elle correspond à une vision plus contraignante et réaliste des inconvénients d'une armure.

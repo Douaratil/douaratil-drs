@@ -581,6 +581,6 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 **Facteur d'addiction** : très important (5)
 
 **Utilisation**  
-La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
+La feuille de Ul'thazah est utilisée principalement pour ses hautes qualités antitoxiques.  
 *Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul'thazah pour créer ce puissant antidote contre toutes formes de poisons. La préparation doit être ingérée. L'antidote permet de guérir toute forme de poison d'un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.    
 Valeur : 430 pièce d’or la dose.   

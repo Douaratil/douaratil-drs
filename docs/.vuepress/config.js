@@ -527,13 +527,18 @@ module.exports = {
         children: [
           {
             title: "Chronologie",
-            icon: 'mdi-hourglass',
-            path: 'https://www.tiki-toki.com/timeline/entry/1695352/Chronologie-Douaratil/'
+            icon: 'mdi-timer-sand',
+            path: '/chronologie'
           },
           {
             title: "Dieux, Divinités & autres forces",
             icon: 'mdi-shuriken',
             path: '/dieux-divinites'
+          },
+          {
+            title: "Inspiration mysicale",
+            icon: 'mdi-music',
+            path: '/inspimusic'
           },
           {
             title: "Les peuples",
@@ -617,6 +622,7 @@ module.exports = {
               }
             ]
     }
+
         ]
       },
       {type: 'divider'},
