@@ -58,7 +58,7 @@ Le personnage possède un patrimoine important qui peut comprendre plusieurs fer
 *Investissement: 32 000 pièces d'or*  
 Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
 
-§§§ .table-container
+
 |Table de fluctuation économique|||
 |4d6*|évènements économiques|Résultat|
 |:-:|:-:|:-:|
@@ -69,12 +69,12 @@ Le personnage a un patrimoine très important et est reconnu par tous pour cela.
 |20-23|très bon|Revenus triplés|
 |24|Exceptionnel|Revenus multipliés par dix|
 * Les dés ne sont pas explosifs
-§§§
+
 
 ## Table des jets familiaux  
 Les évènements familiaux se jettent sur une première table qui indique ensuite quelle table suivante il faut utiliser pour obtenir le résultat.  
 
-§§§ .table-container
+
 |Table des évènements familiaux||
 |4d6*|évènements familiaux|
 |:-:|:-:|
@@ -85,9 +85,9 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |20-23|Patrimoine avec un bonus de +1|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des évènements liés à la santé||
 |4d6*|évènements familiaux|
 |:-:|:-:|
@@ -98,9 +98,9 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |20-23|Assassinant (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des évènements liés à l'honneur||
 |4d6*|évènements familiaux|
 |:-:|:-:|
@@ -111,9 +111,9 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |20-23|Rumeur de meurtre (2-6 reçoit 1d6 x 150 po, 7-11 paie 1d6 x 150po, 12 pas d'arrangement vendetta.)|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés ne sont pas explosifs sauf pour déterminer les montants
-§§§
 
-§§§ .table-container
+
+
 |Table des évènements liés au patrimoine||
 |4d6*|évènements familiaux|
 |:-:|:-:|
@@ -125,7 +125,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |24|6000 PO de revenu|
 * Les dés ne sont pas explosifs
 * Remarquez que contrairement aux évènements économiques, les évènements liés au patrimoine ne peuvent jamais être négatifs. Ces richesses viennent souvent d'héritage ou d'alliances.   
-§§§
+
 
 ## Autres notions de La famille  
 La famille est une cellule très importante pour le personnage et joue un rôle central dans sa vie hors aventure. Il y trouve secours et assistance. La famille s'entend à plusieurs niveaux. Il y a d'abord la famille nucléaire avec la femme ou le mari ainsi que les enfants. Dans les sociétés de Douaratil, il n'est pas rare que plusieurs générations vivent sous le même toit. Il y a ensuite la famille un peu plus éloignées souvent à quelques jours de marche. Ce sont les cousins et cousines, les oncles et tantes. Cette famille a des relations et permet d'élargir le champs d'influence du personnage. Cela intervient par exemple dans les levées.  
@@ -153,7 +153,7 @@ Si pour différentes raison, l'host est convoquée plus d'une fois par saison, c
 Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre Goulvening Moisan, il lève son Host personnelle (et fait aussi appel à ses vassaux). Mais après la première défaite, un clan allié se rebelle. Gaenor est obligé de remobiliser ses troupes pour aller châtier les traîtres. La lune suivante, il appelle son host mais sur la table du **patrimoine normal**. Si lors de la prochaine lune, il souhaite remobiliser ses troupes pour continuer ses actes belliqueux, il devra définir son host suivant le tableau de **patrimoine faible**.  
 §§§
 
-§§§ .table-container
+
 |Table des levée des troupes | |
 |4d6*|Patrimoine très faible|
 |:-:|:-:|:-:|
@@ -164,9 +164,9 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |20-23|1d6 x 5 fantassins lourds, 1d6 éclaireurs, 1d6 archers, 1d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés de la colonne verticale ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des levée des troupes | |
 |4d6*|Patrimoine faible|
 |:-:|:-:|:-:|
@@ -177,9 +177,9 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |20-23|2d6 x 5 fantassins lourds, 2d6 éclaireurs, 2d6 archers, 2d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés de la colonne verticale ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des levée des troupes | |
 |4d6*|Patrimoine normal|
 |:-:|:-:|:-:|
@@ -190,9 +190,9 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |20-23|3d6 x 5 fantassins lourds, 3d6 éclaireurs, 3d6 archers, 3d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés de la colonne verticale ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des levée des troupes | |
 |4d6*|Patrimoine important|
 |:-:|:-:|:-:|
@@ -203,9 +203,9 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |20-23|4d6 x 5 fantassins lourds, 4d6 éclaireurs, 4d6 archers, 4d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés de la colonne verticale ne sont pas explosifs
-§§§
 
-§§§ .table-container
+
+
 |Table des levée des troupes | |
 |4d6*|Patrimoine très important|
 |:-:|:-:|:-:|
@@ -216,7 +216,7 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |20-23|5d6 x 5 fantassins lourds, 5d6 éclaireurs, 5d6 archers, 5d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
 * Les dés de la colonne verticale ne sont pas explosifs
-§§§
+
 
 **Note** :  
 Les cavaliers légers sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court. Ils chevauchent un cheval de guerre léger.  

@@ -52,7 +52,7 @@ Les caractéristiques augmenteront ensuite régulièrement avec la progression d
 ### Valeurs et modificateurs
 Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
 
-§§§ .table-container
+
 #### Table des modificateurs
 
 | Valeur | Modificateur |
@@ -104,7 +104,7 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
-§§§ .table-container
+
 ## Évolution des personnages
 
 | Points d'expérience | Niveau | Bonus de maîtrise |

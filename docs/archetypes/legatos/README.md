@@ -4,7 +4,7 @@ title: Legatos
 # Legatos
 
 ## Évolution du Legatos
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Le choix des armes](#le-choix-des-armes)|
@@ -19,7 +19,6 @@ title: Legatos
 |**18**|[Troisième attaque](#troisieme-attaque)|
 |**19**|[Infaillible](#infaillible)|
 |**20**|[Véritable Legatos](#veritable-legatos)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.

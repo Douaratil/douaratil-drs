@@ -4,7 +4,7 @@ title: Nayane
 # Nayane
 
 ## Évolution du Nayane
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Langues universelles](#langues-universelles), [Santé surnaturelle](#sante-surnaturelle)|
@@ -21,7 +21,6 @@ title: Nayane
 |**17**|[Sang empoisonné](#sang-empoisonne)|
 |**19**|[Intouchable (3-6)](#intouchable)|
 |**20**|[Parangon de mort](#parangon-de-mort),[Véritable Nayane](#veritable-nayane)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -62,14 +61,13 @@ A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des ca
 **En Selm : Issessessassa**  
 A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper vigilante, rapide et insensible à la douleur. Pendant une durée égale à 1d6 + son bonus de sagesse, la Nayane obtient une invulnérabilité de 6 sur 1d6. C'est à dire qu'à chaque coup sensé l'atteindre, il faut lancer 1d6 et si un 6 est obtenu, le coup est ignoré (Il est toujours possible de l'esquiver ou de le parer avec les règles normales de [_réactions défensives_](/combattre/#reaction-defensive). Cette capacité évolue avec le niveau de la Nayane.
 
-§§§ .table-container
+
 |Niveau|Intouchable sur 1d6|
 |:-:|:-:|
 |**7**|6|
 |**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
-§§§
 Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).
 
 ### Imparable  

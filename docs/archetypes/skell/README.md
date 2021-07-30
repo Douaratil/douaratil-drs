@@ -4,7 +4,7 @@ title:  Skell
 #  Skell
 
 ## Évolution du  Skell
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Expert](#expert)|
@@ -21,7 +21,6 @@ title:  Skell
 |**17**|[Compagnon animal second loup](#compagnon-animal-second-loup ), [Critique brutal (+3d6)](#critique-brutal)|
 |**19**|[Troisième Attaque ](#troisieme-attaque )|
 |**20**|[Véritable Skell](#veritable-skell)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que  Skell, vous bénéficiez des aptitudes d'Archétype suivantes.

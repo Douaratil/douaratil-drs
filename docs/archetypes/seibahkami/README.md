@@ -4,7 +4,7 @@ title: Seibahkami
 # Seibahkami
 
 ## Évolution du Seibahkami
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Détermination](#determination)|
@@ -21,7 +21,6 @@ title: Seibahkami
 |**18**|[Tir puissant (+3d6)](#tir-puissant)|
 |**19**|[Frappe divine](#frappe-divine)|
 |**20**|[Coup parfait (+4d6)](#coup-parfait), [Véritable Seibahkami](#veritable-seibahkami)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Seibahkami, vous bénéficiez des aptitudes d'Archétype suivantes.

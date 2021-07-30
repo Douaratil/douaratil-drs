@@ -10,7 +10,7 @@ Pour les créatures les plus simples, celles qui n'ont pas d'aptitude particuli�
 Si vous souhaitez donner des aptitudes puissantes (actions légendaires, résistance légendaire, etc.) ou des niveaux de lanceur de sort à votre créature, reportez-vous à la fin de ce chapitre, aux deux paragraphes intitulés [_Aptitudes particulières et ID_](#aptitudes-particulieres-et-id) et [_Lanceurs de sort et ID_](#lanceurs-de-sorts-et-id).
 
 ## Table des profils techniques selon l'ID
-§§§ .table-container
+
 |ID|PC|VD|PA|VD basse<br>(PA hauts)|VD haute<br>(PA bas)|Attaque|Bonus de maîtrise|DD|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**0**|1|11|1| | |+2|+2|10|
@@ -43,7 +43,6 @@ Si vous souhaitez donner des aptitudes puissantes (actions légendaires, résist
 |**24**|1240|23|550|21-610|25-480|+18|+8/+9|22|
 |**25**|1450|24|600|22-660| |+19|+9|22|
 |**26**|1700|25|675|23-750| |+19|+9|23|
-§§§
 
 ### Indice de dangerosité et Points de combat (PC)
 Les deux premières colonnes de la table des profils techniques correspondent à des indicateurs de la puissance d'une créature. L'indice de dangerosité permet de savoir rapidement à quel niveau de PJ correspond une créature unique, ce paramètre est indiqué pour chaque créature du bestiaire. Il permet de déterminer les points d'expérience correspondants et toutes les autres caractéristiques de la créature. La deuxième colonne indique les points de combat (PC), un indice supplémentaire plus précis qui sert à créer des rencontres équilibrées de plusieurs créatures. Il est rappelé ici, car il est aussi utilisé pour calculer la dangerosité d'une créature dotée de niveaux de lanceur de sort.
@@ -75,7 +74,7 @@ Nous vous conseillons plutôt la première méthode. Les créatures n'ont pas vo
 ### Valeurs et modificateurs
 Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
 
-§§§ .table-container
+
 #### Table des modificateurs
 
 | Valeur | Modificateur |
@@ -95,7 +94,6 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 | **26-27** | +8 |
 | **28-29** | +9 |
 | **30** | +10 |
-§§§
 
 ### Sauvegardes et compétences
 Vous pouvez enfin choisir quelques maîtrises pour votre créature : compétences et sauvegardes. Si la créature est spécialisée dans un domaine, vous pouvez doubler son bonus de maîtrise lorsque vous calculez son score de compétence. Toutefois n'abusez pas de ces scores annexes, la plupart des créatures n'ont accès qu'à une ou deux compétences, et beaucoup de créatures faibles ne maîtrisent aucune sauvegarde, tandis que les plus puissantes en maîtrisent jusqu'à quatre (dragon adulte ou vénérable, par exemple).
@@ -136,7 +134,7 @@ Lorsque vous développez une telle créature, le score d'attaque indiqué dans l
 Pour terminer, nous vous conseillons vivement d'éviter de donner à une créature un niveau de lanceur de sort dont le coût dépasse les deux tiers du montant total des PC de la créature. Ses points d'action seront trop faibles par rapport à son ID final et la créature sera vaincue sans pouvoir révéler son plein potentiel, à moins qu'elle ne soit dans des conditions particulières (par exemple d'autres créatures pour la protéger).
 
 #### Table de coût de PC pour des niveaux de lanceur de sort.
-§§§ .table-container
+
 |Niveau de lanceur de sort|PC|
 |:-:|:-:|
 |**1**|2|
@@ -159,4 +157,3 @@ Pour terminer, nous vous conseillons vivement d'éviter de donner à une créatu
 |**18**|160|
 |**19**|180|
 |**20**|200|
-§§§

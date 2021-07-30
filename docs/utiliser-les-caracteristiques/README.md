@@ -19,7 +19,7 @@ Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais
 
 À chaque caractéristique correspond un modificateur. Ces modificateurs vont de -5 (pour une valeur de caractéristique de 1) à +10 (pour une valeur de caractéristique de 30). Vous pouvez trouver la liste des modificateurs de caractéristiques en fonction des valeurs (entre 1 et 30) dans le tableau ci-dessous.
 
-§§§ .table-container
+
 ### Valeurs de caractéristiques et modificateurs
 
 | Valeur | Modificateur |
@@ -41,7 +41,7 @@ Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais
 | **28-29** | +9 |
 | **30** | +10 |
 
-§§§
+
 
 Pour déterminer un modificateur de caractéristique sans consulter le tableau, soustrayez 10 à la valeur de la caractéristique puis divisez le total par deux (en arrondissant à l'entier inférieur).
 
@@ -72,7 +72,7 @@ Un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteri
 Pour chaque [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), le MJ décide laquelle des six caractéristiques est la plus pertinente en fonction de la situation, et la difficulté de la tâche à accomplir, qui est représentée par un degré de difficulté (DD). Plus une tâche est difficile, plus son DD est élevé. Vous pouvez consulter le [tableau des degrés de difficulté typiques](#degres-de-difficulte-typiques) pour avoir une idée de l'échelle des DD les plus courants.
 
 ### Degrés de difficulté typiques
-§§§ .table-container
+
 | Difficulté de l'action | DD |
 |:-|:-:|
 | **Très facile** | 8 |
@@ -82,7 +82,7 @@ Pour chaque [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-
 | **Très difficile** | 28 |
 | **Presque impossible** | 35 |
 
-§§§
+
 
 Pour faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), lancez 3d6 et ajoutez le modificateur de caractéristique approprié. Comme pour tous les autres jets de 3d6, appliquez les bonus et malus et comparez le total au DD. Si le total est supérieur ou égal au DD, le [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) est un succès : la créature a réussi à surmonter le défi auquel elle était confrontée. Sinon, c'est un échec, ce qui signifie que le personnage ou l'adversaire ne progresse pas vers son objectif ou qu'il progresse, mais avec un effet négatif déterminé par le MJ.
 

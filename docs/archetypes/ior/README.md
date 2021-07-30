@@ -4,7 +4,7 @@ title: Ior
 # Ior
 
 ## Évolution du Ior
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Rage de Teutès](#rage-de-teutes)|
@@ -18,7 +18,6 @@ title: Ior
 |**15**|[Attaque supplémentaire](#attaque-supplementaire)|
 |**16**|[Rage Indomptable de Teutès](#rage-indomptable-de-teutes)|
 |**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Ior](#veritable-ior)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.

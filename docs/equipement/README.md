@@ -12,7 +12,7 @@ En plus de ces pièces courantes, les aventuriers trouvent parfois des pièces r
 
 Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500 grammes.
 
-§§§ .table-container
+
 ## Taux d'échange standard
 | Pièce | PC | PA | PE | PO | PP |
 |:-|:-:|:-:|:-:|:-:|:-:|
@@ -21,7 +21,6 @@ Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500
 | **Électrum (PE)** | 50 | 5 | 1 | 1/2 | 1/20 |
 | **Or (PO)** | 100 | 10 | 2 | 1 | 1/10 |
 | **Platine (PP)** | 1000 | 100 | 20 | 10 | 1 |
-§§§
 
 # Armures
 Le [tableau des armures](#tableau-des-armures) indique le prix, le poids et toute autre propriété des armures couramment portées dans le jeu.
@@ -42,7 +41,7 @@ Si le tableau des armures indique « [_désavantage_](/utiliser-les-caracteristi
 Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouclier, mais seuls ceux qui ont la maîtrise des armures savent comment en exploiter toutes les spécificités. Votre classe vous permet de maîtriser certains types d'armures. Si vous portez une armure que vous ne maîtrisez pas, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), jets de sauvegarde ou d'attaque qui prennent en compte la Force ou la Dextérité, et vous ne pouvez pas lancer de sort.
 
 ## Tableau des armures
-§§§ .table-container
+
 |Armure|Prix|Valeur de Défense (VD) |Force|Discrétion|Poids|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |**Armures légères**|||||
@@ -62,7 +61,6 @@ Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouc
 |[Armure à plaques](#armure-a-plaques)|1500 po|+8|For 15|Désavantage|32,5 kg|
 |**Bouclier**||||||
 |Bouclier|10 po|+2|-|-|3 kg|
-§§§
 
 ## Armures légères
 Les armures légères sont faites de matériaux souples et fins. Elles sont adaptées à la tous les types de personnages agiles dans la mesure où elles offrent une protection sans sacrifier leur mobilité. Elles sont maîtrisées par la Voie des Armes et la Voie des Ombres.  
@@ -117,14 +115,13 @@ Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.
 **Retirer**. C'est le temps nécessaire pour ôter une armure. Si vous êtes aidé, vous pouvez diviser cette durée par deux.
 
 ### Enfiler et retirer une armure
-§§§ .table-container
+
 |Catégorie|Enfiler|Retirer|
 |:-|:-:|:-:|
 |**Armure légère**|1 minute|1 minute|
 |**Armure intermédiaire**|5 minutes|1 minute|
 |**Armure lourde**|10 minutes|5 minutes|
 |**Bouclier**|1 action|1 action|
-§§§
 
 §§§ .hero
 ## Option : Encombrement des armures
@@ -203,7 +200,7 @@ Quand vous utilisez une action, une action bonus ou une réaction pour attaquer 
 Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous utilisez une lance d'arçon contre une créature qui se trouve dans un rayon de 1,50 mètre autour de vous ou moins. Cette arme se manie à deux mains quand vous n'êtes pas sur une monture.
 
 ## Tableau des armes
-§§§ .table-container
+
 |Nom|Prix|Dégâts|Poids|Propriétés|
 |:-|:-:|:-:|:-:|:-|
 |**Armes de corps-à-corps courantes**|||||
@@ -245,12 +242,11 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Arc composite|50 po|+6 perforant|1 kg|Munitions (portée 30/120), lourde, à deux mains|
 |Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|
 |Sarbacane|10 po|+1 perforant|0,5 kg|Munitions (portée 7,5/30), chargement|
-§§§
 
 # Équipement d'aventurier
 Vous trouverez dans cette section des objets qui ont des règles spéciales ou dont l'utilisation nécessite des explications.
 
-§§§ .table-container
+
 |Objet|Prix|Poids|
 |:-|:-:|:-:|
 |**Acide (fiole)**|25 po|0,5 kg|
@@ -351,7 +347,6 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |&nbsp;&nbsp;Habits de bonne qualité|15 po|3 kg|
 |&nbsp;&nbsp;Robes|1 po|2 kg|
 |&nbsp;&nbsp;Tenue de voyageur|2 po|2 kg|
-§§§
 
 ## Acide
 Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous avec le contenu de cette fiole ou bien la lancer jusqu'à une distance de 6 mètres. La fiole se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'acide doit être considéré comme une arme improvisée. Si vous touchez votre cible, celle-ci reçoit 2d6 dégâts acides.
@@ -470,7 +465,7 @@ Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 
 Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de Sagesse (Médecine).
 
 ## Capacité des récipients
-§§§ .table-container
+
 |Récipient|Capacité|
 |:-|:-|
 |**Bouteille**|0,75 L de liquide|
@@ -511,7 +506,7 @@ Paquetage d'exploration souterraine (12 po). Comprend un sac à dos, un pied-de-
 # Outils
 Des outils vous aident à faire quelque chose que vous ne pouvez pas faire normalement, comme fabriquer ou réparer un objet, falsifier un document ou crocheter une serrure. Votre ethnie, votre archétype, votre historique ou vos dons vous accordent la maîtrise de certains outils. Maîtriser un outil vous permet d'ajouter votre bonus de maîtrise à n'importe quel [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) que vous faites quand vous utilisez cet outil. L'utilisation d'un outil n'est pas liée à une unique caractéristique dans la mesure où la maîtrise d'un outil représente une connaissance approfondie de son utilisation. Par exemple, le MJ peut vous demander de faire un test de Dextérité pour graver des détails avec vos outils de menuisier, ou un test de Force afin de pouvoir travailler un bois particulièrement résistant.
 
-§§§ .table-container
+
 |Objet|Prix|Poids|
 |:-|:-:|:-:|
 |**Instruments de musique**|||
@@ -552,7 +547,6 @@ Des outils vous aident à faire quelque chose que vous ne pouvez pas faire norma
 |&nbsp;&nbsp;Outils de tanneur|5 po|2,5 kg|
 |&nbsp;&nbsp;Outils de tisserand|10 po|2,5 kg|
 |**Outils de voleur**|25 po|0,5 kg|
-§§§
 
 ### Instruments de navigation
 Cet ensemble d'instruments est utilisé pour naviguer en mer. Si vous en maîtrisez l'utilisation, vous pouvez lire une carte et planifier le trajet d'un bateau. Ces outils vous permettent aussi d'ajouter votre bonus de maîtrise à tout [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) que vous faites pour éviter de vous perdre en mer.
@@ -588,7 +582,7 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 **Selle**. Une selle militaire offre un support à un cavalier et l'aide à conserver son assise sur une monture au cœur d'une bataille. Elle lui donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests qu'il fait pour rester en selle.
 
 ## Montures et autres animaux
-§§§ .table-container
+
 | Animal | Prix | Vitesse | Capacité de charge |
 |:-|:-:|:-:|:-:|
 | **Âne ou mule** | 8&nbsp;po | 12&nbsp;m | 210&nbsp;kg |
@@ -599,10 +593,9 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | **Éléphant** | 200&nbsp;po | 12&nbsp;m | 660&nbsp;kg |
 | **Molosse** | 25&nbsp;po | 12&nbsp;m | 97,5&nbsp;kg |
 | **Poney** | 30&nbsp;po | 12&nbsp;m | 112,5&nbsp;kg |
-§§§
 
 ## Équipement, sellerie et véhicules à traction
-§§§ .table-container
+
 | Objet | Prix | Poids |
 |:-|:-:|:-:|
 | **Barde** | x4 | x2 |
@@ -620,10 +613,9 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | &nbsp;&nbsp;exotique | 60&nbsp;po | 20&nbsp;kg |
 | &nbsp;&nbsp;militaire | 20&nbsp;po | 15&nbsp;kg |
 | **Traîneau** | 20&nbsp;po | 150&nbsp;kg |
-§§§
 
 ## Bateaux
-§§§ .table-container
+
 | Véhicule | Prix | Vitesse |
 |:-|:-:|:-:|
 | **Barge** | 3000&nbsp;po | 1,4&nbsp;km/h |
@@ -632,13 +624,12 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | **Drakkar** | 10000&nbsp;po | 5&nbsp;km/h |
 | **Galère** | 30000&nbsp;po | 6,5&nbsp;km/h |
 | **Navire de guerre** | 25000&nbsp;po | 4&nbsp;km/h |
-§§§
 
 # Marchandises
 Vous pouvez voir dans le [tableau des marchandises](#marchandises) la valeur des marchandises qui servent couramment de monnaie d'échange.
 
 ## Marchandises
-§§§ .table-container
+
 | Prix | Marchandises |
 |:-:|:-|
 | **1&nbsp;pc** | 1 livre de blé |
@@ -654,7 +645,6 @@ Vous pouvez voir dans le [tableau des marchandises](#marchandises) la valeur des
 | **15&nbsp;po** | 1 livre de safran ou un bœuf |
 | **50&nbsp;po** | 1 livre d'or |
 | **500&nbsp;po** | 1 livre de platine |
-§§§
 
 _Une livre est environ égale à 0,5&nbsp;kg._
 
@@ -675,7 +665,7 @@ Les lanceurs de sorts ne rentrent pas dans la même catégorie que les employés
 Dans une petite ville, il sera assez facile de trouver des gens volontaires pour lancer des sorts relativement courants de novice, comme soin des blessures ou identification, en échange d'un salaire entre 10 et 50 po en plus du coût de toute composante matérielle chère. Il faudra sûrement voyager jusqu'à une grande ville, avec une université ou un temple important, pour trouver quelqu'un qui accepte de lancer un sort d'un niveau plus élevé. Une fois que vous avez trouvé le lanceur de sort, celui-ci peut par contre vous demander une faveur en guise de paiement, le genre de service que seuls des aventuriers sont en mesure de rendre, comme récupérer un objet rare détenu par des gens dangereux ou traverser une région infestée de monstres pour livrer quelque chose d'important à une communauté lointaine.
 
 ## Nourriture, boisson et logement
-§§§ .table-container
+
 | Objet | Prix |
 |:-|:-:|
 | **Banquet (par personne)** | 10 po |
@@ -702,10 +692,9 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 | **Vin** | |
 | &nbsp;&nbsp;Ordinaire (cruche) | 2 pa |
 | &nbsp;&nbsp;Raffiné (bouteille) | 10 po |
-§§§
 
 ## Services
-§§§ .table-container
+
 | Service | Prix |
 |:-|:-:|
 | **Employé** | |
@@ -717,4 +706,3 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 | &nbsp;&nbsp;Dans une ville | 1 pc |
 | &nbsp;&nbsp;Entre deux villes | 2 pc par kilomètre |
 | **Voyage maritime** | 7 pc par kilomètre |
-§§§

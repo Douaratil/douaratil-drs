@@ -23,7 +23,7 @@ classes:
 
 Vous voyez et entendez une créature donnée de votre choix, à condition qu'elle se trouve sur le même plan d'existence que vous. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, modifié par le degré de connaissance que vous avez d'elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle veut que vous l'observiez.
 
-§§§ .table-container
+
 |Connaissance|Modificateur du jet de sauvegarde|
 |:-|:-:|
 |Deuxième main (vous avez entendu parler de la cible)|+5|    
@@ -31,7 +31,7 @@ Vous voyez et entendez une créature donnée de votre choix, à condition qu'ell
 |Familière (vous connaissez bien la cible)|-5|    
 §§§
 
-§§§ .table-container
+
 |Lien|Modificateur du jet de sauvegarde|
 |:-|:-:|
 |Représentation ou portrait|-2|    

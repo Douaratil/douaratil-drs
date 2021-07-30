@@ -24,7 +24,7 @@ Une créature morte ne peut pas regagner de point d'action.
 Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entrainent de façon durable des pénalités.   
 Une personne gravement blessée doit passer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) par blessure grave encaissée avant de pouvoir commencer sa convalescence. Une fois cette période de guérison passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
-§§§ .table-container
+
 | 3d6* | Effet ||
 |:-:|:-:|:-|
 |3-4| Tête|  (3-4 Front, 5-6 nez, 7-8 joue droite, 9-10 joue gauche, 11-12 oreille droite, 13-14 oreille gauche, 15-16 cou,17-18 crâne)  |
@@ -50,13 +50,13 @@ Dans le cadre d’un coup reçu alors que la cible est à 0 points d’action, u
 D’autre part, pour chaque blessure grave reçue, des pénalités s’appliqueront tant qu’elles ne seront pas totalement guéries (voir section blessure grave).  
 Par exemple, une guerrier a un nombre de points d'action maximum de 12. Il lui reste actuellement 6 points d'action. Si il subit 18 dégâts suite à une attaque, il tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. 12 est donc le DD pour résister.   
 
-§§§ .table-container
+
 |Type| Dégats| test nécessaire |Effet|
 |:-:|:-:|:-:|:-:|
 |Coup critique|Si dégâts > à valeur de constitution| JS CON > Dégâts reçus|Si échec perte de conscience (1d6 rd) / Si échec > 10 Mort|
 |Dégâts cumulés|Si PA = ou  < à 0 |JS CON > Dégâts reçus cumulés du round à chaque coups reçus |Si échec perte de conscience (1d6 rd)/ Si échec > 10 Mort|
 **Le personnage récupère un nombre de PA/round = à sa valeur de CONstitution (sans dépasser 0)**
-§§§
+
 
 #### Perdre conscience
 Si les dégâts que vous subissez vous font tomber à 0 point d’action mais ne vous tuent pas par **un échec au DD de dégâts compris entre 10 et 1**, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle pourra agir immédiatement.   
@@ -187,7 +187,7 @@ Les états suivants pourraient aussi affecter votre personnage. Tout comme les �
 ### Fatigue et épuisement
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l'épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d'épuisement, comme indiqué dans la description de chaque effet.
 
-§§§ .table-container
+
 
 | Niveau | Effet |
 |:-:|:-|

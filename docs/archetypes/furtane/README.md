@@ -4,7 +4,7 @@ title: Fürtane
 # Fürtane  
 
 ## Évolution de la Fürtane
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Combat à deux armes](#combat-a-deux-armes)|
@@ -20,7 +20,6 @@ title: Fürtane
 |**17**|[Furie indomptable](#furie-indomptable)|
 |**19**|[Cercle de la mort implacable](#cercle-de-la-mort-indomptable)|
 |**20**|[Mère louve](#mere-louve), [Véritable Fürtane](#veritable-furtane)|
-§§§
 
 ## Aptitudes d'Archétype  
 En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.  

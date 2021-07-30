@@ -4,7 +4,7 @@ title: "Sorser"
 # Sorser
 
 ## Évolution du Sorser
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Canal arcanique](#canal-arcanique)|
@@ -14,7 +14,6 @@ title: "Sorser"
 |**10**|[Pas brumeux(2)](#pas-brumeux) |
 |**15** |[Pas brumeux(3)](#pas-brumeux) |
 |**20**|[Véritable Sorser](#veritable-sorser), [Pas brumeux(4)](#pas-brumeux) |
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.

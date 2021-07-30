@@ -20,7 +20,7 @@ Le domaine est géré par le personnage. Comme les tests familiaux et économiqu
 Le domaine, au départ, n'est qu'un unique bâtiment battu par les vents. Il est souvent placé en haut d'une petite colline et surplombe l'espace qui est sous la responsabilité du personnage.  
 Le maître du domaine voudra sûrement, s'il en a les moyens, améliorer sa vie quotidienne et son prestige. Pour cela il peut choisir de rajouter des "options" comme il est indiqué ci-dessous. Dans le domaine, il faut distinguer deux entités. La première est le bâtiment principal et ses annexes. C'est en réalité la demeure du seigneur des lieux. Il y a ensuite les bâtiments et les ressources du domaine qui se regroupent à quelques lancer de pierre du bâtiment principal. Pour résumer, un château et un village.  
 
-§§§ .table-container
+
 |Table du bâtiment principal & des annexes | (le château)|||
 |Type|Coûts|Personnel| Détails|
 |:-:|:-:|:-:|:-:|
@@ -43,10 +43,10 @@ Le maître du domaine voudra sûrement, s'il en a les moyens, améliorer sa vie 
 |Pigeonnier|500 po|Sans|A la charge de la maîtresse de maison et de sa suivante|
 |Sortie secrète|7000 po|Sans|Passage connu uniquement par le seigneur du domaine|
 * Les revenus sont entendus, charges et autres impôts déduits.
-§§§
+
 Chaque élément de s'acquière qu'une seule fois, exception faite des chambres d'invités. Il est possible d'en ajouter une ou deux supplémentaire dans la bâtisse principale.  
 
-§§§ .table-container
+
 |Table des bâtiments & des ressources du domaine |(le bourg)||||
 |Type|Coûts|Revenus|Personnel| Détails|
 |:-:|:-:|:-:|:-:|:-:|
@@ -66,7 +66,7 @@ Chaque élément de s'acquière qu'une seule fois, exception faite des chambres 
 |Etable|1000 po|2d6 po|Une famille|S'occupe des troupeaux de bovins|
 |Bergerie|1000 po|2d6 pa|Une famille|S'occupe des troupeaux de ovins|
 * Les revenus sont entendus, charges et autres impôts déduits.
-§§§
+
 Chaque élément de s'acquière qu'une seule fois, exception faite des fermes qui peuvent être acquises jusqu'au un nombre maximum de 10 + bonus de charisme du personnage.  
 
 ## Avantage concret du développement

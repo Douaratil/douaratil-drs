@@ -47,7 +47,7 @@ Durant les parties, une grande partie de l'expérience peut venir de la capacit�
 Pour rappel, toutes ces règles ne sont que des propositions et doivent être adaptée ou disciminée par le Narrateur suivant le rythme de progression qu'il souhaite donner à sa campagne. 
 
 ### Degrés de difficulté typiques
-§§§ .table-container
+
 | Difficulté de l'action | DD |XP|
 |:-|:-:|:-:|
 | **Très facile** | 8 |1XP/Pt de marge|
@@ -68,7 +68,7 @@ Une fois qu'il a sa récolte, il peut travailler sa matière première pour en f
 ### Apprendre des sorts  
 Apprendre des sorts est aussi un bon moyen d'acquérir de l'expérience. L'investissement en temps et en richesse n'est pas négligeable. Cet investissement est récompensé en expérience. Cette approche permet de palier au fait que des personnages non lanceur de sorts investiront différemment leurs richesse et leur temps entre les parties. Le gain d'expérience correspond à l'investissement en or, non modifié par la voie.
 
-§§§ .table-container
+
 |Type|Gain d'expérience|
 |:-:|:-:|
 |Novice|50 XP|
@@ -77,13 +77,12 @@ Apprendre des sorts est aussi un bon moyen d'acquérir de l'expérience. L'inves
 |Adepte|600 XP|
 |Expert|1200 XP|
 |Maître|2400 XP|
-§§§
 
 ### pratiquer la dévotion et utiliser l'inspiration  
 Prier les dieux permet d'obtenir certains avantages outre le fait d'obtenir de l'[inspiration](/personnalite-et-historique/#inspiration). Une vie de dévotion permet aussi de gagner de l'expérience. Le gain d'une [inspiration](/personnalite-et-historique/#inspiration) par la vénération d'un dieu ainsi que sa dépense permet de gagner respectivement 5 PX. Ainsi, pour un investissement de 5 PO, un personnage peut potentiellement gagner 10 XP.  
 
 ## Exemples d'attribution de points d'expérience
-§§§ .table-container
+
 |Type|Gain d'expérience/ Explications|
 |:-:|:-:|
 |**Affrontements**||
@@ -115,4 +114,3 @@ Prier les dieux permet d'obtenir certains avantages outre le fait d'obtenir de l
 |Adepte|600 XP|
 |Expert|1200 XP|
 |Maître|2400 XP|
-§§§

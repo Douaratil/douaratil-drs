@@ -4,7 +4,7 @@ title: Sermazloth
 ---
 # Sermazloth   
 ## Évolution du Sermazloth  
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Présence infernale](#presence-infernale)|

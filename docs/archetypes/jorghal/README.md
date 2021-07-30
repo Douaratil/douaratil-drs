@@ -4,7 +4,7 @@ title: "Jörghal"
 # Jörghal
 
 ## Évolution du Jörghal
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Vengeance](#vengeance)|
@@ -18,7 +18,6 @@ title: "Jörghal"
 |**17**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**18**|[Champion (Seuil de critique 4)](#champion)|
 |**20**|[Véritable Jörghal](#veritable-jorghal)|
-§§§
 
 ## Aptitudes d'Archétype  
 En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.  

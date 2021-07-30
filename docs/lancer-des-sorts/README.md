@@ -24,7 +24,7 @@ Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte d
 ### Coût des Sorts
 Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coûts varient selon les niveaux de sorts.
 
-§§§ .table-container
+
 |Type|Coût en PM ou PF|
 |:-:|:-:|
 |Novice|1 à 4|
@@ -33,10 +33,9 @@ Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coû
 |Adepte|14|
 |Expert|16|
 |Maître|18|
-§§§
 
 ### Prix des sorts et investissement en temps d'apprentissage.
-§§§ .table-container
+
 |Type|Temps|Coût|DA Voie de la Magie |DA Voie de l'Ombre |DA Voie des Armes |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Novice|1 journée|50 po| 8 |12|16|
@@ -47,7 +46,7 @@ Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coû
 |Maître|3 lunes|2400 po|35|-|-|
 * DA : Difficultée d'apprentissage  
 * Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
-§§§
+
 
 ### Utiliser des points de Magie ou des points de Foi?
 Il arrive que certains sorts soient disponibles pour la voie "magique" et la voie "spirituelle". Le sort propose alors d'utiliser des points de Magie (PM) ou de Foi (PF). Le choix est laissé au personnage en sachant que selon son archétype, il ne récupèrera pas de la même vitesse, voir la section [Repos](/gerer-la-sante-du-personnage/#repos-long).  
@@ -64,7 +63,7 @@ Certains sorts portent une mention spéciale : rituel. On peut les lancer en sui
 Certains sorts font appel à des composantes matérielles qui sont réutilisées à chaque lancement de sort. Ces composantes doivent être enchantées pour permettre au sort d'agir. Le processus d'enchantement est plus long et plus difficile qu'un simple [lancer de sort](/lancer-des-sorts/lancer-un-sort).Cela demande un investissement en temps et en pouvoir plus important qui nécessite un nombre de test (la plus part du temps d'Arcanes, de Religion ou de Nature) dépendant du niveau du sort.  
 La règle commune permet de se référer au tableau ci-dessous. Le coût par test dépend du coût du sort.
 
-§§§ .table-container
+
 |Niveau|Coût par test PM ou PF|Temps minimum par test|Nombre de test|Difficulté du test|
 |:-:|:-:|:-:|:-:|:-:|
 |Novice|1 à 4|10 minutes|1|8|
@@ -73,7 +72,6 @@ La règle commune permet de se référer au tableau ci-dessous. Le coût par tes
 |Adepte|14|2 heures|4|22|
 |Expert|16|6 heures|5|28|
 |Maître|18|12 heures|6|35|
-§§§
 
 Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF). Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
 
@@ -83,7 +81,7 @@ Quand un personnage lance un sort, il suit toujours les mêmes règles de base, 
 
 Lancer un sort n'engage pas une réussite automatique. La magie est un art difficile et imprévisible. **Ainsi, les sorts exigent un test de compétence d'Arcane pour la Magie et de Religion pour la Foi**. Un échec entraine la perte des points de Magie ou de Foi correspondants.
 
-§§§ .table-container
+
 |Niveau|Difficulté du test|
 |:-:|:-:|
 |Novice|8|
@@ -92,7 +90,6 @@ Lancer un sort n'engage pas une réussite automatique. La magie est un art diffi
 |Adepte|22|
 |Expert|28|
 |Maître|35|
-§§§
 
 Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF) comme pour l'enchantement des composantes matérielles. Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
 

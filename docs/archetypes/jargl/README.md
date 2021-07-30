@@ -4,7 +4,7 @@ title: Jargl
 # Jargl
 
 ## Évolution du Jargl
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Trompe la mort](#trompe-la-mort)|
@@ -19,7 +19,6 @@ title: Jargl
 |**18**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**19**|[Champion (Seuil de critique 3)](#champion), [Champion mythique](#champion-mythique)|
 |**20**|[Véritable Jargl](#veritable-jargl)|
-§§§
 
 ## Aptitudes d'Archétype  
 En tant que Jargl, vous bénéficiez des aptitudes d'Archétype suivantes.  

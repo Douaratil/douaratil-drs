@@ -4,7 +4,7 @@ title: Astartes
 # Astartes
 
 ## Évolution du Astartes
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Châtiment](#chatiment)|
@@ -22,7 +22,6 @@ title: Astartes
 |**17**|[Troisième Attaque](#troisieme-attaque)|
 |**19**|[Parangon héroïque](#parangon-heroïque)|
 |**20**|[Véritable Astartes](#veritable-astartes)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.

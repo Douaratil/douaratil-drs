@@ -26,30 +26,28 @@ Ce sort possède 2 variantes. Pour pouvoir invoquer ce sort, le lanceur de sort 
 **Détonation rocheuse.** Cette variante, permet au lanceur de sort de repousser, de faire tomber ou même d’assommer les cibles du sort. Le sorcier doit frapper une surface rocheuse avec son bâton gravé, ce qui produira un son qui déstabilisera l’ennemi. La puissance et l’étendue du sort dépend de la surface frappé.  
 
 
-§§§ .table-container
+
 |Type de sol frappé  |étendue du sort|
 |:-:|:-:|
 |Roche épaisse (montagne)   |5 mètres de rayon|
 |Roche fine |3 mètres de rayon |
 |Gravier ou galet |2 mètres de rayon  |
-|Calcaire| 1 mètre de rayon|
-§§§  
+|Calcaire| 1 mètre de rayon|  
 
 
 L’état de l’ennemi dépend du type de sol frappé et de la distance où se trouve l’ennemi. Les cibles ont le droit à un jet de sauvegarde DD 16 de dextérité. S’il est réussi, l’effet est rétrogradé d’un rang. Un état comme inconscient deviendra à terre, à terre deviendra repoussé et l’effet repoussé sera annulé.  
 
 Type de sol frappé                                                                                                                étendue du sort
-§§§ .table-container
+
 |Pour la roche épaisse : ||
 |Distance  |État|
 |:-:|:-:|
 |5-3 mètres |repoussé|
 |2-1 mètres  |  à terre|
-|moins de 1 mètre    |inconscient|
-§§§                                                             
+|moins de 1 mètre    |inconscient|                                                             
 
 
-§§§ .table-container
+
 |Pour la roche fine : ||
 |Distance |État|
 |:-:|:-:|
@@ -57,23 +55,20 @@ Type de sol frappé                                                             
 |2 mètres ou moins  | à terre|
 |-|-|
 |-|-|
-§§§
 
 
-§§§ .table-container
+
 |Pour les graviers ou les galets : ||
 |Distance |État|
 |:-:|:-:|
 |  2-1 mètres   |repoussé|
 |moins d’1 mètre   | à terre|
-§§§
 
-§§§ .table-container
+
 |Pour le calcaire : ||
 |Distance  |État|
 |:-:|:-:|
 | 1 mètre ou moins      |repoussé|
-§§§
 
 
 **Appel sableux** est la deuxième variante de ce sort. Cette variante a été inventée par un sorcier qui s’était perdu dans les déserts Ashkémith. Il suffit de frapper le sable avec l’arme gravée, et alors une vibration se répandra sur 10 lieux de rayon/minutes pour un maximum de 24 heures. Le sorcier peut aussi accompagner la vibration par une phrase. Plus la personne qui sent la vibration est loin du foyer du sort, plus elle aura du mal a comprendre la phrase. Il ne faut pas de jet pour pouvoir retrouver le point où a été lancé le sort.  

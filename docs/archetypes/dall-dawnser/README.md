@@ -4,7 +4,7 @@ title: Dall Dawnser
 # Dall Dawnser
 
 ## Évolution du Dall Dawnser
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Technique de combat](#technique-de-combat), [Force d’âme](#force-d-'-ame), [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente), [déplacement aérien](#deplacement-aerien), [déplacement sans armure](#deplacement-sans-armure) |
@@ -25,7 +25,6 @@ title: Dall Dawnser
 |**18**|[Fureur](#fureur)|
 |**19**|[étreinte mortelle](#etreinte-mortelle)|
 |**20**|[Perfection](#perfection), [Véritable Dall Dawnser](#veritable-dall-dawnser)|
-§§§
 
 ## Aptitudes d'Archétype  
 En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -46,7 +45,7 @@ Les Dall Dawnsers qui viennent de la Voie des Armes sont appelés Eoster , c’e
 **En Khern : Dall Hadur**  
 Dès le niveau 3, votre pratique des arts de combat Dall Hadur vous permet de maîtriser différents styles comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde. Le Dall Hadur est une technique de combat qui mélange l’usage des armes et des membres du Dall Dawnser, transformant tout son corps en arme. Mais le plus extraordinaire est que le Dall Dawnser apprends à se passer des armes. Certains Dall Dawnser étaient plus meurtriers que n'importe quel combattant simplement en utilsant leur main.  
 Les dégâts de combat à mains nues évoluent suivant le niveau de Dall Dawnser.
-§§§ .table-container
+
 |Niveau|Dégâts|
 |:-:|:-:|
 |**3**|1|
@@ -57,7 +56,6 @@ Les dégâts de combat à mains nues évoluent suivant le niveau de Dall Dawnser
 |**16**|6|
 |**18**|7|
 |**20**|8|
-§§§
 Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type d’arme, vous obtenez les bénéfices suivants :
 •Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque.
 

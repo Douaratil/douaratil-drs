@@ -4,7 +4,7 @@ title: Magios
 # Magios
 
 ## Évolution du Magios
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Politique](#politique)|
@@ -20,7 +20,6 @@ title: Magios
 |**18**|[Troisième Attaque](#troisieme-attaque)|
 |**19**|[Orateur suprême](#orateur-supreme)|
 |**20**|[Véritable Magios](#veritable-magios)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Magios, vous bénéficiez des aptitudes d'Archétype suivantes.

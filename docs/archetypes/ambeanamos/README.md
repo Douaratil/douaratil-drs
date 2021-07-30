@@ -4,7 +4,7 @@ title: Ambeanamos
 # Ambeanamos
 
 ## Évolution de l'Ambeanamos
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[La marque des dieux](#la-marque-des-dieux), [Manipulation de la magie ou métamagie ](#manipulation-de-la-magie-ou-metamagie) |
@@ -16,7 +16,6 @@ title: Ambeanamos
 |**16**|[Second compagnon animal](#second-compagnon-animal)|
 |**18**|[Présence puissante](#presence-puissante)|
 |**20**|[Véritable Ambeanamos](#veritable-ambeanamos)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -39,7 +38,7 @@ Chez les Meldètes, la caste des Anamos regroupe les « intouchables », les h
 L’Ambeanamos, en plus d’être marqué au fer rouge et d’être tatoué, est affecté par des handicaps. (Il serait pertinent de définir ces handicaps dés le niveau 1 du personnage).  
 Lancer 1D6 (non explosif) pour connaître le nombre de lancers. Les pénalités ne se cumulent pas lorsqu’elles sont similaires.  
 Ces handicaps donnent un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au tests d’intimidation car ses interlocuteurs pensent qu’il est maudit ou bénit des dieux.    
-§§§ .table-container
+
 |Lancer 2d6 |Résultat|
 |:-:|:-:|
 |2-3 |Doigts crochus ([_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) tests de manipulation d’objets)|
@@ -51,7 +50,6 @@ Ces handicaps donnent un [_avantage_](/utiliser-les-caracteristiques/#avantage-e
 |10| Dépigmentation des cheveux ([_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de persuasion)|
 |11| Claudication (mouvement réduit de 1m)|
 |12| Hémiplégie faciale ([_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de persuasion)|
-§§§
 
 ### Manipulation de la magie ou métamagie  
 **En Meldète : Làimdraoid**  

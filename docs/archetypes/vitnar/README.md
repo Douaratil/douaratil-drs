@@ -4,7 +4,7 @@ title:  Vitnar
 #  Vitnar
 
 ## Évolution du  Vitnar
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Ecriture sacrée](#ecriture-sacree), [Défense sans armure ](#defense-sans-armure)|
@@ -18,7 +18,6 @@ title:  Vitnar
 |**15**|[Mixture d’empoisonnement](#mixture-d-empoisonnement)|
 |**18**|[Chef de meute](#chef-de-meute)|
 |**20**|[Véritable Vitnar](#veritable-vitnar)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.

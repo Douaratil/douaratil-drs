@@ -4,7 +4,7 @@ title: Sohoten
 # Sohoten
 
 ## Évolution du Sohoten
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Mur de bois](#mur-de-bois)|
@@ -21,7 +21,6 @@ title: Sohoten
 |**15**|[Esquive intuitive (3)](#esquive-intuitive)|
 |**19**|[Frappe divine](#frappe-divine)|
 |**20**|[Esquive intuitive (4)](#esquive-intuitive), [Véritable Sohoten](#veritable-sohoten)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -55,14 +54,13 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 **En Yotaï: Dhkan-teki**
 À partir du niveau 5, vous êtes tellement agile et rapide que vous êtes très difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
 
-§§§ .table-container
+
 |Niveau|Bonus de VD|
 |:-:|:-:|
 |**5**|1|
 |**10**|2|
 |**15**|3|
 |**20**|4|
-§§§
 
 ### Coup distant
 **En Yotaï : Nōsōtchū**  

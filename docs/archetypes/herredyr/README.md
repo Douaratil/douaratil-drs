@@ -4,7 +4,7 @@ title: Herredyr
 # Herredyr
 
 ## Évolution du Herredyr
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Allégeance bestiale](#allegeance-bestiale)|
@@ -20,7 +20,6 @@ title: Herredyr
 |**15**|[longévité bestiale](#longevite-bestiale)|
 |**16**|[Rage bestiale (+2d6)](#rage-bestiale)|
 |**20**|[Seigneur des bêtes](#seigneur-des-betes),[Rage bestiale (+3d6)](#rage-bestiale)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -43,7 +42,7 @@ Les Herredyr sont des individus qui gardent les tracent de l'ancienne alliance a
 **En Melg :Uskolisuta Eläimen**  
 Dès le niveau 3, vous découvrez votre allégeance bestiale, de quel origine est le sang qui coule dans vos veines. De cette allégeance dépendra l'évolution du personnage.  
 
-§§§ .table-container
+
 |Type|Jets de sauvegarde|
 |:-:|:-:|
 |**Aigle**|Force, Charisme|
@@ -60,7 +59,7 @@ L'Herredyr a toujours des rapports amicaux avec l'animal issue de son allégeanc
  *Pour le cerf, prendre les caractéristiques d'un élan.   
  *Pour le lynx, prendre les caractéristiques de la panthère.  
 
-§§§
+
 
 ### Compétence bestiale
 **En Khernaë :Ghalloud Chatakh**  
@@ -68,7 +67,7 @@ L'Herredyr a toujours des rapports amicaux avec l'animal issue de son allégeanc
 **En Melg :Skicklighet Eläimen**  
 Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la compétence suivante:    
 
-§§§ .table-container
+
 |Type|Compétence maîtrisée|
 |:-:|:-:|
 |**Aigle**|Persuasion|
@@ -81,7 +80,7 @@ Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la comp�
 |**Panthère**|Nature|
 |**Sanglier**|Survie|
 
-§§§
+
 
 ### Sursaut bestial
 **En Khernaë :Sailh Chatakh**  
@@ -89,7 +88,7 @@ Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la comp�
 **En Melg :Skrämma Eläimen**  
 Dès le niveau 5, votre allégeance bestiale vous donne la capacité de puiser dans vos ressources profondes pour changer le cour d'une situation et obtenir un avantage à vos jets de dés. Votre nombre d'avantage dépend de votre bonus de caractéristique selon le tableau suivant.  
 
-§§§ .table-container
+
 |Type|Caractéristique liée|
 |:-:|:-:|
 |**Aigle**|Charisme|
@@ -103,7 +102,7 @@ Dès le niveau 5, votre allégeance bestiale vous donne la capacité de puiser d
 |**Sanglier**|Constitution|
 
 L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
-§§§
+
 
 
 ### Férocité bestiale
@@ -121,7 +120,7 @@ Le compagnon est particulièrement puissant car il a le même indice de dangeros
 
 Progression du compagnon
 
-§§§ .table-container
+
 |Type|Taille|PA/niveau|VO jusqu'au niv 4|VO jusqu'au niv 8|VO jusqu'au niv 12|VO jusqu'au niv 16|VO jusqu'au niv 20|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**Aigle**|Petite|3|+4|+5|+6|+7|+8|
@@ -135,7 +134,7 @@ Progression du compagnon
 |**Sanglier**|Moyenne|4|+3|+4|+5|+6|+7|
 
 L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
-§§§
+
 
 ### Sens bestiale
 **En Khernaë :Merzadenn Chatakh**  
@@ -145,7 +144,7 @@ Dès le niveau 10, votre allégeance bestiale vous permet développer les sens d
 
 Progression du compagnon
 
-§§§ .table-container
+
 |Type|Sens concerné|Spécial|
 |:-:|:-:|:-:|
 |**Aigle**|Vue|-|
@@ -158,7 +157,7 @@ Progression du compagnon
 |**Panthère**|Ouie|-|
 |**Sanglier**|Ouie|-|
 
-§§§
+
 
 ### Rage bestiale
 **En Khernaë :Khoun Chatakh**  

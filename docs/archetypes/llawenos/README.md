@@ -4,7 +4,7 @@ title: Llawenos
 # Llawenos
 
 ## Évolution du Llawenos
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Inspiration bardique (1d6/1rd)](#inspiration-bardique), [Touche-à-tout ](#touche-a-tout), [Chant reposant (1d6)](#chant-reposant)|
@@ -22,7 +22,6 @@ title: Llawenos
 |**17**|[Chant reposant (4d6)](#chant-reposant)|
 |**19**|[Inspiration supérieure](#inspiration-supérieure)|
 |**20**|[Véritable Llawenos](#veritable-llawenos)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Llawenos, vous bénéficiez des aptitudes d'Archétype suivantes.

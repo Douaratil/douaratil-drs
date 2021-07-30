@@ -22,7 +22,7 @@ title: "Questions & réponses"
 
 ### A quoi correspondent les peuples?  
 *Il y a en effet pleins de peuples. Pour avoir des références communes, je vais essayer de les faire correspondre à des peuples qui ont existé.*  
-§§§ .table-container
+
 |Famille| Nom dans Douaratil | Se rapproche de |
 |:-|:-:|:-:|
 |Impériaux|Alycante|Rome antique|
@@ -44,7 +44,7 @@ title: "Questions & réponses"
 |Royaumes de Shaia|Ptolèmes|Empire byzantin, empire macédonien|
 |Le lointain sud| Sooghaï |Tribu d'Afrique "noire"|
 * A titre d'information
-§§§
+
 *Evidemment, ce ne sont pas des correspondances exactes mais cela permet d'alimenter l'imaginaire et de savoir quelles sont les sources d'inspirations (très libres).*  
 
 # Question sur le jeu  

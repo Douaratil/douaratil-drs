@@ -95,13 +95,12 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 _**Forme sauvage**_. *(Bhegelm)*  À partir du niveau 6, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.  
 Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 6, par exemple, vous pouvez vous connecter à n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
 
-§§§ .table-container
+
 |Niveau|ID|Limitations|Exemple|
 |:-:|:-:|-:|-:|
 |6|1/4|Pas de vitesse de vol ou de nage|Loup|
 |7|1/2|Pas de vitesse de vol|Ours|
 |8|1|-|Aigle|
-§§§
 
 Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
 

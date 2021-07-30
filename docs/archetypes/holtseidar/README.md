@@ -4,7 +4,7 @@ title:  Holtseidar
 #  Holtseidar
 
 ## Évolution du  Holtseidar
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Expert](#expert)|
@@ -21,7 +21,6 @@ title:  Holtseidar
 |**17**|[Compagnon animal second loup](#compagnon-animal-second-loup ), [Critique brutal (+3d6)](#critique-brutal)|
 |**19**|[Troisième Attaque ](#troisieme-attaque )|
 |**20**|[Véritable Holtseidar](#veritable-holtseidar)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.

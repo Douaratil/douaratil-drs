@@ -37,14 +37,13 @@ Les personnages qui voyagent en chariot, en calèche ou grâce à un autre véhi
 Certaines montures spéciales (magique par exemple), vous permettent de voyager plus vite.
 
 ##### Rythmes de déplacement
-§§§ .table-container
+
 |Rythme|Distance parcourue par...|||Effet|
 |:-|:-|:-|:-|:-|
 |&nbsp;|**Minute**|**Heure**|**Jour**|&nbsp;|
 |**Rapide**|120 mètres|6 kilomètres|45 kilomètres|Malus de -5 à la valeur passive de Sagesse (Perception)|
 |**Normal**|90 mètres|4,5 kilomètres|36 kilomètres|-|
 |**Lent**|60 mètres|3 kilomètres|27 kilomètres|Possibilité d'utiliser la Discrétion|
-§§§
 
 #### Terrain difficile
 La distance parcourue donnée dans le [tableau des rythmes de déplacement](#rythmes-de-deplacement) a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
@@ -166,7 +165,7 @@ Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élev�
 
 **Aristocratique**. Vous menez une vie d'abondance et de confort. Vous évoluez dans des cercles peuplés par les personnes les plus influentes de la communauté. Vous habitez dans un logis princier, peut-être une maison en ville dans un quartier cossu ou dans un appartement de la meilleure auberge de la ville. Vous dînez dans les meilleurs restaurants, vous vous êtes attaché les services du dernier tailleur à la mode et vos serviteurs répondent à vos moindres désirs. Vous êtes invités aux événements mondains organisés par les riches et les puissants et vous passez vos soirées en compagnie de politiciens, de responsables de guildes, de grands prêtres et d'aristocrates. Vous faites cependant face à des tentatives d'escroquerie et de trahison de grande envergure. Plus vous êtes riche, plus grandes sont vos chances de vous retrouver mêlé à une intrigue politique en tant que pion ou que participant.
 
-§§§ .table-container
+
 ##### Trains de vie
 
 | Train de vie | Coût quotidien |
@@ -179,7 +178,7 @@ Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élev�
 | **riche** | 4 po |
 | **aristocratique** | 10 po minimum |
 
-§§§
+
 
 §§§ .hero
 ##### Autosuffisance

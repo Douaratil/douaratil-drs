@@ -23,14 +23,13 @@ Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinatio
 
 Une cible affectée ne peut pas utiliser de réaction et doit lancer 2d6 au début de chacun de ses tours pour déterminer comment elle se comporte pendant le tour.
 
-§§§ .table-container
+
 |D10|Comportement|
 |:-:|:-|
 |**2**|La créature utilise la totalité de son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer cette dernière, lancez un d8 en assignant une direction à chaque face. La créature n'effectue aucune action pour ce tour.|
 |**3-8**|La créature ne bouge pas et n'entreprend pas la moindre action pour ce tour.|
 |**9-10**|La créature utilise son action pour porter une attaque au corps-à-corps contre une créature aléatoire à portée d'allonge. S'il n'y a pas de créature à portée, elle ne fait rien durant le tour.|
 |**11-12**|La créature peut agir et se déplacer normalement.|
-§§§
 
 Une créature affectée peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. En cas de succès, l'effet se termine pour elle.
 

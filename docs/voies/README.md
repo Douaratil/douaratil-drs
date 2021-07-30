@@ -7,7 +7,7 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 
 # Voie des armes
 ## Évolution de la voie des Armes
-§§§ .table-container
+
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
 |**1**|+4|[Style de combat](#style-de-combat), [Second souffle](#second-souffle)|
@@ -30,7 +30,6 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 |**18**|+72|-|
 |**19**|+76|-|
 |**20**|+80|[Attaque supplémentaire](#attaque-supplémentaire)|
-§§§
 Parmi les trois voie proposées, la voie des armes correspond à toutes les voies guerrières. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -76,7 +75,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 # Voie de l’ombre
 ## Évolution de la voie de l'ombre
-§§§ .table-container
+
 |Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
 |:-:|:-:|:-:|:-:|
 |**1**|+3|[Expertise](#expertise), [Attaque sournoise](#attaque-sournoise)|+1d6|
@@ -99,7 +98,6 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 |**18**|+54|[Insaisissable](#insaisissable)|+9d6|
 |**19**|+57|-|+10d6|
 |**20**|+60|[Coup de chance](#coup-de-chance)|+10d6|
-§§§
 Parmi les trois voie proposées, la voie de l’ombre correspond à toutes les voies tournées vers les subterfuges et la discrétion. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -143,7 +141,7 @@ Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
 # Voie de la magie
 ## Évolution de la voie de la magie
-§§§ .table-container
+
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
@@ -166,7 +164,6 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |**18**|+36|[Maîtrise des sorts](#maitrise-des-sorts)|+72|
 |**19**|+38|[Restauration magique (7d6)](#restauration-magique)|+76|
 |**20**|+40|[Sorts de prédilection](#sorts-de-predilection)|+80|
-§§§
 Parmi les trois voie proposées, la voie de la magie correspond à toutes les voies tournées vers les arts de la magie et des religions. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.

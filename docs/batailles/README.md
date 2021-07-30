@@ -20,59 +20,53 @@ Points d'action (PA)
 Déplacement
 Par convention sur le champs de bataille, les unités se déplacent selon leur type et leur encombrement. Le déplacement est compté pour 2 rounds comme nous le verrons dans le cadre de l'unité de temps.
 
-§§§ .table-container
+
 |Table de caractéristiques de l'infanterie légère ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Infanterie légère inexpérimentée|20|14|+3|1|18m/3|0/0|225|
 |Infanterie légère normale|30|14|+4|1|18m/3|0/0|550|
 |Infanterie légère élite|40|14|+5|2|18m/3|0/0|1150|
-§§§
 
-§§§ .table-container
+
 |Table de caractéristiques de l'infanterie lourde ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Infanterie lourde inexpérimentée|20|17|+3|1|12m/2|0/0|250|
 |Infanterie lourde normale|30|17|+4|1|12m/2|0/0|600|
 |Infanterie lourde élite|40|17|+5|2|12m/2|0/0|1200|
-§§§
 
-§§§ .table-container
+
 |Table de caractéristiques des unités d'archers ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Archer inexpérimenté|20|12|+3|1|18m/3|24m/96m - 8/32|225|
 |Archer normal|30|12|+4|1|18m/3|24m/96m - 8/32|1050|
 |Archer élite|40|12|+5|2|18m/3|24m/96m - 8/32|1150|
-§§§
 
-§§§ .table-container
+
 |Table de caractéristiques de la cavalerie légère ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Cavalerie légère inexpérimentée|20|15|+3|1|30m/10|0/0|250|
 |Cavalerie légère normale|30|15|+4|1|30m/10|0/0|600|
 |Cavalerie légère élite|40|15|+5|2|30m/10|0/0|1200|
-§§§
 
-§§§ .table-container
+
 |Table de caractéristiques dede la cavalerie lourde ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Cavalerie lourde inexpérimentée|20|18|+3|1|24m/8|0/0|275|
 |Cavalerie lourde normale|30|18|+4|1|24m/8|0/0|650|
 |Cavalerie lourde élite|40|18|+5|2|24m/8|0/0|1250|
-§§§
 
-§§§ .table-container
+
 |Table de caractéristiques de la cavalerie archère ||||||||
 |Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Cavalerie archer inexpérimenté|20|12|+3|1|30m/10|24m/96m - 8/32|250|
 |Cavalerie archer normal|30|12|+4|1|30m/10|24m/96m - 8/32|600|
 |Cavalerie archer élite|40|12|+5|2|30m/10|24m/96m - 8/32|1200|
-§§§
 
 **Infanterie légère**
 Les soldats sont équipés d'une armure légère type armure de cuir, d'un bouclier, d'une arme à une main (hache, épée) et d'un javelot.  
@@ -118,7 +112,7 @@ Les unités ajoutent 1d6 par 10 soldats qui la constituent au delà de 10.
 ### Les Dégâts  
 Les dégâts sont infligés à l'unité en faisant le différentiel entre le test d'attaque et la valeur de défense (VD) et multipliant par 2 ou plus. Les dégâts sont multipliés apr deux car ils sont calculés sur 2 rounds. Cependant, d'autre multiplicateurs peuvent être ajoutés.    
 
-§§§ .table-container
+
 |Table de caractéristiques de la cavalerie archère ||
 |Manœuvre|Ajout d'un multiplicateur|
 |:-:|:-:|
@@ -126,7 +120,7 @@ Les dégâts sont infligés à l'unité en faisant le différentiel entre le tes
 |Attaque de flanc|+1|
 |Attaque de dos|+2|
 * Tous les multiplicateurs sont cumulables.     
-§§§
+
 
 *Exemple: Une unité multiplie ses dégâts par 2. Si elle charge, elle les multiplie par 3, si elle charge de flanc, elle multiplie par 4. Si elle charge dans le dos, elle multiplie par 5. Une unité qui attaque de flanc multiplie par 3 et une unité qui attaque de dos, multiplie par 4.*  
 

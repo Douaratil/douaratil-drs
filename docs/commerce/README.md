@@ -21,7 +21,7 @@ Le domaine est géré par le personnage. Comme les tests familiaux et économiqu
 L’empire commercial est au début bien loin d’un empire et il faudra commencer par obtenir l’autorisation de seigneurs locaux pour exercer sur leurs terres, ce qui pourra passer par une taxe mensuelle, une partie des bénéfices ou bien le seigneur pourra demander un versement unique. Ensuite le joueur devra investir dans des éléments améliorant les 4 éléments du commerce définis ci-dessus. 
 
 Voici quelques exemples d’investissements :  
-§§§ .table-container
+
 | description | cout fixe | cout mensuel | 2D6 PC | 2D6 PA | 2D6 PE | 2D6 PO | performance | réputation | instabilité |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | barque | -450 | - | 100 | 5 | - | 1 | - | - | - | 
@@ -39,11 +39,10 @@ Voici quelques exemples d’investissements :
 | comptoir commercial | -1000 | - | - | - | - | 4 | 10 | - |	 
 | échoppe | -15000 | - | - | - | 200 | 200 | 5 | 5 | -5 |
 | maison de passe | -20000 | - | - | 400 | 500 | 500 | - | - | 20 |
-§§§
 
 Pour savoir si les affaires du joueur ont bien marché, ce dernier va devoir lancer chaque mois les 2D6 liés à ses gains mensuels et 4D6 non explosifs qui vont déterminer si des profits ont été dégagés où si au contraire le joueur s’est endetté.  
 
-§§§ .table-container
+
 | 4d6* | Multiplicateur |
 |:-:|:-:|
 | 4-5 | -3 |
@@ -51,7 +50,7 @@ Pour savoir si les affaires du joueur ont bien marché, ce dernier va devoir lan
 | 7-21 | au-dessus du niveau d'instabilité = benefices x1, en dessous ou égal = dettes x(-1) |
 | 22-24 | 2 |
 **Jet non explosif**
-§§§
+
 
  Si le multiplicateur est négatif :   
 Le joueur est endetté de : multiplicateur*(coûts mensuels fixes – (résultats gains)*(1+(niveau d'instabilité/100)))  

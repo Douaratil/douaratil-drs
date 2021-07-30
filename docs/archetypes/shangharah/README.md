@@ -4,7 +4,7 @@ title: Shangharah
 # Shangharah
 
 ## Évolution du Shangharah
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Disciple de la vie](#disciple-de-la-vie)|
@@ -21,7 +21,6 @@ title: Shangharah
 |**18**|[Langage du Guide](#langage-du-guide)|
 |**19**|[Vison du guide](#vision-du-guide)|
 |**20**|[Véritable Shangharah](#veritable-shangharah)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.

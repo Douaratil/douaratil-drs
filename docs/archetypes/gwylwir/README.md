@@ -4,7 +4,7 @@ title: Gwylwir
 # Gwylwir
 
 ## Évolution du Gwylwir
-§§§ .table-container
+
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Ennemi juré](#ennemi-jure)|
@@ -21,7 +21,6 @@ title: Gwylwir
 |**18**|[Sens sauvages](#sens-sauvages)|
 |**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
 |**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Gwylvir](#veritable-gwylvir)|
-§§§
 
 ## Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.

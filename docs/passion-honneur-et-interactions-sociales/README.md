@@ -29,13 +29,12 @@ Chaque haut fait peut être défini par son importance :
 - Mythique
 
 Chaque palier amène un bonus différent:  
-§§§ .table-container
+
 |Palier|Bonus|Portée|Durée|
 |:-:|:-:|:-:|:-:|
 |**Héroïque**|+5 |5 jours de cheval de rayon autours du lieu du fait|on s’en souvient, on reconnait|
 |**Légendaire**|+10|15 jours de cheval de rayon autours du lieu du fait|on s’en souviendra au delà de la génération, on raconte l'histoire dans les tavernes et au coin du feu|
 |**Mythique**|+15|30 jours de cheval de rayon autours du lieu du fait|on s’en souviendra dans cent cycle, histoire inspirante qu'utilisent les prêtres et les chefs de guerre|
-§§§
 
 ## Les compétences sociales
 Plusieurs compétences peuvent être utilisées dans le cadre d'interactions sociales. Elles dépendent de différentes caractéristiques : L'intelligence, la sagesse et le charisme.
@@ -60,7 +59,7 @@ La règle des affrontements d'honneur est le suivant (reportez vous au tableau p
 
 Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à avaler". En effet une personne ne peut se laisser convaincre que quelque chose de manifestement impossible ou incroyable.
 
-§§§ .table-container
+
 ||Bonus au JS||
 |Véracité|Compétence ou Caractéritique|
 |:-:|:-:|
@@ -68,9 +67,8 @@ Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à a
 |Improbable|+1|
 |Très improbable|+2|
 |Impossible| +4|
-§§§
 
-§§§ .table-container
+
 ||Table des affrontements sociaux||
 |Action|Compétence ou Caractéritique|JS|
 |:-:|:-:|:-:|
@@ -82,4 +80,3 @@ Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à a
 |Se moquer| Intimidation / Charisme|Js Sagesse|
 |Se vanter| Intimidation, représentation ou Supercherie / Charisme ou Intelligence|Js Sagesse|
 |Supplier| Perspicacité / Sagesse|Js Sagesse|
-§§§

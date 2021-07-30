@@ -31,7 +31,7 @@ Choisissez vos langues dans le tableau ci-dessous, ou une langue couramment util
 
 Certaines de ces langues sont en réalité une famille de langues comportant plusieurs dialectes.
 
-§§§ .table-container
+
 ### Langues impériales
 
 | Langue | Parlée par... | Alphabet |
@@ -48,7 +48,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 
 §§§
 
-§§§ .table-container
+
 ### Langues Nordiques
 
 | Langue | Parlée par... | Alphabet |
@@ -69,7 +69,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 
 §§§
 
-§§§ .table-container
+
 ### Langues Asiatiques
 
 | Langue | Parlée par... | Alphabet |
@@ -86,7 +86,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 
 §§§
 
-§§§ .table-container
+
 ### Langues des Royaumes de Shahia
 
 | Langue | Parlée par... | Alphabet |
@@ -102,7 +102,7 @@ Certaines de ces langues sont en réalité une famille de langues comportant plu
 
 §§§
 
-§§§ .table-container
+
 ### Langues sacrées, anciennes et secrètes
 
 | Langue | Parlée par... | Alphabet |
