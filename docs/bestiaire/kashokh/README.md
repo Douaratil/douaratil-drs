@@ -44,8 +44,6 @@ damageTypeImmunities:
 languages:
   - "toutes"
 telepathy: 36
-source: "Livre des monstres"
-source_page: 102
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de Kashokh est le Charisme (DD du jet de sauvegarde contre les sorts 24, +16 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

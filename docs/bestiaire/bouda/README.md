@@ -46,7 +46,6 @@ languages:
   - "commun"
   - "céleste"
   - "infernal"
-  - "nurien"
 telepathy: 30
 
 ---

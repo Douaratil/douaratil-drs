@@ -46,8 +46,7 @@ languages:
   - "abyssal"
   - "commun"
 telepathy: 36
-source: "Livre des monstres"
-source_page: 77
+
 ---
 ## Capacités
 _**Présence trompeuse**_. Un Berdu est identifié comme une fée par tous les sorts ou effets magiques qui détectent les créatures surnaturelles. Les bêtes et les plantes se sentent bien autour d'un Berdu et ne l'attaqueront pas, sauf si elles en reçoivent l'ordre ou ont été provoquées.

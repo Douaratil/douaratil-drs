@@ -41,7 +41,6 @@ damageTypeImmunities:
 languages:
   - "céleste"
   - "draconique"
-  - "elfique"
   - "infernal"
   - "sylvestre"
 telepathy: 36

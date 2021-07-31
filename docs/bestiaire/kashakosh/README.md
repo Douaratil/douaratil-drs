@@ -53,17 +53,11 @@ damageTypeImmunities:
   - "poison"
 languages:
   - "commun"
-  - "darakhul"
-  - "derro"
   - "draconique"
   - "infernal"
-  - "langue du vide"
-  - "nain"
-  - "nurien"
   - "primordial"
 telepathy: 90
-source: "Livre des monstres"
-source_page: 87
+
 ---
 ## Capacités
 _**Métamorphe**_. Kashakosh peut utiliser son action pour prendre la forme d'une chauve-souris géante couverte de cendres fumantes ou revenir à sa forme véritable d'humanoïde ailé. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. S'il est détruit dans une forme ou l'autre, il se transforme en un tas de cendres graisseuses.

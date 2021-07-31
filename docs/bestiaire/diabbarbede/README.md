@@ -41,8 +41,7 @@ damageTypeImmunities:
 languages:
   - "infernal"
 telepathy: 36
-source: "Créatures & Oppositions"
-source_page: 63
+
 ---
 ## Capacités
 _**Peau barbelée**_. Au début de chacun de ses tours, le Diabbarbede inflige 2d6 dégâts perforants aux créatures qui l'empoignent.

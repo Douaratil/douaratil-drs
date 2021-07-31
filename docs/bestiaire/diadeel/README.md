@@ -39,7 +39,6 @@ damageTypeImmunities:
 languages:
   - "céleste"
   - "commun"
-  - "gnoll"
   - "infernal"
 telepathy: 36
 

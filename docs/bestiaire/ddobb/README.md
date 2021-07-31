@@ -1,5 +1,5 @@
 ---
-title: "Dddobb"
+title: "Ddobb"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -45,8 +45,7 @@ languages:
   - "draconique"
   - "infernal"
 telepathy: 36
-source: "Livre des monstres"
-source_page: 107
+
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
