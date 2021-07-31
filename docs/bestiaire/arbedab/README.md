@@ -18,9 +18,9 @@ savingThrows:
   - "con"
   - "sag"
   - "cha"
-  ac:
-    armorType: "custom"
-    value: "22 (armure naturelle)"
+ac:
+  armorType: "custom"
+  value: "22 (armure naturelle)"
 skills:
   - name: "discretion"
   - name: "perception"
