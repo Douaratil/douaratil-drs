@@ -1,5 +1,5 @@
 ---
-title: "Diable barbu"
+title: "Diabarbuth"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
