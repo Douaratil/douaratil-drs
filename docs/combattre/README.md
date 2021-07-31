@@ -342,7 +342,7 @@ Voilà ci-dessous la liste des différents types de dégâts, avec des exemples 
 
 **Foudre**. Un sort d'éclair inflige des dégâts de foudre, tout comme le souffle de certaines créatures.
 
-**Froid**. Le froid infernal qui irradie d'un diable gelé et le souffle glacé de certaines créatures infligent des dégâts de froid.
+**Froid**. Le froid infernal qui irradie d'un Diagede et le souffle glacé de certaines créatures infligent des dégâts de froid.
 
 **Nécrotique**. Les dégâts nécrotiques infligés par certains morts-vivants et des sorts comme [_contact glacial_](/grimoire/contact-glacial/) font se flétrir la matière et même l'âme.
 
