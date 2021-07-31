@@ -13,9 +13,9 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
-## Archétype, architecture du site et version papier
+## Nouvelles pages d'inspiration musicale, essaie d'une chronologie et blessures graves.   
 Le développement du site se poursuit avec principalement la correction de liens cassés. J'ai rajouté plusieurs rubriques qui sont actuellement en test. Dans le menu, il y a désormais une rubrique [Inspiration musicale](/inspimusic) et une [chronologie](/chronologie).
-Le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves). Les [poisons](/poisons) ont aussi été revisités et seront complétés dans les jours à venir. 
+Le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves). Les [poisons](/poisons) ont aussi été revisités et seront complétés dans les jours à venir.
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
