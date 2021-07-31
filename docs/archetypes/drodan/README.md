@@ -87,7 +87,7 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 L'été est la période des voyages et des grandes migrations pour les animaux. Au niveau 6, vous augmentez votre vitesse de déplacement de 3 mètres. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.  
 
 ### Refuge d'automne  
-**En Meldète : Llochydref**  
+**En Meldète : LlochyKesh**  
 Après un été confortable, vous vous préparez déjà aux rigueurs à venir en renforçant votre corps et en le préparant au plus dur. Au niveau 10, vous devenez compétent pour les jets de sauvegarde de Constitution. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.  
 
 ### Compagnon animal buse
