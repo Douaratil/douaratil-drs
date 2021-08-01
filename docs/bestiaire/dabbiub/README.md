@@ -1,8 +1,9 @@
 ---
 title: "Dabbiub"
 type: "Fiélon"
+subtype: "Diable"
 size: "G"
-alignment: "Neutre Mauvais"
+alignment: "Loyal Mauvais"
 challenge: "14"
 customHP: "158"
 abilityScores:

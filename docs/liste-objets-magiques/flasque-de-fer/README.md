@@ -28,4 +28,4 @@ Le sort [_identification_](/grimoire/identification/) révèle si la flasque con
 |**21**|[Traqueur invisible](/bestiaire/traqueur-invisible/)|
 |**22**|[Planétar](/bestiaire/planetar/)|
 |**23**|[Solar](/bestiaire/solar/)|
-|**24**|[Succube/Incube](/bestiaire/succube-incube/)|
+|**24**|[Shukkushe-Ikhushe](/bestiaire/shukkushe-ikhushe/)|

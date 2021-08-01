@@ -1,6 +1,7 @@
 ---
 title: "Kesh"
 type: "Fiélon"
+subtype: "Démon"
 size: "TP"
 alignment: "Chaotique Mauvais"
 challenge: "0.25"

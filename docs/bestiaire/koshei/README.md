@@ -1,6 +1,7 @@
 ---
 title: "Koshei"
 type: "Fiélon"
+subtype: "Démon"
 size: "M"
 alignment: "Chaotique Mauvais"
 challenge: "17"

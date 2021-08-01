@@ -1,8 +1,9 @@
 ---
 title: "Kakhe"
 type: "Fiélon"
+subtype: "Démon"
 size: "P"
-alignment: "Neutre Mauvais"
+alignment: "Chaotique Mauvais"
 challenge: "0.25"
 customHP: "7"
 abilityScores:

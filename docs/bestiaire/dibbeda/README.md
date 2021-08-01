@@ -1,6 +1,7 @@
 ---
 title: "Dibbeda"
 type: "Fiélon"
+subtype: "Diable"
 size: "M"
 alignment: "Loyal Mauvais"
 challenge: "3"
