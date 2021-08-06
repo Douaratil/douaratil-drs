@@ -16,11 +16,11 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 ## L'herbier se densifie
 Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes prend un peu plus son sens pour améliorer la guérison de certains maux.
 Ajout dans l'herbier de plantes traitant les fractures osseuses avec l'[afana](/herbier/#afana), roseau des zones froides, le [balahm](/herbier/#balahm), roseau des zones chaudes et humides, la [boursselath](/herbier/#boursselath), herbe à ingérer des zones tempérées,  l'[ederlane](/herbier/#ederlane), plante moussue des régions froides et la [gourthamelle](/herbier/#gourthamelle), herbacée des zones tempérées.  
-Je m'inspire fortemen des ressources de rolemaster qui font Référence dans le domaine.  
+Je m'inspire fortement des ressources de rolemaster qui font Référence dans le domaine.  
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 30 juillet 2021_
+_le 06 août 2021_
 §§§
 
 ## Nouvelles pages d'inspiration musicale, essaie d'une chronologie et blessures graves.   
