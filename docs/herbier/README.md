@@ -47,7 +47,7 @@ Les plantes et les produits décrits ensuite sont rares et demandent souvent de 
 L'afana est une plante de la famille des roseaux qui pousse la plus part du temps dans des latitudes froides au bords des côtes. Sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone côtières froide:  
+Le prospecteur devra réussir un test en Survie dans une zone côtière froide:  
 **Hivers** :DD 16  
 **Printemps** :DD 22  
 **Eté** :DD 22   
@@ -86,7 +86,7 @@ Valeur : 38 pièce d’or la dose.
 Le balahm est une plante de la famille des roseaux qui pousse dans des latitudes chaudes et humides, souvent dans des mangroves. La mixture issue de sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone côtières froide:  
+Le prospecteur devra réussir un test en Survie dans une zone chaude et humide:  
 **Hivers** :DD 35  
 **Printemps** :DD 35  
 **Eté** :DD 28   
@@ -97,8 +97,27 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 
 **Utilisation**  
 La tige et les feuilles de balahm sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 6 tiges ou feuilles (doses) de balahm pour créer un mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 1d6 heures.
+*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 6 tiges ou feuilles (doses) de balahm pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 1d6 heures.
 Valeur : 160 pièces d'or la dose.   
+
+## Boursselath
+**Description**  
+La Boursselath est une plante de la famille des herbacée qui pousse dans les zone tempérée herbeuse. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les fractures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée herbeuse:  
+**Hivers** :DD 35  
+**Printemps** :DD 28  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 2 pièce d'or la dose.  
+**Facteur d'addiction** : irrésistible (6)
+
+**Utilisation**  
+Les feuilles et les fleurs de Boursselath sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 28, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Boursselath pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 2d6 heures.
+Valeur : 110 pièces d'or la dose.   
 
 ## Cepate
 **Description**  
@@ -143,6 +162,25 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 **Utilisation**  
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
 Valeur : 1 pièce d’or la dose.  
+
+## Ederlane
+**Description**  
+L'éderlane est une plante moussue qui pousse dans les zone froide et côtière. Très verte à la saison chaude, elle devient de couleur rouille aux périodes froides. La mousse d'éderlane fleurit au plus fort de la saison froide. La mixture issue de la mousse est connue pour ses propriétés curatives pour traiter les fractures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide et côtière:  
+**Hivers** :DD 35  
+**Printemps** :DD 28  
+**Eté** :DD 28   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d'or la dose.  
+**Facteur d'addiction** : irrésisitible (6)
+
+**Utilisation**  
+La mousse d'éderlane est utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 10 mousses (doses) d'éderlane pour créer une mixture. La préparation doit être ingérée malgré sa très mauvaise odeur. La mixture permet de réparer une fracture en 3d6 heures.
+Valeur : 31 pièces d'or la dose.  
 
 ## Eglantiane  
 **Description**  
@@ -293,10 +331,29 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 **Facteur d'addiction** : inexistant (0)
 
 **Utilisation**  
-*Fruits frais* (Cuisine/Surviet DD 16) : Les fruits frais, les framboles, se consomment nature au miel, en salade de fruit, ou donnent lieu à des transformations en confiture, gelée, sirops, coulis ...  
+*Fruits frais* (Cuisine/Survie DD 16) : Les fruits frais, les framboles, se consomment nature au miel, en salade de fruit, ou donnent lieu à des transformations en confiture, gelée, sirops, coulis ...  
 Valeur : 2 pièces d’or la dose  
 *Onguent* (Alchimie DD 28 ): la frambole peut être préparée en onguent. Il est possible de créer une dose d’onguent de frambole par quatre doses de frambole sous réserve de réussir un test d’Alchimie DD 28 (les tests s’effectuent par dose et la préparation prend une heure par dose). L'onguent soigne les brûlures et les irritations. Il redonne 2d6 points d’action.  
 Valeur : 8 pièces d’or la dose.  
+
+## Gourthamelle
+**Description**  
+La gourthamelle est une plante herbacée qui pousse dans les zones tempérées et herbeuses. Très basse aux larges feuilles qui s'étalent, une tige pousse en son centre et peut atteindre 6 pieds de haut. Cette tige porte les fleurs qui se répartissent sur toute la longeur. Les fleurs sont très petites et d'une couleur mauve profond.  Le cataplasme issue de cette plante est connu pour ses propriétés curatives pour traiter les fractures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse.  
+**Hivers** :DD 28  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièce d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+La gourthamelle est utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 felurs ou feuilles ou morceau de tige verte (doses) de gourthamelle pour créer un cataplasme. La préparation doit être appliquée. La mixture permet de réparer une fracture en 6d6 heures.
+Valeur : 30 pièces d'or la dose.  
 
 ## Herbefolle
 **Description**  
