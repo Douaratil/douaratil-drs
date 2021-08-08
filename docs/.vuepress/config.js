@@ -619,6 +619,11 @@ module.exports = {
                 title: "Douaratil",
                 icon: 'mdi-map-search-outline',
                 path:'/atlas-du-monde/douaratil'
+              },
+              {
+                title: "Shahia",
+                icon: 'mdi-map-search-outline',
+                path:'/atlas-du-monde/shahia'
               }
             ]
     }
