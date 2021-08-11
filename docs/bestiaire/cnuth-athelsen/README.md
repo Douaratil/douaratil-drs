@@ -23,7 +23,7 @@ ac:
   armorType: "custom"
   value: "15 (Broigne)"
 skills:
-  - name: "acrobatie"
+  - name: "acrobaties"
   - name: "custom"
     value: "arcanes +0"
   - name: "athletisme"
