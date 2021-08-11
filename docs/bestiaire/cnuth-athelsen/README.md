@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for +6, dex +3, con +5, int +3, sag +0, cha +0 "
+customSavingThrows: "for +6, dex +3, con +5, int +3, sag +0, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -60,7 +60,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
+  - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg,l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
 

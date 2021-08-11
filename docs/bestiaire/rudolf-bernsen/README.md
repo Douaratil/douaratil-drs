@@ -13,7 +13,7 @@ abilityScores:
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1 "
+customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1"
 savingThrows:
   - "for"
   - "dex"
@@ -52,7 +52,7 @@ skills:
     value: "persuasion -1"
   - name: "custom"
     value: "religion -1"
-  - name: "représentation"
+  - name: "representation"
   - name: "custom"
     value: "supercherie -1"
   - name: "survie"
