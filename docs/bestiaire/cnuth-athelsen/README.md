@@ -136,7 +136,7 @@ Cnuth Athelsen  possède l'équipement suivant : Vêtements courrants, emblème 
 **Haut fait de vaillance** :  
 **XP acquis** : 14 000  
 **Points de Magie** :10   
-**Points de Foi** :30      
+**Points de Foi** :10        
 **Points d'honneur** :22    
 
 
