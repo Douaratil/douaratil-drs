@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "8"
-customHP: "32"
+challenge: "9"
+customHP: "34"
 abilityScores:
   for: 8
   dex: 8
   con: 16
-  int: 15
+  int: 16
   sag: 12
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int +5, sag +7, cha +4 "
+customSavingThrows: "for -1, dex -1, con +3, int +7, sag +9, cha +6 "
 savingThrows:
   - "int"
   - "sag"
@@ -34,14 +34,14 @@ skills:
     value: "dressage +1"
   - name: "escamotage"
   - name: "custom"
-    value: "histoire +2"
+    value: "histoire +3"
   - name: "intimidation"
     isExpert: true
   - name: "custom"
-    value: "investigation +2"
+    value: "investigation +3"
   - name: "medecine"
   - name: "custom"
-    value: "nature+2"
+    value: "nature+3"
   - name: "custom"
     value: "perception +1 (désavantage pour les tests visuels)"
   - name: "custom"
@@ -49,7 +49,7 @@ skills:
   - name: "custom"
     value: "persuasion +2 (désavantage pour les tests)"
   - name: "custom"
-    value: "religion +2"
+    value: "religion +3"
   - name: "custom"
     value: "représentation +2"
   - name: "custom"
@@ -103,18 +103,21 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
 ## Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +2 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
+
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
+_Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)
 
 §§§ .hero
 ### Présentation:  
@@ -129,14 +132,14 @@ Gwion est un Meldète de vingt cinq printemps. Il a la peau blanche les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)    
-4176 PC, 10594 PA, 31 PE, 5080 PO, 100 PP et 598 églantiannes, 5 doses de Fortilianes, 1 calcédoine (50po), 1 onyx (50po).  
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce), [Anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts), [Brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu), dés anciennement magiques, bâton ferré, main momifiée magique (blessure 1/jour)
+4176 PC, 11594 PA, 31 PE, 5163 PO, 100 PP et 598 églantiannes, 5 doses de Fortilianes, 1 calcédoine (50po), 1 onyx (50po).  
 §§§
 
 §§§ .hero
 ### Composantes de sorts:  
 Perle de 100 po, une clochette enchantée.
-10 oeuf de cailles enchantés.  
+10 oeufs de cailles enchantés.  
 bout de ficelle et d’un morceau de bois enchanté.  
 un petit fil de cuivre enchanté.  
 
@@ -147,13 +150,13 @@ un petit fil de cuivre enchanté.
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
 **Novice** : [Alarme](/grimoire/alarme), [Aspersion d'acide](/grimoire/aspersion-acide), [cécité/surdité](/grimoire/cecite-surdite), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
-[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible), [soin des blessures](/grimoire/soin-des-blessures),
-[suggestion](/grimoire/suggestion),[vague tonnanante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
+[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
+[suggestion](/grimoire/suggestion),[vague tonnante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
 [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
 
-**Sorts possédés à apprendre** : Alarme, Brume glaciale, chien de garde, clairvoyance, silence, Vague tonnante.
+**Sorts possédés à apprendre** : Alarme, Brume glaciale, chien de garde, clairvoyance.
 §§§
 
 §§§ .hero
@@ -173,10 +176,10 @@ un petit fil de cuivre enchanté.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 40 393       
-**Points de Magie** :47   
+**XP acquis** : 54 335       
+**Points de Magie** :52   
 **Points de Foi** :12    
-**Points d'honneur** :35       
+**Points d'honneur** :37       
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 §§§

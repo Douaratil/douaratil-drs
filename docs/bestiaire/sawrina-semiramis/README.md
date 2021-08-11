@@ -103,7 +103,7 @@ _**Intouchable**_. *(Nayane)*  A partir du niveau 7, la Nayane peut entrer dans 
 |**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
-Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long). 
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).
 
 _**Imparable**_. *(Nayane)*  A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse de la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long). Contre les adversaires "standards", le modificateur de Dextérité (DEX) n'est pas pris en compte dans le calcul de la VD.   
 
@@ -150,8 +150,7 @@ Sawrina possède 180 PC, 2204 PA, 36 PE & 1082 PO, 45 PP.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 30 536    
-**Points de Magie** :10  
+**XP acquis** : 50 431
 **Points de Foi** :12   
 **Points d'honneur** :33
 §§§
