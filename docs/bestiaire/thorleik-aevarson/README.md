@@ -73,11 +73,10 @@ category: "PJ"
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)  
 
-_**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée ongue, hache d'arme, pique, outils d'herboriste.
+_**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.
 
 _**Voie de la Magie & Herredyr**_. Thorleik est niveau 6 dans la voie de la Magie et Archétype Herredyr (Hibou).
 
-_**Style de combat Protection**_. *(Armes)* Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.    
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).
 
