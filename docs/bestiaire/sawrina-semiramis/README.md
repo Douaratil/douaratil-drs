@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "7"
-customHP: "31"
+challenge: "9"
+customHP: "37"
 abilityScores:
   for: 10
-  dex: 18
+  dex: 19
   con: 10
   int: 10
   sag: 13
   cha: 10
-customSavingThrows: "for +0, dex +10, con +0, int +3, sag +4, cha +0"
+customSavingThrows: "for +0, dex +12, con +0, int +4, sag +5, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -97,24 +97,32 @@ _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'�
 
 _**Intouchable**_. *(Nayane)*  A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper vigilante, rapide et insensible à la douleur. Pendant une durée égale à 1d6 + son bonus de sagesse, la Nayane obtient une invulnérabilité de 6 sur 1d6. C'est à dire qu'à chaque coup sensé l'atteindre, il faut lancer 1d6 et si un 6 est obtenu, le coup est ignoré (Il est toujours possible de l'esquiver ou de le parer avec les règles normales de [_réactions défensives_](/combattre/#reaction-defensive). Cette capacité évolue avec le niveau de la Nayane.
 
-
 |Niveau|Intouchable sur 1d6|
 |:-:|:-:|
 |**7**|6|
 |**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
-Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).   
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long). 
+
+_**Imparable**_. *(Nayane)*  A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse de la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long). Contre les adversaires "standards", le modificateur de Dextérité (DEX) n'est pas pris en compte dans le calcul de la VD.   
+
+_**Attaque supplémentaire**_. *(Nayane)*  À partir du niveau 9, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
+Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 16. Pour celles qui viennent de la voie des armes et qui bénéficient déjà des attaques supplémentaires, elles obtiennent un bonus de dégâts de +2 en compensation à chaque fois, soit +2 au niveau 9 et +4 au niveau 16.
+
+
 
 ## Actions  
-_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+
+_**Dague**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère).
 
 §§§ .hero
@@ -130,7 +138,7 @@ Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveu
 §§§ .hero
 ### Equipement:  
 Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)
-Sawrina possède 180 PC, 4204 PA, 36 PE & 2562 PO, 45 PP.  
+Sawrina possède 180 PC, 2204 PA, 36 PE & 1082 PO, 45 PP.  
 §§§
 
 §§§ .hero
@@ -144,6 +152,6 @@ Sawrina possède 180 PC, 4204 PA, 36 PE & 2562 PO, 45 PP.
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 30 536    
 **Points de Magie** :10  
-**Points de Foi** :10   
-**Points d'honneur** :29  
+**Points de Foi** :12   
+**Points d'honneur** :33
 §§§
