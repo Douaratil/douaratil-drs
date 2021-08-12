@@ -24,11 +24,13 @@ movement:
 languages:
   - "une langue au choix (commun ethnique le plus souvent)"
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 15   
 ## Capacités
-_**Points de Foi**_ : 30  
+
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse dans les cérémonies et les rituels.  
 _**Incantation**_. L'acolyte est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de connus par l'acolyte :
-* **Sorts de Novice** : [_flamme sacrée_](/grimoire/flamme-sacree/), [_lumière_](/grimoire/lumiere/), [_thaumaturgie_](/grimoire/thaumaturgie/), [_bénédiction_](/grimoire/benediction/), [_sanctuaire_](/grimoire/sanctuaire/), [_soin des blessures_](/grimoire/soin-des-blessures/)
+* **Sorts de Novice (4/jour)** : [_flamme sacrée_](/grimoire/flamme-sacree/), [_lumière_](/grimoire/lumiere/), [_thaumaturgie_](/grimoire/thaumaturgie/), [_bénédiction_](/grimoire/benediction/), [_sanctuaire_](/grimoire/sanctuaire/), [_soin des blessures_](/grimoire/soin-des-blessures/)
 
 ## Actions
 _**Serpes sacrificielles**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

@@ -61,6 +61,25 @@ La tige de l'afana est utilisée principalement pour ses vertues curatives.
 *Cataplasme* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 tiges (doses) d'afana pour créer un cataplasme. La préparation doit être appliquée sur la zone de la blessure. Le cataplasme permet de doubler la vitesse de guérison d'une fracture.
 Valeur : 5 pièce d'argent la dose.   
 
+## Aloa
+**Description**  
+L'Aloa est une plante de la famille des plantes grasses qui pousse dans les zones tempérées chaudes. La mixture issue de sa feuille est un gel appaisant connu pour ses propriétés curatives pour traiter les brûlures et les coupures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone semi tempérée chaude:  
+**Hivers** :DD 16  
+**Printemps** :DD 12  
+**Eté** :DD 12   
+**Automne** :DD 16    
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** : Inéxistant (0)
+
+**Utilisation**  
+Les feuilles de l'Aloa sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 12 feuilles (doses) d'Aloa pour créer une mixture qui prend la forme d'un gel transparent. La préparation s'applique immédiatemement sur une zone brûlée ou une coupure. La mixture permet de doubler la vitesse de guérison des blessures par brûlure et peut stopper un saignement de 1 PA/round. D'autre part, sa première application restaure immédiatement 1d6 PA de brûlure.   
+Valeur : 5 pièces d'argent la dose. 
+
 ## Asgarbie
 **Description**  
 L'asgarbie est une petite plante grasse qui ne dépasse jamais les quatre pouces. Elle reconnaissable par ses petites excroissances violettes qui pourraient rappeler des oursins. Il s'agit du fruit qui est comestible mais sans intérêt gustatif. L'asgarbie ne se trouve que dans des déserts arides. La fleure d'asgarbie a par contre des vertus d'antidote si elle est correctement préparée.
@@ -79,7 +98,26 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 **Utilisation**  
 L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
 *Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d'asgarbies pour créer ce puissant antidote contre les poisons musculaires. La préapration doit être ingérée. L'antidote permet de guérir tout poison musculaire d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.    
-Valeur : 38 pièce d’or la dose.  
+Valeur : 38 pièces d’or la dose.  
+
+## Athalas
+**Description**  
+L'Athalas est une plante de la famille des herbacée qui pousse dans les zones semi arides aux abords des océans et des mers intérieures. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone semi aride aux abords des océans:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'argent la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+Les feuilles et les fleurs de l'Athalas sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 8 fleurs ou feuilles (doses) d'Athalas pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 4 pouces en 3d6 heures.
+Valeur : 66 pièces d'argent la dose.   
 
 ## Balahm
 **Description**  

@@ -158,6 +158,7 @@ L'action de combat la plus courante est [_attaquer_](/combattre/#attaquer), que 
 Cette action vous permet de réaliser une attaque de corps-à-corps ou à distance. Reportez-vous à la section [_Porter une attaque_](#porter-une-attaque) pour découvrir les règles qui s'appliquent à l'attaque.
 
 Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à votre personnage de porter plus d'une attaque avec cette action.
+Un résultat de trois 6 sur le jet initial d'attaque est toujours un coup critique. Le coup critique à plusieurs effets : il peut entrainer sur un personnage ou un PNJ important une blessure majeure.
 
 ### Chercher
 Quand vous choisissez l'action _chercher_, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
@@ -325,7 +326,7 @@ Le descriptif d'un sort vous indique quel dé lancer pour calculer les dégât
 Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.  
 
 #### Coups critiques
-Un coup critique est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit plus que le montant la valeur de sa constitution en un seul coup ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action.
+Un coup critique est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit plus que un montant supérieur à la valeur de sa constitution en un seul coup (on parle de seuil de critique) ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action ou que le résultat du jet d'attaque contient trois 6. Le coup critique entraine de plus immédiatement une blessure majeure qui est résolue immédiatement dans la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage).
 
 #### Types de dégâts
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.

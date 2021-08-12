@@ -45,14 +45,14 @@ Le type de blessure grave est tiré aléatoirement ou bien décidée par le Narr
 La blessure entraîne des limitation génériques comme vu ci-dessus et spécifiques comme indiqué ci-dessous dans le tableau.
 
 
-| 1d6 | Type de blessure |Durée avant les tests|limitations principales|test de volonté|
-|:-:|:-:|:-:|:-:|:-:|
-|1|Contusion|1 jour|Gros hématome, douloureux qui limite les mouvements|8|
-|2|écrasement|3 jours|Mouvement divisé par deux|12|
-|3|plaie|5 jours|Aucun mouvement brusque ou risque d'ouverture de la plaie avec hémorragie (1d6/rd)|16|
-|4|déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|
-|5|hémorragie|10 jours|Mouvements réduits au minimum ou risque d'hémorragie (2d6/rd)|22|
-|6|fracture|20 jours|Usage du membre impossible ou risque d'aggravation|28|
+| 1d6 | Type de blessure |Durée avant les tests|limitations principales|test de volonté|dégâts supplémentaires sur un adversaire|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1|Contusion|1 jour|Gros hématome, douloureux qui limite les mouvements|8|+1d6|
+|2|écrasement|3 jours|Mouvement divisé par deux|12|+2d6|
+|3|plaie|5 jours|Hémorragie 1d6 PA/ rounds jusqu'à stabilisation. Aucun mouvement brusque ou risque d'ouverture de la plaie avec hémorragie (1d6/rd)|16|+3d6|
+|4|déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|+4d6|
+|5|hémorragie|10 jours|Hémorragie 2d6 PA/ rounds jusqu'à stabilisation. Mouvements réduits au minimum ou risque d'hémorragie (2d6/rd)|22|+5d6|
+|6|fracture|20 jours|Usage du membre impossible ou risque d'aggravation, PA maximum limités à la moitié de la valeur de constitution|28|+6d6|
 
 Une personne gravement blessée doit passer un nombre de[_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 
@@ -69,7 +69,7 @@ Par exemple, une guerrier a un nombre de points d'action maximum de 12. Il lui r
 
 |Type| Dégats| test nécessaire |Effet|
 |:-:|:-:|:-:|:-:|
-|Coup critique|Si dégâts > à valeur de constitution| JS CON > Dégâts reçus|Si échec perte de conscience (1d6 rd) / Si échec > 10 Mort|
+|Coup critique|Si dégâts > à valeur de constitution ou trois 6 au jet initial| JS CON > Dégâts reçus|Si échec perte de conscience (1d6 rd) / Si échec > 10 Mort|
 |Dégâts cumulés|Si PA = ou  < à 0 |JS CON > Dégâts reçus cumulés du round à chaque coups reçus |Si échec perte de conscience (1d6 rd)/ Si échec > 10 Mort|
 **Le personnage récupère un nombre de PA/round = à sa valeur de CONstitution (sans dépasser 0)**
 
@@ -261,4 +261,4 @@ PH = CHA
 
 Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
-Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative.
+**Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative. Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**

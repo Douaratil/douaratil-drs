@@ -13,6 +13,14 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Amélioration des règles
+Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes deviendra indispensable. La règle du 1 s'améliore avec l'application automatique de l'annulation du 6 en cas de 1 sur le jet d'un adversaire. Concernant le bestiaire, les valeurs de **Seuil de critique** et de **Valeur offensive globale** sont ajoutées au fur et à mesure. L'application des blessures graves en cas de critique se précise (se référer au tableau dans la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves)) et désormais une condition supplémentaire apparait pour le coup critique, les trois 6 sur un jet d'attaque. D'autres plantes ont été ajoutées pour soigner les brûlures : [Athalas](/herbier/#athalas) & [Aloa](/herbier/#aloa).
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 12 août 2021_
+§§§
+
 ## L'herbier se densifie
 Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes prend un peu plus son sens pour améliorer la guérison de certains maux.
 Ajout dans l'herbier de plantes traitant les fractures osseuses avec l'[afana](/herbier/#afana), roseau des zones froides, le [balahm](/herbier/#balahm), roseau des zones chaudes et humides, la [boursselath](/herbier/#boursselath), herbe à ingérer des zones tempérées,  l'[ederlane](/herbier/#ederlane), plante moussue des régions froides et la [gourthamelle](/herbier/#gourthamelle), herbacée des zones tempérées.  
