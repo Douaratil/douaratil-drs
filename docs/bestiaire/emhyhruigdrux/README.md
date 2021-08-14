@@ -67,6 +67,8 @@ languages:
 telepathy: 72
 
 ---
+**Seuil de critique**: 30      
+**Valeur offensive globale**: 30     
 ## Capacités
 _**Absorption de la trame**_. Quand Emhyhruigdrux contre ou dissipe un sort, Il est soigné d'un nombre de points d'action égal à trois fois les points de Magie ou de Foi dépensés pour le sort.  
 

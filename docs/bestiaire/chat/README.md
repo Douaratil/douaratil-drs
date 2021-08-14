@@ -29,9 +29,10 @@ languages:
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
-source_page: 299
+
 ---
+**Seuil de critique**: 10        
+**Valeur offensive globale**: 10    
 ## Capacités
 _**Odorat aiguisé**_. Le chat obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

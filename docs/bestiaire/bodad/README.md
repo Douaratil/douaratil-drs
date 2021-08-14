@@ -51,6 +51,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 17        
+**Valeur offensive globale**: 17     
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir d'un Bodad.
 
@@ -68,4 +70,4 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,5
 _Touché_ : 6 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible subit 3d6 dégâts de poison de conversion au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du Bodad pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un Bodad, son cadavre éclate et il en sort un [débu](/bestiaire/debu/) nouvellement formé et couvert d'un liquide immonde. Ce débu est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par [_restauration inférieure_](/grimoire/restauration-inferieure/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/) ou une magie comparable. 
+_Touché_ : 6 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible subit 3d6 dégâts de poison de conversion au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du Bodad pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un Bodad, son cadavre éclate et il en sort un [débu](/bestiaire/debu/) nouvellement formé et couvert d'un liquide immonde. Ce débu est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par [_restauration inférieure_](/grimoire/restauration-inferieure/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/) ou une magie comparable.

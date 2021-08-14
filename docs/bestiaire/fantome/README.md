@@ -47,6 +47,8 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
 ---
+**Seuil de critique**: 10        
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Déplacement intangible**_. Le fantôme peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour à l'intérieur d'un objet.
 

@@ -31,6 +31,8 @@ environments:
   - Mangrove / Marécage
 
 ---
+**Seuil de critique**: 8        
+**Valeur offensive globale**: -      
 ## Capacités
 _**Amphibie**_. La grenouille peut respirer à l'air libre et sous l'eau.
 

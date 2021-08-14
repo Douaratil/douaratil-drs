@@ -34,6 +34,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 10        
+**Valeur offensive globale**: 13    
 ## Capacités
 _**Mépris du renvoi**_. Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les effets qui renvoient les morts-vivants.
 

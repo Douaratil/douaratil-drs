@@ -7,13 +7,13 @@ alignment: "Loyal neutre"
 challenge: "6"
 customHP: "32"
 abilityScores:
-  for: 16
+  for: 21
   dex: 10
   con: 14
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for +6, dex +3, con +5, int +3, sag +0, cha +0"
+customSavingThrows: "for +8, dex +3, con +5, int +3, sag +0, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -63,6 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg,l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
+**Seuil de critique**: 14      
+**Valeur offensive globale**: 21   
 
 ## Capacités
 **Historique:**_Garde  
@@ -92,21 +94,21 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 _**Maître des haches**_. *(Jörghal)* À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)  
 
 ## Actions  
-_**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Cnuth effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +11 pour toucher.  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).   
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Hache à deux mains**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 10 dégâts tranchants (à deux mains).  
+
+_**Hache**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).  
-
-_**Pique**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).  
 
 
@@ -124,7 +126,7 @@ Cnuth Athelsen  est un Melg de vingt cinq printemps. Il a la peau blanche les ch
 
 §§§ .hero
 ### Equipement:  
-Cnuth Athelsen  possède l'équipement suivant : Vêtements courrants, emblème de clan, pierre à affûter, outre de vin, bourse, épée longue, 2 haches d'arme, 1 hache de bataille (2m), hachettes (2), dagues (3), broigne
+Cnuth Athelsen  possède l'équipement suivant : Vêtements courrants, emblème de clan, pierre à affûter, outre de vin, bourse, épée longue, 2 haches d'arme, 1 hache de bataille (2m), hachettes (2), dagues (3), broigne, [ceinture de force de géant des collines](/liste-objets-magiques/ceinture-de-force-geant-des-collines)
 0 PC,  0 PA, 0 PE, 15 PO, 0 PP.
 
 §§§ .hero
@@ -133,6 +135,7 @@ Cnuth Athelsen  possède l'équipement suivant : Vêtements courrants, emblème 
 
 §§§ .hero
 ### Autres informations:  
+Valeur de force non modifiée 16
 **Haut fait de vaillance** :  
 **XP acquis** : 14 000  
 **Points de Magie** :10   

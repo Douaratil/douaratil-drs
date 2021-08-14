@@ -35,6 +35,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bredète dialecte meldète, le Mèlde langue meldète "
 category: "PNJ"
 ---
+**Seuil de critique**: 16      
+**Valeur offensive globale**: 23     
 ## Capacités
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.

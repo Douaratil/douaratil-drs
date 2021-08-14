@@ -63,6 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
+**Seuil de critique**: 13      
+**Valeur offensive globale**: 21   
 ## Capacités
 **Historique**. Solitaire.   
 **Compétences**. Nature, Survie.   

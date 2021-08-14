@@ -39,6 +39,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 18      
+**Valeur offensive globale**: 17   
 ## Capacités
 _**Armes infernales**_. Les attaques d'arme de l'Eidyde sont magiques et infligent 4d6 dégâts de poison supplémentaires en cas d'attaque réussie (déjà comptabilisés dans ses attaques).
 

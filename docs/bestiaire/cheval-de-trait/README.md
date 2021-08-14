@@ -25,6 +25,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 16     
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.

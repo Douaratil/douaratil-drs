@@ -36,6 +36,8 @@ environments:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 14        
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Maître du déguisement**_. Un darakhul qui revêt un déguisement préparé est _avantagé_ sur les jets de sauvegarde de Charisme (Supercherie) afin de passer pour un vivant. Quand le darakhul utilise ce pouvoir, il perd sa puanteur.
 

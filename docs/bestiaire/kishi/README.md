@@ -46,6 +46,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 19      
+**Valeur offensive globale**: 18   
 ## Capacités
 _**Bicéphale**_. Ce démon est _avantagé_ lors de ses tests de Perception et lors de ses jets de sauvegarde contre les états _aveuglé_, _charmé_, _assourdi_, _terrorisé_, _étourdi_ et _inconscient_ (s'il est assommé).
 
@@ -64,7 +66,7 @@ _**Attaques multiples**_. Le démon porte une attaque de _morsure_ et trois atta
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3 dégâts perforants.
 
-_**Lance**_. _Attaque d'arme au corps à corps ou à distance_ : +7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
+_**Lance**_. _Attaque d'arme au corps à corps ou à distance_ : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 _Touché_ : 4 dégâts perforants ou 6 dégâts perforants si utilisée à deux mains pour une attaque de corps à corps.
 
 ## Variante : Convocation de démon

@@ -38,6 +38,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 24       
+**Valeur offensive globale**: 24     
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du Diadedodde sont magiques.
 

@@ -26,6 +26,8 @@ environments:
   - Bois / Forêt
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 12  
 ## Capacités
 _**Odorat aiguisé**_. Le blaireau obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

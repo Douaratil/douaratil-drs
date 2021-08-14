@@ -30,6 +30,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+**Seuil de critique**: 8        
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Odorat et ouïe aiguisés**_. La belette obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

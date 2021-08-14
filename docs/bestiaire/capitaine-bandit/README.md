@@ -30,6 +30,8 @@ languages:
   - "deux langues au choix"
 
 ---
+**Seuil de critique**: 14        
+**Valeur offensive globale**: 15   
 ## Actions
 _**Attaques multiples**_. Le capitaine effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.
 

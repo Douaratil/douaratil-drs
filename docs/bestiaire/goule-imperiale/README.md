@@ -34,6 +34,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Braver le renvoi**_. La goule impériale et toutes les goules dans un rayon de 9 mètres autour d'elle sont _avantagées_ sur les jets de sauvegarde contre le renvoi des morts-vivants.
 

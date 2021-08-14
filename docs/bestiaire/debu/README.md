@@ -33,6 +33,8 @@ languages:
   - "comprend l'infernal mais ne peut pas parler"
 
 ---
+**Seuil de critique**: 11        
+**Valeur offensive globale**: 13     
 ## Capacités
 _**Reconstitution infernale**_. Un Debu qui meurt dans les Neuf Enfers revient à la vie en 1d10 jours avec tous ses points de vie, à moins qu'il ne soit tué par une créature d'alignement bon qui bénéficiait d'un sort de [_bénédiction_](/grimoire/benediction/) au moment de sa mort ou si de l'eau bénite a été aspergée sur son cadavre.
 

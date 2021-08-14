@@ -25,6 +25,8 @@ environments:
   - Montagnes
 
 ---
+**Seuil de critique**: 11        
+**Valeur offensive globale**: 13      
 ## Capacités
 _**Charge**_. Si la chèvre se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle elle réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 2 (1d4) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 10 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
