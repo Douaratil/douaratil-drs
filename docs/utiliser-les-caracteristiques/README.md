@@ -324,7 +324,7 @@ Un test de Sagesse peut refléter une tentative de décrypter le langage corpore
 Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si vous parvenez à calmer un animal domestique, à empêcher une monture de s'affoler ou à deviner les intentions d'un animal. Vous devez aussi faire un test de Sagesse (Dressage) pour contrôler votre monture lors d'une manœuvre risquée.
 
 ##### Médecine
-Un test de Sagesse (Médecine) vous permet de tenter de stabiliser un compagnon à l'agonie ou de diagnostiquer une maladie.
+Un test de Sagesse (Médecine) vous permet de tenter de stabiliser un compagnon à l'agonie (DD 16) ou de diagnostiquer une maladie (DD Variable selon la maladie). Cette compétence permet de stopper des saignements hémorragiques de 1 à 10 points d'action par round (DD 16) ou de 11 et + par round (DD 22).
 
 ##### Perception
 Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détecter d'une manière ou d'une autre une présence. Ce test permet de tester votre attention et votre sensibilité à votre environnement et la finesse de vos sens. Par exemple, vous pouvez tenter d'écouter une conversation à travers une porte fermée ou par une fenêtre entrouverte, ou bien d'entendre des monstres qui se déplacent furtivement dans une forêt. Ou vous pouvez tenter de repérer des choses dissimulées ou difficiles à remarquer, comme des orcs en embuscade le long d'une route, des brigands qui se cachent dans les ombres d'une ruelle ou la lumière d'une bougie visible dans les interstices d'une porte secrète.

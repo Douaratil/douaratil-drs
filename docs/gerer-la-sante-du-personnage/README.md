@@ -20,70 +20,50 @@ Par exemple, un Beghelm permet à un Dall Dawnser de regagner 8 points d'action 
 
 Une créature morte ne peut pas regagner de point d'action.
 
-### Blessures graves
-Une blessure grave est une blessure qui a été causée alors que le personnage n’avait plus de points d’action. Ce terme est utilisé pour marquer le fait que les combats sont dangereux, les blessures graves ne correspondent qu’à des coups qui laisseront des cicatrices par exemple. Elles mettent plus de temps à se guérir et entraînent de façon durable des pénalités.   
-Pour ceux qui veulent localiser aléatoirement la blessure, lancer 3d6 et se référer à la table suivante.  
-
-| 3d6* | Effet ||
-|:-:|:-:|:-|
-|3-4| Tête|  (3-4 Front, 5-6 nez, 7-8 joue droite, 9-10 joue gauche, 11-12 oreille droite, 13-14 oreille gauche, 15-16 cou,17-18 crâne)  |
-|5-9 |Partie haute |(3-4 clavicule droite, 5-6 clavicule gauche, 7-9 pectoral droit, 10-12 pectoral gauche, 13-15 omoplate droite, 16-18 omoplate gauche)  |
-|9-12| partie basse |(3-5 ventre, 6-7 hanche droite, 8-9 hanche gauche, 10 entrejambe, 11-12 bas du dos, 13-15 fesse droite, 16-18 fesse gauche )|  
-|13-15| bras| (3-4 épaule droite, 5-6 épaule gauche, 7-9 bras droit, 10-12 bras gauche, 13-14 avant bras droit, 15-16 avant bras gauche, 17 main droite, 18 main gauche) |   
-|16-18| jambe |(3-5 cuisse droite, 6-8 cuisse gauche, 9-10 mollet droit, 11-12 mollet gauche, 13-14 tibias droit, 15-16 tibias gauche, 17 pied droit, 18 pied gauche)|  
-* test non explosif
-
-
-#### Les conséquences génériques des blessures graves
-- 1 mètre de déplacement de pénalité par blessure non guérie.
-- Désavantage pour tous les tests de combats et les tests de caractéristiques impliquant la force ou la dextérité ainsi que les jets de sauvegarde.
-- Le maximum de point d’action est égal à la constitution quelque soit le niveau du blessé (cette conséquence ne s’applique qu’après un combat).
+### Coups critiques
+Un [coup critique](/tables-de-degats-et-de-coups-critiques/) peut entraîner une blessure (fracture, hemorragie, brûlure) qualifiées de mineur ou de majeure. C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action, si le seuil de critique est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
 
 #### Type de blessure grave et rythme de guérison  
 
-Le type de blessure grave est tiré aléatoirement ou bien décidée par le Narrateur. Suivant le type de blessure, le test de guérison qui est un test de Constitution (et pas un jet de sauvegarde) d'un DD de 16 s'effectue entre les intervalles indiqués ci-dessous.  
-La blessure entraîne des limitation génériques comme vu ci-dessus et spécifiques comme indiqué ci-dessous dans le tableau.
+Le type de blessure est décrit dans la table de [coup critique](/tables-de-degats-et-de-coups-critiques/). Suivant le type de blessure, le test de guérison qui est un test de Constitution (et pas un jet de sauvegarde) d'un DD de 16 s'effectue dans le cadre d'une guérison naturelle après le laps de temps indiqués ci-dessous. Les blessures peuvent être guéries plus rapidement par des soins magiques ou l'usage de plantes spéciales.  
 
 
-| 1d6 | Type de blessure |Durée avant les tests|limitations principales|test de volonté|dégâts supplémentaires sur un adversaire|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|Contusion|1 jour|Gros hématome, douloureux qui limite les mouvements|8|+1d6|
-|2|écrasement|3 jours|Mouvement divisé par deux|12|+2d6|
-|3|plaie|5 jours|Hémorragie 1d6 PA/ rounds jusqu'à stabilisation. Aucun mouvement brusque ou risque d'ouverture de la plaie avec hémorragie (1d6/rd)|16|+3d6|
-|4|déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|+4d6|
-|5|hémorragie|10 jours|Hémorragie 2d6 PA/ rounds jusqu'à stabilisation. Mouvements réduits au minimum ou risque d'hémorragie (2d6/rd)|22|+5d6|
-|6|fracture|20 jours|Usage du membre impossible ou risque d'aggravation, PA maximum limités à la moitié de la valeur de constitution|28|+6d6|
 
-Une personne gravement blessée doit passer un nombre de[_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+| Type de blessure |Durée avant les tests|limitations principales|test de volonté(SAG)|
+|:-:|:-:|:-:|:-:|:-:|
+|Contusion|1 jour|Gros hématome, douloureux qui limite les mouvements|8|
+|écrasement|3 jours|Mouvement divisé par deux|12|
+|plaie|5 jours|Aucun mouvement brusque ou risque d'ouverture de la plaie avec saignement (1d6/rd) (JS CON DD 16)|16|
+|déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|
+|hémorragie|10 jours| Mouvements réduits au minimum ou risque d'ouverture de la plaie avec hémorragie (2d6/rd) (JS CON DD 16)|22|
+|fracture|20 jours|Usage du membre impossible ou risque d'aggravation|28|
+
+Une personne blessée doit passer un nombre de[_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 
 Certaines herbes et certains sorts ont des effets sur le rythme ou les conditions de guérison.  
 
-### Tomber à 0 point de d’action ou coup critique
-Quand vous atteignez 0 point de d’action ou que vous subissez un coup critique (c’est à dire un montant de dégât supérieur à votre valeur de constitution en une seule fois), vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
-#### Mort instantanée
-Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose terrible arrive, il faut que les dégâts vous fassent tomber à 0 point d’action ou dépassent votre score de constitution en un seul coup. Il faut ensuite résister avec un JS de CONstitution à un DD correspondant aux dégâts reçus dans le tour. Dans le cadre d’un coup critique le test n’est fait qu’une seule fois sauf si les conditions d’un autre coup critique sont réunies (c’est à dire dépasser une seconde fois le score de constitution).  
-Dans le cadre d’un coup reçu alors que la cible est à 0 points d’action, un test doit être effectué à chaque nouveau dégât encaissé et le DD correspond au cumul des dégâts. Le « compteur » diminue tous les tours d’un montant correspondant à la constitution du personnage jusqu’à revenir à zéro. Ainsi une personne peut encaisser plusieurs blessures avant de s’effondrer ou de mourir. Chaque coup reçu à zéro de point de vie laisse une cicatrice et correspond à une blessure grave. **Si le JS de Constitution échoue de plus de 10, le personnage est mort**.  
-D’autre part, pour chaque blessure grave reçue, des pénalités s’appliqueront tant qu’elles ne seront pas totalement guéries (voir section blessure grave).  
-Par exemple, une guerrier a un nombre de points d'action maximum de 12. Il lui reste actuellement 6 points d'action. Si il subit 18 dégâts suite à une attaque, il tombe à 0 point de vie, mais il reste 12 dégâts supplémentaires. 12 est donc le DD pour résister.   
+Une blessure mineure augmente le DD de tout test de caractéristique la difficulté d'un degré: par exemple un test moyen (DD 16) se transforme en test difficile (DD 22). Dans le cadre d'une blessure majeure, la difficulté est augmenté de deux paliers:par exemple un test moyen (DD 16) se transforme en test très difficile (DD 28).
 
 
-|Type| Dégats| test nécessaire |Effet|
-|:-:|:-:|:-:|:-:|
-|Coup critique|Si dégâts > à valeur de constitution ou trois 6 au jet initial| JS CON > Dégâts reçus|Si échec perte de conscience (1d6 rd) / Si échec > 10 Mort|
-|Dégâts cumulés|Si PA = ou  < à 0 |JS CON > Dégâts reçus cumulés du round à chaque coups reçus |Si échec perte de conscience (1d6 rd)/ Si échec > 10 Mort|
-**Le personnage récupère un nombre de PA/round = à sa valeur de CONstitution (sans dépasser 0)**
+#### Mort
+Des dégâts peuvent vous tuer sur le coup. C'est souvent le cas dans le cadre d'un [coup critique](/tables-de-degats-et-de-coups-critiques/) et souvent la mort arrive rapidement. Si vous perdez plus de points d'action que vous en possédez et que vous passez sous la barre de zéro, vous devez résister pour ne pas tomber inconscient et faire des jets de sauvegarde contre la mort.  
+
+La mort d'un personnage peut-être extrêmement frustrante. Il faut se rappeler que dans Douaratil le jeu de rôle, un personnage est un véritable héros. Ainsi, un personnage qui subit la "mort" en terme de règle peut-être seulement très gravement blessé. Si le joueur veut sauver son personnage et que cela est plausible dans la narration (pas si il a été calciné sur un bûcher par exemple), le personnage subit certaines conséquences fâcheuses :  
+- Il perd immédiatement un niveau.  
+- Il perd les points de caractéristiques dû au niveau (1 pour un niveau impair et 2 pour in niveau pair) et il les soustrait de sa caractéristique Constitution (CON).  
+- Il perd les capacités liés au niveau ainsi que les Points d'Action (PA), Points de Magie (PM), Points de Foi (PF) & Points d'honneur (PH) qui en dépendent.  
+- Les points d'expériences sont diminués pour ne correspondre qu'au stricte minimum pour obtenir le niveau actuel.
+- Si suite à ses conséquences la Constitution est en dessous de 10 (et même si elle l'était avant la  mort) les prochains investissements en points de caractéristique devront se faire dans la caractéristique constitution jusqu'à ce qu'elle revienne à 10.   
 
 
 #### Perdre conscience
-Si les dégâts que vous subissez vous font tomber à 0 point d’action mais ne vous tuent pas par **un échec au DD de dégâts compris entre 10 et 1**, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle pourra agir immédiatement.   
-L’autre situation qui peut entrainer l’inconscience est le fait de subir des dégâts massifs quelque soit le montant de points d'action restant. Cette quantité de dégât est variable selon chaque individu ou créature et correspond à sa caractéristique de constitution. Si ce montant est dépassé, il faut réussir un JS DD16 ou s’effondrer pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 et se réveiller. Elle pourra agir immédiatement.   
+Si les dégâts que vous subissez vous font tomber à 0 point d’action, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds à moins de réussir un JS DD 16 de Constitution. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 de Constitution et se réveiller. Elle pourra agir immédiatement.   
+L’autre situation qui peut entraîner l’inconscience est le fait de subir des dégâts massifs quelque soit le montant de points d'action restant. Cette quantité de dégât est variable selon chaque individu ou créature et correspond à sa caractéristique de constitution. Si ce montant est dépassé, il faut réussir un JS DD 16 de Constitution ou s’effondrer pour 1d6 rounds. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 de Constitution et se réveiller. Elle pourra agir immédiatement.   
 
 #### Jets de sauvegarde contre la mort
-À chaque fois que vous commencez votre tour de jeu à 0 point de'action ou mois, et inconscient, vous devez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) spécial appelé [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+À chaque fois que vous commencez votre tour de jeu à 0 point d'action ou moins, vous devez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) spécial appelé [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
-Lancez 3d6 (non explosifs). Sur un résultat de 10 ou plus, vous avez réussi. Sinon, le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est un échec. Un échec ou un succès n'a pas d'effet en tant que tel, mais après trois succès, vous êtes stabilisé (voir ci-dessous la section [Stabiliser une créature](#stabiliser-une-creature)) et après trois échecs, vous mourez. Ces succès ou ces échecs n'ont pas besoin d'être consécutifs, vous devez donc noter chaque résultat jusqu'à en avoir obtenu trois identiques. Ce compteur est remis à 0 dès que vous regagnez des points d'action ou que vous êtes stabilisé.
-
-**Dégâts à 0 point d'action**. Si vous subissez des dégâts alors que vous êtes déjà à 0 point d'action et inconscient, vous devez ajouter un échec à votre compteur de jets de sauvegarde contre la mort. Si ces dégâts ont été causés par un coup critique, ils comptent comme deux échecs. Et si le total de ces dégâts est supérieur ou égal à votre maximum de points d'action, vous mourez instantanément.
+Lancez 3d6 (non explosifs). Sur un résultat de 10 ou plus, vous avez réussi. Sinon, le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est un échec. Un échec ou un succès n'a pas d'effet en tant que tel, mais après trois succès, vous êtes stabilisé (voir ci-dessous la section [Stabiliser une créature](#stabiliser-une-personne-blessee)) et après trois échecs, vous mourez. Ces succès ou ces échecs n'ont pas besoin d'être consécutifs, vous devez donc noter chaque résultat jusqu'à en avoir obtenu trois identiques. Ce compteur est remis à 0 dès que vous regagnez des points d'action pour être au dessus de zéro ou que vous êtes stabilisé.
 
 #### Stabiliser une personne blessée
 Le meilleur moyen de sauver une personne blessée qui se trouve à 0 point d'action est de la soigner. S'il n'est pas possible de la soigner, elle peut être stabilisée afin de lui éviter de mourir des suites d'un échec à son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort.
@@ -93,7 +73,7 @@ Vous pouvez utiliser une action pour administrer les premiers soins à une perso
 Une personne **stabilisée** n'a pas besoin de faire de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la mort, même si elle est à 0 point d'action. Cependant, elle reste [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Si la créature subit de nouveaux dégâts, elle n'est plus considérée comme stabilisée et doit recommencer à faire des jets de sauvegarde contre la mort. Si elle n'est pas soignée, une personne stabilisée regagne 1 point d'action au bout de 1d6 heures.
 
 #### Les monstres et la mort
-La plupart des MJ font mourir les adversaires dès qu'ils atteignent 0 point d'action plutôt que de les considérer comme [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et de faire pour eux des jets de sauvegarde contre la mort.
+La plupart des Narrateurs font mourir les adversaires dès qu'ils atteignent 0 point d'action plutôt que de les considérer comme [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et de faire pour eux des jets de sauvegarde contre la mort. Si le Narrateur préfère la réalisation d'un jet critique pour concrétiser la mort de la créature, il peut la laisser agir librement pendant 1d6 rounds ou de toutes les façons la créature succombe à ses blessures.   
 
 Les principaux adversaires et personnages non-joueurs spéciaux constituent une exception courante. Le MJ peut les considérer [_inconscients_](/gerer-la-sante-du-personnage/#inconscient) et suivre les mêmes règles que pour les personnages des joueurs.
 
@@ -150,8 +130,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets de sauvegarde de Dextérité.
 
 #### Étourdi
-* Une créature [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) ([voir l'état](#neutralise)), incapable de se déplacer et parle en balbutiant.
-* La créature rate automatiquement tous ses jets de sauvegarde de Force et de Dextérité.
+* Une créature [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) est fortement incapacité, incapable de se déplacer correctement (demi déplacement) et parle en balbutiant (Sorts à composantes verbales impossibles).
+* La créature subit un désavantage à toutes ses actions pendant la durée de l'effet d'étourdissement.  
 * Les jets d'attaque qui visent la créature se font avec un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Inconscient
