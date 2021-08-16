@@ -27,39 +27,38 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |Armes tueuses|+3d6|
 
 - Éléments entre parenthèses : Un (casque) ou un (bouclier) à côté d'un résultat critique signifie que si la cible possède l'objet approprié, l'effet ne se produit pas.
-l'objet approprié, l'effet ne se produit pas.  
 
 
-| Jet| Tranchant |contondant|Perforant|Grandes Créatures|Très grandes & Gigantesques |
+|Jet|Tranchant |contondant|Perforant|Grandes Créatures|Très grandes & Gigantesques|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|3-4| Coup puissant, +5 dgts|Coup puissant, +5 dgts|
-|5-9| Coup puissant, +10 dgts, arrachage du bouclier (6)|Coup puissant, +10 dgts, arrachage du bouclier (6)|
-|9-12| Coup puissant, + 15 dgts |  Coup puissant, + 15 dgts, adv étourdi 1 rd |  
-|13| Main, -1 au combat, +5 dgts  |   
-|14| Main, plaie ouverte (blessure mineure), -1 au combat, +10 dgts, 1 PA/rd|  
-|15| Pied, 1/2 mvt, +5 dgts|  
-|16| Pied, plaie ouverte (blessure mineure), 1/2 mvt, +10 dgts, 1 PA/ rd|  
-|17| Cuisse, 1/2 mvt, +15 dgts|  
-|18| Thorax, plaie ouverte (blessure mineure), + 10 dgts, 2PA/rd|  
-|19| Abdomen, plaie ouverte (blessure mineure), -1 au combat, +15 dgts, 2 PA/rd|  
-|20| Abdomen, frappe au ventre, la lame sort de l'autre côté de l'adversaire, Mort en 1d6 rounds, +1 à la prochaine attaque et à l'intiative. |  
-|21| Tête, plaie ouverte (blessure mineure), -2 au combat, +12 dgts, 2 PA/rd|  
-|22| |  
-|23| Bras, arrachage du bouclier (5-6) ou de l'arme (4-6), + 10 dgts|  
-|24| Dos, à terre, +8 dgts, étourdi 4 rds|  
-|25| Abdomen cisaillé, intestins sortent par la plaie, mort en 1d6 rds|  
-|26| Gorge cisaillée (blessure majeure), cordes vocales touchées, plus de voix pendant 1d6 jours, +7 dgts|  
-|27| Aine (blessure mineure), +5 dgts, 5 PA/rds|  
-|28| Nuque, trauma crânien (blessure majeure), inconscient 1d6 heures, + 20 dgts|  
-|29| Dos lacéré (blessure majeure), + 12 dgts, étourdi 6 rds, 3 PA/rd|  
-|30| Gorge tranchée, Mort en 1d6 rounds, +3 init pour le rd suivant |  
-|31| Main lacérée (blessure majeure), + 8 dgts, étourdi 2 rds, 4 PA/rd, lâche l'arme tenue en main|  
-|32| Cuisse lacérée (blessure majeure) 1/2 mvt, + 8 dgts, étourdi 3 rds, 5 PA/rd|  
-|33| Epaule lacérée (blessure majeure), + 10 dgts, étourdi 4 rds, 6 PA/rd|  
-|34| Poitrine transpercée (blessure majeure), + 15 dgts, étourdi 5 rds, 8 PA/rd|  
-|35| Tête, oeil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts|  
-|36| Tête, oreille arrachée (blessure majeure) +20 dgts, étourdi 10 rds (casque), sinon +10 dgts et étourdi 3 rds|  
-|37| Tête, oreille arrachée (blessure majeure), casque arrachée, +20 dgts, étourdi 10 rds|  
-|38| Tête, nez lacéré qui ne tient lus qu'à un lambeau de chair (blessure majeure), +20 dgts, 10 PA/rd |  
-|39| Tête, Mort (casque) sinon comas 1d6 jours|  
-|40+| Tête, décapitation, Mort instantanée, +5 init pour le rd suivant|  
+|3-4|Coup puissant, +5 dgts|Coup puissant, +5 dgts|Coup puissant, +6 dgts|Coup puissant, +10 dgts|Coup puissant, +15 dgts|
+|5-9|Coup puissant, +10 dgts, arrachage du bouclier (6)|Coup puissant, +11 dgts, arrachage du bouclier (6)|Coup puissant (bouclier), +9 dgts|Coup puissant, +15 dgts|Coup puissant, +20 dgts|
+|9-12| Coup puissant, + 15 dgts|Coup puissant, + 16 dgts, adv étourdi 1 rd | Coup puissant, + 13 dgts |Coup puissant, +20 dgts|Coup puissant, +30 dgts|
+|13| Main, -1 au combat, +5 dgts  | Main, -2 au combat, +4 dgts  | Main, -3 au combat, +3 dgts|Membre supérieur, -1 au combat, +10 dgts|Membre supérieur, -1 au combat, +15 dgts|   
+|14| Main, plaie ouverte (blessure mineure), -1 au combat, +10 dgts, 1 PA/rd| Main, (fracture mineure), -1 au combat, +12 dgts| Main transpercée (blessure mineure), -2 au combat, +9 dgts|Membre supérieur transpercé (blessure mineure), -2 au combat, +15 dgts|Membre supérieur transpercé (blessure mineure), -2 au combat, +25 dgts|  
+|15|Pied, 1/2 mvt, +5 dgts|Pied, 1/2 mvt, +7 dgts|Pied, 1/2 mvt, +5 dgts|Pied, 1/2 mvt, +15 dgts|Pied, 1/2 mvt, +20 dgts|
+|16| Pied, plaie ouverte (blessure mineure), 1/2 mvt, +10 dgts, 1 PA/ rd|  Pied (fracture mineure), 1/2 mvt, +12 dgts, étourdi 1 rd||||
+|17| Cuisse, 1/2 mvt, +15 dgts| Cuisse, 1/2 mvt, +17 dgts| |||
+|18| Thorax, plaie ouverte (blessure mineure), + 10 dgts, 2PA/rd||||  
+|19| Abdomen, plaie ouverte (blessure mineure), -1 au combat, +15 dgts, 2 PA/rd||||  
+|20| Abdomen, frappe au ventre, la lame sort de l'autre côté de l'adversaire, Mort en 1d6 rounds, +1 à la prochaine attaque et à l'intiative. | |||
+|21| Tête, plaie ouverte (blessure mineure), -2 au combat, +12 dgts, 2 PA/rd||||  
+|22| Tempe, plaie ouverte (blessure majeure), étourdi 4 rds, +12 dgts, 3 PA/rd||||
+|23| Bras, arrachage du bouclier (5-6) ou de l'arme (4-6), + 10 dgts||||  
+|24| Dos, à terre, +8 dgts, étourdi 4 rds||||  
+|25| Abdomen cisaillé, intestins sortent par la plaie, mort en 1d6 rds||||  
+|26| Gorge cisaillée (blessure majeure), cordes vocales touchées, plus de voix pendant 1d6 jours, +7 dgts||||  
+|27| Aine (blessure mineure), +5 dgts, 5 PA/rds||||  
+|28| Nuque, trauma crânien (blessure majeure), inconscient 1d6 heures, + 20 dgts||||  
+|29| Dos lacéré (blessure majeure), + 12 dgts, étourdi 6 rds, 3 PA/rd||||  
+|30| Gorge tranchée, Mort en 1d6 rounds, +3 init pour le rd suivant ||||  
+|31| Main lacérée (blessure majeure), + 8 dgts, étourdi 2 rds, 4 PA/rd, lâche l'arme tenue en main||||  
+|32| Cuisse lacérée (blessure majeure) 1/2 mvt, + 8 dgts, étourdi 3 rds, 5 PA/rd||||  
+|33| Epaule lacérée (blessure majeure), + 10 dgts, étourdi 4 rds, 6 PA/rd||||  
+|34| Poitrine transpercée (blessure majeure), + 15 dgts, étourdi 5 rds, 8 PA/rd||||  
+|35| Tête, oeil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts||||  
+|36| Tête, oreille arrachée (blessure majeure) +20 dgts, étourdi 10 rds (casque), sinon +10 dgts et étourdi 3 rds||||  
+|37| Tête, oreille arrachée (blessure majeure), casque arrachée, +20 dgts, étourdi 10 rds||||  
+|38| Tête, nez lacéré qui ne tient lus qu'à un lambeau de chair (blessure majeure), +20 dgts, 10 PA/rd ||||  
+|39| Tête, Mort (casque) sinon comas 1d6 jours||||  
+|40+| Tête, décapitation, Mort instantanée, +5 init pour le rd suivant||||  
