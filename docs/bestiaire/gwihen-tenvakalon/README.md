@@ -51,7 +51,7 @@ skills:
   - name: "custom"
     value: "religion +2"
   - name: "custom"
-    value: "représentatipn +0"
+    value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "survie"
