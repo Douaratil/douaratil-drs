@@ -46,6 +46,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 16   
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 

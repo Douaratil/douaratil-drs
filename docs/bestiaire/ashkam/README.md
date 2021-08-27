@@ -46,6 +46,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 23        
+**Valeur offensive globale**: 21    
 ## Capacités
 _**Né des ténèbres**_. À chaque tour, Ashkam peut, par une action bonus, effectuer l'action se cacher quand il se trouve dans une lumière faible ou dans les ténèbres, même si une autre créature est en train de l'observer.
 

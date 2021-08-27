@@ -30,6 +30,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 16          
+**Valeur offensive globale**: 15      
 ## Capacités
 _**Agressif**_. Par une action bonus, le Uh'r peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
 

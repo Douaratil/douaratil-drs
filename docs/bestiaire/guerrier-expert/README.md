@@ -28,6 +28,8 @@ movement:
 languages:
   - "Dépend de l'ethnie"
 ---
+**Seuil de critique**: 19        
+**Valeur offensive globale**: 19     
 ## Capacités
 
 _**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  

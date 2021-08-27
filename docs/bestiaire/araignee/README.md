@@ -29,6 +29,8 @@ environments:
   - Bois / Forêt
   - Jungle
 ---
+**Seuil de critique**: 8        
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

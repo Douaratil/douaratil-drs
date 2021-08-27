@@ -32,6 +32,8 @@ environments:
   - Jungle
 
 ---
+**Seuil de critique**: 20             
+**Valeur offensive globale**: 22       
 ## Capacités
 _**Onduler**_. Si le titanoboa n'a pas mangé de créature de Très Grande taille au cours des 24 heures précédentes, il peut traverser un emplacement étroit d'au minimum 3 mètres sans avoir besoin de se faufiler ou un emplacement de 1,50 mètre en se faufilant.
 

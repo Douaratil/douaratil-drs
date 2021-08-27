@@ -37,6 +37,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bredète dialecte meldète, le Mèlde langue meldète "  
 category: "PJ"
 ---
+**Seuil de critique**: 13            
+**Valeur offensive globale**: 16     
 ## Capacités
 _**Historique:**_  Bandit de grand chemin.  
 **Compétences**. Intimidation, Survie.    

@@ -25,5 +25,7 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+**Seuil de critique**: 8      
+**Valeur offensive globale**: -   
 ## Capacités
 _**Respiration aquatique**_. L'hippocampe peut respirer uniquement sous l'eau.

@@ -34,21 +34,22 @@ damageTypeResistances:
 languages:
   - "six langues au choix"
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 16     
 ## Capacités
-_**Points de Magie**_. 106
 _**Incantation**_. L'archimage est un adepte de la voie de la Magie de niveau 19. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). L'archimage peut lancer déguisement et invisibilité à volonté et connait les sorts suivants :  
-* **Novice** : [_armure du mage_](/grimoire/armure-du-mage/),[_aspersion d'acide_](/grimoire/aspersion-acide/),[_contrôle des flammes_](/grimoire/controle-des-flammes/), [_détection de la magie_](/grimoire/detection-de-la-magie/),[_détection des pensées_](/grimoire/detection-des-pensees/), [_glas funèbre_](/grimoire/glas-funebre/), [_message_](/grimoire/message/), [_identification_](/grimoire/identification/), [_immobilisation de personne_](/grimoire/immobilisation-de-personne/), [_prestidigitation_](/grimoire/prestidigitation/),
+* **Novice (à volonté)** : [_armure du mage_](/grimoire/armure-du-mage/),[_aspersion d'acide_](/grimoire/aspersion-acide/),[_contrôle des flammes_](/grimoire/controle-des-flammes/), [_détection de la magie_](/grimoire/detection-de-la-magie/),[_détection des pensées_](/grimoire/detection-des-pensees/), [_glas funèbre_](/grimoire/glas-funebre/), [_message_](/grimoire/message/), [_identification_](/grimoire/identification/), [_immobilisation de personne_](/grimoire/immobilisation-de-personne/), [_prestidigitation_](/grimoire/prestidigitation/),
 [_projectile magique_](/grimoire/projectile-magique/), [_suggestion_](/grimoire/suggestion/).  
 
-* **Disciple** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de feu](/grimoire/mur-de-feu/), [oeil magique](/grimoire/oeil-magique/).
+* **Disciple (5/jour)** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de feu](/grimoire/mur-de-feu/), [oeil magique](/grimoire/oeil-magique/).
 
-* **Apprenti** : [cercle de mort](/grimoire/cercle-de-mort/), [cône de froid](/grimoire/cone-de-froid/), [mur de force](/grimoire/mur-de-force/), [scrutation](/grimoire/scrutation/).
+* **Apprenti (4/jour)** : [cercle de mort](/grimoire/cercle-de-mort/), [cône de froid](/grimoire/cone-de-froid/), [mur de force](/grimoire/mur-de-force/), [scrutation](/grimoire/scrutation/).
 
-* **Adepte** : [doigt de mort](/grimoire/doigt-de-mort/), [forme éthérée](/grimoire/forme-etheree/),
+* **Adepte (3/jour)** : [doigt de mort](/grimoire/doigt-de-mort/), [forme éthérée](/grimoire/forme-etheree/),
 
-* **Expert** : [contrôle du climat](/grimoire/cotrole-du-climat/), [séquestration](/grimoire/sequestration/).
+* **Expert (2/jour)** : [contrôle du climat](/grimoire/cotrole-du-climat/), [séquestration](/grimoire/sequestration/).
 
-* **Maître** : [ennemi subconscient](/grimoire/ennemi-subconscient/).
+* **Maître (1/jour)** : [ennemi subconscient](/grimoire/ennemi-subconscient/).
 
 \*_L'archimage lance ces sorts sur lui-même avant un combat._
 

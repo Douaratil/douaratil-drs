@@ -27,6 +27,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 13     
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le mastiff obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

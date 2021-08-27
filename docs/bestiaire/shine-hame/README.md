@@ -32,8 +32,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 14      
 ## Capacités
-## Érudit
+_**Compétences**_ : Érudit
 **Compétences** : Arcanes, Histoire.  
 **Outils maîtrisés** : Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.  
 **Langues maîtrisées** : Une langue au choix.  

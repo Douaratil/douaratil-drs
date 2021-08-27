@@ -44,6 +44,8 @@ dungeonTypes:
   - Caverne sous-marine
 
 ---
+**Seuil de critique**: 11            
+**Valeur offensive globale**: 16     
 ## Capacités
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un serpent de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 

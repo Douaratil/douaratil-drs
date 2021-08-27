@@ -27,6 +27,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+**Seuil de critique**: 15              
+**Valeur offensive globale**: 14       
 ## Capacités
 _**Odorat et vue aiguisés**_. Le vautour obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 

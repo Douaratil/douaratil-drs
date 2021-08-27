@@ -42,6 +42,8 @@ languages:
 telepathy: 30
 
 ---
+**Seuil de critique**: 20             
+**Valeur offensive globale**: 21      
 ## Capacités
 _**Pas du montagnard**_. Les pentes de montagne et les escarpements rocheux ne gênent pas les déplacements du Shukhakh. En montagne, il traverse sans mal les terrains difficiles.
 

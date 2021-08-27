@@ -28,6 +28,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+**Seuil de critique**: 11        
+**Valeur offensive globale**: 11     
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le chacal obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

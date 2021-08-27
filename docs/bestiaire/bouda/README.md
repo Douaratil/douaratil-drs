@@ -49,6 +49,8 @@ languages:
 telepathy: 30
 
 ---
+**Seuil de critique**: 18      
+**Valeur offensive globale**: 17   
 ## Capacités
 _**Métamorphe**_. Un bouda peut utiliser une action pour se métamorphoser en humain, en hyène, ou pour prendre sa forme véritable, qui est celle d'un hybride entre une hyène et un humanoïde. Ses statistiques sont les même pour toutes ses formes, sauf en ce qui concerne son attaque de _griffe méphitique_. Tout équipement qu'il porte n'est pas transformé. Quand un bouda est détruit, il reprend sa forme véritable avant de tomber en poussière.
 

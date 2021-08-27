@@ -31,6 +31,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+**Seuil de critique**: 22            
+**Valeur offensive globale**: 23     
 ## Capacités
 _**Amphibie**_. Le serpent de mer peut respirer à l'air libre et sous l'eau.
 

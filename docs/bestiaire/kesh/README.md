@@ -41,6 +41,8 @@ languages:
   - "commun"
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Résistance à la magie**_. Le Kesh a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets de sauvegarde effectués contre les sorts ou tout autre effet magique.
 

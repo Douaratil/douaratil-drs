@@ -39,6 +39,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 18      
+**Valeur offensive globale**: 20   
 ## Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

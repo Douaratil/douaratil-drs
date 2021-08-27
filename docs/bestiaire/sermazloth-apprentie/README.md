@@ -27,6 +27,8 @@ damageTypeResistances:
 languages:
   - "Wesledh, Khern"
 ---
+**Seuil de critique**: 14            
+**Valeur offensive globale**: 16     
 ## Capacités
 _**Points de Foi**_ : 14  
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse khernaëe dans les cérémonies et les rituels.  

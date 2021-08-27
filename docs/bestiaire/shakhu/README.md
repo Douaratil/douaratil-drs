@@ -39,6 +39,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 21            
+**Valeur offensive globale**: 19      
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation du Shakhu est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Le Shakhu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_ténèbres_](/grimoire/tenebres/)

@@ -13,6 +13,33 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Coups critiques et mise à jour du bestiaire
+Suite à la règle du 1 qui améliore la narration du jeu, les règles des coups critiques ont été ajouté et les tables mises à jour. Nous testerons cela en réel dés demain avec le groupe.
+D'autres plantes seront ajoutées prochainement.   
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 27 août 2021_
+§§§
+
+## Amélioration des règles
+Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes deviendra indispensable. La règle du 1 s'améliore avec l'application automatique de l'annulation du 6 en cas de 1 sur le jet d'un adversaire. Concernant le bestiaire, les valeurs de **Seuil de critique** et de **Valeur offensive globale** sont ajoutées au fur et à mesure. L'application des blessures graves en cas de critique se précise (se référer au tableau dans la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves)) et désormais une condition supplémentaire apparait pour le coup critique, les trois 6 sur un jet d'attaque. D'autres plantes ont été ajoutées pour soigner les brûlures : [Athalas](/herbier/#athalas) & [Aloa](/herbier/#aloa).
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 12 août 2021_
+§§§
+
+## L'herbier se densifie
+Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes prend un peu plus son sens pour améliorer la guérison de certains maux.
+Ajout dans l'herbier de plantes traitant les fractures osseuses avec l'[afana](/herbier/#afana), roseau des zones froides, le [balahm](/herbier/#balahm), roseau des zones chaudes et humides, la [boursselath](/herbier/#boursselath), herbe à ingérer des zones tempérées,  l'[ederlane](/herbier/#ederlane), plante moussue des régions froides et la [gourthamelle](/herbier/#gourthamelle), herbacée des zones tempérées.  
+Je m'inspire fortement des ressources de rolemaster qui font Référence dans le domaine.  
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 06 août 2021_
+§§§
+
 ## Nouvelles pages d'inspiration musicale, essaie d'une chronologie et blessures graves.   
 Le développement du site se poursuit avec principalement la correction de liens cassés. J'ai rajouté plusieurs rubriques qui sont actuellement en test. Dans le menu, il y a désormais une rubrique [Inspiration musicale](/inspimusic) et une [chronologie](/chronologie).
 Le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves). Les [poisons](/poisons) ont aussi été revisités et seront complétés dans les jours à venir.

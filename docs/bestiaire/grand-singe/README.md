@@ -29,6 +29,8 @@ environments:
   - Montagnes
 
 ---
+**Seuil de critique**: 14        
+**Valeur offensive globale**: 15   
 ## Actions
 _**Attaques multiples**_. Le grand singe effectue deux attaques de poing.
 

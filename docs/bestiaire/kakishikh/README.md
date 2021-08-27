@@ -39,6 +39,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 20        
+**Valeur offensive globale**: 19     
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de la Kakishikh sont magiques.
 

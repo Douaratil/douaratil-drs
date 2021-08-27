@@ -37,8 +37,10 @@ languages:
   - "Le Sogh langue commune Sooghaï, Le Weshlèdh "
 category: "PJ"
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 12    
 ## Capacités
-## Serveur
+_**Historique:**_ Serveur
 **Compétences** : Athlétisme, Représentation.  
 **Outils maîtrisés** : Ustensiles de cuisinier ou un type de jeu au choix.  
 **Langues maîtrisées** : Une langue au choix.  

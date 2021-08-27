@@ -64,6 +64,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
 category: "PJ"
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 21     
 ## Capacités
 **Historique**. Inquisiteur.   
 **Compétences**. Intimidation, Religion.  

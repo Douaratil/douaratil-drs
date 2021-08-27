@@ -29,6 +29,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 11        
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 

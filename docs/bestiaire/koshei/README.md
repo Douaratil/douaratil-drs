@@ -46,6 +46,8 @@ languages:
 
 
 ---
+**Seuil de critique**: 17      
+**Valeur offensive globale**: 22   
 ## Capacités
 _**Âme cachée**_. Une créature tenant l'œuf contenant l'âme de Koschei peut utiliser son action pour donner des ordres au fiélon comme s'il avait été la cible de dominer un monstre et avait raté son jet de sauvegarde. Tant que son âme est dans l'aiguille, Koschei ne peut pas mourir définitivement. S'il périt, son corps se reforme dans son antre dans les 1d10 jours. Si l'aiguille est cassée, Koschei peut se faire tuer comme n'importe qui.
 
@@ -65,7 +67,7 @@ _**Attaques multiples**_. Koschei fait deux attaques à l'_épée longue_ et une
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants ou 6 dégâts tranchants si utilisée à deux mains, plus 4d6 dégâts nécrotiques.
 
-_**Drain de vie**_. _Attaque de sort au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Drain de vie**_. _Attaque de sort au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5d6 dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 19 ou voir son maximum de points d'action réduit d'une quantité égale au nombre de dégâts subis, Koschei récupérant le même nombre de points d'action. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points d'action à 0.
 
 ## Actions légendaires

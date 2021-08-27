@@ -13,7 +13,7 @@ abilityScores:
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1 "
+customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1"
 savingThrows:
   - "for"
   - "dex"
@@ -32,12 +32,14 @@ skills:
   - name: "custom"
     value: "discrétion +1"
   - name: "custom"
+    value: "dressage +1"
+  - name: "custom"
     value: "escamotage +1"
   - name: "custom"
     value: "histoire -1"
   - name: "intimidation"
   - name: "custom"
-    value: "inestigation -1"
+    value: "investigation -1"
   - name: "custom"
     value: "médecine +1"
   - name: "custom"
@@ -62,7 +64,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 19     
 ## Capacités
 **Historique:**_ explorateur.   
 **Compétences**. Athlétisme, Survie.  

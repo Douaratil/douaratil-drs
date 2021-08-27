@@ -385,6 +385,11 @@ module.exports = {
             path: '/gerer-la-sante-du-personnage/'
           },
           {
+            title: "Coups critiques",
+            icon: 'mdi-skull-crossbones',
+            path: '/tables-de-degats-et-de-coups-critiques/'
+          },
+          {
             title: "Lancer des sorts",
             icon: 'mdi-atom-variant',
             path: '/lancer-des-sorts/'
@@ -619,6 +624,11 @@ module.exports = {
                 title: "Douaratil",
                 icon: 'mdi-map-search-outline',
                 path:'/atlas-du-monde/douaratil'
+              },
+              {
+                title: "Shahia",
+                icon: 'mdi-map-search-outline',
+                path:'/atlas-du-monde/shahia'
               }
             ]
     }

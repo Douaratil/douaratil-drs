@@ -28,6 +28,8 @@ environments:
   - Montagnes
 
 ---
+**Seuil de critique**: 15        
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le loup obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

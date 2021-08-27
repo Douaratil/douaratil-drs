@@ -36,6 +36,8 @@ dungeonTypes:
   - Donjon maçonné
 
 ---
+**Seuil de critique**: 18            
+**Valeur offensive globale**: 19      
 ## Capacités
 _**Faiblesses des vampires**_. Voici les faiblesses du vampire :  
 * _Pieu dans le cœur_. Si une arme perforante en bois est plantée dans son cœur pendant qu'il est [_neutralisé_](/gerer-la-sante-du-personnage#neutralise) dans son refuge, il est [_paralysé_](/gerer-la-sante-du-personnage#paralyse) tant que le pieu n'est pas retiré.

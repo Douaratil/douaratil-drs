@@ -51,6 +51,8 @@ languages:
   - "umbral"
 
 ---
+**Seuil de critique**: 15             
+**Valeur offensive globale**: 17       
 ## Capacités
 _**Déplacement intangible**_. Le vampire umbral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour au sein d'un objet.
 

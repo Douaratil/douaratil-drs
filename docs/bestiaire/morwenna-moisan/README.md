@@ -33,6 +33,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bena’ch dialecte khenraë, le Mèlde langue meldète "
 category: "PNJ"
 ---
+**Seuil de critique**: 10            
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Voie des armes**_. : Morwenna est niveau 5 dans la voie des armes.
 

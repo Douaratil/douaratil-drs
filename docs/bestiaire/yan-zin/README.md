@@ -63,6 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, L'Alcane/Alcath le commun impérial, le Minghour/Mingath le commun oriental, le Yotaï/Tohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
+**Seuil de critique**: 10             
+**Valeur offensive globale**: 18      
 ## Capacités
 _**Historique Officier:**_.  
 **Compétences**.Athlétisme ou Dressage, Persuasion.  

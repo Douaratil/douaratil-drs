@@ -43,6 +43,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 18      
+**Valeur offensive globale**: 16   
 ## Capacités
 _**Peau barbelée**_. Au début de chacun de ses tours, le Diabbarbede inflige 2d6 dégâts perforants aux créatures qui l'empoignent.
 

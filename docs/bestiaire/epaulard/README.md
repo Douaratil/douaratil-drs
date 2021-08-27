@@ -30,6 +30,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+**Seuil de critique**: 13        
+**Valeur offensive globale**: 16     
 ## Capacités
 _**Écholocalisation**_. L'épaulard ne peut plus utiliser sa vision aveugle s'il est [_assourdi_](/gerer-la-sante-du-personnage/#assourdi).
 

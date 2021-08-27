@@ -29,6 +29,8 @@ environments:
   - Bois / Forêt
 
 ---
+**Seuil de critique**: 10        
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Vue aiguisée**_. Le hibou obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 

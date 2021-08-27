@@ -47,6 +47,8 @@ dungeonTypes:
   - Ruines extérieures
 
 ---
+**Seuil de critique**: 23      
+**Valeur offensive globale**: 20   
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un Dabbiub est le Charisme (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 

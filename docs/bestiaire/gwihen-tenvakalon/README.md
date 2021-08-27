@@ -51,7 +51,7 @@ skills:
   - name: "custom"
     value: "religion +2"
   - name: "custom"
-    value: "représentatipn +0"
+    value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "survie"
@@ -63,6 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
+**Seuil de critique**: 13      
+**Valeur offensive globale**: 21   
 ## Capacités
 **Historique**. Solitaire.   
 **Compétences**. Nature, Survie.   

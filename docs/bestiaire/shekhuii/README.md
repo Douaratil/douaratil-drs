@@ -51,9 +51,10 @@ languages:
   - "infernal"
   - "primordial"
 telepathy: 90
-source: "Livre des monstres"
-source_page: 90
+
 ---
+**Seuil de critique**: 27            
+**Valeur offensive globale**: 27      
 ## Capacités
 _**Résistance légendaire (4/jour)**_. Si Shekhuii rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 

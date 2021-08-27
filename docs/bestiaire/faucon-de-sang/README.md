@@ -29,6 +29,8 @@ environments:
   - Littoral
 
 ---
+**Seuil de critique**: 10        
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Tactique de groupe**_. Le faucon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) effectué contre une créature si au moins un des alliés du faucon, qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 

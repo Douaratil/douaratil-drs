@@ -23,6 +23,8 @@ languages:
   - "une langue au choix (commun le plus souvent)"
 
 ---
+**Seuil de critique**: 12      
+**Valeur offensive globale**: 13      
 ## Actions
 _**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96 m, une cible.  
 _Touché_ : 4 dégâts perforants.

@@ -35,6 +35,8 @@ languages:
   - "Ur'h"
 
 ---
+**Seuil de critique**: 16            
+**Valeur offensive globale**: 17      
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du Ur'h mage sont magiques.
 

@@ -44,6 +44,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+**Seuil de critique**: 9           
+**Valeur offensive globale**: 15     
 ## Capacités
 _**Frénésie sanguinaire**_. La nuée obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 

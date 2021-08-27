@@ -40,6 +40,8 @@ languages:
 telepathy: 36
 
 ---
+**Seuil de critique**: 22            
+**Valeur offensive globale**: 24     
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du Shakhor sont magiques.
 

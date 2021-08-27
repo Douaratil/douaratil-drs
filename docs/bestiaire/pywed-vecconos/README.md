@@ -58,7 +58,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
 category: "PJ"
 ---
-
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 14     
 ## Capacités
 **Historique** : Noblesse de robe  
 **Compétences** : Histoire, Perspicacité.   

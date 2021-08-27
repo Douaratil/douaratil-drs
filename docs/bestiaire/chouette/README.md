@@ -29,9 +29,10 @@ languages:
   - ""
 environments:
   - Bois / Forêt
-source: "Créatures & Oppositions"
-source_page: 303
+
 ---
+**Seuil de critique**: 8        
+**Valeur offensive globale**: 13     
 ## Capacités
 _**Ouïe et vue aiguisées**_. La chouette obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
