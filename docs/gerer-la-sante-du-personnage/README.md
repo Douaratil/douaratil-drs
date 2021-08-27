@@ -241,4 +241,4 @@ PH = CHA
 
 Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
-**Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative. Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**
+**Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative ainsi que les jets critiques. Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**
