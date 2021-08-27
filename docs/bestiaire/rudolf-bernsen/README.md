@@ -64,7 +64,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 19     
 ## Capacités
 **Historique:**_ explorateur.   
 **Compétences**. Athlétisme, Survie.  

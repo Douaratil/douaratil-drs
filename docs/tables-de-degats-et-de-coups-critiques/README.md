@@ -32,7 +32,7 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 ### Jets critiques Tranchants, contondants, perforants, contre les grandes créatures, contre les très grandes créatures et créatures gigantesques.  
 |Jet|Tranchant |contondant|Perforant|Contre Grandes Créatures|Contre Très grandes & Gigantesques|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|3-4|Coup puissant, +5 dgts|Coup puissant, +5 dgts|Coup puissant, +6 dgts|Coup puissant, +10 dgts|Coup puissant, +15 dgts|
+|2-4|Coup puissant, +5 dgts|Coup puissant, +5 dgts|Coup puissant, +6 dgts|Coup puissant, +10 dgts|Coup puissant, +15 dgts|
 |5-8|Coup puissant, +10 dgts, arrachage du bouclier (6)|Coup puissant, +11 dgts, arrachage du bouclier (6)|Coup puissant (bouclier), +9 dgts|Coup puissant, +15 dgts|Coup puissant, +20 dgts|
 |9-12| Coup puissant, + 15 dgts|Coup puissant, + 16 dgts, adv étourdi 1 rd | Coup puissant, + 13 dgts |Coup puissant, +20 dgts|Coup puissant, +30 dgts|
 |13| Main, -1 au combat, +5 dgts  | Main, -2 au combat, +4 dgts  | Main, -3 au combat, +3 dgts|Membre supérieur, -1 au combat, +10 dgts|Membre supérieur, -1 au combat, +15 dgts|   
@@ -68,7 +68,7 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 ### Jets critiques de feu, de froid, foudre, radiant, tonnerre
 |Jet|Feu |Froid|Foudre|Radiant|Tonnerre|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|3-4|Chaleur intense, +6 dgts|Froid intense, +4 dgts|Charge intense, +5 dgts|Lumière intense, +2 dgts, aveuglé 1 rd|Détonation intense, +3 dgts, assourdi 1 rd|
+|2-4|Chaleur intense, +6 dgts|Froid intense, +4 dgts|Charge intense, +5 dgts|Lumière intense, +2 dgts, aveuglé 1 rd|Détonation intense, +3 dgts, assourdi 1 rd|
 |5-8|Chaleur intense, +11 dgts|Froid intense, +9 dgts|Charge intense, +10 dgts|Lumière intense, +4 dgts aveuglé 1 rd|Détonation intense, +6 dgts, assourdi 1 rd|
 |9-12| Chaleur intense, + 16 dgts|Froid intense, + 14 dgts, adv étourdi 1 rd|Charge intense, + 15 dgts aveuglé 2 rds|Lumière intense, +8 dgts|Détonation intense, +12 dgts, assourdi 2 rds|
 |13|Brûlure à la main, -1 au combat, +6 dgts  | Gelure à la main, -2 au combat, +4 dgts |Charge électrique à la Main, -1 au combat, +5 dgts, étourdi 1 rd|Flash lumineux à la Main, -1 au combat, +2 dgts, aveuglé 1 rd|Détonation au niveau de la main, -1 au combat, +3 dgts, assourdi 1 rd|   
@@ -103,7 +103,7 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 ### Jets critiques de force, d'acide, nécrotiques, de poison, psychiques
 |Jet|Force |Acide|Nécrotique|Poison|Psychique|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|3-4|Coup puissant, +6 dgts|brûlure intense, +4 dgts au premier rd, +2 dgts au deuxième rd|dessèchement intense, +5 dgts, -1 au combat pendant 1 rd|douleur intense, +4 dgts, empoisonné 1 rd|Céphalée intense, +3 dgts, étourdi 1 rd|
+|2-4|Coup puissant, +6 dgts|brûlure intense, +4 dgts au premier rd, +2 dgts au deuxième rd|dessèchement intense, +5 dgts, -1 au combat pendant 1 rd|douleur intense, +4 dgts, empoisonné 1 rd|Céphalée intense, +3 dgts, étourdi 1 rd|
 |5-8|Coup puissant, +11 dgts|brûlure intense, +9 dgts au premier rd, +6 dgts au deuxième rd, +3 dgts au deuxième rd|dessèchement intense, +10 dgts, -1 au combat pendant 1 rd|douleur intense, +6 dgts, empoisonné 1 rd|Céphalée intense, +6 dgts, étourdi 1 rd|
 |9-12| Coup puissant, + 16 dgts|brûlure intense, +12 dgts au premier rd, +8 dgts au deuxième rd, +4 dgts au deuxième rd|dessèchement intense, +15 dgts, -1 au combat pendant 1 rd|douleur intense, +8 dgts, empoisonné 1 rd|Céphalée intense, +12 dgts, étourdi 2 rds|
 |13|Coup à la main, -1 au combat, +6 dgts  | Brûlure à la main, -2 au combat, +4 dgts le premier rd, +2 dgts au deuxième rd|dessèchement à la Main, -1 au combat, +5 dgts, étourdi 1 rd|douleur intense à la Main, -1 au combat, +2 dgts, empoisonné 1 rd|Céphalée, -1 au combat, +3 dgts, étourdi 1 rd|   

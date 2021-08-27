@@ -28,6 +28,8 @@ environments:
   - Jungle
 
 ---
+**Seuil de critique**: 19            
+**Valeur offensive globale**: 20      
 ## Actions
 _**Attaques multiples**_. Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible.
 

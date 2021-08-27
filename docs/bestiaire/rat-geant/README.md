@@ -25,6 +25,8 @@ dungeonTypes:
   - Caverne aménagée
 
 ---
+**Seuil de critique**: 11            
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Odorat aiguisé**_. Le rat obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

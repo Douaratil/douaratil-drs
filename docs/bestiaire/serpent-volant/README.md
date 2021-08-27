@@ -27,6 +27,8 @@ environments:
   - Montagnes
 
 ---
+**Seuil de critique**: 11            
+**Valeur offensive globale**: 16     
 ## Capacités
 _**Repli aérien**_. Le serpent ne provoque pas d'attaque d'opportunité quand il passe hors de portée de l'allonge d'un ennemi.
 

@@ -29,6 +29,8 @@ environments:
   - Montagnes chaudes
 
 ---
+**Seuil de critique**: 18        
+**Valeur offensive globale**: 15   
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le Malaak obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

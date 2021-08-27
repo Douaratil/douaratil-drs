@@ -13,6 +13,15 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Coups critiques et mise à jour du bestiaire
+Suite à la règle du 1 qui améliore la narration du jeu, les règles des coups critiques ont été ajouté et les tables mises à jour. Nous testerons cela en réel dés demain avec le groupe.
+D'autres plantes seront ajoutées prochainement.   
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 27 août 2021_
+§§§
+
 ## Amélioration des règles
 Depuis que le système des blessures graves et de leur guérison a été amélioré dans la partie [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves) , l'usage des plantes deviendra indispensable. La règle du 1 s'améliore avec l'application automatique de l'annulation du 6 en cas de 1 sur le jet d'un adversaire. Concernant le bestiaire, les valeurs de **Seuil de critique** et de **Valeur offensive globale** sont ajoutées au fur et à mesure. L'application des blessures graves en cas de critique se précise (se référer au tableau dans la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#blessures-graves)) et désormais une condition supplémentaire apparait pour le coup critique, les trois 6 sur un jet d'attaque. D'autres plantes ont été ajoutées pour soigner les brûlures : [Athalas](/herbier/#athalas) & [Aloa](/herbier/#aloa).
 Bon jeu.  

@@ -47,6 +47,8 @@ languages:
 telepathy: 18
 
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 14   
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un shookash est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer le sort suivant de manière innée, sans composantes matérielles :
 * **1/jour** : [_invisibilité supérieure_](/grimoire/invisibilite-superieure/)

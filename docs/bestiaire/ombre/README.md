@@ -50,6 +50,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**Seuil de critique**: 13            
+**Valeur offensive globale**: 14     
 ## Capacités
 _**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et des jets de sauvegarde lorsqu'elle est exposée à la lumière du soleil.
 

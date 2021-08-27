@@ -64,6 +64,8 @@ languages:
   - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
 category: "PJ"
 ---
+**Seuil de critique**: 10            
+**Valeur offensive globale**: 22     
 ## Capacités
 _**Historique  Médecin:**_.   
 **Compétences**. Médecine, Nature.  

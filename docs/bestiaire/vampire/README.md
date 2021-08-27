@@ -36,6 +36,8 @@ dungeonTypes:
   - Donjon maçonné
 
 ---
+**Seuil de critique**: 18           
+**Valeur offensive globale**: 19   
 ## Capacités
 _**Faiblesses des vampires**_. Voici les faiblesses du vampire :  
 * _Défense d'entrer_. Il ne peut pas entrer dans une habitation sans y avoir été invité par l'un de ses occupants.  

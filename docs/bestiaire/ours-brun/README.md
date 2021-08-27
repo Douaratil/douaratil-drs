@@ -30,6 +30,8 @@ environments:
   - Montagnes
 
 ---
+**Seuil de critique**: 16           
+**Valeur offensive globale**: 15     
 ## Capacités
 _**Odorat aiguisé**_. L'ours obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

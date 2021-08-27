@@ -42,6 +42,8 @@ languages:
   - "l'Alcath, le commun de l'empire, le Courdote dialecte alcante, le Khern langue Khernaëe "
 category: "PJ"
 ---
+**Seuil de critique**: 12          
+**Valeur offensive globale**: 18      
 ## Capacités
 **Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  

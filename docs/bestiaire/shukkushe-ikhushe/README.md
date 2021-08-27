@@ -45,6 +45,8 @@ languages:
 telepathy: 18
 
 ---
+**Seuil de critique**: 13            
+**Valeur offensive globale**: 15      
 ## Capacités
 _**Lien télépathique**_. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a [_charmée_](/gerer-la-sante-du-personnage/#charme), même s'ils ne sont pas sur le même plan d'existence.
 

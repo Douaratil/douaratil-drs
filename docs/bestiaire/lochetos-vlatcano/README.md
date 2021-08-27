@@ -63,7 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Brédète langue meldète et le Khern langue Khernaëe "
 category: "PJ"
 ---
-
+**Seuil de critique**: 14        
+**Valeur offensive globale**: 16   
 ## Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  

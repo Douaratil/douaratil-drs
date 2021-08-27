@@ -64,7 +64,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
 category: "PJ"
 ---
-
+**Seuil de critique**: 10            
+**Valeur offensive globale**: 17      
 ## Capacités
 **Historique:**_ Homme-médecine  
 **Compétences** : Médecine, Nature.  

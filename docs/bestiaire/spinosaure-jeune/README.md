@@ -29,7 +29,8 @@ environments:
   - Mangrove / Marécage
 
 ---
-
+**Seuil de critique**: 19            
+**Valeur offensive globale**: 19      
 ## Action
 _**Attaques multiples**_. Le spinosaure porte une attaque de _morsure_ et deux de _griffes_.
 
