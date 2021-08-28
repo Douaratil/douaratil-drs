@@ -40,10 +40,16 @@ Yan Zin s’inquiète pour la ville et ses habitants car les vivres commencent c
 
 **10 Miz Eost**  
 Les hommes de Pedr laissent Gwion continuer seul son voyage dans les Monts, craignant ces endroits qui jouissent d’une mauvaise réputation.
+
 **11 Miz Eost**  
-Donjon Gwion
+Gwion retrouve au village melg Sawrina, pour recruter des compagnons. Trois personnes acceptent de les aider : un guerrier du nom de Gwihem Tenvakalon, un prêtre de feu du nom de Torleik et son garde du corps, Knut, un puissant melg spécialisé dans le maniement des haches. Ensemble, ils s’enfoncent dans le donjon.  
+
+**12 Miz Eost**
+Le groupe d’aventuriers est souvent sauvé par Sawrina. Les différents héros s’entendent bien, même si la nayane et le meldète se méfient désormais de Torleik qui semblait avoir gardé un trésor avant de finalement se repentir et le redonner au groupe.  
+
 **13 Miz Eost**  
-Fin du donjon Gwion
+Le groupe est mené par Sawrina, capable de voir dans l’obscurité des salles. Grâce à elle, de nombreuses embûches sont évitées. L’avancée se fait lente et les dangereuses créatures sont nombreuses. Ils décident de rebrousser le chemin, et d’y revenir plus tard. Le groupe se sépare sauf Torleik et Gwion qui restent ensemble pour s’échanger quelques connaissances.  
+
 **15 Miz Eost**  
 Tibérius, sentant qu’il ne pourra pas défaire Alarig avec le peu d’hommes qu’il a réussi à recruter, décide de quitter la ville au profit de la nuit, les poches remplies de quelques pièces. Alors qu’il s’enfonce dans les bois pour rejoindre Kerzu, dans la précipitation il se prend les pieds dans un piège et se retrouve la tête en bas, la cheville attachée par une solide corde. Il est entravé et emmené par des éclaireurs Meldètes dans un camp dissimulé par les arbres.  
 
