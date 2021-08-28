@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "8"
-customHP: "38"
+challenge: "9"
+customHP: "41"
 abilityScores:
   for: 10
-  dex: 11
+  dex: 12
   con: 14
   int: 10
   sag: 12
   cha: 16
-customSavingThrows: "for +1, dex +6, con +3, int +3, sag +2, cha +6 "
+customSavingThrows: "for +1, dex +9, con +3, int +4, sag +2, cha +7 "
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "16 (cuirasse)"
+  value: "17 (cuirasse)"
 skills:
   - name: "custom"
     value: "acrobatie +1"
@@ -64,7 +64,7 @@ languages:
 category: "PJ"
 ---
 **Seuil de critique**: 14        
-**Valeur offensive globale**: 16   
+**Valeur offensive globale**: 17   
 ## Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
@@ -111,23 +111,25 @@ _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'�
 
 _**Orateur exceptionnel**_. *(Llawenos)* Également au niveau 8, vous pouvez utiliser (à volonté) votre capacité d'un inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Perspicacité), de Charisme (Persuasion) et Charisme (Supercherie).   
 
+_**Héraldique**_. *(Llawenos)* Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'Intelligence (Histoire) qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.  
+
 
 ## Actions
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-**Arc court**_. _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
+**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 
@@ -145,8 +147,8 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, [Amulette antidote](/liste-objets-magiques/amulette-antidote), 1 calcédoine (50po), 1 pierre de lune (50po), 1 onyx (50po), quartz rose étoilé (50po), Zircon (50po).  
-430PC, 6067 PA, 6 PE, 5709 PO, 100 PP.  
+Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, Fourrure de mandrills des montagnes (500po) (dents+griffes)[Amulette antidote](/liste-objets-magiques/amulette-antidote).  
+75 PC, 3897 PA, 50 PE, 3260 PO, 70 PP.  
 §§§
 
 §§§ .hero
@@ -158,7 +160,7 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.  
+**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces de d'argent et 3D6 X 100 pièces d'or.  
 **Un emplacement & un petit entrepôt au port de Thaouet** 2d6 pièces d'or.
 §§§
 
@@ -173,10 +175,11 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 ### Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 36 353
+**XP acquis** : 50284
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :35     
+**Points d'honneur** :44     
+** famille** : une amante et une fille Serena
 §§§
 
 §§§ .hero

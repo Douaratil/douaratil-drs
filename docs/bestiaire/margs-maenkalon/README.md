@@ -139,7 +139,7 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 §§§ .hero
 ### Equipement:  
 Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés plaqués argent (Valeur 125 po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), 1 calcédoine (50po), 1 onyx (50po), 1 fronde avec billes (20).
-Margs possède : 4619 PC, 2103 PA, 36 PE & 101 PO, 0 PP.  
+Margs possède : 4619 PC, 3493 PA, 36 PE & 811 PO, 0 PP.  
 §§§
 
 §§§ .hero
@@ -158,7 +158,7 @@ Margs possède : 4619 PC, 2103 PA, 36 PE & 101 PO, 0 PP.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 29 200
+**XP acquis** : 44 032  
 **Points de Magie** :8   
 **Points de Foi** :10    
 **Points d'honneur** :27    
