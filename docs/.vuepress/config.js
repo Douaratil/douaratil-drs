@@ -609,6 +609,11 @@ module.exports = {
                 title: "Miz khouéré 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-khouere-721'
+              },
+              {
+                title: "Miz Eost 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-eost-721'
               }
             ]
           },
