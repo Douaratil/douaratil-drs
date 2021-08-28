@@ -15,6 +15,7 @@ abilityScores:
 ac:
   armorType: "custom"
   value: "11"
+movement:
   walk: 0
   fly: 27
   hover: true
