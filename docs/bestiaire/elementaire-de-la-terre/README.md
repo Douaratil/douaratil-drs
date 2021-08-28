@@ -4,7 +4,7 @@ type: "Élémentaire"
 size: "G"
 alignment: "Neutre"
 challenge: "5"
-customHP: "8"
+customHP: "80"
 abilityScores:
   for: 20
   dex: 8
@@ -13,8 +13,8 @@ abilityScores:
   sag: 10
   cha: 5
 ac:
-  armorType: "armure naturelle"
-  value: 8
+  armorType: "custom"
+  value: "17 (armure naturelle)"
 movement:
   walk: 9
   burrow: 9
@@ -40,6 +40,8 @@ environments:
   - Plans élémentaires
 
 ---
+**Seuil de critique**: 20      
+**Valeur offensive globale**: 18   
 ## Capacités
 _**Monstre assiégeur**_. L'élémentaire inflige des dégâts doublés aux objets et aux structures.
 
@@ -49,4 +51,4 @@ _**Traverser la terre**_. L'élémentaire peut creuser à travers la terre et la
 _**Attaques multiples**_. L'élémentaire effectue deux attaques de coup.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 14 (2d8+5) dégâts contondants.
+_Touché_ : 6 dégâts contondants.
