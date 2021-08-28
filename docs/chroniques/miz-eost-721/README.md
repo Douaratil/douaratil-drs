@@ -33,18 +33,18 @@ Lôchetos rencontre quelques petits artistes et têtes pensantes de Thaouet et M
 Malala Soa, très inquiète pour son ancienne maitresse est retourné à Ker Saozon pour supplier la princesse de se rendre afin d’éviter une fin tragique.  
 
 **8 Miz Eost**  
-Gwion sort enfin de sa chambre pour prendre l’air. Son teint est blafard mais un sourire de satisfaction marque son visage.  
+Gwion sort enfin de sa chambre pour prendre l’air. Son teint est blafard mais un sourire de satisfaction marque son visage. Il a reçu quelques lettres marquées du cachet Vlatcano qu’il s’empresse de consulter avant de reprendre la route vers un donjon dont il a entendu parler récemment.  
 
 **9 Miz Eost**  
-Yan Zin s’inquiète pour la ville et ses habitants car les vivres commencent cruellement à manquer Il tente depuis plusieurs jours de contacter sa flotte mais aucun oiseau ne lui est revenu. Tibérius rassemble petit à petit des hommes sous sa bannière. Les troupes de l’Alcante ont été grandement décimées lors de la dernière bataille et se dernier a besoin de gonfler ses rangs afin de mener à bien sa mutinerie contre Alarig et se racheter auprès de Moisan. Il connait l’issue de ce siège et bien qu’il n’ait aucune animosité envers le seigneur de Ker-Saozon, c’est désormais la seule solution qui s’offre à lui pour rester en vie.  
+Yan Zin s’inquiète pour la ville et ses habitants car les vivres commencent cruellement à manquer Il tente depuis plusieurs jours de contacter sa flotte mais aucun oiseau ne lui est revenu. Tibérius rassemble petit à petit des hommes sous sa bannière. Les troupes de l’Alcante ont été grandement décimées lors de la dernière bataille et ce dernier a besoin de gonfler ses rangs afin de mener à bien sa mutinerie contre Alarig et se racheter auprès de Moisan. Il connait l’issue de ce siège et bien qu’il n’ait aucune animosité envers le seigneur de Ker-Saozon, c’est désormais la seule solution qui s’offre à lui pour rester en vie.  
 
 **10 Miz Eost**  
-Les hommes de Pedr laissent Gwion continuer seul son voyage dans les Monts, craignant ces endroits qui jouissent d’une mauvaise réputation.
+Les hommes de Pedr laissent Gwion continuer seul son voyage dans les Monts, craignant ces endroits qui jouissent d’une mauvaise réputation.  
 
 **11 Miz Eost**  
-Gwion retrouve au village melg Sawrina, pour recruter des compagnons. Trois personnes acceptent de les aider : un guerrier du nom de Gwihem Tenvakalon, un prêtre de feu du nom de Torleik et son garde du corps, Knut, un puissant melg spécialisé dans le maniement des haches. Ensemble, ils s’enfoncent dans le donjon.  
+Gwion retrouve au village melg avec Sawrina, pour recruter des compagnons. Trois personnes acceptent de les aider : un guerrier du nom de Gwihem Tenvakalon, un prêtre de feu du nom de Torleik et son garde du corps, Knut, un puissant melg spécialisé dans le maniement des haches. Ensemble, ils s’enfoncent dans le donjon.  
 
-**12 Miz Eost**
+**12 Miz Eost**  
 Le groupe d’aventuriers est souvent sauvé par Sawrina. Les différents héros s’entendent bien, même si la nayane et le meldète se méfient désormais de Torleik qui semblait avoir gardé un trésor avant de finalement se repentir et le redonner au groupe.  
 
 **13 Miz Eost**  
@@ -57,13 +57,13 @@ Tibérius, sentant qu’il ne pourra pas défaire Alarig avec le peu d’hommes 
 Après avoir dû attendre le retour au camp d’Argonos Vlatcano qui reconnait le compagnon de Lôchetos, Tibérius est enfin libéré. Il explique la situation au capitaine du camp qui comprend que la ville ne pourra pas être sauvée. Un messager est envoyé vers Thaouet pour prévenir les chefs du clan Vlatcano, et demander de nouveaux ordres.  
 
 **18 Miz Eost**  
-Le cercle d’artistes se réunit pour la deuxième fois. Pywed, qui souhaite retrouver Margs, est arrivé la veille et a été invité à rejoindre la réunion. Lôchetos oriente cette fois les débats autour du second séjour des âmes. Il illustre ses idées avec la situation à Caohaydhan, louant les résistants et condamnant les usurpateurs  
+Le cercle d’artistes se réunit pour la deuxième fois. Pywed, qui souhaite retrouver Margs, est arrivé la veille et a été invité à rejoindre la réunion. Lôchetos oriente cette fois les débats autour du second séjour des âmes. Il illustre ses idées avec la situation à Caohaydhan, louant les résistants et condamnant les usurpateurs.  
 
 **23 Miz Eost**  
-Alors qu’Heorn a laissé le ciel à Ylohane, Gwion reçoit la visite d’acolytes du cercle de la nuit. L’atmosphère est tendue entre la garde de l’Ambeanamos et les hommes de mains du cercle, mais ce soir seuls des mots sont échangés. Gwion est prié de rendre la pierre et reçoit un avertissement en cas de refus. Le pacte des sorciers sera respecté mais sa vie deviendra un enfer s’il ne rend pas la relique rapidement.  
+Alors qu’Heorn a laissé le ciel à Ylohane, Gwion reçoit la visite d’acolytes du cercle de la nuit. L’atmosphère est tendue entre la garde de l’Ambeanamos et les hommes de mains du cercle, mais ce soir seuls des mots sont échangés. Gwion est prié de rendre la pierre et reçoit un avertissement en cas de refus. Le pacte des sorciers sera respecté mais sa vie deviendra un enfer s’il ne rend pas la relique rapidement. Le sorcier décide de s’éclipser quelques temps.  
 
 **25 Miz Eost**  
 La situation à Caohaydhan s’est grandement dégradée depuis quelques jours à la suite de l’assassinat des Nantono. Les résistants s’organisent mais subissent une répression acharnée que leur oppose le pouvoir en place.  
 
 **26 Miz Eost**  
-Lochetos et Pywed partent rejoindre le camp Vlactano. La plupart des hommes a reçu pour ordre de se disperser et rejoindre Thaouet et seule une poignée d’hommes est restée en attendant l’arrivée du barde.  
+Lochetos et Pywed partent rejoindre le camp Vlactano. La plupart des hommes a reçu pour ordre de se disperser et rejoindre Thaouet et seule une poignée d’hommes est restée en attendant l’arrivée du barde. Tibérius qui a reçu comme seul indication de se préparer pour un long voyage a quitté temporairement le camp pour retrouver Rudolf.  
