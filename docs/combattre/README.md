@@ -220,7 +220,7 @@ Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer c
 
 ### Valeur de Défense
 La Valeur de Défense (VD) est égale à :  
-**10 + (Bonus de Dextérité + Bonus de Sagesse)/2 + Bonus (d’armure et bouclier).**  
+**10 + (Bonus de Dextérité + Bonus de Sagesse) + Bonus (d’armure et bouclier).**  
 
 ### Valeur de Offensive
 La Valeur de Offensive (VO) est égale à :  
