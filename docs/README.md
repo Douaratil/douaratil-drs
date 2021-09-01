@@ -13,6 +13,15 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Bestiaire & sortilèges
+Ajout de l'[Azer](/bestiaire/azer) et de l'[Esprit du feu](/bestiaire/esprit-du-feu) dans le bestiaire à la demande d'Elric.  
+Ajout des sorts [Amphore magique](/grimoire/amphore-magique) et [Ataxie/désafférentation](/grimoire/ataxie-desafferention) d'après les idées d'Elric.   
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 1 septembre 2021_
+§§§
+
 ## Coups critiques et mise à jour du bestiaire
 Suite à la règle du 1 qui améliore la narration du jeu, les règles des coups critiques ont été ajouté et les tables mises à jour. Nous testerons cela en réel dés demain avec le groupe.
 D'autres plantes seront ajoutées prochainement.   
