@@ -13,9 +13,17 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
+## Grimoire
+Ajout des sorts [Brume d'antre](/grimoire/brume-d-antre), [Chanceux](/grimoire/chanceux) et [Etouffement](/grimoire/etouffement) d'après les idées d'Elric.   
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 2 septembre 2021_
+§§§
+
 ## Bestiaire & sortilèges
 Ajout de l'[Azer](/bestiaire/azer) et de l'[Esprit du feu](/bestiaire/esprit-du-feu) dans le bestiaire à la demande d'Elric.  
-Ajout des sorts [Amphore magique](/grimoire/amphore-magique) et [Ataxie/désafférentation](/grimoire/ataxie-desafferention) d'après les idées d'Elric.   
+Ajout des sorts [Amphore magique](/grimoire/amphore-magique) et [Ataxie-désafférentation](/grimoire/ataxie-desafferentation) d'après les idées d'Elric.   
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
