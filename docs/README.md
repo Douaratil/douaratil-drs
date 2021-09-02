@@ -14,7 +14,7 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 
 ## Grimoire
-Ajout des sorts [Brume d'antre](/grimoire/brume-d-antre), [Chanceux](/grimoire/chanceux) et [Etouffement](/grimoire/etouffement) d'après les idées d'Elric.   
+Ajout des sorts [Brume d'antre](/grimoire/brume-d-antre), [Chanceux](/grimoire/chanceux), [Etouffement](/grimoire/etouffement) et [Force des noyés](/grimoire/force-des-noyes) d'après les idées d'Elric.   
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
