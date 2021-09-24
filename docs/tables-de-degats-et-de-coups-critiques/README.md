@@ -9,7 +9,7 @@ Ces règles viennent se rajouter à celles qui existent déjà et ne sont qu'opt
 
 Comment cela fonctionne : Quand un joueur ou un monstre fait un jet d'attaque, il y a une chance de faire un critique ou une maladresse. Le coup critique est obtenu de trois manières :  
 
-- obtenir au moins trois 6 dans une attaque.  
+- obtenir au moins trois 6 dans une attaque (y compris l'incantation d'un sort qui inflige des dégâts).  
 - Dépasser le seuil de critique.  
 - Infliger des coups à un adversaire qui a 0 point d'action.  
 

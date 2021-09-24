@@ -23,4 +23,4 @@ Toute créature ou objet solide entrant par une ouverture ressort instantanémen
 
 Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si elles sont contenues (des flots d'eau ou de lave ne peuvent pas passer au travers, mais une bouteille, une fiole ou un seau d'eau oui). Les sorts et les énergies ne peuvent pas franchir le passage, toutefois la lumière non magique passe au travers ce qui permet de voir de l'autre côté. Si la surface désignée ne peut accueillir l'ouverture, le sort est perdu ou s'arrête. Chacune des ouvertures n'a pas d'épaisseur et n'a qu'une seule face correspondant avec l'autre.
 
-**À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, le diamètre de l'ouverture augmente de 1,50 mètre par niveau au-delà du niveau 6.
+**À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau  adepte ou supérieur, le diamètre de l'ouverture augmente de 1,50 mètre par niveau au-delà du niveau d'apprenti.
