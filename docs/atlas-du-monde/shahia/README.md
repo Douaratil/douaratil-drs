@@ -8,6 +8,18 @@ Zone qui signifie le désert de dune. Cet ancien nom n'a plus grand chose à voi
 ## Jazirham  
 L'île rouge.
 
+## Larh Akdhar
+Mer d'émeraude
+
+## Larh Althaj
+Mer de neige
+
+## Larh Murda
+Mer miroir
+
+## Larh Akdhar
+Mer d'émeraude
+
 ## Luat'albarh
 Luat'albarh, la reine blanche comme elle est surnommée, est une grande cité des royaumes shaiates qui bénéficie de l'accès à la mer et du commerce avec le continent nordique et l'empire alcante.  
 

@@ -614,6 +614,11 @@ module.exports = {
                 title: "Miz Eost 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-eost-721'
+              },
+              {
+                title: "Miz Gwendel 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-gwendel-721'
               }
             ]
           },
