@@ -4,6 +4,8 @@ title: Carte du monde
 
 ## Carte du monde
 
+## Douaratil et les royaumes du Nord
+
 [![Carte du monde](/cartedumondeminiature.png)](https://www.douaratil.fr/cartes/cartedumonde.jpg)
 
 ## Douaratil
@@ -17,3 +19,7 @@ Ancien empire commercial très puissant, l'Alicanti Empari n'est plus que l'ombr
 
 ## Lacénondès  
 Ancienne tyrannie alliée historique de l'Alicanti Empari, Lacénondès se rapproche des royaumes Ptolèmes à l'Est.
+
+## Shahia et les royaumes du Sud  
+
+[![Carte du monde](/cartedeshahia.png)](https://www.douaratil.fr/cartes/cartedeshahia.jpg)
