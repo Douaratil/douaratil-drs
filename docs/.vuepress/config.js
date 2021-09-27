@@ -4,11 +4,11 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon-32x32.png' }],
     ['link', { rel: 'manifest', crossorigin:"use-credentials", href: '/manifest.json' }],
-    ['meta', { name: 'theme-color', content: '#5B3C11' }],
+    ['meta', { name: 'theme-color', content: '##4D5153' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' }],
-    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '#5B3C11' }],
+    ['link', { rel: 'mask-icon', href: '/icons/safari-pinned-tab.svg', color: '##4D5153' }],
     ['meta', { name: 'msapplication-TileImage', content: '/icons/mstile-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }]
   ],
