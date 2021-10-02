@@ -85,7 +85,7 @@ Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-l
 
 ### Monture sacrée supérieure  
 **En Khern : Kezeg Helgae**  
-À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
+À partir du niveau 13, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace à 2 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
 
 ### Sanctuaire de la nature  
 **En Khern : Santual Gwirion**  
@@ -106,7 +106,7 @@ La créature est consciente de cet effet avant de vous attaquer.
 
 ### Monture sacrée parfaite  
 **En Khern : Kezeg Helgae**  
-À partir du niveau 19, vous appelez un grand cerf blanc, qui outre le fait d’être majestueux se déplace à 2 fois la vitesse d’un cheval.  
+À partir du niveau 19, vous appelez un grand cerf blanc, qui outre le fait d’être majestueux, la monture se déplace à 3 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
 
 ### Archidruide  
 **En Khern : Bras Drouiz**  

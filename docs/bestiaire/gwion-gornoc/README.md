@@ -3,17 +3,17 @@ title: "Gwion Gornoc"
 type: "PJ"
 subtype: "Meldète"
 size: "M"
-alignment: "Chaotique neutre"
-challenge: "9"
-customHP: "34"
+alignment: "Neutre mauvais"
+challenge: "12"
+customHP: "40"
 abilityScores:
   for: 8
   dex: 8
   con: 16
-  int: 16
-  sag: 12
+  int: 20
+  sag: 15
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int +7, sag +9, cha +6 "
+customSavingThrows: "for -1, dex -1, con +3, int +9, sag +10, cha +6 "
 savingThrows:
   - "int"
   - "sag"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "13 (Armure de cuir cloutée)"
+  value: "14 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie -1"
@@ -31,31 +31,31 @@ skills:
     value: "athlétisme -1"
   - name: "discretion"
   - name: "custom"
-    value: "dressage +1"
+    value: "dressage +2"
   - name: "escamotage"
   - name: "custom"
-    value: "histoire +3"
+    value: "histoire +5"
   - name: "intimidation"
     isExpert: true
   - name: "custom"
-    value: "investigation +3"
+    value: "investigation +5"
   - name: "medecine"
   - name: "custom"
-    value: "nature+3"
+    value: "nature +5"
   - name: "custom"
-    value: "perception +1 (désavantage pour les tests visuels)"
+    value: "perception +2 (désavantage pour les tests visuels)"
   - name: "custom"
-    value: "perspicacité +1"
+    value: "perspicacité +2"
   - name: "custom"
     value: "persuasion +2 (désavantage pour les tests)"
   - name: "custom"
-    value: "religion +3"
+    value: "religion +5"
   - name: "custom"
     value: "représentation +2"
   - name: "custom"
     value: "supercherie +2"
   - name: "custom"
-    value: "survie +1"
+    value: "survie +2"
 
 movement:
   walk: 9
@@ -93,7 +93,7 @@ Toute personne extérieur au duel qui intervient pour l'intérrompre encourt de 
 En effet, pour chaque round de duel, la puissance magique se cumule au rythme de 1d6. Cela dure autant de rounds que le duelliste à de niveau. Lorsqu'il ne peut plus investi de d6, il maintient sa charge en attendant que l'autre ait terminé. La charge est ensuite libérée. Les dés sont lancés et celui qui possède le plus gros score gagne le duel. Le perdant se voit vidé de tous ses points de Magie et de Foi alors que le vainqueur bénéficie d'un bonus temporaire de points de magie égal à la différence obtenu. Il le réparti à sa guise entre sa réserve de Magie et de Foi. Cette énergie se dissipe peu à peu au rythme de 1d6 par heure. En attendant, elle peut être utilisée librement pour lancer des sorts.
 Une personna qui intervient ou touche un duelliste durant l'affrontement subit un choque dont les dégâts correspondent à la puissance du duel, soit 1d6 par round d'engagement. D'autre part, une personne frappée par cet effet est soudain submergé de terreur (DD22).
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (4d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 _**Manipulation de la magie ou métamagie**_. *(Ambeanamos)* Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins en dépensant le double de points de magie (PM). Vous gagnez une de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 7, une au niveau 10 et une dernière au niveau 17.  
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.  
@@ -102,6 +102,8 @@ Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous
 Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pouvez transformer ce temps d'incantation en une action bonus pour cette fois-ci.  
 *Sort intense*  
 Quand vous lancez un sort qui force une créature à faire un jet de sauvegarde pour résister à ses effets, vous pouvez infliger un désavantage à la cible lors de son premier jet de sauvegarde contre le sort.    
+*Sort subtil*   
+Quand vous lancez un sort, vous pouvez le lancer sans utiliser de composante verbale ni somatique.   
 
 _**Malédiction de l’ombre**_.  *(Ambeanamos)* Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.   
 
@@ -147,8 +149,8 @@ Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux b
 
 §§§ .hero
 ### Equipement:  
-Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce), [Anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts), [Brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu), dés anciennement magiques, bâton ferré, main momifiée magique (blessure 1/jour)
-4176 PC, 11594 PA, 31 PE, 7121 PO, 100 PP, 5 doses de Fortilianes.  
+Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce), [Anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts), [Brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu), dés anciennement magiques, bâton ferré, main momifiée magique (blessure 1/jour), Pierre d'obédience, 18 doses d'églantianes (huile essentielle), 7 doses d'empeurine (huille essentielle), 1à doses d'herbefolle (herbe à fumer).  
+4767 PC, 20 828 PA, 44 PE, 2229 PO, 134 PP.  
 §§§
 
 §§§ .hero
@@ -169,15 +171,18 @@ un petit fil de cuivre enchanté.
 [suggestion](/grimoire/suggestion),[vague tonnante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
 
-**Sorts possédés à apprendre** : Alarme, Brume glaciale, chien de garde, clairvoyance.
+**Sorts possédés à apprendre** :
+- Novice : Appel de familier, Armure de mage, Bourrasque, Boussole mentale, Confort, Déguisement, Pas brumeux, Strangulation.   
+- Disciple : Crainte, Fil de vie, Floraison, Hors saison, Jeter une malédiction, Ordre, Sanctuaire privé.  
+- Apprenti : Brise os, Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, Réservoir arcanique, Restauration supérieur, Scrutation.  
 §§§
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
-**Apoticaire de Caohaydan** : 3d6 po
+**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces de d'argent et 3D6 X 100 pièces d'or.  
+**Apoticaire de Caohaydan** : 3d6 po  
 §§§
 
 §§§ .hero
@@ -191,10 +196,11 @@ un petit fil de cuivre enchanté.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 54 335       
-**Points de Magie** :52   
-**Points de Foi** :12    
-**Points d'honneur** :37       
+**XP acquis** : 104 809       
+**Points de Magie** :68   
+**Points de Foi** :15    
+**Points d'honneur** :43       
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
+**Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
 §§§

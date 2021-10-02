@@ -14,7 +14,7 @@ title: Sermazloth
 |**8**|[Célérité infernale](#celerite-infernale)|
 |**9**|[Attaque supplémentaire(2)](#attaque-supplementaire)|
 |**10**|[Rage infernale (+2)](#rage-infernale)|
-|**12**|[Résistance à la douleur infernale](#resistance-a-la-douleur)|
+|**12**|[Résistance à la douleur infernale](#resistance-a-la-douleur-infernale)|
 |**14**|[Longévité infernale](#longevite-infernale)|
 |**15**|[Rage infernale (+3)](#rage-infernale)|
 |**16**|[Sororité infernale (+3)](#sororite-infernale)|  

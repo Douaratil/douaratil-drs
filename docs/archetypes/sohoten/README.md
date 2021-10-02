@@ -11,16 +11,13 @@ title: Sohoten
 |**4**|[Course dans les arbres](#course-dans-les-arbres)|
 |**5**|[Esquive intuitive (1)](#esquive-intuitive)|
 |**7**|[Coup distant (portée doublée)](#coup-distant)|
-|**8**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
-|**9**|[Coup parfait](#coup-parfait)|
+|**9**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
 |**10**|[Esquive intuitive (2)](#esquive-intuitive)|
-|**11**|[Calligraphie](#calligraphie)|
-|**12**|[Tir puissant](#tir-puissant)|
 |**13**|[Feu intérieur](#feu-interieur)|
 |**14**|[Coup distant (portée triplée)](#coup-distant)|
 |**15**|[Esquive intuitive (3)](#esquive-intuitive)|
-|**19**|[Frappe divine](#frappe-divine)|
-|**20**|[Esquive intuitive (4)](#esquive-intuitive), [Véritable Sohoten](#veritable-sohoten)|
+|**19**|[Esquive intuitive (4)](#esquive-intuitive)|
+|**20**|[Véritable Sohoten](#veritable-sohoten)|
 
 ## Aptitudes d'Archétype
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -60,15 +57,15 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 |**5**|1|
 |**10**|2|
 |**15**|3|
-|**20**|4|
+|**19**|4|
 
 ### Coup distant
 **En Yotaï : Nōsōtchū**  
-À partir du niveau 7, vous avez pouvez porter vos attaques à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.  
+À partir du niveau 7, vous avez pouvez porter une attaque, pour une action bonus, à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.
 
 ### Maîtrise de la concentration    
 **En Yotaï : Shūjuku Nōdo**  
-À partir du niveau 8, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
+À partir du niveau 9, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
 ### Mille mains  
 **En Yotaï : Sen Te**  

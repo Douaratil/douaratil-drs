@@ -11,9 +11,9 @@ abilityScores:
   dex: 20
   con: 14
   int: 10
-  sag: 15
+  sag: 16
   cha: 10
-customSavingThrows: "for +0, dex +15, con +2, int +5, sag +7, cha +0"
+customSavingThrows: "for +0, dex +15, con +2, int +5, sag +8, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "19 (Armure de cuir cloutée)"
+  value: "20 (Armure de cuir cloutée)"
 skills:
   - name: "acrobaties"
     isExpert: true
@@ -32,7 +32,7 @@ skills:
   - name: "discretion"
     isExpert: true
   - name: "custom"
-    value: "dressage +2"
+    value: "dressage +3"
   - name: "custom"
     value: "escamotage +5"
   - name: "custom"
@@ -46,7 +46,7 @@ skills:
   - name: "perception"
     isExpert: true
   - name: "custom"
-    value: "perspicacité +2"
+    value: "perspicacité +3"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
@@ -64,8 +64,8 @@ languages:
   - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
 category: "PJ"
 ---
-**Seuil de critique**: 10            
-**Valeur offensive globale**: 22     
+**Seuil de critique**: 14            
+**Valeur offensive globale**: 25     
 ## Capacités
 _**Historique  Médecin:**_.   
 **Compétences**. Médecine, Nature.  

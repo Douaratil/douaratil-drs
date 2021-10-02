@@ -71,7 +71,7 @@ A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaq
 
 ### Calligraphie  
 **En Yotaï : Shodō**  
-A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez toujours un avantage pour vos tests de calligraphie.  
+A partir du niveau 11, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez toujours un avantage pour vos tests de calligraphie.  
 
 ### Tir puissant
 **En Yotaï : Shūto Kyōryoku**  
@@ -79,7 +79,7 @@ A partir du niveau 10, la maîtrise se trouve aussi dans la concentration et l�
 
 ### Frappe divine  
 **En Yotaï : Nōsotchū Kami**  
-A partir du niveau 18, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire de taille grande maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD15 + modificateur de charisme ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) à tous les tests de combat jusqu'à réussir le JS. Les personnes terrorisées essaient de fuir devant vous, ce qui vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques.
+A partir du niveau 19, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire de taille grande maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD15 + modificateur de charisme ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) à tous les tests de combat jusqu'à réussir le JS. Les personnes terrorisées essaient de fuir devant vous, ce qui vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques.
 
 ### Véritable Seibahkami  
 **En Yotaï : Seibahkami**  

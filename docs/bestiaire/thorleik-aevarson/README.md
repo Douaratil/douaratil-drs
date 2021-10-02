@@ -67,7 +67,7 @@ category: "PJ"
 **Seuil de critique**: 10            
 **Valeur offensive globale**: 17      
 ## Capacités
-**Historique:**_ Homme-médecine  
+**Historique:** Homme-médecine  
 **Compétences** : Médecine, Nature.  
 **Outils maîtrisés** : Matériel d'herboriste.  
 **Langues maîtrisées** : Une langue au choix.  

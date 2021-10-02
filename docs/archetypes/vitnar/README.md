@@ -8,12 +8,13 @@ title:  Vitnar
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Ecriture sacrée](#ecriture-sacree), [Défense sans armure ](#defense-sans-armure)|
-|**3**|[Quêteur spirituel](#queteur-spirituel)|
+|**4**|[Quêteur spirituel](#queteur-spirituel)|
 |**5**|[Esprit totem](#esprit-totem)|
 |**6**|[Aspect de la bête](#aspect-de-la-bete)|
 |**7**|[Ami de mes amis](#ami-de-mes-amis)|
+|**8**|[Mixture de soin](#mixture-de-soin)|
 |**10**|[Marcheur spirituel](#marcheur-spirituel)|
-|**12**|[Mixture de soin](#mixture-de-soin)|
+|**12**|[Mixture de rage](#mixture-de-rage)|
 |**14**|[Lien totémique  ](#lien-totemique  )|
 |**15**|[Mixture d’empoisonnement](#mixture-d-empoisonnement)|
 |**18**|[Chef de meute](#chef-de-meute)|
@@ -35,11 +36,11 @@ Les Vitnars forment une caste respectée chez les Melgs. Les Vitnar de la voie d
 
 ### Ecriture sacrée
 **En langue Melg : Holtar**  
-Vous connaissez les signes anciens Holtar, la langue magique des Vitnar. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
+Au niveau 3,  vous connaissez les signes anciens Holtar, la langue magique des Vitnar. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
 
 ### Défense sans armure  
 **En langue Melg : Forsv’ustning**  
-Au niveau 3 Tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse+ votre modificateur de Constitution.  
+Au niveau 3, tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse+ votre modificateur de Constitution.  
 
 ### Quêteur spirituel    
 **En langue Melg : Sogen’sind**  

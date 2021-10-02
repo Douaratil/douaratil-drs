@@ -17,7 +17,7 @@ classes:
     - Foi
     - Magie
 ---
-**Coût** : 16 points de Foi ou de Magie
+**Coût** : 16 points de Foi ou de Magie  
 Par temps dégagé, la chaude lumière du soleil illumine une zone de 18 mètres de rayon centrée sur un point de votre choix situé à portée. Chaque créature présente dans cette lumière doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 12d6 dégâts radiants et sont <RT l="aveuglées" t="aveugle"/> pendant 1 minute. Les autres subissent seulement la moitié des dégâts et ne sont pas <RT l="aveuglées" t="aveugle"/> par le sort. Les vases et les morts-vivants sont affectés par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) par le sort fait un autre jet de Constitution à la fin de chacun de ses tours. Dès qu'elle réussit, sa cécité disparaît.

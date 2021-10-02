@@ -47,11 +47,10 @@ Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les
 
 ### Répartition des points de caractéristiques
 Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustée par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
-Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20.  
+Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20 ([Voir tableau évolution du personnage](/creation-du-personnage/#evolution-des-personnages)).La seule exception est l'accomplissement d'un archétype au niveau 20 ou supérieur qui donne un bonus de caractéristique avec un maximum de 22 ([Voir Archétypes](/archetypes))  
 
 ### Valeurs et modificateurs
 Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
-
 
 #### Table des modificateurs
 
@@ -66,7 +65,7 @@ Une fois les valeurs des caractéristiques de votre personnages établies (n'oub
 | **14-15** | +2 |
 | **16-17** | +3 |
 | **18-19** | +4 |
-| **20-21** | +5 
+| **20-21** | +5
 
 ### Points d'Action
 Une fois le score et le modificateur de Constitution définis, il est possible de calculer les **Points d'Action (PA)** de départ de votre personnage. Les PA reflètent l'énergie et la forme physique du personnage, son aptitude à poursuivre le combat malgré la fatigue et la douleur. Pour plus de détails sur les points et les points d’action, ainsi que les notions de blessure, de soins et de fatigue, consultez le chapitre [Gérer la santé du personnage](/gerer-la-sante-du-personnage/).
@@ -105,35 +104,35 @@ Le tableau d'évolution des personnages ci-dessous vous indique le nombre de poi
 
 ## Évolution des personnages
 
-| Points d'expérience | Niveau | Bonus de maîtrise |
-|:-:|:-:|:-:|
-| **0** | 1 | +2 |
-| **300** | 2 | +2 |
-| **900** | 3 | +2 |
-| **2700** | 4 | +2 |
-| **6500** | 5 | +3 |
-| **14000** | 6 | +3 |
-| **23000** | 7 | +3 |
-| **34000** | 8 | +3 |
-| **48000** | 9 | +4 |
-| **64000** | 10 | +4 |
-| **85000** | 11 | +4 |
-| **100000** | 12 | +4 |
-| **120000** | 13 | +5 |
-| **140000** | 14 | +5 |
-| **165000** | 15 | +5 |
-| **195000** | 16 | +5 |
-| **225000** | 17 | +6 |
-| **265000** | 18 | +6 |
-| **305000** | 19 | +6 |
-| **355000** | 20 | +6 |
-| **405000** | 21 | +7 |
-| **455000** | 22 | +7 |
-| **515000** | 23 | +7 |
-| **575000** | 24 | +7 |
-| **645000** | 25 | +8 |
-| **715000** | 26 | +8 |
-| **795000** | 27 | +8 |
-| **875000** | 28 | +8 |
-| **965000** | 29 | +9 |
-| **1100000** | 30 | +9 
+| Points d'expérience | Niveau | Bonus de maîtrise | Points de caractéristique par niveau | Points de caractéristiques cumulés |
+|:-:|:-:|:-:|:-:|:-:|
+| **0** | 1 | +2 | 0 | 0 |
+| **300** | 2 | +2 |+2 | +2 |
+| **900** | 3 | +2 |+1 | +3 |
+| **2700** | 4 | +2 |+2 | +5 |
+| **6500** | 5 | +3 |+1 | +6 |
+| **14000** | 6 | +3 |+2 | +8 |
+| **23000** | 7 | +3 |+1 | +9 |
+| **34000** | 8 | +3 |+2 | +11 |
+| **48000** | 9 | +4 |+1 | +12 |
+| **64000** | 10 | +4 |+2 | +14 |
+| **85000** | 11 | +4 |+1 | +15 |
+| **100000** | 12 | +4 |+2 | +17 |
+| **120000** | 13 | +5 |+1 | +18 |
+| **140000** | 14 | +5 |+2 | +20 |
+| **165000** | 15 | +5 |+1 | +21 |
+| **195000** | 16 | +5 |+2 | +23 |
+| **225000** | 17 | +6 |+1 | +24 |
+| **265000** | 18 | +6 |+2 | +26 |
+| **305000** | 19 | +6 |+1 | +27 |
+| **355000** | 20 | +6 |+2 | +29 |
+| **405000** | 21 | +7 |+1 | +30 |
+| **455000** | 22 | +7 |+1 | +31 |
+| **515000** | 23 | +7 |+1 | +32 |
+| **575000** | 24 | +7 |+1 | +33 |
+| **645000** | 25 | +8 |+1 | +34 |
+| **715000** | 26 | +8 |+1 | +35 |
+| **795000** | 27 | +8 |+1 | +36 |
+| **875000** | 28 | +8 |+1 | +37 |
+| **965000** | 29 | +9 |+1 | +38 |
+| **1100000** | 30 | +9|+1 | +39 |

@@ -1,5 +1,5 @@
 ---
-title: "Déchirure de l'âme'"
+title: "Déchirure de l'âme"
 description: "Déchire l'âme de l'adversaire"
 school: "Enchantement"
 level: 3

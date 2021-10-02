@@ -2,7 +2,7 @@
 title: "Nuage puant"
 description: "Nuage de gaz dans une sphère de 6 mètres qui cause des vomissements."
 school: "Invocation"
-level: 3
+level: 1
 concentration: true
 casting_time: "1 action"
 duration: "jusqu'à 1 minute"

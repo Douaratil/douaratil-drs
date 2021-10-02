@@ -17,6 +17,7 @@ title: "Jörghal"
 |**14**|[Représailles](#represailles)|
 |**17**|[Attaque supplémentaire (troisième attaque) ](#attaque-supplementaire)|
 |**18**|[Champion (Seuil de critique 4)](#champion)|
+|**19**|[Champion mythique](#champion-mythique)|
 |**20**|[Véritable Jörghal](#veritable-jorghal)|
 
 ## Aptitudes d'Archétype  

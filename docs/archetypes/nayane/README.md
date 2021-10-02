@@ -19,8 +19,8 @@ title: Nayane
 |**15**|[Intouchable (4-6)](#intouchable)|
 |**16**|[Attaque supplémentaire (Troisième attaque)](#attaque-supplementaire)|
 |**17**|[Sang empoisonné](#sang-empoisonne)|
-|**19**|[Intouchable (3-6)](#intouchable)|
-|**20**|[Parangon de mort](#parangon-de-mort),[Véritable Nayane](#veritable-nayane)|
+|**19**|[Parangon de mort](#parangon-de-mort), [Intouchable (3-6)](#intouchable)|
+|**20**|[Véritable Nayane](#veritable-nayane)|
 
 ## Aptitudes d'Archétype
 En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
