@@ -29,6 +29,7 @@ Bestiaire:
 
 Grimoire:  
 - Correction des sorts [Coercition mystique](/grimoire/coercition-mystique), [Coquille antivie](/grimoire/coquille-antivie), [Nuage puant](/grimoire/nuage-puant).   
+- Ajout du sort [Aiguiser](/grimoire/aiguiser). 
 - Ajout du sort [Esclave](/grimoire/esclave).  
 - Ajout du sort [Fissure](/grimoire/fissure).   
 - Ajout du sort [Fissure majeure](/grimoire/fissure-majeure).  
@@ -37,6 +38,12 @@ Grimoire:
 - Ajout du sort [Jalousie](/grimoire/jalousie).  
 - Ajout du sort [Malédiction funeste](/grimoire/malediction-funeste).  
 - Ajout du sort [Omniprésent](/grimoire/omnipresent).  
+- Ajout du sort [Obligation de vérité](/grimoire/obligation-de-verite).  
+- Ajout du sort [Oubli](/grimoire/oubli).  
+- Ajout du sort [Saignée](/grimoire/saignée).  
+- Ajout du sort [Sombre tentation](/grimoire/sombre-tentation).  
+- Ajout du sort [Suicide](/grimoire/suicide).  
+
 
 
 

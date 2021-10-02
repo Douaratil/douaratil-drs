@@ -1,6 +1,6 @@
 ---
 title: "Blessure"
-description: "Attaque de contact infligeant 3d10 dégâts nécrotiques."
+description: "Attaque de contact infligeant 3d6 dégâts nécrotiques."
 school: "Nécromancie"
 level: 0
 concentration: false

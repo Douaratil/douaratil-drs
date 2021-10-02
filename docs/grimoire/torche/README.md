@@ -16,7 +16,7 @@ ritual: true
 classes:
   - Magie
   - Foi
-source: "Gwion"
+source: "Elric"
 ---
 **Coût** : 4 points de Magie  
 **Enchantement** Le lanceur de sort utilise de la sève qu'il a prélevé sur un résineux. Il a pour cela besoin de 5 po de matériel (encens, bougies...). La sève se conditionne en bâtonnet semblable à de la colophane. Un enchantement permet d'obtenir 2d6 doses.

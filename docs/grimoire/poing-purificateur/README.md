@@ -15,7 +15,7 @@ components:
 ritual: false
 classes:
   - Foi
-source: "Gwion"
+source: "Elric"
 ---
 **Coût** : 2 points de Foi  
 

@@ -15,7 +15,7 @@ components:
 ritual: false
 classes:
   - Magie
-source: "Gwion"
+source: "Elric"
 ---
 **Coût** : 2 points de Magie  
 **Enchantement** Le sorcier enchante un petit bracelet de cuivre. Il a pour cela besoin d'un bracelet de cuivre, de 5 po de matériel (encens, bougies...) et d'une journée ensoleillée.

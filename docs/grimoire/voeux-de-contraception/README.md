@@ -16,7 +16,7 @@ ritual: true
 classes:
   - Magie
   - Foi
-source: "Gwion"
+source: "Elric"
 ---
 **Coût** : 4 point de Magie ou de Foi  
 
