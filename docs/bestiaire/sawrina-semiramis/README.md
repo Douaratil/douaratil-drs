@@ -138,12 +138,12 @@ Sawrina est une jeune assyrhim, issue d'une famille riche de Shahia qui se desti
 
 §§§ .hero  
 ### Description physique:  
-Sawrina est un Assyrhim de dix huit printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante huit kilos.
+Sawrina est une Assyrhim de dix neuf printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante huit kilos.
 §§§
 
 §§§ .hero
 ### Equipement:  
-Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpes sacrificielles finement ouvragées (Valeur 100po pièce), [Bottes de discrétion](/liste-objets-magiques/#bottes-de-discretion), 6 methagiles, 10 grenades désorientantes (oignotte).
+Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpes sacrificielles finement ouvragées (Valeur 100po pièce), [Bottes de discrétion](/liste-objets-magiques/bottes-de-discretion), 6 methagiles, 10 grenades désorientantes (oignotte).
 Sawrina possède 771 PC, 12226 PA, 49 PE & 1803 PO, 79 PP.  
 §§§
 
