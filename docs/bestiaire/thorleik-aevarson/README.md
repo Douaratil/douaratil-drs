@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "chaotique bon"
-challenge: "6"
-customHP: "22"
+challenge: "10"
+customHP: "32"
 abilityScores:
   for: 12
   dex: 10
-  con: 10
-  int: 14
-  sag: 12
+  con: 12
+  int: 16
+  sag: 16
   cha: 10
-customSavingThrows: "for +1, dex +0, con +0, int +8, sag +8, cha +0 "
+customSavingThrows: "for +1, dex +0, con +1, int +11, sag +11, cha +0 "
 savingThrows:
   - "int"
   - "int"
@@ -32,21 +32,21 @@ skills:
   - name: "custom"
     value: "discrétion +0"
   - name: "custom"
-    value: "dressage +2"
+    value: "dressage +3"
   - name: "custom"
     value: "escamotage +0"
   - name: "custom"
-    value: "histoire +2"
+    value: "histoire +3"
   - name: "intimidation"
     isExpert: true
   - name: "custom"
-    value: "investigation +2"
+    value: "investigation +3"
   - name: "medecine"
   - name: "nature"
   - name: "custom"
-    value: "perception +2"
+    value: "perception +3 (désavantage en plein jour)"
   - name: "custom"
-    value: "perspicacité +2"
+    value: "perspicacité +3"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
@@ -64,7 +64,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
 category: "PJ"
 ---
-**Seuil de critique**: 10            
+**Seuil de critique**: 12            
 **Valeur offensive globale**: 17      
 ## Capacités
 **Historique:** Homme-médecine  
@@ -93,7 +93,7 @@ Toute personne extérieur au duel qui intervient pour l'intérrompre encourt de 
 En effet, pour chaque round de duel, la puissance magique se cumule au rythme de 1d6. Cela dure autant de rounds que le duelliste à de niveau. Lorsqu'il ne peut plus investi de d6, il maintient sa charge en attendant que l'autre ait terminé. La charge est ensuite libérée. Les dés sont lancés et celui qui possède le plus gros score gagne le duel. Le perdant se voit vidé de tous ses points de Magie et de Foi alors que le vainqueur bénéficie d'un bonus temporaire de points de magie égal à la différence obtenu. Il le réparti à sa guise entre sa réserve de Magie et de Foi. Cette énergie se dissipe peu à peu au rythme de 1d6 par heure. En attendant, elle peut être utilisée librement pour lancer des sorts.
 Une personna qui intervient ou touche un duelliste durant l'affrontement subit un choque dont les dégâts correspondent à la puissance du duel, soit 1d6 par round d'engagement. D'autre part, une personne frappée par cet effet est soudain submergé de terreur (DD22).
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (3d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (4d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 _**Allégeance bestiale**_. *(Herredyr)* Dès le niveau 3, vous découvrez votre allégeance bestiale, de quel origine est le sang qui coule dans vos veines. De cette allégeance dépendra l'évolution du personnage.  
 
@@ -126,23 +126,43 @@ L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos lon
 
 _**Férocité bestiale**_. *(Herredyr)* Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaque est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 à chaque fois en compensation (+4 au niveau 12) .
 
+_**Compagnon bestial**_. *(Herredyr)* Dès le niveau 8, votre allégeance bestiale vous permet d'avoir un compagnon animal qui sera fidèle en toute chose à l'Herredyr. SI le compagnon devait mourir, l'Herredyr ne pourrait plus en avoir avant le début de la saison suivante.  
+Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20 même si le personnage continue sa progression au delà**.
+
+Progression du compagnon
+
+|Type|Taille|PA/niveau|VO jusqu'au niv 4|VO jusqu'au niv 8|VO jusqu'au niv 12|VO jusqu'au niv 16|VO jusqu'au niv 20|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Hibou**|Petite|3|+4|+5|+6|+7|+8|
+
+L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
+
+
+_**Sens bestiale**_. *(Herredyr)* Dès le niveau 10, votre allégeance bestiale vous permet développer les sens de votre seigneur animal. Cela se traduit par un avantage permanent aux tests de Perception liés à ce sens.  
+
+Progression du compagnon
+
+
+|Type|Sens concerné|Spécial|
+|:-:|:-:|:-:|
+|**Hibou**|Vue|Désavantage le jour, mais vision dans le noir à 36 mètres|
 
 ## Actions  
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).   
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).  
 
 
@@ -161,7 +181,7 @@ Thorleik Aevarson est un Melg de vingt trois printemps. Il a la peau blanche les
 §§§ .hero
 ### Equipement:  
 Thorleik Aevarson possède l'équipement suivant : Tente, couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse, hache d'arme, une pique, dague (3), armure de cuir clouée, bouclier
-0 PC,  0 PA, 0 PE, 10 PO, 0 PP.
+591 PC,  2834 PA, 13 PE, 734 PO, 34 PP.
 
 §§§ .hero
 ### Composantes de sorts:  
@@ -173,7 +193,7 @@ Thorleik Aevarson possède l'équipement suivant : Tente, couverture, bâton de 
 ### Sorts connus:  
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
-**Novice** : [Druidisme](/grimoire/druidisme), [Produire une flamme](/grimoire/produire-une-flamme), [soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
+**Novice** : [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Invisibilité](/grimoire/invisibilite), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
 [Arme sainte](/grimoire/arme-sainte), [Mur de feu](/grimoire/mur-de-feu), [Prière de soins](/grimoire/priere-de-soins)
@@ -186,10 +206,10 @@ Thorleik Aevarson possède l'équipement suivant : Tente, couverture, bâton de 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 14 000  
-**Points de Magie** :14   
-**Points de Foi** :38    
-**Points d'honneur** :22    
+**XP acquis** : 77 527  
+**Points de Magie** :16   
+**Points de Foi** :56    
+**Points d'honneur** :30      
 
 
 §§§

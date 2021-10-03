@@ -14,9 +14,31 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Modifications et ajout de contenu.    
+
+Les modifications sur le site sont les suivantes (liste non exhaustive):  
+
+Personnages:  
+- Mise à jour de [Thorleik Aevarson](/bestiaire/thorleik-aevarson) au niveau 10.  
+
+Bestiaire:  
+- Mise à jour de [l'Inéxorable](/bestiaire/inexorable).  
+
+Grimoire:  
+- Correction des sorts [Coercition mystique](/grimoire/coercition-mystique), [Coquille antivie](/grimoire/coquille-antivie), [Nuage puant](/grimoire/nuage-puant).   
+- Ajout du sort [Ambiance lumineuse](/grimoire/ambiance-lumineuse).
+- Ajout du sort [Ambiance sinistre](/grimoire/ambiance-sinistre).  
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 3 octobre 2021_
+§§§
+
 ## Nouvelles du mois écoulés et perspectives.  
 Les archétypes ont été corrigés en de nombreux endroits grâce à une relecture de Bastian pour [Bhegelm](/archetypes/bhegelm), le [Drodan](/archetypes/drodan), le [Jorghal](/archetypes/jorghal), le [Legatos](/archetypes/legatos) et le [Vitnar](/archetypes/vitnar). Le site est plein d'erreur et nous en corrigeons régulièrement.  
 La campagne est arrivée à un tournant et les joueurs ont gagné en puissance. La deuxième partie va pouvoir commencer. Je vous invite à lire [les chroniques](/chroniques) pour découvrir leurs aventures.  
+La prochaine partie de la campagne se déroulera en grande partie dans les terres du Sud, aux royaumes de Shahia et plus loin encore dans les terres Sooghaï. Ce sera l'occasion de décrire toutes ces parties du monde.   
 Les modifications sur le site sont les suivantes (liste non exhaustive):  
 
 Personnages:  
