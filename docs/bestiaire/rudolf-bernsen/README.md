@@ -7,13 +7,13 @@ alignment: "Loyal bon"
 challenge: "7"
 customHP: "40"
 abilityScores:
-  for: 16
-  dex: 14
-  con: 12
+  for: 21
+  dex: 16
+  con: 14
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +6, dex +4 (+5 avec la Pierre de puissance), con +4, int -1, sag +1, cha +1"
+customSavingThrows: "for +9, dex +7 (+9 avec la Pierre de puissance), con +6, int -1, sag +1, cha +1"
 savingThrows:
   - "for"
   - "dex"
@@ -21,20 +21,20 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "18 (chemise de maille & bouclier)"
+  value: "19 (chemise de maille & bouclier)"
 skills:
   - name: "custom"
-    value: "acrobatie +1"
+    value: "acrobatie +3"
   - name: "custom"
     value: "arcanes -1"
   - name: "athletisme"
     isExpert: true
   - name: "custom"
-    value: "discrétion +1"
+    value: "discrétion +3"
   - name: "custom"
     value: "dressage +1"
   - name: "custom"
-    value: "escamotage +1"
+    value: "escamotage +3"
   - name: "custom"
     value: "histoire -1"
   - name: "intimidation"
@@ -64,8 +64,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 19     
+**Seuil de critique**: 14          
+**Valeur offensive globale**: 24     
 ## Capacités
 **Historique:**_ explorateur.   
 **Compétences**. Athlétisme, Survie.  
@@ -95,20 +95,30 @@ _**Pierre de puissance**_.  *(Skell)*  À partir du niveau 6, Le Skell enchante 
 
 _**Compagnon animal renard**_.  *(Skell)*  À partir du niveau 7, le Skell s’attache les services d’un renard roux. L’animal ne s’éloigne jamais plus de 20 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.    
 
+_**Critique brutal**_.  *(Skell)*  À partir du niveau 8, quand vous blessez un adversaire et que vous lui causez un coup critique (c’est à dire plus de dégâts que sa valeur de constitution), vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts.
+À partir du niveau 13, vous lancez deux dés additionnels, et trois dés à partir du niveau 17.
+
+_**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.  
+
+_**Seconde Attaque**_.  *(Skell)*  À partir du niveau 9, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous choisissez une arme de prédilection parmi celles que vous maîtrisez et vous ajoutez +2 aux Dégâts.
+
+_**Pierre de puissance supérieure**_.  *(Skell)*  À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
 
 ## Actions  
+_**Attaques multiples**_. Rudolf effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, For +5), allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, For +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher (Bm +4, Bm+4, Dex +3), portée 24/96.  
 _Touché_ : 4 dégâts perforants .  
 
-_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +14 pour toucher (Bm +4, Bm+4, For +5, Serpe +1), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
 
 
@@ -124,8 +134,8 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 
 §§§ .hero
 ### Equipement:  
-Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (29), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce), 1 opaline (val 100po enchantée pour la DEX), 1 chemise de maille.     
-2780 PC,  2995 PA, 12 PE, 2355 PO, 45 PP.
+Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (29), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce), 1 opaline (val 300po enchantée pour la DEX +2), 1 chemise de maille, [Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines).     
+2960 PC,  3145 PA, 12 PE, 1835 PO, 45 PP.
 §§§
 
 §§§ .hero
@@ -136,10 +146,11 @@ Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magique
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 24 204   
-**Points de Magie** :9  
-**Points de Foi** :12  
-**Points d'honneur** :28    
+**XP acquis** : 66 074    
+**Points de Magie** :9    
+**Points de Foi** :12    
+**Points d'honneur** :34      
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
+La valeur naturelle de Force de Rudolf est de 16.  
 §§§

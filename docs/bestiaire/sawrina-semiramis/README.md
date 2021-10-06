@@ -121,14 +121,14 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 ## Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +15 pour toucher (Bm +5, Bm+5, For +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +15 pour toucher (Bm +5, Bm+5, For +5), portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +5, Bm+5, For +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère).
 
 §§§ .hero

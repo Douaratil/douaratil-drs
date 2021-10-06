@@ -150,19 +150,19 @@ Progression du compagnon
 ## Actions  
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1).  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).   
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).  
 
 
