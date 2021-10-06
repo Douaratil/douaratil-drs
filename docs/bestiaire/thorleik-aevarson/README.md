@@ -76,7 +76,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.
 
-_**Voie de la Magie & Herredyr**_. Thorleik est niveau 6 dans la voie de la Magie et Archétype Herredyr (Hibou).
+_**Voie de la Magie & Herredyr**_. Thorleik est niveau 10 dans la voie de la Magie et Archétype Herredyr (Hibou).
 
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).

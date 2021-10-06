@@ -75,7 +75,7 @@ _**Historique  Médecin:**_.
 
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 
-_**Voie des ombres & Nayane**_. Sawrina est niveau 6 dans la voie des ombres et Archétype Nayane.  
+_**Voie des ombres & Nayane**_. Sawrina est niveau 13 dans la voie des ombres et Archétype Nayane.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation, survie, perception**  
 
