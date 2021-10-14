@@ -14,7 +14,25 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
-## Mise à jour de Rudolf
+## Mise à jour de personnage
+
+Les modifications sur le site sont les suivantes (liste non exhaustive):  
+
+Personnages:  
+- Création de [Taron Vecconos](/bestiaire/taron-vecconos) au niveau 9.
+- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon) au niveau 12.  
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) au niveau 11.  
+- Mise à jour de [Pywed Vecconos](/bestiaire/pywed-vecconos) au niveau 5.
+- Mise à jour de [Shine Hame](/bestiaire/shine-hame) au niveau 5.  
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin) au niveau 6.  
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 14 octobre 2021_
+§§§
+
+## Mise à jour de personnage
 
 Les modifications sur le site sont les suivantes (liste non exhaustive):  
 
@@ -27,7 +45,7 @@ _**Olivier**_,
 _le 6 octobre 2021_
 §§§
 
-## Mise à jour de Thorleik
+## Mise à jour de personnage
 
 Les modifications sur le site sont les suivantes (liste non exhaustive):  
 

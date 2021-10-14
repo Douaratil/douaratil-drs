@@ -212,7 +212,7 @@ module.exports = {
             path: '/creation-du-personnage/'
           },
           {
-            title: 'Les ethnies',
+            title: "Les ethnies",
             icon: 'mdi-human-male-female',
             path: '/ethnies/',
           },
