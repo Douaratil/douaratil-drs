@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "3"
-customHP: "18"
+challenge: "5"
+customHP: "22"
 abilityScores:
   for: 10
   dex: 10
   con: 12
-  int: 13
+  int: 16
   sag: 12
   cha: 8
-customSavingThrows: "for +0, dex +0, con +1, int +5, sag +5, cha -1 "
+customSavingThrows: "for +0, dex +0, con +1, int +9, sag +7, cha -1 "
 savingThrows:
   - "int"
   - "int"
@@ -26,7 +26,7 @@ skills:
   - name: "custom"
     value: "acrobatie +0"
   - name: "custom"
-    value: "arcanes +0"
+    value: "arcanes +3"
   - name: "custom"
     value: "athletisme +0"
   - name: "custom"
@@ -37,11 +37,11 @@ skills:
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
-    value: "investigation +1"
+    value: "investigation +3"
   - name: "custom"
     value: "médecine +1"
   - name: "custom"
-    value: "nature +1"
+    value: "nature +3"
   - name: "perception"
   - name: "custom"
     value: "perspicacite +1"
@@ -70,7 +70,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , gourdins, javelines, massues, cimeterres, serpes, lances, glaive, hache, matériel d'herboriste, matériel d'alchimiste, Tympanion.
 
-_**Voie de la Magie & Drodan**_. Pywed est niveau 3 dans la voie de la Magie et Archétype Dordan.  
+_**Voie de la Magie & Drodan**_. Pywed est niveau 5 dans la voie de la Magie et Archétype Dordan.  
 
 **Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
 
@@ -83,27 +83,29 @@ De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un n
 _**Forme sauvage**_. *(Drodan)*  À partir du niveau 3, vous pouvez utiliser une action pour vous connecter à un animal à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.   
 Votre niveau de Drodan détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 3, par exemple, vous pouvez vous transformer en n'importe quel animal qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.   
 
-
 |Niv. |ID |Limitations|Exemple|
 |:-:|:-:|:-:|:-:|
 |3 |1/4 |Pas de vitesse de vol ou de nage|Loup|
 |5 |1/2| Pas de vitesse de vol|Ours noir|
 |8 |1 |-|Ours brun|
 Vous pouvez conserver cette connexion pendant un nombre d'heures équivalent à la moitié de votre niveau de Drodan (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis.
-Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 250 mètres par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
+Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 250 mètres par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
+
+_**Compagnon animal faucon**_. *(Drodan)*  À partir du niveau 4, le Drodan à une affinité avec les rapaces. Il se lie avec un faucon. Il doit s’agir d’un animal qui vit dans les contrées où réside le Drodan. Si le faucon devait disparaître pour une quelconque raison, un autre viendra le remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en glatissant. Le faucon peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson.  
+Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Drodan.  
 
 ## Actions
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+**Dague**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
 
@@ -124,14 +126,14 @@ Pywed Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les 
 ### Equipement:  
 Pywed Vecconos possède l'équipement suivant :
 Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse.  Armure de cuir cloutée, cimeterre, hache, glaive, bouclier en bois.
-20 po  
+700 pc, 200 pa, 125 po  
 §§§
 
 §§§ .hero
 ### Sorts connus:  
-**Bonus d'incantation: +3**  
+**Bonus d'incantation: +6**  
 **DD de Sauvegarde: 11**  
-**Novice** : [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Lame de feu](/grimoire/lame-de-feu), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures).  
+**Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
 §§§
 
 §§§ .hero
@@ -141,8 +143,8 @@ Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, 
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 900  
-**Points de Magie** :13  
-**Points de Foi** :24  
-**Points d'honneur** :14  
+**XP acquis** : 6750     
+**Points de Magie** :16  
+**Points de Foi** :32  
+**Points d'honneur** :18  
 §§§

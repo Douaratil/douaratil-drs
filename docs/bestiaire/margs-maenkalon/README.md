@@ -112,6 +112,8 @@ _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des
 
 ## Actions
 
+_**Attaques multiples**_. Margs effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+
 _**Glaive**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 

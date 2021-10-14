@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "5"
-customHP: "30"
+challenge: "6"
+customHP: "34"
 abilityScores:
-  for: 12
+  for: 13
   dex: 14
   con: 10
   int: 10
-  sag: 13
+  sag: 14
   cha: 10
-customSavingThrows: "for +4, dex +5, con +3, int +0, sag +4, cha +0"
+customSavingThrows: "for +4, dex +5, con +3, int +0, sag +5, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "15 (Armure de cuir cloutée)"
+  value: "16 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie +2"
@@ -33,6 +33,8 @@ skills:
   - name: "dressage"
     isExpert: true
   - name: "custom"
+    value: "Equitation (dressage + empathie équestre) +9"
+  - name: "custom"
     value: "escamotage +2"
   - name: "custom"
     value: "histoire +0"
@@ -41,11 +43,13 @@ skills:
   - name: "custom"
     value: "investigation +0"
   - name: "custom"
-    value: "medecine +1"
+    value: "medecine +2"
   - name: "custom"
     value: "nature +0"
   - name: "perception"
     isExpert: true
+  - name: "custom"
+    value: "Perspicacité +2"
   - name: "persuasion"
     isExpert: true
   - name: "custom"
@@ -55,7 +59,7 @@ skills:
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie +1"
+    value: "survie +2"
 movement:
   walk: 9
 senses:
@@ -64,7 +68,7 @@ languages:
 category: "PJ"
 ---
 **Seuil de critique**: 10             
-**Valeur offensive globale**: 18      
+**Valeur offensive globale**: 20      
 ## Capacités
 _**Historique Officier:**_.  
 **Compétences**.Athlétisme ou Dressage, Persuasion.  
@@ -75,7 +79,7 @@ _**Historique Officier:**_.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.
 
-_**Voie des armes & Seibahkami**_. Yan Zin est niveau 5 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
+_**Voie des armes & Seibahkami**_. Yan Zin est niveau 6 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
 
 _**Style de combat Archérie**_. *(Armes)* Yan Zin gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
@@ -96,6 +100,8 @@ _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes telle
 
 ## Actions
 
+_**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+
 _**Sabre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
@@ -105,7 +111,7 @@ _Touché_ : 8 dégâts tranchants (Finesse, légère).
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 24/96.  
+_**Arc long**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 45/180.  
 _Touché_ : 4 dégâts perforants .
 
 §§§ .hero
@@ -120,7 +126,7 @@ Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux
 
 §§§ .hero
 ### Equipement:  
-Yan Zin possède l'équipement suivant : Vêtement de bonne qualité, insigne de cavalerie (officier en formation), sabre oriental, dague, arc court, flèches (11), Armure de cuir, armure de cuir cloutée.   
+Yan Zin possède l'équipement suivant : Vêtement de bonne qualité, insigne de cavalerie (officier en formation), sabre oriental, dague, arc long, flèches (11), Armure de cuir, armure de cuir cloutée.   
 Yan Zin possède un cheval.    
 3800 PA, 2171 PO.    
 200 PO de marchandises pour son clan.  
@@ -135,8 +141,8 @@ Yan Zin possède un cheval.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 12 676     
+**XP acquis** : 16 115        
 **Points de Magie** :10  
-**Points de Foi** :13      
-**Points d'honneur** :25     
+**Points de Foi** :14        
+**Points d'honneur** :27     
 §§§

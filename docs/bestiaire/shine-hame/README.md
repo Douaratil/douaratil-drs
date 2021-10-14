@@ -4,22 +4,24 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "4"
-customHP: "20"
+challenge: "5"
+customHP: "23"
 abilityScores:
   for: 10
   dex: 13
-  con: 12
+  con: 13
   int: 12
   sag: 11
   cha: 9
 customSavingThrows: "for +0, dex +3, con +3, int +3, sag +2, cha +0"
 savingThrows:
+  - "dex"
+  - "con"
   - "int"
   - "sag"
 ac:
   armorType: "custom"
-  value: "11 "
+  value: "12 (esquive instinctive) "
 skills:
   - name: "arcanes"
     isExpert: true
@@ -32,7 +34,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
-**Seuil de critique**: 12          
+**Seuil de critique**: 13          
 **Valeur offensive globale**: 14      
 ## Capacités
 _**Compétences**_ : Érudit
@@ -54,6 +56,15 @@ _**Course dans les arbres**_. *(Sohoten)* À partir du niveau 4, vous pouvez uti
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.
 Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ensuite pour pouvoir réutiliser les déplacements utilisés.  
+
+_**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement agile et rapide que vous êtes très difficile à toucher. Vous gagnez un bonus de VD permanent dépendant de votre niveau.
+
+|Niveau|Bonus de VD|
+|:-:|:-:|
+|**5**|1|
+|**10**|2|
+|**15**|3|
+|**19**|4|
 
 
 
@@ -83,14 +94,21 @@ Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noi
 
 §§§ .hero
 ### Equipement:  
-Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 1897 po.  
+Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 1597 po.  
+§§§
+
+§§§ .hero
+### Sorts connus:  
+**Bonus d'incantation: +4**  
+**DD de Sauvegarde: 9**  
+**Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal) [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures).    
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 6238     
-**Points de Magie** :20  
-**Points de Foi** :19   
-**Points d'honneur** :22    
+**XP acquis** : 8300     
+**Points de Magie** :22  
+**Points de Foi** :21   
+**Points d'honneur** :24    
 §§§

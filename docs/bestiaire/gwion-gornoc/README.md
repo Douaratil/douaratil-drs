@@ -150,7 +150,7 @@ Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux b
 §§§ .hero
 ### Equipement:  
 Gwion possède l'équipement suivant : Habits courant, chausse trappe (20), jeu d'osselet, colifichet, hache, arc court, carquois, flèches (11), grigris, outils d'alchimie, outils d'herboristerie, sac à dos, une mule, une pelle. 1 onguent de soin  (récup 1d6 pa, doit être au calme), belle armure de cuir cloutée (Val 90po), 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce), [Anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts), [Brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu), dés anciennement magiques, bâton ferré, main momifiée magique (blessure 1/jour), Pierre d'obédience, 18 doses d'églantianes (huile essentielle), 7 doses d'empeurine (huille essentielle), 1à doses d'herbefolle (herbe à fumer).  
-4767 PC, 20 828 PA, 44 PE, 1879 PO, 134 PP.  
+4767 PC, 20 828 PA, 44 PE, 1579 PO, 134 PP.  
 §§§
 
 §§§ .hero
@@ -172,11 +172,11 @@ un petit fil de cuivre enchanté.
 [suggestion](/grimoire/suggestion),[vague tonnante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison),[Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
 
 **Sorts possédés à apprendre** :
-- Novice :  Déguisement, Pas brumeux, Strangulation.   
-- Disciple : Crainte, Fil de vie, Floraison, Hors saison, Jeter une malédiction, Ordre, Sanctuaire privé.  
+- Novice : Strangulation.   
+- Disciple : Hors saison, Jeter une malédiction, Ordre, Sanctuaire privé.  
 - Apprenti : Brise os, Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, Réservoir arcanique, Restauration supérieur, Scrutation.  
 §§§
 
@@ -197,7 +197,7 @@ un petit fil de cuivre enchanté.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 105 159       
+**XP acquis** : 105 459       
 **Points de Magie** :68   
 **Points de Foi** :15    
 **Points d'honneur** :43       
