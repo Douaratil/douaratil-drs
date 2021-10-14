@@ -71,7 +71,7 @@ _**Existence légendaire**_. Il n'est pas bon de tuer un Inéxorable. Lorsqu'il 
 
 
 ## Actions
-_**Attaque multiple**L'inexorable peut attaquer **quatre** fois quand il choisit l'action attaquer lors de son tour.  
+_**Attaque multiple**_ L'inexorable peut attaquer **quatre** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 13 dégâts tranchant  
