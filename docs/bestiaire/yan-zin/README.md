@@ -102,16 +102,13 @@ _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes telle
 
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Sabre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +3, Bm+3, Dex +2), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Sabre (Duelliste)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (Finesse, légère).
-
-_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm +3, Dex +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Arc long**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 45/180.  
+_**Arc long**_. _Attaque d'arme à distance_ : +10 pour toucher (Bm +3, Bm+3, Dex +2, +2 Archerie), portée 45/180.  
 _Touché_ : 4 dégâts perforants .
 
 §§§ .hero

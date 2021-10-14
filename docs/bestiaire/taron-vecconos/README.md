@@ -21,35 +21,36 @@ savingThrows:
   - "con"
 ac:
   armorType: "custom"
-  value: "16 (armure de cuir cloutée + bouclier en bois)"
+  value: "13 (armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie +0"
   - name: "custom"
-    value: "arcanes +3"
-  - name: "custom"
-    value: "athletisme +0"
-  - name: "custom"
-    value: "dressage +1"
+    value: "arcanes +0"
+  - name: "athletisme"
+    isExpert: true
+  - name: "dressage"
   - name: "custom"
     value: "escamotage +0"
-  - name: "histoire"
   - name: "custom"
-    value: "intimidation -1"
+    value: "histoire +0"
+  - name: "intimidation"
+    isExpert: true
   - name: "custom"
-    value: "investigation +3"
+    value: "investigation +0"
   - name: "custom"
-    value: "médecine +1"
+    value: "médecine +0"
   - name: "custom"
-    value: "nature +3"
+    value: "nature +0"
   - name: "perception"
   - name: "custom"
-    value: "perspicacite +1"
+    value: "perspicacite +0"
   - name: "custom"
-    value: "representation -1"
+    value: "representation -0"
   - name: "custom"
-    value: "supercherie -1"
-  - name: "religion"
+    value: "supercherie -0"
+  - name: "custom"
+    value: "religion +0"
   - name: "survie"
 movement:
   walk: 9
@@ -61,59 +62,77 @@ category: "PJ"
 **Seuil de critique**: 18          
 **Valeur offensive globale**: 21     
 ## Capacités
-**Historique** : Noblesse de robe  
-**Compétences** : Histoire, Perspicacité.   
-**Outils maîtrisés** : Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.   
-**Langues maîtrisées** : Chaque outil peut être remplacé par une langue au choix.  
-**Équipement** : Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.  
-**Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
+**Historique** : Militaire
+**Compétences** : Athlétisme (expert), , Dressage, Intimidation (expert), Perception, Survie.
+**Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix (dés).   
+**Équipement** : Couverture, habits courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, bourse contenant 15 po.  
+**Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)    
 
-_**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
+_**Maîtrises:**_. Armes courantes, armes de guerres (Double maîtrise pour armes courantes, Hache, haches à deux mains et la pique), boucliers, armure légère, armure intermédiaire, armure lourde.  
 
-_**Voie des Armes & Ior**_. Taron est niveau 5 dans la voie des armes et Archétype Ior.  
+_**Voie des Armes & Ior**_. Taron est niveau 9 dans la voie des armes et Archétype Ior.  
+
+_**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.
 
 _**Second souffle**_. *(Armes)* Taron jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
 
 _**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
 
+_**Rage de Teutès**_. *(Ior)* A partir du niveau 3, quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
+• Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
+• Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +2.
+Ce bonus augmente en même temps que votre niveau.  
+• Vous devenez résistant aux dégâts contondants, perforants et tranchants.
+Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
+Votre rage dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Le Ior possède **deux états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
+
+
+_**Témérité**_. *(Ior)* À partir du niveau 4, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l’énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à- corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.  
+
 _**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
+
+_**Rage aveugle**_. *(Ior)* À partir du niveau 6, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) pendant que vous êtes enragé. Si vous êtes déjà [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) au moment où vous vous mettez en rage, l'effet est suspendu le temps de la rage.  
+
+_**Instinct sauvage de Teutès**_. *(Ior)* Au niveau 7, votre instinct s'est affiné au point que vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur vos jets d'initiative.  
+De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au début d'un combat mais que vous n'êtes pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), vous avez la possibilité d'agir normalement pendant votre premier tour si vous le commencez en entrant dans un état de rage.  
+
+_**Attaque supplémentaire**_. *(Ior)* À partir du niveau 8, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour. Si vous possédez déjà une attaque supplémentaire, vous ajoutez +1 aux dégâts de l’arme.  
+
+_**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.   
 
 ## Actions
 
 _**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.  
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse & légère).
+_**Hache**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_Touché_ : 5 dégâts tranchants (4+1 attaque supplémentaire du Ior)(7 (6+1 attaque supplémentaire du Ior)à deux mains).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+**Dague**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_Touché_ : 5 dégâts tranchants (4+1 attaque supplémentaire du Ior) (portée 6/18).  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
-
-**Dague**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_**Pique**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_Touché_ : 9 dégâts tranchants (8+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).
 
 
 
 §§§ .hero
 ### Présentation:  
-Taron Vecconos est un grand Meldète à la barbe longue, 3ème fils de la famille Vecconos, petite mais respectée famille noble mais de Masyvum. Il a été envoyé à Alicantys en otage à l’âge de ses 7 ans suite à un incident diplomatique qui engendrera le bannissement à Dinas Môr-Leidr de son cousin Cenocantos Vecconos. Pywed a plutôt bien vécu ce passage en terre impériale et garde en tête quelques leçon de philosophie et de littératures, souvenirs qu’il aime bien se ressasser. De retour en Douaratil, sa famille remarque sa capacité à raisonner et le proposent donc à l’ordre des Drodanos pour qu’il fasse rayonner leur nom dans les cercles intellectuels Meldètes   
-Après plusieurs années d’apprentissage il est prit sous l’aile de son maitre Divivacos le rocailleux avec qui il voyage dans tout Douaratil.   
-Suite aux évènements récents, son maître met fin de façon anticipé à son apprentissage, considèrent que Pywed est prêt. Il l’envoie donc vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
+Taron Vecconos est un grand Meldète à la barbe longue et la moustache fournie, 2ème fils de la famille Vecconos, petite mais respectée famille noble de Masyvum.
+Suite aux évènements récents, il a suivi son frère Pywed vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
 §§§
 
 §§§ .hero
 ### Description physique:  
-Taron Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt quinze pour quatre vingt dix kilos.
+Taron Vecconos est un Meldète de vingt huit printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt seiez pour quatre vingt quinze kilos. Il est tatoué, dont les yeux de Teutès sur le front.  
 §§§
 
 §§§ .hero
 ### Equipement:  
 Taron Vecconos possède l'équipement suivant :
-Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse.  Armure de cuir cloutée, cimeterre, hache, glaive, bouclier en bois.
-700 pc, 200 pa, 125 po  
+Habits de bonne qualité, deux haches, dague, pique, bourse.  Armure de cuir cloutée, sac à dos.
+125 po  
 §§§
 
 

@@ -70,16 +70,16 @@ _**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement
 
 ## Actions
 
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Sabre**_. _Attaque d'arme au corps à corps_ : +4 pour toucher (Bm +3, Dex +1), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Bâton**_. _Attaque d'arme au corps à corps_ : +6 pour toucher (Bm +3, Bm+3, For +0), allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts tranchants (Polyvalent +4 à deux mains).
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher (Bm +3, Dex +1), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Fronde**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 9/36.  
+_**Fronde**_. _Attaque d'arme à distance_ : +4 pour toucher (Bm +3, Dex +1), portée 9/36.  
 _Touché_ : 2 dégâts perforants .
 
 §§§ .hero

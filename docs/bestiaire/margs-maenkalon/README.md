@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "7"
-customHP: "40"
+challenge: "12"
+customHP: "60"
 abilityScores:
   for: 12
   dex: 20
   con: 12
   int: 8
-  sag: 11
+  sag: 16
   cha: 8
-customSavingThrows: "for +4, dex +5, con +4, int +2, sag +3, cha -1"
+customSavingThrows: "for +5, dex +5, con +5, int +3, sag +6, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "18 (Armure de cuir cloutée)"
+  value: "21 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie +5"
@@ -31,7 +31,7 @@ skills:
   - name: "custom"
     value: "discrétion +5"
   - name: "custom"
-    value: "dressage +0"  
+    value: "dressage +3"  
   - name: "custom"
     value: "escamotage +5"
   - name: "custom"
@@ -41,11 +41,11 @@ skills:
   - name: "custom"
     value: "investigation -1"
   - name: "custom"
-    value: "médecine +0"
+    value: "médecine +3"
   - name: "custom"
     value: "nature -1"
   - name: "custom"
-    value: "perception +0"
+    value: "perception +3"
   - name: "perspicacite"
   - name: "custom"
     value: "persuasion -1"
@@ -56,7 +56,7 @@ skills:
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
-    value: "survie +0"
+    value: "survie +3"
 movement:
   walk: 9
 senses:
@@ -114,16 +114,16 @@ _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des
 
 _**Attaques multiples**_. Margs effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm+4, For +0), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hachette**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Hachette**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm+4, For +0), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, Dex +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, Dex +5), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).  
 
 
@@ -140,15 +140,15 @@ Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux f
 
 §§§ .hero
 ### Equipement:  
-Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés plaqués argent (Valeur 125 po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), 1 calcédoine (50po), 1 onyx (50po), 1 fronde avec billes (20).
-Margs possède : 4619 PC, 3493 PA, 36 PE & 811 PO, 0 PP.  
+Margs possède l'équipement suivant : Insigne de religion, insigne de fonction, habits d'homme de qualité, épais journal d'investigation, matériel de calligraphie, épée longue; deux épées courtes, serpe de maître sacrificielle, hachette, (10) torches, armure de cuir,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa), 8 rations de nourriture, 1 belle armure cloutées (Valeur 90po pièce), 2 Cimeterres finement ouvragés plaqués argent (Valeur 125 po pièce), [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement), [Chapelet](/liste-objets-magiques/chapelet), 1 calcédoine (50po), 1 onyx (50po), 1 fronde avec billes (20).
+Margs possède : 4619 PC, 7583 PA, 36 PE & 4606 PO, 0 PP.  
 §§§
 
 §§§ .hero
 ### Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 7**  
-**Novice** : [arme magique](/grimoire/arme-magique), [mot de guérison](/grimoire/mot-de-guerison).  
+**Novice** : [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [mot de guérison](/grimoire/mot-de-guerison).  
 §§§
 
 §§§ .hero
@@ -160,8 +160,8 @@ Margs possède : 4619 PC, 3493 PA, 36 PE & 811 PO, 0 PP.
 §§§ .hero
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 44 032  
+**XP acquis** : 107 585  
 **Points de Magie** :8   
-**Points de Foi** :10    
-**Points d'honneur** :27    
+**Points de Foi** :16    
+**Points d'honneur** :37    
 §§§
