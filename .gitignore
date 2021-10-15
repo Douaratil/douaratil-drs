@@ -2,4 +2,4 @@ tmp/
 import/
 regex
 doc/.vuepress/dist
-/node_modules
+node_modules
