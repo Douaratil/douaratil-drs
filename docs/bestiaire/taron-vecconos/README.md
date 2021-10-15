@@ -69,11 +69,11 @@ category: "PJ"
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)    
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (Double maîtrise pour armes courantes, Hache, haches à deux mains et la pique), boucliers, armure légère, armure intermédiaire, armure lourde.  
-
+Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 _**Voie des Armes & Ior**_. Taron est niveau 9 dans la voie des armes et Archétype Ior.  
 
 _**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.
-
+Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 _**Second souffle**_. *(Armes)* Taron jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
 
 _**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
@@ -138,7 +138,7 @@ Habits de bonne qualité, deux haches, dague, pique, bourse.  Armure de cuir clo
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine** : néant
+**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
 §§§
 
 §§§ .hero
