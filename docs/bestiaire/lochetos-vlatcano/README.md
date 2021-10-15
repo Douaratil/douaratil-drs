@@ -64,7 +64,7 @@ languages:
 category: "PJ"
 ---
 **Seuil de critique**: 14        
-**Valeur offensive globale**: 19   
+**Valeur offensive globale**: 21   
 ## Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
@@ -116,8 +116,7 @@ _**Héraldique**_. *(Llawenos)* Au niveau 9, vous pouvez ajouter le résultat de
 _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
 
 _**Par monts et par vaux**_. *(Llawenos)* Également au niveau 10, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Survie). De plus, vous obtenez le bénéfice au choix d'un style de combat :  
-**Duel**. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 avec cette arme.  
-**Combat à deux armes**. Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+**Duel**. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 avec cette arme.    
 
 _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
 
@@ -127,16 +126,16 @@ _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez a
 
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm +4, Dex +1, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, For +0), allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +0, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, For +0), allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +0, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm +4, Dex +1, Duel +2), portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
