@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "7"
-customHP: "33"
+challenge: "12"
+customHP: "48"
 abilityScores:
-  for: 12
-  dex: 14
+  for: 14
+  dex: 20
   con: 12
   int: 10
   sag: 10
   cha: 11
-customSavingThrows: "for +4, dex +8, con +1, int +2, sag -1, cha +0"
+customSavingThrows: "for +6, dex +13, con +1, int +4, sag +0, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -53,7 +53,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  
 
-_**Voie des ombres & Astartes**_. Tiberius est niveau 7 dans la voie des ombres et Archétype Astartes.  
+_**Voie des ombres & Astartes**_. Tiberius est niveau 12 dans la voie des ombres et Archétype Astartes.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur, perception et persuasion**  
 
@@ -77,20 +77,27 @@ _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'�
 _**Aura de dévotion**_. *(Astartes)* À partir du niveau 7, vous et les créatures amicales qui se trouvent à 3 mètres de vous ne pouvez pas être [_charmés_](/gerer-la-sante-du-personnage/#charme). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).      
 Au niveau 18, le rayon de cette aura s'étend à 9 mètres.    
 
+_**Cri de ralliement**_. *(Astartes)* À partir du niveau 8, l'Astartes peut au prix d'une action bonus, crier et rallier ses alliés [_charmés_](/gerer-la-sante-du-personnage/#charme), [_étourdis_](/gerer-la-sante-du-personnage/#etourdi), [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) ou [_repoussés_](/gerer-la-sante-du-personnage/#repoussee) dans un rayon de 18m. Les effets sont immédiatement dissipés. Cette capacité ne peut être utilisée de nouveau qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+
+_**Aura de courage**_. *(Astartes)* À partir du niveau 10, vous, ainsi que toute personne amicale qui se trouve à 3 mètres de vous, ne pouvez être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
+
+_**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
+
+_**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.
 
 
 ## Actions  
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants .
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
@@ -106,14 +113,33 @@ Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux 
 
 §§§ .hero
 ### Equipement:  
-Tiberius possède l'équipement suivant : habits de bonne qualité, outils d'artisant de joallier, anneau cigilaire (grand père), Bourse, dague, dague assassyr'him, épée courte, une épée longue, boîte d'amadou, heurtoir, silex, 20 torches, armure de cuir. 7 doses de poisons (+3d6, DD11), 8 jours de ration,  1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 potion de soin  (récup 1d6+2 pa).
-Tiberius possède aussi 3 petites agates (5po pièce), 130 po de pierres précieuses du collier d'Azenor, Bracelet d'Azenor de 20 po, 1 belle agate de 80 po, 6000 PC, 4749 PA, 36 PE & 6165 PO, 5 PP.   
-1 péridot (500po).
+Tiberius possède l'équipement suivant :
+- habits de bonne qualité
+- outils d'artisan de joallier
+- anneau cigilaire (grand père)
+- Bourse, dague, dague assassyr'him
+- épée courte
+- une épée longue
+- boîte d'amadou
+- heurtoir, silex
+- 20 torches
+- armure de cuir
+- 7 doses de poisons (+3d6, DD11)
+- 8 jours de ration
+- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
+- 1 potion de soin  (récup 1d6+2 pa).
+- 3 petites agates (5po pièce)
+- 130 po de pierres précieuses du collier d'Azenor
+- Bracelet d'Azenor de 20 po
+- 1 belle agate de 80 po
+- 1 péridot (500po)
+- 200 PC, 7348 PA, 36 PE & 3610 PO, 5 PP.   
+
 §§§
 
 §§§ .hero
 ### Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+**Niveau patrimoine normal** :  Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.
 petite maison à Ker-Saozon.  
 **Rente d'Azenor** : 3d6 PO / Partie.  
 §§§
@@ -122,8 +148,8 @@ petite maison à Ker-Saozon.
 ### Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 24 920        
+**XP acquis** : 111 569        
 **Points de Magie** :10   
 **Points de Foi** :10     
-**Points d'honneur** :30      
+**Points d'honneur** :40      
 §§§
