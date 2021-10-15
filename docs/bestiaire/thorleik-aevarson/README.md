@@ -180,7 +180,18 @@ Thorleik Aevarson est un Melg de vingt trois printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Thorleik Aevarson possède l'équipement suivant : Tente, couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse, hache d'arme, une pique, dague (3), armure de cuir clouée, bouclier
+Thorleik Aevarson possède l'équipement suivant :
+- Tente
+- couverture
+- bâton de marche
+- tenue de voyageur
+- matériel d'herboriste
+- bourse
+- hache d'arme
+- une pique
+- dague (3)
+- armure de cuir clouée
+- bouclier
 591 PC,  2834 PA, 13 PE, 484 PO, 34 PP.
 
 §§§ .hero

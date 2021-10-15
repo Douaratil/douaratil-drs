@@ -21,7 +21,7 @@ savingThrows:
   - "int"
 ac:
   armorType: "custom"
-  value: "15 (Armure de cuir cloutée)"
+  value: "18 (Armure de cuir cloutée)"
 skills:
   - name: "discretion"
   - name: "escamotage"
@@ -43,7 +43,7 @@ languages:
 category: "PJ"
 ---
 **Seuil de critique**: 12          
-**Valeur offensive globale**: 18      
+**Valeur offensive globale**: 23      
 ## Capacités
 **Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  
@@ -87,11 +87,15 @@ _**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement
 
 
 ## Actions  
+_**Attaques multiples**_. Tiberius effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
 _**Epée courte**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants .
 
 _**Dague**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
+_Touché_ : 4 dégâts tranchants (portée 6/18).  
+
+_**Dague**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, Dex +0), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
 _**Epée longue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +2), allonge 1,50 m, une cible.  
@@ -151,5 +155,6 @@ petite maison à Ker-Saozon.
 **XP acquis** : 111 569        
 **Points de Magie** :10   
 **Points de Foi** :10     
-**Points d'honneur** :40      
+**Points d'honneur** :40    
+**famille** : une amante et deux faux jumeaux    
 §§§

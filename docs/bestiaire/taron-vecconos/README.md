@@ -131,7 +131,13 @@ Taron Vecconos est un Meldète de vingt huit printemps. Il a la peau blanche les
 §§§ .hero
 ### Equipement:  
 Taron Vecconos possède l'équipement suivant :
-Habits de bonne qualité, deux haches, dague, pique, bourse.  Armure de cuir cloutée, sac à dos.
+- Habits de bonne qualité
+- deux haches
+- dague
+- pique
+- bourse
+- Armure de cuir cloutée
+- sac à dos
 125 po  
 §§§
 

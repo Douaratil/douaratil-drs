@@ -125,7 +125,15 @@ Pywed Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les 
 §§§ .hero
 ### Equipement:  
 Pywed Vecconos possède l'équipement suivant :
-Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse.  Armure de cuir cloutée, cimeterre, hache, glaive, bouclier en bois.
+- Habits de bonne qualité
+- instrument de musique
+- emblème ou symbole familial
+- bourse
+- Armure de cuir cloutée
+- cimeterre
+- hache
+- glaive
+- bouclier en bois
 700 pc, 200 pa, 125 po  
 §§§
 

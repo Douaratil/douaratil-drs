@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "9"
-customHP: "41"
+challenge: "11"
+customHP: "47"
 abilityScores:
   for: 10
-  dex: 12
+  dex: 13
   con: 14
   int: 10
   sag: 12
-  cha: 16
-customSavingThrows: "for +1, dex +9, con +3, int +4, sag +2, cha +7 "
+  cha: 18
+customSavingThrows: "for +1, dex +9, con +3, int +4, sag +2, cha +8 "
 savingThrows:
   - "dex"
   - "dex"
@@ -64,7 +64,7 @@ languages:
 category: "PJ"
 ---
 **Seuil de critique**: 14        
-**Valeur offensive globale**: 17   
+**Valeur offensive globale**: 19   
 ## Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
@@ -74,7 +74,7 @@ _**Historique:**_ Limier.
 
 _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 7 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 11 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 (Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)  
@@ -113,23 +113,34 @@ _**Orateur exceptionnel**_. *(Llawenos)* Également au niveau 8, vous pouvez uti
 
 _**Héraldique**_. *(Llawenos)* Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'Intelligence (Histoire) qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.  
 
+_**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
+
+_**Par monts et par vaux**_. *(Llawenos)* Également au niveau 10, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Survie). De plus, vous obtenez le bénéfice au choix d'un style de combat :  
+**Duel**. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 avec cette arme.  
+**Combat à deux armes**. Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+
+_**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
+
+_**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez appris à vous battre afin d'accompagner les plus intrépides guerriers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer si vous ne l’avez pas déjà, sinon vous ajoutez +2 aux dégâts de votre arme. Vous obtenez également la maîtrise des armures lourdes et de toutes les armes à une main.  
 
 ## Actions
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
+_**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, For +0), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, For +0), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 
@@ -147,7 +158,28 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 
 §§§ .hero
 ### Equipement:  
-Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de voleur, vêtement discrets, glaive, hache, 26 rations de voyage, 2 torches, 1 armure de cuir, 1 épée courte. 1 armure de cuir cloutée, 1 chaîne, 1 chausse trappe, 1 piège à mâchoire, 1 cadenas, 1 onguent de soin  (récup 1d6 pa, doit être au calme), 2 Cimeterres finement ouvragés (Valeur 50po pièce), cuirasse, arc courts, 20 flèches, Fourrure de mandrills des montagnes (500po) (dents+griffes)[Amulette antidote](/liste-objets-magiques/amulette-antidote).  
+Lôchetos possède l'équipement suivant :
+- Accessoire de déguisement
+- outils de voleur
+- vêtement discrets
+- glaive
+- hache
+- 26 rations de voyage
+- 2 torches
+- 1 armure de cuir
+- 1 épée courte
+- 1 armure de cuir cloutée
+- 1 chaîne
+- 1 chausse trappe
+- 1 piège à mâchoire
+- 1 cadenas
+- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
+- 2 Cimeterres finement ouvragés (Valeur 50po pièce)
+- cuirasse
+- arc courts
+- 20 flèches
+- Fourrure de mandrills des montagnes (500po) (dents+griffes)
+- [Amulette antidote](/liste-objets-magiques/amulette-antidote).  
 75 PC, 3897 PA, 50 PE, 3260 PO, 70 PP.  
 §§§
 
@@ -178,8 +210,8 @@ Lôchetos possède l'équipement suivant : Accessoire de déguisement, outils de
 **XP acquis** : 50284
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :44     
-** famille** : une amante et une fille Serena
+**Points d'honneur** :45     
+**famille** : une amante et une fille Serena
 §§§
 
 §§§ .hero

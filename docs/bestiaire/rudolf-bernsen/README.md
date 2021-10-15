@@ -134,7 +134,30 @@ Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux
 
 §§§ .hero
 ### Equipement:  
-Rudolf possède l'équipement suivant : [flûte de charme](/liste-objets-magiques/flute-de-charme), tenue de voyageur, sac, couverture, tente, corde de soie (15 m), bourse, flûte, tambourin, hache, pique, bouclier, arc court, carquois, flèches (29), armure de cuir. 1 onguent de soin  (récup 1d6 pa, doit être au calme), 1 onguent + 1 potion de vie, 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce), 1 opaline (val 300po enchantée pour la DEX +2), 1 chemise de maille, [Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines).     
+Rudolf possède l'équipement suivant :
+- [flûte de charme](/liste-objets-magiques/flute-de-charme)
+- tenue de voyageur
+- sac
+- couverture
+- tente
+- corde de soie (15 m)
+- bourse
+- flûte
+- tambourin
+- hache
+- pique
+- bouclier
+- arc court
+- carquois
+- flèches (29)
+- armure de cuir
+- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
+- 1 onguent
+- 1 potion de vie
+- 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce)
+- 1 opaline (val 300po enchantée pour la DEX +2)
+- 1 chemise de maille
+- [Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines).     
 2960 PC,  3145 PA, 12 PE, 1835 PO, 45 PP.
 §§§
 

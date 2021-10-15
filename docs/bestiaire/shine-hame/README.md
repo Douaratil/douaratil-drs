@@ -1,5 +1,5 @@
 ---
-title: "Shin Hame"
+title: "Shine Hame"
 type: "PJ"
 subtype: "Yotakaï"
 size: "M"
@@ -46,7 +46,7 @@ _**Compétences**_ : Érudit
 
 **Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  
 
-_**Voie de la magie**_. Shin Hame est niveau 4 dans la voie la Magie et Archétype Shohoten.
+_**Voie de la magie**_. Shin Hame est niveau 5 dans la voie la Magie et Archétype Shohoten.
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
@@ -94,7 +94,17 @@ Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noi
 
 §§§ .hero
 ### Equipement:  
-Shin Hame possède l'équipement suivant : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, 1 bâton, 1 sabre, 1 dague, 1 fronde et une bourse contenant 1597 po.  
+Shin Hame possède l'équipement suivant :
+- Habits de bonne qualité
+- deux bougies
+- matériel de cartographe
+- quelques lettres de correspondance avec un ou plusieurs confrères
+- 1 bâton
+- 1 sabre
+- 1 dague
+- 1 fronde
+- une bourse  
+1597 po.  
 §§§
 
 §§§ .hero

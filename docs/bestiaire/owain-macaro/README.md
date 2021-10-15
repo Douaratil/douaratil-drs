@@ -100,8 +100,26 @@ Owain est un Meldète de vingt quatre printemps. Il a la peau blanche les cheveu
 
 §§§ .hero
 ### Equipement:  
-Owain possède l'équipement suivant : une couverture, des vêtements de voyage, (20) chausses trappes, (2)boîtes à amadou, outre d'eau, bourse, glaive, une hache, un arc long, un carquois, (17)flèches, une armure de cuir, sac de couchage, un sac à dos, une gamelle, (10) torches, (10)jours de ration, une outre, une corde de chanvre (15m).  
-Owain possède aussi un âne avec 4 sacoches (210 kg de portage). 2496 PC, 50 PA & 35 PO.  
+Owain possède l'équipement suivant :
+- une couverture
+- vêtements de voyage
+- (20) chausses trappes
+- (2)boîtes à amadou
+- outre d'eau
+- bourse
+- glaive
+- une hache
+- un arc long
+- un carquois
+- (17)flèche
+- une armure de cuir
+- sac de couchage
+- un sac à dos, une gamelle
+- (10) torches
+- (10)jours de ration
+- une outre, une corde de chanvre (15m).  
+-  âne avec 4 sacoches (210 kg de portage)  
+2496 PC, 50 PA & 35 PO.  
 §§§
 
 §§§ .hero
