@@ -44,7 +44,7 @@ skills:
   - name: "custom"
     value: "médecine(•) +7"
   - name: "custom"
-      value: "nature(•) +7"
+    value: "nature(•) +7"
   - name: "custom"
     value: "perception +3 (désavantage en plein jour)"
   - name: "custom"
