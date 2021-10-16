@@ -1,5 +1,5 @@
 ---
-title: "Pywed Vecconos"
+title: "Poc Vecconos"
 type: "PJ"
 subtype: "Meldète"
 size: "M"
@@ -72,7 +72,7 @@ _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , go
 
 _**Voie de la Magie & Drodan**_. Pywed est niveau 5 dans la voie de la Magie et Archétype Dordan.  
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
+**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
 
 _**Langue sacrée**_. *(Drodan)*  Vous connaissez le Drodan, la langue secrète des Drodanos. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le druidique, repérez immédiatement de tels messages. D'autres personnes peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer. L’écriture est le Drods et les Oghens de Briach.  
 
@@ -138,7 +138,7 @@ Pywed Vecconos possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### Sorts connus:
 **Bonus d'incantation: +6**  
 **DD de Sauvegarde: 11**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
