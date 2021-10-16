@@ -26,28 +26,29 @@ skills:
   - name: "custom"
     value: "acrobatie +2"
   - name: "custom"
-    value: "arcanes(•) +2"
+    value: "arcanes(•) +6"
   - name: "custom"
     value: "athletisme +0"
   - name: "custom"
     value: "discrétion +2"
   - name: "custom"
-    value: "dressage +0"  
+    value: "dressage +2"  
   - name: "custom"
     value: "escamotage +2"
   - name: "custom"
-    value: "histoire(•) +2"
+    value: "histoire(•) +6"
   - name: "custom"
     value: "intimidation +0"
   - name: "custom"
     value: "investigation +2"
   - name: "custom"
-    value: "médecine +0"
+    value: "médecine +2"
   - name: "custom"
     value: "nature +2"
-  - name: "perception"
   - name: "custom"
-    value: "perspicacité +0"
+    value: "perception(•) +6"
+  - name: "custom"
+    value: "perspicacité +2"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
@@ -56,7 +57,8 @@ skills:
     value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
-  - name: "survie"
+  - name: "custom"
+    value: "survie(•) +6"
 
 movement:
   walk: 9
@@ -65,9 +67,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
-**Seuil de critique**: 13      
-**Valeur offensive globale**: 21   
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique**. Solitaire.   
 **Compétences**. Nature, Survie.   
 **Outils maîtrisés**. Pottier & Tisserand.  
@@ -97,54 +99,71 @@ _**Pas brumeux**_. *(Sorser)* Au niveau 5, vous profitez des moments d’inatten
 _**Ressource inépuisable**_. *(Sorser)*  
 Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
+_**Attaques multiples**_. Gwihem effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hachette**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
-**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+**Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).  
 
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Gwihem Tenvakalon est un sorser guerrier d'une famille disparue. Il a été banni et cherche désormais la rédemption.  
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Gwihem est un Khernaë de cinquante printemps. Il a la peau blanche, les cheveux foncés et grisonnants et les yeux gris. De stature moyenne, il mesure un mètre quatre vingt pour quatre vingt kilos. Il porte une barbe grisonnante.   
 §§§
 
 §§§ .hero
-### Equipement:  
-Gwihem possède l'équipement suivant : Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po, 1 Glaive, 1 armure de cuir cloutée, 1 cheval.  
-Gwihem possède : 10 PC, 100 PA, 10 PE & 1000 PO, 5 PP.  
+### <v-icon>mdi-sack</v-icon> Equipement:  
+Gwihem possède l'équipement suivant :
+- armure de cuir cloutée
+- boîte à amadou
+- bourse
+- bout de bois taillé ou pierre étrange portée comme un talisman
+- cheval  
+- couverture
+- glaive
+- matériel de pêche
+- tenue de voyageur
+- 10 PC, 100 PA, 10 PE & 1000 PO, 5 PP.  
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 13**  
-**Novice** : [arme magique](/grimoire/arme-magique), [appel de familier](/grimoire/appel-de-familier), [armure du mage](/grimoire/armure-du-mage), [hâte](/grimoire/hate), [Invisibilité](/grimoire/invisibilite), [mot de guérison](/grimoire/mot-de-guerison),[Silence](/grimoire/silence), [Souffle du messager](/grimoire/souffle-du-messager).  
+**Novice** : [arme magique](/grimoire/arme-magique), [appel de familier](/grimoire/appel-de-familier), [armure du mage](/grimoire/armure-du-mage), [hâte](/grimoire/hate), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [mot de guérison](/grimoire/mot-de-guerison),[Silence](/grimoire/silence), [soins des blessures](/grimoire/soins-des-blessures), [Souffle du messager](/grimoire/souffle-du-messager).  
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+§§§
+
+§§§ .hero
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
 §§§
 
 §§§ .hero
 ### Autres informations:  
 **XP acquis** : 64 000   
-**Points de Magie** :21   
-**Points de Foi** :10    
-**Points d'honneur** :24    
+**Points de Magie** :24   
+**Points de Foi** :14    
+**Points d'honneur** :30    
 §§§
