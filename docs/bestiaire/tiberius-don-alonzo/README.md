@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 10
   cha: 11
-customSavingThrows: "for +6, dex +13, con +1, int +4, sag +0, cha +0"
+customSavingThrows: "for(•) +6, dex(••) +13, con +1, int(•) +4, sag +0, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -21,20 +21,44 @@ savingThrows:
   - "int"
 ac:
   armorType: "custom"
-  value: "18 (Armure de cuir cloutée)"
+  value: "19 (Armure de cuir cloutée +1)"
 skills:
-  - name: "discretion"
-  - name: "escamotage"
-    isExpert: true
-  - name: "histoire"
-  - name: "intimidation"
-  - name: "perception"
-    isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-    isExpert: true
-  - name: "supercherie"
-
+  - name: "custom"
+    value: "acrobatie +5"
+  - name: "custom"
+    value: "arcanes +0"
+  - name: "custom"
+    value: "athlétisme +2"
+  - name: "custom"
+    value: "discrétion(•) +9"
+  - name: "custom"
+    value: "dressage +0"
+  - name: "custom"
+    value: "escamotage(••) +13"
+  - name: "custom"
+    value: "histoire(•) +4"
+  - name: "custom"
+    value: "intimidation(•) +4"
+  - name: "custom"
+    value: "investigation +0"
+  - name: "custom"
+    value: "médecine +0"
+  - name: "custom"
+    value: "nature +0"
+  - name: "custom"
+    value: "perception(••) +8 "
+  - name: "custom"
+    value: "perspicacité(•) +4"
+  - name: "custom"
+    value: "persuasion(••) +8 "
+  - name: "custom"
+    value: "religion +0"
+  - name: "custom"
+    value: "représentation +0"
+  - name: "custom"
+    value: "supercherie(•) +4"
+  - name: "custom"
+    value: "survie +0"
 movement:
   walk: 9
 senses:
@@ -42,9 +66,9 @@ languages:
   - "l'Alcath, le commun de l'empire, le Courdote dialecte alcante, le Khern langue Khernaëe "
 category: "PJ"
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 23      
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
+## <v-icon>mdi-weight-lifter</v-icon>Capacités
 **Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  
 **Outils maîtrisés**. Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
@@ -86,70 +110,82 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 _**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.
 
 
-## Actions  
+## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Tiberius effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
+_**Epée courte +2(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants .
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm +4, Dex +0), allonge 1,50 m, une cible.  
+_**Dague(••) seconde main**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +2), allonge 1,50 m, une cible.  
+_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm +4, Dex +5), portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon>  Présentation:  
 Tiberius Don Alonzo appartient à l'illustre famille alcante de Courdoes. Pour éviter une vendetta, il a été envoyé dans le nord chez Goulvening Moisan, une relation de son père. La famille Don Alonzo a fait fortune dans le commerce des pierres précieuses et semi-précieuses.
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux bruns et les yeux gris. De  stature moyenne, il mesure un mètre soixante treize pour soixante kilos.
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Tiberius possède l'équipement suivant :
-- habits de bonne qualité
-- outils d'artisan de joallier
+- agates (3) (5po pièce)
+- agate (1) (80 po)
 - anneau cigilaire (grand père)
-- Bourse, dague, dague assassyr'him
-- épée courte
-- une épée longue
-- boîte d'amadou
-- heurtoir, silex
-- 20 torches
 - armure de cuir
-- 7 doses de poisons (+3d6, DD11)
-- 8 jours de ration
-- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
-- 1 potion de soin  (récup 1d6+2 pa).
-- 3 petites agates (5po pièce)
-- 130 po de pierres précieuses du collier d'Azenor
-- Bracelet d'Azenor de 20 po
-- 1 belle agate de 80 po
-- 1 péridot (500po)
+- [armure de cuir cloutée +1](/liste-objets-magiques/armure-1)
+- boîte d'amadou
+- bracelet d'Azenor de 20 po
+- Bourse
+- dague
+- [dague assassyr'him](/liste-objets-magiques/dague-assassyrhim)
+- épée courte
+- [épée courte +2](/liste-objets-magiques/arme-2)
+- une épée longue
+- habits de bonne qualité
+- heurtoir
+- onguent de soin (1)  (récup 1d6 pa, doit être au calme)
+- outils d'artisan de joaillier
+- péridot (1)(500po)
+- pierres précieuses du collier d'Azenor (130 po)
+- poisons (7)(+3d6, DD11)
+- potion de soin (1) (récup 1d6+2 pa).
+- rations (8)
+- silex
+- torches (20)
 - 200 PC, 7348 PA, 36 PE & 3610 PO, 5 PP.   
 
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine normal** :  Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.
 petite maison à Ker-Saozon.  
 **Rente d'Azenor** : 3d6 PO / Partie.  
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale  
+**Serviteurs** : 0  
+**Revenus** : 0  
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 111 569        

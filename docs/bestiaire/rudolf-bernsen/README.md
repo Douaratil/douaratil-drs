@@ -13,7 +13,7 @@ abilityScores:
   int: 9
   sag: 12
   cha: 9
-customSavingThrows: "for +9, dex +7 (+9 avec la Pierre de puissance), con +6, int -1, sag +1, cha +1"
+customSavingThrows: "for(•) +9, dex(•) +7 (+9 avec la Pierre de puissance), con(•) +6, int -1, sag +1, cha(•) +1"
 savingThrows:
   - "for"
   - "dex"
@@ -27,8 +27,8 @@ skills:
     value: "acrobatie +3"
   - name: "custom"
     value: "arcanes -1"
-  - name: "athletisme"
-    isExpert: true
+  - name: "custom"
+    value: "athlétisme(••) +14"
   - name: "custom"
     value: "discrétion +3"
   - name: "custom"
@@ -37,25 +37,28 @@ skills:
     value: "escamotage +3"
   - name: "custom"
     value: "histoire -1"
-  - name: "intimidation"
+  - name: "custom"
+    value: "intimidation(•) +3"
   - name: "custom"
     value: "investigation -1"
   - name: "custom"
     value: "médecine +1"
   - name: "custom"
     value: "nature -1"
-  - name: "perception"
-    isExpert: true
+  - name: "custom"
+    value: "perception(••) +9"
   - name: "custom"
     value: "perspicacité +1"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
     value: "religion -1"
-  - name: "representation"
+  - name: "custom"
+    value: "représentation(•) +3"
   - name: "custom"
     value: "supercherie -1"
-  - name: "survie"
+  - name: "custom"
+    value: "survie(•) +5"
 
 movement:
   walk: 9
@@ -64,9 +67,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-**Seuil de critique**: 14          
-**Valeur offensive globale**: 24     
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 24     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:**_ explorateur.   
 **Compétences**. Athlétisme, Survie.  
 **Outils maîtrisés**. Véhicules (terrestres).  
@@ -106,68 +109,74 @@ _**Seconde Attaque**_.  *(Skell)*  À partir du niveau 9, vous pouvez [_attaquer
 _**Pierre de puissance supérieure**_.  *(Skell)*  À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
 
-## Actions  
+## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Rudolf effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, For +5), allonge 1,50 m, une cible.  
+_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, For +5), allonge 1,50 m, une cible.  
+_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher (Bm +4, Bm+4, Dex +3), portée 24/96.  
+_**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .  
 
-_**Serpe sacrificielle +1**_. _Attaque d'arme au corps à corps_ : +14 pour toucher (Bm +4, Bm+4, For +5, Serpe +1), allonge 1,50 m, une cible.  
+_**Serpe sacrificielle +1(••)**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Rudolf Fareg alias Rudy est un jeune Melg issu du clan Fareg qui est installé aux pieds des Monts du Menezlatar. Il fait parti des familles qui ont fait le choix de rester à l'Ouest.
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Rudolf est un jeune Melg de dix sept printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. Il mesure un mètre soixante quinze pour soixante quinze kilos.
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Rudolf possède l'équipement suivant :
-- [flûte de charme](/liste-objets-magiques/flute-de-charme)
-- tenue de voyageur
-- sac
-- couverture
-- tente
-- corde de soie (15 m)
-- bourse
-- flûte
-- tambourin
-- hache
-- pique
-- bouclier
 - arc court
-- carquois
-- flèches (29)
 - armure de cuir
-- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
-- 1 onguent
-- 1 potion de vie
-- 1 beau bouclier métal et cuir circulaires (Valeur 100po pièce)
-- 1 opaline (val 300po enchantée pour la DEX +2)
-- 1 chemise de maille
-- [Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines).     
-2960 PC,  3145 PA, 12 PE, 1835 PO, 45 PP.
+- bouclier
+- bouclier métal et cuir circulaires (Valeur 100po pièce)
+- bourse
+- carquois
+- [Ceinturon de force de géant des collines](/liste-objets-magiques/ceinturon-de-force-de-geant-des-collines)
+- chemise de maille
+- corde de soie (15 m)
+- couverture
+- flèches (29)
+- flûte
+- [flûte de charme](/liste-objets-magiques/flute-de-charme)
+- hache
+- [Masse d'arme vicieuse](/liste-objets-magiques/arme-vicieuse)
+- sac
+- onguent de soin (2) (récup 1d6 pa, doit être au calme)
+- opaline (val 300po enchantée pour la DEX +2)
+- pique
+- tambourin
+- tente
+- tenue de voyageur
+- 2960 PC,  3145 PA, 12 PE, 1835 PO, 45 PP.
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale  
+**Serviteurs** : 0  
+**Revenus** : 0  
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 66 074    
 **Points de Magie** :9    

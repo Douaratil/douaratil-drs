@@ -13,7 +13,7 @@ abilityScores:
   int: 16
   sag: 16
   cha: 10
-customSavingThrows: "for +1, dex +0, con +1, int +11, sag +11, cha +0 "
+customSavingThrows: "for +1, dex +0, con +1, int(••) +11, sag(••) +11, cha +0 "
 savingThrows:
   - "int"
   - "int"
@@ -25,8 +25,8 @@ ac:
 skills:
   - name: "custom"
     value: "acrobatie +0"
-  - name: "arcanes"
-    isExpert: true
+  - name: "custom"
+    value: "arcanes(••) +13"
   - name: "custom"
     value: "athlétisme +1"
   - name: "custom"
@@ -37,12 +37,14 @@ skills:
     value: "escamotage +0"
   - name: "custom"
     value: "histoire +3"
-  - name: "intimidation"
-    isExpert: true
+  - name: "custom"
+    value: "intimidation(••) +8"
   - name: "custom"
     value: "investigation +3"
-  - name: "medecine"
-  - name: "nature"
+  - name: "custom"
+    value: "médecine(•) +7"
+  - name: "custom"
+      value: "nature(•) +7"
   - name: "custom"
     value: "perception +3 (désavantage en plein jour)"
   - name: "custom"
@@ -55,7 +57,8 @@ skills:
     value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
-  - name: "survie"
+  - name: "custom"
+    value: "survie(•) +7"
 
 movement:
   walk: 9
@@ -64,9 +67,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
 category: "PJ"
 ---
-**Seuil de critique**: 12            
-**Valeur offensive globale**: 17      
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17      
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:** Homme-médecine  
 **Compétences** : Médecine, Nature.  
 **Outils maîtrisés** : Matériel d'herboriste.  
@@ -147,7 +150,7 @@ Progression du compagnon
 |:-:|:-:|:-:|
 |**Hibou**|Vue|Désavantage le jour, mais vision dans le noir à 36 mètres|
 
-## Actions  
+## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1).  
@@ -169,17 +172,17 @@ _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Thorleik Aevarson est un Melg issu du clan Aevearson qui est installé aux pieds des Monts du Menezlatar. Il exerce la fonction de prêtre du feu.
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Thorleik Aevarson est un Melg de vingt trois printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. Il mesure un mètre quatre vingt dix pour quatre vingt cinq kilos.
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Thorleik Aevarson possède l'équipement suivant :
 - Tente
 - couverture
@@ -195,13 +198,13 @@ Thorleik Aevarson possède l'équipement suivant :
 591 PC,  2834 PA, 13 PE, 484 PO, 34 PP.
 
 §§§ .hero
-### Composantes de sorts:  
+### <v-icon>mdi-halloween</v-icon> Composantes de sorts:  
 
 
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
 **Novice** : [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
@@ -212,11 +215,19 @@ Thorleik Aevarson possède l'équipement suivant :
 
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
+**Niveau patrimoine très faible** : néant
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
 **XP acquis** : 77 577  
 **Points de Magie** :16   

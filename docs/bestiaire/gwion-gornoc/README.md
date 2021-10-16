@@ -153,29 +153,33 @@ Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux b
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>  Equipement:  
 Gwion possède l'équipement suivant :
-- Habits courant
+- [anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts)
+- arc court
+- armure (belle) de cuir cloutée (Val 90po)
+- bâton ferré
+- [brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu)
 - chausse trappe (20)
-- jeu d'osselet, colifichet
-- hache, arc court, carquois
+- carquois
+- colifichet
+- dés anciennement magiques
+- églantianes (18) (huile essentielle)
+- empeurine (7)(huille essentielle)
 - flèches (11)
 - grigris
+- habits courant
+- hache
+- herbefolle (10) (herbe à fumer)
+- jeu d'osselet
+- main momifiée magique ([blessure](/grimoire/blessure) 1/jour)
+- mule
+- onguent de soin (1) (récup 1d6 pa, doit être au calme)
 - outils d'alchimie
 - outils d'herboristerie
-- sac à dos, une mule
-- une pelle
-- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
-- belle armure de cuir cloutée (Val 90po)
-- 2 Serpe sacrificielle finement ouvragées (Valeur 100po pièce)
-- [Anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts)
-- [Brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu)
-- dés anciennement magiques
-- bâton ferré
-- main momifiée magique (blessure 1/jour)
-- Pierre d'obédience
-- 18 doses d'églantianes (huile essentielle)
-- 7 doses d'empeurine (huille essentielle)
-- 10 doses d'herbefolle (herbe à fumer).  
-4767 PC, 20 828 PA, 44 PE, 1579 PO, 134 PP.  
+- pelle
+- [pierre d'obédience](/listes-objets-magiques/pierre-d-obedience)
+- sac à dos
+- serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
+- 4767 PC, 20 828 PA, 44 PE, 1579 PO, 134 PP.  
 §§§
 
 §§§ .hero

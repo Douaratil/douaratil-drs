@@ -66,9 +66,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Brédète langue meldète et le Khern langue Khernaëe "
 category: "PJ"
 ---
-**<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 14        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21   
-## <v-icon>mdi-weight-lifter</v-icon>Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
 **Outils maîtrisés**. Accessoires de déguisement, outils de voleur.  

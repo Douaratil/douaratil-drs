@@ -13,7 +13,7 @@ abilityScores:
   int: 16
   sag: 12
   cha: 8
-customSavingThrows: "for +0, dex +0, con +1, int +9, sag +7, cha -1 "
+customSavingThrows: "for +0, dex +0, con +1, int(••) +9, sag(••) +7, cha -1 "
 savingThrows:
   - "int"
   - "int"
@@ -33,7 +33,8 @@ skills:
     value: "dressage +1"
   - name: "custom"
     value: "escamotage +0"
-  - name: "histoire"
+  - name: "custom"
+    value: "histoire(•) +6"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
@@ -42,15 +43,18 @@ skills:
     value: "médecine +1"
   - name: "custom"
     value: "nature +3"
-  - name: "perception"
+  - name: "custom"
+    value: "percpetion(•) +4"
   - name: "custom"
     value: "perspicacite +1"
   - name: "custom"
     value: "representation -1"
   - name: "custom"
+    value: "religion(•) +6"
+  - name: "custom"
     value: "supercherie -1"
-  - name: "religion"
-  - name: "survie"
+  - name: "custom"
+    value: "survie(•) +4"
 movement:
   walk: 9
 senses:
@@ -58,9 +62,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
 category: "PJ"
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 14     
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique** : Noblesse de robe  
 **Compétences** : Histoire, Perspicacité.   
 **Outils maîtrisés** : Un instrument de musique au choix, un ensemble d'outils d'artisan au choix parmi matériel d'alchimiste, outils de cartographe, matériel de peintre et outils de tisserand.   
@@ -94,63 +98,71 @@ Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complèt
 _**Compagnon animal faucon**_. *(Drodan)*  À partir du niveau 4, le Drodan à une affinité avec les rapaces. Il se lie avec un faucon. Il doit s’agir d’un animal qui vit dans les contrées où réside le Drodan. Si le faucon devait disparaître pour une quelconque raison, un autre viendra le remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en glatissant. Le faucon peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson.  
 Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Drodan.  
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher (Bm +3, Dex +0), allonge 1,50 m, une cible.  
+_**Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher (Bm +3, For +0), allonge 1,50 m, une cible.  
+_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher (Bm +3, For +0), allonge 1,50 m, une cible.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-**Dague**_. _Attaque d'arme au corps à corps_ : +6 pour toucher (Bm +3, Bm+3, Dex +0), allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Pywed Vecconos est un grand Meldète à la barbe longue, 3ème fils de la famille Vecconos, petite mais respectée famille noble mais de Masyvum. Il a été envoyé à Alicantys en otage à l’âge de ses 7 ans suite à un incident diplomatique qui engendrera le bannissement à Dinas Môr-Leidr de son cousin Cenocantos Vecconos. Pywed a plutôt bien vécu ce passage en terre impériale et garde en tête quelques leçon de philosophie et de littératures, souvenirs qu’il aime bien se ressasser. De retour en Douaratil, sa famille remarque sa capacité à raisonner et le proposent donc à l’ordre des Drodanos pour qu’il fasse rayonner leur nom dans les cercles intellectuels Meldètes   
 Après plusieurs années d’apprentissage il est prit sous l’aile de son maitre Divivacos le rocailleux avec qui il voyage dans tout Douaratil.   
 Suite aux évènements récents, son maître met fin de façon anticipé à son apprentissage, considèrent que Pywed est prêt. Il l’envoie donc vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Pywed Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt quinze pour quatre vingt dix kilos.
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Pywed Vecconos possède l'équipement suivant :
-- Habits de bonne qualité
-- instrument de musique
-- emblème ou symbole familial
-- bourse
 - Armure de cuir cloutée
-- cimeterre
-- hache
-- glaive
 - bouclier en bois
-700 pc, 200 pa, 125 po  
+- bourse
+- [Chapelet](/liste-objets-magiques/chapelet)
+- cimeterre
+- emblème ou symbole familial
+- glaive
+- Habits de bonne qualité
+- hache
+- instrument de musique
+- 700 pc, 200 pa, 125 po  
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +6**  
 **DD de Sauvegarde: 11**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine** : néant
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **XP acquis** : 6750     
 **Points de Magie** :16  
 **Points de Foi** :32  

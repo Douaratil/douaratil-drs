@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal mauvais"
-challenge: "7"
-customHP: "41"
+challenge: "10"
+customHP: "53"
 abilityScores:
   for: 10
   dex: 14
   con: 13
   int: 14
-  sag: 10
+  sag: 14
   cha: 10
-customSavingThrows: "for +3, dex +2, con +4, int +5, sag +0, cha +3"
+customSavingThrows: "for(•) +4, dex +2, con(•) +5, int(•) +6, sag +2, cha(•) +4"
 savingThrows:
   - "for"
   - "con"
@@ -21,11 +21,12 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "15 (Armure du mage)"
+  value: "17 (Armure du mage)"
 skills:
   - name: "custom"
     value: "acrobatie +2"
-  - name: "arcanes"
+  - name: "custom"
+    value: "arcanes(•) +2"
   - name: "custom"
     value: "athletisme +0"
   - name: "custom"
@@ -34,7 +35,8 @@ skills:
     value: "dressage +0"  
   - name: "custom"
     value: "escamotage +2"
-  - name: "histoire"
+  - name: "custom"
+    value: "histoire(•) +2"
   - name: "custom"
     value: "intimidation +0"
   - name: "custom"
@@ -141,7 +143,7 @@ Gwihem possède : 10 PC, 100 PA, 10 PE & 1000 PO, 5 PP.
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 23 000   
+**XP acquis** : 64 000   
 **Points de Magie** :21   
 **Points de Foi** :10    
 **Points d'honneur** :24    

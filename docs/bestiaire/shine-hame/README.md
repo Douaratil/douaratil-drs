@@ -13,7 +13,7 @@ abilityScores:
   int: 12
   sag: 11
   cha: 9
-customSavingThrows: "for +0, dex +3, con +3, int +3, sag +2, cha +0"
+customSavingThrows: "for +0, dex(•) +3, con(•) +3, int(•) +3, sag(•) +2, cha +0"
 savingThrows:
   - "dex"
   - "con"
@@ -21,12 +21,49 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "12 (esquive instinctive) "
+  value: "15 (armure de cuir clourée + esquive instinctive) "
 skills:
   - name: "arcanes"
     isExpert: true
   - name: "perspicacite"
     isExpert: true
+
+    - name: "custom"
+      value: "acrobatie(•) +4"
+    - name: "custom"
+      value: "arcanes(••) +7"
+    - name: "custom"
+      value: "athlétisme(•) +0"
+    - name: "custom"
+      value: "discretion +1"
+    - name: "custom"
+      value: "dressage +0"
+    - name: "custom"
+      value: "escamotage +1"
+    - name: "custom"
+      value: "histoire(•) +4"
+    - name: "custom"
+      value: "intimidation -1"
+    - name: "custom"
+      value: "investigation +1"
+    - name: "custom"
+      value: "medecine +0"
+    - name: "custom"
+      value: "nature +1"
+    - name: "custom"
+      value: "perception +0"
+    - name: "custom"
+      value: "Perspicacité(••) +7"
+    - name: "custom"
+      value: "persuasion -1"
+    - name: "custom"
+      value: "religion +1"
+    - name: "custom"
+      value: "representation(•) +2"
+    - name: "custom"
+      value: "supercherie -1"
+    - name: "custom"
+      value: "survie +0"
 movement:
   walk: 9
 senses:
@@ -34,9 +71,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
-**Seuil de critique**: 13          
-**Valeur offensive globale**: 14      
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14      
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Compétences**_ : Érudit
 **Compétences** : Arcanes, Histoire.  
 **Outils maîtrisés** : Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.  
@@ -66,56 +103,67 @@ _**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement
 |**15**|3|
 |**19**|4|
 
+## <v-icon>mdi-sword-cross</v-icon> Actions
 
-
-## Actions
-
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +4 pour toucher (Bm +3, Dex +1), allonge 1,50 m, une cible.  
+_**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +6 pour toucher (Bm +3, Bm+3, For +0), allonge 1,50 m, une cible.  
+_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts tranchants (Polyvalent +4 à deux mains).
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +4 pour toucher (Bm +3, Dex +1), allonge 1,50 m, une cible.  
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Fronde**_. _Attaque d'arme à distance_ : +4 pour toucher (Bm +3, Dex +1), portée 9/36.  
+_**Fronde(•)**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 9/36.  
 _Touché_ : 2 dégâts perforants .
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Shin Hame est un serviteur du clan Yotakaï de Yan Zin et est l'un de ses compagnons d'aventures. Il le remplace pendant le voyage de son maître en orient et reste a Douaratil pour le représenter.  
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos. Cicatrices de petites griffures et morsures à la hanche gauche et au mollet droit.  
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Shin Hame possède l'équipement suivant :
+- armure de cuir cloutée
+- bâton
+- bougies (2)
+- bourse  
+- dague
+- fronde
 - Habits de bonne qualité
-- deux bougies
 - matériel de cartographe
 - quelques lettres de correspondance avec un ou plusieurs confrères
-- 1 bâton
-- 1 sabre
-- 1 dague
-- 1 fronde
-- une bourse  
-1597 po.  
+- sabre
+- 1597 po.  
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +4**  
 **DD de Sauvegarde: 9**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal) [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures).    
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
+**Niveau patrimoine** :néant
+§§§
+
+§§§ .hero
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale  
+**Serviteurs** : 0  
+**Revenus** : 0  
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 8300     
 **Points de Magie** :22  

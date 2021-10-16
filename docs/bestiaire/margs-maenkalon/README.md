@@ -13,7 +13,7 @@ abilityScores:
   int: 8
   sag: 16
   cha: 8
-customSavingThrows: "for +5, dex +5, con +5, int +3, sag +6, cha -1"
+customSavingThrows: "for(•) +5, dex +5, con(•) +5, int(•) +3, sag(•) +6, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -27,7 +27,8 @@ skills:
     value: "acrobatie +5"
   - name: "custom"
     value: "arcanes -1"
-  - name: "athletisme"
+  - name: "custom"
+    value: "athlétisme(•) +5"
   - name: "custom"
     value: "discrétion +5"
   - name: "custom"
@@ -36,8 +37,8 @@ skills:
     value: "escamotage +5"
   - name: "custom"
     value: "histoire -1"
-  - name: "intimidation"
-    isExpert: true
+  - name: "custom"
+    value: "intimidation(••) +7"
   - name: "custom"
     value: "investigation -1"
   - name: "custom"
@@ -46,11 +47,12 @@ skills:
     value: "nature -1"
   - name: "custom"
     value: "perception +3"
-  - name: "perspicacite"
+  - name: "custom"
+    value: "perspicacité(•) +3"
   - name: "custom"
     value: "persuasion -1"
-  - name: "religion"
-    isExpert: true
+  - name: "custom"
+    value: "religion(••) +7"
   - name: "custom"
     value: "représentatipn -1"
   - name: "custom"
@@ -64,9 +66,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
 category: "PJ"
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 21     
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique**. Inquisiteur.   
 **Compétences**. Intimidation, Religion.  
 **Outils maîtrisés**. Matériel de calligraphie.  
@@ -110,76 +112,84 @@ _**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appel
 
 _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Margs effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm+4, For +0), allonge 1,50 m, une cible.  
+_**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hachette**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +4, Bm+4, For +0), allonge 1,50 m, une cible.  
+_**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, Dex +5), allonge 1,50 m, une cible.  
+_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère).  
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +4, Bm+4, Dex +5), allonge 1,50 m, une cible.  
+_**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).  
 
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la loi religieuse khernaëe.  
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse.  
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Margs possède l'équipement suivant :
+- armure de cuir
+- armure cloutées (Valeur 90po pièce)
+- billes (20)
+- calcédoine (50po)
+- [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement)
+- Cimeterres (2) finement ouvragés plaqués argent (Valeur 125 po pièce)
+- [Cotte de maille de Mithral](/liste-objets-magiques/armure-mithral)
+- épées (2) courtes
+- épée longue
+- fronde
+- habits d'homme de qualité
+- hachette
 - Insigne de religion
 - insigne de fonction
-- habits d'homme de qualité
-- épais journal d'investigation
+- journal d'investigation
 - matériel de calligraphie
-- épée longue
-- deux épées courtes
+- onguent de soin (1)  (récup 1d6 pa, doit être au calme)
+- onyx (50po)
+- potion de soin (1) (récup 1d6+2 pa)
+- rations (8) de nourriture
 - serpe de maître sacrificielle
-- hachette
-- (10) torches
-- armure de cuir
-- 1 onguent de soin  (récup 1d6 pa, doit être au calme)
-- 1 potion de soin  (récup 1d6+2 pa)
-- 8 rations de nourriture
-- 1 belle armure cloutées (Valeur 90po pièce)
-- 2 Cimeterres finement ouvragés plaqués argent (Valeur 125 po pièce)
-- [Cape de déplacement](/liste-objets-magiques/cape-de-deplacement)
-- [Chapelet](/liste-objets-magiques/chapelet)
-- 1 calcédoine (50po)
-- 1 onyx (50po)
-- 1 fronde avec billes (20).
-4619 PC, 7583 PA, 36 PE & 4606 PO, 0 PP.  
+- torches (10)
+- 4619 PC, 7583 PA, 36 PE & 4606 PO, 0 PP.  
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +5**  
 **DD de Sauvegarde: 7**  
 **Novice** : [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [mot de guérison](/grimoire/mot-de-guerison).  
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 **Dépôt auprès de la famille** : 500 po  
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
 **XP acquis** : 107 585  
 **Points de Magie** :8   

@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 16
   cha: 10
-customSavingThrows: "for +0, dex +15, con +2, int +5, sag +8, cha +0"
+customSavingThrows: "for +0, dex(••) +15, con +2, int(•) +5, sag(•) +8, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -23,14 +23,14 @@ ac:
   armorType: "custom"
   value: "20 (Armure de cuir cloutée)"
 skills:
-  - name: "acrobaties"
-    isExpert: true
+  - name: "custom"
+    value: "acrobatie(••) +15"
   - name: "custom"
     value: "arcanes +0"
-  - name: "athletisme"
-    isExpert: true
-  - name: "discretion"
-    isExpert: true
+  - name: "custom"
+    value: "athlétisme(••) +10"
+  - name: "custom"
+    value: "discrétion(••) +15"
   - name: "custom"
     value: "dressage +3"
   - name: "custom"
@@ -41,22 +41,24 @@ skills:
     value: "intimidation +0"
   - name: "custom"
     value: "investigation +0"
-  - name: "medecine"
-  - name: "nature"
-  - name: "perception"
-    isExpert: true
+  - name: "custom"
+    value: "médecine(•) +8"
+  - name: "custom"
+    value: "nature(•) +8"
+  - name: "custom"
+    value: "perception(••) +13"
   - name: "custom"
     value: "perspicacité +3"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
     value: "religion +0"
-  - name: "representation"
-    isExpert: true
+  - name: "custom"
+    value: "représentation(••) +10"
   - name: "custom"
     value: "supercherie +0"
-  - name: "survie"
-    isExpert: true
+  - name: "custom"
+    value: "survie(••) +13"
 movement:
   walk: 9
 senses:
@@ -121,17 +123,17 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 ## Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +15 pour toucher (Bm +5, Bm+5, Dex +5), allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague (seconde main)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +5, Bm+5, Dex +0), allonge 1,50 m, une cible.  
+_**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (portée 6/18).  
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +15 pour toucher (Bm +5, Bm+5, Dex +5), portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Serpe sacrificielle**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +5, Bm+5, For +0), allonge 1,50 m, une cible.  
+_**Serpe sacrificielle(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère).
 
 §§§ .hero
@@ -146,8 +148,21 @@ Sawrina est une Assyrhim de dix neuf printemps. Elle a la peau sombre, les cheve
 
 §§§ .hero
 ### Equipement:  
-Sawrina possède l'équipement suivant : habits de bonne qualité, bougies (2), armure de cuir, matériel d'herboriste, trousse de soin, dagues (2), Dagues assassyr'him (2),  1 onguent de soin  (récup 1d6 pa, doit être au calme). 1 potion de soin  (récup 1d6+2 pa), 2 Serpes sacrificielles finement ouvragées (Valeur 100po pièce), [Bottes de discrétion](/liste-objets-magiques/bottes-de-discretion), 6 methagiles, 10 grenades désorientantes (oignotte).
-Sawrina possède 771 PC, 12226 PA, 49 PE & 1803 PO, 79 PP.  
+Sawrina possède l'équipement suivant :
+- armure de cuir cloutée
+- bougies (2), armure de cuir
+- [Bottes de discrétion](/liste-objets-magiques/bottes-de-discretion)
+- trousse de soin
+- dagues (2)
+- [Dagues assassyr'him ](/liste-objets-magiques/dague-assassyrhim)(2)
+- grenades (10) désorientantes (oignotte)
+- habits de bonne qualité
+- matériel d'herboriste
+- menthagiles (6)
+- onguent de soin (1) (récup 1d6 pa, doit être au calme)
+- potion de soin (1) (récup 1d6+2 pa)
+- serpes (2) sacrificielles finement ouvragées (Valeur 100po pièce)
+- 771 PC, 12226 PA, 49 PE & 1803 PO, 79 PP.  
 §§§
 
 §§§ .hero

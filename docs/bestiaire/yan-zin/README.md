@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 14
   cha: 10
-customSavingThrows: "for +4, dex +5, con +3, int +0, sag +5, cha +0"
+customSavingThrows: "for(•) +4, dex(•) +5, con(•) +3, int +0, sag(•) +5, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -27,13 +27,14 @@ skills:
     value: "acrobatie +2"
   - name: "custom"
     value: "arcanes +0"
-  - name: "athletisme"
+  - name: "custom"
+    value: "athlétisme(•) +4"
   - name: "custom"
     value: "discretion +2"
-  - name: "dressage"
-    isExpert: true
   - name: "custom"
-    value: "Equitation (dressage + empathie équestre) +9"
+    value: "dressage(••) +8"
+  - name: "custom"
+    value: "Equitation(••) (dressage + empathie équestre) +9"
   - name: "custom"
     value: "escamotage +2"
   - name: "custom"
@@ -46,12 +47,12 @@ skills:
     value: "medecine +2"
   - name: "custom"
     value: "nature +0"
-  - name: "perception"
-    isExpert: true
+  - name: "custom"
+    value: "percpetion(••) +8"
   - name: "custom"
     value: "Perspicacité +2"
-  - name: "persuasion"
-    isExpert: true
+  - name: "custom"
+    value: "persuasion(•) +3"
   - name: "custom"
     value: "religion +1"
   - name: "custom"
@@ -67,9 +68,9 @@ languages:
   - "le Weslèdh, le commun nordique, L'Alcane/Alcath le commun impérial, le Minghour/Mingath le commun oriental, le Yotaï/Tohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
-**Seuil de critique**: 10             
-**Valeur offensive globale**: 20      
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 10             
+**<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 20      
+## <v-icon>mdi-weight-lifter</v-icon>  Capacités
 _**Historique Officier:**_.  
 **Compétences**.Athlétisme ou Dressage, Persuasion.  
 **Outils maîtrisés**. Véhicules (terrestres).  
@@ -98,52 +99,60 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes tellement à l’aide avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Sabre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher (Bm +3, Bm+3, Dex +2), allonge 1,50 m, une cible.  
+_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm +3, Dex +2), allonge 1,50 m, une cible.  
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Arc long**_. _Attaque d'arme à distance_ : +10 pour toucher (Bm +3, Bm+3, Dex +2, +2 Archerie), portée 45/180.  
+_**Arc long(••)**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 45/180.  
 _Touché_ : 4 dégâts perforants .
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Yan Zin est à la cour de Goulvening car il est du clan de Ran'Kaze Taiya Rebana (Les coureurs sur le vent du soleil levant) fils du seigneur Tatsuba Zin et ami de Goulvening. Il y est pour apprendre les coutumes et les langues claniques de l’Ouest et ouvrir une ligne commerciale vers l’Est. En fait, il est une sorte « d’otage » très bien traité.
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon>Description physique:  
 Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante quinze pour soixante douze kilos. Cicatrice hanche gauche (percée par une lance).   
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon>Equipement:  
 Yan Zin possède l'équipement suivant :
-- Vêtement de bonne qualité
+- arc long
+- armure de cuir
+- armure de cuir cloutée   
+- [briche de protection](/liste-objets-magiques/broche-de-protection)
+- cheval
+- dague
+- flèches (11)
 - insigne de cavalerie (officier en formation)
 - sabre oriental
-- dague
-- arc long
-- flèches (11)
-- Armure de cuir
-- armure de cuir cloutée.   
-- un cheval.    
+- Vêtement de bonne qualité
 3800 PA, 2171 PO.    
 200 PO de marchandises pour son clan.  
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 16 115        
