@@ -153,11 +153,11 @@ Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux b
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>  Equipement:  
 Gwion possède l'équipement suivant :
-- [anneau de stockage de sorts](/listes-objets-magiques/anneau-de-stockage-de-sorts)
+- [anneau de stockage de sorts](/liste-objets-magiques/anneau-de-stockage-de-sorts)
 - arc court
 - armure (belle) de cuir cloutée (Val 90po)
 - bâton ferré
-- [brasero de contrôle des élémentaires du feu](/listes-objets-magiques/brasero-de-controle-des-elementaires-du-feu)
+- [brasero de contrôle des élémentaires du feu](/liste-objets-magiques/brasero-de-controle-des-elementaires-du-feu)
 - chausse trappe (20)
 - carquois
 - colifichet
@@ -176,7 +176,7 @@ Gwion possède l'équipement suivant :
 - outils d'alchimie
 - outils d'herboristerie
 - pelle
-- [pierre d'obédience](/listes-objets-magiques/pierre-d-obedience)
+- [pierre d'obédience](/liste-objets-magiques/pierre-d-obedience)
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - 4767 PC, 20 828 PA, 44 PE, 1579 PO, 134 PP.  
