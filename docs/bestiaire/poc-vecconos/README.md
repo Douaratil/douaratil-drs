@@ -70,7 +70,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , gourdins, javelines, massues, cimeterres, serpes, lances, glaive, hache, matériel d'herboriste, matériel d'alchimiste, Tympanion.
 
-_**Voie de la Magie & Drodan**_. Pywed est niveau 5 dans la voie de la Magie et Archétype Dordan.  
+_**Voie de la Magie & Drodan<v-icon>mdi-celtic-cross</v-icon>**_. Pywed est niveau 5 dans la voie de la Magie et Archétype Dordan.  
 
 **Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
 
@@ -138,7 +138,7 @@ Pywed Vecconos possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### Sorts connus:
+###  <v-icon>mdi-atom</v-icon> Sorts connus:
 **Bonus d'incantation: +6**  
 **DD de Sauvegarde: 11**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    

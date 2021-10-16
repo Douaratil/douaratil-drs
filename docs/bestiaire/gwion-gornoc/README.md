@@ -25,21 +25,24 @@ ac:
 skills:
   - name: "custom"
     value: "acrobatie -1"
-  - name: "arcanes"
-    isExpert: true
+  - name: "custom"
+    value: "arcanes (••) +11"
   - name: "custom"
     value: "athlétisme -1"
-  - name: "discretion"
+  - name: "custom"
+    value: "discrétion (•) +3"
   - name: "custom"
     value: "dressage +2"
-  - name: "escamotage"
+  - name: "custom"
+    value: "escamotage (•) +3"
   - name: "custom"
     value: "histoire +5"
-  - name: "intimidation"
-    isExpert: true
+  - name: "custom"
+    value: "intimidation (••) +10"
   - name: "custom"
     value: "investigation +5"
-  - name: "medecine"
+  - name: "custom"
+    value: "médecine (•) +6"
   - name: "custom"
     value: "nature +5"
   - name: "custom"
@@ -64,9 +67,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Nordhème langue meldète et écrit le Bergaf "
 category: "PJ"
 ---
-**Seuil de critique**: 16        
-**Valeur offensive globale**: 17     
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique rebouteux:**_.    
 **Compétences**. Médecine, Nature ou Religion.  
 **Outils maîtrisés**. Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.  
@@ -118,37 +121,37 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
  Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
 
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +3 pour toucher (Bm +4, For -1), allonge 1,50 m, une cible.  
+_**Glaive (•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher (Bm +4, For -1), allonge 1,50 m, une cible.  
+_**Hache (•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
-_**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher (Dex -1), portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +7 pour toucher (Bm +4, Bm +4, For -1), portée 6/18.  
+_**Dague assassyr'him (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +7 pour toucher (Bm +4, Bm +4, For -1).  
+_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)
 
 §§§ .hero
-### Présentation:  
+###  <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Gwion est un Meldète de la caste des Ambeanamos. Il a été le disciple de Siarl Dylluan dit "le hibou", conseiller de Gaernor Lugeto.
 Gwion appartient au clan meldète Gornoc qui a prêté allégeance à Gaenor Lugeto, maître des marais de Geunddon. Il se passionne pour l'alchimie et les recherches ésotériques.
 §§§
 
 §§§ .hero
-### Description physique:  
+###  <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux blancs et les yeux blancs. Il mesure un mètre soixante sept pour soixante  kilos. Gwion a les doigts crochus. Il est légèrement bossu depuis sa naissance et a une tâche de vin sur la clavicule droite. Il a la joue gauche marquée au fer rouge et à une scarification sur le front en forme d'étoile à six branches. Gravement blessé par un la lame d'un Khernaë de Ker-Saozon durant l'hiver, il a une grosse cicatrice dans le bas du dos.  
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon>  Equipement:  
 Gwion possède l'équipement suivant :
 - Habits courant
 - chausse trappe (20)
@@ -176,7 +179,7 @@ Gwion possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### Composantes de sorts:  
+### <v-icon>mdi-halloween</v-icon> Composantes de sorts:  
 Perle de 100 po, une clochette enchantée.
 10 oeufs de cailles enchantés.  
 bout de ficelle et d’un morceau de bois enchanté.  
@@ -185,7 +188,7 @@ un petit fil de cuivre enchanté.
 §§§
 
 §§§ .hero
-### Sorts connus:  
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +8**  
 **DD de Sauvegarde: 13**  
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure de mage](/grimoire/armure-de-mage), [Aspersion d'acide](/grimoire/aspersion-acide), [Bourrasque](/grimoire/bourrasque), [Boussole mentale](/grimoire/boussole-mentale), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
@@ -203,20 +206,20 @@ un petit fil de cuivre enchanté.
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces de d'argent et 3D6 X 100 pièces d'or.  
 **Apoticaire de Caohaydan** : 3d6 po  
 §§§
 
 §§§ .hero
-### Domaine
+### <v-icon>mdi-home-flood</v-icon> Domaine
 **Bâtiments** : Une bâtisse principale    
 **Serviteurs** : 0    
 **Revenus** : 0    
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 105 459       
