@@ -1,5 +1,5 @@
 tmp/
 import/
 regex
-doc/.vuepress/dist
+docs/.vuepress/dist
 node_modules
