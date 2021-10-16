@@ -13,7 +13,7 @@ abilityScores:
   int: 20
   sag: 15
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int +9, sag +10, cha +6 "
+customSavingThrows: "for -1, dex -1, con +3, int(•) +9, sag(••) +10, cha(•) +6 "
 savingThrows:
   - "int"
   - "sag"
@@ -26,23 +26,23 @@ skills:
   - name: "custom"
     value: "acrobatie -1"
   - name: "custom"
-    value: "arcanes (••) +11"
+    value: "arcanes(••) +11"
   - name: "custom"
     value: "athlétisme -1"
   - name: "custom"
-    value: "discrétion (•) +3"
+    value: "discrétion(•) +3"
   - name: "custom"
     value: "dressage +2"
   - name: "custom"
-    value: "escamotage (•) +3"
+    value: "escamotage(•) +3"
   - name: "custom"
     value: "histoire +5"
   - name: "custom"
-    value: "intimidation (••) +10"
+    value: "intimidation(••) +10"
   - name: "custom"
     value: "investigation +5"
   - name: "custom"
-    value: "médecine (•) +6"
+    value: "médecine(•) +6"
   - name: "custom"
     value: "nature +5"
   - name: "custom"
@@ -123,16 +123,16 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Glaive (•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache (•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
-_**Dague assassyr'him (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
