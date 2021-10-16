@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for +11, dex +0, con +12, int +0, sag +0, cha 0 "
+customSavingThrows: "for(•) +11, dex +0, con(•) +12, int +0, sag +0, cha 0 "
 savingThrows:
   - "for"
   - "for"
@@ -27,22 +27,24 @@ skills:
     value: "acrobatie +0"
   - name: "custom"
     value: "arcanes +0"
-  - name: "athletisme"
-    isExpert: true
-  - name: "dressage"
+  - name: "custom"
+    value: "athlétisme(••) +11"
+  - name: "custom"
+    value: "dressage(•) +4"
   - name: "custom"
     value: "escamotage +0"
   - name: "custom"
     value: "histoire +0"
-  - name: "intimidation"
-    isExpert: true
+  - name: "custom"
+    value: "intimidation(••) +8"
   - name: "custom"
     value: "investigation +0"
   - name: "custom"
     value: "médecine +0"
   - name: "custom"
     value: "nature +0"
-  - name: "perception"
+  - name: "custom"
+    value: "perception(•) +4"
   - name: "custom"
     value: "perspicacite +0"
   - name: "custom"
@@ -51,7 +53,8 @@ skills:
     value: "supercherie -0"
   - name: "custom"
     value: "religion +0"
-  - name: "survie"
+  - name: "custom"
+    value: "survie(•) +4"
 movement:
   walk: 9
 senses:
@@ -59,9 +62,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
 category: "PJ"
 ---
-**Seuil de critique**: 18          
-**Valeur offensive globale**: 21     
-## Capacités
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique** : Militaire  
 **Compétences** : Athlétisme (expert), , Dressage, Intimidation (expert), Perception, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix (dés).     
@@ -102,53 +105,60 @@ _**Attaque supplémentaire**_. *(Ior)* À partir du niveau 8, vous pouvez attaqu
 
 _**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.   
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon>  Actions
 
 _**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5 dégâts tranchants (4+1 attaque supplémentaire du Ior)(7 (6+1 attaque supplémentaire du Ior)à deux mains).
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5 dégâts tranchants (4+1 attaque supplémentaire du Ior) (portée 6/18).  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm+4, For +3), allonge 1,50 m, une cible.  
+_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 9 dégâts tranchants (8+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).
 
 
 
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Taron Vecconos est un grand Meldète à la barbe longue et la moustache fournie, 2ème fils de la famille Vecconos, petite mais respectée famille noble de Masyvum.
 Suite aux évènements récents, il a suivi son frère Pywed vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
 §§§
 
 §§§ .hero
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Taron Vecconos est un Meldète de vingt huit printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt seiez pour quatre vingt quinze kilos. Il est tatoué, dont les yeux de Teutès sur le front.  
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Taron Vecconos possède l'équipement suivant :
-- Habits de bonne qualité
-- deux haches
-- dague
-- pique
-- bourse
 - Armure de cuir cloutée
+- bourse
+- dague
+- habits de bonne qualité
+- haches(2)
+- pique
 - sac à dos
-125 po  
+- 125 po  
 §§§
 
 
 §§§ .hero
-### Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
+**Niveau patrimoine très faible** : néant
 §§§
 
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **XP acquis** : 48 000     
 **Points de Magie** :10  
 **Points de Foi** :10  
