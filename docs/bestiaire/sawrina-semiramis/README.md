@@ -66,9 +66,13 @@ languages:
   - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
 category: "PJ"
 ---
-**Seuil de critique**: 14            
-**Valeur offensive globale**: 23     
-## Capacités
+<v-row>
+
+<v-col cols="12" md="6">
+
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 23     
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique  Médecin:**_.   
 **Compétences**. Médecine, Nature.  
 **Outils maîtrisés**. Matériel d'herboriste, matériel d'empoisonneur.  
@@ -120,7 +124,15 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 
 
 
-## Actions  
+</v-col>
+
+<v-col cols="12" md="6">
+
+## Sawrina Semramis
+&nbsp;
+![Sawrina Semramis](https://www.douaratil.fr/illustrations/sawrina.jpg)
+
+## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
@@ -135,19 +147,19 @@ La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par d
 
 _**Serpe sacrificielle(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (légère).
-
+&nbsp;
 §§§ .hero
-### Présentation:  
+### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Sawrina est une jeune assyrhim, issue d'une famille riche de Shahia qui se destinait aux études de guérisseuse. Elle a été enlevée et entraînée par des Assssyr'hims qui l'ont entrainé pendant plusieurs mois avant de lui faire boire l'eau de lune Selmontite et d'être vendue comme esclave assassin à un mystérieux commanditaire. Elle a été retrouvée dans un sarcophage métallique et libéré. Depuis, elle suit ses nouveaux compagnons en sachant qu'elle sera désormais pourchassée.  
 §§§
 
 §§§ .hero  
-### Description physique:  
+### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Sawrina est une Assyrhim de dix neuf printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante huit kilos.
 §§§
 
 §§§ .hero
-### Equipement:  
+### <v-icon>mdi-sack</v-icon> Equipement:  
 Sawrina possède l'équipement suivant :
 - armure de cuir cloutée
 - bougies (2), armure de cuir
@@ -166,15 +178,27 @@ Sawrina possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### Patrimoine  
+### <v-icon>mdi-castle</v-icon> Patrimoine  
 **Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 §§§
 
+
 §§§ .hero
-### Autres informations:  
+### <v-icon>mdi-home-flood</v-icon> Domaine
+**Bâtiments** : Une bâtisse principale    
+**Serviteurs** : 0    
+**Revenus** : 0    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 139 305
 **Points de Foi** :15   
 **Points d'honneur** :46
 §§§
+
+</v-col>
+
+</v-row>
