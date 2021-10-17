@@ -62,6 +62,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -97,6 +101,16 @@ Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complèt
 
 _**Compagnon animal faucon**_. *(Drodan)*  À partir du niveau 4, le Drodan à une affinité avec les rapaces. Il se lie avec un faucon. Il doit s’agir d’un animal qui vit dans les contrées où réside le Drodan. Si le faucon devait disparaître pour une quelconque raison, un autre viendra le remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en glatissant. Le faucon peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson.  
 Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Drodan.  
+
+
+
+ </v-col>
+
+ <v-col cols="12" md="6">
+
+ ## Pywed Vecconos
+ &nbsp;
+ ![Pywed Vecconos](https://www.douaratil.fr/illustrations/pj/pywed.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -168,3 +182,7 @@ Pywed Vecconos possède l'équipement suivant :
 **Points de Foi** :32  
 **Points d'honneur** :18  
 §§§
+
+</v-col>
+
+</v-row>

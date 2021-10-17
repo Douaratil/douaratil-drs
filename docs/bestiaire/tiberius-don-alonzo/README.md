@@ -166,7 +166,7 @@ Tiberius possède l'équipement suivant :
 - dague
 - [dague assassyr'him](/liste-objets-magiques/dague-assassyrhim)
 - épée courte
-- [épée courte +2](/liste-objets-magiques/arme-2)
+- [épée courte +2](/liste-objets-magiques/epee-courte-2)
 - une épée longue
 - habits de bonne qualité
 - heurtoir

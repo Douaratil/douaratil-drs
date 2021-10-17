@@ -12,9 +12,11 @@ toc: false
 <v-col cols="12" md="6">
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
-Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Swenson](/bestiaire/knut-swenson),David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 42
+
+Gros travail sur le site ce week end en prévision de la prochaine partie de jeu de rôle. Clovis rejoint nos rangs pour jouer Knut, un guerrier protecteur du village de Thorleik. Des illustrations et des icones ont été rajoutés pour une meilleure lisibilité. Le site s'enrichira régulièrement d'illustrations que je pioche ça et là sur pinterest. La richesse de ce site est impressionnante et les dernières productions de séries fournissent de nombreux visuels et sources d'inspiration.  
 
 Les modifications sur le site sont les suivantes (liste non exhaustive):  
 
@@ -27,10 +29,13 @@ Personnages:
 - Mise à jour de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Shine Hame](/bestiaire/shine-hame) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Taron Vecconos](/bestiaire/taron-vecconos) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.
 - Mise à jour de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Thorleik Aevarson](/bestiaire/thorleik-aevarson) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Yan Zin](/bestiaire/yan-zin) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Ajout d'illustrations aux objets magiques (masse d'arme vicieuse, épée courte +2 et dague assassyr'him)
 
+C'est tout pour l'instant.
 
 Bon jeu.  
 §§§ .text-right

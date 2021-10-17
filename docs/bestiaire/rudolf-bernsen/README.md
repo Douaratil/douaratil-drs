@@ -165,7 +165,7 @@ Rudolf possède l'équipement suivant :
 - flûte
 - [flûte de charme](/liste-objets-magiques/flute-de-charme)
 - hache
-- [Masse d'arme vicieuse](/liste-objets-magiques/arme-vicieuse)
+- [Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse)
 - sac
 - onguent de soin (2) (récup 1d6 pa, doit être au calme)
 - opaline (val 300po enchantée pour la DEX +2)

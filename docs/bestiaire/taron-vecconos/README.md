@@ -62,6 +62,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -104,6 +108,16 @@ De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au d�
 _**Attaque supplémentaire**_. *(Ior)* À partir du niveau 8, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour. Si vous possédez déjà une attaque supplémentaire, vous ajoutez +1 aux dégâts de l’arme.  
 
 _**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.   
+
+
+
+ </v-col>
+
+ <v-col cols="12" md="6">
+
+ ## Taron Vecconos
+ &nbsp;
+ ![Taron Vecconos](https://www.douaratil.fr/illustrations/pj/taron.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon>  Actions
 
@@ -164,3 +178,7 @@ Taron Vecconos possède l'équipement suivant :
 **Points de Foi** :10  
 **Points d'honneur** :28  
 §§§
+
+</v-col>
+
+</v-row>
