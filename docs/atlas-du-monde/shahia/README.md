@@ -12,16 +12,13 @@ Zone qui signifie le désert de dune. Cet ancien nom n'a plus grand chose à voi
 L'île rouge.
 
 ## Larh Akdhar
-Mer d'émeraude
+La mer d'émeraude, appelée ainsi pour la couleur de l'eau sur les côtes ou les hauts récifs. Le phénomène est plus marqué avant les périodes chaudes. Les alcantes d'Alicantys donnent aussi ce nom à cette surface maritime.
 
 ## Larh Althaj
-Mer de neige
+La mer de neige porte ce nom car cette zone maritime est très agitée avec les vents tourbillonnants qui génèrent à la crête des vagues de l'écume.
 
 ## Larh Murda
-Mer miroir
-
-## Larh Akdhar
-Mer d'émeraude
+La mer miroir est une zone souvent évitée par les navires car le vent s'y fait rare et les bateaux peuvent y être immobilisés. 
 
 ## Luat'albarh
 Luat'albarh, la reine blanche comme elle est surnommée, est une grande cité des royaumes shaiates qui bénéficie de l'accès à la mer et du commerce avec le continent nordique et l'empire alcante.  
