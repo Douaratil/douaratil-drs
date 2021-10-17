@@ -66,6 +66,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Brédète langue meldète et le Khern langue Khernaëe "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -125,6 +129,13 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 
 _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez appris à vous battre afin d'accompagner les plus intrépides guerriers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer si vous ne l’avez pas déjà, sinon vous ajoutez +2 aux dégâts de votre arme. Vous obtenez également la maîtrise des armures lourdes et de toutes les armes à une main.  
 
+</v-col>
+
+<v-col cols="12" md="6">
+
+## Lochetos Vlatcano
+&nbsp;
+![Lôchetos Vlatcano](https://www.douaratil.fr/illustrations/pj/lochetos.jpg)
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
@@ -145,8 +156,7 @@ La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par d
 **Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
-
-
+&nbsp;
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Lôchetos est un Meldète de la caste des Llawenos venant d'une famille installée à Caohaydhan. Son père Taranos est garde de la maison de Gaernor Lugeto. Sa mère Qwyya lui a appris la musique. Son oncle Aberthol vit dans le même quartier.Sedelia est sa soeur et Larixos est son frère.
@@ -221,3 +231,6 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-weight</v-icon> Commerce
 Achat de quatre grandes barques
 §§§
+</v-col>
+
+</v-row>

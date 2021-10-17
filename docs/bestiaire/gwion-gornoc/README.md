@@ -26,7 +26,7 @@ skills:
   - name: "custom"
     value: "acrobatie -1"
   - name: "custom"
-    value: "arcanes(••) +11"
+    value: "arcanes(••) +13"
   - name: "custom"
     value: "athlétisme -1"
   - name: "custom"
@@ -67,6 +67,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Nordhème langue meldète et écrit le Bergaf "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -121,6 +125,15 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
  Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
 
 
+
+ </v-col>
+
+ <v-col cols="12" md="6">
+
+ ## Gwion Gornoc
+ &nbsp;
+ ![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwion.jpg)
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
@@ -138,7 +151,7 @@ La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par d
 
 _**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)
-
+&nbsp;
 §§§ .hero
 ###  <v-icon>mdi-drama-masks</v-icon> Présentation:  
 Gwion est un Meldète de la caste des Ambeanamos. Il a été le disciple de Siarl Dylluan dit "le hibou", conseiller de Gaernor Lugeto.
@@ -234,3 +247,6 @@ un petit fil de cuivre enchanté.
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
 §§§
+
+</v-col>
+</v-row>

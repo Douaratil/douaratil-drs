@@ -130,7 +130,7 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 
 ## Sawrina Semramis
 &nbsp;
-![Sawrina Semramis](https://www.douaratil.fr/illustrations/sawrina.jpg)
+![Sawrina Semramis](https://www.douaratil.fr/illustrations/pj/sawrina.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
