@@ -68,6 +68,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -97,8 +101,17 @@ _**Champion**_. *(Jörghal)* À partir du niveau 5, le Jörghal peut utiliser sa
 Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
 
 
+
+ </v-col>
+
+ <v-col cols="12" md="6">
+
+ ## Knut Swenson
+ &nbsp;
+ ![Knut Swenson](https://www.douaratil.fr/illustrations/pj/knut.jpg)
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
-_**Attaques multiples**_. Knut effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Knut effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Pique(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
@@ -155,5 +168,8 @@ Knut possède l'équipement suivant :
 **Points de Magie** :10   
 **Points de Foi** :10    
 **Points d'honneur** :20      
-
 §§§
+
+</v-col>
+
+</v-row>

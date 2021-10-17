@@ -101,7 +101,7 @@ _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes telle
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse, légère).

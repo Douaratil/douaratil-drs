@@ -67,6 +67,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
+<v-row>
+
+<v-col cols="12" md="6">
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 24     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -109,8 +113,17 @@ _**Seconde Attaque**_.  *(Skell)*  À partir du niveau 9, vous pouvez [_attaquer
 _**Pierre de puissance supérieure**_.  *(Skell)*  À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
 
+
+ </v-col>
+
+ <v-col cols="12" md="6">
+
+ ## Rudolf Bernsen
+ &nbsp;
+ ![Rudolf Bernsen](https://www.douaratil.fr/illustrations/pj/rudolf.jpg)
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
-_**Attaques multiples**_. Rudolf effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Rudolf effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Pique(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
@@ -186,3 +199,7 @@ Rudolf possède l'équipement suivant :
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 La valeur naturelle de Force de Rudolf est de 16.  
 §§§
+
+</v-col>
+
+</v-row>

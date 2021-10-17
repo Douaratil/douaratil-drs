@@ -138,7 +138,7 @@ _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez a
 ![Lôchetos Vlatcano](https://www.douaratil.fr/illustrations/pj/lochetos.jpg)
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm +4, Dex +1, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).

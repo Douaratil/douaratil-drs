@@ -151,7 +151,7 @@ Progression du compagnon
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 
-_**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1).  
 _Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  

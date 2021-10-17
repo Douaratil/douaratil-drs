@@ -14,6 +14,30 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 42
+
+Les modifications sur le site sont les suivantes (liste non exhaustive):  
+
+Personnages:  
+- Création de [Knut Swenson](/bestiaire/knut-swenson) au niveau 5 avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Pywed Vecconos](/bestiaire/pywed-vecconos) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Shine Hame](/bestiaire/shine-hame) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Thorleik Aevarson](/bestiaire/thorleik-aevarson) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 17 octobre 2021_
+§§§
+
 ## Mise à jour 41
 
 Les modifications sur le site sont les suivantes (liste non exhaustive):  

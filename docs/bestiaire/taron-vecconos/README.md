@@ -107,7 +107,7 @@ _**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état d
 
 ## <v-icon>mdi-sword-cross</v-icon>  Actions
 
-_**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.  
+_**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'il utilise l'action attaquer.  
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5 dégâts tranchants (4+1 attaque supplémentaire du Ior)(7 (6+1 attaque supplémentaire du Ior)à deux mains).
