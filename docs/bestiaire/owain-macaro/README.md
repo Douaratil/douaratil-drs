@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for +4, dex +4, con +3, int +0, sag +0, cha +0"
+customSavingThrows: "for(••) +4, dex(•) +4, con(•) +3, int +0, sag +0, cha +0"
 savingThrows:
   - "for"
   - "for"
@@ -37,6 +37,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bredète dialecte meldète, le Mèlde langue meldète "  
 category: "PJ"
 ---
+## Owain Macaro
+&nbsp;
+[![Owain Macaro](https://www.douaratil.fr/illustrations/pj/owainm.png)](https://www.douaratil.fr/illustrations/pj/owain.jpg)  
 **Seuil de critique**: 13            
 **Valeur offensive globale**: 16     
 ## Capacités
@@ -79,13 +82,13 @@ _**Style de combat**_. *(Gwylwir)* Au niveau 5, vous choisissez le style de comb
 
 ## Actions  
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Arc long**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
+_**Arc long(••)**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
 _Touché_ : 6 dégâts perforants .
 
 §§§ .hero

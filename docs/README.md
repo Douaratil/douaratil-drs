@@ -12,7 +12,21 @@ toc: false
 <v-col cols="12" md="6">
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
-Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Swenson](/bestiaire/knut-swenson),David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+
+## Mise à jour 43
+
+Le lien concernant [Knut Svenson](/bestiaire/knut-svenson) a été réparé.
+
+- Ajout du PNJ [Shamreta la rouge](/bestiaire/shamreta-la-rouge)
+- Ajout des illustrations pour l'Azer, l'élémentaire de feu, l'élémentaire de l'eau, l'élémentaire de l'air, l'élémentaire de la terre, l'élémentaire mineur de feu et l'esprit du feu.  
+- Abandon du système de colonnes pour le bestiaire.
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 18 octobre 2021_
+§§§
 
 ## Mise à jour 42
 
@@ -21,7 +35,7 @@ Gros travail sur le site ce week end en prévision de la prochaine partie de jeu
 Les modifications sur le site sont les suivantes (liste non exhaustive):  
 
 Personnages:  
-- Création de [Knut Swenson](/bestiaire/knut-swenson) au niveau 5 avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
+- Création de [Knut Svenson](/bestiaire/knut-svenson) au niveau 5 avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  
 - Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon) avec ajouts d'icônes de paragraphes, mise en deux colonnes et illustration.  

@@ -35,11 +35,16 @@ damageTypeImmunities:
   - "poison"
 languages:
   - "primordial"
+environments:
+  - Plans élémentaires
 
 ---
+## Esprit du feu
+&nbsp;
+[![Esprit du feu](https://www.douaratil.fr/illustrations/elementaire/espritdufeum.png)](https://www.douaratil.fr/illustrations/elementaire/espritdufeu.jpg)  
 **Seuil de critique**: 10         
 **Valeur offensive globale**: 16  
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Caché par la lueur du feu**_. Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.
 
 _**Illumination**_. Un esprit du feu projette une lumière faible dans un rayon de 9 mètres.
@@ -48,7 +53,7 @@ _**Sensibilité à la lumière magique**_. Quand il est éclairé par une lumiè
 
 _**Sensibilité à l'eau**_. À chaque fois qu'un esprit du feu parcourt 1,50 mètre dans l'eau ou qu'on lui déverse 4 litres d'eau dessus, il subit 3 dégâts de froid.
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaques multiples**_. L'esprit du feu fait deux attaques de _coup_.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  

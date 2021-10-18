@@ -66,10 +66,9 @@ languages:
   - "l'Alcath, le commun de l'empire, le Courdote dialecte alcante, le Khern langue Khernaëe "
 category: "PJ"
 ---
-<v-row>
-
-<v-col cols="12" md="6">
-
+## Tiberius Don Alonzo
+&nbsp;
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberiusm.png)](https://www.douaratil.fr/illustrations/pj/tiberius.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon>Capacités
@@ -113,15 +112,6 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 
 _**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.
 
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Tiberius DOn Alonzo
- &nbsp;
- ![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Tiberius effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
@@ -207,7 +197,3 @@ petite maison à Ker-Saozon.
 **Points d'honneur** :40    
 **famille** : une amante et deux faux jumeaux    
 §§§
-
-</v-col>
-
-</v-row>

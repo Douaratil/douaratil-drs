@@ -67,10 +67,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
 category: "PJ"
 ---
-<v-row>
 
-<v-col cols="12" md="6">
-
+ ## Thorleik Aevarson
+ &nbsp;
+ [![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleikm.png)](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -139,15 +139,6 @@ Progression du compagnon
 |:-:|:-:|:-:|
 |**Hibou**|Vue|Désavantage le jour, mais vision dans le noir à 36 mètres|
 
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Thorleik Aevarson
- &nbsp;
- ![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 
@@ -229,7 +220,3 @@ Thorleik Aevarson possède l'équipement suivant :
 **Points de Foi** :56    
 **Points d'honneur** :30      
 §§§
-
-</v-col>
-
-</v-row>

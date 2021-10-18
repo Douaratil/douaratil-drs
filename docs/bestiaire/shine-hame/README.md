@@ -66,9 +66,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
-<v-row>
 
-<v-col cols="12" md="6">
+ ## Shine Hame
+ &nbsp;
+ [![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinem.png)](https://www.douaratil.fr/illustrations/pj/shine.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14      
@@ -101,16 +102,6 @@ _**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement
 |**10**|2|
 |**15**|3|
 |**19**|4|
-
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Shine Hame
- &nbsp;
- ![Shine Hame](https://www.douaratil.fr/illustrations/pj/shine.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -179,7 +170,3 @@ Shin Hame possède l'équipement suivant :
 **Points de Foi** :21   
 **Points d'honneur** :24    
 §§§
-
-</v-col>
-
-</v-row>

@@ -67,10 +67,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Nordhème langue meldète et écrit le Bergaf "
 category: "PJ"
 ---
-<v-row>
-
-<v-col cols="12" md="6">
-
+## Gwion Gornoc
+&nbsp;
+[![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwionm.png)](https://www.douaratil.fr/illustrations/pj/gwion.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -123,16 +122,6 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
  _**Magie du sang**_.  *(Ambeanamos)* À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux [_repos court_](/gerer-la-sante-du-personnage/#repos-court)s ou longs.
  Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
-
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Gwion Gornoc
- &nbsp;
- ![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwion.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -247,6 +236,3 @@ un petit fil de cuivre enchanté.
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
 §§§
-
-</v-col>
-</v-row>

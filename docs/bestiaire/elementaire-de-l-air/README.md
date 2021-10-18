@@ -43,12 +43,15 @@ environments:
   - Plans élémentaires
 
 ---
+## Elémentaire de l'air
+&nbsp;
+[![Elémentaire de l'air](https://www.douaratil.fr/illustrations/elementaire/elementairedairm.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedair.jpg)  
 **Seuil de critique**: 14      
 **Valeur offensive globale**: 18   
 ## Capacités
 _**Corps d'air**_. L'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. Il peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler.
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaques multiples**_. L'élémentaire effectue deux attaques de coup.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  

@@ -66,9 +66,10 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
 category: "PJ"
 ---
-<v-row>
 
-<v-col cols="12" md="6">
+ ## Margs Maenkalon
+ &nbsp;
+ [![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margsm.png)](https://www.douaratil.fr/illustrations/pj/margs.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
@@ -115,16 +116,6 @@ Cette connexion dure un nombre d'heures équivalent à la moitié de votre nivea
 _**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.  
 
 _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
-
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Margs Maenkalon
- &nbsp;
- ![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margs.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -208,7 +199,3 @@ Margs possède l'équipement suivant :
 **Points de Foi** :16    
 **Points d'honneur** :37    
 §§§
-
-</v-col>
-
-</v-row>

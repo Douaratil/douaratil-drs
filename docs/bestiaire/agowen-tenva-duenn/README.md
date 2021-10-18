@@ -4,7 +4,7 @@ type: "PNJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Chaotique mauvais"
-challenge: "12"
+challenge: "17"
 customHP: "46"
 abilityScores:
   for: 10
@@ -43,7 +43,7 @@ _**Maîtrises:**_. Armes courantes, armure légère, boucliers, armure légère,
 
 _**Voie de la Magie**_. Agowen est niveau 17 dans la voie de la Magie.
 
-_**Style de Combat à deux armes** *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+_**Style de Combat à deux armes**_ *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
 _**Restauration magique**_. Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
 

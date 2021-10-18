@@ -68,9 +68,9 @@ languages:
   - "le Weslèdh, le commun nordique, L'Alcane/Alcath le commun impérial, le Minghour/Mingath le commun oriental, le Yotaï/Tohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
 category: "PJ"
 ---
-<v-row>
-
-<v-col cols="12" md="6">
+## Yan Zin
+&nbsp;
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzinm.png)](https://www.douaratil.fr/illustrations/pj/yanzin.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 10             
 **<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 20      
@@ -103,15 +103,6 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes tellement à l’aide avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
 
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Yan Zin
- &nbsp;
- ![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -174,7 +165,3 @@ Yan Zin possède l'équipement suivant :
 **Points de Foi** :14        
 **Points d'honneur** :27     
 §§§
-
-</v-col>
-
-</v-row>

@@ -66,9 +66,9 @@ languages:
   - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
 category: "PJ"
 ---
-<v-row>
-
-<v-col cols="12" md="6">
+## Sawrina Semramis
+&nbsp;
+[![Sawrina Semramis](https://www.douaratil.fr/illustrations/pj/sawrinam.png)](https://www.douaratil.fr/illustrations/pj/sawrina.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 23     
@@ -121,16 +121,6 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 _**Immunité au poison**_. *(Nayane)*  A partir du niveau 10, la Nayane est immunisée à toutes les formes de poison.  
 
 _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.  
-
-
-
-</v-col>
-
-<v-col cols="12" md="6">
-
-## Sawrina Semramis
-&nbsp;
-![Sawrina Semramis](https://www.douaratil.fr/illustrations/pj/sawrina.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
@@ -198,7 +188,3 @@ Sawrina possède l'équipement suivant :
 **Points de Foi** :15   
 **Points d'honneur** :46
 §§§
-
-</v-col>
-
-</v-row>

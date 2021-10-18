@@ -1,5 +1,5 @@
 ---
-title: "Knut Swenson"
+title: "Knut Svenson"
 type: "PJ"
 subtype: "Melg"
 size: "M"
@@ -68,9 +68,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-<v-row>
-
-<v-col cols="12" md="6">
+## Knut Svenson
+&nbsp;
+[![Knut Svenson](https://www.douaratil.fr/illustrations/pj/knutm.png)](https://www.douaratil.fr/illustrations/pj/knut.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18     
@@ -99,16 +99,6 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 _**Champion**_. *(Jörghal)* À partir du niveau 5, le Jörghal peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
 Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
-
-
-
- </v-col>
-
- <v-col cols="12" md="6">
-
- ## Knut Swenson
- &nbsp;
- ![Knut Swenson](https://www.douaratil.fr/illustrations/pj/knut.jpg)
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Knut effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
@@ -169,7 +159,3 @@ Knut possède l'équipement suivant :
 **Points de Foi** :10    
 **Points d'honneur** :20      
 §§§
-
-</v-col>
-
-</v-row>

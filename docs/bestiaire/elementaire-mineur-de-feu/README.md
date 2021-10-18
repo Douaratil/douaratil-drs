@@ -35,16 +35,19 @@ languages:
 environments:
   - Plans élémentaires
 ---
+## Elémentaire mineur de feu
+&nbsp;
+[![Elémentaire mineur de feu](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdefeum.png)](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdefeu.jpg)  
 **Seuil de critique**: 12      
 **Valeur offensive globale**: 13   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon>  Capacités
 _**Explosion finale**_. Quand l'élémentaire mineur de feu meurt, il explose en une gerbe de flammes. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 2d6 dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 _**Faux-semblant**_. Aussi longtemps que l'élémentaire mineur de feu reste immobile, il est impossible de le distinguer d'un feu ordinaire.
 
 _**Incantation innée (1/jour)**_. L'élémentaire mineur de feu peut lancer [_chauffer le métal_](/grimoire/chauffer-le-metal/) (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le sort 10) de manière innée sans aucune composante matérielle. La caractéristique de son pouvoir d'incantation innée est le Charisme.
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3 dégâts tranchants plus 2 dégâts de feu.
 

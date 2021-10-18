@@ -37,6 +37,9 @@ languages:
   - "Le Sogh langue commune Sooghaï, Le Weshlèdh "
 category: "PJ"
 ---
+## Malala Soa
+&nbsp;
+[![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalam.png)](https://www.douaratil.fr/illustrations/pj/malala.jpg)  
 **Seuil de critique**: 12          
 **Valeur offensive globale**: 12    
 ## Capacités
