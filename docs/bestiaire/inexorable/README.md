@@ -62,7 +62,7 @@ languages:
 ---
 ## Inéxorable
 &nbsp;
-[![Inéxorable](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)
+[![Inéxorable](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)  
 **Seuil de critique**: 20      
 **Valeur offensive globale**: 27   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

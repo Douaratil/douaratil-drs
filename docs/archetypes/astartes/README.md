@@ -24,7 +24,7 @@ title: Astartes
 |**20**|[Véritable Astartes](#veritable-astartes)|
 ## Astrates
 &nbsp;
-[![Astartes](https://www.douaratil.fr/illustrations/archetype/astartesm.png)](https://www.douaratil.fr/illustrations/marchetype/astartes.jpg)
+[![Astartes](https://www.douaratil.fr/illustrations/archetype/astartesm.png)](https://www.douaratil.fr/illustrations/archetype/astartes.jpg)  
 ## <v-icon>mdi-weight-lifter</v-icon> Aptitudes d'Archétype
 En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.
 
