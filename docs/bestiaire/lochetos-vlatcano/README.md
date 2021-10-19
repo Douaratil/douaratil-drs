@@ -28,7 +28,7 @@ skills:
   - name: "custom"
     value: "arcanes(touche à tout) +2"
   - name: "custom"
-    value: "athlétisme(•) +4"
+    value: "athlétisme(••) +8"
   - name: "custom"
     value: "discrétion(••) +9"
   - name: "custom"
