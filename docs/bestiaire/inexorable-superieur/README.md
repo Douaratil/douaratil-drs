@@ -60,9 +60,12 @@ damageTypeImmunities:
 languages:
   - "Ne s'exprime pas"
 ---
+## Inéxorable supérieur
+&nbsp;
+[![Inéxorable supérieur](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)
 **Seuil de critique**: 22      
 **Valeur offensive globale**: 29   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armure magique**_. L'inexorable à une armure de plaque magique +5.  
 _**Style de combat Défense**_. Gagne un bonus de +1 à votre VD.  
 _**Invincibilité**_. L'inexorable récupère 50 PA/ rds.   
@@ -70,7 +73,7 @@ _**Affinité avec la lune noire**_. Durant les lunes noires, l'Inéxorable à un
 _**Existence légendaire**_. Il n'est pas bon de tuer un Inéxorable. Lorsqu'il est détruit, il se reconstitue dans son sactuaire en 3d6 jours et pour le vaincre définitivement, il faut le battre et le détruire dans son sanctuaire une nuit de lune noire.   
 
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaque multiple**_ L'inexorable peut attaquer **quatre** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 1,50 m, une cible.  

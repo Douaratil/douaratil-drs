@@ -60,9 +60,12 @@ damageTypeImmunities:
 languages:
   - "Ne s'exprime pas"
 ---
+## Inéxorable
+&nbsp;
+[![Inéxorable](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)
 **Seuil de critique**: 20      
 **Valeur offensive globale**: 27   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armure magique**_. L'inexorable à une armure de plaque magique +5.  
 _**Style de combat Défense**_. Gagne un bonus de +1 à votre VD.  
 _**Invincibilité**_. L'inexorable récupère 25 PA/ rds.    
@@ -71,7 +74,7 @@ _**Existence légendaire**_. Il n'est pas bon de tuer un Inéxorable. Lorsqu'il 
 
 
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaque multiple**_ L'inexorable peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  

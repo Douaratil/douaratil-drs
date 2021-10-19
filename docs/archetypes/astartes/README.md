@@ -22,8 +22,10 @@ title: Astartes
 |**17**|[Troisième Attaque](#troisieme-attaque)|
 |**19**|[Parangon héroïque](#parangon-heroïque)|
 |**20**|[Véritable Astartes](#veritable-astartes)|
-
-## Aptitudes d'Archétype
+## Astrates
+&nbsp;
+[![Astartes](https://www.douaratil.fr/illustrations/archetype/astartesm.png)](https://www.douaratil.fr/illustrations/marchetype/astartes.jpg)
+## <v-icon>mdi-weight-lifter</v-icon> Aptitudes d'Archétype
 En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
