@@ -5,7 +5,6 @@ import '@mdi/font/css/materialdesignicons.css'
 import Vuetify from 'vuetify'
 import fr from 'vuetify/es5/locale/fr'
 import colors from 'vuetify/es5/util/colors'
-
 // Stockage des donneés utilisateur dans le navigateur
 store.subscribe((mutation, state) => {
   if (mutation.type.includes('mySpells')) {

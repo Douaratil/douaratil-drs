@@ -88,7 +88,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ### Troisième attaque  
 **En Alcante : Tertio Impetos**  
-À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  Si vous avez déjà une deuxième attaque, vous ajoutez +3 aux dégâts en compensation.
+À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  Si vous avez déjà une troisième attaque, vous ajoutez +3 aux dégâts en compensation.
 
 ### Parangon héroïque  
 **En Alcante : Nosterio Herkhos**  
