@@ -20,6 +20,9 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Ambiance sinistre](/grimoire/ambiance-sinistre).  
 - Ajout du sort [Assaisonnement](/grimoire/assaisonnement).  
 - Ajout du sort [Bougie de méditation](/grimoire/bougie-de-meditation).  
+- Ajout du sort [Coiffure](/grimoire/coiffure).  
+- Ajout du sort [Courant d'air](/grimoire/courant-d-air).
+- Ajout du sort [Eclairage](/grimoire/eclairage).
 
 
 Bon jeu.  
