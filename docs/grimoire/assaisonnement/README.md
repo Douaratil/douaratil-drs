@@ -1,5 +1,5 @@
 ---
-title: "Assaisonement"
+title: "Assaisonnement"
 description: "Assaisonne un plat au goût du lanceur de sort"
 school: "Illusion"
 level: 0

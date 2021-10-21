@@ -19,6 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Ambiance lumineuse](/grimoire/ambiance-lumineuse).
 - Ajout du sort [Ambiance sinistre](/grimoire/ambiance-sinistre).  
 - Ajout du sort [Assaisonnement](/grimoire/assaisonnement).  
+- Ajout du sort [Bougie de méditation](/grimoire/bougie-de-meditation).  
 
 
 Bon jeu.  
