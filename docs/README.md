@@ -51,7 +51,7 @@ Avec ceci un peu de magie curative :
 - Ajout du sort [Soin dentaire](/grimoire/soin-dentaire).  
 - Ajout du sort [Soin dermique](/grimoire/soin-dermique).  
 
-Voici donc pourquoi les mages et les guérisseurs sont indispensables dans les communautés.  
+Voici donc pourquoi les mages et les guérisseurs sont indispensables dans les communautés avec ces 30 nouveaux sorts.  
 
 
 Bon jeu.  
