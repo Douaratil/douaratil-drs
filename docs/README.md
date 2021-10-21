@@ -41,6 +41,17 @@ Avec ceci un peu de magie curative :
 - Ajout du sort [Anti-parasite](/grimoire/anti-parasite).   
 - Ajout du sort [Avortement](/grimoire/avortement).   
 - Ajout du sort [Définir le sexe](/grimoire/definir-le-sexe).   
+- Ajout du sort [Diagnostique foetal](/grimoire/diagnostique-foetal).  
+- Ajout du sort [Fertilité](/grimoire/fertilite).  
+- Ajout du sort [Frigidité](/grimoire/frigidite).  
+- Ajout du sort [Orgasme](/grimoire/orgasme).  
+- Ajout du sort [Puissance/impuissance sexuelle](/grimoire/puissance-impuissance-sexuelle).  
+- Ajout du sort [Rotation foetal](/grimoire/rotation-foetal).  
+- Ajout du sort [Soin animalier](/grimoire/soin-animalier).  
+- Ajout du sort [Soin dentaire](/grimoire/soin-dentaire).  
+- Ajout du sort [Soin dermique](/grimoire/soin-dermique).  
+
+Voici donc pourquoi les mages et les guérisseurs sont indispensables dans les communautés.  
 
 
 Bon jeu.  

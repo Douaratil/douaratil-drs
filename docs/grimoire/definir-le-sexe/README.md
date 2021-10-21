@@ -3,8 +3,8 @@ title: "Définir le sexe"
 description: "Permet de choisir le sexe de l'enfant."
 school: "Enchantement"
 level: 1
-concentration: true
-casting_time: "30 minute"
+concentration: false
+casting_time: "30 minutes"
 duration: "Permanente"
 range: "Contact"
 components:
