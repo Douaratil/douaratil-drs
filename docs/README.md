@@ -16,18 +16,24 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 46
 
-- Ajout du sort [Ambiance lumineuse](/grimoire/ambiance-lumineuse).
+Aujourd'hui, ajout d'un peu de magie domestique:  
+
+- Ajout du sort [Ambiance lumineuse](/grimoire/ambiance-lumineuse).  
 - Ajout du sort [Ambiance sinistre](/grimoire/ambiance-sinistre).  
 - Ajout du sort [Assaisonnement](/grimoire/assaisonnement).  
 - Ajout du sort [Bougie de méditation](/grimoire/bougie-de-meditation).  
 - Ajout du sort [Coiffure](/grimoire/coiffure).  
-- Ajout du sort [Courant d'air](/grimoire/courant-d-air).
-- Ajout du sort [Eclairage](/grimoire/eclairage).
-- Ajout du sort [Epilation](/grimoire/epilation).
-- Ajout du sort [Manucure](/grimoire/manucure).
-- Ajout du sort [Nettoyage](/grimoire/nettoyage).
-- Ajout du sort [Polissage](/grimoire/polissage).
-- Ajout du sort [Repassage](/grimoire/repassage).
+- Ajout du sort [Courant d'air](/grimoire/courant-d-air).  
+- Ajout du sort [Eclairage](/grimoire/eclairage).  
+- Ajout du sort [Epilation](/grimoire/epilation).  
+- Ajout du sort [Manucure](/grimoire/manucure).  
+- Ajout du sort [Nettoyage](/grimoire/nettoyage).  
+- Ajout du sort [Polissage](/grimoire/polissage).  
+- Ajout du sort [Repassage](/grimoire/repassage).  
+- Ajout du sort [Teinte](/grimoire/teinte).  
+- Ajout du sort [Séchage](/grimoire/sechage).  
+- Ajout du sort [Tonte](/grimoire/tonte).  
+
 
 Bon jeu.  
 §§§ .text-right
