@@ -23,6 +23,9 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Coiffure](/grimoire/coiffure).  
 - Ajout du sort [Courant d'air](/grimoire/courant-d-air).
 - Ajout du sort [Eclairage](/grimoire/eclairage).
+- Ajout du sort [Epilation](/grimoire/epilation).
+- Ajout du sort [Manucure](/grimoire/manucure).
+- Ajout du sort [Nettoyage](/grimoire/nettoyage).
 
 
 Bon jeu.  
