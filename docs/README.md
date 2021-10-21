@@ -33,6 +33,14 @@ Aujourd'hui, ajout d'un peu de magie domestique:
 - Ajout du sort [Teinte](/grimoire/teinte).  
 - Ajout du sort [Séchage](/grimoire/sechage).  
 - Ajout du sort [Tonte](/grimoire/tonte).  
+- Ajout du sort [Sentinelle](/grimoire/sentinelle).  
+- Ajout du sort [Serviteurs de fumée](/grimoire/serviteurs-de-fumee).  
+
+Avec ceci un peu de magie curative :  
+- Ajout du sort [Accouchement indolore](/grimoire/accouchement-indolore).   
+- Ajout du sort [Anti-parasite](/grimoire/anti-parasite).   
+- Ajout du sort [Avortement](/grimoire/avortement).   
+- Ajout du sort [Définir le sexe](/grimoire/definir-le-sexe).   
 
 
 Bon jeu.  
