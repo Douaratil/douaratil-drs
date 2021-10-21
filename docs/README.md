@@ -26,7 +26,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Epilation](/grimoire/epilation).
 - Ajout du sort [Manucure](/grimoire/manucure).
 - Ajout du sort [Nettoyage](/grimoire/nettoyage).
-
+- Ajout du sort [Polissage](/grimoire/polissage).
+- Ajout du sort [Repassage](/grimoire/repassage).
 
 Bon jeu.  
 §§§ .text-right
