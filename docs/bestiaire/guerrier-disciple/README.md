@@ -30,7 +30,7 @@ languages:
 ---
 **Seuil de critique**: 14        
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
 _**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  
 

@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 10        
 **Valeur offensive globale**: 14     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Tactique de meute**_. La goule mendiante est _avantagée_ sur les jets d'attaque contre une créature si au moins l'un de ses alliés non _neutralisé_ se trouve dans un rayon de 1,50 mètre autour de cette créature.
 
 _**Appétit féroce**_. Si une goule mendiante touche avec son attaque de _morsure_ une créature qui n'a pas encore agi au cours du combat, cette attaque est un coup critique.

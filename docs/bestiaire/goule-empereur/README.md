@@ -47,7 +47,7 @@ languages:
 ---
 **Seuil de critique**: 19        
 **Valeur offensive globale**: 20     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (3/jour)**_. Si l'empereur rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
 _**Incantation**_. L'empereur est un lanceur de sorts de niveau 17. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants :

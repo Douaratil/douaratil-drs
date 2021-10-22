@@ -50,7 +50,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 26        
 **Valeur offensive globale**: 26     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de Korshekh est le Charisme (DD du jet de sauvegarde contre les sorts 19). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_détection de la magie_](/grimoire/detection-de-la-magie/)
 * **3/jour chacun** : [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_fléau d'insectes_](/grimoire/fleau-d-insectes/) (vers voraces), [_peur_](/grimoire/peur/)

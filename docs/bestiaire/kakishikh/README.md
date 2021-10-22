@@ -41,7 +41,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 20        
 **Valeur offensive globale**: 19     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes magiques**_. Les attaques d'arme de la Kakishikh sont magiques.
 
 _**Réactif**_. La Kakishikh peut effectuer une réaction à chaque tour lors d'un combat.

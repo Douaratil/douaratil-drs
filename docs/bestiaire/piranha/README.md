@@ -29,7 +29,7 @@ environments:
 ---
 **Seuil de critique**: 9            
 **Valeur offensive globale**: 15     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Frénésie sanguinaire**_. Le piranha obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
 _**Respiration aquatique**_. Le piranha peut respirer uniquement sous l'eau.

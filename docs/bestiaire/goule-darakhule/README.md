@@ -38,7 +38,7 @@ environments:
 ---
 **Seuil de critique**: 14        
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Maître du déguisement**_. Un darakhul qui revêt un déguisement préparé est _avantagé_ sur les jets de sauvegarde de Charisme (Supercherie) afin de passer pour un vivant. Quand le darakhul utilise ce pouvoir, il perd sa puanteur.
 
 _**Puanteur**_. Chaque créature commençant son tour dans un rayon de 1,50 mètre autour du darakhul doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est _empoisonnée_ jusqu'au début de son prochain tour. Un jet de sauvegarde réussi immunise une créature contre la puanteur du darakhul pendant 24 heures. Un darakhul qui utilise ce pouvoir ne peut pas profiter de _maître du déguisement_.

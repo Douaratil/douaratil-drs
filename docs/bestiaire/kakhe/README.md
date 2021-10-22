@@ -32,7 +32,7 @@ languages:
 ---
 **Seuil de critique**: 12      
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Éteindre les flammes**_. Un kakhe peut éteindre des chandelles, des lampes, des lanternes et des feux de camp couvants dans un rayon de 36 mètres par une action bonus.
 
 _**Détection d'incantation**_. Un kakhe perçoit les incantations dans un rayon de 7,5 kilomètres, tant que l'effet n'est pas inné.

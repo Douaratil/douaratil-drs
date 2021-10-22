@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 16            
 **Valeur offensive globale**: 16     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Retenir son souffle**_. Le plésiosaure peut retenir son souffle pendant 1 heure.
 
 ## Actions

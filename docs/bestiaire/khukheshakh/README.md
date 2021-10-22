@@ -47,7 +47,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 14        
 **Valeur offensive globale**: 19     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Compulsion de dénombrement**_. Si, par une action, une créature indique un groupe d'objets donnés à un Khukheshakh, le démon est forcé de dénombrer l'ensemble des objets de ce groupe. Jusqu'à la fin de son prochain tour, le Khukheshakh est _désavantagé_ lors de ses jets d'attaques et de ses tests de caractéristiques et il ne peut pas faire de réaction. Une fois qu'il a compté un groupe d'objets donnés, il est impossible de le contraindre à compter ces objets de nouveau.
 
 _**Langue fourchue**_. Un Khukheshakh est _avantagé_ lors de ses tests de Charisme (Supercherie) et les tentatives magiques de voir au travers de ses mensonges indiquent toujours qu'il dit la vérité.

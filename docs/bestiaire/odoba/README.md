@@ -52,7 +52,7 @@ telepathy: 30
 ---
 **Seuil de critique**: 28            
 **Valeur offensive globale**: 23     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Savoir (3/jour)**_. Un Odoba peut prévoir les actions et influer sa chance en fonction. Trois fois par jour, il peut ainsi choisir d'être _avantagé_ lors de n'importe quel jet d'attaque ou de compétence.
 
 _**Résistance à la magie**_. Un Odoba est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

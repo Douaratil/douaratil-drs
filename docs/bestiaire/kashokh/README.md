@@ -47,7 +47,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 24       
 **Valeur offensive globale**: 24     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de Kashokh est le Charisme (DD du jet de sauvegarde contre les sorts 24, +16 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_charme-personne_](/grimoire/charme-personne/), [_détection de la magie_](/grimoire/detection-de-la-magie/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/),[_chauffer le métal_](/grimoire/chauffer-le-metal/), [_aura magique de l'arcaniste_](/grimoire/aura-magique-de-l-arcaniste/)
 * **3/jour chacun** : [_contresort_](/grimoire/contresort/), [_création_](/grimoire/creation/), [_légende_](/grimoire/legende/)

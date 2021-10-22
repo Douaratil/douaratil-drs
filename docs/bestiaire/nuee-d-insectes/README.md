@@ -45,7 +45,7 @@ environments:
 ---
 **Seuil de critique**: 10            
 **Valeur offensive globale**: 13     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions

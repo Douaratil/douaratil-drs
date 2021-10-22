@@ -28,7 +28,7 @@ environments:
 ---
 **Seuil de critique**: 13            
 **Valeur offensive globale**: 12   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bête de somme**_. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
 
 _**Pied sûr**_. La mule obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Force et de Dextérité effectués contre les effets susceptibles de la jeter [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

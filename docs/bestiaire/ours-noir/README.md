@@ -27,7 +27,7 @@ languages:
 ---
 **Seuil de critique**: 14            
 **Valeur offensive globale**: 13     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat aiguisé**_. L'ours obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 ## Actions

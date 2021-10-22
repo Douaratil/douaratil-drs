@@ -32,7 +32,7 @@ environments:
 ---
 **Seuil de critique**: 8        
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue aiguisée**_. Le faucon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 
 ## Actions

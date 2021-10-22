@@ -38,7 +38,7 @@ languages:
 ---
 **Seuil de critique**: 10        
 **Valeur offensive globale**: 14     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Métamorphe**_. Le Khashik peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : chauve-souris (vitesse 3 m, vol 12 m), millepattes (12 m, escalade 12 m) ou crapaud (12 m, nage 12 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le Khashik reprend sa forme véritable s'il meurt.
 
 _**Résistance à la magie**_. Le Khashik obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.

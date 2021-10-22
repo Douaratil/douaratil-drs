@@ -37,7 +37,7 @@ category: "PNJ"
 ---
 **Seuil de critique**: 16      
 **Valeur offensive globale**: 23     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.
 

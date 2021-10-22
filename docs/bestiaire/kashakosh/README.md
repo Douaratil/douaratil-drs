@@ -61,7 +61,7 @@ telepathy: 90
 ---
 **Seuil de critique**: 25        
 **Valeur offensive globale**: 27     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Métamorphe**_. Kashakosh peut utiliser son action pour prendre la forme d'une chauve-souris géante couverte de cendres fumantes ou revenir à sa forme véritable d'humanoïde ailé. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. S'il est détruit dans une forme ou l'autre, il se transforme en un tas de cendres graisseuses.
 
 _**Écholocalisation**_. Kashakosh ne peut pas utiliser sa vision aveugle s'il est _assourdi_.

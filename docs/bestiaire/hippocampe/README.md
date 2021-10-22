@@ -27,5 +27,5 @@ dungeonTypes:
 ---
 **Seuil de critique**: 8      
 **Valeur offensive globale**: -   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Respiration aquatique**_. L'hippocampe peut respirer uniquement sous l'eau.

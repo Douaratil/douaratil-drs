@@ -46,7 +46,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 9           
 **Valeur offensive globale**: 15     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Frénésie sanguinaire**_. La nuée obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
 
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un piranha de taille TP. Elle ne peut pas récupérer de point d'action ni gagner de point d'action temporaire.

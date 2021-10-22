@@ -46,7 +46,7 @@ environments:
 ---
 **Seuil de critique**: 10           
 **Valeur offensive globale**: 16     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Poison puissant**_. Le poison d'une nuée de papillons de mort affecte les morts-vivants tangibles, même si ceux-ci sont normalement immunisés contre les poisons.
 
 _**Nuée**_. Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer un insecte de Très Petite taille. La nuée ne peut pas récupérer de points d'action ni gagner de points d'action temporaires.

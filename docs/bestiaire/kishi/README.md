@@ -48,7 +48,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 19      
 **Valeur offensive globale**: 18   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bicéphale**_. Ce démon est _avantagé_ lors de ses tests de Perception et lors de ses jets de sauvegarde contre les états _aveuglé_, _charmé_, _assourdi_, _terrorisé_, _étourdi_ et _inconscient_ (s'il est assommé).
 
 _**Incantation innée**_. La caractéristique d'incantation innée de ce démon est le Charisme (DD du jet de sauvegarde contre les sorts 17). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -49,7 +49,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 10        
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Déplacement intangible**_. Le fantôme peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour à l'intérieur d'un objet.
 
 _**Vision éthérée**_. Le fantôme peut voir jusqu'à 18 mètres dans le plan Éthéré depuis le plan Matériel et vice versa.
