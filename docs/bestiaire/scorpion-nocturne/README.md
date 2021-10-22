@@ -29,8 +29,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
-**Seuil de critique**: 14            
-**Valeur offensive globale**: 14     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions
 _**Attaques multiples**_. Le scorpion fait trois attaques : deux avec ses _pinces_ et une avec son _dard_.
 

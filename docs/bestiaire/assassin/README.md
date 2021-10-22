@@ -33,8 +33,8 @@ damageTypeResistances:
 languages:
   - "argot des voleurs plus deux autres langues au choix"
 ---
-**Seuil de critique**: 14         
-**Valeur offensive globale**: 16      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14         
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Assassinat**_. Pendant son premier tour, l'assassin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature [_surprise_](/gerer-la-sante-du-personnage/#surpris) sont des coups critiques.
 

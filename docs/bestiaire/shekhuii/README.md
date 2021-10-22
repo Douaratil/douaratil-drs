@@ -53,8 +53,8 @@ languages:
 telepathy: 90
 
 ---
-**Seuil de critique**: 27            
-**Valeur offensive globale**: 27      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 27            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 27      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (4/jour)**_. Si Shekhuii rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 

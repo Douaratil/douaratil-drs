@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
 ---
-**Seuil de critique**: 10        
-**Valeur offensive globale**: 12     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts tranchants. Si la cible n'est pas un mort-vivant, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 pour ne pas être [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.

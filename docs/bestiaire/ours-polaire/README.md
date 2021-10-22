@@ -28,8 +28,8 @@ environments:
   - Bois / Forêt
 
 ---
-**Seuil de critique**: 16            
-**Valeur offensive globale**: 17     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat aiguisé**_. L'ours obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

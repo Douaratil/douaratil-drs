@@ -63,8 +63,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg,l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
-**Seuil de critique**: 14      
-**Valeur offensive globale**: 21   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21   
 
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:**_Garde  

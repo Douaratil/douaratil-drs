@@ -41,8 +41,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 19            
-**Valeur offensive globale**: 19     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Radiance torride**_. Un Shakhakheh génère une aura de lumière et de chaleur intenses sur un rayon de 9 mètres. Une créature qui commence son tour dans l'aura ou qui y pénètre pour la première fois lors d'un tour subit 3d6 dégâts radiants. La zone d'effet de l'aura est éclairée d'une lumière vive et elle projette une lumière faible sur 9 mètres supplémentaires. L'aura dissipe les ténèbres magiques là où leurs zones d'effet se croisent.
 

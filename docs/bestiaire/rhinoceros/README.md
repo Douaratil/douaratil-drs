@@ -24,8 +24,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-**Seuil de critique**: 15            
-**Valeur offensive globale**: 17     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Charge**_. Si le rhinocéros se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, sa victime subit 2d6 dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 15 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 

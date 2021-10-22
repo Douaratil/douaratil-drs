@@ -32,8 +32,8 @@ dungeonTypes:
   - Ruines extérieures
 
 ---
-**Seuil de critique**: 16           
-**Valeur offensive globale**: 18    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16           
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Agressif**_. Par une action bonus, le chef Ur'h corrompu peut se déplacer jusqu'au maximum de sa vitesse vers une créature hostile située dans son champ de vision.
 

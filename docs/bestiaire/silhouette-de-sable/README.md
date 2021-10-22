@@ -42,8 +42,8 @@ languages:
 environments:
   - Désert chaud
 ---
-**Seuil de critique**: 17          
-**Valeur offensive globale**: 17  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Camouflage**_. Quand la silhouette de sable se trouve dans un environnement désertique, elle peut utiliser l'action _se cacher_, même si quelqu'un l'observe directement.
 

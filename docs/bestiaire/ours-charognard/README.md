@@ -30,8 +30,8 @@ environments:
   - Montagnes
 
 ---
-**Seuil de critique**: 18            
-**Valeur offensive globale**: 18     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat aiguisé**_. L'ours charognard obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

@@ -27,8 +27,8 @@ languages:
 ## Acolyte
 &nbsp;
 [![Acolyte](https://www.douaratil.fr/illustrations/humanoide/acolytem.png)](https://www.douaratil.fr/illustrations/humanoide/acolyte.jpg)  
-**Seuil de critique**: 10   
-**Valeur offensive globale**: 12  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10   
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon>  Capacités
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse dans les cérémonies et les rituels.  
 _**Incantation**_. L'acolyte est un adepte de la voie de la Magie de niveau 3. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de connus par l'acolyte :

@@ -35,8 +35,8 @@ languages:
 environments:
   - Plans élémentaires
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 13  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en une gerbe de lave. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 2d6 dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 

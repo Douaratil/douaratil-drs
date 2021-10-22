@@ -36,8 +36,8 @@ dungeonTypes:
 ## Azer
 &nbsp;
 [![Azer](https://www.douaratil.fr/illustrations/elementaire/azerm.png)](https://www.douaratil.fr/illustrations/elementaire/azer.jpg)  
-**Seuil de critique**: 15         
-**Valeur offensive globale**: 15  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15         
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes surchauffées**_. Quand l'azer réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 1d6 dégâts de feu supplémentaires (inclus dans l'attaque).
 

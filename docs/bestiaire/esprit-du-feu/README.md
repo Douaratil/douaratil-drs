@@ -42,8 +42,8 @@ environments:
 ## <v-icon>mdi-weight-lifter</v-icon> Esprit du feu
 &nbsp;
 [![Esprit du feu](https://www.douaratil.fr/illustrations/elementaire/espritdufeum.png)](https://www.douaratil.fr/illustrations/elementaire/espritdufeu.jpg)  
-**Seuil de critique**: 10         
-**Valeur offensive globale**: 16  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10         
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Caché par la lueur du feu**_. Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.
 

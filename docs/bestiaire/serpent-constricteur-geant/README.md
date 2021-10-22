@@ -29,8 +29,8 @@ environments:
   - Mangrove / Marécage
 
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions
 _**Comprimer**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 10 dégâts contondants et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 16). Jusqu'au terme de cette empoignade, la créature est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et le serpent ne peut pas comprimer une autre cible.

@@ -45,8 +45,8 @@ languages:
   - "commun des profondeurs"
 
 ---
-**Seuil de critique**: 19        
-**Valeur offensive globale**: 20     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (3/jour)**_. Si l'empereur rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 

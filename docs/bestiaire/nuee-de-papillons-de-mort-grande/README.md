@@ -44,8 +44,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-**Seuil de critique**: 10           
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10           
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Poison puissant**_. Le poison d'une nuée de papillons de mort affecte les morts-vivants tangibles, même si ceux-ci sont normalement immunisés contre les poisons.
 

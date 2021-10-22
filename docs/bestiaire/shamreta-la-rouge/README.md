@@ -40,8 +40,8 @@ category: "PNJ"
 ## Shamreta la rouge
 &nbsp;
 [![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamretam.png)](https://www.douaratil.fr/illustrations/pnj/shamreta.jpg)  
-**Seuil de critique**: 10            
-**Valeur offensive globale**: 17     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Voie de la Magie**_. Shamreta la rouge est niveau 15 dans la voie de la Magie.
 

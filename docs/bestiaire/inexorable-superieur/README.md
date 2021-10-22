@@ -63,8 +63,8 @@ languages:
 ## Inéxorable supérieur
 &nbsp;
 [![Inéxorable supérieur](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)  
-**Seuil de critique**: 22      
-**Valeur offensive globale**: 29   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armure magique**_. L'inexorable à une armure de plaque magique +5.  
 _**Style de combat Défense**_. Gagne un bonus de +1 à votre VD.  

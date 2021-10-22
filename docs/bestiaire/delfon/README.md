@@ -30,8 +30,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
-**Seuil de critique**: 15      
-**Valeur offensive globale**: 16   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Solidarité communautaire**_.  Le delfon obtient un  [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu’un autre delfon est à proximité (1,5m) et qu’il n’est pas neutralisé.
 

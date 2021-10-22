@@ -42,8 +42,8 @@ environments:
 ## Elémentaire de feu
 &nbsp;
 [![Elémentaire de feu](https://www.douaratil.fr/illustrations/elementaire/elementairedefeum.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedefeu.jpg)  
-**Seuil de critique**: 16        
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon>  Capacités
 _**Corps de feu**_. L'élémentaire peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler. Une créature qui touche l'élémentaire ou réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 2d6 de dégâts de feu. De plus, l'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. La première fois qu'il entre dans un emplacement occupé par une créature lors d'un tour, celle-ci subit 2d6 de dégâts de feu et prend feu. Elle subit 2d6 de dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
 

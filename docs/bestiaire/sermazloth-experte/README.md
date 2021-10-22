@@ -30,8 +30,8 @@ damageTypeImmunities:
 languages:
   - "Wesledh, Khern"
 ---
-**Seuil de critique**: 16            
-**Valeur offensive globale**: 19     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Points de Foi**_ : 17  
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse khernaëe dans les cérémonies et les rituels.  

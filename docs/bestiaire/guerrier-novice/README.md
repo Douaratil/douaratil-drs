@@ -28,8 +28,8 @@ movement:
 languages:
   - "Dépend de l'ethnie"
 ---
-**Seuil de critique**: 12      
-**Valeur offensive globale**: 13     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
 _**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  

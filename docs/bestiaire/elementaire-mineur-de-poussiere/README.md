@@ -39,8 +39,8 @@ dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
 ---
-**Seuil de critique**: 10          
-**Valeur offensive globale**: 14  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en une gerbe de poussière. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas être [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) pendant 1 minute. Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 

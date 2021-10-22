@@ -30,8 +30,8 @@ environments:
   - Montagnes
 
 ---
-**Seuil de critique**: 18            
-**Valeur offensive globale**: 19     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## Actions
 _**Attaques multiples**_. Le singe effectue deux attaques de poing.
 

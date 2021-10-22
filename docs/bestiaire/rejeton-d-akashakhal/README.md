@@ -32,8 +32,8 @@ languages:
   - "rejeton d'Akyishigal"
 
 ---
-**Seuil de critique**: 19            
-**Valeur offensive globale**: 15     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Contrôle de la vermine**_. Les rejetons d'Akashakhal peuvent donner des ordres à des bêtes de Très Petite taille d'une Intelligence de 2 ou moins, qui se trouvent dans un rayon de 9 mètres et ne sont pas contrôlées par magie. La vermine obéit aux ordres du rejeton au mieux de ses capacités sans se soucier de sa propre sécurité.
 

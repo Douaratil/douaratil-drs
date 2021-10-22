@@ -34,8 +34,8 @@ environments:
 dungeonTypes:
   - Caverne sous-marine
 ---
-**Seuil de critique**: 10          
-**Valeur offensive globale**: 12  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en un nuage de vapeur. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 pour ne pas subir 2d6 dégâts de feu.
 

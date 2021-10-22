@@ -33,8 +33,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
-**Seuil de critique**: 11            
-**Valeur offensive globale**: 14    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Camouflage sous l'eau**_. La pieuvre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués sous l'eau.
 

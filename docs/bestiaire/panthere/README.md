@@ -31,8 +31,8 @@ environments:
   - Mangrove / Marécage
 
 ---
-**Seuil de critique**: 10            
-**Valeur offensive globale**: 14     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bond agressif**_. Si la panthère se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 12 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), la panthère peut effectuer une attaque de morsure contre elle par une action bonus.
 

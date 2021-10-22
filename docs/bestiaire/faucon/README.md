@@ -30,8 +30,8 @@ environments:
   - Littoral
 
 ---
-**Seuil de critique**: 8        
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue aiguisée**_. Le faucon obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 

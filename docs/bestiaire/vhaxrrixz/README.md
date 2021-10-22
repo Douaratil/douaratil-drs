@@ -66,8 +66,8 @@ telepathy: 72
 source: "Elric"
 
 ---
-**Seuil de critique**: 19             
-**Valeur offensive globale**: 24       
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19             
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Vhaxrrixz contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
 

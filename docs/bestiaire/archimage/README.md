@@ -34,8 +34,8 @@ damageTypeResistances:
 languages:
   - "six langues au choix"
 ---
-**Seuil de critique**: 12      
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Incantation**_. L'archimage est un adepte de la voie de la Magie de niveau 19. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). L'archimage peut lancer déguisement et invisibilité à volonté et connait les sorts suivants :  
 * **Novice (à volonté)** : [_armure du mage_](/grimoire/armure-du-mage/),[_aspersion d'acide_](/grimoire/aspersion-acide/),[_contrôle des flammes_](/grimoire/controle-des-flammes/), [_détection de la magie_](/grimoire/detection-de-la-magie/),[_détection des pensées_](/grimoire/detection-des-pensees/), [_glas funèbre_](/grimoire/glas-funebre/), [_message_](/grimoire/message/), [_identification_](/grimoire/identification/), [_immobilisation de personne_](/grimoire/immobilisation-de-personne/), [_prestidigitation_](/grimoire/prestidigitation/),

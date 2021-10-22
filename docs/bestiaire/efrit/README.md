@@ -32,8 +32,8 @@ environments:
   - Désert chaud
   - Plans élémentaires
 ---
-**Seuil de critique**: 24          
-**Valeur offensive globale**: 20  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Incantation innée**_. La caractéristique d'incantation de l'éfrit est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)

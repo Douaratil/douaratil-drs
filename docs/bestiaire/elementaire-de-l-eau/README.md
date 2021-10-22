@@ -46,8 +46,8 @@ dungeonTypes:
 ## Elémentaire de l'eau
 &nbsp;
 [![Elémentaire de l'eau](https://www.douaratil.fr/illustrations/elementaire/elementairedeaum.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedeau.jpg)  
-**Seuil de critique**: 18      
-**Valeur offensive globale**: 17   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Corps d'eau**_. L'élémentaire peut entrer dans un emplacement occupé par une créature hostile et s'y arrêter. Il peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler.
 

@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
-**Seuil de critique**: 16            
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Retenir son souffle**_. Le plésiosaure peut retenir son souffle pendant 1 heure.
 

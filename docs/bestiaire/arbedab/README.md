@@ -54,8 +54,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 25        
-**Valeur offensive globale**: 23      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (3/jour)**_. Si Arbedab rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 

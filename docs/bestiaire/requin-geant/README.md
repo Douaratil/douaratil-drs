@@ -30,8 +30,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
-**Seuil de critique**: 21            
-**Valeur offensive globale**: 19     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Frénésie sanguinaire**_. Le requin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points d'action.
 

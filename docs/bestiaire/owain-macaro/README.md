@@ -40,8 +40,8 @@ category: "PJ"
 ## Owain Macaro
 &nbsp;
 [![Owain Macaro](https://www.douaratil.fr/illustrations/pj/owainm.png)](https://www.douaratil.fr/illustrations/pj/owain.jpg)  
-**Seuil de critique**: 13            
-**Valeur offensive globale**: 16     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Capacités
 _**Historique:**_  Bandit de grand chemin.  
 **Compétences**. Intimidation, Survie.    

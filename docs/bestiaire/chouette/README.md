@@ -31,8 +31,8 @@ environments:
   - Bois / Forêt
 
 ---
-**Seuil de critique**: 8        
-**Valeur offensive globale**: 13     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Ouïe et vue aiguisées**_. La chouette obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 

@@ -25,8 +25,8 @@ movement:
 languages:
   - "Wesledh, Khern"
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 13      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Points de Foi**_ : 12  
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse khernaëe dans les cérémonies et les rituels.  

@@ -42,8 +42,8 @@ environments:
   - Désert chaud
   - Plans élémentaires
 ---
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 15  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Marche du sable**_. Au lieu de bouger, la forme humanoïde d'un anubien peut se fragmenter en un tas de sable et se reformer à un autre emplacement inoccupé dans un rayon de 3 mètres. Ce déplacement ne provoque pas d'attaque d'opportunité. Après avoir utilisé ce trait dans un terrain sablonneux, l'anubien peut se cacher dans le cadre de son déplacement, même s'il est en train d'être observé. Les anubiens peuvent utiliser leur marche du sable pour passer sous des portes ou traverser des obstacles similaires, pour peu que ceux-ci soient percés d'une ouverture assez large pour permettre le passage de sable.
 

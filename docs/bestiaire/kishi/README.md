@@ -46,8 +46,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 19      
-**Valeur offensive globale**: 18   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bicéphale**_. Ce démon est _avantagé_ lors de ses tests de Perception et lors de ses jets de sauvegarde contre les états _aveuglé_, _charmé_, _assourdi_, _terrorisé_, _étourdi_ et _inconscient_ (s'il est assommé).
 

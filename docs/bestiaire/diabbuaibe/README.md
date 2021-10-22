@@ -46,8 +46,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 20      
-**Valeur offensive globale**: 18   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 

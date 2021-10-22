@@ -30,8 +30,8 @@ environments:
   - Mangrove / Marécage
 
 ---
-**Seuil de critique**: 17      
-**Valeur offensive globale**: 18   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Retenir son souffle**_. Le crocodile peut retenir son souffle pendant 30 minutes.
 

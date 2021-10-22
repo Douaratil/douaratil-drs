@@ -30,8 +30,8 @@ environments:
   - Montagnes
 
 ---
-**Seuil de critique**: 18            
-**Valeur offensive globale**: 17     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Morsure**_. Si le Malaak réussit deux attaques de griffes sur un adversaire au cours du même round, il il le mort avec sa gueule canine, occasionnant automatiquement 3d6 de dégâts, d’autre part la victime est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) et subira des dégâts tous les rounds à moins de réussir un test de force DD15 pour se libérer. Le résultat des dégâts est appliqué à l'abdomen.  
 _**Discrétion**_. Dans un environnement enneigé, les Mandrills sont quasiment indétectables. Ils triplent leur bonus de discrétion dans ces conditions.  

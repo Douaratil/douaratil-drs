@@ -26,8 +26,8 @@ environments:
   - Bois / Forêt
 
 ---
-**Seuil de critique**: 15        
-**Valeur offensive globale**: 13     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat aiguisé**_. Le Charognard des forêts obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

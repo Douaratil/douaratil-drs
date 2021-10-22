@@ -45,8 +45,8 @@ languages:
 dungeonTypes:
   - Ruines extérieures
 ---
-**Seuil de critique**: 11            
-**Valeur offensive globale**: 14   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Déplacement intangible**_. Le spectre peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour à l'intérieur d'un objet.
 

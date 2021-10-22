@@ -37,8 +37,8 @@ languages:
 environments:
   - Désert chaud
 ---
-**Seuil de critique**: 15          
-**Valeur offensive globale**: 15  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Soif**_. L'assoiffeur gris émet une aura de soif desséchante dans un rayon de 9 mètres. Quand une créature entre dans cette aura pour la première fois de son tour ou quand elle commence son tour en son sein, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 ou gagner un niveau d'épuisement. Si elle réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle est immunisée contre l'aura de soif de cet assoiffeur pendant les 24 heures qui suivent.
 

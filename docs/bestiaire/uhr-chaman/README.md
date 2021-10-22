@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
-**Seuil de critique**: 13          
-**Valeur offensive globale**: 14    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
 

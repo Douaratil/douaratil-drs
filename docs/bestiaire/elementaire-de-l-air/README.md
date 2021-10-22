@@ -46,8 +46,8 @@ environments:
 ## Elémentaire de l'air
 &nbsp;
 [![Elémentaire de l'air](https://www.douaratil.fr/illustrations/elementaire/elementairedairm.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedair.jpg)  
-**Seuil de critique**: 14      
-**Valeur offensive globale**: 18   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Corps d'air**_. L'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. Il peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler.
 

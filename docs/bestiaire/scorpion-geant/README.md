@@ -27,8 +27,8 @@ dungeonTypes:
   - Caverne naturelle
 
 ---
-**Seuil de critique**: 15            
-**Valeur offensive globale**: 14     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions
 _**Attaques multiples**_. Le scorpion effectue trois attaques : deux avec ses pinces et une avec son dard.
 

@@ -60,8 +60,8 @@ telepathy: 72
 source: "Elric"
 
 ---
-**Seuil de critique**: 30            
-**Valeur offensive globale**: 29     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Sathyakurm’de contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
 

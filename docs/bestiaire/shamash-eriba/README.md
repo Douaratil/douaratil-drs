@@ -33,8 +33,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Shahim/Shahiate, l’Assyrhiote/Syride la langue Assyrhim, l'Assyrith un dialecte Assyrhim, Alcante/Alcane commun impérial' "
 category: "PNJ"
 ---
-**Seuil de critique**: 14            
-**Valeur offensive globale**: 18     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Voie des armes**_. Shamash Eriba est niveau 12 dans la voie des armes.
 

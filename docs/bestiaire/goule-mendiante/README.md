@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
-**Seuil de critique**: 10        
-**Valeur offensive globale**: 14     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Tactique de meute**_. La goule mendiante est _avantagée_ sur les jets d'attaque contre une créature si au moins l'un de ses alliés non _neutralisé_ se trouve dans un rayon de 1,50 mètre autour de cette créature.
 

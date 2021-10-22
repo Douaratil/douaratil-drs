@@ -29,8 +29,8 @@ environments:
   - Montagnes
 
 ---
-**Seuil de critique**: 10        
-**Valeur offensive globale**: 12     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue aiguisée**_. L'aigle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 

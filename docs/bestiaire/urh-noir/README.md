@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines extérieures
 
 ---
-**Seuil de critique**: 16            
-**Valeur offensive globale**: 16      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## Actions
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
 _Touché_ : 6 dégâts perforants.

@@ -33,8 +33,8 @@ languages:
 telepathy: 18
 
 ---
-**Seuil de critique**: 12      
-**Valeur offensive globale**: 12     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## Actions
 _**Attaques multiples**_. Le dretch effectue deux attaques : une avec sa morsure et une avec ses griffes.  
 

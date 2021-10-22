@@ -30,8 +30,8 @@ languages:
   - "deux langues au choix"
 
 ---
-**Seuil de critique**: 14        
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Actions
 _**Attaques multiples**_. Le capitaine effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.
 

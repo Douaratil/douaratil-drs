@@ -35,8 +35,8 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial' "
 category: "PNJ"
 ---
-**Seuil de critique**: 12    
-**Valeur offensive globale**: 22   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12    
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
 _**Maîtrises:**_. Armes courantes, armure légère, boucliers, armure légère, , outils d'herboriste.

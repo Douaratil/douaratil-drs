@@ -37,8 +37,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 15      
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Inébranlable**_. Le diable ne peut pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  
 

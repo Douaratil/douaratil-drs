@@ -29,8 +29,8 @@ languages:
   - "comprend l'infernal mais ne peut pas parler"
 
 ---
-**Seuil de critique**: 14      
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat et ouïe aiguisés**_. Le Dibbeda, ou molosse infernal obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

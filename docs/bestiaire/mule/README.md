@@ -26,8 +26,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-**Seuil de critique**: 13            
-**Valeur offensive globale**: 12   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bête de somme**_. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.
 

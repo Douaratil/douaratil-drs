@@ -29,8 +29,8 @@ environments:
   - Bois / Forêt
   - Jungle
 ---
-**Seuil de critique**: 8        
-**Valeur offensive globale**: 14     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

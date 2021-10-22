@@ -46,8 +46,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 19        
-**Valeur offensive globale**: 18      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 ***Ichor infectieux***. Chaque fois qu'un akau-keshake subit des dégâts perforants ou tranchants, un jet de sang caustique s'échappe de la plaie en direction de l'attaquant. Ce jet forme une ligne de 3 mètres de long sur 1,50 mètre de large. La première créature qui se trouve sur le trajet de cette ligne doit réussir un jet de sauvegarde de Constitution DD 15 contre les maladies ou se trouver infectée par la maladie de l'ichor de Shekhuii. La créature reste _empoisonnée_ jusqu'à ce que la maladie soit guérie. Toutes les 24 heures, la cible retente son jet de sauvegarde de Constitution et, sur un échec, son maximum de points d'action est réduit de 2d6. Sur un succès, la maladie est guérie. La cible meurt si la maladie réduit son maximum de points de d'action à 0. La réduction du maximum de points d'action d'une créature persiste jusqu'à ce que la maladie soit guérie.
 

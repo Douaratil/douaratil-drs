@@ -46,8 +46,8 @@ languages:
 
 
 ---
-**Seuil de critique**: 17      
-**Valeur offensive globale**: 22   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Âme cachée**_. Une créature tenant l'œuf contenant l'âme de Koschei peut utiliser son action pour donner des ordres au fiélon comme s'il avait été la cible de dominer un monstre et avait raté son jet de sauvegarde. Tant que son âme est dans l'aiguille, Koschei ne peut pas mourir définitivement. S'il périt, son corps se reforme dans son antre dans les 1d10 jours. Si l'aiguille est cassée, Koschei peut se faire tuer comme n'importe qui.
 

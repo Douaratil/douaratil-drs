@@ -48,8 +48,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 20        
-**Valeur offensive globale**: 20     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Présence trompeuse**_. Un Berdu est identifié comme une fée par tous les sorts ou effets magiques qui détectent les créatures surnaturelles. Les bêtes et les plantes se sentent bien autour d'un Berdu et ne l'attaqueront pas, sauf si elles en reçoivent l'ordre ou ont été provoquées.
 

@@ -39,8 +39,8 @@ languages:
   - "infernal"
 
 ---
-**Seuil de critique**: 13      
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Métamorphe**_. Le Diabodi peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : rat (vitesse 6 m), corbeau (6 m, vol 18 m) ou araignée (6 m, escalade 6 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le Diabodi reprend sa forme véritable s'il meurt.
 

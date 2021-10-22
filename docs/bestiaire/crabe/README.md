@@ -32,8 +32,8 @@ dungeonTypes:
   - Caverne sous-marine
 
 ---
-**Seuil de critique**: 10        
-**Valeur offensive globale**: 10     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 10     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Amphibie**_. Le crabe peut respirer à l'air libre et sous l'eau.
 

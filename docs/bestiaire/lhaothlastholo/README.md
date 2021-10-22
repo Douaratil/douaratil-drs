@@ -68,8 +68,8 @@ telepathy: 72
 source: "Elric"
 
 ---
-**Seuil de critique**: 25        
-**Valeur offensive globale**: 24   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Lhaothlastholo contre ou dissipe un sort, il est soigné d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
 

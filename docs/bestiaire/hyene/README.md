@@ -28,8 +28,8 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-**Seuil de critique**: 12      
-**Valeur offensive globale**: 12     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Tactique de groupe**_. La hyène obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) effectué contre une créature si au moins un des alliés de la hyène, qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), se trouve à 1,50 mètre ou moins de la créature qu'elle attaque.
 

@@ -31,8 +31,8 @@ languages:
   - "commun des profondeurs"
 
 ---
-**Seuil de critique**: 14        
-**Valeur offensive globale**: 17     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Braver le renvoi**_. La goule de fer et toutes les goules dans un rayon de 9 mètres autour d'elle sont _avantagées_ sur les jets de sauvegarde contre le renvoi des morts-vivants.
 

@@ -29,8 +29,8 @@ environments:
   - Mangrove / Marécage
 
 ---
-**Seuil de critique**: 22           
-**Valeur offensive globale**: 23      
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22           
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Monstre assiégeur**_. La quantité de dégâts qu'un spinosaure inflige aux objets et aux structures est doublée.
 

@@ -40,8 +40,8 @@ category: "PJ"
 ## Malala Soa
 &nbsp;
 [![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalam.png)](https://www.douaratil.fr/illustrations/pj/malala.jpg)  
-**Seuil de critique**: 12          
-**Valeur offensive globale**: 12    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités
 _**Historique:**_ Serveur
 **Compétences** : Athlétisme, Représentation.  

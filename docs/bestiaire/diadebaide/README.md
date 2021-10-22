@@ -37,8 +37,8 @@ languages:
 telepathy: 36
 
 ---
-**Seuil de critique**: 18      
-**Valeur offensive globale**: 18   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

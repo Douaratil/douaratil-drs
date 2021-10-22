@@ -35,8 +35,8 @@ environments:
   - Désert chaud
 ---
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-**Seuil de critique**: 14          
-**Valeur offensive globale**: 15  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 _**Résistance à la magie**_. Une dau est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
 _**Incantation innée**_. La caractéristique d'incantation innée d'une dau est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles :

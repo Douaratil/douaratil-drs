@@ -30,8 +30,8 @@ languages:
   - "infernal"
 
 ---
-**Seuil de critique**: 12      
-**Valeur offensive globale**: 15   
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Éteindre les flammes**_. Un kakhe peut éteindre des chandelles, des lampes, des lanternes et des feux de camp couvants dans un rayon de 36 mètres par une action bonus.
 
