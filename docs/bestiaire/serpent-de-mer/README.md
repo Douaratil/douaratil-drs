@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 22            
 **Valeur offensive globale**: 23     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Amphibie**_. Le serpent de mer peut respirer à l'air libre et sous l'eau.
 
 _**Monstre assiégeur**_. Le serpent de mer inflige des dégâts doublés aux objets et aux structures (navires).

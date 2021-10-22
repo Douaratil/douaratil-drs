@@ -55,7 +55,7 @@ telepathy: 90
 ---
 **Seuil de critique**: 27            
 **Valeur offensive globale**: 27      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (4/jour)**_. Si Shekhuii rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
 _**Résistance à la magie**_. Shekhuii est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

@@ -47,7 +47,7 @@ telepathy: 18
 ---
 **Seuil de critique**: 13            
 **Valeur offensive globale**: 15      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Lien télépathique**_. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a [_charmée_](/gerer-la-sante-du-personnage/#charme), même s'ils ne sont pas sur le même plan d'existence.
 
 _**Métamorphe**_. Le fiélon peut utiliser son action pour se métamorphoser en humanoïde de taille M ou P, ou pour reprendre sa véritable forme. Sans aile, le fiélon perd sa vitesse en vol. À l'exception de sa taille et de sa vitesse, ses statistiques restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le fiélon reprend sa forme véritable s'il meurt.

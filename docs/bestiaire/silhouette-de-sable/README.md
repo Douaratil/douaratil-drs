@@ -44,7 +44,7 @@ environments:
 ---
 **Seuil de critique**: 17          
 **Valeur offensive globale**: 17  
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Camouflage**_. Quand la silhouette de sable se trouve dans un environnement désertique, elle peut utiliser l'action _se cacher_, même si quelqu'un l'observe directement.
 
 _**Forme sableuse**_. La silhouette de sable peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

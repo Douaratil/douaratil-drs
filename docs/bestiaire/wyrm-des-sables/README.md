@@ -33,7 +33,7 @@ environments:
 ---
 **Seuil de critique**: 18          
 **Valeur offensive globale**: 18    
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Piège osseux**_. Quand le wyrm des sables est sous terre avec ses excroissances osseuses à l'air libre, il peut les refermer sur une créature de Grande taille, deux de taille Moyenne ou quatre de Petite taille ou inférieure qui se trouvent juste au-dessus de lui. Chaque créature doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est _entravée_. Une créature _entravée_ peut dépenser une action pour faire un test de Force DD 15 pour se libérer ou libérer une autre créature _entravée_, mettant fin à l'effet si elle réussit. Une créature _entravée_ par ce trait se déplace avec le wyrm des sables. L'attaque de _dard_ du wyrm est _avantagée_ contre les créatures _entravées_ par ce trait.
 
 ## Actions

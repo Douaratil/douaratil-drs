@@ -42,7 +42,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 22          
 **Valeur offensive globale**: 20     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance à la magie**_. Le Shasheskie obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions

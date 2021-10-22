@@ -35,7 +35,7 @@ category: "PNJ"
 ---
 **Seuil de critique**: 14            
 **Valeur offensive globale**: 18     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Voie des armes**_. Shamash Eriba est niveau 12 dans la voie des armes.
 
 _**Style de combat Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  

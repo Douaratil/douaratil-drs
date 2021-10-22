@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 13          
 **Valeur offensive globale**: 14    
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde effectués pour ne pas être charmé ou terrorisé.
 
 _**Incantation**_. Le chaman est un lanceur de sorts de Foi. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11, +3 pour toucher avec les attaques de sort). Il possède **22 points de Foi**.   

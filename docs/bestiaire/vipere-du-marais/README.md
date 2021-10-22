@@ -27,7 +27,7 @@ environments:
 ---
 **Seuil de critique**: 12          
 **Valeur offensive globale**: 15        
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Camouflage du marais**_. La vipère du marais est _avantagée_ sur les tests de Dextérité (Discrétion) quand elle est en terrain marécageux.
 
 ## Actions

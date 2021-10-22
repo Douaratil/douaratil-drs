@@ -44,7 +44,7 @@ telepathy: 30
 ---
 **Seuil de critique**: 20             
 **Valeur offensive globale**: 21      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Pas du montagnard**_. Les pentes de montagne et les escarpements rocheux ne gênent pas les déplacements du Shukhakh. En montagne, il traverse sans mal les terrains difficiles.
 
 _**Saut puissant**_. Le Shukhakh saute trois fois plus loin que la normale : 22 mètres à l'horizontale et 9 mètres à la verticale avec une course d'élan, ou la moitié de pied ferme.

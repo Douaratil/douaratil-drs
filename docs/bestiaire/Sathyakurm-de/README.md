@@ -62,7 +62,7 @@ source: "Elric"
 ---
 **Seuil de critique**: 30            
 **Valeur offensive globale**: 29     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Sathyakurm’de contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.  
 
 _**Inébranlable**_. Sathyakurm’de ne peut pas être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  

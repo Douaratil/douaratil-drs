@@ -37,7 +37,7 @@ languages:
 ---
 **Seuil de critique**: 16            
 **Valeur offensive globale**: 17      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes magiques**_. Les attaques d'arme du Ur'h mage sont magiques.
 
 _**Incantation innée**_. La caractéristique d'incantation du Ur'h mage est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Le Ur'h mage peut lancer les sorts suivants de manière innée sans aucune composante matérielle :

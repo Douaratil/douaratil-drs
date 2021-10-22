@@ -42,7 +42,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 22            
 **Valeur offensive globale**: 24     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes magiques**_. Les attaques d'arme du Shakhor sont magiques.
 
 _**Aura de feu**_. Au début de chacun des tours du Shakhor, les créatures situées à 1,50 mètre ou moins de lui subissent 3d6 dégâts de feu et les objets inflammables dans l'aura qui ne sont équipés ou transportés par personne prennent feu. Les créatures qui touchent le Shakhor ou qui réussissent une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subissent 3d6 dégâts de feu.

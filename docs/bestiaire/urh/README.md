@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 16          
 **Valeur offensive globale**: 15      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Agressif**_. Par une action bonus, le Uh'r peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
 
 ## Actions

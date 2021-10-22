@@ -47,7 +47,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 11            
 **Valeur offensive globale**: 14   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Déplacement intangible**_. Le spectre peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour à l'intérieur d'un objet.
 
 _**Sensibilité à la lumière du soleil**_. Le spectre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.

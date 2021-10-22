@@ -32,7 +32,7 @@ environments:
 ---
 **Seuil de critique**: 13          
 **Valeur offensive globale**: 15    
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat et ouïe aiguisés**_. Le worg obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions

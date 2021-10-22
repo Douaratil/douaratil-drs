@@ -53,7 +53,7 @@ languages:
 ---
 **Seuil de critique**: 15             
 **Valeur offensive globale**: 17       
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Déplacement intangible**_. Le vampire umbral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 2d6 dégâts de force s'il termine son tour au sein d'un objet.
 
 _**Incantation innée**_. Le vampire umbral utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

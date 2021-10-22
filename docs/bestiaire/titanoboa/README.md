@@ -34,7 +34,7 @@ environments:
 ---
 **Seuil de critique**: 20             
 **Valeur offensive globale**: 22       
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Onduler**_. Si le titanoboa n'a pas mangé de créature de Très Grande taille au cours des 24 heures précédentes, il peut traverser un emplacement étroit d'au minimum 3 mètres sans avoir besoin de se faufiler ou un emplacement de 1,50 mètre en se faufilant.
 
 _**Écailles scintillantes**_. Les écailles du titanoboa réfléchissent la lumière en cascades iridescentes hypnotiques. Si le titanoboa est exposé à une lumière vive, une créature qui le regarde et se trouve dans un rayon de 9 mètres doit réussir un jet de sauvegarde de Sagesse DD 17, sans quoi elle est _étourdie_ jusqu'à la fin de son prochain tour. À moins d'être surprise, une créature peut éviter d'avoir à faire le jet de sauvegarde si elle décide de détourner le regard au début de son tour. Une créature qui détourne le regard ne voit plus le titanoboa jusqu'au début de son prochain tour, où elle peut de nouveau détourner les yeux. Si elle regarde le serpent entre temps, elle doit immédiatement faire un jet de sauvegarde.

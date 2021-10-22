@@ -34,7 +34,7 @@ languages:
 ---
 **Seuil de critique**: 19            
 **Valeur offensive globale**: 15     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Contrôle de la vermine**_. Les rejetons d'Akashakhal peuvent donner des ordres à des bêtes de Très Petite taille d'une Intelligence de 2 ou moins, qui se trouvent dans un rayon de 9 mètres et ne sont pas contrôlées par magie. La vermine obéit aux ordres du rejeton au mieux de ses capacités sans se soucier de sa propre sécurité.
 
 _**Expectoration de nuées (recharge 5-6)**_. Un rejeton peut cracher une [_nuée d'insectes_](/bestiaire/nuee-d-insectes/). Cette nuée est entièrement sous son contrôle. Elle persiste pendant une minute ou jusqu'à ce qu'elle soit détruite.

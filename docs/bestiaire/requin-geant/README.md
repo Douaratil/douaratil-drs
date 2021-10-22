@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 21            
 **Valeur offensive globale**: 19     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Frénésie sanguinaire**_. Le requin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points d'action.
 
 _**Respiration aquatique**_. Le requin peut respirer uniquement sous l'eau.
