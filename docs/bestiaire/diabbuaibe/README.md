@@ -48,7 +48,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 20      
 **Valeur offensive globale**: 18   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
 _**Incantation innée**_. La caractéristique d'incantation innée d'un Diabbuaibe est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -31,7 +31,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 8        
 **Valeur offensive globale**: 10     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Ouïe aiguisée**_. La chauve-souris obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe.

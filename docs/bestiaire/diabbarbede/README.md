@@ -45,7 +45,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 18      
 **Valeur offensive globale**: 16   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Peau barbelée**_. Au début de chacun de ses tours, le Diabbarbede inflige 2d6 dégâts perforants aux créatures qui l'empoignent.
 
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.

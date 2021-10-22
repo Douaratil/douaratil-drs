@@ -25,7 +25,7 @@ languages:
 ---
 **Seuil de critique**: 17        
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Téméraire**_. Au début de son tour, le berserker peut bénéficier d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de tous ses jets d'attaque d'arme au corps à corps pendant ce tour, mais les jets d'attaque effectués contre lui bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'au début de son prochain tour.
 
 ## Actions

@@ -40,7 +40,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 24       
 **Valeur offensive globale**: 24     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes magiques**_. Les attaques d'arme du Diadedodde sont magiques.
 
 _**Aura de terreur**_. Toutes les créatures hostiles envers le Diadedodde qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 21, sauf si le Diadedodde est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Les créatures qui ratent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début de leur prochain tour. Celles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont immunisées contre l'aura de terreur du Diadedodde pendant 24 heures.

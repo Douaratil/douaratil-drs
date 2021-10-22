@@ -2,7 +2,7 @@
   "name": "douaratil-drs",
   "version": "1.0.0",
   "description": "Document de Référence Système pour Douaratil",
-  "author": "Maxime Moraine",
+  "author": "Olivier Hovasse",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev docs",

@@ -31,7 +31,7 @@ environments:
 ---
 **Seuil de critique**: 8        
 **Valeur offensive globale**: 14     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 
 _**Pattes d'araignée**_. L'araignée peut escalader les surfaces difficiles, y compris les plafonds la tête en bas, sans qu'un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ne soit nécessaire.

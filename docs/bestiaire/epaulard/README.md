@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 13        
 **Valeur offensive globale**: 16     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Écholocalisation**_. L'épaulard ne peut plus utiliser sa vision aveugle s'il est [_assourdi_](/gerer-la-sante-du-personnage/#assourdi).
 
 _**Ouïe aiguisée**_. L'épaulard obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe.

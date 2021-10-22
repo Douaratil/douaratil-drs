@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 15      
 **Valeur offensive globale**: 16   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Solidarité communautaire**_.  Le delfon obtient un  [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu’un autre delfon est à proximité (1,5m) et qu’il n’est pas neutralisé.
 
 _**Apnée**_. Le delfon peut respirer uniquement à l’air libre mais à une grande capacité d’apnée qui lui permet de plonger sous la surface des océans et de ne pas remonter avant une heure.  

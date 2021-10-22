@@ -3,3 +3,11 @@ import/
 regex
 docs/.vuepress/dist/
 node_modules
+
+node_modules
+docs/.vuepress/dist
+tmp/
+import/
+regex
+package-lock.json
+yarn.lock

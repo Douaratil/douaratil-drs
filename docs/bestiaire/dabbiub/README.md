@@ -49,7 +49,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 23      
 **Valeur offensive globale**: 20   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un Dabbiub est le Charisme (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 
 * **À volonté** : [_déguisement_](/grimoire/deguisement/), [_détection des pensées_](/grimoire/detection-des-pensees/), [_épargner les mourants_](/grimoire/epargner-les-mourants/), [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/)

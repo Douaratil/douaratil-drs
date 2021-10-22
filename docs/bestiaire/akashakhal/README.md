@@ -55,7 +55,7 @@ telepathy: 18
 ---
 **Seuil de critique**: 22        
 **Valeur offensive globale**: 19      
-## Capacités  
+## <v-icon>mdi-weight-lifter</v-icon> Capacités  
 _**Points de Magie**_. 43  
 _**Incantation innée**_. La caractéristique d'incantation innée d'Akashakhal est le Charisme (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_cercle magique_](/grimoire/cercle-magique/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/),[_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_fléau d'insectes_](/grimoire/fleau-d-insectes/), [_contagion_](/grimoire/contagion/) (toujours la fièvre répugnante).  

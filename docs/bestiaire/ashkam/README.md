@@ -48,7 +48,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 23        
 **Valeur offensive globale**: 21    
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Né des ténèbres**_. À chaque tour, Ashkam peut, par une action bonus, effectuer l'action se cacher quand il se trouve dans une lumière faible ou dans les ténèbres, même si une autre créature est en train de l'observer.
 
 _**Incantation innée**_. La caractéristique d'incantation innée d'Ashkam est le Charisme (DD du jet de sauvegarde contre les sorts 18). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

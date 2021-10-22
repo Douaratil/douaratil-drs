@@ -50,7 +50,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 16        
 **Valeur offensive globale**: 16    
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Déplacement intangible**_. L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 2d6 dégâts de force si elle termine son tour à l'intérieur d'un objet.
 
 _**Sensibilité à la lumière du soleil**_. L'âme-en-peine subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'elle est exposée à la lumière du soleil.

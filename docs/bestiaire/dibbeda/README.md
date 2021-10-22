@@ -31,7 +31,7 @@ languages:
 ---
 **Seuil de critique**: 14      
 **Valeur offensive globale**: 15   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat et ouïe aiguisés**_. Le Dibbeda, ou molosse infernal obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 _**Tactique de groupe**_. Le Dibbeda obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) effectué contre une créature si au moins un des alliés du molosse, qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), se trouve à 1,50 mètre ou moins de la créature qu'il attaque.

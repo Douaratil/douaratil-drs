@@ -26,7 +26,7 @@ environments:
 ---
 **Seuil de critique**: 13        
 **Valeur offensive globale**: 16     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Charge écrasante**_. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.
 
 ## Actions

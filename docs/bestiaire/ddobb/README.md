@@ -49,7 +49,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 26        
 **Valeur offensive globale**: 21     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
 _**Résistance à la magie**_. Le diable est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

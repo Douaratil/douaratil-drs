@@ -32,7 +32,7 @@ languages:
 ---
 **Seuil de critique**: 14        
 **Valeur offensive globale**: 15   
-## Actions
+## <v-icon>mdi-weight-lifter</v-icon> Actions
 _**Attaques multiples**_. Le capitaine effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

@@ -32,7 +32,7 @@ environments:
 ---
 **Seuil de critique**: 8        
 **Valeur offensive globale**: 14     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Imitation**_. Le corbeau peut imiter des sons simples déjà entendus, comme une personne qui murmure, un enfant qui pleure ou les pépiements d'un animal. Une créature qui entend ces sons peut reconnaître leur vraie nature en réussissant un test de Sagesse (Perspicacité) DD 10.
 
 ## Actions

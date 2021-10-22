@@ -37,7 +37,7 @@ category: "PNJ"
 ---
 **Seuil de critique**: 12    
 **Valeur offensive globale**: 22   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
 _**Maîtrises:**_. Armes courantes, armure légère, boucliers, armure légère, , outils d'herboriste.
 

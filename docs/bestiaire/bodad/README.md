@@ -53,7 +53,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 17        
 **Valeur offensive globale**: 17     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir d'un Bodad.
 
 _**Résistance à la magie**_. Un Bodad est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

@@ -53,7 +53,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 17      
 **Valeur offensive globale**: 18   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
 _**Prodigalité du menteur**_. Un Diabdo a une influence sur le bénéficiaire d'un cadeau tant que cette créature le conserve. Cette dernière reçoit un malus de −2 lors de ses jets de sauvegarde contre les pouvoirs du diabdo ainsi qu'un malus supplémentaire de −10 contre les tentatives de scrutation du diabdo. Cet effet peut être dissipé à l'aide du sort [_lever une malédiction_](/grimoire/lever-une-malediction/).

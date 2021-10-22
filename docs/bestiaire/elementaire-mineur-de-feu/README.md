@@ -55,4 +55,4 @@ _**Souffle de feu (Recharge 6)**_. L'élémentaire mineur de feu souffle du feu 
 
 ---
 L'élémentaire mineur de feu est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
-Pour prendre corps, un élémentaire mineur de feu a besoin d'un feu au moins égal à la flamme d'une torche.
+Pour prendre corps, un élémentaire mineur de feu a besoin d'un feu au moins égal à la flamme d'une torche.  

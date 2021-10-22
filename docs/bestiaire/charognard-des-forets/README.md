@@ -28,7 +28,7 @@ environments:
 ---
 **Seuil de critique**: 15        
 **Valeur offensive globale**: 13     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Odorat aiguisé**_. Le Charognard des forêts obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 
 _**Glandes Odorantes**_. Le Charognard des Forêts possède des glandes odorantes sous sa queue dont l'odeur nauséabonde est très tenace. Cette odeur est projetée à 2 mètres et englobe le round suivant un diamètre de 12 mètres. Les personnes se trouvant dans le rayon d'action de l'odeur, doivent réussir un test de vigueur DD 10 pour ne pas subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes leurs actions (à cause des nausées et des vomissements) durant une heure. Si le jet de dés sur le test est un échec de 10 ou plus, la victime perd connaissance pour 3d6 rounds.

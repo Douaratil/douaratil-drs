@@ -51,7 +51,7 @@ telepathy: 30
 ---
 **Seuil de critique**: 18      
 **Valeur offensive globale**: 17   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Métamorphe**_. Un bouda peut utiliser une action pour se métamorphoser en humain, en hyène, ou pour prendre sa forme véritable, qui est celle d'un hybride entre une hyène et un humanoïde. Ses statistiques sont les même pour toutes ses formes, sauf en ce qui concerne son attaque de _griffe méphitique_. Tout équipement qu'il porte n'est pas transformé. Quand un bouda est détruit, il reprend sa forme véritable avant de tomber en poussière.
 
 _**Macule avilissante (1/jour)**_. Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50 mètre. Toute créature vivante qui se trouve dans un rayon de 9 mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD 15 contre le poison ou se trouver _empoisonnée_ pendant 1d6 rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la macule avilissante de ce bouda pendant 24 heures. La puanteur que dégage une macule persiste pendant une semaine.

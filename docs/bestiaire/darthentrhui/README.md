@@ -50,7 +50,7 @@ source: "Elric"
 ---
 **Seuil de critique**: 19      
 **Valeur offensive globale**: 26   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Darthentrhui contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de Magie ou de Foi dépensés pour le sort.   
 
 _**Résistance à la magie**_. Darthentrhui obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.  

@@ -51,7 +51,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 24        
 **Valeur offensive globale**: 21     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
 _**Aura de peur**_. Toute créature hostile à Bodidius qui commence son tour dans un rayon de 6 mètres de lui doit faire un jet de sauvegarde de Sagesse DD 21, sauf si Bodidius est _neutralisé_. Sur un échec, elle est _terrorisée_ jusqu'au début de son prochain tour. Sur une réussite, elle est immunisée contre l'aura de peur de Bodidius pendant les 24 heures qui suivent.

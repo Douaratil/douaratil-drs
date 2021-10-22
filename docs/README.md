@@ -14,6 +14,26 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 47
+
+Préparation et conversion de quelques nouvelles créatures:   
+
+- Ajout de l'[Anubien](/bestiaire/anubien).  
+- Ajout de l'[Assoifeur gris](/bestiaire/assoifeur-gris).  
+- Ajout de l'[Dau](/bestiaire/dau).  
+- Ajout de l'[Efrit](/bestiaire/efrit).  
+- Ajout de l'[Elémentaire mineur de glace](/bestiaire/elementaire-mineur-de-glace).  
+- Ajout de l'[Elémentaire mineur de magma](/bestiaire/elementaire-mineur-de-magma).  
+- Ajout de l'[Elémentaire mineur de poussière](/bestiaire/elementaire-mineur-de-poussiere).  
+- Ajout de l'[Elémentaire mineur de vapeur](/bestiaire/elementaire-mineur-de-vapeur).  
+- Ajout de l'[Silhouette de sable](/bestiaire/silhouette-de-sable).  
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 21 octobre 2021_
+§§§
+
 ## Mise à jour 46
 
 Aujourd'hui, ajout d'un peu de magie domestique:  

@@ -66,7 +66,7 @@ category: "PJ"
 **Seuil de critique**: 14      
 **Valeur offensive globale**: 21   
 
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:**_Garde  
 **Compétences** : Intimidation, Perspicacité.  
 **Outils maîtrisés** : Un type de jeu au choix.  

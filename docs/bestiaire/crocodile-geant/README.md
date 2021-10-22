@@ -32,7 +32,7 @@ environments:
 ---
 **Seuil de critique**: 17      
 **Valeur offensive globale**: 18   
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Retenir son souffle**_. Le crocodile peut retenir son souffle pendant 30 minutes.
 
 ## Actions

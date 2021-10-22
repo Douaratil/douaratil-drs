@@ -34,7 +34,7 @@ dungeonTypes:
 ---
 **Seuil de critique**: 10        
 **Valeur offensive globale**: 10     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Amphibie**_. Le crabe peut respirer à l'air libre et sous l'eau.
 
 ## Actions

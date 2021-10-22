@@ -35,7 +35,7 @@ languages:
 ---
 **Seuil de critique**: 11        
 **Valeur offensive globale**: 13     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Reconstitution infernale**_. Un Debu qui meurt dans les Neuf Enfers revient à la vie en 1d10 jours avec tous ses points de vie, à moins qu'il ne soit tué par une créature d'alignement bon qui bénéficiait d'un sort de [_bénédiction_](/grimoire/benediction/) au moment de sa mort ou si de l'eau bénite a été aspergée sur son cadavre.
 
 _**Vue du diable**_. Les ténèbres magiques ne bloquent pas la vision dans le noir du lémure.

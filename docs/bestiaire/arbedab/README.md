@@ -56,7 +56,7 @@ telepathy: 36
 ---
 **Seuil de critique**: 25        
 **Valeur offensive globale**: 23      
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Résistance légendaire (3/jour)**_. Si Arbedab rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
 _**Résistance à la magie**_. Arbedab est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

@@ -69,7 +69,7 @@ telepathy: 72
 ---
 **Seuil de critique**: 30      
 **Valeur offensive globale**: 30     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Absorption de la trame**_. Quand Emhyhruigdrux contre ou dissipe un sort, Il est soigné d'un nombre de points d'action égal à trois fois les points de Magie ou de Foi dépensés pour le sort.  
 
 _**Inébranlable**_. Emhyhruigdrux ne peut pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.  

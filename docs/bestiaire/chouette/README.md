@@ -33,7 +33,7 @@ environments:
 ---
 **Seuil de critique**: 8        
 **Valeur offensive globale**: 13     
-## Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Ouïe et vue aiguisées**_. La chouette obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
 
 _**Repli aérien**_. La chouette ne provoque pas d'attaques d'opportunité quand elle passe hors de portée de l'allonge d'un ennemi.
