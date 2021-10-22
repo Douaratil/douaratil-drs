@@ -13,7 +13,7 @@ abilityScores:
   sag: 17
   cha: 16
 ac:
- armorType: "custom"
+  armorType: "custom"
   value: "16"
 skills:
   - name: "discretion"
@@ -34,6 +34,9 @@ telepathy: 18
 environments:
   - Désert chaud
 ---
+## Dau
+&nbsp;
+[![Dau](https://www.douaratil.fr/illustrations/fee/daum.png)](https://www.douaratil.fr/illustrations/fee/dau.jpg)  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  

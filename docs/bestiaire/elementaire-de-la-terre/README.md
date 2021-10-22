@@ -55,6 +55,7 @@ _**Attaques multiples**_. L'élémentaire effectue deux attaques de coup.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts contondants.  
+
 ---  
 L'élémentaire de la terre est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire de la terre a besoin de l'équivalent de 10m3 de terre meuble.  

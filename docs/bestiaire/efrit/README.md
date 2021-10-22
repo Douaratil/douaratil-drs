@@ -32,6 +32,9 @@ environments:
   - Désert chaud
   - Plans élémentaires
 ---
+## Efrit
+&nbsp;
+[![Efrit](https://www.douaratil.fr/illustrations/elementaire/efritm.png)](https://www.douaratil.fr/illustrations/elementaire/efrit.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

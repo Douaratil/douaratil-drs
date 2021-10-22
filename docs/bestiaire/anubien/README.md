@@ -42,6 +42,9 @@ environments:
   - Désert chaud
   - Plans élémentaires
 ---
+## Anubien
+&nbsp;
+[![Anubien](https://www.douaratil.fr/illustrations/elementaire/anubienm.png)](https://www.douaratil.fr/illustrations/elementaire/anubien.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

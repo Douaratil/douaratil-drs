@@ -13,8 +13,8 @@ abilityScores:
   sag: 12
   cha: 14
 ac:
-armorType: "custom"
-value: "14"
+  armorType: "custom"
+  value: "14"
 skills:
   - name: "discretion"
 movement:
@@ -37,6 +37,9 @@ languages:
 environments:
   - Désert chaud
 ---
+## Assoiffeur gris
+&nbsp;
+[![Assoiffeur gris](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgrism.png)](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgris.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

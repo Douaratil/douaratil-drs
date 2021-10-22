@@ -42,6 +42,9 @@ languages:
 environments:
   - Désert chaud
 ---
+## Silhouette de sable
+&nbsp;
+[![Silhouette de sable](https://www.douaratil.fr/illustrations/mort-vivant/silhouettedesablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/silhouettedesable.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -19,14 +19,14 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Préparation et conversion de quelques nouvelles créatures:   
 
 - Ajout de l'[Anubien](/bestiaire/anubien).  
-- Ajout de l'[Assoifeur gris](/bestiaire/assoifeur-gris).  
-- Ajout de l'[Dau](/bestiaire/dau).  
+- Ajout de l'[Assoiffeur gris](/bestiaire/assoiffeur-gris).  
+- Ajout de la [Dau](/bestiaire/dau).  
 - Ajout de l'[Efrit](/bestiaire/efrit).  
 - Ajout de l'[Elémentaire mineur de glace](/bestiaire/elementaire-mineur-de-glace).  
 - Ajout de l'[Elémentaire mineur de magma](/bestiaire/elementaire-mineur-de-magma).  
 - Ajout de l'[Elémentaire mineur de poussière](/bestiaire/elementaire-mineur-de-poussiere).  
 - Ajout de l'[Elémentaire mineur de vapeur](/bestiaire/elementaire-mineur-de-vapeur).  
-- Ajout de l'[Silhouette de sable](/bestiaire/silhouette-de-sable).  
+- Ajout de la [Silhouette de sable](/bestiaire/silhouette-de-sable).  
 
 Bon jeu.  
 §§§ .text-right

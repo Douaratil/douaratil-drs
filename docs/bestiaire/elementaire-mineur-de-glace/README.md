@@ -39,6 +39,9 @@ environments:
   - Montagnes
   - Plans élémentaires
 ---
+## Elémentaire mineur de glace
+&nbsp;
+[![Elémentaire mineur de glace](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdeglacem.png)](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdeglace.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -53,6 +56,7 @@ _**Griffes**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,5
 _Touché_ : 2 dégâts tranchants plus 1d6 dégâts de froid.
 
 _**Souffle de givre (Recharge 6)**_. Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 ; elles subissent 2d6 dégâts de froid en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
+
 ---
 L'élémentaire mineur de glace est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de feu a besoin d'un peu de glace ou de neige au moins égal à 30 cm2.  
