@@ -140,7 +140,7 @@ Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse.  
+Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse. Il a une cicatrice (trou de flèche) entre les omoplates.
 §§§
 
 §§§ .hero
