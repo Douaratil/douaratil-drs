@@ -65,7 +65,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
+  - "le Weslèdh (3/3), le Melg/Bergaf (3/3), le Zorkhan (3/3), l'Alcane/Alcath (2/2) "
 category: "PJ"
 ---
 ## Knut Svenson
@@ -154,8 +154,14 @@ Knut possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *Rien pour le moment*  
-**XP acquis** : 6 500po  
+**XP acquis** : 13 787
 **Points de Magie** :10   
 **Points de Foi** :10    
 **Points d'honneur** :20      
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+Comme un sou neuf
+
 §§§

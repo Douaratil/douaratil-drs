@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "11"
-customHP: "47"
+challenge: "12"
+customHP: "50"
 abilityScores:
   for: 10
-  dex: 13
+  dex: 14
   con: 14
   int: 10
   sag: 12
-  cha: 18
-customSavingThrows: "for +1, dex(••) +9, con +3, int(•) +4, sag +2, cha(•) +8 "
+  cha: 19
+customSavingThrows: "for +1, dex(••) +10, con +3, int(•) +4, sag +2, cha(•) +8 "
 savingThrows:
   - "dex"
   - "dex"
@@ -21,10 +21,10 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "17 (cuirasse)"
+  value: "18 (cuirasse)"
 skills:
   - name: "custom"
-    value: "acrobatie(touche à tout) +3"
+    value: "acrobatie(touche à tout) +4"
   - name: "custom"
     value: "arcanes(touche à tout) +2"
   - name: "custom"
@@ -34,7 +34,7 @@ skills:
   - name: "custom"
     value: "dressage(touche à tout) +3"
   - name: "custom"
-    value: "escamotage(touche à tout) +3"
+    value: "escamotage(touche à tout) +4"
   - name: "custom"
     value: "histoire(•) +4"
   - name: "custom"
@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Brédète langue meldète et le Khern langue Khernaëe "
+  - "le Weslèdh (3/3), le Mèlde (3/3), le Brédète (3/3) et le Khern (2/2)) "
 category: "PJ"
 ---
 ## Lochetos Vlatcano
@@ -176,7 +176,6 @@ Lôchetos possède l'équipement suivant :
 - cuirasse
 - épée courte
 - flèches (20)
-- fourrure de mandrills des montagnes (500po) (dents+griffes)  
 - glaive
 - hache
 - rations de voyage (26)
@@ -185,7 +184,7 @@ Lôchetos possède l'équipement suivant :
 - piège à mâchoire
 - torches (2)
 - vêtement discrets
-- 64 PC, 3847 PA, 50 PE, 10385 PO, 70 PP.  
+- 64 PC, 5247 PA, 50 PE, 12385 PO, 70 PP.  
 §§§
 
 §§§ .hero
@@ -212,11 +211,11 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 50284
+**XP acquis** : 111 825
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :45     
-**famille** : une amante et une fille Serena
+**Points d'honneur** :48     
+**famille** : une amante et une fille Serena, une femme shahim
 §§§
 
 §§§ .hero

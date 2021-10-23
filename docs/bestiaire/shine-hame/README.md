@@ -170,3 +170,10 @@ Shin Hame possède l'équipement suivant :
 **Points de Foi** :21   
 **Points d'honneur** :24    
 §§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+- hanche gauche (10 cm)  
+- mollet droit (10 cm)
+
+§§§

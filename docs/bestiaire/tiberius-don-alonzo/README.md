@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "12"
-customHP: "48"
+challenge: "13"
+customHP: "51"
 abilityScores:
   for: 14
   dex: 20
   con: 12
   int: 10
   sag: 10
-  cha: 11
-customSavingThrows: "for(•) +6, dex(••) +13, con +1, int(•) +4, sag +0, cha +0"
+  cha: 12
+customSavingThrows: "for(•) +6, dex(••) +13, con +1, int(•) +4, sag +0, cha +1"
 savingThrows:
   - "for"
   - "dex"
@@ -38,7 +38,7 @@ skills:
   - name: "custom"
     value: "histoire(•) +4"
   - name: "custom"
-    value: "intimidation(•) +4"
+    value: "intimidation(•) +5"
   - name: "custom"
     value: "investigation +0"
   - name: "custom"
@@ -50,20 +50,20 @@ skills:
   - name: "custom"
     value: "perspicacité(•) +4"
   - name: "custom"
-    value: "persuasion(••) +8 "
+    value: "persuasion(••) +9 "
   - name: "custom"
     value: "religion +0"
   - name: "custom"
-    value: "représentation +0"
+    value: "représentation +1"
   - name: "custom"
-    value: "supercherie(•) +4"
+    value: "supercherie(•) +5"
   - name: "custom"
     value: "survie +0"
 movement:
   walk: 9
 senses:
 languages:
-  - "l'Alcath, le commun de l'empire, le Courdote dialecte alcante, le Khern langue Khernaëe "
+  - "l'Alcath (3/3), le Courdote (3/3), le Khern (2/2) "
 category: "PJ"
 ---
 ## Tiberius Don Alonzo
@@ -110,7 +110,9 @@ _**Aura de courage**_. *(Astartes)* À partir du niveau 10, vous, ainsi que tout
 
 _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
 
-_**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.
+_**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.  
+
+_**Chevalier sans peur**_. *(Astartes)* Au niveau 13, lorsque vous combattez avec ferveur, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque sur chaque attaque effectuée après un déplacement d'au moins 6 mètres et, si vous blessez un adversaire, elle doit réaliser un jet de sauvegarde de Force ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre) (voir la section Combat monté si la cible est elle-même sur une monture).  
 
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
@@ -162,14 +164,12 @@ Tiberius possède l'équipement suivant :
 - heurtoir
 - onguent de soin (1)  (récup 1d6 pa, doit être au calme)
 - outils d'artisan de joaillier
-- péridot (1)(500po)
-- pierres précieuses du collier d'Azenor (130 po)
 - poisons (7)(+3d6, DD11)
 - potion de soin (1) (récup 1d6+2 pa).
 - rations (8)
 - silex
 - torches (20)
-- 200 PC, 7348 PA, 36 PE & 3610 PO, 5 PP.   
+- 200 PC, 9748 PA, 36 PE & 5218 PO, 5 PP.   
 
 §§§
 
@@ -194,7 +194,7 @@ petite maison à Ker-Saozon.
 **XP acquis** : 111 569        
 **Points de Magie** :10   
 **Points de Foi** :10     
-**Points d'honneur** :40    
+**Points d'honneur** :45    
 **famille** : une amante et deux faux jumeaux   
 ## Avidia Collatinus
 &nbsp;
@@ -203,4 +203,10 @@ petite maison à Ker-Saozon.
 ## Azenor
 &nbsp;
 [![Azenor](https://www.douaratil.fr/illustrations/pnj/azenorm.png)](https://www.douaratil.fr/illustrations/pnj/azenor.jpg)   
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+Comme un sou neuf
+
 §§§

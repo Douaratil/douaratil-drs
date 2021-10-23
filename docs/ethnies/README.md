@@ -1,5 +1,5 @@
 ---
-title: "Ethnies"
+title: "langues"
 ---
 # Les ethnies
 ## Traits ethniques

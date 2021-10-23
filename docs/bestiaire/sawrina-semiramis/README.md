@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "13"
-customHP: "53"
+challenge: "14"
+customHP: "58"
 abilityScores:
   for: 10
   dex: 20
-  con: 14
+  con: 16
   int: 10
   sag: 16
   cha: 10
-customSavingThrows: "for +0, dex(••) +15, con +2, int(•) +5, sag(•) +8, cha +0"
+customSavingThrows: "for +0, dex(••) +15, con +3, int(•) +5, sag(•) +8, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "Le Shahim/Shahiate langue commune orientale, Assyrhiote/Assyrhide langue Assyrhim, Cyrénide/Assyride dialecte assyrhim. Toutes les langues communes (Weshlèdh, Minghour, Alcante) et le Selmh (langue Selmonite) "
+  - "Le Shahim/Shahiate (3/3), Assyrhiote/Assyrhide (3/3), Cyrénide/Assyride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3) "
 category: "PJ"
 ---
 ## Sawrina Semramis
@@ -184,7 +184,13 @@ Sawrina possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 139 305
+**XP acquis** : 149 585
 **Points de Foi** :15   
 **Points d'honneur** :46
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+Ne garde pas de cicatrices
+
 §§§

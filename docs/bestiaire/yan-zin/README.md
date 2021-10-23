@@ -165,3 +165,9 @@ Yan Zin possède l'équipement suivant :
 **Points de Foi** :14        
 **Points d'honneur** :27     
 §§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+hanche gauche (20cm)
+
+§§§

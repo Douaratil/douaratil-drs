@@ -173,3 +173,9 @@ Pywed Vecconos possède l'équipement suivant :
 **Points de Foi** :32  
 **Points d'honneur** :18  
 §§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+
+
+§§§

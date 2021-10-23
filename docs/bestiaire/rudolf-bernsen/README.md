@@ -163,7 +163,7 @@ Rudolf possède l'équipement suivant :
 - tambourin
 - tente
 - tenue de voyageur
-- 2960 PC,  3145 PA, 12 PE, 1835 PO, 45 PP.
+- 3560 PC,  3395 PA, 12 PE, 1895 PO, 45 PP.
 §§§
 
 §§§ .hero
@@ -181,11 +181,17 @@ Rudolf possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 66 074    
+**XP acquis** : 71 754    
 **Points de Magie** :9    
 **Points de Foi** :12    
 **Points d'honneur** :34      
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 La valeur naturelle de Force de Rudolf est de 16.  
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+facture mineur au thorax (fracture	20 jours,	Usage du membre impossible ou risque d'aggravation, DD28)
+
 §§§

@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "chaotique bon"
-challenge: "10"
-customHP: "32"
+challenge: "11"
+customHP: "34"
 abilityScores:
   for: 12
   dex: 10
@@ -26,7 +26,7 @@ skills:
   - name: "custom"
     value: "acrobatie +0"
   - name: "custom"
-    value: "arcanes(••) +13"
+    value: "arcanes(••) +11"
   - name: "custom"
     value: "athlétisme +1"
   - name: "custom"
@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg, le Holtar écriture sacrée melge "
+  - "le Weslèdh (3/3), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (2)
 category: "PJ"
 ---
 
@@ -202,7 +202,7 @@ Thorleik Aevarson possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** : néant
+**Niveau patrimoine** : néant
 §§§
 
 §§§ .hero
@@ -215,8 +215,14 @@ Thorleik Aevarson possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 77 577  
+**XP acquis** : 85 234
 **Points de Magie** :16   
-**Points de Foi** :56    
-**Points d'honneur** :30      
+**Points de Foi** :60    
+**Points d'honneur** :32      
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+Comme un sou neuf
+
 §§§

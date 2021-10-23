@@ -168,3 +168,9 @@ Taron Vecconos possède l'équipement suivant :
 **Points de Foi** :10  
 **Points d'honneur** :28  
 §§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+Comme un sou neuf
+
+§§§

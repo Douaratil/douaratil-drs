@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le Nordhème langue meldète et écrit le Bergaf "
+  - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Bergaf (3)"
 category: "PJ"
 ---
 ## Gwion Gornoc
@@ -149,7 +149,7 @@ Gwion appartient au clan meldète Gornoc qui a prêté allégeance à Gaenor Lug
 
 §§§ .hero
 ###  <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux blancs et les yeux blancs. Il mesure un mètre soixante sept pour soixante  kilos. Gwion a les doigts crochus. Il est légèrement bossu depuis sa naissance et a une tâche de vin sur la clavicule droite. Il a la joue gauche marquée au fer rouge et à une scarification sur le front en forme d'étoile à six branches. Gravement blessé par un la lame d'un Khernaë de Ker-Saozon durant l'hiver, il a une grosse cicatrice dans le bas du dos.  
+Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux blancs et les yeux blancs. Il mesure un mètre soixante sept pour soixante  kilos. Gwion a les doigts crochus. Il est légèrement bossu depuis sa naissance et a une tâche de vin sur la clavicule droite. Il a la joue gauche marquée au fer rouge et à une scarification sur le front en forme d'étoile à six branches.
 §§§
 
 §§§ .hero
@@ -181,7 +181,7 @@ Gwion possède l'équipement suivant :
 - [pierre d'obédience](/liste-objets-magiques/pierre-d-obedience)
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
-- 4767 PC, 20 828 PA, 44 PE, 1579 PO, 134 PP.  
+- 4767 PC, 21 828 PA, 44 PE, 3103 PO, 134 PP.  
 §§§
 
 §§§ .hero
@@ -228,11 +228,17 @@ un petit fil de cuivre enchanté.
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 105 459       
+**XP acquis** : 117 859       
 **Points de Magie** :68   
 **Points de Foi** :15    
 **Points d'honneur** :43       
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+- Bas du dos (20 cm)
+
 §§§

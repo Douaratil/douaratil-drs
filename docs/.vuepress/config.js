@@ -217,6 +217,11 @@ module.exports = {
             path: '/ethnies/',
           },
           {
+            title: "Langues",
+            icon: 'mdi-account-voice',
+            path: '/langues/',
+          },
+          {
             title: "Personnalité & Historique",
             icon: 'mdi-human-greeting',
             path: '/personnalite-et-historique/',

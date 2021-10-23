@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "12"
-customHP: "60"
+challenge: "13"
+customHP: "64"
 abilityScores:
   for: 12
   dex: 20
   con: 12
   int: 8
-  sag: 16
+  sag: 17
   cha: 8
 customSavingThrows: "for(•) +5, dex +5, con(•) +5, int(•) +3, sag(•) +6, cha -1"
 savingThrows:
@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial"
+  - "le Weslèdh (3/3), le Khern (3/3), l'Alcath/l'Alcane (2/2)"
 category: "PJ"
 ---
 
@@ -121,6 +121,8 @@ _**Compagnon animal corneille à tête blanche**_. *(Bhegelm)*  À partir du niv
 
 _**Enfant de la nature**_. *(Bhegelm)*  Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.  
 
+_**Monture sacrée supérieure**_. *(Bhegelm)*  À partir du niveau 13, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace à 2 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Margs effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
@@ -172,7 +174,7 @@ Margs possède l'équipement suivant :
 - rations (8) de nourriture
 - serpe de maître sacrificielle
 - torches (10)
-- 4619 PC, 7583 PA, 36 PE & 4606 PO, 0 PP.  
+- 4619 PC, 9183 PA, 36 PE & 5306 PO, 0 PP.  
 §§§
 
 §§§ .hero
@@ -198,7 +200,7 @@ Margs possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 107 585  
+**XP acquis** : 150 505  
 **Points de Magie** :8   
 **Points de Foi** :16    
 **Points d'honneur** :37    
