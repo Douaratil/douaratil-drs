@@ -13,7 +13,7 @@ title: Bhegelm
 |**6**|[Forme sauvage](#forme-sauvage)|
 |**7**|[Monture sacrée](#monture-sacree), [Traversée des terrains](#traversee-des-terrains)|
 |**8**|[Compagnon animal corneille à tête blanche](#compagnon-animal-corneille-a-tete-blanche)|
-|**10**|[Enfant de la nature)](#enfant-de-la-nature)|
+|**10**|[Enfant de la nature](#enfant-de-la-nature)|
 |**13**|[Monture sacrée supérieure](#monture-sacree-superieure)|
 |**14**|[Sanctuaire de la nature](#sanctuaire-de-la-nature)|
 |**16**|[Compagnon animal corneille blanche](#compagnon-animal-corneille-blanche)|

@@ -195,5 +195,12 @@ petite maison à Ker-Saozon.
 **Points de Magie** :10   
 **Points de Foi** :10     
 **Points d'honneur** :40    
-**famille** : une amante et deux faux jumeaux    
+**famille** : une amante et deux faux jumeaux   
+## Avidia Collatinus
+&nbsp;
+[![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidiam.png)](https://www.douaratil.fr/illustrations/pnj/avidia.jpg)   
+
+## Azenor
+&nbsp;
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenorm.png)](https://www.douaratil.fr/illustrations/pnj/azenor.jpg)   
 §§§

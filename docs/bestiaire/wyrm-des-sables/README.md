@@ -31,6 +31,9 @@ environments:
   - Désert chaud
 
 ---
+## Wyrm des sables
+&nbsp;
+[![Wyrm des sables](https://www.douaratil.fr/illustrations/dragon/wyrmdessablesm.png)](https://www.douaratil.fr/illustrations/dragon/wyrmdessables.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

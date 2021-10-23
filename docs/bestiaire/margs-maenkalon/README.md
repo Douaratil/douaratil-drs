@@ -117,6 +117,10 @@ _**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appel
 
 _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
 
+_**Compagnon animal corneille à tête blanche**_. *(Bhegelm)*  À partir du niveau 8, le Bhegelm s’allie désormais avec une corneille à tête blanche. L’animal à une portée de 100 mètres par niveau.  
+
+_**Enfant de la nature**_. *(Bhegelm)*  Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Margs effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
