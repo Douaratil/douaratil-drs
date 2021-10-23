@@ -63,13 +63,13 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Minghour/Mingath le commun oriental, le Yotaï/Yohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
+  - "le Weslèdh (2/2), le Minghour/Mingath (3/3), le Yotaï/Yohaï (3/3), le Yoth (3/3) "
 category: "PJ"
 ---
 
- ## Shine Hame
- &nbsp;
- [![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinem.png)](https://www.douaratil.fr/illustrations/pj/shine.jpg)  
+## Shine Hame
+&nbsp;
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinem.png)](https://www.douaratil.fr/illustrations/pj/shine.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14      

@@ -67,9 +67,9 @@ languages:
 category: "PJ"
 ---
 
- ## Margs Maenkalon
- &nbsp;
- [![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margsm.png)](https://www.douaratil.fr/illustrations/pj/margs.jpg)  
+## Margs Maenkalon
+&nbsp;
+[![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margsm.png)](https://www.douaratil.fr/illustrations/pj/margs.jpg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     

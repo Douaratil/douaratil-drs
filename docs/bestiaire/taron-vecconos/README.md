@@ -59,7 +59,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Mèlde dialecte meldète, le mèldon langue meldète et le Drods langue des drodan et l'Alcath langue impériale "
+  - "le Weslèdh (3/3), le Mèlde (3/3), le mèldon (3/3) et le Drods (3/3) et l'Alcath (2/2) "
 category: "PJ"
 ---
 ## Taron Vecconos

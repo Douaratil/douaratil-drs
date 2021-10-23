@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le Zorkhan dialecte melg, l'Alcane/Alcath commun impérial "
+  - "le Weslèdh (3/3), le Melg/Bergaf (3/3), le Zorkhan (3/3), l'Alcane/Alcath (2/2)"
 category: "PJ"
 ---
 ## Rudolf Bernsen

@@ -18,7 +18,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 Ajout des règles de langues avec les degrés et leur utilisation :
 
-- Ajout des [Langues](/langues).  
+- Ajout des [Langues](/langues).
+- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon) au niveau 13.  
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) au niveau 12.  
+- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis) au niveau 14.  
 
 Bon jeu.  
 §§§ .text-right

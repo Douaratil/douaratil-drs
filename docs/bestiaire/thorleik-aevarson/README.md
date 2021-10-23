@@ -64,13 +64,13 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (2)
+  - "le Weslèdh (3/3), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (2)"
 category: "PJ"
 ---
 
- ## Thorleik Aevarson
- &nbsp;
- [![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleikm.png)](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)  
+## Thorleik Aevarson
+&nbsp;
+[![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleikm.png)](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
