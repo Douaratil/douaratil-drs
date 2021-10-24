@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "13"
-customHP: "64"
+challenge: "14"
+customHP: "68"
 abilityScores:
   for: 12
   dex: 20
@@ -13,7 +13,7 @@ abilityScores:
   int: 8
   sag: 17
   cha: 8
-customSavingThrows: "for(•) +5, dex +5, con(•) +5, int(•) +3, sag(•) +6, cha -1"
+customSavingThrows: "for(•) +6, dex +5, con(•) +6, int(•) +4, sag(•) +8, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -28,7 +28,7 @@ skills:
   - name: "custom"
     value: "arcanes -1"
   - name: "custom"
-    value: "athlétisme(•) +5"
+    value: "athlétisme(•) +6"
   - name: "custom"
     value: "discrétion +5"
   - name: "custom"
@@ -38,7 +38,7 @@ skills:
   - name: "custom"
     value: "histoire -1"
   - name: "custom"
-    value: "intimidation(••) +7"
+    value: "intimidation(••) +9"
   - name: "custom"
     value: "investigation -1"
   - name: "custom"
@@ -48,13 +48,13 @@ skills:
   - name: "custom"
     value: "perception +3"
   - name: "custom"
-    value: "perspicacité(•) +3"
+    value: "perspicacité(•) +4"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
-    value: "religion(••) +7"
+    value: "religion(••) +13"
   - name: "custom"
-    value: "représentatipn -1"
+    value: "représentation -1"
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
@@ -202,6 +202,12 @@ Margs possède l'équipement suivant :
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
 **XP acquis** : 150 505  
 **Points de Magie** :8   
-**Points de Foi** :16    
-**Points d'honneur** :37    
+**Points de Foi** :17    
+**Points d'honneur** :41    
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+- dos (trou omoplates)
+
 §§§
