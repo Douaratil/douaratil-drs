@@ -14,7 +14,7 @@ Les montagnes des dents géantes.
 ## Aljabal'as'gahib
 La montagne en colère
 
-##Dif'alquadim
+## Dif'alquadim
 Cette pyramide est la trace d'une ancienne civilisation. Son nom signifie la sépulture ancienne.  
 
 ## Jazirham  
