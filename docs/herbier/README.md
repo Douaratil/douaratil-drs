@@ -77,8 +77,8 @@ En cas de réussite, il trouvera 3d6 doses par heure de prospection.
 
 **Utilisation**  
 Les feuilles de l'Aloa sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 12 feuilles (doses) d'Aloa pour créer une mixture qui prend la forme d'un gel transparent. La préparation s'applique immédiatemement sur une zone brûlée ou une coupure. La mixture permet de doubler la vitesse de guérison des blessures par brûlure et peut stopper un saignement de 1 PA/round. D'autre part, sa première application restaure immédiatement 1d6 PA de brûlure.   
-Valeur : 5 pièces d'argent la dose. 
+*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 12 feuilles (doses) d'Aloa pour créer une mixture qui prend la forme d'un gel transparent. La préparation s'applique immédiatement sur une zone brûlée ou une coupure. La mixture permet de doubler la vitesse de guérison des blessures par brûlure et peut stopper un saignement de 1 PA/round. D'autre part, sa première application restaure immédiatement 1d6 PA de brûlure.   
+Valeur : 5 pièces d'argent la dose.
 
 ## Asgarbie
 **Description**  
@@ -200,6 +200,25 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 **Utilisation**  
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
 Valeur : 1 pièce d’or la dose.  
+
+## Coulhas
+**Description**  
+Le Coulhas est une plante grasse arbustive qui pousse dans les zones arides dans les déserts. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone aride dans un désert:  
+**Hivers** :DD 16  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'argent la dose.  
+**Facteur d'addiction** : inéxistant (0)
+
+**Utilisation**  
+Les feuilles de Coulhas sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Coulhas pour créer une mixture. La préparation doit décanter au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 10 pouces en 4d6 heures.
+Valeur : 35 pièces d'or la dose.   
 
 ## Ederlane
 **Description**  

@@ -191,7 +191,7 @@ petite maison à Ker-Saozon.
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 111 569        
+**XP acquis** : 121 928     
 **Points de Magie** :10   
 **Points de Foi** :10     
 **Points d'honneur** :45    

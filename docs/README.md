@@ -16,6 +16,19 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 49
 
+Updates du jour:
+
+- Correction du montant de point d'expérience de [Tiberius Don ALonzo](/bestiaire/tiberius-don-alonzo) au niveau 13.  
+- Ajout de la [Coulhas](/herbier/#coulhas), plante grasse désertique pour guérir les brûlures.  
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 25 octobre 2021_
+§§§
+
+## Mise à jour 49
+
 Ajout des règles de langues avec les degrés et leur utilisation :
 
 - Ajout des [Langues](/langues).  
