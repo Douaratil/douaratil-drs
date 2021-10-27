@@ -18,6 +18,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 Updates du jour:
 
+- Précisions des règles sur les [langues](/langues)avec spécificité des apprentissages et utilisation des langues communes, ajustements des niveaux de difficulté.  
+- Mise à jours des sorts [compréhension des langages](/grimoire/comprehension-des-langages) et [langues](/grimoire/langues).
 - Correction du montant de point d'expérience de [Tiberius Don ALonzo](/bestiaire/tiberius-don-alonzo) au niveau 13.  
 - Ajout de la [Coulhas](/herbier/#coulhas), plante grasse désertique pour guérir les brûlures.  
 - Ajout de la [Joloh](/herbier/#joloh), plante se développant dans les montagnes éternellement gelées pour guérir les gelures.
