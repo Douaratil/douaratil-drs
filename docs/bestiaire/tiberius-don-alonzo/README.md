@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "l'Alcath (3/3), le Courdote (3/3), le Khern (2/2) "
+  - "l'Alcath (3/2), le Courdote (3/2), le Khern (2/0) "
 category: "PJ"
 ---
 ## Tiberius Don Alonzo

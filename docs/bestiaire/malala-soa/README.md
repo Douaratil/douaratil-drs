@@ -34,7 +34,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "Le Sogh langue commune Sooghaï, Le Weshlèdh "
+  - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
 ## Malala Soa

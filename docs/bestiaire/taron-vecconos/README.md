@@ -59,7 +59,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Mèlde (3/3), le mèldon (3/3) et le Drods (3/3) et l'Alcath (2/2) "
+  - "le Weslèdh (3/1), le Mèlde (3/1), le mèldon (3/1) et l'Alcath (2/0) "
 category: "PJ"
 ---
 ## Taron Vecconos

@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Khern (3/3), l'Alcath/l'Alcane (2/2)"
+  - "le Weslèdh (3/1), le Khern (3/1), l'Alcath/l'Alcane (2/0), Yezhsakr (1/1)"
 category: "PJ"
 ---
 

@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Mèlde (3/3), le Brédète (3/3) et le Khern (2/2) "
+  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0) "
 category: "PJ"
 ---
 ## Lochetos Vlatcano

@@ -65,7 +65,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, L'Alcane/Alcath le commun impérial, le Minghour/Mingath le commun oriental, le Yotaï/Tohaï la langue des Yotakaï, le Yoth un dialecte Yotakaï "
+  - "le Weslèdh (2/0), le commun nordique, L'Alcane/Alcath (2/0 le commun impérial, le Minghour/Mingath (3/1) le commun oriental, le Yotaï/Tohaï (3/1) la langue des Yotakaï, le Yoth (3/1) un dialecte Yotakaï "
 category: "PJ"
 ---
 ## Yan Zin

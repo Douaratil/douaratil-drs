@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (2)"
+  - "le Weslèdh (3/0), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (0/1)"
 category: "PJ"
 ---
 

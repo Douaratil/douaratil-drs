@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (2/2), le Minghour/Mingath (3/3), le Yotaï/Yohaï (3/3), le Yoth (3/3) "
+  - "le Weslèdh (2/1), le Minghour/Mingath (3/3), le Yotaï/Yohaï (3/3), le Yoth (3/3) "
 category: "PJ"
 ---
 

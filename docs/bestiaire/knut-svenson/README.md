@@ -65,7 +65,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Melg/Bergaf (3/3), le Zorkhan (3/3), l'Alcane/Alcath (2/2)"
+  - "le Weslèdh (3/0), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0)"
 category: "PJ"
 ---
 ## Knut Svenson

@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Bergaf (3)"
+  - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Bergaf (0/1), Magus (1/1)"
 category: "PJ"
 ---
 ## Gwion Gornoc

@@ -69,7 +69,7 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
-| **-** | Bhegelm | Omath |
+|Yezhsakr| Bhegelm | Omath |
 | **-** | Drodan | Oghen |
 | **-** | Peuple Melg | Holtar |
 | **-** | Mages, Sorcer | Magus |
@@ -110,24 +110,34 @@ Il y a cinq degrés qui se décrivent comme suit :
 
 **Conseil** : le degré d'élocution est décrit principalement pour établir la compréhension du message à faire passer, mais aussi et surtout pour donner des indications sur la manière d'interpréter son personnage.    
 
-## La langue maternelle :
+**En terme de jeu la compréhension écrite/orale est indiquée par chiffre** : le premier étant l'oral. Exemple : Weshlède (3/1) signifie que le commun nordique est maîtrisé au niveau 3 à l'oral et niveau 1 à l'écrit. Une langue peut-être aussi lu et écrite mais non comprise à l'orale car le système linguistique oral et écrit mobilise des ressources différentes.
+
+## La langue maternelle et les autres langues:
 
 La langue maternelle est par défaut maîtrisée au degré 3 à l'oral en ce qui concerne toutes les voies. Concernant la maîtrise de l'écrit, la langue est maîtrisée au degré 3 pour La voie de la Magie, au degré 2 pour La voie de l'Ombre et au degré 1 pour La voie des armes.    
+Les autres langues lorsqu'elles sont acquises à la création du personnage ne concerne que l'oral sauf si c'est précisé. Pour les capacités de certains Archétypes qui permettent de lire certaines écritures sacrées, la limite de compréhension est par défaut de 3.   
+Les autres langues doivent suivre le processus normal d'apprentissage.
 
-**En terme de jeu :**
+## Exception des langues communes:
+Les langues communes permettent aux peuples de communiquer mais leur universalité enlève aussi de leurs spécificités et de leurs subtilités. Contrairement aux autres langues, les langues communes sont limitées à une niveau maximum de 3 (3/3). D'autre part, aucun bonus pour cette maîtrise ne peut-être revendiqué.   
+
+## (optionnel) modificateurs applicables:
 Maîtriser une langue permet de comprendre son interlocuteur et cela est important à prendre en compte pour une question de réalisme. Cependant, pour motiver les joueurs à utiliser cet aspect du jeu, il est possible pour le narrateur d'accorder un bonus si la compétence est au moins au degré 3. Il évolue suivant le degré de maîtrise de la langue : +1 au degré 3, +2 au degré 4 et +3 au degré 5.  
 
 **Le bonus maximum est donc de +3 (optionnel)**. Il concerne l'oral pour les tentatives de séduction, commerce, entretien diplomatique, etc. et l'écrit pour les missives, accords et pactes passés à l'écrit. Le narrateur devra évaluer au cas par cas. Si la langue n'est pas maîtrisée, le facteur de difficulté est augmenté de 1 rang : très facile devient facile, facile devient moyen, etc.  
 
-**L'apprentissage**. L'apprentissage d'une langue fonctionne suivant le temps immergé à pratiquer ou à étudier la langue. Pour l'oral, il faut passer quotidiennement l'équivalent d'une heure par degré de maitrise à parler pendant une semaine par degré de maitrise. La même règle s'applique pour l'écrit à étudier des textes ou suivre des enseignements. A la fin de la période, il faut réussir un test d'**Intelligence** ou d'**Histoire** ou de **Survie** dont la difficulté augmente avec le degré de maîtrise à obtenir.  
+
+
+## L'apprentissage  
+L'apprentissage d'une langue fonctionne suivant le temps immergé à pratiquer ou à étudier la langue. Pour l'oral, il faut passer quotidiennement l'équivalent d'une heure par degré de maîtrise à parler pendant une semaine par degré de maîtrise. La même règle s'applique pour l'écrit à étudier des textes ou suivre des enseignements. A la fin de la période, il faut réussir un test d'**Intelligence** ou d'**Histoire** ou de **Survie** dont la difficulté augmente avec le degré de maîtrise à obtenir.  
 
 |Degré 	|	durée 	|		Difficulté|
 |:-|:-|:-|
-|Premier |	une semaine |		DD 12|
+|Premier |	une semaine |		DD 8|
 |Second |	deux semaines |	DD 12|
 |Troisième |	trois semaines |		DD 16|
-|Quatrième |	une lune |	DD 22|
-|Cinquième |	deux lunes 	|	DD 22|
+|Quatrième |	quatre semaines |	DD 22|
+|Cinquième |	cinq semaines 	|	DD 28|
 
 
 La maîtrise des langues dans l'apprentissage des arts secrets de la magie est aussi un aspect très important. En effet, les difficultés DD d'apprentissage sont entendues pour la version originale. Certains sorts peuvent s'enseigner par tradition orale, mais la plupart du temps, ils sont recopiés et retranscrits. Ils peuvent aussi changer de version et être enseignés à partir de copies. Pour chaque étape de copie, la difficulté d'apprentissage augmente de un degré de difficulté. Ainsi, certains sorts mêmes bénins peuvent être très difficiles à acquérir.  
