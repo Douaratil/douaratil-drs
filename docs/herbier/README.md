@@ -27,7 +27,7 @@ Pour ne pas devenir dépendant d'une substance, il suffit de réussir un JS de C
 |:-|:-:|
 | Inexistant | 0 (Aucun test nécessaire) |  
 | Très faible | 1 |  
-| Faibre | 2 |  
+| Faible | 2 |  
 | Moyen | 3 |  
 | Important | 4 |  
 | Très important | 5 |  
@@ -455,6 +455,44 @@ Valeur : 3 pièce d’or la dose.
 *Symptômes observés* : Les premiers symptômes apparaissent très rapidement : sécheresse de la bouche, diminution des sécrétions, troubles visuels, dilatation des pupilles, élévation du rythme cardiaque, faiblesse musculaire pouvant aller jusqu'à une incapacité à se tenir debout. Les troubles du comportement, caractérisés par une désorientation spatio-temporelle, apparaissent ensuite. L'individu est congestionné, sa face et son cou sont rouges, il a une parole incohérente ou peut être trouvé dans un coma profond. Il arrive que l'individu décède avant une prise en charge médicale. L'individu a des hallucinations visuelles, auditives, il ne reconnaît plus ses proches et semble vouloir attraper des objets imaginaires. Les hallucinations sont décrites par les usagers comme cauchemardesques  souvent accompagnées de crises d'angoisse et de la perte des repères spatio-temporels. Le retour à la normale demande plusieurs jours. Il s'accompagne en général d'une amnésie totale ou partielle de l'épisode.
 L'état produit par la plante s'apparente à un état de somnambulisme, de rêve éveillé voire de folie, ce qui n'est pas du tout la cas des drogues psychédéliques. Ceci couplé aux difficultés extrêmes de dosage rend l'expérience délirogène hautement dangereuse.  
 
+## Joloh
+**Description**  
+Le Joloh est une plante arbustive qui pousse dans les zones toujours glacées et montagneuse. La mixture issue de sa feuille est connue pour ses propriétés curatives pour traiter les gelures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone toujours glacée et montagneuse:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 22    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** : inéxistant (0)
+
+**Utilisation**  
+Les feuilles de Joloh sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 feuilles (doses) de Joloh pour créer une mixture. La préparation doit décanter au moins 12 heures dans une eau tiédie avant application sur une zone gelée. La mixture permet de réparer une zone brûlée d'une surface de 3 pouces en 1d6 heures et rends 3d6 points d'action de dégâts engendrés par le froid.
+Valeur : 9 pièces d'or la dose.
+
+## Kelthary
+**Description**  
+Le Kelthary est une plante herbacée à longues tiges qui pousse dans les zones tempérées et herbeuses. Sa baie est connue pour ses propriétés curatives pour traiter les brûlures.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone toujours tempérée et herbeuse:  
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 26    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 6 pièces d'argent la dose.  
+**Facteur d'addiction** : inéxistant (0)
+
+**Utilisation**  
+Les baies de Kelthary sont utilisées pour ses vertues curatives.  
+*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 baies (doses) de Kelthary pour créer une mixture. La préparation peut être utilisée immédiatement sur une zone brûlée. La mixture permet de réparer une zone brûlée au premier ou au deuxième degré d'une surface de 3 pouces en 1d6 heures et rends 2d6 points d'action de dégâts engendrés par la chaleur.
+Valeur : 19 pièces d'or la dose.
+
 ## Menelath
 **Description**  
 Le Menelath est un arbre à épines persistantes que l'on trouve dans les terres éternellement gelées au milieu de forêts de conifères. D'un vert sombre et profond, son fruit, comparable à une petite pomme de pin possède des propriétés antipoison découvertes par les peuples nordiques.   
@@ -698,3 +736,22 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 La feuille de Ul'thazah est utilisée principalement pour ses hautes qualités antitoxiques.  
 *Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul'thazah pour créer ce puissant antidote contre toutes formes de poisons. La préparation doit être ingérée. L'antidote permet de guérir toute forme de poison d'un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.    
 Valeur : 430 pièce d’or la dose.   
+
+## Weltouragh
+**Description**  
+La Weltouragh est une algue qui pousse dans les zones océanique chaude. L'algue est connue pour ses propriétés curatives pour traiter les gelures lorsqu'elle est utilisée en cataplasme après avoir été réhydratée dans une eau tiédie.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone océanique et chaude:  
+**Hivers** :DD 28  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 8 pièces d'argent la dose.  
+**Facteur d'addiction** : faible (2)
+
+**Utilisation**  
+La Weltouragh est utilisée pour ses vertues curatives.  
+*Séchage/hydratation* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 algues (doses) de Weltouragh pour créer un pansement suffisant. Les algues déshydratées doivent être réhydratées dans une eau tiédie avant application sur une zone gelée. Le cataplasme permet de rendre 5d6 points d'action de dégâts engendrés par le froid.
+Valeur : 80 pièces d'or la dose.
