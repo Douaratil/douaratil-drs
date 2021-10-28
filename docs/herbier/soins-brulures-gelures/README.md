@@ -96,3 +96,22 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 Les baies de Kelthary sont utilisées pour ses vertues curatives.  
 *Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 baies (doses) de Kelthary pour créer une mixture. La préparation peut être utilisée immédiatement sur une zone brûlée. La mixture permet de réparer une zone brûlée au premier ou au deuxième degré d'une surface de 3 pouces en 1d6 heures et rends 2d6 points d'action de dégâts engendrés par la chaleur.
 Valeur : 19 pièces d'or la dose.
+
+## Weltouragh
+**Description**  
+La Weltouragh est une algue qui pousse dans les zones océanique chaude. L'algue est connue pour ses propriétés curatives pour traiter les gelures lorsqu'elle est utilisée en cataplasme après avoir été réhydratée dans une eau tiédie.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone océanique et chaude:  
+**Hivers** :DD 28  
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 8 pièces d'argent la dose.  
+**Facteur d'addiction** : faible (2)
+
+**Utilisation**  
+La Weltouragh est utilisée pour ses vertus curatives.  
+*Séchage/hydratation* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 algues (doses) de Weltouragh pour créer un pansement suffisant. Les algues déshydratées doivent être réhydratées dans une eau tiédie avant application sur une zone gelée. Le cataplasme permet de rendre 5d6 points d'action de dégâts engendrés par le froid.
+Valeur : 80 pièces d'or la dose.  
