@@ -98,13 +98,30 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 
 **Utilisation**  
 La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +6.    
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de conversion supérieurs avec un bonus au JS de +6.    
 Valeur : 49 pièce d’or la dose.   
+## Shîn
+**Description**  
+Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l'on trouve dans les zones côtières tempérées. Sa feuille possède des propriétés antipoison.   
 
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone côtière tempérée souvent à flanc de falaise:  
+**Hivers** :DD 28  
+**Printemps** :DD 28  
+**Eté** :DD 22   
+**Automne** :DD 28    
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'or la dose.  
+**Facteur d'addiction** : moyen (3)
+
+**Utilisation**  
+La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
+*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 feuilles (doses) de shîn pour créer ce puissant antidote contre les poisons nerveux. La préparation doit être ingérée. L'antidote permet de guérir tout poison nerveux d'un DD inférieur à 16 et permet de résister aux poisons de conversion supérieurs avec un bonus au JS de +3.    
+Valeur : 27 pièce d’or la dose.   
 
 ## Ul'thazah
 **Description**  
-Le ul'thazah est une plante de la famille des lièrres de couleur noire que l'on trouve dans les zones volcaniques semi-arides. Sa feuille possède de très puissantes propriétés antipoison.   
+Le ul'thazah est une plante de la famille des lierres de couleur noire que l'on trouve dans les zones volcaniques semi-arides. Sa feuille possède de très puissantes propriétés antipoison.   
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-arides:  
