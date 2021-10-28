@@ -61,120 +61,7 @@ Si la compétence n'est pas maîtrisée, [Survie](/utiliser-les-caracteristiques
 
 Les plantes et les produits décrits ensuite sont rares et demandent souvent de longues recherches de la part de spécialistes pour en trouver des doses ou des spécimens suffisants. Les plantes, les champignons et les animaux qui produisent ces substances ne peuvent pas survivre en captivité. Tous les essais jusqu'à présent ont été voués à l'échec. Dans le meilleur des cas, les sujets sont devenus stériles. Ces plantes et ses substances sont souvent considérées magiques même si elles ne le sont pas intrinsèquement. Elles valent souvent extrêmement chères.  
 
-## Afana
-**Description**  
-L'afana est une plante de la famille des roseaux qui pousse la plus part du temps dans des latitudes froides au bords des côtes. Sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
 
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone côtière froide:  
-**Hivers** :DD 16  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'argent la dose.  
-**Facteur d'addiction** : très faible (1)
-
-**Utilisation**  
-La tige de l'afana est utilisée principalement pour ses vertues curatives.  
-*Cataplasme* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 tiges (doses) d'afana pour créer un cataplasme. La préparation doit être appliquée sur la zone de la blessure. Le cataplasme permet de doubler la vitesse de guérison d'une fracture.
-Valeur : 5 pièce d'argent la dose.   
-
-## Aloa
-**Description**  
-L'Aloa est une plante de la famille des plantes grasses qui pousse dans les zones tempérées chaudes. La mixture issue de sa feuille est un gel appaisant connu pour ses propriétés curatives pour traiter les brûlures et les coupures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone semi tempérée chaude:  
-**Hivers** :DD 16  
-**Printemps** :DD 12  
-**Eté** :DD 12   
-**Automne** :DD 16    
-En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : Inéxistant (0)
-
-**Utilisation**  
-Les feuilles de l'Aloa sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 12 feuilles (doses) d'Aloa pour créer une mixture qui prend la forme d'un gel transparent. La préparation s'applique immédiatement sur une zone brûlée ou une coupure. La mixture permet de doubler la vitesse de guérison des blessures par brûlure et peut stopper un saignement de 1 PA/round. D'autre part, sa première application restaure immédiatement 1d6 PA de brûlure.   
-Valeur : 5 pièces d'argent la dose.
-
-## Asgarbie
-**Description**  
-L'asgarbie est une petite plante grasse qui ne dépasse jamais les quatre pouces. Elle reconnaissable par ses petites excroissances violettes qui pourraient rappeler des oursins. Il s'agit du fruit qui est comestible mais sans intérêt gustatif. L'asgarbie ne se trouve que dans des déserts arides. La fleure d'asgarbie a par contre des vertus d'antidote si elle est correctement préparée.
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
-**Hivers** :DD 22  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-
-**Utilisation**  
-L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d'asgarbies pour créer ce puissant antidote contre les poisons musculaires. La préapration doit être ingérée. L'antidote permet de guérir tout poison musculaire d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.    
-Valeur : 38 pièces d’or la dose.  
-
-## Athalas
-**Description**  
-L'Athalas est une plante de la famille des herbacée qui pousse dans les zones semi arides aux abords des océans et des mers intérieures. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone semi aride aux abords des océans:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-Les feuilles et les fleurs de l'Athalas sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 8 fleurs ou feuilles (doses) d'Athalas pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 4 pouces en 3d6 heures.
-Valeur : 66 pièces d'argent la dose.   
-
-## Balahm
-**Description**  
-Le balahm est une plante de la famille des roseaux qui pousse dans des latitudes chaudes et humides, souvent dans des mangroves. La mixture issue de sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone chaude et humide:  
-**Hivers** :DD 35  
-**Printemps** :DD 35  
-**Eté** :DD 28   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : très importante (5)
-
-**Utilisation**  
-La tige et les feuilles de balahm sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 6 tiges ou feuilles (doses) de balahm pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 1d6 heures.
-Valeur : 160 pièces d'or la dose.   
-
-## Boursselath
-**Description**  
-La Boursselath est une plante de la famille des herbacée qui pousse dans les zone tempérée herbeuse. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée herbeuse:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 2 pièce d'or la dose.  
-**Facteur d'addiction** : irrésistible (6)
-
-**Utilisation**  
-Les feuilles et les fleurs de Boursselath sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 28, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Boursselath pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 2d6 heures.
-Valeur : 110 pièces d'or la dose.   
 
 ## Cepate
 **Description**  
@@ -220,44 +107,6 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
 Valeur : 1 pièce d’or la dose.  
 
-## Coulhas
-**Description**  
-Le Coulhas est une plante grasse arbustive qui pousse dans les zones arides dans les déserts. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone aride dans un désert:  
-**Hivers** :DD 16  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 16    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les feuilles de Coulhas sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Coulhas pour créer une mixture. La préparation doit décanter au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 10 pouces en 4d6 heures.
-Valeur : 35 pièces d'or la dose.   
-
-## Ederlane
-**Description**  
-L'éderlane est une plante moussue qui pousse dans les zone froide et côtière. Très verte à la saison chaude, elle devient de couleur rouille aux périodes froides. La mousse d'éderlane fleurit au plus fort de la saison froide. La mixture issue de la mousse est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone froide et côtière:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 28   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : irrésisitible (6)
-
-**Utilisation**  
-La mousse d'éderlane est utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 10 mousses (doses) d'éderlane pour créer une mixture. La préparation doit être ingérée malgré sa très mauvaise odeur. La mixture permet de réparer une fracture en 3d6 heures.
-Valeur : 31 pièces d'or la dose.  
-
 ## Eglantiane  
 **Description**  
 L’églantiane est un rosier sous forme d’arbuste à feuilles caduques et à floraison non remontante. Il pousse dans les haies.  
@@ -282,25 +131,6 @@ Valeur: 5 pièce d’or la dose.
 *Huile essentielle* ( Herboristerie DD 35, 15 doses): Sous forme d'huile essentielle, l'églantiane permet de mieux se concentrer pendant 1d6 heures. L'utilisateur obtient un bonus de +2 aux JS de Sagesse et d’Intelligence ainsi qu'aux tests de compétences faisant appel à des capacités intellectuelles.  
 Valeur : 10 pièce d’or la dose.  
 **Facteur d'addiction** : moyen (3)
-
-## Elheanung
-**Description**  
-L'elheanung est une plante intéressante que l'on trouve dans les hauts fonds des mers froides. Cette algue qui peut atteindre jusqu'à 30 coudées possède des propriétés curatives qui ont été découvertes il y a fort longtemps par les peuples pêcheurs nordiques.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie:  
-**Hivers** :DD 22  
-**Printemps** :DD 22  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-L'elheanung est utilisé principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 feuilles (doses) d'elheanung pour créer ce puissant antidote contre les poisons de réduction. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison de réduction d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +6.    
-Valeur : 99 pièce d’or la dose.  
 
 ## Empeurine  
 **Description**  
@@ -412,25 +242,6 @@ Valeur : 2 pièces d’or la dose
 *Onguent* (Alchimie DD 28 ): la frambole peut être préparée en onguent. Il est possible de créer une dose d’onguent de frambole par quatre doses de frambole sous réserve de réussir un test d’Alchimie DD 28 (les tests s’effectuent par dose et la préparation prend une heure par dose). L'onguent soigne les brûlures et les irritations. Il redonne 2d6 points d’action.  
 Valeur : 8 pièces d’or la dose.  
 
-## Gourthamelle
-**Description**  
-La gourthamelle est une plante herbacée qui pousse dans les zones tempérées et herbeuses. Très basse aux larges feuilles qui s'étalent, une tige pousse en son centre et peut atteindre 6 pieds de haut. Cette tige porte les fleurs qui se répartissent sur toute la longeur. Les fleurs sont très petites et d'une couleur mauve profond.  Le cataplasme issue de cette plante est connu pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse.  
-**Hivers** :DD 28  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-La gourthamelle est utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 felurs ou feuilles ou morceau de tige verte (doses) de gourthamelle pour créer un cataplasme. La préparation doit être appliquée. La mixture permet de réparer une fracture en 6d6 heures.
-Valeur : 30 pièces d'or la dose.  
-
 ## Herbefolle
 **Description**  
 L'Herbefolle est considérée depuis des temps reculés comme une plante magique associée à la magie noire.La pomme épineuse en onguent, en philtre ou en fumée provoque la déconnexion du réel, hallucinations et sommeil. Ses effets délétères l'ont fait surnommer l'herbe aux fous.  
@@ -474,62 +285,6 @@ Valeur : 3 pièce d’or la dose.
 *Symptômes observés* : Les premiers symptômes apparaissent très rapidement : sécheresse de la bouche, diminution des sécrétions, troubles visuels, dilatation des pupilles, élévation du rythme cardiaque, faiblesse musculaire pouvant aller jusqu'à une incapacité à se tenir debout. Les troubles du comportement, caractérisés par une désorientation spatio-temporelle, apparaissent ensuite. L'individu est congestionné, sa face et son cou sont rouges, il a une parole incohérente ou peut être trouvé dans un coma profond. Il arrive que l'individu décède avant une prise en charge médicale. L'individu a des hallucinations visuelles, auditives, il ne reconnaît plus ses proches et semble vouloir attraper des objets imaginaires. Les hallucinations sont décrites par les usagers comme cauchemardesques  souvent accompagnées de crises d'angoisse et de la perte des repères spatio-temporels. Le retour à la normale demande plusieurs jours. Il s'accompagne en général d'une amnésie totale ou partielle de l'épisode.
 L'état produit par la plante s'apparente à un état de somnambulisme, de rêve éveillé voire de folie, ce qui n'est pas du tout la cas des drogues psychédéliques. Ceci couplé aux difficultés extrêmes de dosage rend l'expérience délirogène hautement dangereuse.  
 
-## Joloh
-**Description**  
-Le Joloh est une plante arbustive qui pousse dans les zones toujours glacées et montagneuse. La mixture issue de sa feuille est connue pour ses propriétés curatives pour traiter les gelures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone toujours glacée et montagneuse:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les feuilles de Joloh sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 feuilles (doses) de Joloh pour créer une mixture. La préparation doit décanter au moins 12 heures dans une eau tiédie avant application sur une zone gelée. La mixture permet de réparer une zone brûlée d'une surface de 3 pouces en 1d6 heures et rends 3d6 points d'action de dégâts engendrés par le froid.
-Valeur : 9 pièces d'or la dose.
-
-## Kelthary
-**Description**  
-Le Kelthary est une plante herbacée à longues tiges qui pousse dans les zones tempérées et herbeuses. Sa baie est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone toujours tempérée et herbeuse:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 12   
-**Automne** :DD 26    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 6 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les baies de Kelthary sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 baies (doses) de Kelthary pour créer une mixture. La préparation peut être utilisée immédiatement sur une zone brûlée. La mixture permet de réparer une zone brûlée au premier ou au deuxième degré d'une surface de 3 pouces en 1d6 heures et rends 2d6 points d'action de dégâts engendrés par la chaleur.
-Valeur : 19 pièces d'or la dose.
-
-## Menelath
-**Description**  
-Le Menelath est un arbre à épines persistantes que l'on trouve dans les terres éternellement gelées au milieu de forêts de conifères. D'un vert sombre et profond, son fruit, comparable à une petite pomme de pin possède des propriétés antipoison découvertes par les peuples nordiques.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone forestière subissant le permafrost:  
-**Hivers** :DD 28  
-**Printemps** :DD 28  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-Le menelath est utilisé principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 6 fruits (doses) de menelath pour créer ce puissant antidote contre les poisons circulatoirs. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison circulatoir d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +6.    
-Valeur : 65 pièce d’or la dose.  
 
 ## Menthagile
 **Description**  
@@ -556,25 +311,6 @@ Valeur : 7 pièces d’or la dose.
 Valeur** : 8 pièces d’or la dose.  
 
 L'un des effets les plus recherchés de la Menthagile est sa capacité à développer l'agilité et la souplesse de la personne qui l’ingurgite. Si la plante est préparée sous l'une de ses formes habituelles, le bénéficiaire obtient un bonus de +2 à tout ses jets d'acrobatie, discrétion, escamotage et aux JS de Dextérité pendant 1D6 x 10 minutes.  
-
-## Mokth
-**Description**  
-Le mokth est un arbuste que l'on trouve dans les zones tempérées de moyenne montagne. D'un feuillage vert intense, l'arbuste devient orange/rouge à l'autmomne. Son fruit, la baie de mokth, comparable à une grosse mûre violette possède des propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone montagneuse tempérée:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 12   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : important (4)
-
-**Utilisation**  
-La baie de mokth est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 18 fruits (doses) de mokth pour créer ce puissant antidote contre les poisons respiratoire. L'antidote s'ingère. Il permet de guérir tout poison respiratoire d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +4.    
-Valeur : 30 pièce d’or la dose.   
 
 ## Murcine
 **Description**  
@@ -699,25 +435,6 @@ Valeur : 3 pièces d’or la dose.
 *Huile* ( Alchimie DD 35, 1d6 doses) : L'huile fabriquée par des procédés alchimiques n'est pas utilisable dans l'alimentation. Par contre, elle est réputée pour ses fonctions anti-fongiques et spermicides qui lui permettent d'être utilisée comme lubrifiant sans risque de procréer. Cette huile est largement utilisée dans les harems et certains bordels de luxe. Son coût de fabrication et de vente limite la clientèle.  
 Valeur : 33 pièces d’or la dose.  
 
-## Quilum
-**Description**  
-Le quilum est une plante à large feuille que l'on trouve dans les zones tempérées à l'ombre des forêts de conifères. une fois par an, elle donne des petites fleures oranges en forme de lachettes nervurées de jaune. Cette fleure est phosporéscente et illumine la campagne à la tombée de la nuit. Sa racine noueuse possède des propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée dans des forêts de conifères:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 28   
-**Automne** :DD 35    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'or la dose.  
-**Facteur d'addiction** : très faible (1)
-
-**Utilisation**  
-La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +6.    
-Valeur : 49 pièce d’or la dose.   
-
 ## Shîn
 **Description**  
 Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l'on trouve dans les zones côtières tempérées. Sa feuille possède des propriétés antipoison.   
@@ -736,25 +453,6 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
 *Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 feuilles (doses) de shîn pour créer ce puissant antidote contre les poisons nerveux. La préparation doit être ingérée. L'antidote permet de guérir tout poison nerveux d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +3.    
 Valeur : 27 pièce d’or la dose.   
-
-## Ul'thazah
-**Description**  
-Le ul'thazah est une plante de la famille des lièrres de couleur noire que l'on trouve dans les zones volcaniques semi-arides. Sa feuille possède de très puissantes propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-arides:  
-**Hivers** :DD 35  
-**Printemps** :DD 35  
-**Eté** :DD 35   
-**Automne** :DD 35    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 30 pièces d'or la dose.  
-**Facteur d'addiction** : très important (5)
-
-**Utilisation**  
-La feuille de Ul'thazah est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul'thazah pour créer ce puissant antidote contre toutes formes de poisons. La préparation doit être ingérée. L'antidote permet de guérir toute forme de poison d'un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.    
-Valeur : 430 pièce d’or la dose.   
 
 ## Weltouragh
 **Description**  
