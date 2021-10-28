@@ -19,11 +19,11 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Updates du jour:
 
 - Changement du menu des plantes avec une grosse réorganisation et une classification de l'[herbier](/herbier/).
-- Ajout des règles d'[indoxication](/herbier/#intoxication) aux plantes ingérées (ou inhalées).
-- Ajout de la [Akubege](/herbier/dynamisants-excitants/#akubege), un arbre qui pousse dans les zones semi-aride océanique.
-- Ajout de la [Arlath](/herbier/dynamisants-excitants/#arlath), un arbuste qui pousse dans les zones herbeuse tempérées.
-- Ajout de la [Cuzama](/herbier/dynamisants-excitants/#cuzama), une plante qui pousse dans les zones arides chaudes.
-- Ajout de la [Darssur](/herbier/dynamisants-excitants/#darssur), une plante qui pousse dans les zones arides chaudes.
+- Ajout des règles d'[intoxication](/herbier/#facteur-d-intoxication) aux plantes ingérées (ou inhalées).
+- Ajout de l'[Akubege](/herbier/soins-dynamisants-excitants/#akubege), un arbre qui pousse dans les zones semi-aride océanique.
+- Ajout de l'[Arlath](/herbier/soins-dynamisants-excitants/#arlath), un arbuste qui pousse dans les zones herbeuse tempérées.
+- Ajout du [Cuzama](/herbier/soins-dynamisants-excitants/#cuzama), une plante qui pousse dans les zones arides chaudes.
+- Ajout du [Darssur](/herbier/soins-dynamisants-excitants/#darssur), une plante qui pousse dans les zones arides chaudes.
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
