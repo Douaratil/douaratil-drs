@@ -61,7 +61,7 @@ Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à a
 
 
 ||Bonus au JS||
-|Véracité|Compétence ou Caractéritique|
+|Véracité|Compétence ou Caractéristique|
 |:-:|:-:|
 |Plausible|0|
 |Improbable|+1|
@@ -70,7 +70,7 @@ Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à a
 
 
 ||Table des affrontements sociaux||
-|Action|Compétence ou Caractéritique|JS|
+|Action|Compétence ou Caractéristique|
 |:-:|:-:|:-:|
 |Convaincre|Persuasion / Charisme  |JS Intelligence|
 |Flatter|Supercherie / Charisme|JS Sagesse|

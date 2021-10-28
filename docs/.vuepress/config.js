@@ -541,13 +541,68 @@ module.exports = {
               },
               {
                 title: "Brûlures-Gelures",
-                icon: 'mdi-home-flood',
-                path: '/domaine/'
+                icon: 'mdi-fire',
+                path: '/herbier/soins-brulures-gelures/'
               },
               {
-                title: "L'expérience",
-                icon: 'mdi-upload',
-                path: '/experience/'
+                title: "Dynamisants-Excitants",
+                icon: 'mdi-heart-flash',
+                path: '/herbier/soins-dynamisants-excitants/'
+              },
+              {
+                title: "Etourdissements",
+                icon: 'mdi-head-question',
+                path: '/herbier/soins-etourdissements/'
+              },
+              {
+                title: "Fractures",
+                icon: 'mdi-bone',
+                path: '/herbier/soins-fractures/'
+              },
+              {
+                title: "Muscles-Tendons",
+                icon: 'mdi-arm-flex',
+                path: '/herbier/soins-muscles-tendons/'
+              },
+              {
+                title: "Organes",
+                icon: 'mdi-bottle-tonic-plus',
+                path: '/herbier/soins-organes/'
+              },
+              {
+                title: "Saignements",
+                icon: 'mdi-water',
+                path: '/herbier/soins-saignements/'
+              },
+              {
+                title: "Système nerveux",
+                icon: 'mdi-brain',
+                path: '/herbier/soins-systeme-nerveux/'
+              },
+              {
+                title: "Altérations physiques",
+                icon: 'mdi-weight-lifter',
+                path: '/herbier/alterations-physiques/'
+              },
+              {
+                title: "Modifications de caractéristiques",
+                icon: 'mdi-needle',
+                path: '/herbier/modifications-de-caracteristiques/'
+              },
+              {
+                title: "Nourritures spéciales",
+                icon: 'mdi-food-croissant',
+                path: '/herbier/nourritures-speciales/'
+              },
+              {
+                title: "Utilisations générales",
+                icon: 'mdi-medical-bag',
+                path: '/herbier/utilisations-generales/'
+              },
+              {
+                title: "Préservation de la vie",
+                icon: 'mdi-coffin',
+                path: '/herbier/preservation-de-la-vie/'
               }
             ]
           }

@@ -48,14 +48,14 @@ Le personnage possède une ou plusieurs bâtisses qu'il partage avec des membres
 *Investissement: 8 000 pièces d'or*  
 Le personnage possède un patrimoine qui lui permet de vivre dignement dans la société dans lequel il vit. Sa demeure est en pierre et les toits sont de tuiles ou d'ardoise. Certains membre de la famille peuvent posséder de petits commerces ou des échoppes d'artisanat. Souvent, les bâtiments peuvent avoir un petit jardin clôturé, des dépendances pour les animaux et les outils, le foin et les réserves. Des terres peuvent être louées à des seigneurs. Ce patrimoine génère un revenu modeste mais suffisant pour faire quelques projets et faire plaisir à ses proches. Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
 
-**Patrimoine Important**  
-*Condition: Niveau 8*  
-*Investissement: 16 000 pièces d'or*  
+**Patrimoine Important**   
+*Condition: Niveau 8*   
+*Investissement: 16 000 pièces d'or*   
 Le personnage possède un patrimoine important qui peut comprendre plusieurs fermes ou plusieurs échoppes. La famille est souvent connue localement et au delà. Certains membres peuvent avoir des fonctions publiques ou religieuses. Ce patrimoine génère des revenus importants qui permettent de se détacher du lot. Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.   
 
-**Patrimoine Très important**  
-*Condition :10 et + *
-*Investissement: 32 000 pièces d'or*  
+**Patrimoine Très important**   
+*Condition :10 et + *   
+*Investissement: 32 000 pièces d'or*   
 Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
 
 
@@ -68,6 +68,7 @@ Le personnage a un patrimoine très important et est reconnu par tous pour cela.
 |16-19|Bon|Revenus doublés|
 |20-23|très bon|Revenus triplés|
 |24|Exceptionnel|Revenus multipliés par dix|
+
 * Les dés ne sont pas explosifs
 
 
@@ -84,6 +85,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |16-19|Santé avec un bonus de +1|
 |20-23|Patrimoine avec un bonus de +1|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés ne sont pas explosifs
 
 
@@ -97,6 +99,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |16-19|Naissance (1 bâtard,- 2-3 épouse, 4-6 parent) (1 mort né, 2-5 normal, 6 jumeaux)|
 |20-23|Assassinant (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés ne sont pas explosifs
 
 
@@ -110,6 +113,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |16-19|Rumeur d'enlèvement (2-6 reçoit 1 d6 x 100 po, 7-11 paie 1d6 x 100po, 12 pas d'arrangement vendetta.)|
 |20-23|Rumeur de meurtre (2-6 reçoit 1d6 x 150 po, 7-11 paie 1d6 x 150po, 12 pas d'arrangement vendetta.)|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés ne sont pas explosifs sauf pour déterminer les montants
 
 
@@ -123,6 +127,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |16-19|2000 PO de revenu|
 |20-23|4000 PO de revenu|
 |24|6000 PO de revenu|
+
 * Les dés ne sont pas explosifs
 * Remarquez que contrairement aux évènements économiques, les évènements liés au patrimoine ne peuvent jamais être négatifs. Ces richesses viennent souvent d'héritage ou d'alliances.   
 
@@ -131,7 +136,8 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 La famille est une cellule très importante pour le personnage et joue un rôle central dans sa vie hors aventure. Il y trouve secours et assistance. La famille s'entend à plusieurs niveaux. Il y a d'abord la famille nucléaire avec la femme ou le mari ainsi que les enfants. Dans les sociétés de Douaratil, il n'est pas rare que plusieurs générations vivent sous le même toit. Il y a ensuite la famille un peu plus éloignées souvent à quelques jours de marche. Ce sont les cousins et cousines, les oncles et tantes. Cette famille a des relations et permet d'élargir le champs d'influence du personnage. Cela intervient par exemple dans les levées.  
 
 ## Les compagnons  
-Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffisamment développés pour être intégralement transcrit sur une feuille de personnage. Le Narrateur peut prendre le contrôle d'un compagnon à tous moment mais généralement, le joueur en garde la maîtrise. Un compagnon est un allié fidèle qui risquera sa vie pour son maître. En échange, celui-ci partage ses richesses avec lui, particulièrement lors des partages de trésor. Les compagnons prennent 10 % de la part du joueur et de ses revenus sans jamais dépasser 50 % quelque soit le nombre de compagnon. **Le nombre de compagnon maximum correspond au bonus de charisme**.
+Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffisamment développés pour être intégralement transcrit sur une feuille de personnage. Le Narrateur peut prendre le contrôle d'un compagnon à tous moment mais généralement, le joueur en garde la maîtrise. Un compagnon est un allié fidèle qui risquera sa vie pour son maître. En échange, celui-ci partage ses richesses avec lui, particulièrement lors des partages de trésor. Les compagnons prennent 10 % de la part du joueur et de ses revenus sans jamais dépasser 50 % quelque soit le nombre de compagnon. **Le nombre de compagnon maximum correspond au bonus de charisme**.  
+
 §§§ .hero
 **Règles concernant les compagnons**: Les compagnons sont joués comme des personnages normaux et sont entièrement sous le contrôle du personnage. Le compagnon revers 50% de ses points d'expérience au personnage principal si celui-ci est absent. Sinon, à l'inverse, si le ou les compagnons sont avec le personnage principal durant le jeu, ils gagnent l'équivalent de 50% des XP du joueur.  
 Ainsi un compagnon  monte de niveau plus lentement qu'un personnage principal.  
@@ -141,7 +147,7 @@ Enfin, un compagnon est à la charge financière du joueur qui doit lui mainteni
 - Coût minimum de 1po/jours  
 - 10% de part de richesse (trésor) par compagnon sans dépenser 50%  
 - Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.***  
-§§§
+§§§   
 
 
 ## levées des armées   
@@ -163,6 +169,7 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |16-19|1d6 x 5 fantassins lourds, 1d6 éclaireurs, 1d6 archers, 1d6 cavaliers légers|
 |20-23|1d6 x 5 fantassins lourds, 1d6 éclaireurs, 1d6 archers, 1d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés de la colonne verticale ne sont pas explosifs
 
 
@@ -176,6 +183,7 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |16-19|2d6 x 5 fantassins lourds, 2d6 éclaireurs, 2d6 archers, 2d6 cavaliers légers|
 |20-23|2d6 x 5 fantassins lourds, 2d6 éclaireurs, 2d6 archers, 2d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés de la colonne verticale ne sont pas explosifs
 
 
@@ -189,6 +197,7 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |16-19|3d6 x 5 fantassins lourds, 3d6 éclaireurs, 3d6 archers, 3d6 cavaliers légers|
 |20-23|3d6 x 5 fantassins lourds, 3d6 éclaireurs, 3d6 archers, 3d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés de la colonne verticale ne sont pas explosifs
 
 
@@ -202,6 +211,7 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |16-19|4d6 x 5 fantassins lourds, 4d6 éclaireurs, 4d6 archers, 4d6 cavaliers légers|
 |20-23|4d6 x 5 fantassins lourds, 4d6 éclaireurs, 4d6 archers, 4d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés de la colonne verticale ne sont pas explosifs
 
 
@@ -215,11 +225,12 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 |16-19|5d6 x 5 fantassins lourds, 5d6 éclaireurs, 5d6 archers, 5d6 cavaliers légers|
 |20-23|5d6 x 5 fantassins lourds, 5d6 éclaireurs, 5d6 archers, 5d6 cavaliers lourds|
 |24|Relancer deux fois avec un bonus de +2|
+
 * Les dés de la colonne verticale ne sont pas explosifs
 
 
 **Note** :  
-Les cavaliers légers sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court. Ils chevauchent un cheval de guerre léger.  
+Les cavaliers légers sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court. Ils chevauchent un cheval de guerre léger.   
 Les cavaliers lourds sont épuisés d'une armure métallique, d'une arme à une main, d'un bouclier et d'une lance. Ils chevauchent un destrier.  
 Les éclaireurs sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court.  
 Les fantassins légers sont équipés d'une armure de cuir, d'un bouclier, d'une arme à une main et d'une arme de lancer.  

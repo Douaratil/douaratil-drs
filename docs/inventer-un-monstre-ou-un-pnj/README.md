@@ -157,3 +157,5 @@ Pour terminer, nous vous conseillons vivement d'éviter de donner à une créatu
 |**18**|160|
 |**19**|180|
 |**20**|200|
+
+*
