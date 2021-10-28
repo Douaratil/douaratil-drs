@@ -527,7 +527,29 @@ module.exports = {
           {
             title: "Les plantes",
             icon: 'mdi-flower',
-            path: '/herbier/'
+            children:
+            [
+              {
+                title: "Herboristerie",
+                icon: 'mdi-spa',
+                path: '/herbier/'
+              },
+              {
+                title: "Antidotes",
+                icon: 'mdi-bottle-tonic-skull-outline',
+                path: '/herbier/antidotes/'
+              },
+              {
+                title: "Brûlures-Gelures",
+                icon: 'mdi-home-flood',
+                path: '/domaine/'
+              },
+              {
+                title: "L'expérience",
+                icon: 'mdi-upload',
+                path: '/experience/'
+              }
+            ]
           }
         ]
       },
