@@ -80,7 +80,7 @@ L'historique et la classe que vous avez choisis suggèrent un équipement de bas
 
 Si vous préférez faire un choix plus complet, le chapitre [Équipement](/equipement) détaille les objets les plus couramment utilisés par les héros pendant leurs aventures. Il explique aussi le fonctionnement de la monnaie et les caractéristiques des armes et armures les plus courantes. Chaque objet a une valeur (généralement exprimée en pièces d'or) et un poids. En effet, même s'il est un héros, votre personnage ne peut pas espérer transporter de trop lourdes charges sans se fatiguer et être encombré. Le chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques/) vous en dira plus à ce propos.
 
-### Valeur de défence
+### Valeur de défense
 La **Valeur de défense (VD)** de votre personnage détermine sa capacité à éviter les coups, mais aussi à les encaisser sans être blessé. Entrent en jeu à la fois la Dextérité du personnage et d'éventuels bonus d'armure et de bouclier. Le chapitre [Équipement - Armures](/armures/) détaille le calcul de la Valeur de défense en fonction de l'équipement du personnage. En règle générale, la VD de votre personnage est de 10 + la somme des modificateurs qui s'appliquent.
 
 Une chose importante toutefois : pour bénéficier pleinement de la protection d'une armure ou d'un bouclier, il est nécessaire de maîtriser cet équipement. Chaque classe indique les armures maîtrisées et la possibilité d'utiliser ou non un bouclier. Porter une armure que votre personnage ne maîtrise pas vous expose à des pénalités décrites elles aussi dans le chapitre [Équipement - Armures](/armures/).
