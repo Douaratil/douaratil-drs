@@ -19,12 +19,17 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 les modifications et ajouts sur le site:
 
 - Modification dans le bestiaire des Guerriers (Novice, disciple...) et renommé en Voie des Armes (ex: [Voie des Armes (Novice)](/bestiaire/voie-des-armes-novice)).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Novice)](/bestiaire/voie-de-l-ombre-novice).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Disciple)](/bestiaire/voie-de-l-ombre-disciple).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Apprenti)](/bestiaire/voie-de-l-ombre-apprenti).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Adepte)](/bestiaire/voie-de-l-ombre-adepte).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Expert)](/bestiaire/voie-de-l-ombre-expert).
+- Ajout dans le bestiaire de la [Voie de l'ombre (Maître)](/bestiaire/voie-de-l-ombre-maitre).
 - La réorganisation de l'[herbier](/herbier/) se poursuit.
-- Ajout des règles d'[intoxication](/herbier/#facteur-d-intoxication) aux plantes ingérées (ou inhalées).
-- Ajout de l'[Akubege](/herbier/soins-dynamisants-excitants/#akubege), un arbre qui pousse dans les zones semi-aride océanique.
-- Ajout de l'[Arlath](/herbier/soins-dynamisants-excitants/#arlath), un arbuste qui pousse dans les zones herbeuse tempérées.
-- Ajout du [Cuzama](/herbier/soins-dynamisants-excitants/#cuzama), une plante qui pousse dans les zones arides chaudes.
-- Ajout du [Darssur](/herbier/soins-dynamisants-excitants/#darssur), une plante qui pousse dans les zones arides chaudes.
+- Ajout de du [Drafa](/herbier/soins-dynamisants-excitants/#drafa), un arbuste qui pousse dans les zones arides au bord des océans.
+- Ajout de du [Doghmou](/herbier/soins-dynamisants-excitants/#doughmou), un arbuste qui pousse dans les zones tempérées et montagneuses.
+- Ajout du [Farighath](/herbier/soins-dynamisants-excitants/#farighath), un cactus qui pousse dans les zones désertiques arides.
+- Ajout du [Geafnoth](/herbier/soins-dynamisants-excitants/#geafnoth),  un lichen qui pousse dans les zones de permafrost au pied de volcans en activités.
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  

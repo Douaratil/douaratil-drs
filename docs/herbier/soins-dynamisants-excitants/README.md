@@ -82,3 +82,83 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 La feuille de Darssur est utilisée pour ses vertus curatives.  
 *feuille* (herboristerie/Survie DD 8, 1 dose) : Il faut 4 feuilles (doses) de Darssur pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 1d6 PA.   
 Valeur : 3 pièces d'or la dose.  
+
+## Drafa
+**Description**  
+Le Drafa est un arbuste qui pousse dans les zones arides au bord des océans. Sa feuille a la propriété de dynamiser son utilisateur lorsqu’elle est ingérée.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone aride au bord des océans:  
+**Hivers** :DD 8
+**Printemps** :DD 12  
+**Eté** :DD 16   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 2 pièces d’argent la dose.  
+**Facteur d'addiction** :  très faible (1)
+**Facteur d’intoxication**:(1)
+
+**Utilisation**  
+La feuille de Drafa est utilisée pour ses vertus curatives.  
+*feuille* (herboristerie/Survie DD 8, 1 dose) : Il faut 3 feuilles (doses) de Drafa pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 2d6 PA.   
+Valeur : 7 pièces d'or la dose.  
+
+## Doughmou
+**Description**  
+Le Doughmou est un arbuste qui pousse dans les zones tempérées et montagneuses. Sa baie de couleur bleue et violette à l’automne a la propriété de dynamiser son utilisateur lorsqu’elle est ingérée.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
+**Hivers** :DD 22
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d’argent la dose.  
+**Facteur d'addiction** :  très faible (1)
+**Facteur d’intoxication**:(1)
+
+**Utilisation**  
+La baie de Doughmou est utilisée pour ses vertus curatives.  
+*baie* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 baies (doses) de Doughmou pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 10 PA (effet immédiat).   
+Valeur : 9 pièces d'or la dose.  
+
+## Farighath
+**Description**  
+Le Farighath est un cactus qui pousse dans les zones désertiques arides. Sa chaire a la propriété de dynamiser son utilisateur lorsqu’elle est ingérée.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
+**Hivers** :DD 16
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 4 pièces d’or la dose.  
+**Facteur d'addiction** :  faible (2)
+**Facteur d’intoxication**:(2)
+
+**Utilisation**  
+La chaire du Farighath est utilisée pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 9 doses de Farighath pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 25 PA (effet immédiat).   
+Valeur : 55 pièces d'or la dose.  
+
+## Geafnoth
+**Description**  
+Le Geafnoth est un lichen qui pousse dans les zones de permafrost au pied de volcans en activité. Sa consomation a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone de permafrost au pied de volcans en activité:  
+**Hivers** :DD 28
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 9 pièces d’or la dose.  
+**Facteur d'addiction** :  très important (5)
+**Facteur d’intoxication**:(2)
+
+**Utilisation**  
+Le Geafnoth est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 3 doses de Geafnoth pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 30 PA + 10d6 PA (effet immédiat).   
+Valeur : 90 pièces d'or la dose.  
