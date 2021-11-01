@@ -14,6 +14,23 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 52
+
+les modifications et ajouts sur le site:
+
+- Modification dans le bestiaire des Guerriers (Novice, disciple...) et renommé en Voie des Armes (ex: [Voie des Armes (Novice)](/bestiaire/voie-des-armes-novice)).
+- La réorganisation de l'[herbier](/herbier/) se poursuit.
+- Ajout des règles d'[intoxication](/herbier/#facteur-d-intoxication) aux plantes ingérées (ou inhalées).
+- Ajout de l'[Akubege](/herbier/soins-dynamisants-excitants/#akubege), un arbre qui pousse dans les zones semi-aride océanique.
+- Ajout de l'[Arlath](/herbier/soins-dynamisants-excitants/#arlath), un arbuste qui pousse dans les zones herbeuse tempérées.
+- Ajout du [Cuzama](/herbier/soins-dynamisants-excitants/#cuzama), une plante qui pousse dans les zones arides chaudes.
+- Ajout du [Darssur](/herbier/soins-dynamisants-excitants/#darssur), une plante qui pousse dans les zones arides chaudes.
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 1 novembre 2021_
+§§§
+
 ## Mise à jour 51
 
 Updates du jour:
@@ -35,7 +52,7 @@ _le 28 octobre 2021_
 Updates du jour:
 
 - Précisions des règles sur les [langues](/langues)avec spécificité des apprentissages et utilisation des langues communes, ajustements des niveaux de difficulté.  
-- Mise à jours des sorts [compréhension des langages](/grimoire/comprehension-des-langages) et [langues](/grimoire/langues).
+- Mise à jours des sorts [compréhension des langues](/grimoire/comprehension-des-langues) et [langues](/grimoire/langues).
 - Correction du montant de point d'expérience de [Tiberius Don ALonzo](/bestiaire/tiberius-don-alonzo) au niveau 13.  
 - Ajout de la [Coulhas](/herbier/soins-brulures-gelures/#coulhas), plante grasse désertique pour guérir les brûlures.  
 - Ajout de la [Joloh](/herbier/soins-brulures-gelures/#joloh), plante se développant dans les montagnes éternellement gelées pour guérir les gelures.

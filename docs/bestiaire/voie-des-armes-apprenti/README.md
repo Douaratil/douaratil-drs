@@ -1,7 +1,7 @@
 ---
-title: "Guerrier (apprenti)"
+title: " Voie des armes (apprenti)"
 type: "Humanoïde"
-subtype: "Voie des armes"
+subtype: "Classe guerrière générique"
 size: "M"
 alignment: "n'importe quel alignement"
 challenge: "9"
@@ -40,7 +40,7 @@ _**Sursaut d'activité**_. Le pratiquant de la Voie des armes peut repousser ses
 
 _**Indomptable**_. Le pratiquant de la Voie des armes peut relancer un jet de sauvegarde raté. Si il choisit d'utiliser cette aptitude, il doit utiliser le résultat du second jet de dé. Il ne peut pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
 
-## Actions
+## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
