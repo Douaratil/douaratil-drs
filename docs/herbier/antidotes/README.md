@@ -15,8 +15,8 @@ Le prospecteur devra réussir un test en Survie dans une zone désertique aride:
 **Automne** :DD 22    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(3)  
 
 **Utilisation**  
 L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
@@ -35,7 +35,8 @@ Le prospecteur devra réussir un test en Survie:
 **Automne** :DD 22    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(4)  
 
 **Utilisation**  
 L'elheanung est utilisé principalement pour ses hautes qualités antitoxiques.  
@@ -55,7 +56,8 @@ Le prospecteur devra réussir un test en Survie dans une zone forestière subiss
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(5)  
 
 **Utilisation**  
 Le menelath est utilisé principalement pour ses hautes qualités antitoxiques.  
@@ -74,7 +76,8 @@ Le prospecteur devra réussir un test en Survie dans une zone montagneuse tempé
 **Automne** :DD 22    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : important (4)
+**Facteur d'addiction** : important (4)  
+**Facteur d’intoxication**:(2)  
 
 **Utilisation**  
 La baie de mokth est utilisée principalement pour ses hautes qualités antitoxiques.  
@@ -94,7 +97,8 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée dans de
 **Automne** :DD 35    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 3 pièces d'or la dose.  
-**Facteur d'addiction** : très faible (1)
+**Facteur d'addiction** : très faible (1)  
+**Facteur d’intoxication**:(6)  
 
 **Utilisation**  
 La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
@@ -112,7 +116,8 @@ Le prospecteur devra réussir un test en Survie dans une zone côtière tempér�
 **Automne** :DD 28    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 3 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(4)  
 
 **Utilisation**  
 La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
@@ -131,7 +136,8 @@ Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-a
 **Automne** :DD 35    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 30 pièces d'or la dose.  
-**Facteur d'addiction** : très important (5)
+**Facteur d'addiction** : très important (5)  
+**Facteur d’intoxication**:(6)  
 
 **Utilisation**  
 La feuille de Ul'thazah est utilisée principalement pour ses hautes qualités antitoxiques.  

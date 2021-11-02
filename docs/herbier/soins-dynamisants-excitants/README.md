@@ -15,8 +15,8 @@ Le prospecteur devra réussir un test en Survie dans une zone semi-aride océani
 **Automne** :DD 16    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d’argent la dose.  
-**Facteur d'addiction** : très faible (1)
-**Facteur d’intoxication**:(1)
+**Facteur d'addiction** : très faible (1)  
+**Facteur d’intoxication**:(1)  
 
 **Utilisation**  
 La feuille d’Akubege est utilisée pour ses vertus curatives.  
@@ -35,8 +35,8 @@ Le prospecteur devra réussir un test en Survie dans une zone herbeuse tempéré
 **Automne** :DD 16   
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d’argent la dose.  
-**Facteur d'addiction** : très faible (1)
-**Facteur d’intoxication**:(2)
+**Facteur d'addiction** : très faible (1)  
+**Facteur d’intoxication**:(2)  
 
 **Utilisation**  
 La feuille d’Arlath est utilisée pour ses vertus curatives.  
@@ -55,8 +55,8 @@ Le prospecteur devra réussir un test en Survie dans une zone aride chaude:
 **Automne** :DD 22   
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d’or la dose.  
-**Facteur d'addiction** :  faible (2)
-**Facteur d’intoxication**:(3)
+**Facteur d'addiction** :  faible (2)  
+**Facteur d’intoxication**:(3)  
 
 **Utilisation**  
 La fleur de Cuzama est utilisée pour ses vertus curatives.  
@@ -75,8 +75,8 @@ Le prospecteur devra réussir un test en Survie dans une zone froide montagneuse
 **Automne** :DD 16   
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d’argent la dose.  
-**Facteur d'addiction** :  très faible (1)
-**Facteur d’intoxication**:(1)
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
 
 **Utilisation**  
 La feuille de Darssur est utilisée pour ses vertus curatives.  
@@ -95,8 +95,8 @@ Le prospecteur devra réussir un test en Survie dans une zone aride au bord des 
 **Automne** :DD 12   
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 2 pièces d’argent la dose.  
-**Facteur d'addiction** :  très faible (1)
-**Facteur d’intoxication**:(1)
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
 
 **Utilisation**  
 La feuille de Drafa est utilisée pour ses vertus curatives.  
@@ -115,8 +115,8 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée et mont
 **Automne** :DD 12   
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 3 pièces d’argent la dose.  
-**Facteur d'addiction** :  très faible (1)
-**Facteur d’intoxication**:(1)
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
 
 **Utilisation**  
 La baie de Doughmou est utilisée pour ses vertus curatives.  
@@ -135,8 +135,8 @@ Le prospecteur devra réussir un test en Survie dans une zone désertique aride:
 **Automne** :DD 12   
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
 **Valeur** : 4 pièces d’or la dose.  
-**Facteur d'addiction** :  faible (2)
-**Facteur d’intoxication**:(2)
+**Facteur d'addiction** :  faible (2)  
+**Facteur d’intoxication**:(2)  
 
 **Utilisation**  
 La chaire du Farighath est utilisée pour ses vertus curatives.  
@@ -145,7 +145,7 @@ Valeur : 55 pièces d'or la dose.
 
 ## Geafnoth
 **Description**  
-Le Geafnoth est un lichen qui pousse dans les zones de permafrost au pied de volcans en activité. Sa consomation a la propriété de dynamiser son utilisateur.
+Le Geafnoth est un lichen qui pousse dans les zones de permafrost au pied de volcans en activité. Sa consommation a la propriété de dynamiser son utilisateur.
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone de permafrost au pied de volcans en activité:  
@@ -155,8 +155,8 @@ Le prospecteur devra réussir un test en Survie dans une zone de permafrost au p
 **Automne** :DD 28   
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 9 pièces d’or la dose.  
-**Facteur d'addiction** :  très important (5)
-**Facteur d’intoxication**:(2)
+**Facteur d'addiction** :  très important (5)  
+**Facteur d’intoxication**:(2)  
 
 **Utilisation**  
 Le Geafnoth est utilisé pour ses vertus curatives.  

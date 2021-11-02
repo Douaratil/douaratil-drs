@@ -2,9 +2,12 @@
 title: "Brûlures-Gelures"
 ---
 # Soins des brûlures et des gelures
+
+Note: Le facteur d'intoxication est à titre d'information. Normalement, Certains remèdes (crèmes, cataplasme et autres) ne doivent pas être ingérés. S'ils étaient ingérés, non seulement, la personne risque de s'intoxiquer mais d'autre part le remède ne fonctionne pas car le mode d'utilisation n'a pas été respecté.  
+
 ## Aloa
 **Description**  
-L'Aloa est une plante de la famille des plantes grasses qui pousse dans les zones tempérées chaudes. La mixture issue de sa feuille est un gel appaisant connu pour ses propriétés curatives pour traiter les brûlures et les coupures.   
+L'Aloa est une plante de la famille des plantes grasses qui pousse dans les zones tempérées chaudes. La mixture issue de sa feuille est un gel apaisant connu pour ses propriétés curatives pour traiter les brûlures et les coupures.   
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone semi tempérée chaude:  
@@ -14,7 +17,8 @@ Le prospecteur devra réussir un test en Survie dans une zone semi tempérée ch
 **Automne** :DD 16    
 En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : Inéxistant (0)
+**Facteur d'addiction** : Inéxistant (0)  
+**Facteur d’intoxication**:(10)  
 
 **Utilisation**  
 Les feuilles de l'Aloa sont utilisées pour ses vertues curatives.  
@@ -33,7 +37,8 @@ Le prospecteur devra réussir un test en Survie dans une zone semi aride aux abo
 **Automne** :DD 22    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(8)  
 
 **Utilisation**  
 Les feuilles et les fleurs de l'Athalas sont utilisées pour ses vertues curatives.  
@@ -52,7 +57,8 @@ Le prospecteur devra réussir un test en Survie dans une zone aride dans un dés
 **Automne** :DD 16    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
+**Facteur d'addiction** : inéxistant (0)  
+**Facteur d’intoxication**:(7)  
 
 **Utilisation**  
 Les feuilles de Coulhas sont utilisées pour ses vertues curatives.  
@@ -71,7 +77,8 @@ Le prospecteur devra réussir un test en Survie dans une zone toujours glacée e
 **Automne** :DD 22    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
+**Facteur d'addiction** : inéxistant (0)  
+**Facteur d’intoxication**:(7)  
 
 **Utilisation**  
 Les feuilles de Joloh sont utilisées pour ses vertues curatives.  
@@ -90,7 +97,8 @@ Le prospecteur devra réussir un test en Survie dans une zone toujours tempéré
 **Automne** :DD 26    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 6 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
+**Facteur d'addiction** : inéxistant (0)  
+**Facteur d’intoxication**:(7)  
 
 **Utilisation**  
 Les baies de Kelthary sont utilisées pour ses vertues curatives.  
@@ -109,7 +117,8 @@ Le prospecteur devra réussir un test en Survie dans une zone océanique et chau
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 8 pièces d'argent la dose.  
-**Facteur d'addiction** : faible (2)
+**Facteur d'addiction** : faible (2)  
+**Facteur d’intoxication**:(8)  
 
 **Utilisation**  
 La Weltouragh est utilisée pour ses vertus curatives.  

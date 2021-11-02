@@ -16,7 +16,8 @@ Le prospecteur devra réussir un test en Survie dans une zone côtière froide:
 **Automne** :DD 22    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d'argent la dose.  
-**Facteur d'addiction** : très faible (1)
+**Facteur d'addiction** : très faible (1)  
+**Facteur d’intoxication**:(12)  
 
 **Utilisation**  
 La tige de l'afana est utilisée principalement pour ses vertues curatives.  
@@ -35,7 +36,8 @@ Le prospecteur devra réussir un test en Survie dans une zone chaude et humide:
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : très importante (5)
+**Facteur d'addiction** : très importante (5)  
+**Facteur d’intoxication**:(8)  
 
 **Utilisation**  
 La tige et les feuilles de balahm sont utilisées pour ses vertues curatives.  
@@ -54,7 +56,8 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée herbeus
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 2 pièce d'or la dose.  
-**Facteur d'addiction** : irrésistible (6)
+**Facteur d'addiction** : irrésistible (6)  
+**Facteur d’intoxication**:(5)  
 
 **Utilisation**  
 Les feuilles et les fleurs de Boursselath sont utilisées pour ses vertues curatives.  
@@ -73,7 +76,8 @@ Le prospecteur devra réussir un test en Survie dans une zone froide et côtièr
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : irrésisitible (6)
+**Facteur d'addiction** : irrésisitible (6)  
+**Facteur d’intoxication**:(5)  
 
 **Utilisation**  
 La mousse d'éderlane est utilisées pour ses vertues curatives.  
@@ -92,7 +96,8 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée et herb
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(4)  
 
 **Utilisation**  
 La gourthamelle est utilisées pour ses vertues curatives.  

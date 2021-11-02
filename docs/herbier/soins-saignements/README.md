@@ -15,7 +15,8 @@ Le prospecteur devra réussir un test en Survie dans une zone océanique et chau
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 7 pièces d'argent la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(8)  
 
 **Utilisation**  
 La racine d’Ansker est utilisée pour ses vertus curatives.  
@@ -34,7 +35,8 @@ Le prospecteur devra réussir un test en Survie dans une zone semi-aride herbeus
 **Automne** :DD 22    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
 **Valeur** : 2 pièces d’or la dose.  
-**Facteur d'addiction** : moyen (3)
+**Facteur d'addiction** : moyen (3)  
+**Facteur d’intoxication**:(7)  
 
 **Utilisation**  
 La résine d’Harfath est utilisée pour ses vertus curatives.  
@@ -53,7 +55,8 @@ Le prospecteur devra réussir un test en Survie dans une zone semi-aride herbeus
 **Automne** :DD 22    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 2 pièces d’or la dose.  
-**Facteur d'addiction** : important (4)
+**Facteur d'addiction** : important (4)  
+**Facteur d’intoxication**:(4)  
 
 **Utilisation**  
 La résine d’Hougbour est utilisée pour ses vertus curatives.  
