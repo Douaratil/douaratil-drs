@@ -51,5 +51,5 @@ _**Ruse**_. (*ombre*) À partir du niveau 2, votre vivacité d'esprit et votre a
 _**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts perforant (finesse, légère, lancer 6/18).  
 
-**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)

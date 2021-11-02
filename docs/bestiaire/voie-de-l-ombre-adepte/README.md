@@ -49,14 +49,15 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 
 _**Ruse**_. (*ombre*) À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
 
-_**Esquive instinctive**_. (*ombre*) À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
-_**Dérobade **_. (*ombre*)  À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.  
+_**Esquive instinctive**_. (*ombre*) À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.  
 
-**_Talent**_. (*ombre*)  Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.  
+_**Dérobade**_. (*ombre*)  À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.  
+
+_**Talent**_. (*ombre*)  Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts perforant (finesse, légère, lancer 6/18).  
 
-**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
