@@ -89,7 +89,7 @@ Le Drafa est un arbuste qui pousse dans les zones arides au bord des océans. Sa
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone aride au bord des océans:  
-**Hivers** :DD 8
+**Hivers** :DD 8  
 **Printemps** :DD 12  
 **Eté** :DD 16   
 **Automne** :DD 12   
@@ -109,7 +109,7 @@ Le Doughmou est un arbuste qui pousse dans les zones tempérées et montagneuses
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
-**Hivers** :DD 22
+**Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 12   
 **Automne** :DD 12   
@@ -129,7 +129,7 @@ Le Farighath est un cactus qui pousse dans les zones désertiques arides. Sa cha
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
-**Hivers** :DD 16
+**Hivers** :DD 16  
 **Printemps** :DD 16  
 **Eté** :DD 12   
 **Automne** :DD 12   
@@ -149,7 +149,7 @@ Le Geafnoth est un lichen qui pousse dans les zones de permafrost au pied de vol
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone de permafrost au pied de volcans en activité:  
-**Hivers** :DD 28
+**Hivers** :DD 28  
 **Printemps** :DD 22  
 **Eté** :DD 22   
 **Automne** :DD 28   
@@ -169,7 +169,7 @@ Le Myhnerre est un arbuste qui pousse dans les zones froides montagneuses. La co
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone froide montagneuse:  
-**Hivers** :DD 16
+**Hivers** :DD 16  
 **Printemps** :DD 12  
 **Eté** :DD 12   
 **Automne** :DD 16   
@@ -189,7 +189,7 @@ L'Erhegelth est une mousse qui pousse dans les zones tempérées et montagneuses
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
-**Hivers** :DD 28
+**Hivers** :DD 28  
 **Printemps** :DD 22  
 **Eté** :DD 16   
 **Automne** :DD 16   
@@ -209,7 +209,7 @@ Le Rawekh est une forme rare parasitaire de certainss arbres qui forment des nod
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
-**Hivers** :DD 16
+**Hivers** :DD 16  
 **Printemps** :DD 16  
 **Eté** :DD 16   
 **Automne** :DD 16   
@@ -229,7 +229,7 @@ Le Touroulh est une petite plante qui pousse dans les zones tempérées et fores
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et forestière:  
-**Hivers** :DD 8
+**Hivers** :DD 8  
 **Printemps** :DD 8  
 **Eté** :DD 8   
 **Automne** :DD 8   
@@ -249,7 +249,7 @@ Le Vicalmyrh est une petite plante qui pousse dans les zones tempérées et fore
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et forestière de conifères:  
-**Hivers** :DD 28
+**Hivers** :DD 28  
 **Printemps** :DD 28  
 **Eté** :DD 28   
 **Automne** :DD 28   
@@ -269,7 +269,7 @@ Le Yaveth est un petit arbuste qui pousse dans les zones tempérées et océaniq
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et océaniques:
-**Hivers** :DD 22
+**Hivers** :DD 22  
 **Printemps** :DD 22  
 **Eté** :DD 22   
 **Automne** :DD 22   
