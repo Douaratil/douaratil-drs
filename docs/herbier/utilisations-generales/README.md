@@ -8,7 +8,25 @@ title: "Utilisations générales"
 Note: Le facteur d'intoxication est à titre d'information. Normalement, Certains remèdes (crèmes, cataplasme et autres) ne doivent pas être ingérés. S'ils étaient ingérés, non seulement, la personne risque de s'intoxiquer mais d'autre part le remède ne fonctionne pas car le mode d'utilisation n'a pas été respecté.  
 
 
+## Akhase
+**Description**  
+L'Aquash est une plante de grande taille qui pousse dans les zones tempérées et herbeuses. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.
 
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océaniques:
+**Hivers** :DD 22
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 22   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 5 pièces d'or la dose.  
+**Facteur d'addiction** :  Moyen(3)  
+**Facteur d’intoxication**:(2)  
+
+**Utilisation**  
+Le fruit de Yaveth est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 fruits (doses) de Yaveth pour constituer une dose de dynamisant. Son ingestion redonne immédiatement la 7d6 PA.
+Valeur : 48 pièces d'or la dose.  
 
 ## Cepate
 **Description**  
