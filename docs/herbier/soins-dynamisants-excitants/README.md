@@ -162,3 +162,103 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 Le Geafnoth est utilisé pour ses vertus curatives.  
 *mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 3 doses de Geafnoth pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 30 PA + 10d6 PA (effet immédiat).   
 Valeur : 90 pièces d'or la dose.  
+
+## Myhnerre
+**Description**  
+Le Myhnerre est un arbuste qui pousse dans les zones froides montagneuses. La consommation de sa baie bleutée a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide montagneuse:  
+**Hivers** :DD 16
+**Printemps** :DD 12  
+**Eté** :DD 12   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d’or la dose.  
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La baie de Myhnerre est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 3 baies (doses) de Myhnerre pour constituer une dose de dynamisant. Son ingestion redonne immédiatement 10 PA.   
+Valeur : 10 pièces d'or la dose.  
+
+## Erhegelth
+**Description**  
+L'Erhegelth est une mousse qui pousse dans les zones tempérées et montagneuses. Sa consommation a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
+**Hivers** :DD 28
+**Printemps** :DD 22  
+**Eté** :DD 16   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 7 pièces d’or la dose.  
+**Facteur d'addiction** :  très important (5)  
+**Facteur d’intoxication**:(2)  
+
+**Utilisation**  
+L'Erhegelth est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 4 doses d'Erhegelth pour constituer une dose de dynamisant. La préparation doit être bouillie pendant une durée de 20 minutes minimum. Son ingestion redonne immédiatement 50 PA.   
+Valeur : 75 pièces d'or la dose.    
+
+## Rawekh
+**Description**  
+Le Rawekh est une forme rare parasitaire de certainss arbres qui forment des nodules récoltables. Il pousse dans les zones tempérées et forestières. Sa consommation a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et montagneuse:  
+**Hivers** :DD 16
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d’or la dose.  
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+Le Rawekh est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 nodules (doses) de Rawekh pour constituer une dose de dynamisant. La préparation doit être bouillie pendant une durée de 20 minutes minimum. Son ingestion redonne immédiatement 3d6 PA.   
+Valeur : 8 pièces d'or la dose.  
+
+## Touroulh
+**Description**  
+Le Touroulh est une petite plante qui pousse dans les zones tempérées et forestières. Sa consommation a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et forestière:  
+**Hivers** :DD 8
+**Printemps** :DD 8  
+**Eté** :DD 8   
+**Automne** :DD 8   
+En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d’argent la dose.  
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+Le Touroulh est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 doses de Touroulh pour constituer une dose de dynamisant. La préparation doit être bouillie pendant une durée de 20 minutes minimum. Son ingestion redonne immédiatement 1d6 PA.   
+Valeur : 1 pièces d'or la dose.  
+
+## Vicalmyrh
+**Description**  
+Le Vicalmyrh est une petite plante qui pousse dans les zones tempérées et forestières de conifères. La consommation de son fruit a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et forestière de conifères:  
+**Hivers** :DD 28
+**Printemps** :DD 28  
+**Eté** :DD 28   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d’argent la dose.  
+**Facteur d'addiction** :  Irrésistible(6)  
+**Facteur d’intoxication**:(4)  
+
+**Utilisation**  
+Le fruit de Vicalmyrh est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 fruits (doses) de Vicalmyrh pour constituer une dose de dynamisant. Son ingestion redonne immédiatement la totalité des PA jusqu’à concurrence de 150.   
+Valeur : 100 pièces d'or la dose.  
