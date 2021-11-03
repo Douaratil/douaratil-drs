@@ -80,6 +80,8 @@ Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à a
 |Se moquer| Intimidation / Charisme|Js Sagesse|
 |Se vanter| Intimidation, représentation ou Supercherie / Charisme ou Intelligence|Js Sagesse|
 |Supplier| Perspicacité / Sagesse|Js Sagesse|
+
+
 ---
 title: Les intermèdes - Gestion de la famille et des biens
 ---
@@ -312,11 +314,13 @@ Le Genos Gaenor Lugeto a un **patrimoine important**. Lors de sa guerre contre G
 
 
 **Note** :  
-Les cavaliers légers sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court. Ils chevauchent un cheval de guerre léger.  
+Les cavaliers légers sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court. Ils chevauchent un cheval de guerre léger.   
 Les cavaliers lourds sont épuisés d'une armure métallique, d'une arme à une main, d'un bouclier et d'une lance. Ils chevauchent un destrier.  
 Les éclaireurs sont équipés d'une armure de cuir, d'une arme à une main et d'un arc court.  
 Les fantassins légers sont équipés d'une armure de cuir, d'un bouclier, d'une arme à une main et d'une arme de lancer.  
 Les fantassins lourds sont équipés d'une armure métallique, d'un bouclier, d'une arme à une main et d'une arme de lancer.  
+
+
 ---
 title: Domaine
 ---
@@ -390,6 +394,8 @@ Chaque élément de s'acquière qu'une seule fois, exception faite des fermes qu
 
 ## Avantage concret du développement
 Le fait d'augmenter la bâtisse permet d'être considéré dans les alentours. Un investissement de 10 000 po dans la bâtisse permet d'avoir l'équivalent du **haut fait de richesse "héroïque"** avec les avantages de points d'honneur qu'il en découle.  
+
+
 ---
 title: Expérience & rythme de progression.
 ---
@@ -504,6 +510,8 @@ Prier les dieux permet d'obtenir certains avantages outre le fait d'obtenir de l
 |Adepte|600 XP|
 |Expert|1200 XP|
 |Maître|2400 XP|
+
+
 ---
 title: Bataille
 ---
@@ -654,6 +662,8 @@ Respectivement lors de la phase de combat (à ce moment) l'unité de fantassins 
 
 Il faudra ainsi moduler tout cela avec le positionnement des unités, les manoeuvres et le nombre d'attaques.    
 §§§
+
+
 ---
 title: Commerce (Règles optionnelles)
 source: "Georges"
@@ -724,6 +734,8 @@ Il lance donc 4 fois 2D6 qu’il multiplie par 250PC, 50 PA, 15PE et 11PO Il o
 Il va donc devoir rembourser : le salaire des gardes : 2*60PO = 120 PO  
 La dette de son affaire : 337.5 PO * (1+(niveau d'instabilité/100)) = 337.5*1.11 = 374.5PO  
 Il est endetté de 494.5 PO ! Il devrait peut être sécuriser son affaire si il ne veut pas sombrer encore plus.  
+
+
 ---
 title: "Les objets"
 sidebarDepth: 2
@@ -762,6 +774,8 @@ Quand le facteur temps a son importance, vous pouvez attribuer une **Valeur de d
 **Les objets et les types de dégâts**. Les objets sont immunisés contre les poisons et les dégâts psychiques. Vous pouvez tout à fait décider que certains types de dégâts sont plus efficaces que d'autres contre certains objets ou certaines substances. Par exemple, les dégâts contondants sont particulièrement appropriés pour broyer quelque chose mais bien moins utiles quand il s'agit de trancher une corde ou du cuir. Les objets en papier ou en tissu peuvent se montrer vulnérables aux dégâts de feu et de foudre. Une pioche permet de tailler la pierre mais pas de couper un arbre. Comme toujours, faites appel à votre bon sens.
 
 **Seuil de dégâts**. Les grands objets, comme les murs d'un château, ont souvent une résilience particulière représentée par un seuil de dégâts. Un objet doté d'un seuil de dégâts est immunisé contre tous les dégâts, à moins qu'une unique attaque ou un seul coup ne lui en inflige un montant supérieur ou égal à son seuil de dégâts, auquel cas l'objet subit les dégâts normalement. Des dégâts dont le montant n'égale ni ne dépasse le seuil de dégâts de l'objet sont considérés comme superficiels et ne réduisent pas les points d'action de l'objet.
+
+
 ---
 title: "Herbier"
 ---
@@ -825,120 +839,7 @@ Si la compétence n'est pas maîtrisée, [Survie](/utiliser-les-caracteristiques
 
 Les plantes et les produits décrits ensuite sont rares et demandent souvent de longues recherches de la part de spécialistes pour en trouver des doses ou des spécimens suffisants. Les plantes, les champignons et les animaux qui produisent ces substances ne peuvent pas survivre en captivité. Tous les essais jusqu'à présent ont été voués à l'échec. Dans le meilleur des cas, les sujets sont devenus stériles. Ces plantes et ses substances sont souvent considérées magiques même si elles ne le sont pas intrinsèquement. Elles valent souvent extrêmement chères.  
 
-## Afana
-**Description**  
-L'afana est une plante de la famille des roseaux qui pousse la plus part du temps dans des latitudes froides au bords des côtes. Sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
 
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone côtière froide:  
-**Hivers** :DD 16  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'argent la dose.  
-**Facteur d'addiction** : très faible (1)
-
-**Utilisation**  
-La tige de l'afana est utilisée principalement pour ses vertues curatives.  
-*Cataplasme* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 tiges (doses) d'afana pour créer un cataplasme. La préparation doit être appliquée sur la zone de la blessure. Le cataplasme permet de doubler la vitesse de guérison d'une fracture.
-Valeur : 5 pièce d'argent la dose.   
-
-## Aloa
-**Description**  
-L'Aloa est une plante de la famille des plantes grasses qui pousse dans les zones tempérées chaudes. La mixture issue de sa feuille est un gel appaisant connu pour ses propriétés curatives pour traiter les brûlures et les coupures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone semi tempérée chaude:  
-**Hivers** :DD 16  
-**Printemps** :DD 12  
-**Eté** :DD 12   
-**Automne** :DD 16    
-En cas de réussite, il trouvera 3d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : Inéxistant (0)
-
-**Utilisation**  
-Les feuilles de l'Aloa sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 12 feuilles (doses) d'Aloa pour créer une mixture qui prend la forme d'un gel transparent. La préparation s'applique immédiatement sur une zone brûlée ou une coupure. La mixture permet de doubler la vitesse de guérison des blessures par brûlure et peut stopper un saignement de 1 PA/round. D'autre part, sa première application restaure immédiatement 1d6 PA de brûlure.   
-Valeur : 5 pièces d'argent la dose.
-
-## Asgarbie
-**Description**  
-L'asgarbie est une petite plante grasse qui ne dépasse jamais les quatre pouces. Elle reconnaissable par ses petites excroissances violettes qui pourraient rappeler des oursins. Il s'agit du fruit qui est comestible mais sans intérêt gustatif. L'asgarbie ne se trouve que dans des déserts arides. La fleure d'asgarbie a par contre des vertus d'antidote si elle est correctement préparée.
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
-**Hivers** :DD 22  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-
-**Utilisation**  
-L'asgarbie est utilisé principalement pour ses hautes qualités antitoxiques qui ont assurées sa réputation dans les zones où les serpents et les scorpions pullulent.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 fleurs (doses) d'asgarbies pour créer ce puissant antidote contre les poisons musculaires. La préapration doit être ingérée. L'antidote permet de guérir tout poison musculaire d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +5.    
-Valeur : 38 pièces d’or la dose.  
-
-## Athalas
-**Description**  
-L'Athalas est une plante de la famille des herbacée qui pousse dans les zones semi arides aux abords des océans et des mers intérieures. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone semi aride aux abords des océans:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-Les feuilles et les fleurs de l'Athalas sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 8 fleurs ou feuilles (doses) d'Athalas pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 4 pouces en 3d6 heures.
-Valeur : 66 pièces d'argent la dose.   
-
-## Balahm
-**Description**  
-Le balahm est une plante de la famille des roseaux qui pousse dans des latitudes chaudes et humides, souvent dans des mangroves. La mixture issue de sa tige est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone chaude et humide:  
-**Hivers** :DD 35  
-**Printemps** :DD 35  
-**Eté** :DD 28   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : très importante (5)
-
-**Utilisation**  
-La tige et les feuilles de balahm sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 6 tiges ou feuilles (doses) de balahm pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 1d6 heures.
-Valeur : 160 pièces d'or la dose.   
-
-## Boursselath
-**Description**  
-La Boursselath est une plante de la famille des herbacée qui pousse dans les zone tempérée herbeuse. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée herbeuse:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 2 pièce d'or la dose.  
-**Facteur d'addiction** : irrésistible (6)
-
-**Utilisation**  
-Les feuilles et les fleurs de Boursselath sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 28, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Boursselath pour créer une mixture. La préparation doit bouillir au moins 20 minutes avant consommation. La mixture permet de réparer une fracture en 2d6 heures.
-Valeur : 110 pièces d'or la dose.   
 
 ## Cepate
 **Description**  
@@ -984,44 +885,6 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
 Valeur : 1 pièce d’or la dose.  
 
-## Coulhas
-**Description**  
-Le Coulhas est une plante grasse arbustive qui pousse dans les zones arides dans les déserts. La mixture issue de sa feuille et de sa fleur est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone aride dans un désert:  
-**Hivers** :DD 16  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 16    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les feuilles de Coulhas sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 8 fleurs ou feuilles (doses) de Coulhas pour créer une mixture. La préparation doit décanter au moins 20 minutes avant application sur une zone brûlée. La mixture permet de réparer une zone brûlée d'une surface de 10 pouces en 4d6 heures.
-Valeur : 35 pièces d'or la dose.   
-
-## Ederlane
-**Description**  
-L'éderlane est une plante moussue qui pousse dans les zone froide et côtière. Très verte à la saison chaude, elle devient de couleur rouille aux périodes froides. La mousse d'éderlane fleurit au plus fort de la saison froide. La mixture issue de la mousse est connue pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone froide et côtière:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 28   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : irrésisitible (6)
-
-**Utilisation**  
-La mousse d'éderlane est utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 10 mousses (doses) d'éderlane pour créer une mixture. La préparation doit être ingérée malgré sa très mauvaise odeur. La mixture permet de réparer une fracture en 3d6 heures.
-Valeur : 31 pièces d'or la dose.  
-
 ## Eglantiane  
 **Description**  
 L’églantiane est un rosier sous forme d’arbuste à feuilles caduques et à floraison non remontante. Il pousse dans les haies.  
@@ -1046,25 +909,6 @@ Valeur: 5 pièce d’or la dose.
 *Huile essentielle* ( Herboristerie DD 35, 15 doses): Sous forme d'huile essentielle, l'églantiane permet de mieux se concentrer pendant 1d6 heures. L'utilisateur obtient un bonus de +2 aux JS de Sagesse et d’Intelligence ainsi qu'aux tests de compétences faisant appel à des capacités intellectuelles.  
 Valeur : 10 pièce d’or la dose.  
 **Facteur d'addiction** : moyen (3)
-
-## Elheanung
-**Description**  
-L'elheanung est une plante intéressante que l'on trouve dans les hauts fonds des mers froides. Cette algue qui peut atteindre jusqu'à 30 coudées possède des propriétés curatives qui ont été découvertes il y a fort longtemps par les peuples pêcheurs nordiques.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie:  
-**Hivers** :DD 22  
-**Printemps** :DD 22  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-L'elheanung est utilisé principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 12 feuilles (doses) d'elheanung pour créer ce puissant antidote contre les poisons de réduction. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison de réduction d'un DD inférieur à 16 et permet de résister aux poisons musculaires supérieurs avec un bonus au JS de +6.    
-Valeur : 99 pièce d’or la dose.  
 
 ## Empeurine  
 **Description**  
@@ -1176,25 +1020,6 @@ Valeur : 2 pièces d’or la dose
 *Onguent* (Alchimie DD 28 ): la frambole peut être préparée en onguent. Il est possible de créer une dose d’onguent de frambole par quatre doses de frambole sous réserve de réussir un test d’Alchimie DD 28 (les tests s’effectuent par dose et la préparation prend une heure par dose). L'onguent soigne les brûlures et les irritations. Il redonne 2d6 points d’action.  
 Valeur : 8 pièces d’or la dose.  
 
-## Gourthamelle
-**Description**  
-La gourthamelle est une plante herbacée qui pousse dans les zones tempérées et herbeuses. Très basse aux larges feuilles qui s'étalent, une tige pousse en son centre et peut atteindre 6 pieds de haut. Cette tige porte les fleurs qui se répartissent sur toute la longeur. Les fleurs sont très petites et d'une couleur mauve profond.  Le cataplasme issue de cette plante est connu pour ses propriétés curatives pour traiter les fractures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse.  
-**Hivers** :DD 28  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièce d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-La gourthamelle est utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 felurs ou feuilles ou morceau de tige verte (doses) de gourthamelle pour créer un cataplasme. La préparation doit être appliquée. La mixture permet de réparer une fracture en 6d6 heures.
-Valeur : 30 pièces d'or la dose.  
-
 ## Herbefolle
 **Description**  
 L'Herbefolle est considérée depuis des temps reculés comme une plante magique associée à la magie noire.La pomme épineuse en onguent, en philtre ou en fumée provoque la déconnexion du réel, hallucinations et sommeil. Ses effets délétères l'ont fait surnommer l'herbe aux fous.  
@@ -1238,62 +1063,6 @@ Valeur : 3 pièce d’or la dose.
 *Symptômes observés* : Les premiers symptômes apparaissent très rapidement : sécheresse de la bouche, diminution des sécrétions, troubles visuels, dilatation des pupilles, élévation du rythme cardiaque, faiblesse musculaire pouvant aller jusqu'à une incapacité à se tenir debout. Les troubles du comportement, caractérisés par une désorientation spatio-temporelle, apparaissent ensuite. L'individu est congestionné, sa face et son cou sont rouges, il a une parole incohérente ou peut être trouvé dans un coma profond. Il arrive que l'individu décède avant une prise en charge médicale. L'individu a des hallucinations visuelles, auditives, il ne reconnaît plus ses proches et semble vouloir attraper des objets imaginaires. Les hallucinations sont décrites par les usagers comme cauchemardesques  souvent accompagnées de crises d'angoisse et de la perte des repères spatio-temporels. Le retour à la normale demande plusieurs jours. Il s'accompagne en général d'une amnésie totale ou partielle de l'épisode.
 L'état produit par la plante s'apparente à un état de somnambulisme, de rêve éveillé voire de folie, ce qui n'est pas du tout la cas des drogues psychédéliques. Ceci couplé aux difficultés extrêmes de dosage rend l'expérience délirogène hautement dangereuse.  
 
-## Joloh
-**Description**  
-Le Joloh est une plante arbustive qui pousse dans les zones toujours glacées et montagneuse. La mixture issue de sa feuille est connue pour ses propriétés curatives pour traiter les gelures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone toujours glacée et montagneuse:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 16   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les feuilles de Joloh sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 feuilles (doses) de Joloh pour créer une mixture. La préparation doit décanter au moins 12 heures dans une eau tiédie avant application sur une zone gelée. La mixture permet de réparer une zone brûlée d'une surface de 3 pouces en 1d6 heures et rends 3d6 points d'action de dégâts engendrés par le froid.
-Valeur : 9 pièces d'or la dose.
-
-## Kelthary
-**Description**  
-Le Kelthary est une plante herbacée à longues tiges qui pousse dans les zones tempérées et herbeuses. Sa baie est connue pour ses propriétés curatives pour traiter les brûlures.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone toujours tempérée et herbeuse:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 12   
-**Automne** :DD 26    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 6 pièces d'argent la dose.  
-**Facteur d'addiction** : inéxistant (0)
-
-**Utilisation**  
-Les baies de Kelthary sont utilisées pour ses vertues curatives.  
-*Mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 6 baies (doses) de Kelthary pour créer une mixture. La préparation peut être utilisée immédiatement sur une zone brûlée. La mixture permet de réparer une zone brûlée au premier ou au deuxième degré d'une surface de 3 pouces en 1d6 heures et rends 2d6 points d'action de dégâts engendrés par la chaleur.
-Valeur : 19 pièces d'or la dose.
-
-## Menelath
-**Description**  
-Le Menelath est un arbre à épines persistantes que l'on trouve dans les terres éternellement gelées au milieu de forêts de conifères. D'un vert sombre et profond, son fruit, comparable à une petite pomme de pin possède des propriétés antipoison découvertes par les peuples nordiques.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone forestière subissant le permafrost:  
-**Hivers** :DD 28  
-**Printemps** :DD 28  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-Le menelath est utilisé principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 28, 1 dose) : Il faut 6 fruits (doses) de menelath pour créer ce puissant antidote contre les poisons circulatoirs. La préapration doit être bouillie pendant une durée de 20 minutes minimum. L'antidote permet de guérir tout poison circulatoir d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +6.    
-Valeur : 65 pièce d’or la dose.  
 
 ## Menthagile
 **Description**  
@@ -1320,25 +1089,6 @@ Valeur : 7 pièces d’or la dose.
 Valeur** : 8 pièces d’or la dose.  
 
 L'un des effets les plus recherchés de la Menthagile est sa capacité à développer l'agilité et la souplesse de la personne qui l’ingurgite. Si la plante est préparée sous l'une de ses formes habituelles, le bénéficiaire obtient un bonus de +2 à tout ses jets d'acrobatie, discrétion, escamotage et aux JS de Dextérité pendant 1D6 x 10 minutes.  
-
-## Mokth
-**Description**  
-Le mokth est un arbuste que l'on trouve dans les zones tempérées de moyenne montagne. D'un feuillage vert intense, l'arbuste devient orange/rouge à l'autmomne. Son fruit, la baie de mokth, comparable à une grosse mûre violette possède des propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone montagneuse tempérée:  
-**Hivers** :DD 22  
-**Printemps** :DD 16  
-**Eté** :DD 12   
-**Automne** :DD 22    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : important (4)
-
-**Utilisation**  
-La baie de mokth est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 18 fruits (doses) de mokth pour créer ce puissant antidote contre les poisons respiratoire. L'antidote s'ingère. Il permet de guérir tout poison respiratoire d'un DD inférieur à 16 et permet de résister aux poisons circulatoirs supérieurs avec un bonus au JS de +4.    
-Valeur : 30 pièce d’or la dose.   
 
 ## Murcine
 **Description**  
@@ -1463,81 +1213,7 @@ Valeur : 3 pièces d’or la dose.
 *Huile* ( Alchimie DD 35, 1d6 doses) : L'huile fabriquée par des procédés alchimiques n'est pas utilisable dans l'alimentation. Par contre, elle est réputée pour ses fonctions anti-fongiques et spermicides qui lui permettent d'être utilisée comme lubrifiant sans risque de procréer. Cette huile est largement utilisée dans les harems et certains bordels de luxe. Son coût de fabrication et de vente limite la clientèle.  
 Valeur : 33 pièces d’or la dose.  
 
-## Quilum
-**Description**  
-Le quilum est une plante à large feuille que l'on trouve dans les zones tempérées à l'ombre des forêts de conifères. une fois par an, elle donne des petites fleures oranges en forme de lachettes nervurées de jaune. Cette fleure est phosporéscente et illumine la campagne à la tombée de la nuit. Sa racine noueuse possède des propriétés antipoison.   
 
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée dans des forêts de conifères:  
-**Hivers** :DD 35  
-**Printemps** :DD 28  
-**Eté** :DD 28   
-**Automne** :DD 35    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'or la dose.  
-**Facteur d'addiction** : très faible (1)
-
-**Utilisation**  
-La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +6.    
-Valeur : 49 pièce d’or la dose.   
-
-## Shîn
-**Description**  
-Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l'on trouve dans les zones côtières tempérées. Sa feuille possède des propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone côtière tempérée souvent à flanc de falaise:  
-**Hivers** :DD 28  
-**Printemps** :DD 28  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 3 pièces d'or la dose.  
-**Facteur d'addiction** : moyen (3)
-
-**Utilisation**  
-La feuille de shîn est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 16 feuilles (doses) de shîn pour créer ce puissant antidote contre les poisons nerveux. La préparation doit être ingérée. L'antidote permet de guérir tout poison nerveux d'un DD inférieur à 16 et permet de résister aux poisons de oonversion supérieurs avec un bonus au JS de +3.    
-Valeur : 27 pièce d’or la dose.   
-
-## Ul'thazah
-**Description**  
-Le ul'thazah est une plante de la famille des lièrres de couleur noire que l'on trouve dans les zones volcaniques semi-arides. Sa feuille possède de très puissantes propriétés antipoison.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone volcaniques semi-arides:  
-**Hivers** :DD 35  
-**Printemps** :DD 35  
-**Eté** :DD 35   
-**Automne** :DD 35    
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 30 pièces d'or la dose.  
-**Facteur d'addiction** : très important (5)
-
-**Utilisation**  
-La feuille de Ul'thazah est utilisée principalement pour ses hautes qualités antitoxiques.  
-*Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 9 feuilles (doses) de ul'thazah pour créer ce puissant antidote contre toutes formes de poisons. La préparation doit être ingérée. L'antidote permet de guérir toute forme de poison d'un DD inférieur à 22 et permet de résister aux autres poisons supérieurs avec un bonus au JS de +9.    
-Valeur : 430 pièce d’or la dose.   
-
-## Weltouragh
-**Description**  
-La Weltouragh est une algue qui pousse dans les zones océanique chaude. L'algue est connue pour ses propriétés curatives pour traiter les gelures lorsqu'elle est utilisée en cataplasme après avoir été réhydratée dans une eau tiédie.   
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone océanique et chaude:  
-**Hivers** :DD 28  
-**Printemps** :DD 22  
-**Eté** :DD 22   
-**Automne** :DD 28    
-En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
-**Valeur** : 8 pièces d'argent la dose.  
-**Facteur d'addiction** : faible (2)
-
-**Utilisation**  
-La Weltouragh est utilisée pour ses vertues curatives.  
-*Séchage/hydratation* (herboristerie/Survie DD 16, 1 dose) : Il faut 6 algues (doses) de Weltouragh pour créer un pansement suffisant. Les algues déshydratées doivent être réhydratées dans une eau tiédie avant application sur une zone gelée. Le cataplasme permet de rendre 5d6 points d'action de dégâts engendrés par le froid.
-Valeur : 80 pièces d'or la dose.
 ---
 title: "Les pièges"
 ---
@@ -1721,6 +1397,8 @@ Quand un poids de 20 kilos ou plus appuie sur une des plaques de pression répar
 Les personnages pris dans la zone de gravité inversée et situés à moins de 3 mètres de l'entrée peuvent faire un test de Dextérité DD 16 pour se raccrocher au chambranle. Les autres personnages « tombent » vers le plafond et subissent 5d6 dégâts contondants de chute + 3d6 dégâts perforants des piques. À la fin de la durée du sort (1 minute), la gravité redevient normale et des nouveaux dégâts de chute peuvent être subis.
 
 Des variantes existent, au niveau du lieu et de la finalité. Le déclencheur peut être l'ouverture d'un coffre ou de la porte de sortie du couloir. Le DD de détection est le même et un test de Dextérité DD 16 effectué avec des outils de voleur désarme le piège. Les piques au plafond peuvent être remplacées par une cage ou de la colle qui piège les personnages en attendant qu'un garde vienne les récupérer.
+
+
 ---
 title: "Les maladies"
 ---
@@ -1751,6 +1429,8 @@ Cette douloureuse infection provoque des saignements au niveau des yeux et finit
 Une bête ou un humanoïde qui boit une eau contaminée par la pourriture oculaire doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Si elle échoue, elle contracte la maladie. Un jour après l'infection, la vision du malade se trouble. Il subit un malus de –1 aux jets d'attaque et aux [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) basés sur la vue. À la fin de chaque période de long repos passée après l'apparition des symptômes, le malus s'accentue de 1. Quand il atteint –5, le malade est [_aveugle_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à ce que quelqu'un le soigne par magie avec [_restauration inférieure_](/grimoire/restauration-inferieure/) ou [_guérison_](/grimoire/guerison/).
 
 On peut soigner la pourriture oculaire à l'aide d'une fleur très rare appelée l'œil vif, qui pousse dans certains marécages. En une heure, un personnage maîtrisant l'utilisation d'une trousse d'herboriste peut transformer la fleur en une dose d'onguent. Si le malade l'applique sur ses yeux avant un long repos, la dose empêche la maladie de s'aggraver à l'issue de ce repos. Il faut appliquer trois doses de cette manière pour soigner complètement la maladie.
+
+
 ---
 title: "Les poisons"
 ---
@@ -1841,6 +1521,8 @@ Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utilise
 
 ### Venin de serpent (blessure)
 Ce poison se récolte sur un serpent venimeux géant mort ou [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11. Si elle échoue, elle subit 3d6 dégâts de poison, la moitié seulement si elle réussit.
+
+
 ---
 title: "La folie"
 ---
@@ -1905,6 +1587,8 @@ Le sort [_apaisement des émotions_](/grimoire/apaisement-des-emotions/) peut su
 | **20-21** | « Je ne peux me fier qu'à une seule personne et je suis le seul à pouvoir voir cet ami très spécial. » |
 | **22-23** | « Je suis incapable de prendre quelque chose au sérieux. Plus la situation est grave, plus je la trouve marrante. » |
 | **24** | « Je viens de découvrir que j'adore tuer des gens. » |
+
+
 ---
 title: "Les trésors"
 ---
@@ -2605,6 +2289,8 @@ Les tableaux suivants vous seront utiles pour déterminer les objets magiques pr
 
 
 §§§
+
+
 ---
 title: "Objets magiques"
 ---
@@ -2690,6 +2376,8 @@ Certains objets magiques possèdent des charges qu'il faut dépenser pour active
 
 ## Détruire un objet magique
 La majorité des objets magiques sont plus résistants que leur équivalent non-magique. La plupart, grâce à la magie qu'ils renferment, sont résistants à tous les types de dégâts. Les potions et les parchemins font exception. Les premières sont détruites si leur contenant est détruit ou renversé, les seconds peuvent aisément prendre feu ou être déchirés. Quant aux artefacts, ils sont pratiquement indestructibles. Chacun d'eux possède une méthode unique, souvent l'objet d'une quête épique, pour être détruit.
+
+
 ---
 title: "Amulette antidote"
 type: "Objet merveilleux"
@@ -2699,6 +2387,8 @@ attunement: false
 
 ---
 Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d'argent. Tant que vous portez ce pendentif, les poisons n'ont aucun effet sur vous : vous êtes immunisé contre l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) et contre les dégâts de poison.
+
+
 ---
 title: "Amulette d'antidétection"
 type: "Objet merveilleux"
@@ -2708,6 +2398,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de divination. Ce genre de magie ne peut plus vous prendre pour cible et ne vous perçoit plus à travers ses organes de scrutation magiques.
+
+
 ---
 title: "Amulette de bonne santé"
 type: "Objet merveilleux"
@@ -2717,6 +2409,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L'amulette n'a aucun effet si votre Constitution est déjà de 19 ou plus.
+
+
 ---
 title: "Amulette de cicatrisation"
 type: "Objet merveilleux"
@@ -2726,6 +2420,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au début de votre tour si vous êtes mourant. De plus, à chaque fois que vous lancez un dé de points d'action pour récupérer des points d'actions, vous doublez le nombre de points d'action rendus.
+
+
 ---
 title: "Amulette de santé"
 type: "Objet merveilleux"
@@ -2735,6 +2431,8 @@ attunement: false
 
 ---
 Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladies. Si vous êtes déjà malade, les effets de la maladie sont supprimés tant que vous portez l'amulette.
+
+
 ---
 title: "Anneau d'action libre"
 type: "Anneau"
@@ -2744,6 +2442,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûtent aucun déplacement supplémentaire. De plus, la magie ne peut pas réduire votre vitesse, vous [paralyser](/gerer-la-sante-du-personnage/#paralyse) ou vous [entraver](/gerer-la-sante-du-personnage/#entrave).
+
+
 ---
 title: "Anneau de chaleur"
 type: "Anneau"
@@ -2753,6 +2453,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous portez cet anneau au doigt. De plus, vous et tout l'équipement que vous portez êtes protégés contre les températures extrêmement basses (jusque -45 degrés Celsius).
+
+
 ---
 title: "Anneau de dérobade"
 type: "Anneau"
@@ -2762,6 +2464,8 @@ attunement: "harmonisation requise"
 
 ---
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Si vous ratez un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité alors que vous portez cet anneau au doigt, vous pouvez utiliser votre réaction pour dépenser 1 de ses charges et remplacer l'échec de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.
+
+
 ---
 title: "Anneau de légèreté"
 type: "Anneau"
@@ -2771,6 +2475,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tant que vous portez cet anneau au doigt.
+
+
 ---
 title: "Anneau de maîtrise élémentaire"
 type: "Anneau"
@@ -2808,6 +2514,8 @@ _**Anneau de maîtrise élémentaire du Feu**_. Vous pouvez dépenser 2 des char
 Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'anneau, vous avez accès aux propriétés supplémentaires suivantes :
 * Vous êtes immunisé aux dégâts de feu.
 * Vous pouvez lancer les sorts suivants grâce à l'anneau en dépensant le nombre nécessaire de charges : [_mains brûlantes_](/grimoire/mains-brulantes/) (1 charge) et [_mur de feu_](/grimoire/mur-de-feu/) (3 charges).
+
+
 ---
 title: "Anneau de nage"
 type: "Anneau"
@@ -2817,6 +2525,8 @@ attunement: false
 
 ---
 Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vous portez cet anneau au doigt.
+
+
 ---
 title: "Anneau de protection"
 type: "Anneau"
@@ -2826,6 +2536,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous bénéficiez d'un bonus de +1 à la VD et aux jets de sauvegarde tant que vous portez cet anneau au doigt.
+
+
 ---
 title: "Anneau de protection mentale"
 type: "Anneau"
@@ -2837,6 +2549,8 @@ attunement: "harmonisation requise"
 Tant que vous portez cet anneau, vous êtes immunisé à la magie utilisée par d'autres créatures pour lire vos pensées, déterminer si vous mentez, connaître votre alignement ou le type de créature que vous êtes. Les créatures peuvent communiquer par télépathie avec vous seulement si vous les y autorisez.  
 
 Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intérieur, à moins qu'il ne contienne déjà une âme. Vous pouvez rester dans l'anneau ou vous en aller pour l'après-vie. Tant que votre âme est à l'intérieur de l'anneau, vous pouvez communiquer par télépathie avec la créature qui l'enfile. Un porteur ne peut pas empêcher cette communication télépathique.  
+
+
 ---
 title: "Anneau de régénération"
 type: "Anneau"
@@ -2846,6 +2560,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cet anneau, vous récupérez 1d6 points d'action tous les rounds, à condition qu'il vous reste au moins 1 point d'action.   
+
+
 ---
 title: "Anneau de renvoi des sorts"
 type: "Anneau"
@@ -2855,6 +2571,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts qui ne prennent que vous pour cible (et non une zone d'effet) tant que vous portez cet anneau au doigt. De plus, si vous obtenez une marge de 10 au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et que le sort est de niveau adepte ou moins, celui-ci ne produit aucun effet sur vous et il cible à la place son lanceur, en utilisant le DD des jets de sauvegarde contre le sort et la caractéristique d'incantation du lanceur.
+
+
 ---
 title: "Anneau de résistance"
 type: "Anneau"
@@ -2877,6 +2595,8 @@ Vous bénéficiez d'une résistance contre un type de dégâts tant que vous por
 |**10**|Psychique|Jade|
 |**11**|Radiant|Topaze|
 |**12**|Tonnerre|Spinelle|
+
+
 ---
 title: "Anneau de saut"
 type: "Anneau"
@@ -2886,6 +2606,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous pouvez lancer le sort de [_saut_](/grimoire/saut/), à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.
+
+
 ---
 title: "Anneau de stockage de sorts"
 type: "Anneau"
@@ -2899,6 +2621,8 @@ Cet anneau stocke des sort que l'on lance à l'intérieur et les conserve jusqu'
 Toute personne peut lancer un sort dans l'anneau en le touchant au moment de l'incantation du sort. Le sort ne produit aucun effet ; il est simplement stocké dans l'anneau. Si l'anneau ne peut pas stocker le sort, celui-ci est dépensé sans produire d'effet.
 
 Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké à l'intérieur. Le sort utilise le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le sort, le bonus à l'attaque du sort et la caractéristique d'incantation de la créature qui l'a lancé mais, pour tous les autres paramètres, on considère que c'est vous qui lancez le sort. Le sort lancé depuis l'anneau n'est plus stocké à l'intérieur et libère ainsi de l'espace de stockage.  
+
+
 ---
 title: "Anneau d'influence animale"
 type: "Anneau"
@@ -2911,6 +2635,8 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 * [_Amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) (DD des jets de sauvegarde contre le sort 13)
 * [_Peur_](/grimoire/peur/) (DD des jets de sauvegarde contre le sort 13). Seules les bêtes dotées d'une Intelligence de 3 ou moins peuvent être ciblées par ce sort.
 * [_Communication avec les animaux_](/grimoire/communication-avec-les-animaux/)
+
+
 ---
 title: "Arc du serment"
 type: "Arme"
@@ -2924,6 +2650,8 @@ Lorsque vous l'utilisez pour une attaque à distance, vous pouvez lui chuchoter 
 Quand vous faites une attaque à distance avec cet arc contre votre ennemi juré, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du test. De plus, votre cible ne tire aucun avantage d'un abri (à moins d'un abri total) et vous ne subissez pas de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) s'il se trouve à longue portée. Si vous touchez, votre ennemi juré subit 3d6 dégâts perforants supplémentaires.
 
 Tant que vit votre ennemi juré, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de jets d'attaque effectués avec toutes les autres armes.
+
+
 ---
 title: "Arme +1"
 type: "Arme"
@@ -2932,6 +2660,8 @@ rarity: "Peu courant"
 attunement: false
 ---
 Vous bénéficiez d'un bonus de +1 aux jets d'attaque effectués avec cette arme magique.
+
+
 ---
 title: "Arme +2"
 type: "Arme"
@@ -2941,6 +2671,8 @@ attunement: false
 
 ---
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque effectués avec cette arme magique.
+
+
 ---
 title: "Arme +3"
 type: "Arme"
@@ -2950,6 +2682,8 @@ attunement: false
 
 ---
 Vous bénéficiez d'un bonus de +3 aux jets d'attaque  effectués avec cette arme magique.
+
+
 ---
 title: "Arme sacrée"
 type: "Arme"
@@ -2959,6 +2693,8 @@ attunement: true
 
 ---
 Cette arme en plus d'être considérée comme magique possède une propriété supérieure, elle est sacrée. Lorsqu'un coup critique est infligé, un bonus de 2d6 est octroyé pour la résolution du critique. Ainsi le jet critique avec des armes courantes sacrées se font à 4d6 et avec des armes de guerre sacrées à 5d6.  
+
+
 ---
 title: "Arme tueuse"
 type: "Arme"
@@ -2967,7 +2703,9 @@ rarity: "Artefact"
 attunement: true
 
 ---
-Cette arme en plus d'être considérée comme magique possède une propriété supérieure, elle est tueuse contre un type d'adversaire (Aberration, Bête, Céleste, etc...). Lorsqu'un coup critique est infligé, un bonus de 3d6 est octroyé pour la résolution du critique. Ainsi le jet critique avec des armes courantes tueuses se font à 5d6 et avec des armes de guerre tueuses à 6d6.---
+Cette arme en plus d'être considérée comme magique possède une propriété supérieure, elle est tueuse contre un type d'adversaire (Aberration, Bête, Céleste, etc...). Lorsqu'un coup critique est infligé, un bonus de 3d6 est octroyé pour la résolution du critique. Ainsi le jet critique avec des armes courantes tueuses se font à 5d6 et avec des armes de guerre tueuses à 6d6.
+
+---
 title: "Arme vicieuse"
 type: "Arme"
 subtype: "N'importe quelle arme"
@@ -2976,6 +2714,8 @@ attunement: false
 
 ---
 Lorsque vous obtenez une marge de 10 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires du type normalement infligé par l'arme.
+
+
 ---
 title: "Armure +1"
 type: "Armure"
@@ -2985,6 +2725,8 @@ attunement: false
 
 ---
 Vous disposez d'un bonus de +1 à la VD tant que vous portez cette armure.
+
+
 ---
 title: "Armure +2"
 type: "Armure"
@@ -2994,6 +2736,8 @@ attunement: false
 
 ---
 Vous disposez d'un bonus de +2 à la VD tant que vous portez cette armure.
+
+
 ---
 title: "Armure +3"
 type: "Armure"
@@ -3003,6 +2747,8 @@ attunement: false
 
 ---
 Vous disposez d'un bonus de +3 à la VD tant que vous portez cette armure.
+
+
 ---
 title: "Armure de mithral"
 type: "Armure"
@@ -3012,6 +2758,8 @@ attunement: false
 
 ---
 Le mithral est un métal léger et flexible, à tel point qu'on peut porter une chemise de mailles ou une cuirasse de cette matière sous des vêtements normaux. Si le type d'armure impose d'ordinaire un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) ou si une certaine valeur de Force figure parmi ses conditions requises, ce n'est pas le cas de sa version en mithral.
+
+
 ---
 title: "Armure de résistance"
 type: "Armure"
@@ -3034,6 +2782,8 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts.
 |**10**|Psychique|
 |**11**|Radiant|
 |**12**|Tonnerre|
+
+
 ---
 title: "Armure d'invulnérabilité"
 type: "Armure"
@@ -3043,6 +2793,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De plus, vous pouvez dépenser une action pour vous immuniser contre les dégâts non-magiques pendant 10 minutes ou jusqu'à ce que vous ne portiez plus l'armure. Lorsque vous êtes immunisez, vous ne pouvez pas subir plus de 1 PA de dégâts par coup. Une fois que vous avez utilisé cette action spéciale, vous ne pouvez plus vous en servir avant l'aube suivante.  
+
+
 ---
 title: "Armure en adamantium"
 type: "Armure"
@@ -3052,6 +2804,8 @@ attunement: false
 
 ---
 Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.
+
+
 ---
 title: "Baguette de détection de la magie"
 type: "Baguette"
@@ -3061,6 +2815,8 @@ attunement: false
 
 ---
 Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dépenser 1 charge par une action pour lancer le sort [détection de la magie](/grimoire/detection-de-la-magie/) par son biais. La baguette récupère 1d3 charges dépensées chaque jour, à l'aube.
+
+
 ---
 title: "Baguette de détection de l'ennemi"
 type: "Baguette"
@@ -3072,6 +2828,8 @@ attunement: "harmonisation requise"
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action et dépenser 1 charge pour prononcer son mot de commande. Pendant la minute qui suit, vous connaissez la direction (mais pas la distance) de la créature hostile envers vous la plus proche et située à 18 mètres ou moins. La baguette perçoit la présence des créatures hostiles éthérées, [_invisibles_](/gerer-la-sante-du-personnage/#invisible), déguisées ou cachées, en plus de celles exposées à la vue de tous. L'effet prend fin si vous ne tenez plus la baguette en main.
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un 3d6 si vous dépensez la dernière charge. Si vous obtenez 6 ou moins, elle est détruite et tombe en cendres.
+
+
 ---
 title: "Baguette de paralysie"
 type: "Baguette"
@@ -3083,6 +2841,8 @@ attunement: "harmonisation avec un lanceur de sorts exigée"
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges en direction d'une créature située à 18 mètres ou moins dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 pour ne pas être [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant 1 minute. À la fin de chacun des tours de la cible, elle peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un 3d6 si vous dépensez la dernière charge. La baguette est détruite et tombe en cendres si vous obtenez 6 ou moins.
+
+
 ---
 title: "Baguette des entraves"
 type: "Baguette"
@@ -3096,6 +2856,8 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 _**Sorts**_. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser certaines de ses charges et lancer un des sorts suivants (DD des jets de sauvegarde 17) : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) (5 charges) ou [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) (2 charges).
 
 _**Évasion facilitée**_. Avec cette baguette en main, vous pouvez utiliser votre réaction et vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectué pour ne pas vous retrouver [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) ou [_entravé_](/gerer-la-sante-du-personnage/#entrave). Vous pouvez aussi dépenser 1 charge de cette façon pour obtenir l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un test effectué pour éviter de vous retrouver [_empoigné_](/gerer-la-sante-du-personnage/#empoigne).
+
+
 ---
 title: "Baguette de terreur"
 type: "Baguette"
@@ -3109,6 +2871,8 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 _**Ordre**_. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 charge et ordonner à une créature de fuir ou de se mettre à plat ventre, comme avec le sort [_injonction_](/grimoire/injonction/) (DD des jets de sauvegarde 15).
 
 _**Cône de terreur**_. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 2 charges et projeter depuis l'extrémité de la baguette un cône de 18 mètres de lumière ambrée. Les créatures dans le cône doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15 pour ne pas être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) par votre présence pendant 1 minute. Terrorisée de cette façon, une créature doit consacrer ses tours à tenter de s'éloigner le plus loin possible de vous. Elle ne peut pas approcher volontairement à 9 mètres ou moins de vous. Elle ne peut plus non plus faire de réaction. En ce qui concerne ses actions, elle peut effectuer uniquement l'action [_se précipiter_](/combattre/#se-precipiter) ou tenter d'échapper à un effet qui l'empêche de se déplacer. Si elle n'a nulle part où aller, elle peut effectuer l'action [_esquiver_](/combattre/#esquiver). À la fin de chacun de ses tours, une créature peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et mettre fin à l'effet dont elle est victime en cas de réussite.
+
+
 ---
 title: "Bandeau d'intelligence"
 type: "Objet merveilleux"
@@ -3118,6 +2882,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est déjà de 19 ou plus, il n'a aucun effet sur vous.
+
+
 ---
 title: "Bâton de combat"
 type: "Bâton"
@@ -3129,6 +2895,8 @@ attunement: "harmonisation requise"
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque effectués par son biais.
 
 Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à corps en l'utilisant, vous pouvez dépenser jusqu'à 3 charges. Pour chaque charge dépensée, la cible subit 1d6 dégâts de force supplémentaires. Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un 3d6. La magie du bâton disparaît si vous obtenez 6 ou moins.  
+
+
 ---
 title: "Bâton de givre"
 type: "Bâton"
@@ -3142,6 +2910,8 @@ Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous t
 Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts : [_cône de froid_](/grimoire/cone-de-froid/) (5 charges), [_tempête de grêle_](/grimoire/tempete-de-grele/) (4 charges) ou [_mur de glace_](/grimoire/mur-de-glace/) (4 charges).
 
 Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un 3d6. Le bâton est détruit et se transforme en eau si vous obtenez 6 ou moins.  
+
+
 ---
 title: "Bâton de guérison"
 type: "Bâton"
@@ -3153,6 +2923,8 @@ attunement: "harmonisation avec un utilisateur de la voie de la Magie (Foi)"
 Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts et le modificateur de votre caractéristique d'incantation : [_soin des blessures_](/grimoire/soin-des-blessures/) (1 charge par niveau de sort, apprenti au maximum), [_restauration inférieure_](/grimoire/restauration-inferieure/) (2 charges) ou [_soin des blessures de groupe_](/grimoire/soin-des-blessures-de-groupe/) (5 charges).
 
 Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un 3d6. Le bâton disparaît en un éclat de lumière si vous obtenez 6 ou moins.  
+
+
 ---
 title: "Bâton d'envoûtement"
 type: "Bâton"
@@ -3166,6 +2938,8 @@ Tant que vous tenez ce bâton en main, vous pouvez utiliser une action pour dép
 Si vous tenez le bâton en main et ratez un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre un sort d'enchantement qui vous prend vous, et uniquement vous, pour cible, vous pouvez transformer votre [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté en réussite. Vous ne pourrez plus utiliser cette propriété du bâton jusqu'à l'aube suivante. Si vous réussissez un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre un sort d'enchantement qui vous prend vous, et uniquement vous, pour cible, avec ou sans l'intervention du bâton, vous pouvez utiliser votre réaction pour dépenser 1 charge du bâton et renvoyer le sort, comme si vous l'aviez vous-même lancé, vers son expéditeur.
 
 Le bâton récupère 1d6+2 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un 3d6. La magie du bâton disparaît si vous obtenez 6 ou moins.
+
+
 ---
 title: "Bâton de puissance"
 type: "Bâton"
@@ -3183,6 +2957,8 @@ _**Frappe surpuissante**_. Quand vous réussissez une attaque au corps à corps 
 _**Sorts**_. Tant que vous tenez ce bâton en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs charges et lancer un des sorts suivants, en appliquant le DD des jets de sauvegarde contre vos sorts et votre bonus d'attaque de sort : [_cône de froid_](/grimoire/cone-de-froid/) (5 charges), [_éclair_](/grimoire/eclair/) (version de niveau 5, 5 charges), [_globe d'invulnérabilité_](/grimoire/globe-d-invulnerabilite/) (6 charges), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) (5 charges), [_mur de force_](/grimoire/mur-de-force/) (5 charges), [_projectile magique_](/grimoire/projectile-magique/) (1 charge).
 
 _**Contrecoup vengeur**_. Vous pouvez utiliser une action pour briser le bâton sur votre genou ou une surface solide et déclencher son contrecoup vengeur. Le bâton est détruit et libère le reste de sa magie en une explosion en forme de sphère de 9 mètres de rayon centrée sur lui.
+
+
 ---
 title: "Bol de contrôle des élémentaires d'eau"
 type: "Objet merveilleux"
@@ -3194,6 +2970,8 @@ attunement: false
 Tant que ce bol est rempli d'eau, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'eau, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le bol.
 
 Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres de profondeur. Vide, il pèse 1,5 kilo et contient dans les 10 litres.
+
+
 ---
 title: "Bottes de discrétion"
 type: "Objet merveilleux"
@@ -3203,6 +2981,8 @@ attunement: false
 
 ---
 Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle que soit la surface que vous traversez. Vous obtenez également l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) basés sur le silence de vos déplacements.
+
+
 ---
 title: "Bottes de marche et de saut"
 type: "Objet merveilleux"
@@ -3212,6 +2992,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moins qu'elle ne soit déjà supérieure) et elle ne se réduit pas si vous êtes encombré ou portez une armure lourde. De plus, vous pouvez sauter trois fois plus loin que la normale, sans dépasser la distance que vous pourriez parcourir avec la distance de déplacement qui vous reste.
+
+
 ---
 title: "Bottes de rapidité"
 type: "Objet merveilleux"
@@ -3221,6 +3003,8 @@ attunement: "harmonisation requise"
 
 ---
 Quand que vous portez ces bottes, vous pouvez utiliser une action bonus pour doubler votre vitesse au sol et toute créature effectuant une attaque d'opportunité contre vous subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du jet d'attaque. Vous mettez un terme à l'effet si vous claquez de nouveau des talons.
+
+
 ---
 title: "Bottes des terres gelées"
 type: "Objet merveilleux"
@@ -3233,6 +3017,8 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 * Vous êtes résistants aux dégâts de froid.
 * Vous ignorez les terrains rendus difficiles à cause de la glace ou de la neige.
 * Vous supportez des températures descendant jusqu'à -45°C sans protection supplémentaire. Si vous portez des vêtements chauds, vous supportez des températures allant jusqu'à -75°C.
+
+
 ---
 title: "Bouclier +1"
 type: "Armure"
@@ -3242,6 +3028,8 @@ attunement: false
 
 ---
 Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +1 à la VD. Ce bonus vient en plus du bonus normal à la VD que le bouclier confère.
+
+
 ---
 title: "Bouclier +2"
 type: "Armure"
@@ -3251,6 +3039,8 @@ attunement: false
 
 ---
 Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +2 à la VD. Ce bonus vient en plus du bonus normal à la VD que le bouclier confère.
+
+
 ---
 title: "Bouclier +3"
 type: "Armure"
@@ -3260,6 +3050,8 @@ attunement: false
 
 ---
 Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +3 à la VD. Ce bonus vient en plus du bonus normal à la VD que le bouclier confère.
+
+
 ---
 title: "Bouclier antiprojectiles"
 type: "Armure"
@@ -3269,6 +3061,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la VD contre les attaques à distance. Ce bonus s'ajoute au bonus que le bouclier apporte déjà d'ordinaire à la VD. De plus, quand un assaillant effectue une attaque à distance contre une cible située à 1,50 mètre de vous ou moins, vous pouvez utiliser votre réaction pour devenir la cible de cette attaque à sa place.
+
+
 ---
 title: "Bouclier de Hroljnir"
 type: "Armure"
@@ -3287,6 +3081,8 @@ _**Don des géants**_. Une fois harmonisé au bouclier, vous gagnez les bénéfi
 * Votre Force augmente de 2, avec un maximum de 24.
 * Vous parlez la langue ancienne des géants.
 * Lorsque vous effectuez une attaque avec une arme, vous pouvez utiliser une action bonus pour infliger 1d6 dommages supplémentaires de type acide, feu, froid, foudre ou poison, au choix.
+
+
 ---
 title: "Bouclier de protection contre la magie"
 type: "Armure"
@@ -3296,6 +3092,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous tenez ce bouclier, vous vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques. De plus, les attaques de sort subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsqu'elles vous prennent pour cible.
+
+
 ---
 title: "Boule de cristal"
 type: "Objet merveilleux"
@@ -3305,6 +3103,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous pouvez lancer le sort [_scrutation_](/grimoire/scrutation/) (DD 17) par son intermédiaire.
+
+
 ---
 title: "Boule de cristal de lecture des pensées"
 type: "Objet merveilleux"
@@ -3316,6 +3116,8 @@ attunement: "harmonisation requise"
 Vous pouvez lancer le sort [_scrutation_](/grimoire/scrutation/) (DD 17) par son intermédiaire.
 
 Vous pouvez dépenser une action pour lancer le sort [_détection des pensées_](/grimoire/detection-des-pensees/) (DD 17) tandis que vous êtes en pleine scrutation avec la _boule de cristal_. Vous devez prendre pour cible une créature située dans un rayon de 9 mètres autour de l'organe sensoriel et visible à travers lui. Vous n'avez pas besoin de vous concentrer sur cette détection des pensées pour la maintenir pendant toute sa durée, mais elle se termine en même temps que la scrutation.
+
+
 ---
 title: "Boule de cristal de télépathie"
 type: "Objet merveilleux"
@@ -3327,6 +3129,8 @@ attunement: "harmonisation requise"
 Vous pouvez lancer le sort [_scrutation_](/grimoire/scrutation/) (DD 17) par son intermédiaire.
 
 Pendant que vous scrutez quelque chose avec la _boule de cristal_, vous pouvez communiquer par télépathie avec les créatures situées dans un rayon de 9 mètres autour de l'organe sensoriel et visibles à travers lui. Vous pouvez aussi utiliser une action pour lancer le sort [_suggestion_](/grimoire/suggestion/) (DD 17) sur l'une de ces créatures par l'intermédiaire de l'organe sensoriel. Vous n'avez pas besoin de vous concentrer sur cette suggestion pour la maintenir pendant toute sa durée, mais elle se termine en même temps que la scrutation. Une fois le pouvoir de suggestion de la boule utilisé, vous devez attendre l'aube suivante avant de pouvoir vous en servir à nouveau.
+
+
 ---
 title: "Boule de cristal de vision suprême"
 type: "Objet merveilleux"
@@ -3338,6 +3142,8 @@ attunement: "harmonisation requise"
 Vous pouvez lancer le sort [_scrutation_](/grimoire/scrutation/) (DD 17) par son intermédiaire.
 
 Pendant que vous utilisez la _boule de cristal_ pour scruter quelque chose, vous bénéficiez de la [_vision suprême_](/grimoire/vision-supreme/) dans un rayon de 36 mètres autour de l'organe sensoriel.
+
+
 ---
 title: "Bouteille fumigène"
 type: "Objet merveilleux"
@@ -3349,6 +3155,8 @@ attunement: false
 De la fumée s'échappe du goulot de cette bouteille pourtant scellée au plomb et pesant 0,5 kilo. Quand vous utilisez une action pour la déboucher, un épais nuage de fumée se déverse dans un rayon de 18 mètres autour de la bouteille. La visibilité est nulle dans le nuage. À chaque fois que la bouteille passe une minute ouverte au sein du nuage, le rayon de ce dernier augmente de 3 mètres, jusqu'à ce qu'il atteigne son rayon maximum, à savoir 36 mètres.
 
 Le nuage persiste tant que la bouteille est ouverte. Pour la fermer, vous devez prononcer son mot de commande par une action. Une fois la bouteille fermée, le nuage se dissipe en 10 minutes. Un vent modéré (16 à 30 km/h) disperse la fumée en 1 minute tandis qu'un vent fort (31 km/h ou plus) la dissipe en 1 round.
+
+
 ---
 title: "Bracelets d'archerie"
 type: "Objet merveilleux"
@@ -3358,6 +3166,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et gagnez un bonus de +2 aux jets des attaques à distance avec ces armes.
+
+
 ---
 title: "Bracelets de défense"
 type: "Objet merveilleux"
@@ -3367,6 +3177,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la VD, à condition que vous ne portiez ni armure, ni bouclier.
+
+
 ---
 title: "Brasero de contrôle des élémentaires du feu"
 type: "Objet merveilleux"
@@ -3378,6 +3190,8 @@ attunement: false
 Tant qu'un feu brûle dans ce brasero en laiton, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire du feu, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le brasero.
 
 Le brasero pèse 2,5 kilos.
+
+
 ---
 title: "Broche de protection"
 type: "Objet merveilleux"
@@ -3386,6 +3200,8 @@ rarity: "Peu courant"
 attunement: "harmonisation requise"
 ---
 Tant que vous portez cette broche, vous êtes résistant aux dégâts de force et vous êtes immunisé contre les dégâts du sort de [_projectile magique_](/grimoire/projectile-magique/).
+
+
 ---
 title: "Cape de camouflage"
 type: "Objet merveilleux"
@@ -3395,6 +3211,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tentent un test de Sagesse (Perception) pour vous voir subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), tandis que vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) effectués pour vous cacher, car les teintes de la cape se modifient pour vous camoufler au mieux. Il faut une action pour tirer ou rabattre la capuche.
+
+
 ---
 title: "Cape de déplacement"
 type: "Objet merveilleux"
@@ -3404,6 +3222,8 @@ attunement: "harmonisation requise"
 
 ---
 Quand vous enfilez cette cape, les créatures qui vous attaquent subissent donc un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leur jet d'attaque contre vous. Si vous subissez des dégâts, cette propriété cesse de fonctionner jusqu'au début de votre prochain tour. Elle ne fonctionne pas non plus si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), [_entravé_](/gerer-la-sante-du-personnage/#entrave) ou incapable de bouger.
+
+
 ---
 title: "Cape de la chauve-souris"
 type: "Objet merveilleux"
@@ -3413,6 +3233,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez cette cape, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion). Dans les zones de faible lumière ou de ténèbres, vous pouvez attraper les bords de la cape à pleine main et vous en servir pour planer à une vitesse de 12 mètres. Si vous ne tenez plus les bords de la cape alors que vous volez ainsi ou si vous n'êtes plus dans une zone de faible lumière ou de ténèbres, vous perdez cette vitesse de vol.
+
+
 ---
 title: "Cape de la truite"
 type: "Objet merveilleux"
@@ -3422,6 +3244,8 @@ attunement: false
 
 ---
 Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sous l'eau et vous bénéficiez d'une vitesse de nage de 18 mètres. Il faut dépenser une action pour coiffer le capuchon ou le repousser.
+
+
 ---
 title: "Cape de protection"
 type: "Objet merveilleux"
@@ -3431,6 +3255,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous gagnez un bonus de +1 à la VD et aux jets de sauvegarde tant que vous portez cette cape.
+
+
 ---
 title: "Carillon d'ouverture"
 type: "Objet merveilleux"
@@ -3442,6 +3268,8 @@ attunement: false
 Ce tube métallique creux mesure une trentaine de centimètres de long pour 0,5 kilo. Vous pouvez utiliser une action pour le faire tinter et le pointer sur un objet que l'on peut ouvrir et qui se situe dans un rayon de 36 mètres, comme une porte, un couvercle ou un verrou. Le carillon émet un son clair et l'une des serrures ou l'un des verrous qui fermait l'objet s'ouvre soudain, à moins que le son ne puisse pas atteindre l'objet. S'il n'y a plus ni verrou ni serrure, l'objet s'ouvre.
 
 Le carillon dispose de dix utilisations. Il se fissure après la dixième et ne sert plus à rien.
+
+
 ---
 title: "Casque de compréhension des langages"
 type: "Objet merveilleux"
@@ -3451,6 +3279,8 @@ attunement: false
 
 ---
 Tant que vous portez ce casque, vous pouvez utiliser une action pour lancer [_compréhension des langues_](/grimoire/comprehension-des-langues/) à volonté par son intermédiaire.
+
+
 ---
 title: "Heaume de télépathie"
 type: "Objet merveilleux"
@@ -3462,6 +3292,8 @@ attunement: "harmonisation requise"
 Tant que vous portez ce casque, vous pouvez utiliser une action pour lancer [_détection des pensées_](/grimoire/detection-des-pensees/) (DD 13) par son intermédiaire. Tant que vous restez concentré sur le sort, vous pouvez utiliser une action bonus pour envoyer un message télépathique à une créature sur laquelle vous vous concentrez. Elle peut vous répondre (en utilisant une action bonus) tant que vous restez concentré sur elle.
 
 Tant que vous vous concentrez sur une créature avec [_détection des pensées_](/grimoire/detection-des-pensees/), vous pouvez utiliser une action pour lancer le sort [_suggestion_](/grimoire/suggestion/) (DD 13) sur elle par l'intermédiaire du casque. Une fois que vous avez utilisé ce pouvoir, vous devez attendre l'aube suivante avant de pouvoir recommencer.
+
+
 ---
 title: "Ceinturon de force de géant des collines"
 type: "Objet merveilleux"
@@ -3471,6 +3303,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 21. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
+
+
 ---
 title: "Ceinturon de force de géant des nuages"
 type: "Objet merveilleux"
@@ -3480,6 +3314,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 27. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
+
+
 ---
 title: "Ceinturon de force de géant des pierres/du givre"
 type: "Objet merveilleux"
@@ -3491,6 +3327,8 @@ attunement: "harmonisation requise"
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 23. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
 
 Le _ceinturon de force de géant des pierres_ et le _ceinturon de force de géant du givre_ ont une apparence différente mais offrent les mêmes effets.
+
+
 ---
 title: "Ceinturon de force de géant des tempêtes"
 type: "Objet merveilleux"
@@ -3500,6 +3338,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 29. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
+
+
 ---
 title: "Ceinturon de force de géant du feu"
 type: "Objet merveilleux"
@@ -3509,6 +3349,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 25. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
+
+
 ---
 title: "Ceinturon des nains"
 type: "Objet merveilleux"
@@ -3524,6 +3366,8 @@ Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :
 * Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre le poison et vous êtes résistant contre les dégâts de poison.
 * Vous gagnez la vision dans le noir à une distance de 18 mètres.
 * Vous parlez, lisez et écrivez l'ancienne langue des nains.
+
+
 ---
 title: "Chapelet"
 type: "Objet merveilleux"
@@ -3543,6 +3387,8 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 |**9-11**|Faveur|[_Restauration supérieure_](/grimoire/restauration-superieure/)|
 |**12-14**|Châtiment|[_Frappe lumineuse_](/grimoire/frappe-lumineuse/)|
 |**15-18**|Convocations|[_Allié planaire_](/grimoire/allie-planaire/)|
+
+
 ---
 title: "Chaussons de l'araignée"
 type: "Objet merveilleux"
@@ -3552,6 +3398,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer le long de surfaces verticales avec un bonus de +10 aux tests d'athlétismes. Vous disposez d'une vitesse d'escalade égale à votre vitesse au sol. Les chaussons ne permettent toutefois pas de se déplacer de cette façon sur des surfaces glissantes, si elles sont recouvertes de glace ou d'huile, par exemple.
+
+
 ---
 title: "Chemise de mailles selmonite"
 type: "Armure"
@@ -3561,6 +3409,8 @@ attunement: false
 
 ---
 Vous gagnez un bonus de +1 à la VD tant que vous portez cette armure. Vous êtes considéré comme maîtrisant le port de cette armure, même si vous ne maîtrisez pas les armures intermédiaires.
+
+
 ---
 title: "Cierge d'invocation"
 type: "Objet merveilleux"
@@ -3586,6 +3436,8 @@ Ce mince cierge est dédié à une divinité précise et partage son alignement.
 La magie du cierge s'active quand on l'allume, ce qui demande une action. Il est détruit après 4 heures de combustion. Vous pouvez l'éteindre avant pour le réutiliser plus tard. Déduisez chaque période de combustion (par portions d'une minute) de la durée totale de combustion du cierge.
 
 Tant que le cierge est allumé, il émet une faible lumière dans un rayon de 9 mètres. Chaque créature baignée dans cette lumière et disposant du même alignement que le cierge obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de sauvegarde ainsi que lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, un utilisateur de la voie de la Magie présent dans la lumière et disposant du même alignement que le cierge peut lancer les sorts à la moitié du coût normal sans jamais être inférieur à 1.
+
+
 ---
 title: "Cimeterre de célérité"
 type: "Arme"
@@ -3595,6 +3447,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque avec cette arme magique. De plus, vous pouvez effectuer une attaque avec elle par une action bonus lors de chacun de vos tours.
+
+
 ---
 title: "Collier d'adaptation"
 type: "Objet merveilleux"
@@ -3604,6 +3458,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit l'environnement dans lequel vous vous trouvez, et vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les gaz et vapeurs toxiques (comme un [_nuage mortel_](/grimoire/nuage-mortel/) ou un [_nuage puant_](/grimoire/nuage-puant/), un poison par inhalation ou le souffle de certaines créatures).
+
+
 ---
 title: "Cuir clouté glamour"
 type: "Armure"
@@ -3613,6 +3469,8 @@ attunement: false
 
 ---
 Tant que vous portez cette armure, vous gagnez un bonus de +1 à la VD. Cette armure à l'apparence d'habits normaux en un peu renforcé. Elle ne se salie pas.
+
+
 ---
 title: "Dague assassyr'him"
 type: "Arme"
@@ -3624,6 +3482,8 @@ attunement: false
 Dague assassyr'him (finesse, légère, portée 6/18) 4 de dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 ![Dague assassyr'him](https://www.douaratil.fr/illustrations/objet/dagueassassyrhim.jpg)
+
+
 ---
 title: "Dague +1 de retour"
 type: "Arme"
@@ -3633,6 +3493,8 @@ attunement: "harmonisation requise"
 
 ---
 La dague est infusée de deux Omath magiques. Le premier donne un bonus de +1. Le second permet de lancer sa dague dans la limite de la portée et de la rappeler dans le même round ou au suivant au prix d'une action bonus tant que le lanceur se trouve dans la portée.  
+
+
 ---
 title: "Dague venimeuse"
 type: "Arme"
@@ -3644,6 +3506,8 @@ attunement: false
 Vous gagnez un bonus de +1 aux jets d'attaque effectués avec cette arme magique.
 
 Vous pouvez dépenser une action pour qu'un épais poison noir enduise la lame. Il persiste pendant 1 minute ou jusqu'à ce que l'arme touche une créature suite à une attaque. Cette créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou subir 4d6 dégâts de poison. Il faut attendre l'aube suivante pour pouvoir utiliser de nouveau la dague de cette manière.
+
+
 ---
 title: "Encensoir de contrôle des élémentaires de l'air"
 type: "Objet merveilleux"
@@ -3655,6 +3519,8 @@ attunement: false
 Tant que de l'encens brûle dans cet encensoir, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'air, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi l'encensoir.
 
 L'encensoir ressemble à un calice de 15 centimètres de large pour 30 centimètres de haut fermé d'un couvercle ornementé. Il pèse 0,5 kilo.
+
+
 ---
 title: "Épée ardente"
 type: "Arme"
@@ -3664,6 +3530,8 @@ attunement: "harmonisation requise"
 
 ---
 Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette épée magique et envelopper sa lame d'un linceul de flammes qui émettent une vive lumière dans un rayon de 12 mètres et une faible lumière dans un rayon de 12 mètres de plus. Tant que l'épée est embrasée, elle inflige 2d6 dégâts de feu supplémentaire à toute cible qu'elle touche. Les flammes brûlent jusqu'à ce que vous dépensiez une action bonus pour prononcer de nouveau le mot de commande ou jusqu'à ce que vous lâchiez ou rengainiez l'épée.
+
+
 ---
 title: "Epée courte +2"
 type: "Arme"
@@ -3674,6 +3542,8 @@ attunement: false
 ---
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque effectués avec cette épée courte magique.  
 ![Epée courte +2](https://www.douaratil.fr/illustrations/objet/epeecourte2.jpg)
+
+
 ---
 title: "Épée mordante"
 type: "Arme"
@@ -3685,6 +3555,8 @@ attunement: "harmonisation requise"
 Seul un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long permet de récupérer les points de vie perdus à cause des dégâts infligés par cette arme. Ni la régénération, ni la magie, ni aucun autre moyen ne peuvent soigner ces points de vie perdus.
 
 Une fois par tour, lorsque vous réussissez une attaque contre une créature avec cette arme magique, vous pouvez inciser la cible. Au début de chacun des tours de la créature ainsi incisée, celle-ci subit 1d6 dégâts nécrotiques pour chaque attaque d'incision réussie à son encontre. Elle peut ensuite effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 et mettre fin à l'effet de la totalité des incisions dont elle est victime en cas de réussite. Par ailleurs, une créature incisée, ou une autre créature située à 1,50 mètre ou moins d'elle, peut utiliser une action pour effectuer un test de Sagesse (Médecine) DD 15 et mettre fin à l'effet des incisions dont elle est victime en cas de réussite.
+
+
 ---
 title: "Épée tranchante"
 type: "Arme"
@@ -3695,6 +3567,8 @@ attunement: "harmonisation requise"
 ---
 
 Quand vous attaquez une créature avec cette arme et obtenez une marge de 10 au jet d'attaque, la cible subit 4d6 dégâts tranchants supplémentaires. Lancez ensuite un autre 3d6 (explosifs). Si vous obtenez 20 ou plus, vous lui tranchez un de ses membres et l'effet de cette perte est laissé à l'appréciation du MJ. Si la créature ne possède aucun membre à trancher, vous tranchez une partie de son corps à la place.
+
+
 ---
 title: "Épée voleuse de vie"
 type: "Arme"
@@ -3704,6 +3578,8 @@ attunement: "harmonisation requise"
 
 ---
 Quand vous attaquez une créature avec cette arme magique et obtenez une marge de 10 sur le jet d'attaque, la cible subit 3d6 dégâts nécrotiques supplémentaires, à condition qu'elle ne soit ni une créature artificielle, ni un mort-vivant. Vous gagnez un nombre de points d'action temporaires égal aux dégâts supplémentaires infligés.
+
+
 ---
 title: "Épée vorpale"
 type: "Arme"
@@ -3715,6 +3591,8 @@ attunement: "harmonisation requise"
 Vous obtenez un bonus de +3 aux jets d'attaque effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.
 
 Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez une marge de 10 au jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.
+
+
 ---
 title: "Éventail enchanté"
 type: "Objet merveilleux"
@@ -3724,6 +3602,8 @@ attunement: false
 
 ---
 Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort [_bourrasque_](/grimoire/bourrasque/) (DD des jets de sauvegarde contre le sort 13). Suite à cette première utilisation, l'éventail ne peut plus être utilisé sans risque de l'abîmer avant l'aube suivante. Chaque fois qu'il est utilisé une fois de plus avant l'aube prochaine, il y a 20% de chances cumulatives qu'il ne fonctionne pas et se casse pour devenir un éventail déchiré ordinaire et inutile.
+
+
 ---
 title: "Fer gelé"
 type: "Arme"
@@ -3735,6 +3615,8 @@ attunement: "harmonisation requise"
 Quand vous touchez une créature suite à une attaque avec cette arme magique, votre cible subit 1d6 dégâts de froid supplémentaire. De plus, vous êtes résistant aux dégâts de feu tant que vous tenez cette épée.
 
 Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-magiques situées dans un rayon de 9 mètres autour de vous. Ce pouvoir s'utilise seulement une fois par heure.
+
+
 ---
 title: "Fers de rapidité"
 type: "Objet merveilleux"
@@ -3744,6 +3626,8 @@ attunement: false
 
 ---
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils augmentent sa vitesse au sol de 9 mètres.
+
+
 ---
 title: "Flasque de fer"
 type: "Objet merveilleux"
@@ -3775,6 +3659,8 @@ Le sort [_identification_](/grimoire/identification/) révèle si la flasque con
 |**22**|[Planétar](/bestiaire/planetar/)|
 |**23**|[Solar](/bestiaire/solar/)|
 |**24**|[Shukkushe-Ikhushe](/bestiaire/shukkushe-ikhushe/)|
+
+
 ---
 title: "Flèche tueuse"
 type: "Arme"
@@ -3786,6 +3672,8 @@ attunement: false
 Une _flèche tueuse_ est une arme magique conçue pour tuer un type précis de créature. Si une créature appartient au type, à la race ou au groupe associé à la flèche, elle subit les dégâts normaux et doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17. Si elle le rate, elle reçoit 10d6 dégâts perforants supplémentaires, la moitié seulement si elle réussit.
 
 Dès que la _flèche tueuse_ a infligé des dégâts supplémentaires à une créature, elle redevient une simple flèche ordinaire.
+
+
 ---
 title: "Flûte de charme"
 type: "Objet merveilleux"
@@ -3798,6 +3686,8 @@ Cette flûte d'apparence banale permet de jouer des airs qui influent sur l'audi
 - Test de musique DD 12 : 2 X par jour [amitié avec les animaux](/grimoire/amitie-avec-les-animaux)
 - Test de musique DD 12 : 2 X par jour [bagou](/grimoire/bagou)
 - Test de musique DD 16 : 2 X par jour [charme personne](/grimoire/charme-personne)
+
+
 ---
 title: "Flûte des égouts"
 type: "Objet merveilleux"
@@ -3811,6 +3701,8 @@ Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flû
 La flûte a trois charges. Si vous utilisez une action pour jouer de la flûte, vous pouvez dépenser une action bonus pour utiliser de 1 à 3 charges et appeler une [nuée de rats](/bestiaire/nuee-de-rats/) par charge dépensée, à condition qu'il y ait assez de rats dans un rayon d'un kilomètre pour répondre ainsi à votre appel (c'est au MJ d'en décider). S'il n'y a pas assez de rats pour former une nuée, la charge est gaspillée. Une nuée ainsi appelée se précipite vers l'origine de la musique par le chemin le plus court, mais vous ne la contrôlez pas. Chaque jour à l'aube, la flûte récupère 1d3 charges dépensées.
 
 Quand une [nuée de rats](/bestiaire/nuee-de-rats/) qui ne se trouve pas sous le contrôle d'une tierce personne arrive dans un rayon de 9 mètres autour de vous alors que vous jouez de la flûte, vous pouvez faire un test de Charisme opposé au test de Sagesse de la nuée. Si vous perdez, la nuée se comporte comme elle le ferait d'ordinaire et ne se laisse plus influencer par la musique de la flûte pendant les 24 heures qui suivent. Si vous l'emportez, la nuée est envoûtée par votre mélodie et se montre amicale envers vous et vos compagnons tant que vous continuez de jouer en dépensant une action à chaque round. Une nuée amicale obéit à vos ordres. Si vous n'en donnez pas, elle se défend mais, en dehors de cela, elle n'entreprend pas la moindre action. Si une nuée est amicale mais débute son tour dans l'incapacité d'entendre la flûte, vous en perdez le contrôle et elle se comporte comme le veut sa nature. La musique de la flûte ne l'influence plus pendant les 24 heures suivantes.
+
+
 ---
 title: "Flûte terrifiante"
 type: "Objet merveilleux"
@@ -3820,6 +3712,8 @@ attunement: false
 
 ---
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte dotée de 3 charges. Vous pouvez utiliser une action pour jouer et dépenser une charge pour créer une étrange mélodie envoûtante. Chaque créature qui se situe dans un rayon de 9 mètres autour de vous et vous entend jouer doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15, sans quoi vous la _terrorisez_ pendant 1 minute. Si vous le désirez, toutes les créatures qui ne sont pas hostiles envers vous mais sont présentes dans la zone réussissent automatiquement leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Une créature qui a raté son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) peut le refaire à la fin de chacun de ses tours. L'effet se termine pour elle dès qu'elle le réussit. Si une créature réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre la flûte, elle est immunisée contre ses effets pendant 24 heures. Chaque matin à l'aube, la flûte récupère 1d3 charges dépensées.
+
+
 ---
 title: "Gantelets de puissance d'ogre"
 type: "Objet merveilleux"
@@ -3829,6 +3723,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est déjà de 19 ou plus, ils n'ont aucun effet sur vous.
+
+
 ---
 title: "Gants de nage et d'escalade"
 type: "Objet merveilleux"
@@ -3838,6 +3734,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
+
+
 ---
 title: "Gemme de vision"
 type: "Objet merveilleux"
@@ -3849,6 +3747,8 @@ attunement: "harmonisation requise"
 Cette gemme a 3 charges. Vous pouvez prononcer son mot de commande par une action et dépenser une charge. Pendant les 10 minutes suivantes, vous disposez de la [vision parfaite](/partir-a-l-aventure/#vision-parfaite) dans un rayon de 36 mètres, à condition de regarder à travers la gemme.
 
 Chaque matin à l'aube, la gemme récupère 1d3 charges dépensées.
+
+
 ---
 title: "Hache de berserker"
 type: "Arme"
@@ -3862,6 +3762,8 @@ Vous gagnez un bonus de +1 aux jets d'attaque liés à cette arme magique. De pl
 _**Malédiction**_. Cette hache est maudite et vous transmet sa malédiction dès que vous vous harmonisez avec elle. Tant que vous êtes maudit, vous refusez catégoriquement de vous séparer de la hache et la gardez à portée de main en toute circonstance. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous effectuez un jet d'attaque avec une autre arme, à moins que vous ne voyiez et n'entendiez pas d'ennemis dans un rayon de 18 mètres.
 
 Quand une créature hostile vous blesse alors que vous êtes en possession de cette hache, vous devez réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15 ou devenir fou furieux. Dans ce cas, vous devez utiliser votre action du round pour attaquer la créature la plus proche de vous avec la hache. Si vous êtes en mesure de porter des attaques supplémentaires lors d'une action d'Attaque, vous le faites et vous vous déplacez pour attaquer la créature la plus proche après votre cible actuelle une fois que vous avez éliminé celle-ci. Si vous avez plusieurs cibles à disposition, vous en attaquez une au hasard. Vous restez fou furieux jusqu'à ce que vous commenciez votre tour sans la moindre créature visible ou audible dans un rayon de 18 mètres.
+
+
 ---
 title: "Huile d'affûtage"
 type: "Potion"
@@ -3871,6 +3773,8 @@ attunement: false
 
 ---
 Cette huile claire et gélatineuse est constellée de minuscules paillettes d'argent. On peut s'en servir pour enduire une arme tranchante ou perforante ou bien 5 munitions tranchantes ou perforantes au maximum. Il faut 1 minute pour appliquer l'huile, ensuite, l'objet enduit devient magique et doté d'un bonus de +3 aux jets d'attaque pendant 1 heure.
+
+
 ---
 title: "Huile glissante"
 type: "Potion"
@@ -3882,6 +3786,8 @@ attunement: false
 Cet épais onguent noir est dense et lourd tant qu'il reste dans son récipient, mais il coule avec fluidité dès qu'on le verse. Il permet de recouvrir une créature de taille M ou inférieure (il faut verser une fiole de plus pour chaque catégorie de taille au-dessus de M). Il faut 10 minutes pour appliquer l'huile. La créature affectée bénéficie alors des effets du sort [_liberté de mouvement_](/grimoire/liberte-de-mouvement/) pendant 8 heures.
 
 Sinon, vous pouvez verser l'huile à terre par une action. Elle recouvre une zone de 3 mètres de côté et produit les mêmes effets que le sort [_graisse_](/grimoire/graisse/).
+
+
 ---
 title: "Lame porte-bonheur"
 type: "Arme"
@@ -3895,6 +3801,8 @@ Vous gagnez un bonus de +1 aux jets d'attaque avec cette arme magique. Tant qu'e
 _**Chance**_. Si l'épée se trouve sur votre personne, vous pouvez faire appel à sa chance (sans faire d'action) pour relancer un jet d'attaque, un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ou un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) qui vous déplaît. Vous devez conserver le résultat du second jet. Il faut attendre l'aube suivante avant de pouvoir se servir de nouveau de cette propriété.
 
 _**Souhait**_. L'épée dispose de 1d6-1 charges. Tant qu'elle se trouve en votre possession, vous pouvez utiliser une action pour dépenser une charge et lancer le sort [_souhait_](/grimoire/souhait/). Il est impossible de se servir de nouveau de cette propriété avant l'aube suivante. L'épée perd ce pouvoir si elle n'a plus de charge.
+
+
 ---
 title: "Lanterne de révélation"
 type: "Objet merveilleux"
@@ -3904,6 +3812,8 @@ attunement: false
 
 ---
 Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en consommant 0,5 litre d'huile. Elle émet alors une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) situés dans la zone de vive lumière de la lanterne deviennent visibles. Vous pouvez utiliser une action pour baisser la capote et réduire la luminosité à une faible lumière dans un rayon de 1,50 mètre.
+
+
 ---
 title: "Lyre de la reine sylvestre"
 type: "Objet merveilleux"
@@ -3924,6 +3834,8 @@ _**Bénédiction sylvestre**_. Si vous êtes harmonisé à la lyre, vous gagnez 
 _**Sorts divins**_. En jouant de la lyre, vous pouvez lancer le sort suivant : [_guérison de groupe_](/grimoire/guerison-de-groupe/). La musique de la lyre remplace toutes les composantes des sorts. Une fois que vous avez lancé un sort grâce à la lyre, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de réutiliser cette capacité.
 
 _**Détruire la lyre**_. Seule la joie véritable de la reine sylvestre pourrait détruire la lyre. Une véritable quête épique attend celui qui voudrait retrouver le nom de cette reine, la ramener à la vie et lui ramener son époux décédé à l'aube des temps. La lyre perdrait tout pouvoir si la reine, enfin heureuse, y jouait quelques notes.
+
+
 ---
 title: "Manteau de résistance aux sorts"
 type: "Objet merveilleux"
@@ -3933,6 +3845,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez ce manteau, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts.
+
+
 ---
 title: "Manuel de bonne santé"
 type: "Objet merveilleux"
@@ -3942,6 +3856,8 @@ attunement: false
 
 ---
 Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainement, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Constitution augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie, mais elle se recharge au bout d'un siècle.
+
+
 ---
 title: "Manuel de vivacité"
 type: "Objet merveilleux"
@@ -3951,6 +3867,8 @@ attunement: false
 
 ---
 Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Dextérité augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
+
+
 ---
 title: "Manuel d'exercices physiques"
 type: "Objet merveilleux"
@@ -3960,6 +3878,8 @@ attunement: false
 
 ---
 Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Force augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
+
+
 ---
 title: "Marteau de lancer"
 type: "Arme"
@@ -3969,6 +3889,8 @@ attunement: "harmonisation requise avec un nain"
 
 ---
 Vous gagnez un bonus de +3 aux jets d'attaque avec cette arme magique. Elle dispose de la propriété de lancer à une portée normale de 6 mètres et une longue portée de 18 mètres. Quand vous touchez votre cible avec une attaque à distance effectuée avec cette arme, elle inflige 1d6 dégâts supplémentaires ou 2d6 dégâts supplémentaires si la cible est de taille grande ou supérieure. L'arme revient dans votre main immédiatement après l'attaque.
+
+
 ---
 title: "Marteau du tonnerre"
 type: "Arme"
@@ -3982,6 +3904,8 @@ Vous gagnez un bonus de +1 aux jets d'attaque  avec cette arme magique.
 _**Tueur de géant (harmonisation requise)**_. Pour vous harmoniser avec cette arme, vous devez porter un ceinturon de force de géant et des gantelets de puissance d'ogre. L'harmonisation se rompt si vous ôtez l'un de ces objets. Tant que vous êtes harmonisé avec cette arme et que vous la tenez en main, votre valeur de Force augmente de 4 et peut dépasser 20, mais pas 30. Quand vous obtenez un 20 au dé sur un jet d'attaque effectué avec cette arme contre un géant, ce dernier doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 ou mourir sur-le-champ.
 
 Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous pouvez dépenser une charge pour faire une attaque d'arme à distance avec lui et le lancer comme s'il disposait de la propriété lancer avec une portée normale de 6 mètres et une portée longue de 18 mètres. Si l'attaque touche, le marteau fait résonner un coup de tonnerre qui s'entend dans un rayon de 90 mètres. La cible et toutes les créatures situées dans un rayon de 9 mètres autour d'elle doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se trouver étourdies jusqu'à la fin de votre prochain tour. Chaque matin à l'aube, le marteau récupère 1d4+1 charges dépensées.
+
+
 ---
 title: "Masse d'anéantissement"
 type: "Arme"
@@ -3991,6 +3915,8 @@ attunement: "harmonisation requise"
 
 ---
 Quand vous touchez un fiélon ou un mort-vivant avec cette arme magique, cette créature subit 2d6 dégâts radiants supplémentaires. Si la cible se retrouve avec 25 points d'action ou moins après avoir subi ces dégâts, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15, sans quoi elle est détruite. Si elle réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) : elle a peur de vous jusqu'à la fin de votre prochain tour.
+
+
 ---
 title: "Masse d'armes vicieuse"
 type: "Arme"
@@ -4001,6 +3927,8 @@ attunement: false
 ---
 Lorsque vous obtenez une marge de 10 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires contondant infligé par l'arme.   
 ![Masse d'arme vicieuse](https://www.douaratil.fr/illustrations/objet/massedarmevicieuse.jpg)
+
+
 ---
 title: "Masse destructrice"
 type: "Arme"
@@ -4012,6 +3940,8 @@ attunement: false
 Vous gagnez un bonus de +1 aux jets d'attaque avec cette arme magique. Ce bonus passe à +3 si vous l'utilisez contre une créature artificielle.
 
 Quand vous obtenez une marge de 10 sur un jet d'attaque effectué avec cette arme, la cible subit 2d6 dégâts contondants supplémentaires ou 4d6 si c'est une créature artificielle. Si une créature artificielle a seulement 25 points d'action ou moins après avoir subi de tels dégâts, elle est détruite.
+
+
 ---
 title: "Masse terrifiante"
 type: "Arme"
@@ -4023,6 +3953,8 @@ attunement: "harmonisation requise"
 Cette arme magique dispose de 3 charges. Tant que vous la tenez en main, vous pouvez dépenser une action et une charge pour émettre une vague de terreur. Les créatures de votre choix se trouvant dans un rayon de 9 mètres autour de vous doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15, sans quoi elles sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) et ont peur de vous pendant 1 minute. Tant qu'une créature est ainsi [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise), elle s'efforce de s'éloigner au maximum de vous pendant tout son tour et elle est incapable de s'avancer de son plein gré dans un emplacement situé dans un rayon de 9 mètres autour de vous. Elle est aussi dans l'incapacité d'utiliser une réaction. Au niveau de ses actions, elle est limitée à _se précipiter_ ou à tenter de se libérer de tout effet l'empêchant de se déplacer. Si la créature n'a aucun endroit où aller, elle peut utiliser l'action _esquiver_. Elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours, la terreur se terminant si elle en réussit un.
 
 Chaque matin à l'aube, la masse récupère 1d3 charges dépensées.
+
+
 ---
 title: "Médaillon des pensées"
 type: "Objet merveilleux"
@@ -4032,6 +3964,8 @@ attunement: "harmonisation requise"
 
 ---
 Le médaillon a 3 charges. Tant que vous le portez, vous pouvez utiliser une action et dépenser une charge pour lancer [_détection des pensées_](/grimoire/detection-des-pensees/) (DD 13) par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.
+
+
 ---
 title: "Munition +1"
 type: "Arme"
@@ -4041,6 +3975,8 @@ attunement: false
 
 ---
 Vous bénéficiez d'un bonus aux jets d'attaque de +1 effectués avec cette munition. Cette dernière perd toute magie dès qu'elle a touché une cible.
+
+
 ---
 title: "Munition +2"
 type: "Arme"
@@ -4050,6 +3986,8 @@ attunement: false
 
 ---
 Vous bénéficiez d'un bonus aux jets d'attaque de +2 effectués avec cette munition. Cette dernière perd toute magie dès qu'elle a touché une cible.
+
+
 ---
 title: "Munition +3"
 type: "Arme"
@@ -4059,6 +3997,8 @@ attunement: false
 
 ---
 Vous bénéficiez d'un bonus aux jets d'attaque de +3 effectués avec cette munition. Cette dernière perd toute magie dès qu'elle a touché une cible.
+
+
 ---
 title: "Œil de lynx"
 type: "Objet merveilleux"
@@ -4068,6 +4008,8 @@ attunement: "harmonisation requise"
 
 ---
 Cette pierre oeil de lynx se place devant les yeux. Quand vous regardez au travers, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue. Si la visibilité est bien dégagée, vous percevez tous les détails des créatures et des objets, même très éloignés, à conditions que ces créatures et objets fassent au moins 60 centimètres de large.
+
+
 ---
 title: "Perle de force"
 type: "Objet merveilleux"
@@ -4081,6 +4023,8 @@ Cette petite sphère noire de 2 centimètres de diamètre pèse 30 grammes. En g
 Vous pouvez utiliser votre action pour lancer la bille à une distance maximale de 18 mètres. Elle explose et se détruit à l'impact. Chaque créature située dans un rayon de 3 mètres autour du point d'impact doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15 ou subir 4d6 dégâts de force. Une sphère de force transparente englobe cette zone pendant 1 minute. Une créature qui rate le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et se trouve entièrement englobée dans la zone affectée s'y retrouve piégée. Les créatures qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou ne se trouvent qu'en partie dans la sphère sont repoussées à l'opposé du centre de la sphère, jusqu'à ce qu'elles ne se trouvent plus du tout en son sein. La paroi de la sphère ne laisse rien passer à part l'air respirable, pas même les attaques ou autres effets.
 
 Une créature enfermée peut utiliser son action pour peser contre la paroi de la sphère et la faire rouler à la moitié de sa vitesse au sol. On peut ramasser la sphère qui, grâce à sa magie, ne pèse que 500 grammes, quel que soit le poids des créatures prisonnières à l'intérieur.
+
+
 ---
 title: "Perle de puissance"
 type: "Objet merveilleux"
@@ -4090,6 +4034,8 @@ attunement: "harmonisation requise avec un lanceur de sorts"
 
 ---
 Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour prononcer son mot de commande et récupérer 3d6 point de Magie ou de Foi. Une fois que vous avez utilisé la perle, vous devez attendre l'aube suivante pour vous en servir à nouveau.
+
+
 ---
 title: "Perle des profondeurs"
 type: "Objet merveilleux"
@@ -4111,6 +4057,8 @@ _**Appel du kraken**_. Si vous êtes harmonisé à la perle et immergé dans l'o
 _**Malédiction**_. Une fois harmonisé à la perle, vous subissez sa malédiction : votre peau se noircie et craquelle et vos doigts deviennent crochus et difformes. Vous devez vous immerger complètement dans l'eau de mer chaque jour ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos actions. Au terme du dixième jour sans vous immerger, vous mourez. La malédiction reste même si vous n'êtes plus harmonisé à la perle. Le seul moyen de s'en débarrasser est d'utiliser les sorts [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_restauration supérieure_](/grimoire/restauration-superieure/).
 
 _**Détruire la perle**_. Le sang d'un Solar a créé la perle, seul le sang de son ennemi peut la détruire. La perle doit être immergée pendant une heure dans un litre de sang de [kraken](/bestiaire/kraken/) par au moins 100 mètres de profondeur pour être détruite.
+
+
 ---
 title: "Philtre d'amour"
 type: "Potion"
@@ -4120,6 +4068,8 @@ attunement: false
 
 ---
 Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes [_charmé_](/gerer-la-sante-du-personnage/#charme) pendant 1 heure par la première créature que vous voyez. Si cette créature est d'une espèce et d'un sexe pour lesquels vous êtes susceptible de ressentir une attirance naturelle, vous considérez vos sentiments comme un amour véritable pendant toute la durée du charme.
+
+
 ---
 title: "Pierre de contrôle des élémentaires de la terre"
 type: "Objet merveilleux"
@@ -4129,6 +4079,8 @@ attunement: false
 
 ---
 Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour prononcer son mot de commande et convoquer un élémentaire de la Terre, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Il faut attendre l'aube suivante avant de pouvoir réutiliser la pierre. Elle pèse 2,5 kilos.
+
+
 ---
 title: "Pierre d'obédience"
 type: "Objet merveilleux"
@@ -4138,6 +4090,8 @@ attunement: "harmonisation requise"
 
 ---
 [Gwion](/bestiaire/gwion-gornoc)aurait bien voulut savoir mais il se demande encore à quoi cet objet peut bien servir. La curiosité l'assaille.
+
+
 ---
 title: "Pierre Ioun d'absorption"
 type: "Objet merveilleux"
@@ -4151,6 +4105,8 @@ La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vén
 Tant que cet ellipsoïde lavande clair est sur vous, vous pouvez utiliser votre réaction pour annuler un sort de niveau Apprenti ou inférieur que lance une créature présente dans votre champ de vision et qui vise uniquement votre personne.
 
 Une fois que la pierre a annulé 50 points de Magie ou de Foi de sort, elle est épuisée et prend une teinte gris terne, indiquant qu'elle a perdu toute magie. Si vous êtes la cible d'un sort d'un niveau supérieur au nombre de niveaux de sorts que la pierre peut encore annuler, elle est incapable de l'annuler.
+
+
 ---
 title: "Pierre Ioun d'absorption supérieure"
 type: "Objet merveilleux"
@@ -4164,6 +4120,8 @@ La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vén
 Tant que cet ellipsoïde marbré de vert et lavande est sur vous, vous pouvez utiliser votre réaction pour annuler un sort de niveau Adepte ou inférieur que lance une créature présente dans votre champ de vision et qui vise uniquement votre personne.
 
 Une fois que la pierre a annulé 100 points de Magie ou de Foi de sort, elle est épuisée et prend une teinte gris terne, indiquant qu'elle a perdu toute magie. Si vous êtes la cible d'un sort d'un niveau supérieur au nombre de niveaux de sorts que la pierre peut encore annuler, elle est incapable de l'annuler.
+
+
 ---
 title: "Pierre Ioun d'agilité"
 type: "Objet merveilleux"
@@ -4175,6 +4133,8 @@ source: "Cadre de campagne"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur de Dextérité augmente de 2, sans dépasser un maximum de 20, tant que cette sphère rouge est sur vous.
+
+
 ---
 title: "Pierre Ioun de dirigeant"
 type: "Objet merveilleux"
@@ -4186,6 +4146,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur de Charisme augmente de 2, pour un maximum de 20, tant que cette sphère marbrée de rose et de vert est sur vous.
+
+
 ---
 title: "Pierre Ioun de force"
 type: "Objet merveilleux"
@@ -4197,6 +4159,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur de Force augmente de 2, pour un maximum de 20, tant que ce rhomboïde bleu clair est sur vous.
+
+
 ---
 title: "Pierre Ioun de maîtrise"
 type: "Objet merveilleux"
@@ -4208,6 +4172,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre bonus de maîtrise augmente de 1 tant que ce prisme vert clair est sur vous.
+
+
 ---
 title: "Pierre Ioun de nourriture"
 type: "Objet merveilleux"
@@ -4219,6 +4185,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Vous n'avez pas besoin de manger ni de boire tant que ce fuseau translucide est sur vous.
+
+
 ---
 title: "Pierre Ioun de protection"
 type: "Objet merveilleux"
@@ -4230,6 +4198,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Vous gagnez un bonus de +1 à la VD tant que ce prisme vieux rose est sur vous.
+
+
 ---
 title: "Pierre Ioun de régénération"
 type: "Objet merveilleux"
@@ -4242,6 +4212,8 @@ La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vén
 
 
 Vous récupérez 2d6 points d'action à la fin de chacun de vos tours tant que ce fuseau blanc est sur vous et que vous avez au moins encore 1 point d'action.
+
+
 ---
 title: "Pierre Ioun de réserve"
 type: "Objet merveilleux"
@@ -4257,6 +4229,8 @@ Ce prisme violet vif stocke les sorts qu'on lui lance et les conserve jusqu'à c
 N'importe quelle créature peut lancer un sort de niveau novice à disciple sur la pierre en la touchant au moment de l'incantation. Le sort n'a alors aucun effet, il est simplement stocké dans la pierre. Si la pierre est incapable d'accueillir le sort, ce dernier est simplement dépensé sans le moindre effet.
 
 Tant que cette pierre est sur vous, vous pouvez lancer n'importe quel sort stocké en son sein. L'emplacement de sort, le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), le bonus d'attaque du sort et la caractéristique d'incantation dépendent de l'incantateur original, pour le reste, on considère que c'est vous qui lancez le sort. Une fois le sort lancé, il ne se trouve plus dans la pierre et libère l'emplacement qu'il y occupait.
+
+
 ---
 title: "Pierre Ioun de vigilance"
 type: "Objet merveilleux"
@@ -4268,6 +4242,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Vous ne pouvez pas être surpris tant que ce rhomboïde bleu foncé est sur vous.
+
+
 ---
 title: "Pierre Ioun de vigueur"
 type: "Objet merveilleux"
@@ -4279,6 +4255,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur de Constitution augmente de 2, sans dépasser un maximum de 20, tant que ce rhomboïde rose est sur vous.
+
+
 ---
 title: "Pierre Ioun d'intellect"
 type: "Objet merveilleux"
@@ -4290,6 +4268,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur d'Intelligence augmente de 2, pour un maximum de 20, tant que cette sphère marbrée de rouge et de bleu est sur vous.
+
+
 ---
 title: "Pierre Ioun d'intuition"
 type: "Objet merveilleux"
@@ -4301,6 +4281,8 @@ attunement: "harmonisation requise"
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 
 Votre valeur de Sagesse augmente de 2, pour un maximum de 20, tant que cette sphère bleu vif est sur vous.
+
+
 ---
 title: "Pierre porte-bonheur"
 type: "Objet merveilleux"
@@ -4310,6 +4292,8 @@ attunement: "harmonisation requise"
 
 ---
 Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus de +1 aux [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et aux jets de sauvegarde.
+
+
 ---
 title: "Potion d'amitié avec les animaux"
 type: "Potion"
@@ -4319,6 +4303,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, vous pouvez lancer le sort [_amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) (DD 13) à volonté pendant 1 heure.
+
+
 ---
 title: "Potion de clairvoyance"
 type: "Potion"
@@ -4328,6 +4314,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, vous bénéficiez des effets du sort [_clairvoyance_](/grimoire/clairvoyance/).
+
+
 ---
 title: "Potion de force de géant des collines"
 type: "Potion"
@@ -4337,6 +4325,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, votre valeur de Force est égale à 21 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
+
+
 ---
 title: "Potion de force de géant des nuages"
 type: "Potion"
@@ -4346,6 +4336,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, votre valeur de Force est égale à 27 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
+
+
 ---
 title: "Potion de force de géant des pierres/du givre"
 type: "Potion"
@@ -4355,6 +4347,8 @@ attunement: false
 ---
 Quand vous buvez cette potion, votre valeur de Force est égale à 23 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
 La _potion de force de géant du givre_ et la _potion de force de géant des pierres_ ont le même effet.
+
+
 ---
 title: "Potion de force de géant des tempêtes"
 type: "Potion"
@@ -4364,6 +4358,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, votre valeur de Force est égale à 29 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
+
+
 ---
 title: "Potion de force de géant du feu"
 type: "Potion"
@@ -4373,6 +4369,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, votre valeur de Force est égale à 25 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
+
+
 ---
 title: "Potion de hâte"
 type: "Potion"
@@ -4384,6 +4382,8 @@ attunement: false
 Le consommateur de la potion voit sa vitesse doubler pendant 10 rounds, bénéficie d'un bonus de +2 à la VD, a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Dextérité et dispose d'une action de plus par tour. Cette action est uniquement réservée aux actions suivantes : [_attaquer_](/combattre/#attaquer) (permet seulement une unique attaque), [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager), [_se cacher_](/combattre/#se-cacher) ou _utiliser un objet_.
 
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.  
+
+
 ---
 title: "Potion de lecture des pensées"
 type: "Potion"
@@ -4393,6 +4393,8 @@ attunement: false
 
 ---
 Vous bénéficiez des effets d'un sort de [_détection des pensées_](/grimoire/detection-des-pensees/) (DD des jets de sauvegarde contre le sort 13) quand vous buvez cette potion.
+
+
 ---
 title: "Potion de poison"
 type: "Potion"
@@ -4404,6 +4406,8 @@ attunement: false
 Cette concoction ressemble, tant au niveau du goût, de l'odeur et de l'aspect visuel, à une [_potion de soins_](/liste-objets-magiques/potion-de-soins/) ou autre potion bénéfique. C'est pourtant du poison dissimulé par une magie illusoire, et un sort d'[_identification_](/grimoire/identification/) révèle sa véritable nature.
 
 Vous subissez 3d6 dégâts de poison et devez réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 pour ne pas être [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) si vous la buvez. Vous subissez 3d6 dégâts de poison au début de chacun de vos tours tant que vous êtes [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) de cette façon. À la fin de chacun de vos tours, vous pouvez retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). En cas de réussite, les dégâts de poison subis lors des tours suivants diminuent de 1d6, et le poison disparaît quand les dégâts sont réduits à 0.
+
+
 ---
 title: "Potion de résistance"
 type: "Potion"
@@ -4426,6 +4430,8 @@ Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1
 |**10**|Psychique|
 |**11**|Radiant|
 |**12**|Tonnerre|
+
+
 ---
 title: "Potion de respiration aquatique"
 type: "Potion"
@@ -4435,6 +4441,8 @@ attunement: false
 
 ---
 Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le liquide vert et trouble qu'elle contient, dans lequel flotte une bulle à l'aspect de méduse, sent la mer.
+
+
 ---
 title: "Potion d'escalade"
 type: "Potion"
@@ -4444,6 +4452,8 @@ attunement: false
 
 ---
 Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votre vitesse au sol pendant 1 heure. Pendant tout ce temps, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force (Escalade) que vous effectuez pour grimper.
+
+
 ---
 title: "Potion de soins"
 type: "Potion"
@@ -4453,6 +4463,8 @@ attunement: false
 
 ---
 Vous récupérez 2d6+2 points d'action quand vous buvez cette potion.
+
+
 ---
 title: "Potion de soins excellents"
 type: "Potion"
@@ -4462,6 +4474,8 @@ attunement: false
 
 ---
 Vous récupérez 6d6+8 points d'action quand vous buvez cette potion.
+
+
 ---
 title: "Potion de soins supérieurs"
 type: "Potion"
@@ -4470,6 +4484,8 @@ rarity: "Peu courant"
 attunement: false
 ---
 Vous récupérez 3d6+4 points d'action quand vous buvez cette potion.
+
+
 ---
 title: "Potion de soins suprêmes"
 type: "Potion"
@@ -4479,6 +4495,8 @@ attunement: false
 
 ---
 Vous récupérez 7d65+20 points d'action quand vous buvez cette potion.
+
+
 ---
 title: "Potion de vitesse"
 type: "Potion"
@@ -4488,6 +4506,8 @@ attunement: false
 
 ---
 Vous bénéficiez des effets d'un sort de [_hâte_](/grimoire/hate/) pendant 1 minute (aucune concentration requise) après avoir bu cette potion. 
+
+
 ---
 title: "Potion d'héroïsme"
 type: "Potion"
@@ -4497,6 +4517,8 @@ attunement: false
 
 ---
 Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. Pendant cette même période, vous êtes sous l'effet d'un sort de [_bénédiction_](/grimoire/benediction/) (aucune concentration requise).
+
+
 ---
 title: Dieux, Divinités & autres forces
 source: "Dieux primaires Elric, mythologie Khernaëe, Alcante, Shahim Olivier, Mythologie Meldète, Ygouthi et Melg David"
@@ -4564,6 +4586,8 @@ Autrefois, les Oynours croyaient en trois grands dieux fondateurs et trois dées
 **Adarou** : dieu de l'eau. Il est le dieu du sang qui coule dans les veines, le maître des fontaines, des sources, des fleuves et des rivières. Adarou commande aux animaux marins, et il faut lui demander la permission avant de pêcher. Son aspect est souvent celui d'un poisson aux écailles argentées, mais il prend parfois celui d'une algue ou d'une plante sub-aquatique. Il aime changer de forme, d'aspect, de taille et de couleur... Il est l'époux de la déesse Durusu. Quand les armées de l'Immortel Empereur XIAH sont venues envahir les terres Oynours, Adarou les a combattues farouchement, les rivières se changeaient en marécages, les fleuves se déchainaient pour les engloutir... Mais l'Empereur Eternel est venu en personne et il a bu toute l'eau du monde Oynour, asséchant les sources, épuisant les glaciers, desséchant la terre. Quand la dernière goutte a été bue, Adarou a été forcé de se soumettre. L'Empereur XIAH l'a emprisonné dans une gourde de cuir, et il l'emploie uniquement quand il veut faire jaillir de l'eau ou au contraire tarir une source.   
 
 **Durusu** : déesse de la brume et du brouillard. Cette déesse est la reine des illusions et des ombres. Elle maîtrise les secrets des apparences et de la folie. Elle a combattu aux côtés de son époux, guerrière insaisissable et intangible, brume qui engendrait des folies meurtrières dans les rangs des guerriers de l'Eternel Empereur. Elle a causé de terribles ravages, et ses flèches empoisonnées plongeaient dans un sommeil morbide tous ceux qu'elle touchait. Son pouvoir est directement lié à celui de son époux : sans eau, pas de brume ! Quand Adarou a été bu par l'Eternel Empereur XIAH, elle a choisi de se laisser boire avec lui. Elle vit maintenant cachée dans la gourde de cuir aux côtés de son époux, et il semble que l'Immortel Empereur ignore tout de sa présence...  
+
+
 ---
 title : "Les Khernaës"
 ---
@@ -4641,6 +4665,8 @@ Le Bhegelm intervient dans tous les rites importants de la vie, la naissance, la
 
 Au-delà des mythes fondateurs, les Khernaës sont persuadés de la présence des esprits défunts autour d'eux. Ils savent qu'ils peuvent compter sur eux, mais qu'ils ne doivent pas les décevoir. Ainsi, les Khernaës ne favorisent pas les nécropoles ou les grandes tombes. Les corps sont souvent brûlés pour que les restes s'éparpillent aux quatre vents et fertilisent la terre. Les Khernaës pensent qu'après leur mort, ils pourront rester auprès de ceux qu'ils aiment, ou s'ils le méritent rejoindre Ylohane. La vie après la mort est perçue comme paisible et comme la continuité de la vie. Ainsi, la mort n'est pas redoutée comme une fin, mais comme une longue séparation.  
 La cérémonie d'incinération doit se dérouler dans la mesure du possible en présence d'un Bhegelm qui chante les oraisons. Un Bhaner est présent pour énoncer les hauts faits et la vie du défunt. La cérémonie d'incinération est le rite du feu sacré ; le Tan'Even. Il arrive que certains qui ne peuvent supporter la séparation du défunt se jettent dans les flammes. Ils devancent leur propre mort et ne sont pas jugés pour cela. Les cendres du défunt sont remises au conjoint ou à la conjointe, à défaut aux enfants et à défaut au bhegelm qui se chargera de les répandre sur un lieu sacré.  
+
+
 ---
 titre : "Oynours"
 
@@ -4710,3 +4736,5 @@ Le dugha est bien sur le maître des grandes cérémonies, mais c'est au sein de
 - Le mariage. Vers 15 / 16 ans, les jeunes sont mariés. Le bashliq doit donner son accord pour chaque union, afin qu'aucune union incestueuse, aucun mariage maudit, ne puisse se créer (et éviter que des familles trop puissantes ne se constituent face à la sienne !). Après un grand repas qui peut durer plusieurs jours, le jeune couple emménage dans le yükmaki du marié. Si au bout de quatre saisons l'épouse n'est toujours pas enceinte, le mariage est considéré caduque. Les jeunes se séparent et l'épouse retourne dans sa famille. Si l'épouse est enceinte on attend que l'enfant naisse. Les deux parents reçoivent alors une troisième scarification, au dessus du sexe, en forme d'arc et flèche pour l'homme et de coupe pour la femme. Ils sont maintenant définitivement mariés, et le clan aidera le couple à fabriquer son yükmaki, on leur donnera quelques chevaux, une chèvre... De quoi démarrer dans la vie !  
 
 - La mort. Quand sa vie est terminée, le Oynour reçoit des funérailles très spéciales... Avant qu'elles aient lieu le dugha coud les lèvres du mort avec un cordon en cuir de renne. Une dernière scarification sera placée au milieu du front, en forme de cercle.  
+
+

@@ -324,6 +324,8 @@ Si une créature légendaire peut effectuer des actions d'antre, elle peut les u
 
 #### Effets régionaux
 La simple présence d'une créature légendaire peut produire des effets étranges et extraordinaires sur son environnement, comme indiqué dans cette section. Les effets régionaux prennent fin brusquement ou se dissipent au fil du temps une fois la créature morte.
+
+
 ---
 title: Inventer un monstre ou un PNJ
 ---
@@ -485,6 +487,8 @@ Pour terminer, nous vous conseillons vivement d'éviter de donner à une créatu
 |**20**|200|
 
 *
+
+
 ---
 title: Construire une rencontre
 ---
@@ -571,6 +575,8 @@ Si un seul PJ possède un niveau de plus ou de moins, ne vous embarrassez pas de
 
 ## « Acheter » des monstres en fonction de leur PC
 Une fois que vous avez déterminé le nombre de PC de votre rencontre, il vous suffit de répartir ces PC entre les monstres de votre choix. Inversement, vous pouvez aussi déterminer la difficulté d'une rencontre en ajoutant simplement les PC de toutes les créatures présentes.
+
+
 ---
 title: "Acolyte"
 type: "Humanoïde"
@@ -610,6 +616,8 @@ _**Incantation**_. L'acolyte est un adepte de la voie de la Magie de niveau 3. S
 ## <v-icon>mdi-sword-cross</v-icon>  Actions
 _**Gourdin**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts contondants.
+
+
 ---
 title: "Acolyte du cercle de la nuit"
 type: "Humanoïde"
@@ -649,6 +657,8 @@ _**Incantation**_. L'acolyte est un lanceur de sorts de niveau 4. Sa caractéris
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Serpes sacrificielles**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.  
+
+
 ---
 title: "Agowen Tenva Duenn"
 type: "PNJ"
@@ -734,6 +744,8 @@ Agowen Tenva Duenn connait les sorts suivants:
 **Points de Foi** :88 (264 objetX3 PF)   
 **Points d'honneur** :52  
 §§§
+
+
 ---
 title: "Aigle"
 type: "Bête"
@@ -773,6 +785,8 @@ _**Vue aiguisée**_. L'aigle obtient un [_avantage_](/utiliser-les-caracteristiq
 ## Actions
 _**Serres**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts tranchants.
+
+
 ---
 title: "Akashakhal"
 type: "Fiélon"
@@ -858,6 +872,8 @@ _**Incantation (coûte 2 actions)**_. Akashakhal lance [_fléau d'insectes_](/gr
 "*Lorsque la fumée se dissipa, je découvrais une grande silhouette presque haute comme deux hommes. Je distinguais ses formes bien que son aspect ne semblait pas stable mais cela était dû au fait qu'elle venait des plans infernaux. Bien que difficile à décrire, son apparence aurait pu s'apparenter à une mante religieuse gigantesque, pourvue de quatre bras préhensiles et barbelés. Quand je senti que la créature tentait de s'introduire dans mon esprit, je m'enfuyais par la fenêtre de la cabane, abandonnant mon rituel. Le lendemain, revenant sur les lieux, je ne pu que constater que ma petite demeure dans les bois avait été détruite, maigre consolation mais je pouvais me satisfaire d'être vivant.*"  
 **Souvenir de convocation d'un démon par Ioen l'invocateur.**
 §§§
+
+
 ---
 title: "akau-keshake"
 type: "Fiélon"
@@ -929,6 +945,8 @@ _Touché_ : 6 dégâts tranchants.
 Certains akau-keshakes possèdent une action qui leur permet de convoquer d'autres démons.
 
 ***Convocation de démon (1/jour)*** : L'akau-keshake tente de convoquer magiquement une créature de son choix. Il a 50 % (4-6 sur 1d6) de chances de convoquer un autre akau-keshake ou un [_singe géant_](/bestiaire/singe-geant/).
+
+
 ---
 title: "Âme-en-peine"
 type: "Mort-vivant"
@@ -991,6 +1009,8 @@ _**Absorption de vie**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, a
 _Touché_ : 3 dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas voir son total maximum de points d'action réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long). La cible meurt si cet effet réduit à 0 son total maximum de points d'action. L'âme en peine se régénère de la moitié des dégâts qu'elle cause.
 
 _**Création de spectre**_. L'âme-en-peine cible un humanoïde mort depuis moins d'une minute d'une mort violente et situé à 3 mètres ou moins d'elle. L'esprit de la cible s'élève alors sous forme de spectre dans l'emplacement occupé par son cadavre ou dans l'emplacement inoccupé le plus proche. Le spectre est contrôlé par l'âme-en-peine qui ne peut contrôler de la sorte plus de sept spectres en même temps.
+
+
 ---
 title: "Anubien"
 type: "Élémentaire"
@@ -1052,6 +1072,8 @@ _**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,5
 _Touché_ : 3 dégâts tranchants.
 
 _**Haboob (1/jour)**_. Un anubien est capable de créer une tempête de sable de la forme d'un cylindre de 9 mètres de haut sur 1,50 mètre de rayon, qui se déplace avec lui. La visibilité est nulle dans la zone occupée par la tempête et toute créature qui y pénètre et qui n'est pas un anubien doit réussir un test de Force DD 13 pour ne pas se trouver [_entravée_](/gerer-la-sante-du-personnage/#entrave) par celle-ci. En outre, toute créature qui n'est pas un anubien qui termine son tour dans la tempête de sable subit 1d6 dégâts tranchants. L'anubien peut faire durer le haboob jusqu'à 10 minutes en se concentrant comme s'il s'agissait d'un sort. Pendant qu'il se concentre ainsi, sa vitesse est réduite à 1,50 mètre et il ne peut pas se déplacer à l'aide de la marche du sable. Les créatures [_entravées_](/gerer-la-sante-du-personnage/#entrave) par la tempête de sable se déplacent avec l'anubien. Une créature peut tenter de se libérer ou de libérer une créature adjacente qui se trouve prise dans la tempête de sable en utilisant une action pour faire un test de Force DD 13. Sur une réussite, la créature ciblée n'est plus [_entravée_](/gerer-la-sante-du-personnage/#entrave).
+
+
 ---
 title: "Araignée"
 type: "Bête"
@@ -1095,6 +1117,8 @@ _**Perception sur les toiles**_. Tant qu'elle est en contact avec une toile d'ar
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 9 pour ne pas subir 1d6 dégâts de poison.
+
+
 ---
 title: "Arbedab"
 type: "Fiélon"
@@ -1190,6 +1214,8 @@ _**Déplacement**_. Arbedab se déplace de la moitié de sa vitesse, en utilisan
 _**Poison**_. Arbedab prend pour cible une créature située dans un rayon de 36 mètres. Si la cible n'est pas _empoisonnée_, elle doit réussir un jet de sauvegarde de Constitution DD 22 ou se trouver dans l'état _empoisonné_. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
 _**Sort (coûte 2 actions)**_. Arbedab lance un sort.
+
+
 ---
 title: "Archimage"
 type: "Humanoïde"
@@ -1250,6 +1276,8 @@ _**Résistance à la magie**_. L'archimage bénéficie d'un [_avantage_](/utilis
 ## Actions
 _**Dague**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible.  
 _Touché_ : 4 dégâts perforants.
+
+
 ---
 title: "Ashkam"
 type: "Fiélon"
@@ -1336,6 +1364,8 @@ _**Attaque**_. Ashkam fait une attaque.
 _**Déplacement**_. Ashkam peut se déplacer en volant de la moitié de sa vitesse sans provoquer d'attaque d'opportunité.
 
 _**Linceul (2 actions)**_. Il émane du corps d'Ashkam un voile de ténèbres magiques sur un rayon de 9 mètres. Ces ténèbres persistent jusqu'au début du prochain tour d'Ashkam.
+
+
 ---
 title: "Assassin"
 type: "Humanoïde"
@@ -1388,6 +1418,8 @@ _**Attaques multiples**_. L'assassin effectue deux attaques à l'épée courte.
 
 _**Épée courte**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Assoiffeur gris"
 type: "Mort-vivant"
@@ -1445,6 +1477,8 @@ _**Turban flétrisseur**_. _Attaque d'arme au corps à corps_ : +5 pour toucher,
 _Touché_ : 3 dégâts nécrotiques. Si la cible a raté un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le trait soif à n'importe quel moment de la rencontre contre l'assoiffeur, son maximum de points d'action se réduit d'un montant égal aux dégâts de l'attaque de turban. Cette réduction persiste jusqu'à ce que la cible n'ait plus de niveau d'épuisement.  
 
 _**Sécheresse (1/jour)**_. L'assoiffeur gris absorbe l'humidité dans une zone de 6 mètres de rayon centrée sur lui. L'eau et les autres liquides non magiques de la zone se changent en poussière. Si la cible n'est ni morte-vivante, ni une créature artificielle, elle subit 3d6 dégâts nécrotiques, ou la moitié seulement si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13. Les plantes, les vases et les créatures qui possèdent les traits amphibie, respiration aquatique, ou corps d'eau, sont désavantagées lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Les liquides que transporte une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ne sont pas détruits.
+
+
 ---
 title: "Azer"
 type: "Élémentaire"
@@ -1495,6 +1529,8 @@ _**Illumination**_. L'azer diffuse une lumière vive dans un rayon de 3 mètres 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Marteau de guerre**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts contondants ou 6 dégâts contondants s'il est manié à deux mains pour effectuer une attaque au corps à corps, plus 1d6 dégâts de feu.
+
+
 ---
 title: "Babouin"
 type: "Bête"
@@ -1530,6 +1566,8 @@ _**Tactique de groupe**_. Le babouin obtient un [_avantage_](/utiliser-les-carac
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts perforants.
+
+
 ---
 title: "Bandit"
 type: "Humanoïde"
@@ -1563,6 +1601,8 @@ _Touché_ : 4 dégâts perforants.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants.
+
+
 ---
 title: "Belette"
 type: "Bête"
@@ -1603,6 +1643,8 @@ _**Odorat et ouïe aiguisés**_. La belette obtient un [_avantage_](/utiliser-le
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Berdu"
 type: "Fiélon"
@@ -1671,6 +1713,8 @@ _Touché_ : 6 dégâts contondants et la cible est _empoignée_ (évasion DD 16)
 _**Absorber**_. Un Berdu attire une créature de taille Moyenne ou inférieure qu'il a _empoignée_ dans son corps. Une créature absorbée ne se trouve plus dans l'état _empoigné_, mais elle est _aveuglée_ et _entravée_, bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du Berdu, et elle subit 3d6 dégâts perforants plus 8d6 dégâts de poison au début de chacun des tours du Berdu. Un Berdu ne peut contenir ainsi qu'une seule créature à la fois.
 
 Si une créature qu'il a absorbée inflige 20 points de dégâts ou plus à un Berdu lors du même tour, ce dernier doit réussir un jet de sauvegarde de Constitution DD 17 ou rejeter la créature absorbée, qui tombe à terre dans un emplacement situé à 1,50 mètre autour du démon. Si le Berdu meurt, une créature absorbée n'est plus _entravée_ et elle peut s'extraire de son cadavre en dépensant 1,50 mètre de déplacement. Elle ressort _à terre_.
+
+
 ---
 title: "Berserker"
 type: "Humanoïde"
@@ -1704,6 +1748,8 @@ _**Téméraire**_. Au début de son tour, le berserker peut bénéficier d'un [_
 ## Actions
 _**Hache à deux mains**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 8 dégâts tranchants.
+
+
 ---
 title: "Blaireau"
 type: "Bête"
@@ -1740,6 +1786,8 @@ _**Odorat aiguisé**_. Le blaireau obtient un [_avantage_](/utiliser-les-caracte
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Blême"
 type: "Mort-vivant"
@@ -1789,6 +1837,8 @@ _Touché_ : 3 dégâts tranchants. Si la cible n'est pas un mort-vivant, elle do
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Bodad"
 type: "Fiélon"
@@ -1862,6 +1912,8 @@ _Touché_ : 6 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible subit 3d6 dégâts de poison de conversion au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du Bodad pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un Bodad, son cadavre éclate et il en sort un [débu](/bestiaire/debu/) nouvellement formé et couvert d'un liquide immonde. Ce débu est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par [_restauration inférieure_](/grimoire/restauration-inferieure/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/) ou une magie comparable.
+
+
 ---
 title: "Bodidius"
 type: "Fiélon"
@@ -1956,6 +2008,8 @@ _**Attaque de griffe**_. Bodidius fait une attaque de _griffe_.
 _**Marque du diable**_. Bodidius projette un jet d'encre magique depuis le bout de ses doigts en direction d'une cible unique qui se trouve dans un rayon de 9 mètres. La cible doit réussir un jet de sauvegarde de Dextérité DD 23 ou recevoir une marque du diable, qui prend la forme d'un tatouage représentant le sceau personnel de Bodidius. Tous les diables sont _avantagés_ lors de leurs attaques de sort ciblant une créature portant une marque du diable, et celle-ci est _désavantagée_ lors de ses jets de sauvegarde contre les sorts et les pouvoirs utilisés par les diables. Il est possible de faire disparaître la marque à l'aide de [_lever une malédiction_](/grimoire/lever-une-malediction/) si le lanceur de sort réussit également un test d'incantation DD 23. Un sort de [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/) identifie la marque comme profane. Elle change souvent de position sur le corps, notamment si elle est dissimulée (et généralement au moment le plus gênant pour son porteur). Dans la mesure où la marque du diable identifie parfois des individus qui ont passé un pacte avec un diable, certains peuvent penser qu'un personnage porteur d'une marque du diable est un allié des forces du mal.
 
 _**Lancer un sort (coûte 3 actions)**_. Bodidius lance un sort choisi dans sa liste de sorts.
+
+
 ---
 title: "Bouda"
 type: "Fiélon"
@@ -2030,6 +2084,8 @@ _**Griffe méphitique**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, 
 _Touché_ : 3 dégâts tranchants, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver _empoisonnée_ pour 1 round par le nuage de vermines qui grouille autour des bras du bouda.
 
 _**Engloutissement vorace**_. Un bouda dévore les organes d'un cadavre dans l'emplacement occupé par ce dernier. Le bouda gagne une quantité de points d'action temporaires égale au niveau ou à l'ID de la créature morte pour une durée de 1 heure. Les organes qu'il a dévorés à l'aide de ce pouvoir n'existent plus.  
+
+
 ---
 title: "Capitaine bandit"
 type: "Humanoïde"
@@ -2075,6 +2131,8 @@ _Touché_ : 4 dégâts perforants.
 
 ## Réactions
 _**Parade**_. Le capitaine ajoute 2 à sa parade contre une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+
+
 ---
 title: "Chacal"
 type: "Bête"
@@ -2115,6 +2173,8 @@ _**Tactique de groupe**_. Le chacal obtient un [_avantage_](/utiliser-les-caract
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 (1d4-1) dégâts perforants.
+
+
 ---
 title: "Chameau"
 type: "Bête"
@@ -2146,6 +2206,8 @@ environments:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Charognard des forêts"
 type: "Bête"
@@ -2205,6 +2267,8 @@ Dernière précision, cet animal n'est pas domesticable.
 *Une fois de plus, je pris la fuite, poursuivi par un ennemi lâche et en surnombre. Je vomissais encore ma bile une heure plus tard.*"  
 **Mauvais Souvenirs de Brycham l'Aventureux.**
 §§§
+
+
 ---
 title: "Chat"
 type: "Bête"
@@ -2246,6 +2310,8 @@ _**Odorat aiguisé**_. Le chat obtient un [_avantage_](/utiliser-les-caracterist
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât tranchant.
+
+
 ---
 title: "Chauve-souris"
 type: "Bête"
@@ -2287,6 +2353,8 @@ _**Ouïe aiguisée**_. La chauve-souris obtient un [_avantage_](/utiliser-les-ca
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Chauve-souris géante"
 type: "Bête"
@@ -2328,6 +2396,8 @@ _**Ouïe aiguisée**_. La chauve-souris obtient un [_avantage_](/utiliser-les-ca
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Cheval de guerre"
 type: "Bête"
@@ -2362,6 +2432,8 @@ _**Charge écrasante**_. Si le cheval se déplace en ligne droite sur une distan
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Cheval de guerre lourd"
 type: "Bête"
@@ -2396,6 +2468,8 @@ _**Monture d'élite**_. Le cheval de guerre lourd est réservé à une élite pa
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Cheval de selle"
 type: "Bête"
@@ -2427,6 +2501,8 @@ environments:
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Cheval de trait"
 type: "Bête"
@@ -2459,6 +2535,8 @@ environments:
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Chèvre"
 type: "Bête"
@@ -2496,6 +2574,8 @@ _**Pied sûr**_. La chèvre obtient un [_avantage_](/utiliser-les-caracteristiqu
 ## Actions
 _**Coup de bélier**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts contondants.
+
+
 ---
 title: "Chevreuil"
 type: "Bête"
@@ -2527,6 +2607,8 @@ environments:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Chouette"
 type: "Bête"
@@ -2570,6 +2652,8 @@ _**Repli aérien**_. La chouette ne provoque pas d'attaques d'opportunité quand
 ## Actions
 _**Serres**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât tranchant.
+
+
 ---
 title: "Chouette de Mâzul"
 type: "Bête"
@@ -2623,6 +2707,8 @@ Les Chouettes de la montagne Mazûl, plus précisément du Col de Mazûl sont so
 "*Elle déploya ses ailes et s'élança du haut de la falaise enneigée. Ses blanches plumes la rendaient presque invisible et j'eus très vite les plus grandes difficultés à la repérer malgré mon regard acéré*"  
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: " Cnuth Athelsen"
 type: "PJ"
@@ -2769,6 +2855,8 @@ Valeur de force non modifiée 16
 
 
 §§§
+
+
 ---
 title: "Corbeau"
 type: "Bête"
@@ -2809,6 +2897,8 @@ _**Imitation**_. Le corbeau peut imiter des sons simples déjà entendus, comme 
 ## Actions
 _**Bec**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Crabe"
 type: "Bête"
@@ -2851,6 +2941,8 @@ _**Amphibie**_. Le crabe peut respirer à l'air libre et sous l'eau.
 ## Actions
 _**Pince**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât contondant.
+
+
 ---
 title: "Crocodile"
 type: "Bête"
@@ -2890,6 +2982,8 @@ _**Retenir son souffle**_. Le crocodile peut retenir son souffle pendant 15 minu
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 6 dégâts perforants et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 12). Jusqu'à la fin de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et le crocodile ne peut pas mordre une autre cible.
+
+
 ---
 title: "Crocodile géant"
 type: "Bête"
@@ -2935,6 +3029,8 @@ _Touché_ : 10 dégâts perforants et la cible est [_empoignée_](/gerer-la-sant
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible non [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par le crocodile.  
 _Touché_ : 10 dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 16 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Dabbiub"
 type: "Fiélon"
@@ -3006,6 +3102,8 @@ _**Dérèglement humoral (3/jour)**_. Si la cible de l'attaque de doigts-aiguill
 * **Flux bilieux**. La cible se trouve dans l'état confus (comme si elle se trouvait sous l'effet du sort [_confusion_](/grimoire/confusion/)) pendant 3d6 rounds. La cible peut refaire le jet de sauvegarde à la fin de chacun de ses tours pour tenter de mettre fin à cet effet de manière anticipée.  
 * **Flux mélancolique**. La cible est _neutralisée_ pendant 1d6 rounds et ralentie (comme si elle se trouvait sous l'effet du sort lenteur) pendant 3d6 rounds. La cible peut refaire le jet de sauvegarde à la fin de chacun de ses tours pour tenter de mettre fin à cet effet de manière anticipée.  
 * **Flux flegmatique**. Si la cible réussit un jet de sauvegarde de Constitution DD 18, elle annule cet effet. Si elle échoue, elle gagne un niveau d'épuisement qui dure pendant 3d6 rounds.
+
+
 ---
 title: "Darthentrhui"
 type: "Aberration"
@@ -3107,6 +3205,8 @@ Oshockova est considérée comme l’avatar de cette déesse. Oshockova était u
 ## Pouvoirs  
 Cette divinité est capable de faire chavirer n’importe quel comportement. Elle tire les ficelles de chaque hommes.   
 Lorsqu’elle aura attrapé tout les hommes dans son épaisse toile, faites vos prières, car elle les tuera tous dans un enfer d’érotisme.  
+
+
 ---
 title: "Dau"
 type: "Fée"
@@ -3163,6 +3263,8 @@ _Touché_ : 2 dégâts contondants plus 3d6 dégâts nécrotiques et la dau rega
 
 ## Réactions
 _**Esquive miroir (1/jour)**_. Quand une dau est sur le point d'être touchée par une attaque ou affectée par un sort, elle crée un double illusoire pour la remplacer et se téléporte dans un emplacement inoccupé qu'elle peut voir et qui se trouve dans un rayon de 9 mètres. La dau n'est pas affectée par l'attaque ou le sort et son double illusoire est détruit.
+
+
 ---
 title: "Ddobb"
 type: "Fiélon"
@@ -3232,6 +3334,8 @@ _Touché_ : 3 dégâts tranchants plus réduction de 1d6 points de Charisme.
 _**Lance enflammée**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 3 m, une cible. Touché : 3 dégâts perforants plus 3d6 dégâts de feu.
 
 _**Armes diaboliques**_. Toute arme brandie par un Dddobb inflige 3d6 dégâts de feu en plus de ses dégâts normaux.
+
+
 ---
 title: "Debu"
 type: "Fiélon"
@@ -3277,6 +3381,8 @@ _**Vue du diable**_. Les ténèbres magiques ne bloquent pas la vision dans le n
 ## Actions
 _**Poing**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts contondants.
+
+
 ---
 title: "Delfon"
 type: "Bête"
@@ -3332,6 +3438,8 @@ Il est considéré par certains comme un envoyé de divinités aquatiques.
 *Je regardais le couple de poisson s'éloigner avec leur progéniture pendant que mon guide me racontait tous les aspects bénéfiques de cet animal*."    
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Diabarbuth"
 type: "Fiélon"
@@ -3388,6 +3496,8 @@ _Touché_ : 3 dégâts perforants et la cible doit réussir un [jet de sauvegard
 
 _**Coutille**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 3 m, une cible.    
 _Touché_ : 3 dégâts tranchants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 pour ne pas perdre 2d6 points d'action au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent de 1d6. N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de Sagesse (Médecine) DD 12. Le saignement stoppe également si la cible bénéficie d'un soin magique.  
+
+
 ---
 title: "Diabbarbede"
 type: "Fiélon"
@@ -3453,6 +3563,8 @@ _Touché_ : 3d6 dégâts de feu. La cible prend également feu si c'est un objet
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Diabbuaibe"
 type: "Fiélon"
@@ -3534,6 +3646,8 @@ _Touché_ : 6d6 dégâts de froid et la cible doit réussir un jet de sauvegarde
 
 ## Variante : Convocation de diable
 _**Convocation de diable (1/jour)**_. Le diable peut tenter de réaliser une convocation magique. Il a 30 pourcent de chances (5-6 sur 1d6) de convoquer soit 2 [diadebaide](/bestiaire/diadebaide/), soit 1 Diabbuaibe.
+
+
 ---
 title: "Diabdo"
 type: "Fiélon"
@@ -3627,6 +3741,8 @@ _**Mépris des bas métaux**_. Les attaques portées par un diabdo ignorent tout
 _**Fléau de l'avarice**_. Par une action bonus, un diabdo qui porte pour au moins 1000 po de bijoux peut les remodeler pour leur donner la forme d'un fléau lourd +2. Une créature qui est touchée par ce fléau serti de joyaux se trouve _désavantagée_ lors de tous ses jets de sauvegarde de Sagesse jusqu'à son prochain repos court, en plus des dégâts normalement infligés par l'arme. Les éléments qui composent le fléau se dissocient et reprennent leur apparence d'origine à la mort du diabdo ou 1 minute après avoir quitté ses mains.
 
 _**Cupidité vorace**_. Par une action, un diabdo peut dévorer des bijoux non magiques ou des pièces pour une valeur maximale de 1000 po. Il est guéri de 5 points d'action pour chaque tranche de 200 po qu'il dévore ainsi. Un diabdo peut utiliser ce pouvoir sur les objets portés par un ennemi qu'il empoigne. La cible doit alors réussir un jet de sauvegarde de Dextérité DD 13 si elle veut éviter qu'un de ses objets soit dévoré.
+
+
 ---
 title: "Diabede"
 type: "Fiélon"
@@ -3698,6 +3814,8 @@ _**Briser la concentration**_. Les voix stridentes et babillantes et les griffes
 _**Corruption de parchemin**_. Sur un simple contact, un Diabede peut corrompre la magie qui se trouve dans n'importe quel parchemin. Pour utiliser correctement un tel parchemin corrompu, une créature devra réussir un jet de sauvegarde d'Intelligence DD 13. Sur un échec, le sort contenu par le parchemin affecte le lanceur s'il s'agit d'un sort offensif ou le plus proche diable s'il s'agit d'un sort bénéfique.
 
 _**Marque du diable**_. Un Diabede peut projeter de l'encre du bout de ses doigts en direction d'une cible unique qui se trouve à 4,50 mètres de lui. La cible doit réussir un jet de sauvegarde de Dextérité DD 13 ou recevoir une marque du diable : un tatouage noir, rouge ou violet représentant le sceau d'un archiduc (le plus souvent [Kashokh](/bestiaire/Kashokh/) ou [Bodidius](/bestiaire/Bodidius/), mais parfois [Arbeyach](/bestiaire/arbeyach/), Asmodeus, Belzébuth, Dispater ou un autre). Tous les diables sont _avantagés_ lors de leurs attaques de sort ciblant une créature portant une marque du diable, et celle-ci est _désavantagée_ lors de ses jets de sauvegarde contre les sorts et les pouvoirs utilisés par les diables. La marque peut seulement être ôtée grâce au sort [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire. Par ailleurs, la marque est détectée comme faiblement mauvaise et change souvent d'emplacement sur le corps de la créature. Les paladins, chasseurs de sorcières et certains clercs peuvent considérer cette marque comme preuve qu'une créature a passé un pacte avec un diable.
+
+
 ---
 title: "Diabodi"
 type: "Fiélon"
@@ -3753,6 +3871,8 @@ _**Dard (Morsure sous forme de bête)**_. _Attaque d'arme au corps à corps_ : +
 _Touché_ :1 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11 ; elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté, ou la moitié de ces dégâts seulement en cas de réussite.
 
 _**Invisibilité**_. Le Diabodi devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) par magie. Il redevient visible s'il attaque ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également _invisibles_.
+
+
 ---
 title: "diabordu"
 type: "Fiélon"
@@ -3812,6 +3932,8 @@ _Touché_ : 4d6 dégâts de feu. La cible prend également feu si c'est un objet
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts perforants. Si la cible n'est pas un mort-vivant ou une créature artificielle, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 pour ne pas perdre 3d6 points d'action au début de chacun de ses tours à cause de cette blessure infernale. Chaque fois que le diable réussit cette attaque sur la cible blessée, les dégâts infligés par la blessure augmentent 3d6. N'importe quelle créature peut consacrer une action à endiguer l'hémorragie en réussissant un test de Sagesse (Médecine) DD 12. La blessure se referme également si la cible bénéficie d'un soin magique.
+
+
 ---
 title: "Diadebaide"
 type: "Fiélon"
@@ -3869,6 +3991,8 @@ _Touché_ : 3 dégâts tranchants. La cible est [_empoignée_](/gerer-la-sante-d
 
 ## Réactions
 _**Masque bouleversant**_. Quand une créature située dans le champ de vision du diable commence son tour à 9 mètres ou moins de lui, le diable peut créer une illusion qui le fait ressembler à un être aimé mais disparu ou à un implacable ennemi de la créature. Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 pour ne pas être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) jusqu'à la fin de son tour.
+
+
 ---
 title: "Diadedodde"
 type: "Fiélon"
@@ -3936,6 +4060,8 @@ _Touché_ : 6 dégâts perforants. La cible doit réussir un [jet de sauvegarde]
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Diadeel"
 type: "Fiélon"
@@ -4002,6 +4128,8 @@ _Touché_ : 6 dégâts tranchants. Si la cible n'est ni morte-vivante, ni une cr
 Certains diables de sel possèdent une action qui leur permet de convoquer d'autres diables.
 
 _**Convocation de diable (1/jour)**_. Un Diadeel a 30%  (5-6 sur 1d6) de chances de convoquer un autre Diadeel.
+
+
 ---
 title: "Diagede"
 type: "Fiélon"
@@ -4065,6 +4193,8 @@ Le mur reste en place pendant 1 minute. Il disparaît prématurément si le diab
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts contondants plus 3d6 dégâts de froid.
+
+
 ---
 title: "Dibbeda"
 type: "Fiélon"
@@ -4108,6 +4238,8 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,5
 _Touché_ : 3 dégâts perforants plus 2d6 dégâts de feu.
 
 _**Souffle de feu (Recharge 5-6)**_. Le molosse souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 12 ; elles subissent 6d6 dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Éfrit"
 type: "Élémentaire"
@@ -4163,6 +4295,8 @@ _Touché_ : 16 dégâts tranchants plus 2d6 dégâts de feu.
 
 _**Projeter une flamme**_. _Attaque de sort à distance_ : +7 pour toucher, portée 36 m, une cible.  
 _Touché_ : 5d6 dégâts de feu.
+
+
 ---
 title: "Eidyde"
 type: "Fiélon"
@@ -4222,6 +4356,8 @@ _Touché_ : 4 dégâts tranchants, ou 6 dégâts tranchants si l'épée est mani
 
 ## Réactions
 _**Parade**_. L'érynie ajoute 4 à sa VD lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+
+
 ---
 title: "Élan"
 type: "Bête"
@@ -4260,6 +4396,8 @@ _Touché_ : 6 dégâts contondants.
 
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible [_à terre_](/gerer-la-sante-du-personnage/#a-terre).  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Élémentaire de l'air"
 type: "Élémentaire"
@@ -4325,6 +4463,8 @@ Si le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) es
 ---
 L'élémentaire de l'air est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire de l'air n'a besoin que de l'air ambiant mais monopolise instantanément l'équivalent de 10m3 d'air (ce qui peut avoir de facheuse répercussion en souterrain par exemple).  
+
+
 ---
 title: "Élémentaire de la terre"
 type: "Élémentaire"
@@ -4386,6 +4526,8 @@ _Touché_ : 6 dégâts contondants.
 ---  
 L'élémentaire de la terre est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire de la terre a besoin de l'équivalent de 10m3 de terre meuble.  
+
+
 ---
 title: "Élémentaire de l'eau"
 type: "Élémentaire"
@@ -4453,6 +4595,8 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 ---  
 L'élémentaire de l'eau est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire de l'eau a besoin de l'équivalent de 10m3 d'eau.  
+
+
 ---
 title: "Élémentaire du feu"
 type: "Élémentaire"
@@ -4515,6 +4659,8 @@ _Touché_ : 6 dégâts de feu. Si la cible est un objet inflammable ou une créa
 ---  
 L'élémentaire de feu est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire de feu a besoin de l'équivalent d'un brasier de 3m2.  
+
+
 ---
 title: "Élémentaire mineur de feu"
 type: "Élémentaire"
@@ -4573,6 +4719,8 @@ _**Souffle de feu (Recharge 6)**_. L'élémentaire mineur de feu souffle du feu 
 ---
 L'élémentaire mineur de feu est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de feu a besoin d'un feu au moins égal à la flamme d'une torche.  
+
+
 ---
 title: "Élémentaire mineur de glace"
 type: "Élémentaire"
@@ -4635,6 +4783,8 @@ _**Souffle de givre (Recharge 6)**_. Le méphite souffle de l'air froid sur un c
 ---
 L'élémentaire mineur de glace est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de feu a besoin d'un peu de glace ou de neige au moins égal à 30 cm2.  
+
+
 ---
 title: "Élémentaire mineur de magma"
 type: "Élémentaire"
@@ -4693,6 +4843,8 @@ _**Souffle de feu (Recharge 6)**_. Le méphite souffle du feu sur un cône de 4,
 ---
 L'élémentaire mineur de magma est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de magma a besoin d'une source de feu et de terre d'au moins égal à 30 cm2.  
+
+
 ---
 title: "Élémentaire mineur de poussière"
 type: "Élémentaire"
@@ -4753,6 +4905,8 @@ _**Souffle aveuglant (Recharge 6)**_. Le méphite souffle de la poussière aveug
 ---
 L'élémentaire mineur de poussière est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de poussière a besoin d'une surface de terre ou de sable d'au moins égal à 30 cm2.  
+
+
 ---
 title: "Élémentaire mineur de vapeur"
 type: "Élémentaire"
@@ -4808,6 +4962,8 @@ _**Souffle de vapeur (Recharge 6)**_. Le méphite souffle de la vapeur brûlante
 ---
 L'élémentaire mineur de vapeur est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  
 Pour prendre corps, un élémentaire mineur de vapeur a besoin d'une surface d'eau d'au moins égal à 30 cm2 et d'une source de chaleur au moins égal à une torche.  
+
+
 ---
 title: "Éléphant"
 type: "Bête"
@@ -4847,6 +5003,8 @@ _Touché_ : 10 dégâts perforants.
 
 _**Piétinement**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une créature [_à terre_](/gerer-la-sante-du-personnage/#a-terre).  
 _Touché_ : 10 dégâts contondants.
+
+
 ---
 title: "Emhyhruigdrux"
 type: "Aberration"
@@ -4966,6 +5124,8 @@ Aucun.
 ## Pouvoirs  
 Ses dents tranchent même la plus solide roche, et il est capable de décimer une armée à lui tout seul en quelques secondes.  
 Le jour de l’apocalypse, il viendra dans le monde des mortels, animé d’une rage folle et tuera tout ceux qu’il croisera avec ses dents.  
+
+
 ---
 title: "Épaulard"
 type: "Bête"
@@ -5010,6 +5170,8 @@ _**Retenir son souffle**_. L'épaulard peut retenir son souffle pendant 30 minut
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 10 dégâts perforants.
+
+
 ---
 title: "Esprit du feu"
 type: "Élémentaire"
@@ -5072,6 +5234,8 @@ _**Coup**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m
 _Touché_ : 3 dégâts contondants.
 
 _**Contact de combustion (recharge 5-6)**_. Quand il fait une attaque de coup, un esprit de feu a une chance de mettre le feu à une cible. La cible doit immédiatement réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13 ou prendre feu et subir 2d6 dégâts de feu supplémentaires au début de son prochain tour. Jusqu'à ce que quelqu'un utilise une action pour éteindre ce feu, la créature subit 2d6 dégâts de feu au début de chacun de ses tours.
+
+
 ---
 title: "Fantôme"
 type: "Mort-vivant"
@@ -5138,6 +5302,8 @@ _**Possession (Recharge 6)**_. Un humanoïde ciblé situé dans le champ de visi
 La possession prend fin si le corps physique tombe à 0 point de vie, si le fantôme y met un terme par une action bonus ou s'il est renvoyé ou obligé d'abandonner le corps grâce à un effet produit par un sort de [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/), par exemple. Lorsque la possession prend fin, le fantôme réapparaît dans un emplacement inoccupé situé à 1,50 mètre ou moins du corps. La cible est immunisée contre le pouvoir de possession de ce fantôme pendant les 24 heures qui suivent son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi ou l'interruption de la possession.
 
 _**Visage terrifiant**_. Toutes les créatures, à l'exception des morts-vivants, situées à 18 mètres ou moins du fantôme et qui le voient doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 13 pour ne pas être [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Si le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) rate de 5 points ou plus, la cible s'évanouit et développe une folie temporaire. Une cible [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Si le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'une cible est réussi ou si l'effet prend fin, la cible est immunisée aux effets du visage terrifiant de ce fantôme pendant 24 heures. Il est possible d'inverser l'effet de vieillissement grâce à un sort de [_restauration supérieure_](/grimoire/restauration-superieure/) s'il est lancé dans les 24 heures suivantes.
+
+
 ---
 title: "Faucon"
 type: "Bête"
@@ -5178,6 +5344,8 @@ _**Vue aiguisée**_. Le faucon obtient un [_avantage_](/utiliser-les-caracterist
 ## Actions
 _**Serres**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât tranchant.
+
+
 ---
 title: "Faucon de sang"
 type: "Bête"
@@ -5219,6 +5387,8 @@ _**Vue aiguisée**_. Le faucon obtient un [_avantage_](/utiliser-les-caracterist
 ## Actions
 _**Bec**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts perforants.
+
+
 ---
 title: "Gaenor Lugeto"
 type: "PNJ"
@@ -5301,6 +5471,8 @@ Gaenor est le chef du clan Lugeto et le Genos de Geunddon. Il règne en maître 
 ### Description physique:  
 Gaenor est un Meldète de trente neuf printemps. Il a la peau blanche les cheveux blonds et les yeux verts. De grande stature, il mesure un mètre quatre vingt huit pour quatre vingt dix kilos.
 §§§
+
+
 ---
 title: "Goule"
 type: "Mort-vivant"
@@ -5342,6 +5514,8 @@ _Touché_ : 3 dégâts tranchants. Si la cible n'est pas un mort-vivant, elle do
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Goule darakhule"
 type: "Mort-vivant"
@@ -5418,6 +5592,8 @@ Si une créature atteinte de la fièvre du darakhul meurt, lancez 3d6, ajoutez l
 |**15-16**|Blême|
 |**17-18**|Darakhul|
 §§§
+
+
 ---
 title: "Goule de fer"
 type: "Mort-vivant"
@@ -5484,6 +5660,8 @@ Si une créature atteinte de la fièvre du darakhul meurt, lancez 3d6, ajoutez l
 |**15-16**|Blême|
 |**17-18**|Darakhul|
 §§§
+
+
 ---
 title: "Goule, Empereur"
 type: "Mort-vivant"
@@ -5587,6 +5765,8 @@ Si une créature atteinte de la fièvre du darakhul meurt, lancez 3d6, ajoutez l
 |**15-16**|Blême|
 |**17-18**|Darakhul|
 §§§
+
+
 ---
 title: "Goule impériale"
 type: "Mort-vivant"
@@ -5652,6 +5832,8 @@ Si une créature atteinte de la fièvre du darakhul meurt, lancez 3d6, ajoutez l
 |**15-16**|Blême|
 |**17-18**|Darakhul|
 §§§
+
+
 ---
 title: "Goule mendiante"
 type: "Mort-vivant"
@@ -5698,6 +5880,8 @@ _Touché_ : 3 dégâts perforants.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10, sans quoi elle est _paralysée_ pendant 1d6 rounds. Une cible _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+
+
 ---
 title: "Grand singe"
 type: "Bête"
@@ -5739,6 +5923,8 @@ _Touché_ : 3 dégâts contondants.
 
 _**Rocher**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 7,50/15 m, une cible.  
 _Touché_ : 3 dégâts contondants.
+
+
 ---
 title: "Grenouille"
 type: "Bête"
@@ -5778,6 +5964,8 @@ environments:
 _**Amphibie**_. La grenouille peut respirer à l'air libre et sous l'eau.
 
 _**Saut sans élan**_. La grenouille saute une longueur maximale de 3 mètres et une hauteur maximale de 1,50 mètres, sans ou avec élan préalable.
+
+
 ---
 title: "Guerrier (adepte)"
 type: "Humanoïde"
@@ -5828,6 +6016,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Guerrier (apprenti)"
 type: "Humanoïde"
@@ -5878,6 +6068,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Guerrier (disciple)"
 type: "Humanoïde"
@@ -5928,6 +6120,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 **Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Guerrier (expert)"
 type: "Humanoïde"
@@ -5978,6 +6172,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Guerrier (maître)"
 type: "Humanoïde"
@@ -6028,6 +6224,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +10 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Guerrier (novice)"
 type: "Humanoïde"
@@ -6076,6 +6274,8 @@ _Touché_ : 4 dégâts tranchant (6 à deux mains).
 
 **Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+
+
 ---
 title: "Gwihem Tenvakalon"
 type: "PJ"
@@ -6245,6 +6445,8 @@ Gwihem possède l'équipement suivant :
 **Points de Foi** :14    
 **Points d'honneur** :30    
 §§§
+
+
 ---
 title: "Gwion Gornoc"
 type: "PJ"
@@ -6489,6 +6691,8 @@ un petit fil de cuivre enchanté.
 - Bas du dos (20 cm)
 
 §§§
+
+
 ---
 title: "Hibou"
 type: "Bête"
@@ -6528,6 +6732,8 @@ _**Vue aiguisée**_. Le hibou obtient un [_avantage_](/utiliser-les-caracteristi
 ## Actions
 _**Serres**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts tranchants.
+
+
 ---
 title: "Hippocampe"
 type: "Bête"
@@ -6559,6 +6765,8 @@ dungeonTypes:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: -   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Respiration aquatique**_. L'hippocampe peut respirer uniquement sous l'eau.
+
+
 ---
 title: "Hyène"
 type: "Bête"
@@ -6597,6 +6805,8 @@ _**Tactique de groupe**_. La hyène obtient un [_avantage_](/utiliser-les-caract
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Hyène à tête rouge"
 type: "Bête"
@@ -6646,6 +6856,8 @@ Certaines personnes perdues dans le désert et très affaiblies ont été dévor
 *Les heures m'étaient comptées. Un miracle eut lieu. Au détour d'un canyon, je vis une espèce de hyène tachetée, au pelage roux zébré de beige, en train de dépecer une antilope. Ignorant ma peur, je fonçai vers elle en vociférant et en agitant les bras. La bête craintive s'enfuit à grandes enjambées, en hurlant sa frustration, me montrant ses crocs de mâchoire inférieure qui remontaient sur son museau tel un phacochère. La fourrure épaisse de son dos qui revenait sur sa tête était d'un roux presque rouge et la bête avait un petit regard noir vicieux avec des pupilles rouges. Je plantai mes dents dans le cou de l'antilope et m'abreuvai de son sang tel un vampire. Je découpai ensuite rapidement un cuissot et m'éloignais tandis que l'espèce de grosse hyène revenait avec deux compagnes pour en découdre. elles s'arrêtèrent à la carcasse de l'antilope et commencèrent à s'en disputer les restes. Je partis discrètement*."     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Hyène géante"
 type: "Bête"
@@ -6683,6 +6895,8 @@ _**Déchaînée**_. Quand la hyène réduit les points d'action d'une créature 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 10 dégâts perforants.
+
+
 ---
 title: "Inexorable"
 type: "Mort-vivant"
@@ -6771,6 +6985,8 @@ _Touché_ : 13 dégâts tranchant
 *Les marins shahims levèrent les amarres et nous comme nous regardions la créature au loin, c'est avec effroi que je la vis s'enfoncer dans l'eau dans ma direction. Je compris à cet instant que je n'aurais plus de paix.*"       
 **Souvenirs de Gwion Gornoc**
 §§§
+
+
 ---
 title: "Inexorable supérieur"
 type: "Mort-vivant"
@@ -6858,6 +7074,8 @@ _Touché_ : 13 dégâts tranchant
 *J'entendis en effet les bruits de pas métalliques dans la cours et le cri d'agonie d'un garde shahim. Je pris la fuite sans plier mes affaires. Au fond de moi, je maudissais les dieux.*"        
 **Souvenirs de Gwion Gornoc**
 §§§
+
+
 ---
 title: "Kakhe"
 type: "Fiélon"
@@ -6902,6 +7120,8 @@ _**Résistance à la magie**_. Un kakhe est _avantagé_ lors de ses jets de sauv
 ## Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2 dégâts perforants.
+
+
 ---
 title: "Kakishikh"
 type: "Fiélon"
@@ -6964,6 +7184,8 @@ _**Téléportation**_. La Kakishikh se téléporte par magie, avec tous ses obje
 
 ## Réactions
 _**Parade**_. La Kakishikh ajoute 5 à sa VD lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+
+
 ---
 title: "Kashakosh"
 type: "Fiélon"
@@ -7066,6 +7288,8 @@ Kashakosh peut faire 2 actions légendaires, parmi celles proposées ci-dessous.
 _**Détecter**_. Kashakosh fait un test de Sagesse (Perception).
 
 _**Attaque avec les ailes (coûte 2 actions)**_. Kashakosh bat des ailes, ce qui a pour effet d'éteindre les sources de lumière ordinaires et magiques. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 4d6 dégâts de feu. Kashakosh peut alors se déplacer en volant de la moitié de sa vitesse en vol.
+
+
 ---
 title: "Kashokh"
 type: "Fiélon"
@@ -7146,6 +7370,8 @@ _**Attaque**_. Kashokh fait une attaque de _bourse_ ou _pièces en fusion_.
 _**Que tombe la pluie !**_ Kashokh lance des pièces d'or et des bijoux dans une zone de 1,50 mètre de rayon qui se trouve dans un rayon de 18 mètres. Si une créature se trouve à 18 mètres ou moins du trésor et qu'elle peut le voir, elle doit faire un jet de sauvegarde de Sagesse DD 24. Sur un échec, elle utilise sa réaction pour se déplacer de sa vitesse en direction du trésor, qui disparaît à la fin du tour.
 
 _**Plein aux as (3 actions)**_. Kashokh recharge son pouvoir votre poids en or.
+
+
 ---
 title: "Kesh"
 type: "Fiélon"
@@ -7199,6 +7425,8 @@ _**Esprit lié**_. Le Kesh est lié à un lieu, une maison, un établissement (e
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 au toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégâts perforants.
+
+
 ---
 title: "Khashik"
 type: "Fiélon"
@@ -7251,6 +7479,8 @@ _**Griffes (Morsure sous forme de bête)**_. _Attaque d'arme au corps à corps_ 
 _Touché_ : 1 dégâts perforants, et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas subir 2d6 dégâts de poison musculaire et être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. La cible peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 _**Invisibilité**_. Le Khashik devient invisible par magie jusqu'à ce qu'il attaque ou utilise sa Frayeur, ou si sa concentration est interrompue (comme s'il se concentrait sur un sort). Ses objets équipés ou transportés deviennent également invisibles.
+
+
 ---
 title: "Kheshou"
 type: "Fiélon"
@@ -7306,6 +7536,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Khoulggotateelle"
 type: "Aberration"
@@ -7429,6 +7661,8 @@ Elle peut créer n’importe quelle illusion.
 Ses paroles ont le même effet que le sort souhait, mais en beaucoup plus puissant. Ainsi les représentation d’elle sont toujours avec un cœur dans la bouche pour « l’empêcher » de parler.
 Bien qu’aucune théorie n’avait imaginer cela, les Lhufhtashogg sont en réalité l’œuvre de l’Indefinnisable. Elle en a incrusté dans le monde comme des verrues à éradiquer. Ces puits rongent la fertilité du monde jusqu’à ce ne soit plus qu’un vulgaire rocher. Aussi les sacrifices que les prêtres font en pensant qu’ils alimentent leur dieux par l’intermédiaire de ces puits, alimentent en fait Khoulggotatelle.  
 Khoulggotatelle approfondie chaque jour dans sa longue éternité les abysses des plans, pour qu’un jour ces plans s’effritent et se détachent du tout de leur plan. Le jour où les mondes se disloqueront, sera le premier signe annonciateur de l’apocalypse. Grimmgath a d’ailleurs profité de ce sort pour enfermer La Mangeuse D’Hommes dans ces abysses.  
+
+
 ---
 title: "Khukheshakh"
 type: "Fiélon"
@@ -7500,6 +7734,8 @@ _**Coup de corne**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allon
 _Touché_ : 3 dégâts perforants et la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle se retrouve _à terre_.
 
 _**Foudroiement (Recharge 5-6)**_. Un Khukheshakh peut faire apparaître un éclair crépitant dans le ciel, ou dans l'air s'il se trouve sous terre ou à l'intérieur, et diriger celui-ci afin qu'il frappe un point que le Khukheshakh peut voir dans un rayon de 45 m. Toutes les créatures qui se trouvent dans un rayon de 6 m autour du point d'impact subissent 10d6 dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16. Si une créature échoue à son jet de sauvegarde, elle est _étourdie_ jusqu'au début du prochain tour du Khukheshakh.
+
+
 ---
 title: "Kishi"
 type: "Fiélon"
@@ -7575,6 +7811,8 @@ _Touché_ : 4 dégâts perforants ou 6 dégâts perforants si utilisée à deux 
 Certains démons kishis possèdent une action qui leur permet de convoquer d'autres démons.
 
 _**Convocation de démon (1/jour)**_ : Un kishi a 30 pour cent de chances  (5-6 sur 1d6) de convoquer un autre kishi.
+
+
 ---
 title: "Knut Svenson"
 type: "PJ"
@@ -7742,6 +7980,8 @@ Knut possède l'équipement suivant :
 Comme un sou neuf
 
 §§§
+
+
 ---
 title: "Korshekh"
 type: "Fiélon"
@@ -7830,6 +8070,8 @@ _**Cri perçant**_. Toutes les créatures qui se trouvent dans un cône de 18 m�
 _**Roulement mortel (2 actions)**_. Korshekh se déplace de la moitié de sa vitesse et fait une attaque d'écrasement. Les constructions ou les objets qui se trouvent dans les emplacements qu'il traverse subissent automatiquement deux fois les dégâts d'écrasement.
 
 _**Dévorer (3 actions)**_. Korshekh fait une attaque de _morsure_.
+
+
 ---
 title: "Koshei"
 type: "Fiélon"
@@ -7910,6 +8152,8 @@ _**Attaque**_. Koschei fait une attaque à l'_épée longue_.
 _**Téléportation**_. Koschei peut se téléporter par magie jusqu'à un emplacement inoccupé qu'il peut voir situé dans un rayon de 12 mètres.
 
 _**Drain (2 actions)**_. Koschei fait une attaque de _drain de vie_.
+
+
 ---
 title: "Kreshk"
 type: "Fiélon"
@@ -7957,6 +8201,8 @@ _**Morsure**_. Attaque d'arme au corps à corps : +2 pour toucher, allonge 1,50 
 _Touché_ : 3 dégâts perforants.  
 
 _**Nuage fétide (1/jour)**_. Un gaz vert répugnant de 3 mètres de rayon s'étend autour du dretch. Le gaz contourne les angles et la visibilité dont la zone est légèrement obstruée. Il dure 1 minute ou jusqu'à ce qu'un vent violent le disperse. Les créatures qui commencent leur tour dans cette zone doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11 pour ne pas être [_empoisonnées_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'au début de leur prochain tour. Les créatures [_empoisonnées_](/gerer-la-sante-du-personnage/#empoisonne) de cette façon peuvent effectuer une action ou une action bonus lors de leur tour, mais pas les deux, et elles ne peuvent pas effectuer de réaction.  
+
+
 ---
 title: "Lézard"
 type: "Bête"
@@ -7993,6 +8239,8 @@ dungeonTypes:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Lézard géant"
 type: "Bête"
@@ -8029,6 +8277,8 @@ dungeonTypes:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Lhaothlastholo"
 type: "Aberration"
@@ -8170,6 +8420,8 @@ Il peut jeter toutes les malédictions possibles ainsi que toutes les bénédict
 Il connaît tout les secrets et les faiblesses des dieux.
 Son croassement de crapaud peut provoquer des ouragans ou des tempêtes.
 Lhaothlastholo n’a accès à ses pouvoirs qu’avec sa langue où est écrit tout ses secrets. Pour l’instant, Khoulggotateelle possède cette langue, préparant sa terrible vengeance auprès des dieux dans sa profonde éternité hors du temps. Lhaothlastholo, privé de toute sa puissance ouvre de plus en plus grand sa bouche enfantine en quête de sa langue jusqu’à ce qu’il la trouvera. Mais lorsque les étoiles disparaîtront avec le soleil, c’est que le crapaud n’est pas loin...
+
+
 ---
 title: "Lion"
 type: "Bête"
@@ -8217,6 +8469,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Lôchetos Vlatcano"
 type: "PJ"
@@ -8441,6 +8695,8 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-weight</v-icon> Commerce
 Achat de quatre grandes barques
 §§§
+
+
 ---
 title: "Loup"
 type: "Bête"
@@ -8482,6 +8738,8 @@ _**Tactique de groupe**_. Le loup obtient un [_avantage_](/utiliser-les-caracter
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ :3 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 11 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Loup des monts du Menezlatar"
 type: "Bête"
@@ -8536,6 +8794,8 @@ Certains sages pensent qu'ils n'appartiendraient pas au monde animal. Des chasse
 *Je compris que je ne risquais rien, je remerciai le loup d'un mouvement de tête et je m'enroulai dans ma cape pour dormir, la nuit serait longue et je partirai demain*."     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Loup des plaines de Thyria"
 type: "Bête"
@@ -8590,6 +8850,8 @@ Pourtant, les loups ne sont pas des créatures suicidaires, elles chassent en ha
 "*Je sentais la fin toute proche. Allongé dans la plaine et baignant dans mon sang, j'entendais encore autour les râles et les gémissements de mes frères d'armes, ceux de mes ennemis aussi. La bataille avait été courte et intense, d'une violence inouïe. J'étais tombé dans les premiers instants.*   *Maintenant, je voyais ces grands loups noirs dépecer un guerrier tombé non loin de moi. Le grand chef de meute me fixa et se dirigea dans ma direction, grognant et montrant les crocs. Incapable de bouger, je regardais la mort s'approcher. Des cris déclenchèrent leur fuite. Les loups s'enfuirent sans profiter de leur repas. J'entendais les appels des villageois qui venaient à notre secours. L'espoir revint.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Loup sanguinaire"
 type: "Bête"
@@ -8636,6 +8898,8 @@ _Touché_ : 10 dégâts perforants. Si la cible est une créature, elle doit ré
 Les Loups sanguinaires ne sont pas des créatures magiques. Ils ont entièrement gardé leurs caractéristiques de loup mais descendent d'une ancienne race presque disparue. Les plus grandes différences avec les loups communs sont, d'une part, leur gabarit exceptionnel (Long de 8 pieds , il pèse dans les huit cent livres ), d'autre part, leur mode de vie solitaire.  
 Le Loup sanguinaires ne rencontre ses congénères que pour se reproduire, parcourant quelquefois des centaines de lieux pour se réunir. Leur territoire de chasse recouvre une très vaste étendue. Un Loup sanguinaires vient à bout d'un cheval sans difficulté. Il n'hésite pas à chasser les autres loups qui l'évitent dans la mesure du possible. Il ne craint pas non plus l'homme. Le feu ne l'impressionne pas : il ne reculera que devant d'importantes flammes.  
 Ce caractère de prédateur lui a donné une terrible réputation entraînant son massacre pendant des siècles. Sa dépouille représente un rare trophée de chasse que peu de chasseurs sont à la hauteur de posséder. Actuellement, quelques spécimens survivent mais pour de nombreux habitants de Douaratil, l'existence du Loup sanguinaires relève de la vieille légende souvent confondue avec des histoires de loups-garous.  
+
+
 ---
 title: "Malaak"
 type: "Bête"
@@ -8693,6 +8957,8 @@ Haut de près de onze pieds, il pèse entre sept cent et mille cent livres. Cett
 *Il avait un museau très développé, semblable à celui d’un chien, tel celui que porte le babouin et à bien des égards, il en avait la parenté. La mâchoire était puissante et la dentition devait être particulièrement développée, comme celles des félins. J’en eu immédiatement la confirmation lorsque la créature bâilla, ouvrant la gueule en grand et dévoilant des dents redoutables, dont de larges incisives aussi longues que la main tendue d’un homme. Sa face était recouverte de protubérances de chair qui recouvraient le museau sur le sens de la longueur et qui entouraient les orbites oculaires. L’animal avait un regard citrin terrifiant, avec en son centre, de minuscules pupilles noires.* »
 **Chroniques de Yerkum de Jaad Ben Nassyr**
 §§§
+
+
 ---
 title: "Malala Soa"
 type: "PJ"
@@ -8796,6 +9062,8 @@ Malala Soa possède l'équipement suivant :
 **Points de Foi** :19   
 **Points d'honneur** :15
 §§§
+
+
 ---
 title: "Mammouth"
 type: "Bête"
@@ -8833,6 +9101,8 @@ _Touché_ : 10 dégâts perforants.
 
 _**Piétinement**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une créature [_à terre_](/gerer-la-sante-du-personnage/#a-terre).  
 _Touché_ : 10 dégâts contondants.
+
+
 ---
 title: "Mandrill des montagnes"
 type: "Bête"
@@ -8886,6 +9156,8 @@ _Touché_ : 6 dégâts perforants.
 « *Sur notre droite, le bruissement de la neige poudreuse qui s’éparpille laissa apparaitre une créature de grande taille, au moins dix pieds de haut, deux fois la taille d’un homme. Sa tête, qui tenait tout autant du simiesque que du canin, était recouverte d’une sorte de cuir épais bleuté. Leng se demanda ce que cette créature pouvait bien manger, il se sentit dans la peau d’un bouquetin et regretta de ne pas avoir leur agilité pour prendre la fuite. Outre sa taille, la bête était recouverte de long poils blancs qui lui offrait un formidable camouflage dans ces pentes enneigées et sans nul doute une protection contre la rigueur du climat. Elle avait les membres allongés qui se terminaient pas de grandes mains griffues. Ses yeux jaunes fixaient les deux hommes alors que son museau humain l’air. La créature paraissait étonnée de ne pas reconnaitre l’odeur de ses proies habituelles. Elle hochait la tête de gauche à droite lentement.* »
 **Mémoires de Yob le Sage**
 §§§
+
+
 ---
 title: "Margs Maenkalon"
 type: "PJ"
@@ -9099,6 +9371,8 @@ Margs possède l'équipement suivant :
 - dos (trou omoplates)
 
 §§§
+
+
 ---
 title: "Mastiff"
 type: "Bête"
@@ -9136,6 +9410,8 @@ _**Odorat et ouïe aiguisés**_. Le mastiff obtient un [_avantage_](/utiliser-le
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 11 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Mille-pattes géant"
 type: "Bête"
@@ -9172,6 +9448,8 @@ dungeonTypes:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 2 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 11 pour ne pas subir 3d6 dégâts de poison. Si les dégâts de poison réduisent à 0 les points d'action  de la cible, celle-ci est stable mais _empoisonnée_ pendant 1 heure, même après avoir récupéré des points d'action, et elle est _paralysée_ tant que le poison continue de faire effet.
+
+
 ---
 title: "Morwenna Moisan"
 type: "PNJ"
@@ -9234,6 +9512,8 @@ _Touché_ : 4 dégâts perforants.
 Morwenna est une princesse khernaëe convoitée car en plus de sa beauté, de belles boucles d'or, un regard d'aigue-marine, et de petites lèvres sanguines; elle est la fille du puissant Rek Goulvenig Moisan. Elle a été promise par son père à Alarig Pinvidic, prince de Ker-Saozon.
 Morwenna peut mener un train de vie aristocratique dans toutes les terres khernaëes.
 §§§
+
+
 ---
 title: "Mule"
 type: "Bête"
@@ -9272,6 +9552,8 @@ _**Pied sûr**_. La mule obtient un [_avantage_](/utiliser-les-caracteristiques/
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts contondants.
+
+
 ---
 title: "Nuée de chauve-souris"
 isSwarm: true
@@ -9329,6 +9611,8 @@ _**Ouïe aiguisée**_. La nuée obtient un [_avantage_](/utiliser-les-caracteris
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
 _Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+
+
 ---
 title: "Nuée de corbeaux"
 isSwarm: true
@@ -9384,6 +9668,8 @@ _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice 
 ## Actions
 _**Becs**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature dans l'emplacement de la nuée.  
 _Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+
+
 ---
 title: "Nuée de papillons de mort"
 isSwarm: true
@@ -9444,6 +9730,8 @@ _**Attaques multiples**_. La nuée porte une attaque de _morsure_ contre toutes 
 
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée.  
 _Touché_ : 12 dégâts perforants ou 6 dégâts perforants si la nuée n'a plus que la moitié de ses points d'action ou moins. La cible subit également 3d6 dégâts de poison et est _empoisonnée_ pendant 1d6 rounds ; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état _empoisonné_ si elle réussit un jet de sauvegarde de Constitution DD 13.
+
+
 ---
 title: "Nuée de papillons de mort, Grande"
 isSwarm: true
@@ -9504,6 +9792,8 @@ _**Attaques multiples**_. La nuée porte une attaque de _morsure_ contre toutes 
 
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée.  
 _Touché_ : 16 dégâts perforants ou 8 dégâts perforants si la nuée n'a plus que la moitié de ses points d'action ou moins. La cible subit également 5d6 dégâts de poison et est _empoisonnée_ pendant 1d6 rounds ; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état _empoisonné_ si elle réussit un jet de sauvegarde de Constitution DD 15.
+
+
 ---
 title: "Nuée de piranhas"
 isSwarm: true
@@ -9562,6 +9852,8 @@ _**Respiration aquatique**_. La nuée peut respirer uniquement sous l'eau.
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
 _Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+
+
 ---
 title: "Nuée de rats"
 isSwarm: true
@@ -9614,6 +9906,8 @@ _**Odorat aiguisé**_. La nuée obtient un [_avantage_](/utiliser-les-caracteris
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
 _Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+
+
 ---
 title: "Nuée de serpents venimeux"
 isSwarm: true
@@ -9668,6 +9962,8 @@ _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice 
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
 _Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10. Elle subit 4d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Nuée d'insectes"
 isSwarm: true
@@ -9735,6 +10031,8 @@ _**Nuée d'araignée**_. Une nuée d'araignée possède les traits supplémentai
 
 _**Nuée de guêpes**_. Une nuée de guêpes possède une vitesse au sol de 1,50 mètre, une vitesse en vol de 9 mètres et aucune vitesse d'escalade.
 §§§
+
+
 ---
 title: "Odoba"
 type: "Fiélon"
@@ -9819,6 +10117,8 @@ _Touché_ : 8 dégâts contondants plus 5d6 dégâts d'acide.
 
 _**Pas pesant**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Ombre"
 type: "Mort-vivant"
@@ -9884,6 +10184,8 @@ _**Informe**_. L'ombre peut traverser sans devoir se faufiler un interstice d'un
 _**Ponction de force**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3 dégâts nécrotiques et la valeur de Force de la cible est réduite de 1d6 points. La cible meurt si cet effet réduit sa valeur de Force à 0. Sinon, la réduction persiste jusqu'à la fin d'une période de repos long ou court.  
 Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre surgit de son cadavre après 1d4 heures.
+
+
 ---
 title: "Ours brun"
 type: "Bête"
@@ -9929,6 +10231,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Ours charognard"
 type: "Bête"
@@ -9979,6 +10283,8 @@ _Touché_ : 10 dégâts perforants.
 
 Cet ours omnivore n’importune pas les créatures qui cherchent à l’éviter, mais il attaque aussitôt si l’on s’approche d’une de ses proies ou sources de nourriture. Il n’hésite pas à défoncer tout ce qui pourrait contenir quelque chose à manger.  
 Un ours charognard est animal de très grande taille qui peut atteindre douze pieds de long et peser huit mille livres.  
+
+
 ---
 title: "Ours noir"
 type: "Bête"
@@ -10019,6 +10325,8 @@ _Touché_ : 3 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Ours polaire"
 type: "Bête"
@@ -10062,6 +10370,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Owain Macaro"
 type: "PJ"
@@ -10201,6 +10511,8 @@ Owain possède l'équipement suivant :
 **Points de Foi** :10   
 **Points d'honneur** :20  
 §§§
+
+
 ---
 title: "Panthère"
 type: "Bête"
@@ -10247,6 +10559,8 @@ _Touché_ : 3 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Pieuvre"
 type: "Bête"
@@ -10296,6 +10610,8 @@ _**Nuage d'encre (Recharge après un [_repos court_](/gerer-la-sante-du-personna
 
 _**Tentacules**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât contondant et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 10). Jusqu'au terme de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et la pieuvre ne peut pas utiliser ses tentacules sur une autre cible.
+
+
 ---
 title: "Pieuvre géante"
 type: "Bête"
@@ -10345,6 +10661,8 @@ _**Nuage d'encre (Recharge après un [_repos court_](/gerer-la-sante-du-personna
 
 _**Tentacules**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 6 dégâts contondants et, si la cible est une créature, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 16). Jusqu'au terme de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et la pieuvre ne peut pas utiliser ses tentacules contre une autre cible.
+
+
 ---
 title: "Piranha"
 type: "Bête"
@@ -10384,6 +10702,8 @@ _**Respiration aquatique**_. Le piranha peut respirer uniquement sous l'eau.
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Plésiosaure"
 type: "Bête"
@@ -10425,6 +10745,8 @@ _**Retenir son souffle**_. Le plésiosaure peut retenir son souffle pendant 1 he
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Poney"
 type: "Bête"
@@ -10457,6 +10779,8 @@ environments:
 ## Actions
 _**Sabots**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts contondants.
+
+
 ---
 title: "Pywed Vecconos"
 type: "PJ"
@@ -10638,6 +10962,8 @@ Pywed Vecconos possède l'équipement suivant :
 
 
 §§§
+
+
 ---
 title: "Rat"
 type: "Bête"
@@ -10673,6 +10999,8 @@ _**Odorat aiguisé**_. Le rat obtient un [_avantage_](/utiliser-les-caracteristi
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +0 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant.
+
+
 ---
 title: "Rat géant"
 type: "Bête"
@@ -10718,6 +11046,8 @@ Certains rats géants sont porteurs d'ignobles maladies transmissibles par morsu
 _**Morsure**_. _Attaque d'arme au corps à corps_  : +4 pour toucher, allonge 1,50  m, une cible.  
 _Touché_ : 2 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD  10 pour ne pas contracter la maladie. Tant que cette maladie n'est pas soignée, la cible ne peut plus récupérer de points d'action, sauf par des moyens magiques, et son total maximum de points d'action diminue de 1d6 toutes les 24 heures. Elle meurt si son total maximum de points d'action tombe à 0 à cause de cette maladie.
 §§§
+
+
 ---
 title: "Rejeton d'Akashakhal"
 type: "Fiélon"
@@ -10767,6 +11097,8 @@ _Touché_ : 3 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants plus 2d6 dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être _empoisonnée_ pour 1d6 rounds.
+
+
 ---
 title: "Rejeton d'Arbedab"
 type: "Fiélon"
@@ -10819,6 +11151,8 @@ _Touché_ : 3 dégâts tranchants 2d6 dégâts de poison.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants plus 2d6 dégâts de poison musculaire. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle se trouve dans l'état _empoisonné_ pendant 1 minute. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+
+
 ---
 title: "Requin chasseur"
 type: "Bête"
@@ -10861,6 +11195,8 @@ _**Respiration aquatique**_. Le requin peut respirer uniquement sous l'eau.
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Requin de récif"
 type: "Bête"
@@ -10903,6 +11239,8 @@ _**Respiration aquatique**_. Le requin peut respirer uniquement sous l'eau.
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Requin géant"
 type: "Bête"
@@ -10945,6 +11283,8 @@ _**Respiration aquatique**_. Le requin peut respirer uniquement sous l'eau.
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 10 dégâts perforants.
+
+
 ---
 title: "Rhinocéros"
 type: "Bête"
@@ -10979,6 +11319,8 @@ _**Charge**_. Si le rhinocéros se déplace en ligne droite sur une distance min
 ## Actions
 _**Coup de corne**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Rudolf Bernsen"
 type: "PJ"
@@ -11176,6 +11518,8 @@ La valeur naturelle de Force de Rudolf est de 16.
 facture mineur au thorax (fracture	20 jours,	Usage du membre impossible ou risque d'aggravation, DD28)
 
 §§§
+
+
 ---
 title: "Sanglier"
 type: "Bête"
@@ -11214,6 +11558,8 @@ _**Implacable (Recharge après un [_repos court_](/gerer-la-sante-du-personnage/
 ## Actions
 _**Défense**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts tranchants.
+
+
 ---
 title: "Sanglier géant"
 type: "Bête"
@@ -11252,6 +11598,8 @@ _**Implacable (Recharge après un [_repos court_](/gerer-la-sante-du-personnage/
 ## Actions
 _**Défense**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants.
+
+
 ---
 title: "Sathyakurm’de"
 type: "Aberration"
@@ -11368,6 +11716,8 @@ Sathyakurm’de a eu de nombreux avatars qui disparurent tous soudainement aux y
 Elle a le pouvoirs de déclencher des conflits insensé entre les alliés.  
 Elle peut maîtriser tout les métaux qu’elle voit.
 Les prophéties disent que lors du dernier jours du monde, elle viendra sur terre et elle jugera tout le monde. Ceux qui ne seront pas digne d’un véritable guerrier, mourra entre ses innombrables bras.  
+
+
 ---
 title: "Sawrina Semramis"
 type: "PJ"
@@ -11564,6 +11914,8 @@ Sawrina possède l'équipement suivant :
 Ne garde pas de cicatrices
 
 §§§
+
+
 ---
 title: "Scorpion"
 type: "Bête"
@@ -11598,6 +11950,8 @@ dungeonTypes:
 ## Actions
 _**Dard**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 9. Elle subit 1d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Scorpion géant"
 type: "Bête"
@@ -11637,6 +11991,8 @@ _Touché_ : 6 dégâts perforants et la cible doit effectuer un [jet de sauvegar
 
 _**Pince**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 12). Le scorpion a deux pinces dont chacune ne peut empoigner qu'une seule cible.
+
+
 ---
 title: "Scorpion nocturne"
 type: "Bête"
@@ -11678,6 +12034,8 @@ _Touché_ : 6 dégâts contondants et la cible est _empoignée_ (évasion DD 12)
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 6 dégâts perforants, la cible subit aussi 2d6 dégâts de poison et se retrouve _aveuglée_ pendant 1d3 heures. Si elle réussit un jet de sauvegarde de Constitution DD 12, les dégâts sont réduits de moitié et elle n'est pas _aveuglée_. Si elle rate le jet de sauvegarde de 5 ou plus, elle est également _paralysée_ le temps de l'empoisonnement. La cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet sur une réussite.
+
+
 ---
 title: "Scorpion stygien à large queue"
 type: "Bête"
@@ -11718,6 +12076,8 @@ _Touché_ : 1 dégât contondant.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant, plus 6d6 dégâts de poison et la cible est _empoisonnée_ jusqu'à ce qu'elle termine un long ou un court repos. Un jet de sauvegarde de Constitution DD 10 réduit les dégâts de poison de moitié et empêche l'empoisonnement. Si la cible rate son jet de sauvegarde alors qu'elle est déjà _empoisonnée_, elle gagne un niveau d'épuisement en plus du reste.
+
+
 ---
 title: "Sermazloth adepte"
 type: "Humanoïde"
@@ -11766,6 +12126,8 @@ _Touché_ : 8 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +8 pour toucher, portée 30/120, une cible.  
 _Touché_ : 8 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Sermazloth apprentie"
 type: "Humanoïde"
@@ -11812,6 +12174,8 @@ _Touché_ : 7 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +6 pour toucher, portée 30/120, une cible.  
 _Touché_ : 7 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Sermazloth disciple"
 type: "Humanoïde"
@@ -11856,6 +12220,8 @@ _Touché_ : 7 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 30/120, une cible.  
 _Touché_ : 7 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Sermazloth experte"
 type: "Humanoïde"
@@ -11907,6 +12273,8 @@ _Touché_ : 9 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 30/120, une cible.  
 _Touché_ : 9 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Sermazloth maîtresse"
 type: "Humanoïde"
@@ -11961,6 +12329,8 @@ _Touché_ : 9 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 30/120, une cible.  
 _Touché_ : 9 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Sermazloth novice"
 type: "Humanoïde"
@@ -12004,6 +12374,8 @@ _Touché_ : 6 dégâts tranchant (Finesse, légère).
 
 _**Arc composite**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 30/120, une cible.  
 _Touché_ : 6 dégâts perforant (Munitions , lourde, à deux mains).  
+
+
 ---
 title: "Serpent constricteur"
 type: "Bête"
@@ -12041,6 +12413,8 @@ _Touché_ : 6 dégâts contondants et la cible est [_empoignée_](/gerer-la-sant
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Serpent constricteur géant"
 type: "Bête"
@@ -12080,6 +12454,8 @@ _Touché_ : 10 dégâts contondants et la cible est [_empoignée_](/gerer-la-san
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une créature.  
 _Touché_ : 10 dégâts perforants.
+
+
 ---
 title: "Serpent de mer"
 type: "Créature monstrueuse"
@@ -12135,6 +12511,8 @@ _Touché_ : 20 dégâts contondants plus 20 dégâts tranchants. La cible est [_
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 6 m, une cible.  
 _Touché_ : 20 dégâts contondants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 20 pour ne pas tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Serpent venimeux"
 type: "Bête"
@@ -12170,6 +12548,8 @@ environments:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10. Elle subit 2d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Serpent venimeux géant"
 type: "Bête"
@@ -12207,6 +12587,8 @@ dungeonTypes:
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+
+
 ---
 title: "Serpent volant"
 type: "Bête"
@@ -12244,6 +12626,8 @@ _**Repli aérien**_. Le serpent ne provoque pas d'attaque d'opportunité quand i
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1 dégât perforant plus 2d6 dégâts de poison.
+
+
 ---
 title: "Shakhakheh"
 type: "Fiélon"
@@ -12305,6 +12689,8 @@ _Touché_ : 5d6 dégâts de feu.
 _**Torche incandescente (Recharge 5-6)**_. Le Shakhakheh intensifie sa radiance torride pour la rendre dévastatrice. Toutes les créatures qui se trouvent dans la zone d'effet de l'aura du Shakhakheh subissent 9d6 dégâts radiants et gagnent un niveau d'épuisement. Si une créature réussit un jet de sauvegarde de Constitution DD 16, elle diminue de moitié cette quantité de dégâts et annule l'effet d'épuisement.
 
 _**Téléportation**_. Un Shakhakheh peut se téléporter par magie jusqu'à un emplacement inoccupé qui se situe dans un rayon de 30 mètres.
+
+
 ---
 title: "Shakhor"
 type: "Fiélon"
@@ -12367,6 +12753,8 @@ _Touché_ : 10 dégâts tranchants plus 4d6 dégâts de foudre.
 _**Fouet**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 9 m, une cible. Touché : 10 dégâts tranchants plus 3d6 dégâts de feu et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 20 pour ne pas être tiré vers le Shakhor sur une distance maximale de 7,50 mètres.
 
 _**Téléportation**_. Le Shakhor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+
+
 ---
 title: "Shakhu"
 type: "Fiélon"
@@ -12425,6 +12813,8 @@ _Touché_ : 6 dégâts contondants. Si la cible est une créature de taille M ou
 
 _**Poing**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Shamash Eriba"
 type: "PNJ"
@@ -12490,6 +12880,8 @@ _Touché_ : 4 dégâts perforants.
 ### Présentation:  
 Shamash Eriba est marchand Assyrhim des royaumes de Shahia qui parcourt beaucoup de contrées pour vendre des biens souvent recherchés (armes, poisons, informations compromettantes). Cet homme a la peau sombre porte une large barbe noire. Il est souvent habillé de noir dans des vêtements amples du Sud. Il ne quitte jamais son turban. Ancien grand guerrier, il s'est allié les services d'une puissante sorcière qui lui est redevable : Shamreta la rouge.  
 §§§
+
+
 ---
 title: "Shamreta la rouge"
 type: "PNJ"
@@ -12583,6 +12975,8 @@ Shamreta la rouge est une énigmatique sorcière au service du puissant marchand
 
 **Expert** :
 [Malédiction funeste](/grimoire/malediction-funeste), [Nuage incendiaire](/grimoire/nuage-incendiaire), [Tremblement de terre](/grimoire/tremblement-de-terre).
+
+
 ---
 title: "Shandoth"
 type: "Aberration"
@@ -12712,6 +13106,8 @@ Elle a le pouvoir de bénir tout les êtres de tous les plans.
 Elle a le pouvoir de prémonition. Elle peut deviner certaine chose qui vont arriver mais seulement dans des centaines de siècles.
 Elle a le pouvoir de rendre les mortels immortels si tel est son désir.
 De ses mains, elle peut anéantir toutes choses, mais aussi créer ce qu’elle imagine. 	Elle est la seule à pouvoir combattre son frère et son épée Autataurë.  
+
+
 ---
 title: "Shasheskie"
 type: "Fiélon"
@@ -12771,6 +13167,8 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,
 _Touché_ : 6 dégâts perforants.
 
 _**Téléportation**_. Le Shasheskie se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
+
+
 ---
 title: "Sheggothlil"
 type: "Aberration"
@@ -12887,6 +13285,8 @@ Aucun
 Le regard de cette déesse rend tout ce qu’elle voit vieux et sur le point de tomber en poussière.
 Les griffes de la déesse sont empoissonnées .  
 Le jour de la fin des temps, elle appellera vers elle toute la vie qu’elle a donnée, et reprendra l’immortalité des dieux.   
+
+
 ---
 title: "Shekhuii"
 type: "Fiélon"
@@ -12985,6 +13385,8 @@ _**Brûlure intérieure**_. Shekhuii prend pour cible une créature qui se trouv
 _**Sort (coûte 2 actions)**_. Shekhuii lance un sort.
 
 _**Couronne de feu (coûte 2 actions)**_. Shekhuii utilise _couronne embrasante_.
+
+
 ---
 title: "Shine Hame"
 type: "PJ"
@@ -13164,6 +13566,8 @@ Shin Hame possède l'équipement suivant :
 - mollet droit (10 cm)
 
 §§§
+
+
 ---
 title: "Shokh"
 type: "Fiélon"
@@ -13222,6 +13626,8 @@ _**Serres**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50
 _Touché_ : 6 dégâts tranchants.
 
 _**Spores (recharge 6)**_. Un nuage de spores toxiques de 4,50 mètres de rayon s'étend autour du Shokh. Les spores contournent les angles. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être _empoisonnées_. Une cible subit 2d6 dégâts de poison respiratoire au début de chacun de ses tours tant qu'elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) de cette façon. Une cible peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite. Déverser le contenu d'une fiole d'eau bénite sur la cible met également fin à cet effet.
+
+
 ---
 title: "shookash"
 type: "Fiélon"
@@ -13292,6 +13698,8 @@ _**Rayon de vol d'ombre (Recharge 5-6)**_ Un shookash peut émettre un rayon dep
 Si la créature touchée par le rayon de vol d'ombre fuit le combat, elle se trouve dépourvue d'ombre naturelle pendant 2d6 jours, qui est le temps qu'il faut à l'ombre morte-vivante pour se dissiper et que l'ombre naturelle de la créature réapparaisse. Si sa créature d'origine meurt lors de la rencontre, l'ombre morte-vivante lui dérobe son corps. Dans ce cas, l'alignement de la créature devient maléfique et elle passe sous le contrôle du shookash. La créature regagne son ombre naturelle immédiatement après que l'ombre morte-vivante soit tuée.
 
 Une créature ne peut se faire voler son ombre par le rayon de vol d'ombre qu'une seule fois par jour, même si elle est touchée par les rayons de deux shookashs différents. Cependant, elle est repoussée en arrière chaque fois qu'un rayon la touche.
+
+
 ---
 title: "Shukhakh"
 type: "Fiélon"
@@ -13355,6 +13763,8 @@ _**Griffes**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,
 _Touché_ : 3 dégâts tranchants.
 
 _**Boiterie**_. Le Shukhakh peut handicaper une créature en déchirant ses tendons et ses ligaments par télékinésie. Il peut viser une créature dans un rayon de 30 mètres. Elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle subit 4d6 dégâts de force et voit sa vitesse réduite de 6 mètres. Les déplacements magiques ne sont pas affectés. Ces dégâts se guérissent uniquement par magie, pas en dépensant un dé d'action ni en se reposant.
+
+
 ---
 title: "Shukkushe-Ikhushe"
 type: "Fiélon"
@@ -13420,6 +13830,8 @@ _**Forme éthérée**_. Le fiélon entre par magie dans le plan Éthéré depuis
 
 _**Griffe (forme de fiélon uniquement)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts tranchants.
+
+
 ---
 title: "Silhouette de sable"
 type: "Mort-vivant"
@@ -13487,6 +13899,8 @@ _Touché_ : 3 dégâts contondants. Si les deux attaques touchent une cible de t
 _**Enveloppement**_. La silhouette de sable enveloppe une créature de taille Moyenne ou inférieure qu'elle a [_empoignée_](/gerer-la-sante-du-personnage/#empoigne). La cible enveloppée est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) et [_entravée_](/gerer-la-sante-du-personnage/#entrave), mais n'est plus [_empoignée_](/gerer-la-sante-du-personnage/#empoigne). Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 au début de chaque tour de la silhouette de sable, sans quoi elle subit 4d6 dégâts contondants. Si la silhouette de sable se déplace, la cible enveloppée se déplace avec elle. La silhouette de sable ne peut envelopper qu'une créature à la fois.
 
 _**Haboob hanté (recharge 4–6)**_. La silhouette de sable se change en nuage de poussière sablonneuse de 18 mètres de rayon grouillant de formes terrifiantes. Une créature qui commence son tour dans le nuage doit choisir si elle ferme les yeux et se retrouve alors [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'au début de son prochain tour ou si elle les garde ouverts, auquel cas elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15. Si elle le rate, elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1 minute. Une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.  
+
+
 ---
 title: "Singe géant"
 type: "Bête"
@@ -13529,6 +13943,8 @@ _Touché_ : 10 dégâts contondants.
 
 _**Rocher**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 15/30 m, une cible.  
 _Touché_ : 10 dégâts contondants.
+
+
 ---
 title: "Spectre"
 type: "Mort-vivant"
@@ -13586,6 +14002,8 @@ _**Sensibilité à la lumière du soleil**_. Le spectre subit un [_désavantage_
 ## Actions
 _**Absorption de vie**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 3d6 dégâts nécrotiques. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas voir son total maximum de points d'action réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine une période de [_repos long_](/gerer-la-sante-du-personnage/#repos-long). La cible meurt si cet effet réduit à 0 son total maximum de points d'action.
+
+
 ---
 title: "Spinosaure"
 type: "Bête"
@@ -13644,6 +14062,8 @@ _**Déplacement**_. Le spinosaure se déplace de la moitié de sa vitesse.
 _**Rugissement**_. Le spinosaure utilise _présence terrifiante_.
 
 _**Attaque avec la queue (coûte 2 actions)**_. Le spinosaure fait une attaque de _queue_.
+
+
 ---
 title: "Spinosaure, jeune"
 type: "Bête"
@@ -13685,6 +14105,8 @@ _Touché_ : 10 dégâts perforants. Si la cible est une créature de taille Moye
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 10 dégâts tranchants.
+
+
 ---
 title: "Taron Vecconos"
 type: "PJ"
@@ -13861,6 +14283,8 @@ Taron Vecconos possède l'équipement suivant :
 Comme un sou neuf
 
 §§§
+
+
 ---
 title: "Thorleik Aevarson"
 type: "PJ"
@@ -14089,6 +14513,8 @@ Thorleik Aevarson possède l'équipement suivant :
 Comme un sou neuf
 
 §§§
+
+
 ---
 title: "Tiberius Don Alonzo"
 type: "PJ"
@@ -14301,6 +14727,8 @@ petite maison à Ker-Saozon.
 Comme un sou neuf
 
 §§§
+
+
 ---
 title: "Tigre"
 type: "Bête"
@@ -14347,6 +14775,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Tigre à dents de sabre"
 type: "Bête"
@@ -14392,6 +14822,8 @@ _Touché_ : 6 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Titanoboa"
 type: "Bête"
@@ -14446,6 +14878,8 @@ _Touché_ : 20 dégâts contondants et la cible est _empoignée_ (évasion DD 18
 "*J’ai souvent eu peur, mais ce jour là je dois avouer que j’ai vraiment eu très peur lorsque ce gigantesque animal a bondit sur ma monture et moi-même. Les dieux soient loués, ma monture était plus appétissante que votre pauvre serviteur. Ce serpent vert titanesque dresse son énorme tête dans les airs, à plus de dix huit pieds de haut. Son corps s’étend en anneaux apparemment qui se perdent entre les arbres et les broussailles. Lorsque l’animal fut abattu par des gens de mon escorte, je peu constater que le monstre mesurait au bas mot soixante douze pieds de long pour un minimum de six mille livres.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Tricératops"
 type: "Bête"
@@ -14484,6 +14918,8 @@ _Touché_ : 10 dégâts perforants.
 
 _**Piétinement**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une créature [_à terre_](/gerer-la-sante-du-personnage/#a-terre).  
 _Touché_ : 10 dégâts contondants.
+
+
 ---
 title: "Tyrannosaure"
 type: "Bête"
@@ -14533,6 +14969,8 @@ _Touché_ : 10 dégâts contondants.
 *Entendant, les craquements de bois du carrosse disloqué sous la mâchoire du monstre et les cris d'agonie et de terreur des donzelles et des chevaux, je fuis à brides abattues, sauvant ma nouvelle monture.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Ur'h, chaman"
 type: "Humanoïde"
@@ -14581,6 +15019,8 @@ _**Attaques multiples**_. Le chaman effectue deux attaques au corps à corps.
 
 _**Masse**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
 _Touché_ : 4 dégâts contondants.
+
+
 ---
 title: "Uh'r"
 type: "Humanoïde"
@@ -14624,6 +15064,8 @@ _Touché_ : 8 dégâts tranchants.
 
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
 _Touché_ : 4 dégâts perforants.
+
+
 ---
 title: "Ur'h, Chef corrompu"
 type: "Géant"
@@ -14677,6 +15119,8 @@ _Touché_ : 6 dégâts contondants.
 
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +8 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
 _Touché_ : 6 dégâts perforants.
+
+
 ---
 title: "Ur'h mage"
 type: "Géant"
@@ -14733,6 +15177,8 @@ _Touché_ : 6 dégâts contondant.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants.
+
+
 ---
 title: "Ur'h noir"
 type: "Géant"
@@ -14774,6 +15220,8 @@ _Touché_ : 6 dégâts perforants.
 
 _**Massue**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts contondants.
+
+
 ---
 title: "Vampire"
 type: "Mort-vivant"
@@ -14855,6 +15303,8 @@ _**Déplacement**_. Le vampire se déplace sans provoquer d'attaque d'opportunit
 _**Frappe à mains nues**_. Le vampire effectue une frappe à mains nues.
 
 _**Morsure (coûte 2 actions)**_. Le vampire effectue une attaque de morsure.
+
+
 ---
 title: "Vampire, Sorcier"
 type: "Mort-vivant"
@@ -14941,6 +15391,8 @@ _**Pas brumeux**_. Le sorcier vampire utilise _pas brumeux_.
 _**Attaque à mains nues**_. Le sorcier vampire fait une attaque à mains nues.
 
 _**Appeler le sang (coûte 2 actions)**_. Le sorcier vampire utilise _appeler le sang_.
+
+
 ---
 title: "Vampire umbral"
 type: "Fiélon"
@@ -15013,6 +15465,8 @@ _**Poigne umbrale**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allo
 _Touché_ : 5d6 dégâts de froid et la valeur de Force de la cible diminue de 1d6. La cible meurt si cela réduit sa Force à 0, sinon la diminution persiste jusqu'à ce qu'elle termine un long ou un court repos.
 
 Si un humanoïde non mauvais décède suite à cette attaque, une ombre se lève de son cadavre 1d6 heures plus tard.
+
+
 ---
 title: "Vautour"
 type: "Bête"
@@ -15054,6 +15508,8 @@ _**Tactique de groupe**_. Le vautour obtient un [_avantage_](/utiliser-les-carac
 ## Actions
 _**Bec**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3 dégâts perforants.
+
+
 ---
 title: "Vautour géant"
 type: "Bête"
@@ -15098,6 +15554,8 @@ _Touché_ : 6 dégâts perforants.
 
 _**Serres**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants.
+
+
 ---
 title: "Ver piqueur"
 type: "Bête"
@@ -15142,6 +15600,8 @@ _Touché_ : 6 dégâts perforants et la cible doit effectuer un [jet de sauvegar
 §§§
 
 Cette créature n’a peut-être pas des origines naturelles. Il s’agit d’un énorme vers semblable à un gigantesque lombric mais doté d’un dard à son extrémité postérieure. De cette pointe osseuse suinte un venin extrêmement toxique qui paralyse sa victime permettant ainsi à l’animal de le digérer lentement en lui projetant ses sucs gastriques. Le ver possède un corps annelé de plaques plus solides qui explique sa résistance.
+
+
 ---
 title: "Vhaxrrixz"
 type: "Aberration"
@@ -15260,6 +15720,8 @@ Aucun
 ## Pouvoirs  
 Elle maîtrise le royaume des rêves, donc a de grandes influences sur la vie des hommes.  
 Lorsque la fin arrivera, elle viendra elle aussi, et annoncera toute la vérité de la plus innocente à la plus terrible.  
+
+
 ---
 title: "Vipère de Zanskaran"
 type: "Bête"
@@ -15300,6 +15762,8 @@ _Touché_ : 6 dégâts perforants, la cible doit réussir un jet de sauvegarde d
 *La vipère de Zanskaran grandit rapidement dans la jungle et quelques-unes s’aventurent dans la savane pour chasser. Une vipère de Zanskaran adulte mesure jusqu’à 9 mètres de long et pèse dans les 200 kilos. On dit qu’une dose de ce venin vert et visqueux peut atteindre jusqu’à 2 500 pièces d’or sur le marché noir, mais on en trouve rarement. En posséder et souvent une condamnation à mort de la part des autorités.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Vipère du marais"
 type: "Bête"
@@ -15342,6 +15806,8 @@ _Touché_ : 1 dégât perforant, et la cible doit réussir un jet de sauvegarde 
 *La vipère du marais est à la fois redoutée et estimée pour son venin paralysant. Elle est assez fine, mais peut atteindre 3,50 mètres pour 25 kilos. Une dose de son venin paralysant vaut 3 000 po ou plus sur le marché noir ce qui explique que des caravanes des royaumes de shahias font de très long voyages pour rejoindre les terres sooghaïs afin de s’en procurer. C’est au cour de l’un de ces voyages en pays sooghaïs avec mon ami Brahim Ibn Sard que j’ai pu en voir de mes yeux.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§
+
+
 ---
 title: "Worg"
 type: "Créature monstrueuse"
@@ -15382,6 +15848,8 @@ _**Odorat et ouïe aiguisés**_. Le worg obtient un [_avantage_](/utiliser-les-c
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Wyrm des sables"
 type: "Dragon"
@@ -15434,6 +15902,8 @@ _Touché_ : 6 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une créature.  
 _Touché_ : 6 dégâts perforant plus 7d6 dégâts de poison musculaire, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 15 réussi. Si les dégâts de poison réduisent les points d'action de la cible à 0, elle est stable, mais _empoisonnée_ et _paralysée_ pendant 1 heure. La récupération de points d'action ne met pas un terme à l'empoisonnement ni à la paralysie.
+
+
 ---
 title: "Yan Zin"
 type: "PJ"
@@ -15607,3 +16077,5 @@ Yan Zin possède l'équipement suivant :
 hanche gauche (20cm)
 
 §§§
+
+

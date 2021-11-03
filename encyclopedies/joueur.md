@@ -136,6 +136,8 @@ Le tableau d'évolution des personnages ci-dessous vous indique le nombre de poi
 | **875000** | 28 | +8 |+1 | +37 |
 | **965000** | 29 | +9 |+1 | +38 |
 | **1100000** | 30 | +9|+1 | +39 |
+
+
 ---
 title: "langues"
 ---
@@ -307,6 +309,8 @@ Peuple à la peau noire des royaumes du sud.
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**. La lance et la massue.  
 **Langues**. Vous pouvez parler le *Sogh*, langue commune des peuples du sud qui n’a pas de version écrite. Vous parlez le dialecte de votre tribu. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+
+
 ---
 title: Personnalité & Historique
 ---
@@ -857,6 +861,8 @@ Les gens du commun se reconnaissent facilement entre eux et se serrent les coude
 Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices. Vous trouvez toujours un lieu où l'on vous offre le gîte et le couvert en échange d'une représentation pour égayer l'ambiance. Tant que vous prenez la peine de vous produire au moins une fois par jour (quand les clients sont nombreux), on vous fournit un logement et une nourriture aussi décente que possible. De plus, vous vous attirez les bonnes grâces de la foule, qui vous perçoit avec un excellent a priori. Cependant, vous ne passez jamais vraiment inaperçu, et plus vous restez dans une ville, plus on vous reconnaît.  
 ### Voyageur
 Vous connaissez les coutumes des petites communautés et des villages que vous traversez. Vous avez compris comment faire en sorte que l'on vous accepte sans pour autant vous imposer trop longtemps. Vous êtes capable de repérer la présence d'une communauté civilisée à plusieurs kilomètres, sachant où en trouver les traces. De plus, on vous offre toujours le gîte et le couvert, pour une nuit tout du moins.  
+
+
 ---
 title: Les trois voies
 ---
@@ -1063,6 +1069,8 @@ Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous 
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.
 ### Sorts de prédilection
 Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+
+
 ---
 title: Les Archétypes
 ---
@@ -1094,6 +1102,8 @@ Les Archétypes actuellement disponibles sont :
 - [Sohoten](/archetypes/shohoten/), guerrier moine yotakaï.  
 - [Sorser](/archetypes/sorser/), sorcier khernaë.  
 - [Vitnar](/archetypes/vitnar/), chaman melg.  
+
+
 ---
 title: Ambeanamos
 ---
@@ -1217,6 +1227,8 @@ De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#av
 ### Véritable Ambeanamos  
 **En Meldète : Ambeanamos**  
 Au niveau 20, l'Ambeanamos est accompli et augmente ses caractéristiques de Sagesse et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Astartes
 ---
@@ -1316,6 +1328,8 @@ Au niveau 19, au prix d'une action, vous pouvez devenir un parangon d'héroïsme
 ### Véritable Astartes  
 **En Alcante : Astartes**  
 Au niveau 20, l'Astartes est accompli et augmente ses caractéristiques de dextérité et de Force de 2 points sans pouvoir dépasser 22.  
+
+
 ---
 title: bhaner
 ---
@@ -1422,6 +1436,8 @@ Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative 
 ### Véritable Bhaner  
 **En Khern : Bhaner**  
 Au niveau 20, le Bhaner est accompli et augmente ses caractéristiques de dextérité et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Bhegelm
 ---
@@ -1540,6 +1556,8 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 ### Véritable Bhegelm  
 **En Khern : Bhegelm**
 Au niveau 20, le Bhegelm est accompli et augmente ses caractéristiques d'intelligence et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Dall Dawnser
 ---
@@ -1714,6 +1732,8 @@ Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de p
 ### Véritable Dall Dawnser  
 **En Khern : Dall Dawnser**  
 Au niveau 20, le Dall Dawnser est accompli et augmente ses caractéristiques de dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Drodan
 ---
@@ -1834,6 +1854,8 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 ### Véritable Drodan  
 **En Meldète : Drodan**  
 Au niveau 20, le Drodan est accompli et augmente ses caractéristiques d'intelligence et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Fürtane
 ---
@@ -1951,6 +1973,8 @@ Elle ne peut plus être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise
 ### Véritable Fürtane  
 **En Khern : Fürtane**  
 Au niveau 20, la Fürtane est accomplie et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
+
+
 ---
 title: Gwylwir
 ---
@@ -2067,6 +2091,8 @@ Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos en
 ### Véritable Gwylvir
 **En Meldète : Gwylvir**  
 Au niveau 20, le Gwylvir est accompli et augmente ses caractéristiques de Force et de Dextérité de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Herredyr
 ---
@@ -2246,6 +2272,8 @@ Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre duré
 **En Melg :Herra Eläimen**  
 Dès le niveau 20, vous devenez un avatar de votre allégeance bestiale. Vos caractéristiques liées à votre animal augmentent de 2 de façon permanente, jusqu'à un maximum de 22.  
 Vos déplacements augmentent de 6 mètres par tour pour représenter votre rapidité animale.  
+
+
 ---
 title:  Holtseidar
 ---
@@ -2338,6 +2366,8 @@ Les Holtseidars de la voie des Armes sont appelés Rûnya Styrke, littéralement
 ### Véritable Holtseidar    
 **En Melg : Holtseidar**  
 Au niveau 20, le Holtseidar est accompli et augmente ses caractéristiques de * et de * de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Ior
 ---
@@ -2446,6 +2476,8 @@ Au niveau 20, vous êtes devenu une véritable force de la puissance de Teutès.
 ### Véritable Ior
 **En Meldète : Ior**  
 Au niveau 20, le Ior est accompli et augmente ses caractéristiques de Force et de Constitution de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Jargl
 ---
@@ -2524,6 +2556,8 @@ Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 ### Véritable Jargl
 **En Khern : Jargl**  
 Au niveau 20, le Jargl est accompli et augmente ses caractéristiques de Constitution et de Dextérité de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: "Jörghal"
 ---
@@ -2606,6 +2640,8 @@ Vous devenez résistant aux dégâts contondants, perforants et tranchants.
 ### Véritable Jörghal
 **En Melg : Melg**  
 Au niveau 20, le Jörghal est accompli et augmente ses caractéristiques de Constitution et de Force de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Legatos
 ---
@@ -2678,6 +2714,8 @@ Au niveau 19, vous pouvez relancer n'importe quel type de dés ou de test car vo
 ### Véritable Legatos  
 **En Alcante : Legatos**  
 Au niveau 20, le Legatos est accompli et augmente ses caractéristiques de Sagesse et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Llawenos
 ---
@@ -2784,6 +2822,8 @@ Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative 
 ### Véritable Llawenos
 **En Meldète : Llawenos**  
 Au niveau 20, le Llawenos est accompli et augmente ses caractéristiques de Dextérité et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Magios
 ---
@@ -2869,6 +2909,8 @@ Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un [_repos
 ### Véritable Magios  
 **En Alcante : Magios**
 Au niveau 20, le Magios est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Nayane
 ---
@@ -2965,6 +3007,8 @@ Au niveau 19, au prix d'une action, vous pouvez devenir un parangon de mort. Pen
 ### Véritable Nayane
 **En Selm : Sassasse**  
 Au niveau 20, la Nayane est accomplie et augmente ses caractéristiques de Dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Seibahkami
 ---
@@ -3051,6 +3095,8 @@ A partir du niveau 19, lors d’un combat au sabre, la technique est tellement p
 ### Véritable Seibahkami  
 **En Yotaï : Seibahkami**  
 A partir du niveau 20, vous incarnez l'âme du Seibhakami, vous gagnez +2 en dextérité et en Sagesse pour atteindre un maximum de 22 dans ses deux caractéristiques. En prenant un round de concentration, vous pouvez cumuler les avantages de [Tir lointain](/#tir-lointain)  et de [Tir puissant](/#tir-puissant).  
+
+
 ---
 
 title: Sermazloth
@@ -3146,6 +3192,8 @@ A partir du niveau 16, vous inspirez toutes les Sermazloths. Lorsqu'elle sont pr
 ### Véritable Sermazloth  
 **En Khernaë: Sermazloth**  
 Au niveau 20, la Sermazloth est accomplie et augmente ses caractéristiques de Constitution et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Shangharah
 ---
@@ -3239,6 +3287,8 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 ### Véritable Shangharah
 **En Sogh : Shangharah**  
 Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title:  Skell
 ---
@@ -3330,6 +3380,8 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 ### Véritable Skell
 **En Melg : Skell**  
 Au niveau 20, le Skell est accompli et augmente ses caractéristiques de Dextérité et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: Sohoten
 ---
@@ -3410,6 +3462,8 @@ A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources int�
 ### Véritable Sohoten  
 **En Yotaï : Sohoten**  
 Au niveau 20, le Sohoten est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
+
+
 ---
 title: "Sorser"
 ---
@@ -3460,6 +3514,8 @@ Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous a
 ### Véritable Sorser  
 **En Khern : Sorser**
 Au niveau 20, le Khern est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title:  Vitnar
 ---
@@ -3561,6 +3617,8 @@ Au niveau 18, le Vitnar a un puissant lien totémique. Toutes les créatures de 
 ### Véritable Vitnar
 **En langue Melg : Vitnar**  
 Au niveau 20, le Vitnar est accompli et augmente ses caractéristiques de Sagesse et de Constitution de 2 points sans pouvoir dépasser 22.
+
+
 ---
 title: "Equipement"
 ---
@@ -4270,6 +4328,8 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 | &nbsp;&nbsp;Dans une ville | 1 pc |
 | &nbsp;&nbsp;Entre deux villes | 2 pc par kilomètre |
 | **Voyage maritime** | 7 pc par kilomètre |
+
+
 ---
 title: Utiliser les caractéristiques
 ---
@@ -4656,6 +4716,8 @@ Chaque voie accorde la maîtrise d'au moins deux types de jets de sauvegarde et 
 Le degré de difficulté d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) dépend de l'effet qui en est la cause. Par exemple, le DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) causé par un sort est déterminé par la caractéristique d'incantation du lanceur de sort et son bonus de maîtrise.
 
 Le résultat d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi ou raté est indiqué dans la description de l'effet à l'origine du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). D'habitude, un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi signifie qu'une créature n'est pas blessée, ou moins qu'elle aurait dû, par un effet.
+
+
 ---
 title: "Partir à l'aventure"
 ---
@@ -4882,6 +4944,8 @@ Votre personnage peut utiliser le temps libre entre deux aventures pour apprendr
 Avant tout, votre personnage doit trouver quelqu'un qui accepte de l'instruire. Le MJ détermine combien de temps cela prend et si cela nécessite de faire un ou plusieurs [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 Votre formation dure 250 jours et vous coûte 1 po par jour. Après avoir passé le temps requis et payé votre dû, vous connaissez une nouvelle langue ou avez gagné la maîtrise d'un nouvel outil.
+
+
 ---
 title: Combattre
 ---
@@ -5284,6 +5348,8 @@ Quand elle porte une **attaque de corps-à-corps**, une créature qui n'a pas de
 Une **attaque à distance** manque automatiquement une cible qui se trouve au-delà de la portée normale de l'arme. Et même contre une cible qui se trouve à portée normale de l'arme, le [jet d'attaque](/combattre/#jets-d-attaque) de la créature attaquante subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), sauf si elle utilise une arbalète, un filet ou une arme de lancer comme une javeline (ou une lance, un trident ou une fléchette).
 
 Les créatures et les objets complètement immergés sont résistants aux dégâts de feu.
+
+
 ---
 title: "Gérer la santé du personnage"
 ---
@@ -5528,6 +5594,8 @@ PH = CHA
 Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
 **Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative ainsi que les jets critiques. Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**
+
+
 ---
 title: "Lancer des sorts"
 ---
@@ -5787,6 +5855,8 @@ Les sorts de **nécromancie** manipulent les énergies de la vie et de la mort. 
 
 Les sorts de **transmutation** modifient les propriétés d'une créature, d'un objet ou d'un environnement. Ils peuvent transformer un ennemi en créature inoffensive, renforcer un allié, faire bouger un objet sur une simple injonction ou améliorer les capacités curatives innées d'une créature pour qu'elle se remette plus vite de ses blessures.
 §§§
+
+
 ---
 title: "Accouchement indolore"
 description: "Diminue les douleurs de l'accouchement."
@@ -5808,6 +5878,8 @@ classes:
 **Coût** : 8 points de Foi  
 Cette magie permet de rendre un accouchement indolore et de permettre à la mère de profiter pleinement de cet important moment.
 Ce sort n'empêche aucunement les risques de complication qui peuvent être rencontrés dans une telle situation. Le pratiquant de cette magie doit rester en contact physique (une main posée sur le ventre par exemple) durant tout l'accouchement.
+
+
 ---
 title: Aéromancie
 description: "Ce sort permet de voir un événement futur en lien avec une personne."
@@ -5831,6 +5903,8 @@ source: "Elric"
 Ce sort permet de voir un événement futur en lien avec une personne. Le sorcier doit jeter de la poussière d’améthyste au vent en pensant à une personne. Des images, des sons, et d’autres sensations apparaîtront au sorcier durant 1 seconde seulement. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 10 l’effet du sort reste confus dans la tête du sorcier, entre 11 et 17, le sorcier n’a retenu que la moitié des informations, 17 et +, le sorcier se rappelle de tout très clairement, sans aucuns doutes.
 
 **À plus haut niveau**. Les emplacements de surcharge permettent un résultat plus pertinent. Chaque emplacement de surcharge ajoute un bonus de +2 au jet.
+
+
 ---
 title: Aide
 description: "Jusqu'à trois cibles augmentent leurs points d'action maximum et actuels."
@@ -5854,6 +5928,8 @@ ritual: false
 Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Choisissez jusqu'à trois créatures à portée. Le maximum de points d'action et les points d'action actuels de chacune d'entre elles augmentent de 5 pendant toute la durée du sort.
 
 **À plus haut niveau**. Quand vous lancez ce sort en utilisant des niveaux de surcharge, les points d'action de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Aiguiser"
 description: "Le magicien peut utiliser sa paume comme pierre à aiguiser."
@@ -5876,6 +5952,8 @@ classes:
 ---
 **Coût** : 1 point de Magie    
 Visuellement, cela a le même effet que si le mage utilisait une pierre à aiguiser. Le temps pour aiguiser est cependant inférieur de moitié en utilisant ce sort et le tranchant est redoutable. Si le narrateur l'autorise cela peut donner un bonus permanent de +1 aux dommages qui disparaît lorsque la lame s'émousse à l'utilisation au bout d'une heure.  
+
+
 ---
 title: "Air magique"
 description: "change une odeur pour une courte durée dans une zone."
@@ -5900,6 +5978,8 @@ classes:
 Le sorcier doit se concentrer durant 5 rounds sur un élément olfactif pour pouvoir provoquer l’un des deux effets suivant.  
 	**Air vicié** fait émaner des odeurs comme du souffre, de la viande avariée et d’œuf pourris dans un rayon de 5 m autour de la cible. Cette variante est très utile pour humilier un politique ou un rival. « Air vicié » annule et remplace « Air pur ».  
 	**Air pur** fait émaner des odeur de lavande, de miel et de menthe dans un rayon de 5 m autour de la cible. Cette variante est très utile pour vouloir bien paraître auprès de quelqu’un d’important. « Air pur » annule et remplace «  Air vicié ».  
+
+
 ---
 title: "Alarme"
 description: "Place une alarme sonore ou mentale sur une porte, une fenêtre ou une zone."
@@ -5923,6 +6003,8 @@ classes:
 
 Choisissez une porte, une fenêtre, ou une zone à portée qui ne dépasse pas un cube de 6 mètres d'arête. Jusqu'à la fin du sort, une alarme vous alerte lorsqu'une créature taille TP ou supérieure touche ou pénètre la zone surveillée. Lorsque vous lancez ce sort, vous pouvez désigner des personnes ou des animaux qui ne déclencheront pas l'alarme. Vous pouvez également choisir si l'alarme est audible ou juste mentale.	 
 Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi. Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres.  
+
+
 ---
 title: Allié planaire
 description: "Le PJ reçoit l'aide d'une puissante créature d'un autre monde."
@@ -5955,6 +6037,8 @@ Une fois que la créature a accompli la tâche demandée ou quand la durée de s
 Si vous êtes incapable de vous mettre d'accord avec la créature sur le prix de ses services, elle retourne immédiatement sur son plan natal.
 
 Une telle créature enrôlée dans votre groupe compte comme un membre à part entière et reçoit sa part de points d'expérience.
+
+
 ---
 title: "Ambiance lumineuse"
 description: "Améliore l'ambiance d'une zone."
@@ -5977,6 +6061,8 @@ classes:
 ---
 **Coût** : 10 points de Foi ou de Magie  
 Si le magicien s'absente plus d'un jour de ce lieu, l'environnement redevient progressivement normal. Dans une ambiance lumineuse, les choses paraissent féeriques, les arbres du jardin sont toujours en fleur et un léger vent entraîne les pétales dans l'air. Des papillons de taille impressionnante (de la taille d'une main d'homme) virevoltent. Ils sont entourés d'une aura lumineuse et lorsqu'ils battent des ailes, des petites gouttes de lumière tombent lentement vers le sol. Les points d'eau de la zone sont limpides et rafraîchissants, les fruits et les légumes sont très goûteux. L'intérieur de la maison est éclairé et un vent parfumé de fleur embaume l'endroit.
+
+
 ---
 title: "Ambiance sinistre"
 description: "dégrade l'ambiance d'une zone."
@@ -6000,6 +6086,8 @@ classes:
 **Coût** : 10 points de Foi ou de Magie  
 Si le magicien s'absente plus d'un jour de ce lieu, l'environnement redevient progressivement normal. Dans le jardin, les arbres dessèchent et les feuilles tombent. Des petites rafales de vent viennent mugir dans les branches.
 Une odeur de décomposition végétale envahit l'endroit. Le sol devient sombre et humide, les points d'eau se troublent et se remplissent de crapauds et de salamandres. Les corbeaux et les corneilles viennent s'installer dans cette zone ainsi que des colonies de chauves-souris qui vont le plus souvent dans le grenier. À l'intérieur de la maison, les planchers craquent et le sol est anormalement poussiéreux, les portes grincent. L'air est vicié et d'énormes araignées non venimeuses (de la taille d'une main d'homme) tissent de grandes toiles qui barrent souvent les portes. La luminosité est très sombre. Aléatoirement, on entend un cri dans le lointain, un ricanement dans la cave ou des pas dans le grenier.
+
+
 ---
 title: Amélioration de caractéristique
 description: "Une des caractéristiques de la cible est augmentée."
@@ -6036,6 +6124,8 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 **Sagesse du hibou**. La cible a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de surcharge, vous pouvez prendre une créature de plus pour cible par niveau au-delà du niveau de Novice.
+
+
 ---
 title: Amitié avec les animaux
 description: "Permet de <em>charmer</em> un animal."
@@ -6059,6 +6149,8 @@ ritual: false
 Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. Choisissez une bête située dans votre champ de vision et à portée. Elle doit vous voir et vous entendre. Le sort échoue si elle possède une Intelligence de 4 ou plus. Dans le cas contraire, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Le sort se termine si vous ou l'un de vos camarades blessez la cible.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de surcharge, vous pouvez affecter une bête supplémentaire par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Amphore magique"
 description: "Amphore enchantée qui permet de communiquer avec une autre amphore"
@@ -6080,6 +6172,8 @@ source: "Elric"
 ---
 **Coût** : 10 point de Magie  
 Ce sortilège provient des royaumes Minghours et a voyagé jusqu’aux royaumes Alcante, mais n’a pas encore franchi la barrière que sont les Monts du Menezlatar. Ce sort enchante une amphore, qui permet de communiquer à travers d’autres amphores. Pour pouvoir communiquer, il faut lier deux amphores ou plus en lançant ce sort une nouvelle fois. Le sorcier doit mettre la tête dans l’amphore pour pouvoir envoyer un message et entendre. Ce sort envoie les messages instantanément, et ne pourra pas redire ce qu’il a fait entendre. Il peut y avoir des erreurs d'interprétation car la réverbération du son rend quelque fois le message incompréhensible.    
+
+
 ---
 title: "Anathème"
 description: "Malédiction mineure"
@@ -6100,6 +6194,8 @@ classes:
 ---
 **Coût** : 2 points de Magie ou de Foi  
 Cette malédiction mineure emplit la cible de crainte qui lui fait perdre toute confiance. Elle est secouée et subie un malus de -1 à toutes ses actions. Un jet de sauvegarde de Sagesse réussie annule l’effet.
+
+
 ---
 title: "Anti-parasite"
 description: "Tue la vermine."
@@ -6123,6 +6219,8 @@ classes:
 ---
 **Coût** : 2 points de Foi ou de Magie  
 Ce sort permet de détruire tous les petits parasites dans une zone donnée, sur les personnes et les objets. Il affecte tout ce qui est tique, puce, morpion, pou...Ils sont instantanément tués.   
+
+
 ---
 title: "Apaisement des animaux"
 description: "Calme des animaux normaux"
@@ -6143,6 +6241,8 @@ classes:
 **Coût** : 2 points de Foi
 Cet enchantement calme les animaux, qu’il rend dociles et inoffensifs. Seuls les animaux ordinaires peuvent être affectées. Tous doivent être de la même espèce et se trouver dans une sphère de 9 mètres de rayon. Les animaux sanguinaires et ceux qui ont été dressés à l’attaque ont droit à un jet de sauvegarde, mais pas les autres (un druide peut ainsi calmer facilement un loup ou un ours normal, mais un chien de garde lui demandera de plus gros efforts de persuasion).  
 Les créatures affectées restent là où elles se trouvent et ne cherchent ni à attaquer ni à s’enfuir. Mais elles ne sont pas sans défense et réagissent si on les attaque. La moindre menace (incendie, prédateur affamé, attaque imminente) met immédiatement un terme à l’effet du sort.  
+
+
 ---
 title: "Apaisement des émotions"
 description: "Supprime les émotions fortes au sein d'un groupe."
@@ -6166,6 +6266,8 @@ classes:
 Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaque individu qui se trouve dans une sphère de 6 mètres de rayon centrée autour d'un point de votre choix situé à portée doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Un individu peut décider de rater volontairement ce jet, sachant que lorsqu'une personne rate son jet de sauvegarde, vous l'affectez avec l'un des deux effets suivants, selon votre choix.
 * Vous débarrassez temporairement la cible de tout état [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Une fois le sort terminé, l'état s'applique de nouveau, à moins que sa durée n'ait expiré.
 * Vous rendez la cible indifférente vis-à-vis des créatures de votre choix, envers lesquelles elle était auparavant hostile. Cette indifférence prend fin si la cible est attaquée ou affectée par un sort néfaste, ou bien si elle voit l'un de ses amis être ainsi agressé. La cible redevient hostile dès que le sort se termine, à moins que le MJ n'en décide autrement.
+
+
 ---
 title: "Appel de familier"
 description: "Le Mage s'attache les services d'un animal familier."
@@ -6200,6 +6302,8 @@ Vous pouvez renvoyer temporairement votre familier en utilisant une action. Il p
 Vous ne pouvez avoir qu'un seul familier à la fois. Si vous lancez ce sort alors que vous avez déjà un familier, vous attribuez simplement une nouvelle forme à celui que vous possédez déjà : choisissez une des formes de la liste précédente, que votre familier adopte immédiatement.
 
 Enfin, quand vous lancez un sort avec une portée de « contact », votre familier peut livrer le sort comme si c'était lui qui le lançait. Il doit se trouver à 30 mètres ou moins de vous et utiliser sa réaction pour transmettre le sort au moment où vous le lancez. Si le sort exige un [jet d'attaque](/combattre/#jets-d-attaque), vous utilisez votre propre modificateur d'attaque lors du jet.
+
+
 ---
 title: "Appel de la foudre"
 description: "L'invocateur crée un orage et peut faire frapper la foudre à chaque tour."
@@ -6228,6 +6332,8 @@ Quand vous lancez le sort, vous devez choisir un point situé à portée et dans
 Si, au moment de l'incantation, les conditions sont déjà orageuses, le sort vous donne le contrôle de l'orage déjà présent au lieu d'en créer un nouveau. Dans ce cas, les dégâts du sort augmentent de 2d6.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 2d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Appel de la pluie"
 description: "Invoque la pluie."
@@ -6248,6 +6354,8 @@ classes:
 ---
 **Coût** : 4 points de Magie  
 Ce sort permet au sorcier de condenser l’humidité de l’air sur une très large surface pour créer une fine bruine ou alors une légère pluie. Le sort se rompt si le lanceur de sort est tué. Le sort recouvre une zone d’1 km de rayon dont le centre est le sorcier. La pluie ne peut pas rendre une surface glissante, ni faire pleuvoir à l’intérieur d’une maison. Il est impossible de créer une pluie dans une zone aride.  
+
+
 ---
 title: "Arc enchanté"
 description: "L'arc du PJ devient magique et tire plus rapidement."
@@ -6270,6 +6378,8 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 Vous enchantez votre arc. Pendant 1 minute, à chaque fois que vous l'armez, une flèche magique que seul vous pouvez voir apparaît encochée sur sa corde. Personne d'autre que vous ne peut l'utiliser et, si vous relâchez la corde sans tirer, la flèche disparaît simplement. Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plus, vous pouvez utiliser une action bonus afin d'effectuer une attaque à distance supplémentaire avec l'arc.
+
+
 ---
 title: Arme accusatrice
 description: "permet au lanceur de sort d’apprendre qui a commis un crime"
@@ -6292,6 +6402,8 @@ source: "Elric"
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante une arme et agate . Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
 Ce sort permet au lanceur de sort d’apprendre qui a commis un crime. Pour se faire, le sorcier doit déposer une agate sur une arme avec un manche chauffé au préalable dans un feu béni. Par la suite le lanceur de sort doit poser sa question « Es-tu coupable du crime ? ». Le manche bougera et indiquera le criminel. Le sort indique la personne coupable du crime en question, mais si une autre personne est beaucoup plus coupable que le criminel recherché, alors cela peut affecter le sort et donc faire une mauvaise prédiction. Le coupable peut éviter d’être désigné par un jet de sauvegarde de sagesse DD 16. Ce sort n’est pas utilisé dans les procès à cause du manque de fiabilité.  
+
+
 ---
 title: "Arme magique"
 description: "Transforme temporairement une arme en arme magique."
@@ -6316,6 +6428,8 @@ classes:
 Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de disciple, le bonus passe à +2, et à +3 si vous utilisez un niveau d'apprenti ou plus.
+
+
 ---
 title: "Arme sainte"
 description: "L'arme du PJ offre l'<em>avantage</em> contre les fiélons et les morts-vivants."
@@ -6339,6 +6453,8 @@ classes:
 Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusqu'à la fin du sort, l'arme est considérée comme étant une arme magique. Lorsque vous attaquez un mort-vivant ou un fiélon avec cette arme, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos jets d'attaque et vous infligez 2d6 dégâts radiants supplémentaires.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un niveau d'apprenti ou supérieur, le bonus de dégâts passe à 3d6.
+
+
 ---
 title: "Arme spirituelle"
 description: "Crée une arme spectrale que vous envoyez attaquer vos ennemis."
@@ -6365,6 +6481,8 @@ Vous créez à portée une arme spectrale flottante presque invisible qui persis
 L'arme peut revêtir la forme de votre choix. Les prêtres des divinités associées à une arme particulière font en sorte que l'arme générée ressemble à l'arme iconique de leur protecteur.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau surcharge, les dégâts augmentent de 1d6 tous les niveaux de surcharge au-delà du niveau de Novice.
+
+
 ---
 title: "Armure du mage"
 description: "La VD de base de la cible devient 13 + modificateur de Dextérité."
@@ -6387,6 +6505,8 @@ classes:
 ---
 **Coût** : 2 points de Magie  
 Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez d'une force magique protectrice jusqu'à la fin du sort. La VD de base de la cible passe à 13 et les modificateurs habituels de caractéristiques s'appliquent. Le sort se termine si la cible revêt une armure ou si vous révoquez le sort par une action.
+
+
 ---
 title: "Arrêt du temps"
 description: "Le PJ arrête le temps pendant 1d6+1 rounds pour tout le monde sauf lui."
@@ -6409,6 +6529,8 @@ classes:
 Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le temps ne s'écoule plus pour les autres créatures, tandis que vous disposez de 1d6+1  tours d'affilée, pendant lesquels vous pouvez faire des actions et vous déplacer normalement.
 
 Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de temps ou l'un des effets que vous créez lors de ce laps de temps affecte une créature autre que vous ou un objet porté ou transporté par une créature autre que vous. Le sort se termine également si vous vous éloignez à plus de 300 mètres de l'endroit où vous l'avez lancé.
+
+
 ---
 title: "Aspersion acide"
 description: "Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts."
@@ -6435,6 +6557,8 @@ La mage prend un citron ou un fruit acide. N’importe quel fruit qui n’est pa
 Pour utiliser cet objet enchanté, il suffit de projeter l’oeuf en direction  une créature à portée, ou deux créatures à portée situées à 1,50 mètre ou moins l'une de l'autre. Une cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sinon elle subit 1d6 dégâts d'acide.  
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).  
+
+
 ---
 title: Asphyxie
 description: "Ce sort permet de priver une zone d'oxygène."
@@ -6460,6 +6584,8 @@ Ce sort consiste à extraire l’oxygène autour du sorcier, et donc de priver l
 Le sorcier doit tenir ses mains tendues tant que le sort dure, sinon le sort s’arrête. Le sorcier, pour pouvoir respirer dans son sort, doit enchanter une algue séchée durant 1 heure, puis la tenir dans sa bouche tout le long du sort. Il peut aussi en enchanter d’autres pour ses alliés pour qu’ils ne soient pas affectés par le sort. Les êtres vivants affectés par ce sort doivent effectuer un jet de sauvegarde de constitution facile. Pour chaque jet de sauvegarde raté, le cran de difficulté augmente d’un niveau (pas au-delà de très difficile) et le seuil d’épuisement des joueurs augmente d’1 cran, passant directement à 2.  
 
 **À plus haut niveau**. Le sort se déplace de 1 mètre supplémentaire par round pour chaque emplacement de surcharge.  
+
+
 ---
 title: "Assaisonnement"
 description: "Assaisonne un plat au goût du lanceur de sort"
@@ -6482,6 +6608,8 @@ classes:
 **Coût** : 1 point de Foi ou de Magie  
 L'enchanteur peut, avec ce petit sort, mimer saupoudrer un plat avec du sable et effectivement l'assaisonner à son goût.
 Cet assaisonnement est une forme d'illusion, il évite ainsi de manger trop gras ou trop salé.
+
+
 ---
 title: "Assassin imaginaire"
 description: "La cible est <em>terrorisée</em> et subit 7d6 dégâts à chaque tour."
@@ -6505,6 +6633,8 @@ classes:
 Vous puisez dans les cauchemars d'une créature située à portée et dans votre champ de vision afin de créer une manifestation illusoire de ses pires terreurs, qu'elle est la seule à voir. La cible doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le rate, elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant toute la durée du sort. Tant que le sort n'est pas terminé, la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. Elle subit 7d6 dégâts psychiques à chaque échec. Le sort se termine dès qu'elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau surcharge, les dégâts augmentent de 2d6 par niveau au-delà du niveau Disciple.
+
+
 ---
 title: "Assistance"
 description: "La cible peut ajouter 1d6 à un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique)."
@@ -6524,6 +6654,8 @@ classes:
 ---
 **Coût** : 1 point de Foi  
 Vous touchez une créature consentante. Une fois avant la fin du sort, la cible peut lancer 1d4 et ajouter le résultat obtenu au [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) de son choix. Elle peut lancer le dé avant ou après le test. Le sort se termine alors.
+
+
 ---
 title: "Ataxie / Désafférentation"
 description: "La cible visée est prise d'ataxie ou de désafférentation"
@@ -6559,6 +6691,8 @@ Si la désafférentation est choisie comme effet du sort, alors la cible devient
 Pour les deux effets, un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le DD du sort annule immédiatement les effets.   
 
 **À plus haut niveau**. Pour chaque emplacement de surcharge, la durée du sort, double, triple, quadruple, etc...  
+
+
 ---
 title: "Atmosphère électrique"
 description: "Rend les personnes dans la zone plus enclines au combat."
@@ -6582,6 +6716,8 @@ source: "Elric"
 **Coût** : 4 points de Magie ou de Foi  
 
 Le sorcier qui lance ce sort créé une atmosphère lourde et électrique qui enlève 1 point d’action ou de conscience tous les rounds aussi bien aux alliés ainsi qu’aux ennemis se trouvant dans la zone. Toute personne dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne dans le rayon d'action doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».
+
+
 ---
 title: "Atmosphère vertueuse"
 description: "Rend les personnes dans la zone plus apaisés."
@@ -6605,6 +6741,8 @@ source: "Elric"
 **Coût** : 4 points de Magie ou de Foi  
 
 Le sorcier qui lance ce sort créé une atmosphère calme et apaisante qui redonne 1 point d’action tous les rounds aussi bien aux alliés ainsi qu’aux ennemis se trouvant dans la zone. Toute personne dans la zone du sortilège est plus enclin au calme. Si une personne dans le rayon d'action veut se battre, elle doit réussir un JS de Sagesse. Ce sort annule et remplace le sortilège « Atmosphère électrique ».
+
+
 ---
 title: Attiser les flammes
 description: "Ce sort permet de renforcer un feu."
@@ -6628,6 +6766,8 @@ source: "Elric"
 L’enchantement permet de propager ou de réduire un feu de 1 mètre tout les 2 rounds dans n’importe quelle direction. Ce feu peut se déplacer sur toute les matières, sauf l’eau.   
 
 **À plus haut niveau**. Pour chaque emplacement de surcharge, la vitesse du feu double, triple, quadruple et même quintuple, selon le niveau.  
+
+
 ---
 title: "Augure"
 description: "Divination permettant de deviner l'issue favorable ou défavorable d'une conduite."
@@ -6658,6 +6798,8 @@ Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames
 Le sort ne tient pas compte d'une éventuelle modification des circonstances, comme l'incantation de sorts supplémentaires, ou la perte ou l'arrivée d'un compagnon.
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25  % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
+
+
 ---
 title: "Aura de force"
 description: "Les cibles acquièrent une résistance aux dégâts."
@@ -6679,6 +6821,8 @@ source: "Manuel des règles"
 ---
 **Coût** : 10 points de Foi  
 Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests et les jets de sauvegarde de Force.
+
+
 ---
 title: "Aura du héros"
 description: "Le PJ obtient un <em>avantage</em> aux tests de Charisme."
@@ -6701,6 +6845,8 @@ classes:
 Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme visant les créatures situées dans l'aura. À la fin du sort, les créatures qui en ont subi l'influence peuvent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence. En cas de réussite, elles se rendent compte avoir été influencées par magie et elles peuvent, à la discrétion du MJ, en concevoir de l'hostilité.
 
 Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètres), puis le niveau 11 (6 mètres) et enfin au niveau 17 (12 mètres).
+
+
 ---
 title: "Aura magique de l'arcaniste"
 description: "Crée une fausse aura magique autour de la cible."
@@ -6729,6 +6875,8 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 **Aura factice**. Vous modifiez la manière dont la cible apparaît vis-à-vis des sorts et effets magiques détectant les auras magiques, comme détection de la magie. Vous pouvez ainsi faire en sorte qu'un objet magique paraisse dépourvu de magie ou qu'un objet ordinaire semble magique. Vous pouvez aussi modifier l'aura magique de la cible de manière à ce qu'elle paraisse appartenir à l'école de magie de votre choix. Quand vous conférez cet effet à un objet, vous pouvez faire en sorte que la magie factice se manifeste à toute personne qui manipule l'objet.
 
 **Masque**. Vous modifiez la manière dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme le sens divin d'un paladin ou le déclencheur d'un sort de **symbole**. Vous choisissez un type de créatures : les autres sorts et effets magiques traitent la cible comme si elle appartenait au type ou à l'alignement choisi.
+
+
 ---
 title: "Aura sacrée"
 description: "Aura divine qui protège les alliés du PJ."
@@ -6749,6 +6897,8 @@ classes:
 ---
 **Coût** : 16 points de Foi  
 Une aura divine émane de votre personne dans un rayon de 9 mètres et forme un doux halo qui vous enveloppe. Les créatures de votre choix qui se trouvent dans cette zone au moment où vous lancez ce sort semble plus lumineuses dans un rayon de 1,50 mètre. De plus, jusqu'à la fin du sort, elles ont l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde tandis que les autres créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) quand elles effectuent un [jet d'attaque](/combattre/#jets-d-attaque) contre elles. Quand un fiélon ou un mort-vivant touche une créature affectée avec une attaque au corps-à-corps, l'aura qui enveloppe la créature flamboie soudain. L'assaillant doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se retrouver [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin du sort.
+
+
 ---
 title: "Avortement"
 description: "Permet de faire un avortement sans risque pour la mère."
@@ -6769,6 +6919,8 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 En posant la main sur le ventre d'une femme enceinte, le guérisseur a la possibilité de déclencher un avortement. Cet avortement a lieu dans de bonnes conditions de sécurité pour la femme. L'enfant est tué. Si la femme n'est pas consentante, elle peut tenter de résister avec un un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si celle-ci résiste, elle est immunisée contre d'autres tentatives de ce guérisseur.  
+
+
 ---
 title: "Bagou"
 description: "Minimum 15 aux tests de Charisme, la magie identifie le PJ comme sincère."
@@ -6788,6 +6940,8 @@ classes:
 ---
 **Coût** : 6 points de Magie  
 Jusqu'à la fin du sort, chaque fois que vous effectuez un test de Charisme, vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.
+
+
 ---
 title: "Baies nourricières"
 description: "Crée 10 baies qui guérissent 1 PA et nourrissent pour la journée."
@@ -6810,6 +6964,8 @@ classes:
 Un maximum de dix baies apparaissent dans votre main. Elles sont imprégnées de magie pendant une journée. Une créature peut utiliser son action pour manger une baie, ce qui lui rend 1 point d'action et la nourrit pour la journée.
 
 Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures qui suivent l'incantation.
+
+
 ---
 title: "Balisage"
 description: "Frappe de 4d6 dégâts radiants. La cible brille pendant un tour."
@@ -6834,6 +6990,8 @@ classes:
 Un rayon de lumière frappe une créature de votre choix située à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre elle. Si vous le réussissez, elle subit 4d6 dégâts radiants. D'ici là, le prochain [jet d'attaque](/combattre/#jets-d-attaque) effectué contre elle bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de surcharge, les dégâts augmentent de 1d6 par niveau au-delà de Novice.
+
+
 ---
 title: "Bannissement"
 description: "Envoie la cible dans un demi-plan ou dans son plan d'origine."
@@ -6862,6 +7020,8 @@ Si la cible est native du plan d'existence sur lequel vous vous trouvez, vous l'
 Si la cible est originaire d'un plan d'existence autre que celui sur lequel vous vous trouvez, une légère détonation accompagne son retour contraint sur son plan d'origine. Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réapparaît à l'endroit qu'elle a quitté, ou dans l'emplacement inoccupé le plus proche si son emplacement de départ est occupé. Sinon, elle ne revient pas.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau apprenti ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Bénédiction"
 description: "Jusqu'à trois cibles peuvent ajouter 1d4 à leurs jets d'attaque et de sauvegarde."
@@ -6886,6 +7046,8 @@ classes:
 Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Quand une cible fait un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) avant la fin du sort, elle lance 1d6 et ajoute le résultat obtenu au [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau disciple ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Bénédiction héroïque"
 description: "Les cibles ont l'<em>avantage</em> à leur première attaque à chaque tour."
@@ -6905,6 +7067,8 @@ classes:
 ---
 **Coût** : 6 points de Foi  
 Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque) sur la première attaque de chacun de vos tours pour toute la durée du sort.
+
+
 ---
 title: "Berceuse"
 description: "Joue une berceuse"
@@ -6926,6 +7090,8 @@ classes:
 **Coût** : 1 points de Magie  
 Le mage mime de jouer une berceuse avec une tige en forme de flûte rudimentaire et s’adresse aux vents.  
 Il ne joue pas réellement de l’instrument mais fredonne une berceuse qui est portée par la brise. Toutes les créatures situées dans la zone se montrent distraites, voire somnolentes. Si elles ratent leur jet de Volonté, elles subissent un désavantage aux tests de Perception, ainsi qu’un malus aux jets de sauvegarde contre les effets de sommeil tant que dure le sort. Berceuse dure aussi longtemps que le personnage se concentre, plus 10 minutes de lanceur de sorts ensuite.
+
+
 ---
 title: "Blessure"
 description: "Attaque de contact infligeant 3d6 dégâts nécrotiques."
@@ -6948,6 +7114,8 @@ L’adepte de la Foi qui fait ce sort utilise un puissant sigil mémorisé qu'il
 
 **À plus haut niveau**.  
 Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 1d6 par niveau au-delà du niveau Novice.  
+
+
 ---
 title: "Bouche magique"
 description: "Délivre un message quand on la déclenche."
@@ -6973,6 +7141,8 @@ Vous implantez un message dans un objet situé à portée. On entend le message 
 Quand les conditions de déclenchement sont remplies, le message est énoncé avec la même voix que vous et au volume où vous l'avez prononcé mais en fait les personnes l'entendent dans leur tête. Lors de l'incantation, vous pouvez décider que le sort se termine une fois le message transmis ou qu'il reste actif et répète le message chaque fois que les conditions de déclenchement sont remplies.
 
 Ces dernières peuvent être aussi génériques ou spécifiques que vous le désirez, mais elles doivent se baser sur des données visuelles ou audibles, perceptibles dans un rayon de 9 mètres autour de l'objet. Par exemple, vous pouvez ordonner à la bouche de parler dès qu'une créature approche à 9 mètres ou moins de l'objet ou quand une cloche d'argent retentit dans un rayon de 9 mètres.  
+
+
 ---
 title: "Bouclier"
 description: "Réaction, +5 à la VD et bloque les projectiles magiques."
@@ -6994,6 +7164,8 @@ classes:
 ---
 **Coût** : 2 points de Magie  
 Une barrière invisible faite de force magique apparaît autour de vous et vous protège. Jusqu'au début de votre prochain tour, vous obtenez un bonus de +5 à la VD, y compris contre l'attaque qui a déclenché l'incantation du sort, et vous ne subissez aucun dégât de la part du sort <ST s="projectile-magique" />.
+
+
 ---
 title: "Bouclier de feu"
 description: "Protection contre les dégâts de feu ou de froid qui blesse les assaillants."
@@ -7018,6 +7190,8 @@ De fines volutes de flammes que seul le magicien peut voir enveloppent son corps
 Les flammes vous offrent un bouclier chaud ou froid, comme bon vous semble. Le bouclier chaud vous apporte une résistance contre les dégâts de froid, le bouclier froid une résistance contre les dégâts de feu.
 
 De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous vous touche avec une attaque au corps-à-corps, le bouclier génère un contre coup. Si le bouclier est chaud, il inflige 3d6 dégâts de feu à l'assaillant, s'il est froid, il lui inflige 3d6 dégâts de froid.  
+
+
 ---
 title: "Bouclier de la foi"
 description: "La cible obtient un bonus de +2 à la VD."
@@ -7038,6 +7212,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la VD pendant toute la durée du sort.
+
+
 ---
 title: "Bouffée de poison"
 description: "Projette du gaz toxique sur une cible et lui inflige 2d6 dégâts de poison."
@@ -7060,6 +7236,8 @@ classes:
 Vous tendez la main en direction d'une créature située à portée et dans votre champ de vision et projetez une bouffée de gaz toxique sortie de votre paume. La créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 2d6 dégâts de poison.
 
 Les dégâts du sort augmentent de 2d6 quand vous atteignez le niveau 5 (4d6), 11 (6d6) et 17 (8d6).
+
+
 ---
 title: "Bougie de méditation"
 description: "Fabrique des bougies qui aident au travail magique."
@@ -7085,6 +7263,8 @@ classes:
 Un magicien qui fabrique ces bougies, peut les enchanter et ainsi favoriser sa méditation lors de leur utilisation. Ces bougies brûlent pendant une journée (ou une nuit) et doivent être utilisées en une seule fois.
 Elles permettent au magicien de se concentrer pendant un rituel, des études ou des recherches dans son laboratoire ou ses grimoires. Cette bougie permet de donner un bonus de +1 à tous les tests appropriés du Magicien.
 La méditation favorise le repos. La duré des repos longs est divisé par deux lorsque ces bougies sont utilises.
+
+
 ---
 title: "Bourrasque"
 description: "Crée un vent violent qui ralentit et <em>repousse</em> les créatures."
@@ -7114,6 +7294,8 @@ Une créature qui se trouve dans la zone doit dépenser 60 centimètres de mouve
 La bourrasque disperse les gaz et les vapeurs et éteint les bougies, les torches et autres flammes nues similaires dans la zone. Les flammes protégées, par une lanterne par exemple, s'agitent follement et ont 50 % de chance de s'éteindre.
 
 Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'une action bonus à chacun de vos tours jusqu'à la fin du sort.
+
+
 ---
 title: "Boussole mentale"
 description: "Donne des informations de localisation."
@@ -7136,6 +7318,8 @@ source: "Elric"
 ---
 **Coût** : 2 points de Magie ou de Foi
 Le sorcier doit se concentrer pour connaître la position des quatre points cardinaux. Il connait aussi précisément la température, ainsi que l’altitude par rapport au niveau de la mer.
+
+
 ---
 title: "Brasier"
 description: "Augmente le taille d'une feu"
@@ -7160,6 +7344,8 @@ L'enchanteur peut augmenter la taille d'un feu par magie. Toutefois ce sort ne p
 · Transformer un feu de camp en un petit brasier : DD de 8  
 · Transformer la flamme d'une torche en un petit brasier : DD de 12  
 À la fin de la période, les flammes reprennent leur taille d'origine si elles n'ont pas déclenché d’incendie.  
+
+
 ---
 title: "Brise os"
 description: "La cible doit réussir un JS de CON ou subir une fracture."
@@ -7186,6 +7372,8 @@ Si le JS est réussi, la cible subit tout de même les 3d6 points d'action de d�
 "*Nous avancions vers le sorcier avec la ferme intention de l'occir dans l'instant mais celui-ci nous regardait d'un air amusé. Bowulf se rapprocha et serra sa hache dans sa main. Un craquement se fit entendre, suivi du cri de surprise de Bowulf. Je constatais que son poignet n'était pas au bon endroit et n'avait pas un angle normal. Je ne laissait pas au sorcier le temps de savourer sa victoire et je me ruait en sa direction, non sans hurler le nom des dieux qui me protègent*."    
 **Souvenirs d'Anestas, guerriers & aventurier**   
 §§§     
+
+
 ---
 title: "Briser"
 description: "Inflige 4d6 dégâts dans un rayon de 3 mètres, y compris aux objets non magiques."
@@ -7212,6 +7400,8 @@ Un bruit retentit soudain avec une intensité douloureuse, à partir d'un point 
 Un objet non magique que personne ne porte ni ne transporte subit aussi ces dégâts s'il se trouve dans la zone du sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau disciple ou supérieur, les dégâts augmentent de 2d6 par niveau au-de là du niveau de Novice.
+
+
 ---
 title: "Brûlure de l'âme'"
 description: "Brûle l'âme de l'adversaire"
@@ -7237,6 +7427,8 @@ Le lanceur de sort désigne sa cible dans les limites de la portée du sort. Cel
 "*Le disciple se tenait droit au milieu de l'assemblée des Bhegelms. Le moment était solennel dans le cercle de pierre et la proximité de la sombre forêt intensifiait la sensation féerique de l'instant et des lieux. Le vieux druide s'avança et présenta un grenat au disciple qui ne put que baisser le tête et se mettre à pleurer*."    
 **Souvenirs de Margs Maenkalon, le temps des corbeaux**   
 §§§     
+
+
 ---
 title: "Brûlure de la peau"
 description: "La peau de l'adversaire se couvre de cloques hideuses"
@@ -7258,6 +7450,8 @@ classes:
 **Coût** : 4 points de Magie  
 Le lanceur de sort désigne sa cible dans les limites de la portée du sort. Celle-ci doit réussi un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 2d6 de dégâts de feu sou forme de brûlure. Les cloques apparaissent sur toutes les parties nues du corps. Elles guérissent normalement mais entrainent de vives douleurs qui donnent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les actions d'athlétisme et d'acrobatie mais aussi de persuasion.   
 Le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ne s'applique plus après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+
+
 ---
 title: "Brûlure du juste"
 description: "L'arme du PJ inflige 1d6 dégâts supplémentaires."
@@ -7283,6 +7477,8 @@ Votre arme se met à se charger de pure radiance. Elle s'enflamme et émet une l
 À chaque fois que vous blessez une créature avec cette arme pendant la durée du sort, vous infligez 1d6 dégâts radiants à tous vos adversaires dans un rayon de 1,50 mètre autour de vous et double momentanément le rayon d'illumination de l'arme. Les créatures affectées peuvent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution pour ignorer les dégâts. Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau Novice.
+
+
 ---
 title: Brume d'antre
 description: "Le sorcier génère une épaisse brume dans son antre"
@@ -7306,6 +7502,8 @@ Source: "Elric"
 Ce sort est très présent dans les antres où règne un sorcier. Il consiste à créer une épaisse couche de brume au ras du sol jusqu’à 30 centimètres, qui dissimule les pièges. Les pièges sont détectables avec un test de perception DD 28. Pour invoquer cette brume, le sorcier doit brûler du plantain et du buglosse dans un brasero dans une antre ou un repère qu'il habite depuis au moins une lune.   
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de surcharge, le sortilège dure une lune supplémentaire par niveau de surcharge.   
+
+
 ---
 title: Brume glaciale
 description: "Crée une puissante brume glacée"
@@ -7328,6 +7526,8 @@ source: "Elric"
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante une dose d'Hellébore. Il a pour cela besoin de 40 po de matériel (encens, bougies...).      
 Ce sort forme un épais brouillard glacé qui empêche l’utilisation du feu, et fait geler l’eau presque instantanément, sur un rayon d’1 kilomètre. Cette brume fait subir 3 points de dégâts sur les êtres vivants qui ne sont pas habillé chaudement tout les 5 rounds. Tout les jets de sauvegarde et de caractéristiques subissent un malus de -2. Le lanceur de sort doit enchanter une hellébore durant la nuit la plus longue de l’année. Le sorcier doit planter ou bien enfouir une hellébore dans la terre près d’un cour d’eau. Le sort ne se rompra pas tant que l’Hellébore ne sera pas détruite. En hiver, la température à l’intérieur du brouillard peut atteindre -20, au printemps 0, en été 10 et en automne -10.  
+
+
 ---
 title: Cachette des racines
 description: "Crée une cachette protégée par des racines"
@@ -7349,6 +7549,8 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 Ce sort anime les racines d’un arbre, pour qu’elles cachent un objet. Les racines bougent très lentement, il faut donc faire très attention pour les voir bouger. Le sorcier doit incanter pendant 1 heure et demie sur de la sève de l’arbre qu’il veut animer puis boire cette sève, s’en appliquer sur les mains et sur les racines qui vont devoir s’animer. Une fois ceci fait, l’invocateur devra poser l’objet qu’il veut dissimuler comme un grimoire, une bourse bien pleine ou encore une carte. Les racines accueilleront l’objet doucement, le recouvriront, et l’enfouiront sous terre. Il est préférable de cacher l’objet dans de grosses et grande racines. Il est possible que quelqu’un d’autre que le lanceur de sort récupère l’objet, mais celui ci devra détruire les racines car elles ne céderont pas l’objet.   
+
+
 ---
 title: "Cage de force"
 description: "Crée une prison immobile, invisible et infranchissable."
@@ -7378,6 +7580,8 @@ Quand vous lancez ce sort, chaque créature qui se trouve entièrement au sein d
 Une créature enfermée dans la cage ne peut pas la quitter par des moyens non-magiques. Si elle tente d'utiliser la téléportation ou les déplacements interplanaires pour s'échapper, elle doit d'abord effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Si elle le réussit, elle peut utiliser cette magie pour fuir, sinon elle ne parvient pas à quitter la cage, et l'utilisation du sort ou de l'effet est gaspillée. La cage s'étend aussi sur le plan éthéré, ce qui bloque les déplacements éthérés.
 
 La <ST s="dissipation-de-la-magie" /> est sans effet sur ce sort.
+
+
 ---
 title: "Caresse du vampire"
 description: "Attaque de contact qui inflige 3d6 dégâts et soigne le PJ de la moitié."
@@ -7399,6 +7603,8 @@ classes:
 Le simple contact de votre main enveloppée d'ombres peut siphonner la force vitale d'autrui pour soigner vos propres plaies. Faites une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous touchez, elle subit 3d6 dégâts nécrotiques et vous récupérez un total de points d'action égal à la moitié des dégâts infligés. Vous pouvez dépenser votre action à chacun de vos tours pour répéter cette attaque jusqu'à la fin du sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau Disciple.
+
+
 ---
 title: "Catalepsie"
 description: "Place une créature consentante en état similaire à la mort."
@@ -7425,6 +7631,8 @@ Vous placez une créature vivante consentante en état cataleptique qu'il est im
 Le sujet est [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient), incapable de bouger. Il ne ressent aucune blessure ou autre mauvais traitement et aucune réaction corporelle ne se produit, comme si le sujet était réellement mort. Toutefois, les dégâts sont encaissés normalement. Si la cible était malade ou [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) au moment de l'incantation, ou si un poison est introduit dans son corps durant l'action du sort, le poison est retardé pour la durée du sort. Le poison ou la maladie fera à nouveau pleinement effet à la fin du sort.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau supérieur, sa durée augmente et le sort s'apparente alors à une longue hibernation (la cible ne vieillit plus pendant cette période) : entre un jour au niveau et une semaine au niveau Apprenti, un mois à un an au niveau Expert, dix ans au niveau Expert et enfin jusqu'à un siècle au niveau Maître. Lorsqu'elle sort de catalepsie, la cible subit un niveau d'épuisement par niveau du sort au-delà du niveau Disciple (jusqu'à un maximum de 5). Au niveau Maître, la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution difficulté 8 + 1 tous les dix ans écoulés lorsqu'elle sort du sommeil, ou mourir immédiatement.  
+
+
 ---
 title: "Cauchemars"
 description: "La cible n'arrive plus à dormir et s'épuise progressivement."
@@ -7447,6 +7655,8 @@ classes:
 **Coût** : 12 points de Magie  
 Le sorcier par une longue incantation qui dure toute une journée, impose des cauchemars à sa victime. Il peut le faire à deux conditions : premièrement, il doit posséder l'un des objets de sa victime ; ensuite, il doit la connaître ou en posséder une partie organique. Grâce à ces cauchemars, le sorcier peut influencer sa victime car il peut choisir le thème de ces cauchemars. Chaque nuit de cauchemars empêche la victime de dormir correctement. Au bout d'une semaine, elle subit un niveau de fatigue qu'elle ne peut pas récupérer. Le sorcier peut relancer ce sort consécutivement, dès que son maléfice se termine. En terme de règle, il ne faut pas considérer que le sorcier maintienne le sort actif cependant il ne peut avoir qu'une victime à la fois. La victime perd définitivement un niveau de fatigue par semaine de cauchemars.    
 Il n'est pas possible de résister à ce sortilège, à moins d'aller en tuer la source ou que le sorcier arrête de lancer son sort.   
+
+
 ---
 title: Cave mémorielle
 description: "éclairci les souvenirs du sorcier"
@@ -7469,6 +7679,8 @@ source: "Elric"
 **Coût** : 8 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante des pigments de peinture. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
 Le sorcier consacre une grotte durant une nuit sans lune. Une fois la grotte consacrée et remplie d’inscriptions magiques qu'il a faite avec la peinture issue des pigments enchantés, le sorcier peut s’y rendre pour se remémorer des souvenirs qu’il avait perdu, ou qui étaient flous. Ce sort ne permet pas de s’approprier des souvenirs que le sorcier n’a jamais vécu. Le lanceur de sort peut renouveler ce sort juste en dépensant le coût total de point de magie requis pour ce sort.   
+
+
 ---
 title: "Cécité/Surdité"
 description: "Rend un ennemi <em>sourd</em> ou <em>aveugle</em>."
@@ -7492,6 +7704,8 @@ classes:
 Vous pouvez rendre un ennemi sourd ou aveugle. Choisissez une créature autre que vous qui se situe à portée et dans votre champ de vision. Elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle est soit [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle), soit [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) (à vous de choisir) pendant toute la durée du sort. Elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours, le sort se terminant si elle le réussit.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau Novice.
+
+
 ---
 title: "Cercle de mort"
 description: "Les créatures dans la sphère subissent 8d6 dégâts nécrotiques."
@@ -7516,6 +7730,8 @@ classes:
 Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir d'un point situé à portée. Chaque créature située dans la sphère doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 8d6 dégâts nécrotiques, les autres la moitié seulement.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent de 2d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Cercle magique"
 description: "Protège une zone contre un type de créature."
@@ -7547,6 +7763,8 @@ Choisissez l'un des types de créatures suivants : célestes, élémentaires, f�
 Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, empêchant les créatures du type choisi de quitter le cercle et protégeant contre elles les individus situés à l'extérieur.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, la durée du sort augmente d'une heure par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Chaînes mentales"
 description: "La cible est contrainte de rester dans un endroit précis."
@@ -7569,6 +7787,8 @@ classes:
 **Coût** : 12 points de Magie  
 Le sorcier est capable de créer des chaînes invisibles aussi efficaces que des chaînes d'acier. Il contraint sa victime à la fixer dans un lieu précis. Il a la possibilité de limiter sa liberté de mouvement. La victime ne désire pas, ou n'arrive pas à désirer s'éloigner du point qui lui a été fixé, de plus de 10 m par point de prestance du sorcier, et ceci même si elle ne peut pas se nourrir. Si elle quitte cette zone, ce sera contre sa volonté et fera tout pour y retourner. En dehors de la zone, elle
 subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses actions. Le seul moyen d'annuler ce sort est de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). La victime a le droit à un test par jour et gagne un bonus de +1 par jour cumulé à partir du deuxième jour.   
+
+
 ---
 title: "Champ antimagie"
 description: "Crée une zone dans laquelle toute magie est impossible."
@@ -7608,6 +7828,8 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 **Créatures et objets**. Une créature ou un objet invoqués ou créés par magie disparaissent temporairement si la sphère les recouvre. Ils réapparaissent instantanément dès que l'espace qu'ils occupent ne se trouve plus au sein de la sphère.
 
 **Dissipation de la magie**. Les sorts et les effets magiques comme <ST s="dissipation-de-la-magie"/> n'ont aucun effet sur la sphère. De même, les sphères issues de divers sorts de _champ antimagie_ ne s'annulent pas les unes les autres.
+
+
 ---
 title: "Chanceux"
 description: "Le PJ possède un objet fétiche qui augmente sa chance."
@@ -7652,6 +7874,8 @@ Chanceux permet d'obtenir un bonus de +2 à un test. Invoquer la chance est risq
 Ces effets ne peuvent pas être empêché par un autre sort, et sont cumulables. Si le lanceur de sort retrouve son porte bonheur, la malchance s’arrête. Pour finir, le lanceur de sort ne peut invoquer ce sort qu’en prononçant un mot clé qu’il aura choisi en même temps. Ce mot clé peut être épée comme alambic. Si son porte bonheur est détruit, alors le sorcier tombe inconscient. À cause du traumatisme, une [folie persistante](/folie/#folie-persistante) est alors gagnée à cause de l'attachement à ce porte-bonheur.
 
 **À plus haut niveau**. Les emplacements de surcharge permettent un résultat plus pertinent. Chaque emplacement de surcharge ajoute un bonus de +2 au jet.  
+
+
 ---
 title: "Charge d'épée"
 description: "Charge une arme pendant un combat."
@@ -7673,6 +7897,8 @@ classes:
 **Coût** : 4 points de Magie  
 
 Le sorcier enchante une arme avec de l’encens. Cette arme, à chaque fois qu’elle fendra l’air dans le vide ou se cognera à un bouclier ou à une autre surface, se chargera en énergie. Pour chaque charge, l’arme distribue 1 points de dégâts supplémentaires. L’arme peut être chargée en total 3 fois maximum. Cette puissance accumulée rend l'arme instable. Si une attaque rate sa cible d'une marge supérieure ou égale à 10, un JS DD12 doit être fait. En cas d'échec, l'arme explose en plusieurs milliers de fragments infligeant 1d6 de dégâts perforants par charge dans un rayon de deux mètres, y compris pour le porteur. L'arme est dans ce cas détruite.
+
+
 ---
 title: "Charme-personne"
 description: "La cible <em>charmée</em> se considère comme l'amie du PJ."
@@ -7696,6 +7922,8 @@ classes:
 Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ de vision. Il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, pour lequel il dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous ou vos compagnons êtes actuellement en train de le combattre. S'il rate son test, il est [_charmé_](/gerer-la-sante-du-personnage/#charme) par vous jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez du mal. La créature [_charmée_](/gerer-la-sante-du-personnage/#charme) vous considère comme un ami. Quand le sort se termine, elle sait que vous l'avez charmée.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez charmer une créature de plus par niveau au-delà du niveau Novice. Toutes les cibles doivent se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
+
+
 ---
 title: "Chauffer le métal"
 description: "Porte au rouge un objet de métal dont le contact provoque 3d6 dégâts."
@@ -7720,6 +7948,8 @@ Choisissez un objet manufacturé en métal, comme une arme métallique ou une ar
 Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, sans quoi elle le lâche, si elle le peut. Si elle le conserve, elle est affectée par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) jusqu'au début de votre prochain tour.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Chien de garde"
 description: "Chien <em>invisible</em> et immobile qui donne l'alarme et attaque les intrus."
@@ -7745,6 +7975,8 @@ Vous invoquez un chien de garde invisible dans un emplacement inoccupé situé �
 Le chien est [_invisible_](/gerer-la-sante-du-personnage/#invisible) pour tout le monde sauf pour vous, et il est impossible de le blesser. Il se met à aboyer dès qu'une créature de taille P ou supérieure arrive à 9 mètres de lui sans prononcer d'abord le mot de passe que vous avez choisi lors de l'incantation. Le chien perçoit les créatures [_invisibles_](/gerer-la-sante-du-personnage/#invisible) et voit ce qui se passe sur le plan éthéré. Il ignore les illusions.
 
 Au début de votre tour, le chien tente de mordre une créature qui vous est hostile, située dans un rayon de 1,50 mètre autour de lui. Son bonus d'attaque est égal à votre modificateur de caractéristique d'incantation + votre bonus de maîtrise. S'il touche, il inflige 6d6 dégâts perforants.  
+
+
 ---
 title: "Choc des titans"
 description: "Le PJ se choisit une cible et obtient l'<em>avantage</em> contre elle une fois par tour."
@@ -7764,6 +7996,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre première attaque à chacun de vos tours.
+
+
 ---
 title: "Clairvoyance"
 description: "Le PJ peut voir ou entendre par un organe sensoriel invisible à 1,5 kilomètre."
@@ -7792,6 +8026,8 @@ Vous créez un organe sensoriel [_invisible_](/gerer-la-sante-du-personnage/#inv
 Vous choisissez la vue ou l'ouïe au moment où vous lancez le sort. Vous pouvez alors utiliser le sens choisi à travers l'organe comme si vous occupiez son emplacement. Vous pouvez dépenser une action pour passer de la vue à l'ouïe ou inversement.
 
 Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple de voir l'[_invisible_](/gerer-la-sante-du-personnage/#invisible) ou de _vision parfaite_) le perçoit comme un orbe lumineux intangible de la taille de votre poing.
+
+
 ---
 title: "Clignotement"
 description: "Le PJ passe à chaque tour du plan matériel au plan éthéré et vice-versa."
@@ -7814,6 +8050,8 @@ classes:
 Pendant toute la durée du sort, vous lancez 3d6 à la fin de chacun de vos tours. Sur un 12 ou plus, vous disparaissez de votre plan d'existence actuel et apparaissez sur le plan éthéré (si vous vous trouviez déjà là, le sort échoue et l'incantation est gaspillée). Au début de votre tour suivant et quand le sort se termine alors que vous vous trouvez sur le plan éthéré, vous retournez sur un emplacement inoccupé de votre choix que vous pouvez voir dans un rayon de 3 mètres autour de l'emplacement dont vous avez disparu. S'il n'y a pas d'emplacement disponible dans ce rayon, vous apparaissez dans l'espace inoccupé le plus proche (choisi au hasard s'il y en a plusieurs à égale distance). Vous pouvez révoquer ce sort par une action.
 
 Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se passe sur le plan d'où vous venez, qui apparaît sous forme d'ombres grises, mais votre vision ne porte pas au-delà de 18 mètres. Vous pouvez seulement affecter des créatures se trouvant sur le plan éthéré et elles sont les seules à pouvoir vous affecter. Les créatures qui ne se trouvent pas sur ce plan ne peuvent ni vous percevoir, ni interagir avec vous, à moins qu'elles ne disposent d'un pouvoir le leur permettant.
+
+
 ---
 title: "Coercition mystique"
 description: "La cible est charmée pendant 30 jours et doit obéir aux ordres du PJ."
@@ -7840,6 +8078,8 @@ Vous pouvez lui donner n'importe quel ordre de votre choix, en dehors de ceux qu
 Vous pouvez mettre prématurément fin au sort en dépensant une action pour le dissiper. Les sorts _lever une malédiction_, _restauration supérieure_ et _souhait_ mettent aussi fin à ce sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou Expert, il dure 1 an. Avec un emplacement de sort de niveau Maître, il persiste jusqu'à ce que quelqu'un le dissipe avec l'un des sorts mentionnés précédemment.
+
+
 ---
 title: "Coiffure"
 description: "Permet de définir sa coiffure."
@@ -7864,6 +8104,8 @@ classes:
 **Coût** : 1 points de Foi ou de Magie
 Ce petit sort permet au magicien de définir une coiffure pour la journée.
 Il doit toucher la chevelure en question et la coiffer entre ses doigts en fredonnant un petit air. Il peut ainsi donner des formes ondulées, des boucles, tresser les cheveux automatiquement, friser les cheveux ou bien les rendre lisses. Ce sort est aussi efficace sur la barbe.
+
+
 ---
 title: "Colère des damnés"
 description: "Les cibles dans la zone subissent 3d6  dégâts et sont <em>entravées</em>."
@@ -7886,6 +8128,8 @@ classes:
 Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour d'un point situé à portée et dans votre champ de vision. La zone est considérée comme un terrain difficile et toute créature qui y termine son déplacement subit 3d6 dégâts de feu. Une créature qui entre dans la zone ou s'y déplace doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou être immédiatement [_entravée_](/gerer-la-sante-du-personnage/#entrave) jusqu'à son prochain tour.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau d'Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau de Disciple.  
+
+
 ---
 title: "Collet magique"
 description: "Crée un piège magique qui met la cible <em>à terre</em> et peut l'<em>entraver</em>."
@@ -7908,6 +8152,8 @@ classes:
 Vous créez un piège qui s'enroule autour d'un ou plusieurs membres de l'individu ciblé et peut le faire chuter ou le ligoter. Le piège affecte une zone de 3 mètres de rayon autour d'un point que vous désignez à portée. Cette zone doit être placée sur un terrain naturel (pas sur une route ni dans une structure artificielle). La première créature qui traverse la zone piégée doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. En cas de succès, elle est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), en cas d'échec elle est de plus [_entravée_](/gerer-la-sante-du-personnage/#entrave). Une créature [_à terre_](/gerer-la-sante-du-personnage/#a-terre) termine immédiatement son déplacement et perd l'action en cours. Elle peut se relever normalement avec sa prochaine action. Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut utiliser son action à chaque tour pour faire un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou de Force au choix afin de se délivrer. Toutefois, à chaque fois qu'elle lutte pour échapper aux liens, ceux-ci se resserrent et lui infligent 1d6 dégâts tranchants. Tant qu'elle n'essaye pas de se délivrer, elle ne subit pas de dégât.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, le sort affecte une cible supplémentaire par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Colonne de flamme"
 description: "Un feu divin inflige 4d6 dégâts de feu et 4d6 dégâts radiants."
@@ -7931,6 +8177,8 @@ classes:
 Une colonne verticale de feu divin rugissant surgit des cieux et s'abat à l'endroit de votre choix. Toute créature située dans un cylindre de 3 mètres de rayon et 12 mètres de haut centré sur le point de votre choix à portée doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les autres la moitié seulement.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts de feu ou les dégâts radiants (à vous de choisir) augmentent de 1d6 par niveau au-delà du niveau d'Apprenti.  
+
+
 ---
 title: "Communication avec les animaux"
 description: "Le PJ peut communiquer avec les bêtes."
@@ -7951,6 +8199,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec elles pendant toute la durée du sort. Les connaissances et le degré de conscience de nombreuses bêtes sont limités par leur intelligence réduite, mais elles peuvent au moins vous renseigner sur les environs et les monstres aux alentours, ainsi que sur ce qu'elles perçoivent aujourd'hui ou ont perçu la veille. Si le MJ accepte, vous pouvez convaincre une bête de vous accorder une petite faveur.  
+
+
 ---
 title: "Communication avec les morts"
 description: "Permet de poser 5 questions à un cadavre."
@@ -7973,6 +8223,8 @@ classes:
 Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix situé à portée. Il est alors en mesure de répondre à vos questions. Le cadavre doit encore disposer d'une bouche et ne doit pas être un mort-vivant. Le sort échoue si le cadavre choisi a déjà été la cible de ce sort au cours des 10 jours précédents.
 
 Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les connaissances du cadavre se limitent à ce qu'il savait de son vivant, y compris au niveau des langues qu'il est capable de parler. Les réponses sont souvent brèves, cryptiques ou répétitives et le cadavre n'est absolument pas obligé de vous donner une réponse sincère si vous lui êtes hostile ou s'il vous reconnaît comme étant un ennemi. Ce sort ne ramène pas l'âme de la cible dans son corps, juste l'esprit qui l'animait ; le cadavre ne peut donc pas apprendre de nouvelles informations, ne comprend rien de ce qui s'est passé après sa mort et est incapable de faire des spéculations sur l'avenir.
+
+
 ---
 title: "Communication avec les plantes"
 description: "Donner des ordres et poser des questions aux plantes."
@@ -8000,6 +8252,8 @@ Les plantes peuvent exécuter d'autres tâches pour vous, si le MJ donne son acc
 Si une créature végétale se trouve dans la zone, vous pouvez communiquer avec elle comme si vous partagiez un même langage, mais vous ne gagnez pas de capacité magique permettant de l'influencer.
 
 Ce sort permet de libérer une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par les plantes nées d'un sort d'_enchevêtrement_.
+
+
 ---
 title: "Communion"
 description: "Le PJ pose trois questions à un dieu ou son représentant."
@@ -8024,6 +8278,8 @@ Vous entrez en contact avec votre divinité ou l'un de ses représentants et lui
 Les êtres divins ne sont pas forcément omniscients, il se peut donc que vous obteniez « _incertain_ » comme réponse si votre question porte sur des informations sortant du champ des connaissances de votre divinité. Si une réponse d'un seul mot risque de se révéler trompeuse ou contraire aux intérêts de la divinité, le MJ peut lui substituer une courte phrase.
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 % de chances (cumulables) que chaque incantation en sus de la première ne reçoive pas de réponse. Le MJ effectue ce jet en secret.
+
+
 ---
 title: "Communion avec la nature"
 description: "Le PJ obtient des informations sur la région qui l'entoure."
@@ -8052,6 +8308,8 @@ Vous obtenez instantanément des informations sur un maximum de trois éléments
 * Les constructions.
 
 Par exemple, vous pouvez apprendre où se trouve un puissant mort-vivant résidant dans la zone, savoir où se trouvent les points d'eau potable majeurs et où se trouvent les villages les plus proches.
+
+
 ---
 title: "Compagnon animal"
 description: "Le PJ convainc un animal d'être un compagnon fidèle."
@@ -8084,6 +8342,8 @@ Chaque jour, vous pouvez conserver le même compagnon animal sans devoir à nouv
 * Accorder à votre compagnon dont l'indice de dangerosité est inférieur ou égal à 1/2 une résistance à tous les types de dégâts et un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque et aux jets de sauvegarde.
 * Communiquer par télépathie sans limite de distance avec votre compagnon et obtenir la capacité de le guérir d'un nombre de points de vie de votre choix en dépensant une action bonus et autant de vos propres points de vie, sans limite de distance.
 * Affecter une bête identique supplémentaire. Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie aussi.  
+
+
 ---
 title: "Compréhension des langues"
 description: "Le PJ comprend les langages écrits ou parlés."
@@ -8107,6 +8367,8 @@ classes:
 Pendant toute la durée du sort, vous comprenez le sens littéral de tout langage parlé que vous entendez. Vous comprenez aussi les langues écrites que vous voyez, à condition de toucher la surface sur laquelle les mots ont été tracés. Il vous faut 1 minute pour lire une page de texte. Ce sort permet de comprendre une langue à un niveau 3 en oral et écrit (Voir [langues](/langues)).   
 
 Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes qui ne correspondent pas à un langage écrit, comme un symbole magique.
+
+
 ---
 title: "Compulsion"
 description: "Les cibles sont forcées de se déplacer dans la direction que vous imposez."
@@ -8128,6 +8390,8 @@ classes:
 Les créatures de votre choix, situées à portée, dans votre champ de vision et en mesure de vous entendre, doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être affectées par le sort. Une cible qui ne peut être charmée réussit automatiquement ce jet. À chaque tour jusqu'à la fin du sort, vous pouvez utiliser une action bonus pour désigner une direction (vers laquelle la cible peut se diriger) par rapport à vous. Chaque cible affectée doit alors utiliser son déplacement au mieux pour se diriger dans cette direction à son prochain tour. De plus, elle ne peut pas effectuer d'action avant de se déplacer. Une fois qu'elle s'est ainsi déplacée, elle peut faire un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse pour tenter de mettre un terme à l'effet du sort.
 
 Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dangereuse, comme un brasier ou une fosse béante, mais elle est prête à provoquer des attaques d'opportunité pour se déplacer dans la direction indiquée.
+
+
 ---
 title: "Cône de froid"
 description: "Cône de 18 mètres dans lequel les cibles subissent 8d6 dégâts de froid."
@@ -8153,6 +8417,8 @@ Une bouffée d'air froid jaillit de vos mains. Toutes les créatures présentes 
 Une créature qui succombe suite à ce sort se transforme en statue de glace jusqu'à ce qu'elle fonde.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 1d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Confort"
 description: "Adaptation à des environnements extrêmes"
@@ -8174,6 +8440,8 @@ classes:
 ---
 **Coût** : 2 points de Magie ou de Foi  
 Ce sort permet de supporter les températures extrêmes (la chaleur d'un désert ou le froid de l’hiver) de - 10 C° à 35 C° comme s'il s'agissait d'une température ambiante de 18 C°. Pour les températures supérieures ou inférieures, il suffit de faire la différence. Ainsi une température de 42 C° est ressentie 25 C° et une de -20C° comme une température de 8C°.
+
+
 ---
 title: "Confusion"
 description: "Les cibles agissent de manière aléatoire."
@@ -8210,6 +8478,8 @@ Une cible affectée ne peut pas utiliser de réaction et doit lancer 2d6 au déb
 Une créature affectée peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. En cas de succès, l'effet se termine pour elle.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Apprenti ou supérieur, le rayon de la sphère augmente de 1,50 mètre par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Contacter un autre plan"
 description: "Le PJ peut poser 5 questions à une entité extraplanaire."
@@ -8231,6 +8501,8 @@ classes:
 Vous contactez mentalement un demi-dieu, l'esprit d'un sage décédé depuis longtemps, ou une autre entité mystérieuse issue d'un autre plan. Le contact avec cette intelligence extraplanaire met votre esprit à rude épreuve et risque même de le briser. Quand vous lancez ce sort, vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'intelligence DD 15. En cas d'échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusqu'à ce que vous ayez bénéficié d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Tant que vous êtes fou, vous ne pouvez pas entreprendre la moindre action, vous ne comprenez pas ce que disent les autres créatures, vous êtes incapable de lire et vous ne bredouillez que des paroles insensées. Une tierce personne peut mettre un terme à cet effet en  vous ciblant avec un sort de <ST s="restauration-superieure"/>.
 
 Si vous réussissez votre jet de sauvegarde, vous pouvez poser jusqu'à cinq questions à l'entité. Vous devez les poser avant la fin du sort. C'est le MJ qui répond à chacune d'entre elles avec un mot, comme « _oui_ », « _non_ », « _peut-être_ », « _jamais_ », « _hors sujet_ » ou « _incertain_ » (si l'entité ignore la réponse à votre question). Si une réponse limitée à un seul mot risque de se révéler trompeuse, le MJ peut la remplacer par une courte phrase.
+
+
 ---
 title: "Contact glacial"
 description: "Une main invisible attaque une cible et lui inflige 2d6 dégâts nécrotiques."
@@ -8259,6 +8531,8 @@ Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre
 Si votre cible est un mort-vivant, il subit en plus un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre vous jusqu'à la fin de votre prochain tour.
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez les niveaux 5 (3d6), 11 (4d6) et 17 (5d6).
+
+
 ---
 title: "Contagion"
 description: "Inocule une maladie à la cible."
@@ -8294,6 +8568,8 @@ Comme le sort déclenche une maladie naturelle chez la cible, tout effet qui gu�
 **Mort poisseuse**. La créature est affligée de saignements incontrôlables. Elle souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Constitution et des jets de sauvegarde de Constitution. De plus, elle est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de son prochain tour à chaque fois qu'elle subit des dégâts.
 
 **Pourriture**. La chair de la créature se met à pourrir. Elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Charisme et devient vulnérable à tous les dégâts.
+
+
 ---
 title: "Contamination"
 description: "La cible subit 14d6 dégâts nécrotiques et voit son maximum d'action réduit."
@@ -8313,6 +8589,8 @@ classes:
 ---
 **Coût** : 12 points de Foi  
 Vous transmettez une maladie virulente à une créature située à portée et dans votre champ de vision. La cible doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle subit 14d6 dégâts nécrotiques, la moitié seulement si elle réussit. Ces dégâts ne peuvent pas faire passer les points d'action de la cible au-dessous de 1. Si la cible rate son jet de sauvegarde, son total de points d'action maximum est réduit, pendant 1 heure, d'un montant égal aux dégâts nécrotiques reçus. Tout effet qui guérit les maladies ramène le maximum de points d'action de la cible à la normale sans avoir besoin d'attendre 1 heure.
+
+
 ---
 title: "Contingence"
 description: "Lance un sort personnel lorsque certaines conditions sont remplies."
@@ -8338,6 +8616,8 @@ Choisissez un sort de niveau Apprenti ou moins que vous êtes en mesure de lance
 Le sort contingent prend effet dès que les circonstances sont remplies pour la première fois, que vous le vouliez ou non, ce qui met un terme à la contingence.
 
 Le sort contingent affecte uniquement votre personne, même s'il peut normalement affecter d'autres créatures. Vous ne pouvez utiliser qu'un seul sort de _contingence_ à la fois. Si vous en lancez un second, les effets du précédent se dissipent. De plus, la contingence prend fin si sa composante matérielle n'est plus sur votre personne.
+
+
 ---
 title: "Contresort"
 description: "Réaction qui permet au PJ d'empêcher le lancement d'un sort."
@@ -8359,6 +8639,8 @@ classes:
 Vous tentez d'interrompre une créature en pleine incantation. Si elle essayait de lancer un sort de niveau Disciple ou moins, il échoue et reste sans effet. Si le sort est de niveau Apprenti ou plus, faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation. Le DD est de 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et reste sans effet.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Apprenti ou supérieur, le sort à interrompre est automatiquement sans effet s'il est d'un niveau égal ou inférieur à celui du sort utilisé.
+
+
 ---
 title: "Contrôle de l'eau"
 description: "Permet de contrôler une étendue d'eau."
@@ -8394,6 +8676,8 @@ Le niveau de l'eau reste plus élevé jusqu'à la fin du sort ou jusqu'à ce que
 **Tourbillon**. Cet effet nécessite une étendue d'eau d'au moins 15 mètres carrés pour 7,50 mètres de fond et se traduit par la formation d'un tourbillon au centre de la zone. Il se présente sous forme d'un vortex de 1,50 mètre de large à sa base pour un maximum de 15 mètres de large au sommet et une hauteur de 7,50 mètres. Toutes les créatures et tous les objets qui se trouvent dans l'eau et dans un rayon de 7,50 mètres autour du tourbillon sont entraînés vers lui sur 3 mètres. Une créature peut s'éloigner à la nage si elle réussit un test de Force (Athlétisme) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort.
 
 Quand une créature entre dans le vortex pour la première fois de son tour ou qu'elle y commence son tour, elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Si elle échoue, elle reçoit 2d8 dégâts contondants et se fait emporter par le vortex jusqu'à la fin du sort. Si elle réussit son jet, elle subit seulement la moitié des dégâts et n'est pas prise dans le vortex. Une créature emportée par le vortex peut utiliser une action pour tenter de s'en éloigner comme décrit plus haut, mais elle est affectée par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de son test de Force (Athlétisme). À chaque tour, la première fois qu'un objet entre dans le vortex, il subit 3d6 dégâts contondants. Ces dégâts se répètent à chaque round passé dans le vortex.
+
+
 ---
 title: "Contrôle des flammes"
 description: "Permet de manipuler des flammes simples"
@@ -8418,6 +8702,8 @@ Le mage peut au prix d’une action, utiliser sa poudre de piment enchantée en 
 • Vous pouvez doubler ou diminuer de moitié l'aire de lumière vive ou de lumière faible projetée par le feu et/ou en changer la couleur. La modification dure 1 heure. 	
 • Vous pouvez faire apparaitre des formes simples (comme une vague silhouette de créature, un objet inanimé ou une localisation) dans les flammes et les animer comme bon vous semble. Les	 silhouettes persistent pendant 1 heure. 	
 Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ses effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
+
+
 ---
 title: "Contrôle du climat"
 description: "Le PJ contrôle la météo dans un rayon de 7,5 kilomètres."
@@ -8474,6 +8760,8 @@ Quand vous modifiez les conditions météorologiques, cherchez les conditions ac
 |**3**|Vent fort|
 |**4**|Grand vent|
 |**5**|Tempête|
+
+
 ---
 title: "Convocation d'un aigle"
 description: "Convoque un aigle qui se trouve dans la portée du sort."
@@ -8497,6 +8785,8 @@ classes:
 ---
 **Coût** : 4 points de Foi ou de Magie
 Ce sort convoque un aigle qui peut attaquer ensuite les ennemis du personnage du mieux qu’il peut. Le sort ne peut être lancé qu'en extérieur et seulement en plein jour. L'animal arrive à l’endroit décidé par le personnage et agit immédiatement, pendant le tour du personnage. Si le lanceur de sort est capable de communiquer avec lui, il peut lui dire qui combattre, qui laisser en paix, ou même lui donner d’autres instructions. L'aigle doit être présente dans un rayon de 2 km et mettra 10 minutes (le temps d'incantation) + 1d6 minutes à se manifester. Il restera à disposition du lanceur de sort pendant la durée du sort sauf si celui-ci s'éloigne de plus de 1 km par niveau de son lieu habituel de vie. Si la portée est dépassée, l'aigle est libéré et retourne vers son foyer.
+
+
 ---
 title: "Convocation d'une chouette"
 description: "Convoque une chouette qui se trouve dans la portée du sort."
@@ -8520,6 +8810,8 @@ classes:
 ---
 **Coût** : 4 points de Foi ou de Magie
 Ce sort convoque une Chouette qui peut attaquer ensuite les ennemis du personnage du mieux qu’elle peut. Elle arrive à l’endroit décidé par le personnage et agit immédiatement, pendant le tour du personnage. Si le lanceur de sort est capable de communiquer avec elle, il peut lui dire qui combattre, qui laisser en paix, ou même lui donner d’autres instructions. La convocation ne peut se dérouler qu'à partir de la nuit tombée et seulement en extérieur. La créature doit être présente dans un rayon de 2 km et mettra 10 minutes (le temps d'incantation) + 1d6 minutes à se manifester. Elle restera à disposition du lanceur de sort pendant la durée du sort sauf si celui-ci s'éloigne de plus de 1 km par niveau de son lieu habituel de vie. Si la portée est dépassée, la chouette est libérée et retourne vers son foyer.  
+
+
 ---
 title: "Convocation d'un rat"
 description: "Convoque un rat qui se trouve dans la portée du sort."
@@ -8543,6 +8835,8 @@ classes:
 ---
 **Coût** : 2 points de Foi ou de Magie
 Ce sort convoque un rat qui peut attaquer ensuite les ennemis du personnage du mieux qu’il peut. Il arrive à l’endroit décidé par le personnage et agit immédiatement, pendant le tour du personnage. Si le lanceur de sort est capable de communiquer avec lui, il peut lui dire qui combattre, qui laisser en paix, ou même lui donner d’autres instructions. Ce sort peut être lancé dans n'importe quel environnement et à n'importe quelle heure de la journée. L'animal doit être présent dans un rayon de 200 m et mettra 1 minute (le temps d'incantation) à se manifester. Il restera à disposition du lanceur de sort pendant la durée du sort sauf si celui-ci s'éloigne de plus de 100 m par niveau de son lieu habituel de vie. Si la portée est dépassée, la créature est libérée et retourne vers son foyer.   
+
+
 ---
 title: "Coquille antivie"
 description: "Crée une barrière qui empêche les créatures d'approcher du PJ."
@@ -8566,6 +8860,8 @@ Une barrière scintillante se déploie depuis votre personne, jusqu'à englober 
 La barrière empêche les créatures affectées de la franchir ou de passer un membre au travers. Une créature affectée peut lancer des sorts ou porter des attaques à distance ou via une arme à allonge, tout cela franchissant la barrière.
 
 Si vous vous déplacez de telle manière qu'une créature affectée est contrainte de traverser la barrière, le sort se termine.
+
+
 ---
 title: "Couleurs dansantes"
 description: "Cône de lumières colorées qui <em>aveuglent</em> les cibles."
@@ -8590,6 +8886,8 @@ Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez
 Chaque créature affectée, en commençant par celle qui possède actuellement le moins de points d'action, est <RT l="aveuglée" t="aveugle"/> jusqu'à la fin du sort. Soustrayez du total obtenu le nombre de points de vie actuel de chaque créature affectée avant de passer à la suivante, en choisissant chaque fois celle qui possède le moins de points d'action. Pour qu'une créature soit affectée, elle doit posséder un nombre de points d'action actuels inférieur ou égal au total restant.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, lancez 3d6 supplémentaires par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Coup au but"
 description: "Avantage la première attaque"
@@ -8610,6 +8908,8 @@ classes:
 ---
 **Coût** : 1 point de Magie ou de Foi  
 Vous tendez votre main et pointez un doigt en direction d'une cible à portée. Votre magie vous aide à trouver une petite faille dans les défenses de votre cible. Lors de votre prochain tour, vous obtenez un avantage pour votre premier jet d'attaque contre la cible, à condition que le sort ne soit pas déjà terminé.   
+
+
 ---
 title: "Coup de poing de cuivre"
 description: "Donne de la force supplémentaire pour frapper"
@@ -8633,6 +8933,8 @@ source: "Elric"
 **Enchantement** Le sorcier enchante un petit bracelet de cuivre. Il a pour cela besoin d'un bracelet de cuivre, de 5 po de matériel (encens, bougies...) et d'une journée ensoleillée.
 
 Ce sort permet d’augmenter les dégâts des coups de poings de 1d6. Les mains de l’enchanteur auront une teinte cuivrée. Les poings sont toujours considérées comme du combat à mains nues. Ce sort n'offre pas de protection pour les mains.
+
+
 ---
 title: "Coup de tonnerre"
 description: "Appel du tonnerre lors d'un orage"
@@ -8655,6 +8957,8 @@ classes:
 
 Lors de la présence d’un orage dans les environs où le tonnerre gronde , vous pouvez, en extérieur, en tapant dans vos mains, déclencher le tonnerre autours de vous qui peut créer des dommages jusqu'à 30 mètres. Hormis vous-même, toute créature à portée doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.	 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+
 ---
 title: "Courant d'air"
 description: "Crée un courant d'air pour aérer une zone."
@@ -8678,6 +8982,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie
  Ce petit sort invoque un courant d'air qui permet d'aérer rapidement une zone, une maison ou une caverne, tout dépend de la taille et du volume concernés. Une odeur d'air frais reste dans la zone. Cela peut permettre aussi de supprimer des zones dangereuses comme les poches de monoxyde et les gaz qui restent au ras du sol dans les grottes.
+
+
 ---
 title: "Crainte"
 description: "Le lanceur de sort inspire la crainte."
@@ -8705,6 +9011,8 @@ Pour cela, il faut réussir un [jet de sauvegarde](/utiliser-les-caracteristique
 "*Il était entré dans la taverne et un silence de mort avait immédiatement envahi les lieux. Les habitués des lieux regardaient tout penaud le sol. Je remarquais que moi aussi je cherchais le sol du regard et que la peur m'avait saisi. Je relevais la tête dans un effort qui me parut surhumain et le croisait le regard de l'inconnu. Il leva la main dans ma direction et me salua. Tout sembla revenir à la normal mais les clients ne demandèrent pas leur reste. L'inconnu s'avança et vint s'installer à ma table.*."    
 **Souvenirs de Lôchetos Vlatcano, La geste du cercle de la la nuit**   
 §§§     
+
+
 ---
 title: "Création d’eau"
 description: "Créé de l'eau pendant la nuit"
@@ -8725,6 +9033,8 @@ classes:
 **Coût** : 1 point de Foi  
 
 L’adepte de ce rituel invoque par ses prière une eau pure et potable, semblable à l’eau de pluie dans un récipient qu’il a préalablement béni. Elle apparaît au bout d’une nuit dans n’importe quel récipient capable de la recevoir, ou au-dessus d’une zone trois fois plus large (ce qui permet de créer une fine pluie ou de remplir plusieurs récipients de taille moindre). Le volume d’eau est de 1 litre par niveau.  
+
+
 ---
 title: "Création de mort-vivant"
 description: "Crée des goules au service du PJ."
@@ -8753,6 +9063,8 @@ Ce sort se lance uniquement de nuit. Choisissez jusqu'à trois cadavres de créa
 La créature reste sous votre contrôle pendant 24 heures, après quoi elle cesse d'obéir aux ordres que vous lui avez donnés. Pour la maintenir sous votre contrôle pendant 24 heures de plus, vous devez lui relancer ce sort avant que les 24 heures de contrôle en cours ne se soient écoulées. Cette nouvelle utilisation du sort vous permet de réaffirmer votre contrôle sur un maximum de trois créatures que vous avez déjà animées via ce sort au lieu d'en animer de nouvelles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, vous pouvez animer ou maintenir votre contrôle sur quatre goules. Quand vous le lancez à partir d'un emplacement de niveau Expert, vous pouvez animer ou maintenir votre contrôle sur cinq goules ou deux blêmes ou deux nécrophages. Quand vous le lancez à partir d'un emplacement de niveau Maître, vous pouvez animer ou maintenir votre contrôle sur six goules ou trois blêmes ou trois nécrophages ou deux momies.
+
+
 ---
 title: "Création de nourriture et d'eau"
 description: "Crée 25 kg de nourriture et 120 litres d'eau en une nuit."
@@ -8772,6 +9084,8 @@ classes:
 ---
 **Coût** : 6 point de Foi  
 Vous créez 25 kilogrammes de nourriture (moisissure) et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Le processus prend une nuit complète. Cela suffit à nourrir et abreuver un maximum de quinze personnes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
+
+
 ---
 title: "Création ou destruction d'eau"
 description: "Crée ou détruit de l'eau ou fait tomber la pluie."
@@ -8798,6 +9112,8 @@ Vous créez ou détruisez de l'eau.
 **Destruction d'eau**. Vous détruisez jusqu'à 40 litres d'eau situés à portée dans un récipient ouvert qui s'évapore en quelques minutes. Sinon, vous pouvez dissiper le brouillard dans un cube de 9 mètres d'arête situé à portée.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous créez ou détruisez 40 litres d'eau de plus, ou bien l'arête du cube affecté augmente de 1,50 mètre par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Croissance d'épines"
 description: "Transforme le sol en terrain difficile qui inflige 1d6 dégâts."
@@ -8820,6 +9136,8 @@ classes:
 Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se met à se déformer et donne naissance à un tapis de pointes et d'épines. La zone se mue en terrain difficile pendant toute la durée du sort. Quand une créature entre dans la zone ou s'y déplace, elle reçoit 1d6 dégâts perforants par tranche de 1,50 mètre parcouru.
 
 La transformation du sol est camouflée, de manière à ce que le terrain ait l'air naturel. Une créature dans l'incapacité de voir la zone au moment de l'incantation doit réussir un test de Sagesse (Perception) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort pour remarquer que le terrain est dangereux avant d'y entrer.
+
+
 ---
 title: "Croissance végétale"
 description: "Rend la végétation plus touffue ou plus luxuriante."
@@ -8845,6 +9163,8 @@ Ce sort décuple la vitalité des plantes d'une zone donnée. Le sort a deux mod
 Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la zone affectée par le sort.
 
 **Si vous lancez le sort sur une période de huit heures, vous enrichissez la terre**. Toute la végétation dans un rayon de 800 mètres autour d'un point de votre choix situé à portée devient luxuriante pendant un an. Elle donne deux fois plus de nourriture que la normale lors de la récolte.
+
+
 ---
 title: "Danse irrésistible"
 description: "La cible danse sans cesse et subit un <em>désavantage</em>."
@@ -8866,6 +9186,8 @@ classes:
 Choisissez une créature située à portée et dans votre champ de vision. La cible entame une danse comique, se mettant à taper du pied et à caracoler sur place. Les créatures qui ne peuvent être <RT l="charmées" t="charme"/> sont immunisées contre ce sort.
 
 Une fois que la créature s'est mise à danser, elle doit dépenser la totalité de son déplacement pour danser sans quitter son espace. De plus, elle souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Dextérité et des jets d'attaque. Tant que la cible est affectée par ce sort, les autres créatures bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs jets d'attaque contre elle. Une créature en train de danser peut utiliser son action pour effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse et reprendre le contrôle de son corps. Si elle réussit, le sort se termine.
+
+
 ---
 title: "Déblocage"
 description: "Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>."
@@ -8889,6 +9211,8 @@ Choisissez un objet situé à portée et dans votre champ de vision. Ce peut êt
 Une cible fermée par une serrure ordinaire, coincée ou bloquée par une barre se déverrouille ou se débloque. Si l'objet a plusieurs serrures, le sort en ouvre une seule. Si vous visez une cible fermée par un <ST s="verrou-magique"/>, ce dernier est supprimé pendant 10 minutes, au cours desquelles on peut ouvrir et fermer la cible normalement.
 
 Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu'on l'entend dans un rayon de 90 mètres.
+
+
 ---
 title: "Déchirure de l'âme"
 description: "Déchire l'âme de l'adversaire"
@@ -8914,6 +9238,8 @@ Ce sort permet de gêner par des souffrances mentales une cible connue par le so
 "*L'homme était tombé de son trône et sa couronne avait roulé dans la pièce avant de s'immobiliser dans un bruit métallique très désagrable. Le Genos que je servais pour la saison m'injuriait et me suppliait de mettre fin à ses douleurs. Je n'y étais pour rien. Quelle idée d'avoir battu et rejeté un voyageur du château en ignorant qu'il s'agissait d'un Sorser. L'individu n'était plus là depuis une journée au moins mais visiblement la distance ne l'empêchait pas d'assouvir sa vengeance*."    
 **Souvenirs de Gwion Gornoc, Comme un hibou dans la nuit**   
 §§§     
+
+
 ---
 title: "Définir le sexe"
 description: "Permet de choisir le sexe de l'enfant."
@@ -8934,6 +9260,8 @@ classes:
 ---
 **Coût** : 8 points de Foi  
 Le guérisseur peut en posant sa main sur le ventre d'une femme enceinte, définir le sexe du bébé à venir. Ce sort doit être utilisé dans les premiers jours, juste après la conception. La nature étant capricieuse,il y a toujours une chance que cela ne fonctionne pas. Lancer 1d6 si 6 est obtenu, le changement choix du sexe n'a pas fonctionné mais ni le guérisseur ni la femme ne peuvent le savoir.
+
+
 ---
 title: "Déguisement"
 description: "Modifie l'apparence du PJ."
@@ -8957,6 +9285,8 @@ Vous faites en sorte que votre personne (y compris vos vêtements, votre armure,
 Les changements qu'apporte le sort ne résistent pas à un examen physique. Par exemple, si vous l'utilisez pour ajouter un chapeau à votre tenue, les objets passent au travers et toute personne qui essaie de le toucher ne sentira que de l'air, ou des cheveux et un crâne. Si vous utilisez le sort pour paraître plus mince qu'en réalité, la main de quelqu'un qui tente de vous toucher se heurtera à vous alors que, visuellement, elle semble encore dans le vide.
 
 Pour percer votre déguisement à jour, une créature peut dépenser une action pour vous examiner. Elle doit alors réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) du sort.
+
+
 ---
 title: "Demi-plan"
 description: "Crée un demi-plan dans lequel des créatures peuvent s'enfermer."
@@ -8978,6 +9308,8 @@ classes:
 Vous créez une porte floue sur une surface plate et solide située à portée et dans votre champ de vision. Elle est assez large pour laisser passer sans mal des créatures de taille M. Quand quelqu'un ouvre la porte, elle donne sur un demi-plan ressemblant à une pièce vide de 9 mètres de côté (dans toutes les dimensions) faite de bois ou de pierre. La porte disparaît quand le sort se termine et les créatures et les objets encore dans le demi-plan y restent piégés, car elle s'efface aussi de leur côté.
 
 Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relier la porte à un demi-plan que vous avez précédemment créé via ce sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan qu'une autre créature a créé grâce à ce sort, vous pouvez lui relier votre propre porte.
+
+
 ---
 title: "Déperlance"
 description: "Protège des éclaboussures"
@@ -9000,6 +9332,8 @@ source: "Elric"
 **Coût** : 1 points de Magie  
 
 Ce sort permet de rendre une surface comme les pages d’un livre ou bien une cape, déperlante. La magicien doit incanter durant 1 minute sur la surface à rendre déperlante. L’objet enchanté devient alors déperlant durant 1d6 heure au niveau 1, 3d6 heures au niveau 3, 1d6 jours au niveau 6, 2d6 jours au niveau 9, 1d6 semaines au niveau 12, 3d6 semaines au niveau 15, 1d6 mois au niveau 18 et au niveau 20 jusqu’à ce que le sort soit dissipé.
+
+
 ---
 title: "Désintégration"
 description: "Rayon qui inflige 10d6+40 dégâts et peut désintégrer sa cible."
@@ -9028,6 +9362,8 @@ Une créature désintégrée est réduite à l'état de fine poussière grise, t
 Ce sort désintègre automatiquement les objets non magiques de taille G ou inférieure et les créations magiques de force. Si la cible est un objet de taille TG ou supérieure, le sort désintègre un cube de 3 mètres d'arête au sein de l'objet. Ce sort reste sans effet sur les objets magiques.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent de 3d6 par niveau au-delà du niveau Apprenti.
+
+
 ---
 title: "Dessiccation"
 description: "Dessèche une créature qui subit 2d6 dégâts nécrotiques par round."
@@ -9052,6 +9388,8 @@ Vous désignez une cible vivante à portée du sort et tant que vous vous concen
 Les morts-vivants, les créatures artificielles et les élémentaires sont immunisés à ce sort.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau Disciple ou supérieur, vous pouvez affecter une cible supplémentaire par niveau d'emplacement au-delà du niveau Novice.
+
+
 ---
 title: "Destruction d’esprit"
 description: "Sort qui permet d'atteindre un esprit"
@@ -9073,6 +9411,8 @@ classes:
 **Coût** : 1 point de Magie  
 
 Ce sort génère une onde d’énergie positive. Le personnage doit toucher l’esprit à l’aide d’une [attaque](/combattre/#jets-d-attaque) de contact à distance. S’il y parvient, l’esprit subit 1d6 points de dégâts.  
+
+
 ---
 title: "Détection de la magie"
 description: "Le PJ perçoit la présence de magie dans un rayon de 9 mètres."
@@ -9095,6 +9435,8 @@ classes:
 Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
+
+
 ---
 title: "Détection des pensées"
 description: "Permet de lire les pensées de certaines créatures."
@@ -9123,6 +9465,8 @@ Les questions directement posées à l'oral à une cible orientent naturellement
 Vous pouvez aussi utiliser ce sort pour détecter la présence de créatures intelligentes que vous ne voyez pas. Vous pouvez chercher les pensées qui se trouvent dans un rayon de 9 mètres autour de vous au moment où vous lancez ce sort ou bien par une action tandis que le sort est actif. Le sort peut franchir des obstacles, mais il est arrêté par 60 centimètres de roche, 2,5 centimètres de métal autre que le plomb ou une mince feuille de plomb. Vous ne pouvez pas repérer les créatures dotées d'une Intelligence de 3 ou moins, ni celles qui ne parlent aucune langue.
 
 Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez lire ses pensées pendant le reste de la durée du sort, comme expliqué plus haut, même si vous ne la voyez pas, mais elle doit tout de même se trouver à portée.
+
+
 ---
 title: "Détection du mal et du bien"
 description: "Détecte les créatures bénéfiques ou maléfiques par nature."
@@ -9144,6 +9488,8 @@ classes:
 Pendant toute la durée du sort, vous savez s'il y a une aberration, un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant dans un rayon de 9 mètres autour de vous et vous savez précisément où il se trouve. De même, vous savez si un lieu ou un objet situé dans un rayon de 9 mètres a été consacré ou profané.
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.
+
+
 ---
 title: "Détection du poison et des maladies"
 description: "Permet de repérer des substances toxiques ou des maladies"
@@ -9168,6 +9514,8 @@ classes:
 Pendant toute la durée du sort, vous percevez la présence de poisons, de créatures venimeuses et de maladies dans un rayon de 9 mètres autour de vous. Vous déterminez également leur emplacement et identifiez à chaque fois le type de poison, de créature ou de maladie concerné.  
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.  
+
+
 ---
 title: "Diagnostique foetal"
 description: "Permet de diagnostiquer l'enfant à naître."
@@ -9187,6 +9535,8 @@ classes:
 ---
 **Coût** : 8 points de Foi  
 En posant sa main sur le ventre, le guérisseur peut diagnostiquer l'état de santé d'un foetus, son positionnement et savoir s'il est normal.  
+
+
 ---
 title: "Dissipation de la magie"
 description: "Annule un effet magique ou un sort."
@@ -9209,6 +9559,8 @@ classes:
 Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Apprenti ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau du sort que vous utilisez.
+
+
 ---
 title: "Dissipation du mal et du bien"
 description: "Protège le PJ contre les attaques de certaines créatures."
@@ -9235,6 +9587,8 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 **Annulation d'enchantement**. Vous utilisez votre action pour toucher une créature à votre portée qui se trouve [_charmée_](/gerer-la-sante-du-personnage/#charme), [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) ou possédée par un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant. Cette créature n'est alors plus [_charmée_](/gerer-la-sante-du-personnage/#charme), [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) ni possédée par ces créatures.
 
 **Renvoi**. Vous utilisez votre action pour faire une attaque de sort au corps-à-corps contre un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant situé à une distance inférieure ou égale à votre allonge. Si vous touchez la créature, vous tentez de la renvoyer sur son plan natal. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou retourner sur son plan natal (si elle ne s'y trouve pas déjà). Si un mort-vivant ne se trouve pas sur son plan natal, il est renvoyé dans les plans inférieurs, tandis qu'une fée sera expulsée sur son plan d'origine.
+
+
 ---
 title: "Divination"
 description: "Le PJ pose une question à un dieu ou un de ses serviteurs."
@@ -9259,6 +9613,8 @@ Grâce à votre magie et à une offrande, vous entrez en contact avec un dieu ou
 Le sort ne tient pas compte d'une éventuelle modification des circonstances susceptible de bouleverser l'issue des événements, comme l'incantation de sorts supplémentaires ou la perte ou l'arrivée d'un compagnon.
 
 Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25  % de chances par incantation en sus de la première que vous obteniez une prémonition aléatoire au lieu d'une prémonition fiable. C'est au MJ de faire ce jet en secret.
+
+
 ---
 title: "Doigt de mort"
 description: "Rayon qui inflige 10d6+30 dégâts et peut transformer la cible en zombi."
@@ -9281,6 +9637,8 @@ classes:
 Vous envoyez de l'énergie négative dans le corps d'une créature située à portée et dans votre champ de vision, ce qui lui inflige des douleurs déchirantes. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle subit 10d6+30 dégâts nécrotiques, la moitié seulement si elle réussit.
 
 Si ce sort achève un humanoïde, ce dernier se relève au début de votre prochain tour sous forme de zombi à jamais sous votre contrôle. Il suit vos ordres verbaux au mieux de ses capacités.
+
+
 ---
 title: "Dominer une bête"
 description: "La bête ciblée est <em>charmée</em> et obéit au PJ."
@@ -9310,6 +9668,8 @@ Vous pouvez utiliser votre action pour prendre le contrôle total de votre cible
 À chaque fois que la cible subit des dégâts, elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le sort. Si elle le réussit, le sort prend fin.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau Apprenti, la durée devient « _concentration, jusqu'à 10 minutes_ ». Si vous lancez ce sort en utilisant un niveau d'Adepte, la durée devient « _concentration, jusqu'à 1 heure_ ». Si vous lancez ce sort en utilisant un niveau d'Expert, la durée devient « _concentration, jusqu'à 8 heures_ ».
+
+
 ---
 title: "Dominer un humanoïde"
 description: "La cible est <em>charmée</em>, le PJ contrôle ses actions."
@@ -9337,6 +9697,8 @@ Vous pouvez utiliser votre action pour prendre le contrôle total de votre cible
 À chaque fois que la cible subit des dégâts, elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le sort. Si elle le réussit, le sort prend fin.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau d'Adepte, la durée devient « _concentration, jusqu'à 10 minutes_ ». Si vous lancez ce sort en utilisant un niveau d'Expert, la durée devient « _concentration, jusqu'à 1 heure_  ». Si vous lancez ce sort en utilisant un niveau de Maître, la durée devient « _concentration, jusqu'à 8 heures_ ».
+
+
 ---
 title: "Dominer un monstre"
 description: "La cible est <em>charmée</em>, le PJ contrôle ses actions."
@@ -9365,6 +9727,8 @@ Vous pouvez utiliser votre action pour prendre le contrôle total de votre cible
 À chaque fois que la cible subit des dégâts, elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le sort. Si elle le réussit, le sort prend fin.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau Maître, la durée devient « _concentration, jusqu'à 8 heures_ ».
+
+
 ---
 title: Douleur nerveuse
 description: "Ce sort crée une douleur intense dans le système nerveux de la cible."
@@ -9385,6 +9749,8 @@ classes:
 ---
 **Coût** : 4 points de Magie  
 Ce sort permet d'infliger une vive douleur qui cause 1d6 de dégâts et stoppe la cible dans son action à moins de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse (volonté) pour poursuivre. Le sort dure tant que le sorcier se concentre ou qu'il encaisse plus de 10 points de dégâts en une seule fois.    
+
+
 ---
 title: "Doux repos"
 description: "Empêche la transformation d'un cadavre en mort-vivant."
@@ -9406,6 +9772,8 @@ classes:
 ---
 **Coût** : 4 points de Foi ou de Magie  
 Vous touchez un cadavre ou des restes. La cible ne peut pas se transformer en mort-vivant.  
+
+
 ---
 title: "Druidisme"
 description: "Le PJ crée divers effets magiques mineurs liés à la nature."
@@ -9429,6 +9797,8 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 * Vous faites éclore une fleur ou un bourgeon ou germer une graine en une journée.
 * Vous créez un effet sensoriel instantané, réduit et inoffensif, comme des feuilles qui tombent, une bourrasque, le bruit que ferait un petit animal ou une légère odeur de moufette. L'effet doit être contenu dans un cube d'au maximum 1,50 mètre d'arête.
 * Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.  
+
+
 ---
 title: "Eclairage"
 description: "Allume les lumières dans un rayon de 12 mètres."
@@ -9449,6 +9819,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie   
 Par ce sort, l'enchanteur peut allumer tout ou partie de ses bougies et lampes à volonté, seulement d'une parole ou d'un claquement de main.
+
+
 ---
 title: "Éclat de bois"
 description: "Le PJ projette une javeline qui inflige 1d6 dégâts perforants."
@@ -9471,6 +9843,8 @@ classes:
 Vous jetez un éclat de bois qui prend la forme d'une véritable javeline et part en direction de votre cible. Vous devez réussir une attaque de sort à distance pour toucher votre cible. En cas de réussite, l'éclat de bois inflige 1d6 dégâts perforants. L'éclat de bois est considéré comme une arme magique.
 
 Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les niveaux 5, 11 et 17. Ces éclats peuvent viser différentes cibles à portée du sort.
+
+
 ---
 title: "Éclat du soleil"
 description: "Lumière aveuglante qui inflige 12d6 dégâts radiants."
@@ -9496,6 +9870,8 @@ Par temps dégagé, la chaude lumière du soleil illumine une zone de 18 mètres
 Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) par le sort fait un autre jet de Constitution à la fin de chacun de ses tours. Dès qu'elle réussit, sa cécité disparaît.
 
 Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
+
+
 ---
 title: "Embruns prismatiques"
 description: "Huit rayons aux effets aléatoires frappent les cibles à 18 mètres."
@@ -9524,6 +9900,8 @@ Huit traits d'énergie jaillissent de votre main. Chacun possède des pouvoirs e
 8-9. **_Froid_**. La cible subit 10d6 dégâts de froid si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.
 10. **_Pétrification_**. Si la cible rate son jet de sauvegarde, elle est entravée et doit alors faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine, si elle en rate trois, elle se change définitivement en pierre et est pétrifiée. Les succès et les échecs n'ont pas à être consécutifs : tenez le compte dans chaque catégorie jusqu'à ce que l'une d'elles arrive à trois.
 11-12. **_Spécial_**. Deux rayons viennent frapper la cible. Relancez deux fois le dé en le relançant à chaque fois que vous obtenez un 12.
+
+
 ---
 title: "Emprisonnement"
 description: "Crée une prison dont la cible ne peut s'échapper."
@@ -9564,6 +9942,8 @@ Vous devez opter pour l'une des formes d'emprisonnement suivantes quand vous lan
 <ST l="Dissipation de la magie" s="dissipation-de-la-magie"/> peut mettre fin au sort à condition d'être lancée depuis un emplacement de sort de niveau 9 en visant la prison ou la composante matérielle spéciale utilisée pour lancer le sort.
 
 Vous pouvez utiliser une composante spéciale pour créer une prison à la fois seulement. Si vous relancez ce sort en utilisant la même composante, la cible de la première incantation est libérée sur-le-champ.
+
+
 ---
 title: "Enchevêtrement"
 description: "Les créatures sont <em>entravées</em> dans un carré de 6 mètres."
@@ -9587,6 +9967,8 @@ Des herbes et des lianes entremêlées jaillissent du sol dans un carré de 6 m�
 Une créature qui se trouve dans la zone affectée lorsque vous lancez le sort doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force, sans quoi elle reste [_entravée_](/gerer-la-sante-du-personnage/#entrave) dans les plantes jusqu'à ce que le sort se termine. Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut utiliser une action pour faire un test de Force contre le DD du sort. Si elle réussit, elle se libère.
 
 Quand le sort se termine, les plantes invoquées flétrissent.
+
+
 ---
 title: Encre de Tassos
 description: "Marque un lieu ou une personne d'une encre indélébile"
@@ -9609,6 +9991,8 @@ source: "Elric"
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante de l'encre de pieuvre de la baie d'émeraude. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
 Ce sort porte le nom de l’Alcante Tassos Logas qui aurait prit la vertu de la fille d’un prêtre. Celui-ci pour laver l’affront fait à son nom, maudit Tassos et le condamna à devoir porter sur son front et sa maison des insultes à l’encre indélébile.  Par la suite, la personne responsable de l’affront se voit marqué d’injures sur son visage et sur ses biens comme des bêtes ou une maison. Pour briser le charme, il suffit de laver l’affront. Ce peut être une simple excuse pour une insulte ou bien sa propre mort si la cause s’avère être un meurtre ou un viol.   
+
+
 ---
 title: "Entrave planaire"
 description: "Le PJ s'attache les services d'une créature extraplanaire."
@@ -9634,6 +10018,8 @@ Grâce à ce sort, vous vous attachez de force les services d'un céleste, d'un 
 La créature liée doit suivre vos instructions au mieux de ses capacités. Vous pouvez lui demander de vous accompagner lors d'une aventure, de protéger un lieu ou de transmettre un message. La créature suit vos instructions à la lettre mais, si elle est hostile envers vous, elle peut tout à fait interpréter vos paroles de manière à satisfaire ses propres objectifs. Si la créature a exécuté vos instructions avant la fin du sort, elle revient vers vous pour vous en informer si elle se trouve sur le même plan d'existence que vous. Si vous êtes sur un autre plan, elle se rend là où vous l'avez liée et y reste jusqu'à la fin du sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau supérieur, la durée augmente : 10 jours au niveau Adepte, 30 au niveau Expert, 180 au niveau Maître.
+
+
 ---
 title: "Envoi de message"
 description: "Envoie un message télépathique de 25 mots à une portée illimitée."
@@ -9657,6 +10043,8 @@ classes:
 Vous envoyez un court message d'au maximum vingt-cinq mots à une créature qui vous est familière. Elle entend le message dans son esprit, sait que c'est vous qui le lui avez envoyé si elle vous connaît, et peut vous répondre immédiatement de la même manière. Le sort permet aux créatures dotées d'une Intelligence supérieure ou égale à 1 de comprendre le sens de votre message.
 
 Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un autre plan d'existence, mais il y a 5 % de chances, si la cible est sur un autre plan, que le message ne lui parvienne pas.
+
+
 ---
 title: "Envoûtement"
 description: "Permet de capter l'attention d'une cible."
@@ -9676,6 +10064,8 @@ classes:
 ---
 **Coût** : 4 points de Magie  
 Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de votre choix qui vous entendent et sont situées à portée et dans votre champ de vision à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Une créature qui ne peut pas être [_charmée_](/gerer-la-sante-du-personnage/#charme) réussit automatiquement ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Si vous ou vos compagnons vous battez contre une de ces créatures, elle dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Si la créature rate son jet, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) destinés à percevoir une créature autre que vous jusqu'à ce que le sort se termine ou jusqu'à ce qu'elle ne puisse plus vous entendre. Le sort se termine si vous êtes [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) ou dans l'incapacité de parler.
+
+
 ---
 title: "Épargner les mourants"
 description: "Stabilise une créature à 0 points d'action et inconscient."
@@ -9697,6 +10087,8 @@ classes:
 ---
 **Coût** : 1 point de Foi  
 Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
+
+
 ---
 title: "Épée du juste"
 description: "L'épée du PJ obtient un bonus de +3 et inflige 3d6 dégâts supplémentaires."
@@ -9716,6 +10108,8 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 Votre épée devient une épée de justice pour toute la durée du sort. Elle bénéficie donc d'un bonus de +3 aux jets d'attaque, inflige 3d6 dégâts radiants supplémentaires contre les fiélons et les morts-vivants, et crée une aura de 3 mètres de rayon octroyant à vos alliés qui s'y trouvent un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre les sorts et effets magiques.
+
+
 ---
 title: "Épée magique"
 description: "Crée une épée de force qui inflige 5d6 dégâts."
@@ -9741,6 +10135,8 @@ classes:
 Vous créez un plan de force en forme d'épée invisible qui plane à portée et persiste pendant toute la durée du sort.
 
 Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps contre une cible de votre choix située dans un rayon de 1,50 mètre autour de l'épée. Si l'épée touche, la cible subit 5d6 dégâts de force. Tant que le sort n'est pas terminé, vous pouvez dépenser une action bonus à chacun de vos tours pour déplacer l'épée d'un maximum de 6 mètres afin de la conduire à un endroit situé dans votre champ de vision, puis répéter l'attaque contre la même cible ou une autre.
+
+
 ---
 title: "Epilation"
 description: "Epile la zone concernée."
@@ -9764,6 +10160,8 @@ classes:
 **Coût** : 1 points de Foi ou de Magie
 En passant sa main sur la zone concernée et en se concentrant, le magicien fait tomber les poils et toutes les zones de pilosité, laissant une peau douce et propre.
 Outre des applications esthétiques, ce sortilège a des applications médicales s'il est utilisé en conjonction avec des chirurgies.  
+
+
 ---
 title: "Esclave"
 description: "La cible est charmée et doit obéir aux ordres du PJ."
@@ -9787,6 +10185,8 @@ classes:
 
 Le sorcier peut, grâce à un sombre rituel,  transformer un individu en esclave obéissant qui ne répondra plus qu'aux ordres de son maître. Il doit enchanter un diamant brut d'une valeur de 1000 po. Le diamant est détruit dans le rituel. Si la cible comprend votre langue, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse sans quoi elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Il ne reconnaîtra plus personne hors son maître ; même ses parents ou enfants n'auront aucun effet sur lui. Une personne ainsi dominée a des réflexes de rébellions qui apparaissent de temps à autre, souvent en l'absence de son maître. La victime peut donc résister à ce sort contre un DD de 22. Elle peut faire une tentative par mois avec un bonus de +1 cumulatif à partir du deuxième mois. L'enchantement et le sacrifice d'un autre diamant permet au sorcier de prolonger son sort comme s'il vernait de le lancer.  
 Une simple [dissipation de la magie](/grimoire/dissipation-de-la-magie) ne suffit pas à annuler ce sortilège. Un [souhait](/grimoire/souhait) annule cet effet.   
+
+
 ---
 title: "Esprit faible"
 description: "4d6 dégâts et la cible voit son Intelligence et son Charisme réduits à 1."
@@ -9815,6 +10215,8 @@ Vous vous attaquez à l'esprit d'une créature située à portée et dans votre 
 Si la cible rate son jet, son Intelligence et son Charisme tombent à 1. Elle ne peut plus lancer de sort, activer d'objet magique, comprendre une langue ni communiquer de manière intelligible. En revanche, elle est toujours capable de reconnaître ses amis, de les suivre et même de les protéger.
 
 La créature peut refaire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) tous les 30 jours. Le sort se termine dès qu'elle réussit. On peut aussi mettre un terme à ce sort grâce à l'un des sorts suivants : <ST s="restauration-superieure"/>, <ST s="guerison"/> ou <ST s="souhait"/>.
+
+
 ---
 title: "Esprit impénétrable"
 description: "La cible est invulnérable aux sorts qui affectent l'esprit."
@@ -9835,6 +10237,8 @@ classes:
 **Coût** : 16 points de Magie   
 
 Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immunisez contre les dégâts psychiques, les effets percevant les émotions ou révélant les pensées, les sorts de divination et l'état [_charmé_](/gerer-la-sante-du-personnage/#charme). Ce sort déjoue même les _souhaits_ et les sorts et effets de même puissance qui cherchent à affecter l'esprit de la cible ou à obtenir des informations à son propos.
+
+
 ---
 title: "Esprits gardiens"
 description: "Invoque des esprits qui protègent le PJ et frappent ses ennemis."
@@ -9859,6 +10263,8 @@ Vous appelez des esprits que seul vous pouvez voir et qui vous protègent. Vous 
 Quand vous lancez le sort, vous pouvez désigner autant de créatures que vous le voulez afin qu'il ne les affecte pas. Une créature affectée voit sa vitesse réduite de moitié dans la zone et, quand elle y entre pour la première fois de son tour ou quand elle y commence son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle échoue, elle subit 4d6 dégâts radiants (si vous êtes Bon ou Neutre) ou 4d6 dégâts nécrotiques (si vous êtes Mauvais). Si elle réussit son jet de sauvegarde, elle subit seulement la moitié de ces dégâts.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Appel de la foudre"
 description: "L'invocateur crée un orage et peut faire frapper la foudre à chaque tour."
@@ -9887,6 +10293,8 @@ Quand vous lancez le sort, vous devez choisir un point situé à portée et dans
 Si, au moment de l'incantation, les conditions sont déjà orageuses, le sort vous donne le contrôle de l'orage déjà présent au lieu d'en créer un nouveau. Dans ce cas, les dégâts du sort augmentent de 2d6.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 2d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: Etanchéité
 description: "Rend un livre ou un vêtement étanche et protégé de la moisissure"
@@ -9909,6 +10317,8 @@ source: "Elric"
 **Coût** : 6 points de Magie  
 **Enchantement** Le lanceur de sort enchante un livre ou un vêtement. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 Ce sort permet de rendre une surface comme les pages d’un livre ou bien d’une cape étanche.   L’objet enchanté devient alors étanche durant 1d6 heure au niveau 1, 3d6 heures au niveau 5, 1d6 jours au niveau 6, 2d6 jours au niveau 9, 1d6 semaines au niveau 12, 3d6 semaines au niveau 15, 1d6 mois au niveau 18 et au niveau 20 jusqu’à ce que le sort soit dissipé. Ce sort évite aussi la moisissure.  
+
+
 ---
 title: "Etouffement"
 description: "Etouffe une cible ou soit même"
@@ -9935,6 +10345,8 @@ Le sorcier doit frotter sur ses doigts, sa main ou même ses lèvres des pétale
 Le grossissement provoque une vive douleur, le sujet subit 1d6 dégât chaque round jusqu’à la fin du sort. L’étouffement commence au début du troisième round et fait subir 2d6 dégât chaque round. Au bout du sixième round les dégât d’étouffement font subir 4d6 dégât chaque round à la place des 2d6, et empêche la cible de bouger.   
 Il est possible d’amoindrir le sort de façon naturel, en coupant légèrement la gorge en évitant les artères. Si un test de Médecine DD 12 est réussi pendant les deux premiers rounds du sort, alors la victime subit 2d6 dégâts immédiatement mais son état est stabilisé, ensuite, elle encaisse 1d6 dégâts jusqu’à la fin du sort. En revanche si cela est fait à partir du troisième tour, alors la victime subit d’un coup 7d6 dégâts du à la pression sanguine trop forte, avant de perdre 2d6 dégâts chaque round suivants. Ce sort peut être utilisé sur d’autres organes pour faire grossir la taille et éviter de complexer, sans perdre des PA, mais il est déconseillé de faire cela.
 Un sort de [dissipation de la magie](/grimoire/dissipation-de-la-magie) permet de stopper le processus de ce sort.  
+
+
 ---
 title: "Étrangeté"
 description: "Les cibles sont <em>terrorisées</em> et subissent 7d6 dégâts à chaque round."
@@ -9955,6 +10367,8 @@ classes:
 **Coût** : 18 points de Magie  
 
 Vous puisez dans les peurs les plus profondes d'un groupe de créatures et créez des êtres illusoires dans leurs esprits, qu'elles sont les seules à voir. Chaque créature située dans une sphère de 9 mètres de rayon centrée sur un point de votre choix situé à portée doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant toute la durée du sort. Les illusions se basent sur les peurs enfouies en chaque cible et transforment leurs pires cauchemars en menace implacable. À la fin de chacun de ses tours, une créature [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle échoue, elle subit 7d6 dégâts psychiques. Si elle réussit, le sort se termine pour elle.
+
+
 ---
 title: "Éveil"
 description: "Le PJ éveille à la conscience de manière permanente une plante ou un animal."
@@ -9977,6 +10391,8 @@ classes:
 Une fois que vous avez passé la durée de l'incantation à tracer des sentiers magiques dans une pierre précieuse, vous touchez un animal ou une plante de taille TG ou inférieure qui doivent être dépourvus de toute valeur d'Intelligence ou posséder une Intelligence de 3 ou moins. La cible reçoit alors une Intelligence de 10 et la possibilité de parler un langage que vous connaissez. Si la cible est une plante, elle ne peut pas se déplacer mais gagne des sens similaires à ceux d'un humain. C'est au MJ de choisir les caractéristiques appropriées à la plante éveillée.
 
 La bête ou la plante éveillée est considérée [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant 30 jours ou jusqu'à ce que vous ou l'un de vos compagnons la blessiez. Une fois que cet effet se termine, la créature éveillée décide seule si elle reste amicale envers vous, selon la façon dont vous l'avez traitée lorsqu'elle était [_charmée_](/gerer-la-sante-du-personnage/#charme).
+
+
 ---
 title: "Expiation du juste"
 description: "La cible de la prochaine attaque du PJ subit 4d6 dégâts et est <em>étourdie</em>."
@@ -9996,6 +10412,8 @@ classes:
 ---
 **Coût** : 8 points de Foi  
 La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la durée du sort, vous lancez un ordre de repentir sur la créature que vous frappez. Sur cette attaque, elle subit 4d6 dégâts psychiques, écrasée par le poids de ses péchés et la culpabilité. En outre, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de son prochain tour et subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses tests de Sagesse pour une minute.
+
+
 ---
 title: "Explosion occulte"
 description: "Éclair d'énergie qui inflige 2d6 dégâts de force."
@@ -10018,6 +10436,8 @@ classes:
 La manipulation de l'énergie occulte crée un projectile invisible semblable à une bourrasque que vous envoyez vers une créature à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre la cible. Si vous réussissez, elle subit 2d6 dégâts de force.
 
 Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux : deux rayons au niveau 5, trois au niveau 11 et quatre au niveau 17. Vous pouvez diriger tous les rayons sur une même cible ou les répartir entre plusieurs. Faites un [jet d'attaque](/combattre/#jets-d-attaque) distinct pour chacun.
+
+
 ---
 title: "Façonnage de l’eau"
 description: "Contrôle l'eau pour obtenir divers effets mineurs"
@@ -10045,6 +10465,8 @@ Avec ce rituel, le mage peut enchanter une pierre particulière. Lorsqu’il la 
 • Vous modifiez la couleur ou l'opacité de l'eau. L'eau doit être transformée de façon homogène. Ce changement dure 1 heure.	 
 • Vous gelez l'eau, à condition qu'elle ne contienne aucune créature. L'eau dégèle au bout de 1 heure.	 
 Si vous lancez ce sort plusieurs fois, vous ne pouvez avoir que deux de ces effets non-instantanés actifs à la fois, et vous pouvez en dissiper un en une action.  
+
+
 ---
 title: "Fatigue"
 description: "a pour effet de fatiguer la cible"
@@ -10067,6 +10489,8 @@ classes:
 
 Le contact du mage est chargé d’énergie négative, ce qui a pour effet de fatiguer la cible. Pour toucher celle-ci, il doit effectuer une attaque de contact. Ensuite, le sujet reste fatigué pour toute la durée du sort.
 Ce sort n’a aucun effet sur une créature déjà fatiguée. Contrairement à la fatigue normale, l’effet prend fin avec le sort. L'effet de la fatigue correspond au premier niveau d'épuisement.  
+
+
 ---
 title: "Faveur divine"
 description: "Les attaques du PJ infligent 1d6 dégâts radiants supplémentaires."
@@ -10087,6 +10511,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 Vos prières vous imprègnent d'une aura radieuse. Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d6 dégâts radiants supplémentaires en cas de coup au but.
+
+
 ---
 title: "fertilité"
 description: "Permet de redonner la fertilité à une personne en âge de procréer."
@@ -10107,6 +10533,8 @@ classes:
 ---
 **Coût** : 12 points de Foi  
 Ce sort permet à un guérisseur de redonner la fertilité à une femme ou un homme qui est encore en âge de procréer, à la condition que la cible du sort ait encore ses organes de reproduction utilisables. Une personne castrée ou ayant subi une opération chirurgicale d'ablation ne pourra pas retrouver sa fertilité.  
+
+
 ---
 title: "Festin des héros"
 description: "Ceux qui mangent le festin en retirent plusieurs bénéfices."
@@ -10131,6 +10559,8 @@ classes:
 Vous cuisinez un grand festin, comprenant des boissons et des mets de grande qualité. Il faut 3 heures pour préparer le festin et y appliquer les bénédictions. Il faut avoir les ingrédients pour une valeur de 120po. Ses effets bénéfiques se manifestent uniquement une fois le repas terminé. Douze personnes au maximum peuvent se joindre à vous lors de ce repas.
 
 Une créature qui participe au festin en retire plusieurs bénéfices. Elle est guérie de toutes les maladies et de tous les poisons qui l'affectaient, elle est immunisée contre le poison et l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), et elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de tous ses jets de sauvegarde de Sagesse. Son maximum de points de d'action augmente de 3d6 et elle gagne le même nombre de points d'action. Ces bénéfices persistent pendant 24 heures.
+
+
 ---
 title: Feu véridique
 description: "force une personne d’alignement chaotique ou mauvais à dire la vérité"
@@ -10154,6 +10584,8 @@ source: "Elric"
 **Enchantement** Le lanceur de sort enchante une Torche et du souffre. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 Ce sort permet de forcer une personne d’alignement chaotique ou mauvais à dire la vérité. Le sorcier interroge la cible avec la torche en face de lui. Chaque minute, le sorcier peut poser une question en même temps de jeter une pincée de souffre sur la torche. La cible devra faire un jet de sauvegarde DD 16 de sagesse à chaque minute, ou répondre à la question en toute vérité. La cible à la place de mentir peut rester assez vague dans ses propos. Aucun joueur n’est capable de savoir s’il a réussi ou non le jet de sauvegarde.
 **À plus haut niveau.** Le cran de difficulté du test augmente d’un niveau de difficulté, et le sorcier doit utiliser un brasier à la place de la torche.  
+
+
 ---
 title: Fil de vie
 description: "rendre visible les maux d’une personne"
@@ -10176,6 +10608,8 @@ source: "Elric"
 **Coût** : 6 points de Magie  
 **Enchantement** Le lanceur de sort enchante de la poussière d’agate. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 Ce sort permet de rendre visible les maux d’une personne. Le lanceur de sort doit saupoudrer le corps d’une personne avec de la poussière d’agate, et comprendra ce qui afflige la cible, que ce soit une maladie ou une blessure.  
+
+
 ---
 title: "Fissure superieure"
 description: "Le sortilège permet d'étendre une fissure dans une surface rocheuse."
@@ -10197,6 +10631,8 @@ classes:
 **Coût** : 14 points de Magie  
 
 ce sort permet d'étendre une fissure naturelle ou accidentelle dans la roche ou dans un mur. Ce sortilège affecte la pierre. Une fois lancé, il permet d'étendre une fissure à une taille de 30 m de long sur 1 m de large. La fissure met 1D6 heures à se créer. Cela se passe lentement dans des craquements et des fracassements de roches.Le sorcier perd 1 niveaux de fatigue en lançant ce sort.  
+
+
 ---
 title: "Fissure majeure"
 description: "Le sortilège permet d'étendre une fissure dans une surface rocheuse."
@@ -10219,6 +10655,8 @@ classes:
 
 Ce puissant sortilège est capable de créer une profonde fissure dans les roches, le sol ou les montagnes. Il permet de créer une fissure pouvant aller de 300 m de long sur 10 m de large. La fissure se crée en 1D6 jours. Le sorcier perd 3 niveaux de fatigue en lançant ce sort.
 Cela se passe lentement dans des craquements et des fracassements de roches. Le sorcier perd 3 niveaux de fatigue en lançant ce sort.
+
+
 ---
 title: "Flamboiement funeste"
 description: "Les cibles proches du PJ subissent 2d6 dégâts et sont <em>aveuglées</em>."
@@ -10242,6 +10680,8 @@ classes:
 Une explosion d'énergie noires que seul vous voyez jaillit de votre corps et blesse les créatures située à moins de 1,50 mètre de vous. Chaque créature dans la zone doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, ou subir 2d6 dégâts nécrotiques et être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à votre prochain tour. En cas de réussite, elle ne subit que la moitié des dégâts et n'est pas [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau Disciple, les dégâts augmentent de 1d6 pour chaque emplacement au-delà du niveau de Novice.
+
+
 ---
 title: "Flamme éternelle"
 description: "Crée de manière permanente une flamme similaire à celle d'une torche."
@@ -10263,6 +10703,8 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi
 Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.  
+
+
 ---
 title: "Flamme sacrée"
 description: "La foi s'abat sur la cible et lui inflige 1d6 dégâts radiants."
@@ -10285,6 +10727,8 @@ classes:
 La foi du lanceur de sort s'abat sur une créature située à portée et dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou subir 1d6 dégâts radiants. La cible ne gagne aucun bénéfice d'abri pour ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
+
+
 ---
 title: "Fléau"
 description: "Jusqu'à trois cibles doivent retrancher 1d6 à leurs jets d'attaque et de sauvegarde."
@@ -10308,6 +10752,8 @@ classes:
 Trois créatures de votre choix au maximum, toutes situées à portée et dans votre champ de vision, sont contraintes d'effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Dès qu'une cible qui a raté ce jet effectue un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) alors que le sort n'est pas terminé, elle doit lancer 1d6 et soustraire le résultat obtenu de son [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau Novice.
+
+
 ---
 title: "Fléau d'insectes"
 description: "Invoque des insectes qui attaquent et infligent 7d6 dégâts perforants."
@@ -10334,6 +10780,8 @@ Un essaim d'insecte carnivores forme une sphère de 6 mètres de rayon centrée 
 Quand la sphère d'insectes apparaît, chaque créature prise à l'intérieur doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Une créature subit 7d6 dégâts perforants si elle rate son jet, la moitié seulement si elle le réussit. Une créature doit effectuer le même jet quand elle entre dans la sphère pour la première fois de son tour ou quand elle y termine son tour.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent de 2d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Flèche acide"
 description: "Crée une flèche qui inflige 4d6 dégâts d'acide, puis 2d6 au round suivant."
@@ -10358,6 +10806,8 @@ classes:
 Une flèche d'un vert chatoyant file vers une cible située à portée et explose en une gerbe d'acide. Faites une attaque de sort à distance contre la cible. Si vous touchez, la cible reçoit 4d6 dégâts d'acide immédiatement et 2d6 dégâts d'acide à la fin de son prochain tour. Si vous ne touchez pas, l'acide éclabousse la cible et lui inflige la moitié des dégâts initiaux, mais aucun à la fin de son prochain tour.
 
 **À plus haut niveau**. Quand vous utilisez ce sort via un emplacement de niveau Disciple ou supérieur, les dégâts initiaux et secondaires augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Flèches naturelles"
 description: "Transforme des branches en flèches"
@@ -10382,6 +10832,8 @@ classes:
 
 Ce sort permet de transformer de manière permanente une plante ou une branche d'arbre en une flèche.  
 Cette flèche inflige seulement 3 points de dégâts car la pointe n'est pas métallique. En lançant ce sort, l'enchanteur peut transformer 1d6+ bonus d'Intelligence ou de Sagesse de flèches.
+
+
 ---
 title: "Flétrissement"
 description: "Inflige 11d6 dégâts, le maximum aux créatures végétales."
@@ -10408,6 +10860,8 @@ L'énergie nécromantique inonde une créature de votre choix située à portée
 Si vous visez une créature végétale ou une plante magique, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et le sort lui inflige le maximum de dégâts possible. Si vous visez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle n'a pas droit au moindre jet de sauvegarde, mais se flétrit et meurt.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Floraison"
 description: "Redonne vigueur aux plantes"
@@ -10429,6 +10883,8 @@ classes:
 ---
 **Coût** : 6 points de Magie ou de Foi  
 Ce sort redonne leur vigueur aux plantes présentes dans un rayon de 1 mètre par niveau du lanceur de sort. Ainsi les fleurs fanées ou desséchées se redressent et reprennent leur couleur en quelques minutes. Le lanceur de sort peut sélectionner les plantes qui bénéficient de cet effet mais pour cela il doit se concentrer. L’effet est centré sur le mage et est permanent. Le lanceur de sort ne peut pas se déplacer plus vite que la vitesse de la marche. Grâce à ce sort, certains mages ont la réputation de porter bonheur.
+
+
 ---
 title: "Flou"
 description: "Les créatures ont un <em>désavantage</em> pour attaquer le PJ."
@@ -10452,6 +10908,8 @@ classes:
 **Coût** : 4 points de Magie  
 
 Votre corps semble devenir flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un _désavantage_ lorsqu'elles font un [jet d'attaque](/combattre/#jets-d-attaque) contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
+
+
 ---
 title: "Force des noyés"
 description: "Le mage crée une embarcation guidée par les morts."
@@ -10477,6 +10935,8 @@ Source: "Eric"
 
 Le sorcier doit tracer un cercle avec des flèches symbolisant les différents points cardinaux, puis poser les bras de noyés autour, droits, pointant l’extérieur du cercle.   
 Le nécromancien doit se mettre au milieu de ce cercle et incanter. Il doit retirer les ongles des morts, les mettre dans une lanterne et fixer les bras sur les côtés du bateau immergé dans l’eau. Tant que la lanterne contient les ongles et qu’elle se trouve sur le bateau alors l’embarcation se déplace toute seule sous les ordres du sorcier. Si jamais la lanterne se brise par malchance au milieu de la mer alors les bras détruisent l’embarcation pour se venger de leur asservissement, si elle se brise hors de l’eau alors les bras disparaissent tout simplement dans l’eau. Une petite embarcation nécessite 2 bras, une embarcation moyenne en nécessite 4, une grande embarcation en nécessite 8 et enfin une embarcation gigantesque en nécessite 15.
+
+
 ---
 title: "Forme éthérée"
 description: "Le PJ entre sur le plan éthéré et peut s'y déplacer."
@@ -10509,6 +10969,8 @@ Quand le sort se termine, vous retournez immédiatement sur le plan d'où vous v
 Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le plan éthéré ou sur un plan non limitrophe, comme les plans extérieurs.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Expert ou supérieur, vous pouvez affecter jusqu'à trois créatures consentantes (vous y compris) par niveau au-delà du niveau d'Adepte. Toutes ces créatures doivent se trouver dans un rayon de 3 mètres autour de vous quand vous lancez le sort.
+
+
 ---
 title: "Fou rire"
 description: "La cible est <em>à terre</em> et <em>neutralisée</em>."
@@ -10532,6 +10994,8 @@ classes:
 Une créature de votre choix située à portée et dans votre champ de vision trouve soudain tout ce qui l'entoure d'une drôlerie hilarante et succombe à un fou rire irrépressible dès que ce sort l'affecte. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre), [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) et incapable de se relever pendant toute la durée du sort. Ce sort n'affecte pas les créatures dotées d'une Intelligence de 4 ou moins.
 
 À la fin de chacun de ses tours et à chaque fois qu'elle subit des dégâts, la cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Elle bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce jet si ce sont des dégâts qui l'ont provoqué. Si le jet est réussi, le sort se termine.
+
+
 ---
 title: "Fracassement"
 description: "Brise les objets alentours en morceaux"
@@ -10553,6 +11017,8 @@ classes:
 **Enchantement** Le sorcier enchante un petit bracelet de cuivre. Il a pour cela besoin d'un bracelet de cuivre, de 5 po de matériel (encens, bougies...) et d'une journée ensoleillée.
 
 Le sorcier est capable de fracasser de petits objets comme des verres, des poteries mais aussi de petites statues ou des pieds de table ou de chaise. Une personne placée juste à côté de l'objet (dans un rayon de 1 m) peut être blessée par les éclats pour 1d6 de dégâts et réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) pendant le round suivant.    
+
+
 ---
 title: "Frappe du juste"
 description: "La prochaine attaque du PJ inflige 2d6 dégâts et un effet secondaire."
@@ -10579,6 +11045,8 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 * **Tranchant** : dégâts radiants et [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) pendant 1 round.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous infligez 1d6 points de dégât par niveau d'emplacement de sort au-dessus du niveau de Novice.
+
+
 ---
 title: "Frappe lumineuse"
 description: "La prochaine attaque du PJ inflige 2d6  dégâts et annule l'<em>invisibilité</em>."
@@ -10601,6 +11069,8 @@ classes:
 La prochaine attaque avec une arme de corps-à-corps ou à distance qui vous permet de toucher une créature avant la fin de ce sort voit votre arme briller soudain d'une lumière astrale et infliger 2d6 dégâts radiants additionnels à votre cible, qui devient visible si elle était invisible et se met à émettre une faible lumière dans un rayon de 1,50 mètre jusqu'à la fin du sort. Elle ne peut plus devenir invisible pendant toute cette durée.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus du niveau de Novice.  
+
+
 ---
 title: "Frigidité"
 description: "Rend la cible frigide."
@@ -10621,6 +11091,8 @@ classes:
 ---
 **Coût** : 6 points de Foi    
 Ce sort annihile toute possibilité d'avoir des plaisirs sexuels. Elle peut même déclencher chez la cible un rejet et un dégoût de tout rapport sexuel.   
+
+
 ---
 title: "Fusion dans la pierre"
 description: "Le PJ peut se fondre dans la pierre."
@@ -10647,6 +11119,8 @@ Vous entrez dans un objet ou une surface de pierre assez grande pour contenir en
 Tant que vous êtes fusionné avec la pierre, vous ne voyez pas ce qui se passe à l'extérieur et vous êtes affecté par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) destinés à entendre les sons qui retentissent à l'extérieur de la pierre. Vous restez conscient du temps qui passe et vous pouvez lancer des sorts à portée personnelle. Vous pouvez utiliser votre déplacement pour quitter la pierre par l'endroit par où vous y êtes entré, ce qui met fin au sort. En dehors de cela, vous êtes dans l'incapacité de vous déplacer.
 
 Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle est partiellement détruite ou change de forme (au point que vous ne tenez plus entièrement à l'intérieur), elle vous expulse et vous subissez 6d6 dégâts contondants. Si la pierre est complètement détruite (ou transmutée en une substance différente), elle vous expulse et vous subissez 50 dégâts contondants. Si vous vous faites expulser de la pierre, vous vous retrouvez [_à terre_](/gerer-la-sante-du-personnage/#a-terre) dans l'emplacement inoccupé le plus proche de celui par lequel vous êtes entré dans la roche.
+
+
 ---
 title: "Gardien de la foi"
 description: "Crée un gardien spectral qui attaque quiconque passe à proximité."
@@ -10669,6 +11143,8 @@ classes:
 Un gardien spectral de taille G apparaît et flotte dans un emplacement inoccupé de votre choix situé dans votre champ de vision et à portée. Il occupe alors cet emplacement, mais sa silhouette reste invisible.
 
 Toute créature hostile envers vous qui entre dans un emplacement situé dans un rayon de 3 mètres autour du gardien pour la première fois de son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 20 dégâts radiant, la moitié seulement si elle réussit. Le gardien disparaît dès qu'il a infligé un total de 60 dégâts.
+
+
 ---
 title: "Geyser d'énergie"
 description: "De l'énergie jaillit du sol et inflige 4d6 dégâts du type d'énergie choisi."
@@ -10691,6 +11167,8 @@ classes:
 Un geyser d'énergie invisible que seul un adepte de la magie peut distinguer, jaillit du sol d'un endroit que vous spécifiez dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'énergie pour le geyser. Chaque créature située dans le cylindre de 1,50 mètre de diamètre et de 6 mètres de haut doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sans quoi elle subit 4d6 dégâts du type préalablement déterminé. Si le jet est réussi, les dégâts sont réduits de moitié.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau de Disciple ou supérieur, les dégâts sont augmentés de 1d6 par niveau au-delà du niveau de Novice.  
+
+
 ---
 title: "Glas funèbre"
 description: "Sonner le glas"
@@ -10714,6 +11192,8 @@ classes:
 
 Le lanceur de sort peut désigner une cible qui se trouve à 18 mètres. Il doit pouvoir voir sa cible. Il agite sa cloche(tte) et le son de la cloche(tte) devient douloureux pour elle pendant un moment. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de sagesse(SAG) ou subir 1d6 dégâts nécrotiques. Si la cible ne possède pas ses points d’action maximums, elle subit 2d6 de dégâts nécrotiques.	 
 Les dégâts du sort augmentent de un dé lorsque vous atteignez le niveau 5 (2d6 ou 4d6), le niveau 11 (3d6 ou 6d6) et le niveau 17 (4d6 ou 8d6).
+
+
 ---
 title: "Globe d'invulnérabilité"
 description: "Barrière qui empêche les sorts de niveau Apprenti ou moins de la traverser."
@@ -10738,6 +11218,8 @@ Une barrière immobile scintille légèrement dans un rayon de 3 mètres autour 
 Tout sort de niveau Disciple ou inférieur lancé depuis l'extérieur de la barrière se trouve dans l'incapacité d'affecter les créatures et les objets se trouvant à l'intérieur, même si le lanceur de sort utilise un emplacement de niveau supérieur. Le sort peut très bien viser les créatures et les objets situés au sein de la barrière, mais il n'a aucun effet sur eux. De même, la zone protégée par la barrière est exclue de la zone affectée par les sorts de ces niveaux.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, la barrière bloque les sorts d'un niveau de plus par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Glyphe de protection"
 description: "Piège magique déclenchant un sort ou une explosion."
@@ -10774,6 +11256,8 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 **Runes explosives**. Quand le glyphe se déclenche, il explose dans une sphère de 6 mètres de rayon centrée sur lui. La sphère s'étend en contournant les angles si besoin. Chaque créature de la zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Une créature reçoit 7d6 dégâts d'acide, de froid, de feu, de foudre ou de tonnerre si elle rate son jet (à vous de choisir le type de dégâts lors de l'incantation), la moitié seulement si elle le réussit.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les dégâts des runes explosives augmentent de 1d6 par niveau au-delà du niveau de Disciple. Si vous créez un glyphe à sort, vous pouvez stocker un sort d'un niveau égal ou inférieur à celui employé pour lancer le glyphe.
+
+
 ---
 title: "Gourdin magique"
 description: "Transforme un bâton en arme magique."
@@ -10794,6 +11278,8 @@ classes:
 ---
 **Coût** : 1 point de Foi  
 La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous tenez. Pendant toute la durée du sort, vous pouvez utiliser votre caractéristique d'incantation au lieu de votre Force pour effectuer les jets d'attaque et de dégâts au corps-à-corps avec cette arme. Les dégâts de l'arme devient 8. L'arme devient magique si elle ne l'était pas déjà. Le sort se termine si vous le lancez de nouveau ou si vous lâchez votre arme.  
+
+
 ---
 title: "Graisse"
 description: "Une zone de 3 mètres de côté devient extrêmement glissante."
@@ -10816,6 +11302,8 @@ classes:
 Une couche de graisse particulièrement glissante recouvre le sol dans une zone de 3 mètres de côté centrée sur un point situé à portée et le change en terrain difficile pour toute la durée du sort.
 
 Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affectée doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Une créature qui entre dans la zone ou y termine son tour doit aussi réussir ce jet sous peine de se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+
+
 ---
 title: "Grande foulée"
 description: "+3 mètres à la vitesse de la cible."
@@ -10841,6 +11329,8 @@ classes:
 Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin du sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau Novice.
+
+
 ---
 title: "Guérison"
 description: "Soigne 70  PA, annule les états <em>aveuglé</em> et <em>assourdi</em> et guérit les maladies."
@@ -10863,6 +11353,8 @@ classes:
 Choisissez une créature située à portée et dans votre champ de vision. Une bouffée d'énergie positive la traverse et lui rend 70 points d'Action. Ce sort annule aussi les états [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), ainsi que toutes les maladies qui l'affectent. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, la quantité de soins prodigués augmente de 10 points par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Guérison de groupe"
 description: "Rend jusqu'à 700 PA et guérit les maladies."
@@ -10883,6 +11375,8 @@ classes:
 ---
 **Coût** : 18 points de Foi  
 Un flot d'énergie curative émane de vous et enveloppe les créatures blessées qui vous entourent. Vous rendez jusqu'à 700 points d'Action, divisés comme bon vous semble entre autant de créatures situées à portée et dans votre champ de vision que vous le souhaitez. Le sort débarrasse aussi les créatures qu'il guérit de leurs maladies et des états [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ou [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle). Ce sort n'a aucun effet sur les morts-vivants et sur les créatures artificielles.
+
+
 ---
 title: Haine
 description: "Déclenche la haine contre quelqu’un ou quelque chose"
@@ -10903,6 +11397,8 @@ classes:
 **Coût** : 6 points de Magie  
 
 Le sorcier peut choisir de déclencher sur sa cible la haine pour une chose, une personne ou un groupe de personnes. La victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou haïr la cible du sorcier. Elle ne se rend alors pas compte qu'elle est affectée par le sort, à moins de faire une réussire un [test de Perspicacité](/utiliser-les-caracteristique/#perspicacite) avec un DD 22. Ce sort peut déclencher des situations socialement inconfortables et quelquefois dangereuses.  
+
+
 ---
 title: "Harmonique miraculeuse"
 description: "Rend 10  PA par tour aux cibles et annule des effets néfastes."
@@ -10925,6 +11421,8 @@ classes:
 **Enchantement** : Le mage doit enchanter n verre en cristal d'une valeur de 500 po et dépenser 90 po de matériel de rituel (encens & bougies).  
 
 Vous effleurez le bord d'un verre, et le corps de vos alliés à portée et capables entendre le son produit se met à résonner avec l'énergie positive. Vous-même et chaque créature affectée récupérez 10 points d'Action et annulez un niveau d'épuisement au début de chacun de vos tours. Enfin, le sort met un terme aux effets de réduction des points d'Action maximum provoqué par certaines créatures (momie, spectre, vampire, etc.) ainsi qu'aux états [_charmé_](/gerer-la-sante-du-personnage/#charme) et [_pétrifié_](/gerer-la-sante-du-personnage/#petrifie).
+
+
 ---
 title: "Hâte"
 description: "La cible double sa vitesse, a +2 à la VD, une action de plus par tour et d'autres bonus."
@@ -10947,6 +11445,8 @@ classes:
 Choisissez une créature consentante située à portée et dans votre champ de vision. Jusqu'à la fin du sort, la cible voit sa vitesse doubler, bénéficie d'un bonus de +2 à la VD, a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Dextérité et dispose d'une action de plus par tour. Cette action est uniquement réservée aux actions suivantes : [_attaquer_](/combattre/#attaquer) (permet seulement une unique attaque), [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager), [_se cacher_](/combattre/#se-cacher) ou _utiliser un objet_.
 
 Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une action avant que son prochain tour ne se soit écoulé, car une vague de léthargie déferle sur elle.  
+
+
 ---
 title: "Hébétement"
 description: "brouille les idées d’une personne"
@@ -10968,6 +11468,8 @@ classes:
 **Coût** : 1 point de Magie  
 
 Le mage par un mot de pouvoir susurré et un geste hypnotique brouille les idées d’une personne, ce qui l’empêche d’entreprendre la moindre action. Cet enchantement ne peut pas être utilisé deux fois sur une même personne dans un même temps donné (ex un combat). La cible peut éviter cet effet en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le DD du lanceur de sort.  
+
+
 ---
 title: "Héroïsme"
 description: "La cible est immunisée à l'état <em>terrorisé</em> et gagne des points d'Action temporaires."
@@ -10991,6 +11493,8 @@ classes:
 Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à la fin du sort, elle est immunisée contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) et, au début de chacun de ses tours, elle gagne un nombre de points d'Action temporaires égal à votre modificateur de caractéristique d'incantation. Quand le sort se termine, la cible perd les éventuels points de vie temporaires restants issus de ce sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau de Disciple ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau de Novice.   
+
+
 ---
 title: Hors saison
 description: "permet d'obtenir des récoltes hors saison"
@@ -11019,6 +11523,8 @@ Ce sort possède 4 variantes. Il permet à un organisme comme un arbre ou une fl
 - Pour l’hiver, il suffit de récupérer un crâne humain et un crâne animal puis les exposer au nadir  La préparation peut être conservée jusqu’à ce que le sort soit jeté.  
 
 Pour que le sort opère il suffit de répandre la fumée ou la cendre sur l’organisme à dérégler, ou bien d’enterrer les chrysanthèmes séchés ou les crânes. Le sort ne dure qu’une saison. Un organisme prend 1 mois pour se dérégler et 1 mois pour se régler de nouveau sur un total de 4 mois.
+
+
 ---
 title: Hydromancie
 description: "permet de voir un événement passé d’une personne"
@@ -11042,6 +11548,8 @@ source: "Elric"
 **Enchantement** Le lanceur de sort enchante une bille d’argent. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 Ce sort permet de voir un événement passé d’une personne. Le sorcier doit mettre une bille d’argent dans une flaque d’eau en pensant à une personne qui doit être dans son champs de vision. Des images se formeront à la surface de l’eau durant un demi round avant de disparaître. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 6 l’image possède un lien très mince avec le sujet et est rarement pertinent, entre 7 et 12, le résultat possède un lien concret avec le sujet, entre 13 et 18, le résultat est pertinent, 18 et +, le résultat est révélateur et permet le dénouement de choses importantes.  
 **À plus haut niveau.** Chaque emplacement de surcharge ajoute un bonus de +2 au jet.  
+
+
 ---
 title: Hypersensibilité
 description: "décuple les sentiments et les émotions d’une personne"
@@ -11067,6 +11575,8 @@ source: "Elric"
 Le sorcier doit incanter durant 10 heures sur un objet important aux yeux de la victime puis pour lancer le sort, briser ou fêler cet objet. Le sort peut donc être conservé durant longtemps (jusqu’à ce que cet objet n’ait plus de valeur aux yeux de la cible). Ce sortilège décuple les sentiments et les émotions d’une personne. Chaque sentiment envers une personne ou une situation augmente d’un cran par rapport aux situation normales. Voici l’enchaînement des sentiments :
 - Indifférence → amitiés/respect → amour/peur → terreur/adoration → folie → meurtre passionnel/suicide → dépression.
 - Indifférence → jalousie ou colère/tristesse → haine/tristesse → folie meurtrière/dépression.
+
+
 ---
 title: "Identification"
 description: "Permet d'identifier les propriétés et l'usage d'un objet magique."
@@ -11090,6 +11600,8 @@ classes:
 Vous choisissez un objet avec lequel vous devez rester en contact pendant toute l'incantation du sort. Si c'est un objet magique ou un objet imprégné de magie, vous apprenez immédiatement quelles sont ses propriétés et comment vous en servir. Vous savez aussi s'il faut s'harmoniser avec lui pour l'utiliser et combien de charges il possède, le cas échéant. Vous savez si des sorts affectent l'objet et quel est leur nom. Si l'objet a été créé grâce à un sort, vous apprenez quel sort lui a donné naissance.
 
 Si, à la place, vous touchez une créature pendant toute l'incantation, vous découvrez quels sorts l'affectent présentement, le cas échéant.
+
+
 ---
 title: "Illumination"
 description: "génère une vive lumière en utilisant la réflexion d’une source de lumière existante"
@@ -11115,6 +11627,8 @@ classes:
 Avec ce rituel, le lanceur de sort enchante une pièce de verre ou de métal poli.  
 
 Ce petit tour de magie génère une vive lumière en utilisant la réflexion d’une source de lumière existante. Pour peu qu’on la fasse apparaître directement devant une créature, celle-ci se retrouve éblouie pendant 1 minute sauf si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Les créatures aveugles, et celles qui sont déjà éblouies, ne sont pas affectées par illumination. L'éblouissement équivaut à l'effet [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle).
+
+
 ---
 title: "Immobiliser un humanoïde"
 description: "La cible est <em>paralysée</em>."
@@ -11140,6 +11654,8 @@ classes:
 Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi il est [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) pour toute la durée du sort. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau de Novice. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.
+
+
 ---
 title: "Immobiliser un monstre"
 description: "La cible est <em>paralysée</em>."
@@ -11165,6 +11681,8 @@ classes:
 Choisissez une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pour toute la durée du sort. Ce sort est sans effet sur les morts-vivants. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau d'Apprenti. Les créatures visées doivent se trouver à 9 mètres ou moins les unes des autres au moment où vous lancez le sort.
+
+
 ---
 title: "Infestation"
 description: "Rend magnétique une pièce de métal"
@@ -11191,6 +11709,8 @@ Avec ce rituel, le lanceur de sort enchante un parasite pris dans de la résine.
 
 Il fait apparaître momentanément sur la cible qui doit être visible et à portée un nuage parasites. La cible doit réussir un jet de sauvegarde de Constitution ou bien prendre 1d6 dégâts de poison et se déplacer de 1,50 mètre dans une direction aléatoire si elle peut se déplacer et que sa vitesse est d'au moins 1,50 mètre. Ce mouvement ne provoque pas d'attaques d'opportunité, et si la direction indiquée est bloquée la cible ne bouge pas.	 
 Les dégâts du sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).  
+
+
 ---
 title: "Injonction"
 description: "La cible doit obéir à un ordre d'un seul mot."
@@ -11227,6 +11747,8 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 **Rampe**. La cible se laisse tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et termine son tour.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau de Novice. Ces créatures doivent toutes se trouver à 9 mètres ou moins les unes des autres lorsque vous lancez le sort.
+
+
 ---
 title: "Insomnie"
 description: "La cible n'arrive plus à dormir et à du mal à récupérer."
@@ -11249,6 +11771,8 @@ classes:
 **Coût** : 8 points de Foi ou de Magie  
 Ce sort est un peu différent de cauchemars. La victime de ce sort a beaucoup de mal à récupérer de ses nuits de sommeil. Elle ne récupère que la moitié de ses [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Le sorcier doit connaître sa cible ou posséder un de ses objets, la distance n'entre pas en ligne de compte pour ce type de sortilège.  
 Il n'est pas possible de résister à ce sortilège, à moins d'aller en tuer la source ou que le sorcier arrête de lancer son sort.   
+
+
 ---
 title: Instinct primal
 description: "permet de réveiller l’esprit animal en une cible"
@@ -11272,6 +11796,8 @@ source: "Elric"
 **Coût** : 6 points de Magie ou de Foi  
 
 Ce sort permet de réveiller l’esprit animal en une cible, ce qui lui confère un avantage à tout les jets de sauvegarde de DEX, CON et FOR et dans les attaques, mais un désavantage à tout les jets de sauvegarde de SAG et INT et dans toutes les caractéristique qui sont basées sur l’INT et la SAG.   
+
+
 ---
 title: "Invisibilité"
 description: "La cible est <em>invisible</em>. Le sort prend fin si la cible attaque ou lance un sort."
@@ -11295,6 +11821,8 @@ classes:
 La créature que vous touchez devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) jusqu'à la fin du sort. Tout ce qu'elle porte et transporte reste [_invisible_](/gerer-la-sante-du-personnage/#invisible) tant qu'elle le garde sur elle. Le sort se termine si la cible attaque ou lance un sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau de Disciple ou supérieur, vous pouvez viser une créature de plus par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Invisibilité supérieure"
 description: "La cible est <em>invisible</em> pendant toute la durée du sort."
@@ -11316,6 +11844,8 @@ classes:
 ---
 **Coût** : 8 points de Magie    
 Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) tant que les objets restent sur sa personne.
+
+
 ---
 title: "Invoquer des élémentaires mineurs"
 description: "Invoque des élémentaires qui obéissent au PJ."
@@ -11351,6 +11881,8 @@ Les créatures invoquées se montrent amicales envers vous et vos compagnons. D�
 C'est le MJ qui dispose du profil technique des créatures.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau d'Apprenti et trois fois plus pour un emplacement de niveau d'Expert.
+
+
 ---
 title: "Invoquer des êtres des bois"
 description: "Invoque des fées qui obéissent au PJ."
@@ -11384,6 +11916,8 @@ Les créatures invoquées se montrent amicales envers vous et vos compagnons. D�
 C'est le MJ qui dispose du profil technique des créatures.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant certains emplacements de niveau supérieur, vous choisissez l'une des options d'invocation décrites précédemment et faites apparaître plus de créatures : deux fois plus pour un emplacement de niveau d'Apprenti, et trois fois plus pour un emplacement de niveau d'Expert.
+
+
 ---
 title: "Invoquer les fantômes"
 description: "Invoque un élémentaire puissant qui obéit au PJ."
@@ -11420,6 +11954,8 @@ Les [spectres](/bestiaire/spectre) apparaissent à la demande du lanceur de sort
 Le lien avec le sorcier est permanent jusqu'à sa mort. L'alignement du sorcier bascule progressivement vers le chaotique mauvais.   
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Expert ou supérieur, l'indice de dangerosité du [spectre](/bestiaire/spectre) augmente de 1 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Invoquer un céleste"
 description: "Invoque un céleste qui obéit aux ordres du PJ."
@@ -11447,6 +11983,8 @@ Le céleste se montre amical envers vous et vos compagnons. Déterminez son init
 C'est le MJ qui dispose du profil technique du céleste.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau de Maître, vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 5.
+
+
 ---
 title: "Invoquer une fée"
 description: "Invoque une fée puissante qui obéit au PJ."
@@ -11477,6 +12015,8 @@ Si votre concentration se brise, la créature féerique ne disparaît pas, mais 
 C'est le MJ qui dispose du profil technique de la créature féerique.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Invoquer un élémentaire"
 description: "Invoque un élémentaire puissant qui obéit au PJ."
@@ -11506,6 +12046,8 @@ Si votre concentration se brise, l'élémentaire ne disparaît pas, mais il éch
 C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: Jalousie
 description: "Déclenche la jalousie chez quelqu’un"
@@ -11528,6 +12070,8 @@ classes:
 Le sorcier peut choisir de déclencher sur sa cible la haine pour une chose, une personne ou un groupe de personnes. La victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou haïr la cible du sorcier. Elle ne se rend alors pas compte qu'elle est affectée par le sort, à moins de faire une réussire un [test de Perspicacité](/utiliser-les-caracteristique/#perspicacite) avec un DD 22. Ce sort peut déclencher des situations socialement inconfortables et quelquefois dangereuses.  
 
  Le sorcier peut choisir de déclencher sur sa cible la jalousie pour une chose, une personne ou une situation. La victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou être jalouse de ce que le sorcier a décidé. Elle ne se rend pas compte qu'elle est la cible du sort, à moins de faire une réussire un [test de Perspicacité](/utiliser-les-caracteristique/#perspicacite) avec un DD 22. . Ce sort peut déclencher des situations socialement inconfortables et quelquefois dangereuses. Ce sort a une plus longue durée que Haine et peut facilement être utilisé pour créer des crimes passionnels.  
+
+
 ---
 title: "Jeter une malédiction"
 description: "La cible subit des <em>désavantages</em>, des dégâts ou perd ses actions."
@@ -11557,6 +12101,8 @@ Vous touchez une créature qui doit réussir un [jet de sauvegarde](/utiliser-le
 Le sort <ST s="lever-une-malediction"/> met un terme à cet effet. Si le MJ est d'accord, vous pouvez choisir un autre effet de malédiction, mais il ne doit pas être plus puissant que ceux proposés ici. C'est au MJ de décider s'il accepte ou non le nouvel effet de malédiction.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, le sort fait effet tant que vous vous concentrez, sans dépasser un maximum de 10 minutes. Si vous utilisez un emplacement de niveau Adepte ou supérieur, la durée est de 8 heures, tandis qu'elle passe à 24 heures si vous utilisez un emplacement de sort de niveau Expert ou plus. Si vous utilisez un emplacement de niveau de Maître, le sort persiste jusqu'à ce qu'il soit dissipé. L'utilisation d'un emplacement de niveau Apprenti ou plus vous dispense de vous concentrer.
+
+
 ---
 title: "Jugement dernier"
 description: "5d6 dégâts radiants dans une sphère de 9 mètres."
@@ -11577,6 +12123,8 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de votre choix à portée. Toute créature située dans la sphère doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou subir 5d6 points de dégâts radiants. Si la créature est une créature céleste, un fiélon ou un mort-vivant les dégâts sont doublées et la créature est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) pour 1 round. En cas de réussite, la cible subit seulement la moitié des dégâts et n'est pas [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
+
+
 ---
 title: "Labyrinthe"
 description: "Bannit une créature dans un demi-plan labyrinthique."
@@ -11601,6 +12149,8 @@ Vous bannissez une créature située à portée et dans votre champ de vision da
 Elle peut utiliser une action pour tenter de s'évader. Pour cela, elle effectue un test d'Intelligence DD 20. Si elle le réussit, elle s'échappe et le sort se termine.
 
 Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitté ou, s'il est occupé, dans l'emplacement libre le plus proche.
+
+
 ---
 title: "Lame de feu"
 description: "Le PJ invoque une lame enflammée qui inflige 3d6 dégâts de feu."
@@ -11627,6 +12177,8 @@ Vous pouvez utiliser votre action pour faire une attaque de sort au corps-à-cor
 La lame enflammée émet une vive lumière dans un rayon de 3 mètres et une faible lumière dans un rayon de 3 mètres de plus.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 tous les niveaux au-delà du niveau Novice.  
+
+
 ---
 title: "Lame urticante"
 description: "Rend une arme particulèrement douloureuse"
@@ -11653,6 +12205,8 @@ Avec ce rituel, le lanceur de sort doit enchanter un purin d’ortie qui a macé
 
 Lorsque vous effectuez une attaque au corps à corps avec une arme contre un adversaire avec l'arme enchantée. Si l'attaque touche, la cible subit les effets normaux de cette attaque, plus des dégâts supplémentaires du purin enchanté.	 
 Les dégâts sont de chaleur pour un montant d'1d6 et augmentent lorsque vous atteignez des niveaux supérieurs. Au niveau 5, l'attaque de corps à corps inflige 2d6 de dégâts de feu supplémentaires puis 3d6 au niveau 11 et 4d6 au niveau 17.  
+
+
 ---
 title: "Lance du juste"
 description: "Une lance qui inflige 4d6 dégâts radiants et <em>aveugle</em> la cible."
@@ -11673,6 +12227,8 @@ classes:
 ---
 **Coût** : 6 points de Foi  
 Vous concentrez l'énergie dans votre lance. Vous devez réussir une _attaque au corps-à-corps_ pour frapper la cible. La lance de lumière inflige 4d6 dégâts radiants. De plus, la créature touchée se retrouve [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle). Elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à chacun de ses tours suivants jusqu'à réussite pour ne plus être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
+
+
 ---
 title: "Langues"
 description: "La cible comprend et peut parler toutes les langues."
@@ -11695,6 +12251,8 @@ classes:
 ---
 **Coût** : 6 points de Foi ou de Magie  
 Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend. De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit. Le niveaud e compréhension ne peut pas dépasser le niveau 3 de [langues](/langues).
+
+
 ---
 title: "Légende"
 description: "Permet de découvrir des informations secrètes à propos de la cible."
@@ -11718,6 +12276,8 @@ classes:
 Nommez ou décrivez une personne, un lieu ou un objet. Le sort porte à votre connaissance un bref résumé des connaissances essentielles se rapportant à la chose nommée. Ces connaissances peuvent se présenter sous la forme d'histoires actuelles, de contes oubliés ou même d'un savoir secret qui n'a jamais été révélé. Si la chose que vous nommez n'est pas digne de figurer dans une légende, vous n'obtenez aucune information. Plus vous possédez d'informations sur cette chose, plus celles que vous recevez via le sort sont précises et détaillées.
 
 Les informations obtenues sont exactes, mais susceptibles de se présenter dans un langage figuré. Par exemple, si vous avez une mystérieuse hache en main, le sort peut vous donner les renseignements suivants : « _Malheur au malfaisant qui pose la main sur cette hache, car même son manche peut entailler la main des mécréants. Seul un véritable enfant de la pierre, un être qui aime Gorom et en est aimé en retour, pourra éveiller la véritable puissance de cette hache, à condition de prononcer le mot sacré Rudnogg._ »
+
+
 ---
 title: "Léger comme une plume"
 description: "Ralentit la chute de 5 cibles."
@@ -11738,6 +12298,8 @@ classes:
 ---
 **Coût** : 2 points de Magie  
 Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute reste normale mais la hauteur est ignorée jusqu'à 18 mètres.
+
+
 ---
 title: "Lenteur"
 description: "Les cibles voient leur vitesse, leur VD et leur nombre d'actions diminués."
@@ -11765,6 +12327,8 @@ Une cible affectée voit sa vitesse réduite de moitié. De plus, elle subit un 
 Si la créature affectée tente de lancer un sort doté d'un temps d'incantation de 1 action, lancez 3d6. Sur un résultat de 12 ou plus, le sort agit seulement au prochain tour de la créature, qui doit utiliser son action de ce tour pour terminer l'incantation. Si elle en est incapable, le sort n'a aucun effet.
 
 Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. Si elle le réussit, le sort se termine pour elle.
+
+
 ---
 title: "Lever une malédiction"
 description: "Annule toutes les malédictions qui affectent la cible."
@@ -11786,6 +12350,8 @@ classes:
 ---
 **Coût** : 6 points de Magie ou de Foi   
 À votre contact, toutes les malédictions qui affectent une créature ou un objet disparaissent. Si l'objet est un objet magique maudit, la malédiction persiste, mais le sort rompt l'harmonisation entre l'objet et son détenteur, ce qui permet à ce dernier de l'ôter ou de s'en débarrasser.
+
+
 ---
 title: "Liberté de mouvement"
 description: "Impossible de ralentir, de <em>paralyser</em> ou d'<em>entraver</em> la cible."
@@ -11809,6 +12375,8 @@ classes:
 Vous touchez une créature consentante. Pendant toute la durée du sort, ses déplacements ne sont pas affectés par un terrain difficile, tandis que les sorts et autres effets magiques ne peuvent ni réduire sa vitesse, ni provoquer l'état [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) ou [_entravé_](/gerer-la-sante-du-personnage/#entrave).
 
 La cible peut également dépenser 1,50 mètre de déplacement pour échapper automatiquement à des liens non magiques, comme des menottes ou la prise d'une créature qui l'empoigne. Enfin, sous l'eau, elle ne subit pas de malus aux déplacements ni aux attaques.
+
+
 ---
 title: "Lien de protection"
 description: "+1 à la VD et résistance pour la cible. Le PJ subit les mêmes dégâts."
@@ -11832,6 +12400,8 @@ classes:
 Ce sort protège une créature consentante et crée un lien mystique entre vous et votre cible jusqu'à la fin du sort. Tant que la cible se trouve dans un rayon de 18 mètres autour de vous, elle bénéficie d'un bonus de +1 à la VD et aux jets de sauvegarde et devient résistante à tous les types de dégâts. En revanche, à chaque fois qu'elle subit des dégâts, vous subissez exactement les mêmes.
 
 Le sort se termine si vous tombez à 0 point d'Action ou si votre cible et vous êtes séparés de plus 18 mètres. Il se termine aussi si vous le lancez de nouveau le sort. Vous pouvez également révoquer le sort par une action.
+
+
 ---
 title: "Lien télépathique"
 description: "Crée un lien entre 8 créatures qui peuvent communiquer par la pensée."
@@ -11856,6 +12426,8 @@ Vous forgez un lien télépathique entre un maximum de huit créatures consentan
 Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépathie via le lien créé, qu'elles partagent un même langage ou non. Cette communication fonctionne quelle que soit la distance qui les sépare, mais ne s'étend pas aux autres plans d'existence.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau Adepte, la durée passe à 12 heures. Au niveau Expert, vous pouvez transmettre des images, sons et autres perceptions sensorielles aux créatures ciblées. Enfin, au niveau Maître, la portée devient illimitée tant que vous êtes sur le même plan et que vous connaissez les créatures ciblées.
+
+
 ---
 title: "Localiser des animaux ou des plantes"
 description: "Trouver un spécimen d'une bête ou d'une plante."
@@ -11878,6 +12450,8 @@ classes:
 **Coût** : 4 points de Foi ou de Magie   
 Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous concentrez sur la voix de la nature qui vous entoure et découvrez dans quelle direction et à quelle distance se trouve le spécimen le plus proche, s'il y en a, dans un rayon de 7,5 kilomètres.  
 Ce sort donne un bonus de +5 aux tests de survie pour trouver des plantes rares.  
+
+
 ---
 title: "Localiser une créature"
 description: "Permet de trouver la direction vers une créature."
@@ -11903,6 +12477,8 @@ Décrivez ou nommez une créature qui vous est familière. Vous sentez dans quel
 Le sort permet de localiser une créature spécifique de votre connaissance ou la créature la plus proche du même type (comme un humain ou une licorne), mais pour cela, vous devez avoir déjà vu une telle créature de près, c'est-à-dire vous être trouvé à moins de 9 mètres d'elle au moins une fois dans votre vie. Si la créature que vous décrivez ou nommez se trouve actuellement sous une forme différente, sous l'effet d'un sort de _métamorphose_, par exemple, ce sort est incapable de la localiser.
 
 Le sort ne parvient pas à localiser la créature si le chemin qui vous relie directement est coupé par une étendue d'eau courante d'au moins 3 mètres de large.
+
+
 ---
 title: "Localiser un objet"
 description: "Permet de trouver la direction vers un objet proche."
@@ -11928,6 +12504,8 @@ Décrivez ou nommez un objet qui vous est familier. Vous sentez dans quelle dire
 Le sort permet de localiser un objet spécifique de votre connaissance à condition que vous l'ayez vu de près, c'est-à-dire vous être trouvé à moins de 9 mètres de lui une fois dans votre vie. Sinon, le sort peut localiser l'objet d'un type donné le plus proche, comme un type d'appareil, de bijou, de meuble, d'outil ou d'arme.
 
 Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince soit-elle, bloque une trajectoire directe entre vous et l'objet.
+
+
 ---
 title: "Lueur d'espoir"
 description: "Les cibles peuvent éviter la mort et être soignées plus efficacement."
@@ -11948,6 +12526,8 @@ classes:
 ---
 **Coût** : 6 points de Foi  
 Ce sort offre espoir et robustesse. Choisissez autant de créatures consentantes à portée que vous le désirez. Pendant toute la durée du sort, elles bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Sagesse et des jets de sauvegarde contre la mort. De plus, elles récupèrent le maximum de points d'action possible dès qu'elles reçoivent des soins.
+
+
 ---
 title: "Lumière"
 description: "L'objet ciblé émet de la lumière dans un rayon de 12 mètres."
@@ -11971,6 +12551,8 @@ classes:
 Vous touchez un objet qui ne fait pas plus de 3 mètres dans chaque dimension. Jusqu'à la fin du sort, il émet une vive lumière dans un rayon de 6 mètres et une faible lumière dans un rayon additionnel de 6 mètres. Vous pouvez colorer cette lumière comme vous le souhaitez. Il suffit de recouvrir complètement l'objet avec quelque chose d'opaque pour bloquer la lumière. Le sort se termine si vous le lancez de nouveau ou si vous le révoquez en dépensant une action.
 
 Si vous visez un objet porté ou transporté par une créature hostile, cette dernière doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour éviter les effets du sort.
+
+
 ---
 title: "Magnétisation"
 description: "Rend magnétique une pièce de métal"
@@ -11994,6 +12576,8 @@ source: "Georges"
 **Coût** : 4 points de Magie ou de Foi  
 
 Le sorcier magnétise par magie un morceau de fer. Cette pièce de métal exercera une force d’attraction sur tout objet en fer. Le sort peut être répété plusieurs fois, augmentant la puissance de la force à chaque magnétisation. (1 : petite fermeture de sacoche, 2 : maintenir une dague au mur, 3 : figer une épée, 4 : attirer des flèches en vol diamètre 1d6 mètres).
+
+
 ---
 title: "Coup au fer blanc"
 description: "Rend les main brûlante comme du fer"
@@ -12017,6 +12601,8 @@ source: "Elric"
 **Enchantement** Le sorcier enchante un petit pot remplie de pâte qui prend la forme d'un onguent chauffant. Il a pour cela besoin de saindoux, de 5 po de matériel (encens, bougies...) et d'un feu de cheminée.  
 
 Le sorcier doit enduire ses mains de pâte chauffante ce qui rend la main du lanceur de sort comme chauffée au fer blanc ( le lanceur de sort ne souffre pas et le sort ne lui laisse pas de cicatrice). Le combat au corps à corps fait subir 1d6 points de dégât de feu aux ennemis. Le sort ne permet pas d'enflammer des objets.
+
+
 ---
 title: "Main de l'air"
 description: "Fait jaillir de l'air des mains du mage"
@@ -12038,6 +12624,8 @@ classes:
 **Coût** : 2 points de Magie  
 
 Le sorcier doit se concentrer un court instant avant de souffler dans ses mains. Ce sort permet de faire sortir de l’air de ses mains. Ce sort peut être un simple tour pour amuser les enfants ( en plongeant les mains dans l’eau et invoquer le sort ), ou bien une vraie aubaine pour créer une poche d’air dans une cavité sous l’eau.
+
+
 ---
 title: "Main du mage"
 description: "Fait apparaître et permet de contrôler une main spectrale."
@@ -12065,6 +12653,8 @@ Une main spectrale flottante seulement visible par le mage apparaît à portée,
 Vous pouvez utiliser votre action pour contrôler la main et vous en servir pour manipuler un objet, ouvrir une porte ou un récipient qui ne sont pas verrouillés, placer un objet dans un récipient ouvert ou l'en sortir, ou bien verser le contenu d'une flasque. Vous pouvez déplacer la main d'un maximum de 9 mètres à chaque fois que vous l'utilisez.
 
 La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5 kilogrammes.
+
+
 ---
 title: "Main magique"
 description: "Crée une énorme main de force qui peut agripper, attaquer, s'interposer, etc."
@@ -12101,6 +12691,8 @@ Lorsque vous lancez le sort, puis via une action bonus lors de vos tours ultéri
 **Poing serré**. La main frappe une créature ou un objet situé dans un rayon de 1,50 mètre autour d'elle. Faites une attaque de sort de contact pour la main en utilisant vos propres bonus d'attaque. Si elle touche, la cible subit 5d6 dégâts de force.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts de l'option poing serré augmentent de 2d6 et ceux de la main agrippeuse de 2d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Mains brûlantes"
 description: "Cône de flammes infligeant 3d6 dégâts de feu."
@@ -12125,6 +12717,8 @@ Alors que vous vous tenez les doigts écartés en éventail et les pouces l'un c
 Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un ne les porte ou ne les transporte.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Malédiction funeste"
 description: "La sorcier jete une terrible malédiction."
@@ -12152,6 +12746,8 @@ A la discrétion du narrateur mais mais les effets peuvent entraîner des probl�
 Le sorcier peut améliorer sa malédiction pour alléger le fardeau qui pèse sur ses épaules. Il doit relancer le sort pour imprégner la zone de sa malédiction et rendre la durée permanente. La malédiction est désormais indépendante de la vie du sorcier et se maintient même s'il est tué. Il doit relancer une troisième fois le sort pour libérer le sort et ne plus le considérer comme un sort de concentration. Le lanceur de sort ne subit plus ainsi la limitation imposée.  
 A sa guise, la malédiction funeste peut être amoindri pour limiter la "pression". Ainsi, un sorcier possède un moyen d'influence sur une zone ou une population. C'est ainsi que des sorciers se font remettre des tributs et des offrances (récoltes, monnaies, bétails, vierges etc..).    
 Toute malédiction peut être rompue par une quête épique dont seul le narrateur peut décider les conditions de réalisation.   
+
+
 ---
 title: "Manteau de givre"
 description: "Le PJ devient résistant aux dégâts de la prochaine attaque."
@@ -12175,6 +12771,8 @@ classes:
 Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.
+
+
 ---
 title: "Manucure"
 description: "Permet de changer la couleur et l'aspect d'un ongle"
@@ -12196,6 +12794,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie  
  Le magicien peut créer l'effet d'une manucure sur des ongles en les touchant avec un de ses index. Il peut en changer l'aspect et la longueur (un petit peu).
+
+
 ---
 title: "Marque du chasseur"
 description: "Le PJ inflige 1d6 dégâts supplémentaires à sa cible et peut la traquer."
@@ -12218,6 +12818,8 @@ classes:
 Vous choisissez une créature située dans votre champ de vision et à portée et lui apposez une marque mystique la désignant comme votre proie. Jusqu'à la fin du sort, vous lui infligez 1d6 dégâts supplémentaires à chaque fois que vous réussissez à lui infliger des dégâts avec une arme et vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les éventuels tests de Sagesse (Perception) ou Sagesse (Survie) que vous faites pour la retrouver. Si la cible tombe à 0 point d'action avant que ce sort se termine, vous pouvez utiliser une action bonus lors d'un tour ultérieur pour marquer une nouvelle créature.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple, vous pouvez vous concentrer sur le sort pendant 8 heures. Si vous utilisez un emplacement de niveau Apprenti ou supérieur, vous pouvez maintenir votre concentration sur le sort jusqu'à 24 heures.
+
+
 ---
 title: "Mauvais œil"
 description: "Le regard du PJ cause des effets néfastes pendant la durée du sort."
@@ -12245,6 +12847,8 @@ Pendant la durée du sort, vos yeux semblent devenir deux trous noirs regorgeant
 **Endormi**. La cible tombe [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Elle se réveille si elle subit le moindre dégât ou si une tierce personne utilise une action pour la réveiller en la secouant.
 
 **Paniqué**. Vous terrorisez la cible. À chacun de ses tours, la cible [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) doit utiliser l'action se précipiter et s'éloigner de vous via l'itinéraire le plus rapide et le plus sûr, à moins qu'elle n'ait nulle part où aller. Cet effet se termine si la cible gagne un emplacement situé à au moins 18 mètres de vous et d'où elle ne vous voit plus.
+
+
 ---
 title: "Message"
 description: "Conversation murmurée à distance."
@@ -12272,6 +12876,8 @@ Le ritualiste enchante un petit bout de fil de cuivre qu’il peut ensuite utili
 Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
 
 Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien la cible et savez qu'elle se trouve de l'autre côté de cet obstacle. Le sort est bloqué par un silence magique, 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince couche de plomb ou 90 centimètres de bois. Le sort n'a pas besoin de voyager en ligne directe, il peut contourner les angles et franchir les ouvertures.
+
+
 ---
 title: "Messager animal"
 description: "Envoie un petit animal porter un message de 25 mots."
@@ -12297,6 +12903,8 @@ Grâce à ce sort, vous chargez un animal de délivrer un message pour vous. Cho
 Quand elle arrive sur place, elle transmet votre message à la créature que vous avez décrite, imitant le son de votre voix. Le messager parle uniquement à une créature correspondant à la description que vous lui avez donnée. S'il n'atteint pas sa destination avant la fin du sort, le message est perdu et l'animal retourne là où vous avez lancé le sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, la durée du sort augmente de 48 heures par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Miroir du Douargwar"
 description: "Donne de la force supplémentaire pour frapper"
@@ -12319,6 +12927,8 @@ classes:
 **Enchantement** Le sorcier enchante un miroir pendant une nuit complète. Il a pour cela besoin d'un miroir, de 5 po de matériel (encens, bougies...) et de 20 po de matériel d'alchimie et un demi litre de mercure pur, de la lavande séchée et d'une nuit sans lune ou d'une éclipse lunaire.
 
 Le sorcier doit lors d’une nuit sans lune ou d’une éclipse lunaire, incanter sur un petit miroir puis plonger le miroir toutes les demies-heures dans le mercure pur en continuant d’incanter. L’enchanteur doit aussi fouetter le miroir avec de la lavande séchée. Ce petit miroir semble anodin en apparence, mais en regardant attentivement, on peut voir des reflets qui n’existent pas dans le monde physique. Le miroir montre ce qu’il y a dans son dos, le monde des esprits. Si le miroir est brisé, les fragments montrent quand même l’autre dimension.
+
+
 ---
 title: "Modification de mémoire"
 description: "Permet de remodeler les souvenirs de la cible."
@@ -12350,6 +12960,8 @@ Les souvenirs modifiés ne changent pas forcément l'attitude de la créature, s
 Un sort <ST s="lever-une-malediction"/> ou <ST s="restauration-superieure"/> permet à la cible de retrouver ses véritables souvenirs.  
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, vous pouvez modifier les souvenirs d'un événement remontant de 7 jours à 30 jours (niveau Adepte), 1 an (niveau Expert) ou issus de n'importe quelle période du passé de la cible (niveau Maître).  
+
+
 ---
 title: "Moquerie cruelle"
 description: "Sarcasmes provoquant 1d6 dégâts psychiques et <em>désavantage</em>."
@@ -12372,6 +12984,8 @@ classes:
 Vous lancez une bordée d'insultes empreintes d'un subtil enchantement à une créature située à portée et dans votre champ de vision. Tant qu'elle vous entend (elle n'a pas besoin de vous comprendre), elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle subit 1d6 dégâts psychiques et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur le prochain [jet d'attaque](/combattre/#jets-d-attaque) qu'elle effectue avant la fin de son prochain tour.
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau  17 (4d6).
+
+
 ---
 title: "Mot de guérison"
 description: "Sort en action bonus qui permet de rendre 1d6+modificateur points d'action."
@@ -12397,6 +13011,8 @@ classes:
 Une créature de votre choix située à portée et dans votre champ de vision récupère un nombre de points d'action égal à 1d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les soins augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Mot de guérison de groupe"
 description: "Sort en action bonus qui rend 1d6+modificateur PA à six cibles."
@@ -12419,6 +13035,8 @@ classes:
 Vous prononcez des paroles curatives qui rendent un nombre de points de vie égal à 1d6 + votre modificateur de caractéristique d'incantation à un maximum de six créatures de votre choix situées à portée et dans votre champ de vision. Ce sort reste sans effet sur les morts-vivants et les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les soins augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Mot de pouvoir étourdissant"
 description: "La cible, qui possède moins de 150  PA, est <em>étourdie</em>."
@@ -12442,6 +13060,8 @@ classes:
 Vous prononcez un mot de pouvoir capable de submerger l'esprit d'une créature située à portée et dans votre champ de vision. Elle en est abasourdie. Si elle possède 150 points d'action ou moins, elle est [_étourdie_](/gerer-la-sante-du-personnage/#etourdi), sinon le sort est sans effet.  
 
 Une cible [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. L'effet d'étourdissement se termine dès qu'elle en réussit un.  
+
+
 ---
 title: "Mot de pouvoir mortel"
 description: "La cible, qui possède moins de 100  PA, meurt instantanément."
@@ -12462,6 +13082,8 @@ classes:
 ---
 **Coût** : 18 points de Magie  
 Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points d'action ou moins, elle meurt, sinon le sort n'a aucun effet.
+
+
 ---
 title: "Motif hypnotique"
 description: "Cibles <em>charmées</em> et <em>neutralisées</em> dans un cube de 9 mètres."
@@ -12485,6 +13107,8 @@ classes:
 Vous tissez dans les airs un motif aux couleurs mouvantes dans un cube de 9 mètres d'arête situé à portée. Le motif apparaît pendant un bref instant avant de s'évanouir. Chaque créature qui se trouve dans la zone et voit le motif doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Celles qui échouent sont charmées pendant la durée du sort. Tant qu'une créature est [_charmée_](/gerer-la-sante-du-personnage/#charme) par ce sort, elle est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) et a une vitesse de 0.
 
 Le sort se termine pour une créature donnée si elle subit le moindre dégât ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
+
+
 ---
 title: "Mur de feu"
 description: "Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent."
@@ -12513,6 +13137,8 @@ Quand le mur apparaît, chaque créature présente dans sa zone d'effet doit eff
 Une face du mur (celle de votre choix) inflige 5d8 dégâts de feu à chaque créature qui termine son tour à 3 mètres d'elle ou moins ou au sein du mur. Une créature qui pénètre dans le mur pour la première fois de son tour ou y termine son tour subit les mêmes dégâts. L'autre face du mur n'inflige pas de dégâts.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Disciple.  
+
+
 ---
 title: "Mur de force"
 description: "Crée un mur infranchissable immunisé à tous les dégâts."
@@ -12535,6 +13161,8 @@ classes:
 Un mur de force invisible se matérialise soudain en un point de votre choix situé à portée. Il s'oriente comme bon vous semble, comme une barrière horizontale, verticale ou inclinée. Il peut flotter librement ou reposer sur une surface solide. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 0,5 centimètre d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre (à vous de choisir).  
 
 Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre tous les dégâts et résiste à toute dissipation de la magie. En revanche, on peut le détruire instantanément avec une <ST s="desintegration"/>. Le mur s'étend également sur le plan éthéré, ce qui empêche de le franchir sous forme éthérée.  
+
+
 ---
 title: "Mur de glace"
 description: "Crée un mur de glace qui inflige des dégâts de froid à ceux qui l'approchent."
@@ -12561,6 +13189,8 @@ Vous créez un mur de glace sur une surface solide à portée. Vous pouvez lui d
 Le mur est un objet que l'on peut endommager, et on peut donc y ouvrir des brèches. Il a une CA de 12 et 30 points de vie par section de 3 mètres de côté. Il est vulnérable aux dégâts de feu. Si une section de 3 mètres de côté tombe à 0 point de vie, elle est détruite et laisse juste une zone d'air glacé à l'emplacement où se trouvait le pan de mur. Quand une créature se déplace dans cette zone frigorifique pour la première fois de son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle réussit.  
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts que le mur inflige en apparaissant augmentent de 2d6 et les dégâts provoqués par un passage dans la zone d'air glacé augmentent de 1d6 par niveau au-delà du niveau d'Apprenti.  
+
+
 ---
 title: "Mur d'épines"
 description: "Crée un mur de buissons hérissés d'épines."
@@ -12587,6 +13217,8 @@ Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un 
 Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doit dépenser 1,20 mètre de déplacement pour avancer de 30 centimètres au sein du mur. De plus, quand elle entre dans le mur pour la première fois de son tour ou quand elle y termine son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Elle subit 7d8 dégâts tranchants si elle rate son jet, la moitié si elle le réussit.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les deux types de dégâts augmentent chacun de 1d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Mur de vent"
 description: "Invoque un mur d'air qui empêche le tir de projectiles."
@@ -12613,6 +13245,8 @@ Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.  
 
 Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les créatures et objets volants de taille P ou inférieure ne peuvent pas traverser le mur. Les matériaux libres et légers s'envolent si on les apporte dans le mur. Les flèches, les carreaux et autres projectiles ordinaires visant une cible située derrière le mur sont systématiquement détournés vers le haut et ratent automatiquement leur cible. (Ce phénomène n'affecte pas les rochers que lancent les géants ou les engins de siège, ni les projectiles similaires.) Les créatures sous forme gazeuse ne peuvent pas franchir le mur.  
+
+
 ---
 title: "Murmure aquatique"
 description: "L'enchanteur peut alors entendre les murmures de la rivière"
@@ -12633,6 +13267,8 @@ classes:
 ---
 **Coût** : 6 points de Magie  
 L'enchanteur peut alors entendre les murmures de la rivière. Il peut ainsi obtenir différentes informations comme localiser un gué à proximité ( à moins de 500 m par point de la compétence arcanes que ce soit vers l'amont ou vers l'aval) ou bien savoir si quelqu'un vient de traverser un gué récemment. Il peut aussi délivrer un message en aval qui sera murmuré dans un remous à un instant défini inclus dans la durée ou à une distance établie. Le message descend à la vitesse du courant et peut ainsi nécessiter un certain temps pour être délivré. Par contre le message peut se mettre en attente dans un endroit et être délivré au moment décidé.  
+
+
 ---
 title: "Nappe de brouillard"
 description: "Crée un brouillard dans lequel la visibilité est nulle."
@@ -12657,6 +13293,8 @@ classes:
 Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un point à portée. La sphère s'étend en contournant les angles et, dans la zone qu'elle occupe, la visibilité est nulle. Le brouillard persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent modéré ou plus violent (soufflant au moins à 15 kilomètres par heure) le disperse.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, le rayon de la sphère augmente de 6 mètres par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Nettoyage"
 description: "Facilite la corvée de ménage."
@@ -12680,6 +13318,8 @@ classes:
 ---
 **Coût** : 1 points de Foi ou de Magie
 Lorsque le magicien fait son ménage et qu'il se concentre après avoir lancé ce sort, ses produits nettoyants sont très efficaces : les vitres sont translucides, les fers redeviennent brillants, le parquet et les bois sont superbement cirés. Ce sort ne remplace pas le nettoyage mais en améliore l'efficacité, épargnant ainsi d'une grande part, les tâches pénibles. Le nettoyage est permanent mais la zone se salit de nouveau normalement.
+
+
 ---
 title: "Nimbe de bienfaisance"
 description: "Aura qui soigne et aide les alliés et blesse les morts-vivants."
@@ -12702,6 +13342,8 @@ classes:
 Un nimbe d'énergie sacrée vous entoure pour la durée du sort. Au moment de l'incantation, les créatures vivantes situées à 3 mètres ou moins de vous récupèrent autant de points d'action que leur bonus de maîtrise, sans dépasser leur maximum. De plus, toutes bénéficient d'une résistance aux dégâts nécrotiques pour toute la durée du sort. Les morts-vivants présents dans cette zone au début de leur tour subissent 1d6 points de dégâts radiants.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Non-détection"
 description: "La cible est dissimulée à toute magie de divination."
@@ -12723,6 +13365,8 @@ classes:
 **Coût** : 6 points de Magie    
 
 Pour toute la durée du sort, vous dissimulez la cible que vous touchez aux yeux de la magie de divination. Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet ne mesurant pas plus de 3 mètres dans chaque dimension. La magie de divination ne peut plus viser votre cible et les organes de scrutation magiques ne la perçoivent plus.
+
+
 ---
 title: "Nuage incendiaire"
 description: "Nuage incandescent qui inflige 15d6 dégâts de feu aux créatures."
@@ -12748,6 +13392,8 @@ Un nuage de fumée ondoyant constellé de braises rougeoyantes apparaît sous la
 Quand le nuage apparaît, chaque créature se trouvant à l'intérieur doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 15d6 dégâts de feu, les autres la moitié seulement. Une créature doit aussi effectuer ce jet quand elle entre dans la zone affectée pour la première fois du tour ou lorsqu'elle y finit son tour.
 
 Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au début de chacun de vos tours.
+
+
 ---
 title: "Nuage mortel"
 description: "Les créatures qui respirent le brouillard subissent 7d6 dégâts de poison."
@@ -12774,6 +13420,8 @@ Quand une créature entre dans la zone du sort pour la première fois de son tou
 Le brouillard s'éloigne de vous sur une distance de 3  mètres au début de chacun de vos tours, rampant à la surface du sol. Comme ses vapeurs sont plus lourdes que l'air, il s'enfonce dans les replis du terrain et s'infiltre même dans les ouvertures.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau d'Apprenti.  
+
+
 ---
 title: "Nuage puant"
 description: "Nuage de gaz dans une sphère de 6 mètres qui cause des vomissements."
@@ -12798,6 +13446,8 @@ Vous créez une sphère d'un gaz jaunâtre et nauséabond de 6 mètres de rayon 
 Chaque créature entièrement englobée dans le nuage au début de son tour doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution contre le poison. Celles qui échouent passent toutes leurs actions du tour à vomir. Les créatures qui ne respirent pas et celles qui sont immunisées contre le poison réussissent automatiquement ce jet.
 
 Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent fort (au moins 30 km/h) le disperse au bout de seulement 1 round.
+
+
 ---
 title: "Obligation de vérité"
 description: "La cible est forcée de dire ce qu'elle croit être la vérité."
@@ -12819,6 +13469,8 @@ classes:
 
 Ce sort permet au sorcier d'interroger un de ses prisonniers en le faisant plier sous sa volonté. La victime est obligée de dire la vérité à moins de réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) pour contrer l'esprit du sorcier. En cas de réussite, la victime peut ne pas répondre à la question mais elle subit un niveau de fatigue si elle échoue un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution et dans tous les cas 1D6 dégâts en représailles. Le sorcier ne peut poser que des questions simples et recevoir des réponses simples. Il peut poser qu'une question par point de modificateur de Sagesse (minimum 1).  
 Il ne peut renouveler son interrogatoire qu'après douze heures.  
+
+
 ---
 title: "Œil magique"
 description: "Crée un œil <em>invisible</em> par lequel peut voir le PJ."
@@ -12841,6 +13493,8 @@ classes:
 Vous créez un œil magique invisible à portée, qui flotte dans les airs pendant toute la durée du sort. Il vous envoie mentalement des informations visuelles grâce à sa vision normale et dans le noir dans un rayon de 9 mètres. Il peut regarder dans toutes les directions.
 
 Par une action, vous pouvez déplacer l'œil d'un maximum de 9 mètres dans la direction de votre choix. Il peut s'éloigner de vous sur une distance illimitée, mais il ne peut pas entrer dans un autre plan d'existence. Une barrière solide l'empêche de passer, mais il peut se glisser à travers une ouverture d'au minimum 2,5 centimètres de diamètre.
+
+
 ---
 title: "Offrande inéluctable"
 description: "Force la cible à vous donner l'objet qu'elle tient en main."
@@ -12863,6 +13517,8 @@ classes:
 Une créature vivante à portée et dans votre champ de vision doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse sous peine de se sentir soudainement obligée de vous donner ce qu'elle tient au moment où vous lancez le sort. Dès son tour, la cible se rapproche aussi près que possible de vous et vous tend l'objet. Pour toute la durée du sort, la cible fait en sorte de protéger l'objet qu'elle doit vous donner et ne peut donc pas s'en servir pour attaquer ni pour se défendre et subit par ailleurs d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets d'attaques.
 
 Le sort prend fin si vous ou vos alliés blessez la cible ou lui lancez un sort néfaste, ou si vous vous trouvez au-delà de la portée du sort.
+
+
 ---
 title: "Ombres imaginaires"
 description: "La cible subit un <em>désavantage</em> à toutes ses actions."
@@ -12886,6 +13542,8 @@ classes:
 Vous désignez une cible à portée et dans votre champ de vision. Vous créez des images fantasmagoriques cauchemardesques dans son esprit. La victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence. En cas d'échec, elle perçoit des silhouettes d'ombres qui l'assaillent, ce qui lui inflige un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses actions pendant la durée du sort.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau Apprenti ou supérieur, le sort persiste jusqu'à la fin de sa durée normale sans nécessiter de concentration.
+
+
 ---
 title: "Omniprésent"
 description: "Le sorcier peut pointer son attention sur toute sa zone d'influence."
@@ -12909,6 +13567,8 @@ classes:
 Ce sort oblige les gens à ne pas prononcer le nom du sorcier. S'il est prononcé, celui-ci a des chances de savoir qui a prononcé son nom et où celui-ci a été prononcé. Le nom peut être à peine murmuré sans risque. En utilisant une action, le sorcier peut utiliser l'effet du sort [Clairvoyance](/grimoire/clairvoyance) sur le point qui a attiré son attention.   
 La zone d'effet du sort est variable et centrée sur l'oeuf de cristal. Elle est de base d'une portée de 100 m par point de modificateur de caractéristique d'Intelligence et de Sagesse (Soit 1km de rayon pour un personnage qui a 20 en Intelligence et en Sagesse). Dans ce cas l'oeuf de crital doit être porté. Lorsque le sorcier est dans son antre (le lieu où il vit habituellement et où il fait ses rituels) la portée passe à 1km par point concerné.  
 Le sorcier peut faire le rituel à plusieurs endroits pour augmenter la portée de son influence.   
+
+
 ---
 title: Ordre
 description: "donne 5 ordres simultanément dans des directions différentes"
@@ -12930,6 +13590,8 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 Ce sort permet de donner 5 ordres simultanément dans des directions différentes. Les cibles comprennent directement l’ordre sans être gênées par les autres indications. Les ordres ne permettent pas d’influencer le comportement des cibles. Les consignes du lanceur de sort doivent être des phrases simples tel que « coupe la corde », « tire », « attaque », « derrière-toi », « fuit », etc. .  
+
+
 ---
 title: "Orgasme"
 description: "Déclenche un orgasme sur la cible."
@@ -12951,6 +13613,8 @@ classes:
 ---
 **Coût** : 8 points de Foi ou de Magie  
 En contact charnel, le Magicien est capable de déclencher un orgasme chez sa cible. Lui-même ne ressent pas cet orgasme et ne peut pas s'auto appliquer le sort. Cet orgasme a les effets naturels de fatigue qui en découle. Il est dangereux d'en abuser.
+
+
 ---
 title: "Oubli"
 description: "Permet d'effacer certains souvenirs de la cible."
@@ -12973,6 +13637,8 @@ classes:
 **Coût** : 8 points de Magie  
 
 Bien que moins puissant que le sort [Modification de mémoire](/grimoire/modification-de-memoire), ce sortilège permet au sorcier de faire oublier un événement à sa cible, pouvant durer jusqu'à 1 mn. L'événement est complètement oublié, effacé de la mémoire. La cible peut résister en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.  
+
+
 ---
 title: "Ouverture/Fermeture"
 description: "Permet d'ouvrir."
@@ -12998,6 +13664,8 @@ classes:
  Le ritualiste enchante une petite clef qu’il peut ensuite utiliser au prix d’une action.
 
  Ce sort permet, au choix, d’ouvrir ou de fermer une porte, un coffre, une boîte, une fenêtre, un sac, une bourse, une bouteille ou tout autre récipient. Il échoue automatiquement si un mécanisme de fermeture (barre, serrure fermée, etc.) lui résiste. De plus, il ne peut ouvrir ou fermer que les objets pesant 15 kg ou moins Le couvercle d’un gros coffre ou une porte de grande taille constituent des masses trop importantes pour lui.   
+
+
 ---
 title: "Panacée"
 description: "Annule les poisons, les maladies et de nombreux états spéciaux."
@@ -13018,6 +13686,8 @@ classes:
 ---
 **Coût** : 8 points de Foi  
 Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux maladies, poisons et états spéciaux suivants qui affectent vos alliés situés dans la zone : [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne), [_étourdi_](/gerer-la-sante-du-personnage/#etourdi), [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), [_pétrifié_](/gerer-la-sante-du-personnage/#petrifie) et [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Elle annule également les effets de sommeil et les effets du sort _esprit faible_.
+
+
 ---
 title: Paranoïa
 description: "fait croire à la victime qu’elle est suivie par quelqu’un"
@@ -13041,6 +13711,8 @@ source: "Elric"
 **Enchantement** e lanceur de sort enchante un objet appartenant à la victime. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 
 Ce sort fait croire à la victime qu’elle est suivie par quelqu’un. Le sorcier doit incanter pendant 2 heures sur un objet appartenant à la cible, puis glisser cet objet dans les affaires de la victime. Celle-ci aura l’impression d’être sans arrêt suivi par un homme ou une femme dont le sorcier choisi l’apparence. Le sort cesse d’agir si l’objet ensorcelé par le magicien est séparé des affaires de la victime. L’illusion qui suit la cible doit être quelqu’un qu’elle connaît ou qu’elle a déjà vu. L’illusion peut aussi bien être quelqu’un de mort. Dès que la victime tente d’approcher l’illusion, celle-ci fuit ou bien disparaît lorsque la victime ne la voit plus.  
+
+
 ---
 title: "Parole divine"
 description: "Mot qui peut <em>assourdir</em>, <em>aveugler</em>, <em>étourdir</em>, voire tuer sur-le-champ."
@@ -13068,6 +13740,8 @@ Vous prononcez une parole divine, empreinte de la puissance qui a façonné le m
 * 20 points d'action ou moins : morte sur-le-champ.
 
 Quels que soient ses points d'action, si un céleste, un élémentaire, une fée ou un fiélon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un <ST s="souhait"/>.
+
+
 ---
 title: "Pas brumeux"
 description: "Téléportation à 9 mètres pour une action bonus."
@@ -13088,6 +13762,8 @@ classes:
 ---
 **Coût** : 4 points de Magie   
 Vous êtes brièvement entouré d'un nuage de poussière et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
+
+
 ---
 title: "Passage dimensionnel"
 description: "Forme un passage permettant la téléportation à 150 mètres."
@@ -13114,6 +13790,8 @@ Toute créature ou objet solide entrant par une ouverture ressort instantanémen
 Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si elles sont contenues (des flots d'eau ou de lave ne peuvent pas passer au travers, mais une bouteille, une fiole ou un seau d'eau oui). Les sorts et les énergies ne peuvent pas franchir le passage, toutefois la lumière non magique passe au travers ce qui permet de voir de l'autre côté. Si la surface désignée ne peut accueillir l'ouverture, le sort est perdu ou s'arrête. Chacune des ouvertures n'a pas d'épaisseur et n'a qu'une seule face correspondant avec l'autre.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau  adepte ou supérieur, le diamètre de l'ouverture augmente de 1,50 mètre par niveau au-delà du niveau d'apprenti.
+
+
 ---
 title: "Passage par les arbres"
 description: "Le PJ peut voyager entre deux arbres distants de 150 mètres."
@@ -13136,6 +13814,8 @@ classes:
 Vous êtes soudain capable d'entrer dans un arbre et de passer de son sein à celui d'un autre arbre de la même espèce situé dans un rayon de 150 mètres. Ces deux arbres doivent être vivants et au moins de la même taille que vous. Vous devez dépenser 1,50 mètre de déplacement pour entrer dans un arbre. Vous apprenez alors instantanément où se trouvent tous les autres arbres de la même espèce dans un rayon de 150 mètres et vous pouvez gagner l'un d'eux ou ressortir par l'arbre dans lequel vous êtes entré, ce mouvement faisant partie de votre déplacement de 1,50 mètre. Vous apparaissez à l'endroit de votre choix dans un rayon de 1,50 mètre autour de l'arbre dans lequel vous êtes arrivé en dépensant de nouveau 1,50 mètre de déplacement. S'il ne vous reste pas de distance de déplacement à dépenser, vous apparaissez dans un rayon de 1,50 mètre autour de l'arbre par lequel vous êtes entré.
 
 Vous pouvez utiliser cette capacité de transport une fois par round pendant toute la durée du sort. Vous devez terminer chaque tour en dehors d'un arbre.
+
+
 ---
 title: "Passage sans trace"
 description: "Le PJ et ses alliés ont +10 en Discrétion et ne laissent pas de trace."
@@ -13156,6 +13836,8 @@ classes:
 ---
 **Coût** : 4 points de Foi  
 Une aura d'ombre et de silence émane de vous et enveloppe vos compagnons, vous dissimulant aux sens d'autrui. Pendant toute la durée du sort, chaque créature que vous choisissez et qui se trouve dans un rayon de 9 mètres (vous y compris) bénéficie d'un bonus de +10 aux tests de Dextérité (Discrétion) et il devient impossible de suivre sa piste à moins de recourir à des méthodes magiques. Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni aucun autre indice de son passage.
+
+
 ---
 title: "Passe-muraille"
 description: "Crée un passage sur un mur, un sol ou un plafond."
@@ -13177,6 +13859,8 @@ classes:
 Un passage apparaît en un point de votre choix situé à portée et dans votre champ de vision sur une surface de bois, de plâtre ou de pierre (comme un mur, un sol ou un plafond). Il persiste pendant toute la durée du sort. À vous de décider des dimensions de l'ouverture qui peut faire, au maximum, 1,50 mètre de large pour 2,50 mètres de haut et 6 mètres de profondeur. L'apparition du passage ne crée aucune faiblesse dans la structure qui l'entoure.
 
 Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient encore sont expulsés en toute sécurité dans l'emplacement inoccupé le plus proche de la surface sur laquelle vous avez lancé le sort.
+
+
 ---
 title: "Pattes d'araignée"
 description: "La cible peut marcher aux murs et aux plafonds."
@@ -13197,6 +13881,8 @@ classes:
 ---
 **Coût** : 4 points de Magie   
 Jusqu'à la fin du sort, une créature consentante que vous touchez devient capable de se déplacer sur les surfaces verticales avec un bonus de +10 à ses tests d'athlétisme. La cible bénéficie aussi d'une vitesse d'escalade égale à sa vitesse de marche.  
+
+
 ---
 title: "Peau d'écorce"
 description: "La cible a une valeur de défense de minimum 16."
@@ -13218,6 +13904,8 @@ classes:
 ---
 **Coût** : 4 points de Foi       
 Vous touchez une créature consentante. Pendant toute la durée du sort, sa Valeur de Défense ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.  
+
+
 ---
 title: "Peau de pierre"
 description: "La cible est résistante aux dégâts contondants, perforants et tranchants."
@@ -13239,6 +13927,8 @@ classes:
 ---
 **Coût** : 8 points de Magie ou de Foi  
 Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure que de la pierre. Jusqu'à la fin du sort, la cible est résistante aux dégâts non magiques contondants, perforants et tranchants.
+
+
 ---
 title: "Petite hutte"
 description: "Crée un dôme de 3 mètres infranchissable et imperméable à toute magie."
@@ -13266,6 +13956,8 @@ Un dôme de force immobile, de 3 mètres de rayon, apparaît soudain autour et a
 Le dôme peut abriter un maximum de neuf créatures de taille M ou inférieure, en plus de vous. Le sort échoue si la zone comprend une créature de taille supérieure ou plus de dix créatures. Les créatures et les objets qui se trouvent à l'intérieur du dôme lors de l'incantation peuvent en sortir et y rentrer librement ; en revanche, les autres créatures sont incapables de franchir ses limites. Les sorts et autres effets magiques ne peuvent pas s'étendre au-delà de la limite du dôme ni être lancés à travers. L'atmosphère au sein du dôme est agréable et sèche, quelles que soient les conditions météorologiques à l'extérieur.
 
 Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur du dôme soit faiblement éclairé ou plongé dans le noir. Vu de l'extérieur, le dôme est opaque, de la couleur que vous désirez, mais vu de l'intérieur, il est transparent.
+
+
 ---
 title: "Pétrification"
 description: "La cible est <em>entravée</em>, et potentiellement <em>pétrifiée</em>."
@@ -13290,6 +13982,8 @@ Vous tentez de paralyser une créature comme si elle était changée en pierre. 
 Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par ce sort doit effectuer un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine. Si elle en rate trois, elle se change en pierre et se retrouve [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) pendant toute la durée du sort. Il est inutile que les succès et les échecs soient consécutifs, notez juste leur nombre jusqu'à ce que la cible arrive à en accumuler trois d'une sorte ou de l'autre.
 
 Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée maximale, la cible est paralysée de manière permanente jusqu'à ce que quelqu'un dissipe l'effet.  
+
+
 ---
 title: "Peur"
 description: "Dans un cône de 9 mètres les cibles sont <em>terrorisées</em> et fuient."
@@ -13312,6 +14006,8 @@ classes:
 Vous projetez une image fantasmagorique des pires terreurs d'une créature. Chaque créature située dans un cône de 9 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou lâcher tout ce qu'elle tient en main et être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant toute la durée du sort.
 
 Tant qu'une créature est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) par ce sort, elle est obligée d'utiliser l'action se précipiter à chacun de ses tours et de s'éloigner de vous par l'itinéraire le plus sûr, à moins qu'elle n'ait nulle part où aller. Si elle termine son tour en un endroit où vous ne figurez plus dans son champ de vision, elle peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine pour elle.
+
+
 ---
 title: "Poigne électrique"
 description: "Attaque de contact infligeant 2d6 dégâts de foudre."
@@ -13334,6 +14030,8 @@ classes:
 Votre main semble chargée d'électricité et affecte la créature que vous tentez de toucher. Faites une attaque de sort au corps-à-corps contre la cible. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque) si votre cible porte une armure métallique. Si vous touchez la cible, elle subit 2d6 dégâts de foudre et ne peut pas effectuer de réaction avant le début de son prochain tour.
 
 Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (3d6), 11 (4d6) et 17 (5d6).
+
+
 ---
 title: "Poing purificateur"
 description: "Donne de un coup de poing qui dessoûle immédiatement la cible"
@@ -13356,6 +14054,8 @@ source: "Elric"
 **Coût** : 2 points de Foi  
 
 Le geste plus que les mots. La formule traditionnellement dite est :"C'est pour ton bien" avant d'asséner un coup à la cible. Ce sort permet de faire disparaître les effets de l’alcool sur la cible. Il suffit de frapper l’ivrogne au visage. Ce coup de poing en plus d’enlever les effets de l’alcool fait subir 1 point de dégât au soûlard. Ce sort ne permet pas de lutter contre les poisons ou les solutions alchimiques.   
+
+
 ---
 title: "Poison naturel"
 description: "<em>Empoisonne</em> une arme qui inflige 2d6 dégâts lors de sa prochaine attaque."
@@ -13378,6 +14078,8 @@ classes:
 Une arme de votre choix exsude une substance poisseuse et venimeuse. À la première attaque que vous réussissez avec cette arme, la victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 2d6 dégât de poison et être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). En cas de succès, elle subit seulement la moitié des dégâts et elle n'est pas [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Novice.  
+
+
 ---
 title: "Polissage"
 description: "Permet de polir un métal comme un miroir."
@@ -13402,6 +14104,8 @@ classes:
 **enchantement**
 En passant la paume de sa main, l'enchanteur peut polir et rendre brillante comme un miroir, une surface métallique. Avec ce sort, il est possible d'entretenir des armures par exemple.
 Ce sort a aussi des applications sur les ustensiles de cuisine.
+
+
 ---
 title: "Porte-bonheur"
 description: "Résistance aux dégâts élémentaires."
@@ -13423,6 +14127,8 @@ classes:
 ---
 **Coût** : 1 point de Magie   
 Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
+
+
 ---
 title: "Possession"
 description: "Le PJ envoie son âme dans le corps d'autrui, l'âme de la cible est prisonnière."
@@ -13456,6 +14162,8 @@ Tant que vous possédez le corps d'autrui, vous pouvez utiliser votre action pou
 Si le réceptacle est détruit ou que le sort se termine, votre âme regagne immédiatement votre corps, à moins qu'il ne se trouve à plus de 30 mètres d'elle ou qu'il ait succombé, auquel cas vous périssez. Si l'âme d'une autre créature occupe le réceptacle au moment où il est détruit, cette âme retourne immédiatement dans son corps, à condition qu'il se trouve dans un rayon de 30 mètres et soit encore en vie. Sinon, elle meurt.
 
 Le réceptacle est détruit quand le sort se termine.
+
+
 ---
 title: "Prémonition"
 description: "La cible ne peut pas être <em>surprise</em> et bénéficie d'<em>avantages</em>."
@@ -13480,6 +14188,8 @@ classes:
 Vous touchez une créature consentante et lui conférez une aptitude limitée à voir dans le futur immédiat. Pendant toute la durée du sort, elle ne peut pas être [_surprise_](/gerer-la-sante-du-personnage/#surpris) et elle a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque, les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et les jets de sauvegarde. De plus, les autres créatures sont affectées par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs jets d'attaque contre elle pendant toute la durée du sort.
 
 Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de sa durée.
+
+
 ---
 title: "Prestidigitation"
 description: "Tours de magie basiques."
@@ -13506,6 +14216,8 @@ Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner
 * Le sort réchauffe ou refroidit du matériel non vivant pouvant être contenu dans un cube de 30 cm d'arête pendant 1 heure.
 * Le sort permet d’écrire du bout du doigt un symbole, une petite marque ou couleur sur un objet ou une surface pendant 1 heure.
 Si le sort est lancé plusieurs fois, il est possible de conserver actifs 3 de ces effets non instantanés simultanément, et il est possible de révoquer ces effets au prix d'une action.
+
+
 ---
 title: "Prière de soins"
 description: "Jusqu'à six créatures récupèrent 3d6 + modificateur points d'action."
@@ -13528,6 +14240,8 @@ classes:
 Un maximum de six créatures de votre choix, situées à portée et dans votre champ de vision, récupèrent chacune un nombre de points d'action égal à 3d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les soins augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Produire une flamme"
 description: "Fait apparaître une flamme dans la main du PJ."
@@ -13552,6 +14266,8 @@ Une flamme vacillante apparaît dans votre main en embrasant votre ingrédient. 
 Vous pouvez attaquer avec la flamme, mais cela met fin au sort. Pour cela, quand vous lancez le sort, ou par une action lors d'un tour ultérieur, vous lancez la flamme sur une créature située dans un rayon de 9 mètres. Faites une attaque de sort à distance. Si vous touchez, la cible subit 2d6 dégâts de feu.  
 
 Les dégâts de ce sort augmentent de 1d6 quand vous atteignez le niveau 5 (3d6), le niveau 11 (4d6) et le niveau 17 (5d6).  
+
+
 ---
 title: "Projectile magique"
 description: "Trois flèches touchent automatiquement et infligent 1d6 dégâts."
@@ -13574,6 +14290,8 @@ classes:
 Vous créez trois projectiles à partir de graviers que vous chargez d'énergie magique. Chacun touche une créature de votre choix, située à portée et dans votre champ de vision. Un projectile inflige 1d6 dégâts de force à la cible. Tous les projectiles frappent leur cible en même temps, sachant que vous pouvez tous les diriger contre une seule et même créature ou les répartir entre plusieurs.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, le sort crée un projectile de plus par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Projectile toxique"
 description: "Un projectile lancé ou tiré explose à l'impact et <em>empoisonne</em> les victimes."
@@ -13596,6 +14314,8 @@ classes:
 Vous utilisez votre action pour lancer une arme ou tirer un projectile et une action bonus pour lancer le sort. À son impact, le projectile explose en un nuage toxique de 3 mètres de diamètre, centré sur votre cible. Si vous touchez votre cible, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 4d6 dégâts de poison (en remplacement des dégâts habituels) et être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. En cas de réussite, elle divise les dégâts par deux et n'est pas [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Toutes les créatures dans la zone d'effet, y compris la cible initiale si vous l'avez manquée, subissent 2d6 dégâts de poison (la moitié si la sauvegarde est réussie) et, en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté, elles sont <RT l="empoisonnées" t="empoisonne"/> pendant seulement 1 round.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau Apprenti ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Projection astrale"
 description: "Le PJ et ses alliés sont projetés sur le plan astral."
@@ -13630,6 +14350,8 @@ Le sort se termine pour vous et vos compagnons dès que vous utilisez une action
 Le sort peut se terminer plus tôt pour vous ou pour l'un de vos camarades. Si quelqu'un réussit une _dissipation de la magie_ contre le corps astral ou physique d'une créature affectée, le sort se termine pour elle seule. Il en va de même si la forme astrale ou le corps physique d'une créature affectée tombe à 0 point de vie. Si le sort se termine alors que le cordon argenté est intact, celui-ci ramène la forme astrale dans le corps physique, mettant un terme à l'état d'animation suspendue.  
 
 Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point de vie.   
+
+
 ---
 title: "Protection contre la mort"
 description: "Évite à la cible de tomber à 0 PA ou de subir un effet mortel."
@@ -13652,6 +14374,8 @@ classes:
 Vous touchez une créature et lui donnez une protection relative contre la mort. Quand elle devrait tomber à 0 point d'action pour la première fois suite à des dégâts, elle tombe à la place à 1 point d'action et le sort se termine.
 
 Si le sort est encore actif quand la cible est soumise à un effet qui devrait la tuer sur-le-champ sans lui infliger de dégâts, l'effet est annulé contre cette cible et le sort se termine.
+
+
 ---
 title: "Protection contre le mal et le bien"
 description: "La cible est protégée contre certains types de créatures."
@@ -13675,6 +14399,8 @@ classes:
 Jusqu'à la fin du sort, une créature consentante que vous touchez est protégée contre certains types de créatures : les aberrations, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants.
 
 Cette protection se traduit par plusieurs bénéfices. Les créatures des types précédemment nommés subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre la cible, et cette dernière ne peut être [_charmée_](/gerer-la-sante-du-personnage/#charme), [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) ou possédée par elles. Si la cible est déjà sous l'effet d'un tel état spécial émanant d'une telle créature, elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un éventuel nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'effet en question.
+
+
 ---
 title: "Protection contre le poison"
 description: "Neutralise le poison chez une cible <em>empoisonnée</em>."
@@ -13697,6 +14423,8 @@ classes:
 Vous touchez une créature. Si elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne), vous neutralisez ce poison. Si elle est victime de plusieurs poisons, vous en neutralisez un dont vous avez détecté la présence ou un au hasard.  
 
 Pendant toute la durée du sort, la cible bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre le poison et se montre résistante aux dégâts de poison.  
+
+
 ---
 title: Protection contre les charmes
 description: "permet au magicien de résister aux sorts d’enchantement qui influencent le comportement"
@@ -13732,6 +14460,8 @@ Ce sort permet au magicien de résister aux sorts d’enchantement qui influence
 |Maître| 18|  
 
 Pour rompre la protection, le lanceur de sort doit brûler le linge ceint sur son corps et défaire le cœur de la peau du carnivore. Si le lanceur de sort n’a plus de points de magie, les charmes affectent alors sa vie.   
+
+
 ---
 title: "Protection contre les énergies"
 description: "La cible devient résistante aux dégâts d'un certain type."
@@ -13753,6 +14483,8 @@ classes:
 ---
 **Coût** : 6 points de Magie ou de Foi  
 Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
+
+
 ---
 title: "Protections et sceaux"
 description: "Permet de placer des protections dans un bâtiment."
@@ -13794,6 +14526,8 @@ _Protections et sceaux_ produit les effets suivants dans la zone protégée.
 Toute la zone protégée émet une aura magique. Si quelqu'un lance avec succès une <ST s="dissipation-de-la-magie"/> sur un effet spécifique, il élimine seulement cet effet.
 
 Vous pouvez protéger une structure en permanence si vous lancez ce sort tous les jours pendant un an.
+
+
 ---
 title: "Puissance guerrière"
 description: "Le lanceur de sort se transforme en force de la nature."
@@ -13824,6 +14558,8 @@ Il gagne 3 point d'actions (PA) temporaires par niveau. Lorsqu'il met fin à ce 
 *J'arrivai à sa hauteur et il leva le bras pour protéger son visage, ses yeux implorant ma pitié. Il n'en avait pas eu pour mes compagnons et la pitié n'habitait pas mon coeur. D'un geste ample, je lui tranchais la gorge à la hauteur de la glotte et je le regardais mourir*."    
 **Souvenirs d'Anestas, guerriers & aventurier**   
 §§§     
+
+
 ---
 title: "Puissance/impuissance sexuelle"
 description: "Rend puissant ou impuissant la cible sexuellement."
@@ -13846,6 +14582,8 @@ classes:
 **Coût** : 14 points de Foi ou de Magie    
 Ce sort permet au Magicien de donner à sa cible la plénitude de ses capacités sexuelles ou au contraire de l'en priver. Les cibles de ce sort sont masculines. En cas d'impuissance, il n'annihile pas le désir sexuel, mais la capacité à avoir un rapport sexuel, en empêchant l'érection ou l'éjaculation.  
 En cas de puissance sexuelle, ce sort redonne une capacité physique au rapport sexuel et améliore aussi sensiblement la fertilité.  
+
+
 ---
 title: "Purification de la nourriture et de l'eau"
 description: "Ôte de nourriture et boisson toute maladie ou poison."
@@ -13866,6 +14604,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
+
+
 ---
 title: "Putréfaction"
 description: "La cible subit 1d6 dégâts par round et peut propager le sort si elle meurt."
@@ -13890,6 +14630,8 @@ Une créature à portée et que vous pouvez voir subit votre malédiction. Dès 
 Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate et affecte les créatures situées à 1,50 mètre ou moins d'elle. Les nouvelles cibles affectées doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou de Dextérité pour éviter d'être affecté par le sort.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de niveau Disciple, les victimes subissent 2d6 dégâts. Les dégâts passent à 3d6 au niveau Apprenti, 4d6 au niveau Adepte et 5d6 au niveau Maître.
+
+
 ---
 title: Pyromancie
 description: "permet de voir un événement présent en lien avec une personne."
@@ -13914,6 +14656,8 @@ source: "Elric"
 
 Ce sort permet de voir un événement présent en lien avec une personne. Le sorcier doit placer un morceau de quartz dans un feu en pensant à une personne. Des images se formeront à la surface de l’eau durant 2 secondes avant de disparaître. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 15 l’image est floue, entre 16 et +, l’image est claire.  
 **À plus haut niveau.** Chaque emplacement de surcharge ajoute un bonus de +2 au jet.  
+
+
 ---
 title: "Rafale de vent"
 description: "Permet de manipuler le vent."
@@ -13941,6 +14685,8 @@ Vous saisissez l'air et l'obligez à créer un des effets suivants à un point q
 • Une créature de taille M ou plus petite que vous choisissez doit réussir un jet de sauvegarde de Force ou bien être repoussée de 1,50 mètre de vous.	 
 • Vous créez une petite explosion d'air capable de bouger un objet qui n'est pas tenu ni porté et qui ne pèse pas plus que 2,5 kg. L'objet est repoussé de 3 mètres. Il n'est pas poussé avec assez de force pour faire des dégâts.	  
 • Vous créez un effet sensoriel inoffensif qui utilise l'air, comme provoquer le bruissement de feuilles, faire claquer des volets ou faire onduler des vêtements dans une brise.	   
+
+
 ---
 title: "Rappel à la vie"
 description: "Ramène à la vie une créature décédée depuis moins de 1 jour."
@@ -13970,6 +14716,8 @@ Ce sort neutralise également les poisons et soigne les maladies non-magiques qu
 Ce sort ne referme pas les plaies mortelles et ne restaure pas les parties manquantes du corps. Si la créature est privée d'un organe ou d'un morceau indispensable à sa survie, comme sa tête, le sort échoue automatiquement.
 
 Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de -4 aux jets d'attaque et de sauvegarde ainsi qu'aux [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) pendant plusieurs lune. À chaque fois qu'une lune se termine, ce malus se réduit de 1 jusqu'à disparaître.  
+
+
 ---
 title: "Réparation"
 description: "Permet de réparer un objet cassé ou déchiré."
@@ -13997,6 +14745,8 @@ classes:
 Le lanceur de sort doit avoir préalablement enchanté deux magnétites.  
 
 Ce sort répare une simple fissure, déchirure ou fêlure sur un objet que vous touchez, comme un maillon de chaîne cassé, une clé brisée en deux morceaux, un accroc sur un manteau ou une fuite sur une outre. Tant que la fissure ou l'accroc n'excède pas 30 cm dans toutes les dimensions, vous le réparez, ne laissant aucune trace de la détérioration passée. Ce sort peut réparer physiquement un objet mais pas son essence magique par exemple.  
+
+
 ---
 title: "Repassage"
 description: "Permet de défroisser des textiles."
@@ -14020,6 +14770,8 @@ classes:
 
 **enchantement**
  En passant la paume de sa main sur une étoffe ou un vêtement préalablement disposé sur une planche, l'enchanteur repasse, enlève les plis des vêtements froissés tout comme le ferait un fer à repasser. Il peut repasser tant qu'il maintient sa concentration.   
+
+
 ---
 title: "Repli expéditif"
 description: "Le PJ peut utiliser l'action <em>se précipiter</em> en action bonus."
@@ -14041,6 +14793,8 @@ classes:
 ---
 **Coût** : 2 points de Magie   
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
+
+
 ---
 title: "Représailles infernales"
 description: "Réaction qui inflige 3d6 dégâts à la cible qui vient de blesser le PJ."
@@ -14063,6 +14817,8 @@ classes:
 Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle commence à souffrir comme si elle se trouvait dans des flammes infernales. Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 3d6 dégâts de feu, sinon la moitié seulement.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus de Novice.
+
+
 ---
 title: "Répulsion/attirance"
 description: "Oblige ou empêche un type de créature de s'approcher d'une zone."
@@ -14096,6 +14852,8 @@ Si la cible blesse ou fait du mal à la créature affectée, cette dernière a d
 **Mettre un terme à l'effet**. Si une créature affectée termine son tour alors qu'elle ne se trouve pas à 18 mètres ou moins de la cible ou qu'elle ne peut pas la voir, elle a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, la cible n'exerce plus d'effet sur elle et elle comprend que le sentiment d'attirance ou de répulsion qu'elle ressentait était d'origine magique. De plus, une créature affectée par le sort a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse toutes les 24 heures tant que le sort persiste.
 
 Une créature qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'effet est immunisée contre lui pendant 1 minute, après quoi, il peut de nouveau l'affecter.
+
+
 ---
 title: Réservoir arcanique
 description: "fait croire à la victime qu’elle est suivie par quelqu’un"
@@ -14119,6 +14877,8 @@ source: "Elric"
 **Enchantement** e lanceur de sort enchante une gemme à 1000 PO minimum. Il a pour cela besoin de 360 po de matériel (encens, bougies...).  
 Rituel. Ce sort permet de stocker des réserves de points de magie. Ces réservoirs doivent être placés dans des lieux importants historiquement (ex : champ de bataille d’une guerre légendaire) ou géographiquement (ex : au dessus d’un gouffre ou sur une montagne sujette à des orages impressionnant). Le lanceur de sort doit utiliser une pierre précieuse valant 1000 PO comme réservoir et peut stocker un maximum de (1d6 X PM maximumX 0,5) de points de magie dans la pierre. Le sorcier doit incanter sur cette pierre pendant un événement singulier ayant un lien particulier avec le lieu choisi comme emplacement (ex : éclipse, orage, ouragan, équinoxe, pleine lune, nuit sans lune, etc.). Après ceci, le magicien doit laisser la pierre à l’endroit choisi où elle chargera 2 PM par jour. Une fois remplie, la pierre ne pourra plus être utilisée pour ce sort. Lorsque le réservoir tombe à 0 PM, la pierre tombe en poussière. Il est possible de posséder jusqu’à un maximum de réservoirs égaux au modificateur d’intelligence. Le sorcier peut cependant en avoir d’autres mais chaque réservoirs en plus soumettra le lanceur de sort à un jet de sauvegarde de sagesse difficile à chaque pleine lune. Au premier test raté, le magicien devient fou et donc gagne une folie dans le tableau des folies illimitées. Au bout de 5 tests ratés, le lanceur de sort développe une seconde personnalité qui le consumera totalement au dixième test raté.  
 **À plus haut niveau.** Sur ce sort, les emplacements de surcharges ne demandent pas de PM supplémentaires. Avec un emplacement de surcharge d’apprenti, la pierre doit avoir une valeur de 2500 PO et peut stocker (2d6 X PM maximum X 0,5). Avec un emplacement de surcharge d’adepte, la pierre doit avoir une valeur de 5000 PO et peut stocker (3d6 X PM  maximum X 0,5). Avec un emplacement de surcharge d’expert, la pierre doit avoir une valeur de 10 000 PO et peut stocker (4d6 X PM maximum X 0,. Avec un emplacement de surcharge de maître, la pierre doit avoir une valeur de 15 000 PO et peut stocker (5d6 X PM  maximum X 0,5).  
+
+
 ---
 title: "Résistance"
 description: "La cible peut ajouter 1d4 à un jet de sauvegarde."
@@ -14144,6 +14904,8 @@ classes:
 Le ritualiste enchante une petite cape miniature cousue à la main. Cet élément matériel permet ensuite de lancer au prix du sort et d’une action.  
 
 Vous touchez une créature consentante. Une fois avant la fin du sort, elle peut lancer 1d6 et ajouter le résultat obtenu à un unique [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de son choix. Elle peut lancer le dé avant ou après avoir fait son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Le sort se termine alors.
+
+
 ---
 title: "Respiration aquatique"
 description: "Jusqu'à dix cibles peuvent respirer sous l'eau."
@@ -14166,6 +14928,8 @@ classes:
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un petit roseau ou un brin de paille. Il a pour cela besoin de 30 po de matériel (encens, bougies...).   
 Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
+
+
 ---
 title: "Restauration inférieure"
 description: "Guérit maladies et états <em>aveuglé</em>, <em>assourdi</em>, <em>paralysé</em> et <em>empoisonné</em>."
@@ -14187,6 +14951,8 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi  
 Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) ou [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).
+
+
 ---
 title: "Restauration supérieure"
 description: "La cible est débarrassée d'un état néfaste."
@@ -14213,6 +14979,8 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 * Une malédiction, y compris l'harmonisation entre la cible et un objet magique maudit.
 * Une réduction sur l'une des valeurs de caractéristique de la cible.
 * Un effet réduisant le maximum de points d'action de la cible.
+
+
 ---
 title: "Rêve"
 description: "Permet de communiquer à distance avec la cible à travers les rêves."
@@ -14240,6 +15008,8 @@ Si la cible est endormie, le messager apparaît dans son rêve et peut discuter 
 Vous pouvez affubler le messager d'une apparence que la cible trouvera monstrueuse et terrifiante. Dans ce cas, le message qu'il transmet ne peut excéder dix mots et la cible est obligée d'effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle échoue, les échos de cette monstruosité fantasmagorique génèrent un cauchemar qui dure pendant tout le sommeil de la cible et l'empêche de bénéficier de sa période de repos. De plus, quand elle se réveille, elle subit 3d6 dégâts psychiques.
 
 Si vous êtes en possession d'un élément corporel de la cible, comme une mèche de cheveux, des rognures d'ongles ou autre, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
+
+
 ---
 title: "Revigorer"
 description: "Ramène à la vie, avec 1 PA, une créature morte dans l'heure."
@@ -14261,6 +15031,8 @@ classes:
 **Coût** : 6 points de Foi  
 **Enchantement** Le lanceur de sort enchante un diamant d'une valeur de 300 po, que le sort consume. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 Vous touchez une créature morte au cours de la dernière heure. Elle revient à la vie avec 1 point d'action. Ce sort ne ramène pas à la vie les créatures mortes de vieillesse et ne restaure pas les parties manquantes du corps.  
+
+
 ---
 title: "Rotation foetal"
 description: "Permet faire tourner le foetus dans le ventre de la mère."
@@ -14280,6 +15052,8 @@ classes:
 ---
 **Coût** : 8 points de Foi  
 En cas de mauvais positionnement du Foetus, le guérisseur peut le replacer en posant simplement sa main sur le ventre de la femme enceinte.   
+
+
 ---
 title: "Sacrement de l’arbre fruitier"
 description: "permet de bénir les arbres fruitiers de la grâce des forces de la nature"
@@ -14302,6 +15076,8 @@ classes:
 **Coût** : 16 points de Magie ou de Foi  
 Ce sort permet de bénir les arbres fruitiers de la grâce des forces de la nature. Ces arbres donneront par la suite des fruits plus sucrés ayant des vertus bienfaitrices pour ceux qui les mangeront. Outre le fait qu'ils se conservent trois fois plus longtemps, ces fruits redonnent de la vigueur aux voyageurs en doublant le bénéfice d'une période de repos qui fait suite à leur ingestion. Ce sort peut aussi affecter des graines qui bénéficieront ainsi d'une croissance deux fois plus rapide et qui donneront de tels fruits si ce sont des arbres fruitiers.   
 Les arbres ne peuvent plus se reproduire au delà d'une génération depuis l'arbre d'origine.  
+
+
 ---
 title: "Saignée"
 description: "Ouvre les veines de sa victime"
@@ -14325,6 +15101,8 @@ Le sorcier ouvre des plaies sur les deux poignets de sa cible. Celle-ci perd dé
 
 **À plus haut niveau**.  
 Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 1d6 par niveau au-delà du niveau Novice.  
+
+
 ---
 title: "Sanctification"
 description: "Protège une large zone contre certaines créatures et y ajoute un effet."
@@ -14371,6 +15149,8 @@ Deuxièmement, vous pouvez apposer un effet supplémentaire sur la zone. Choisis
 **Silence**. Aucun son n'émane de l'intérieur de la zone et aucun son ne peut y pénétrer.
 
 **Terreur**. Les créatures affectées sont <RT l="terrorisées" t="terrorise"/> tant qu'elles se trouvent dans la zone.
+
+
 ---
 title: "Sanctuaire"
 description: "Pour attaquer la cible, l'assaillant doit réussir un jet de sauvegarde de Sagesse."
@@ -14394,6 +15174,8 @@ classes:
 Vous protégez une créature à portée contre les attaques. Jusqu'à la fin du sort, toute créature qui vise la cible avec une attaque ou un sort néfaste doit d'abord effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le rate, elle doit choisir une nouvelle cible, sans quoi l'attaque ou le sort est perdu. Ce sort ne protège pas la cible contre les effets de zone.
 
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.
+
+
 ---
 title: "Sanctuaire privé"
 description: "Protège une zone contre la vision, la divination, etc."
@@ -14425,6 +15207,8 @@ Vous décidez de la sécurité offerte par le sort au moment de l'incantation en
 Si on lance ce sort tous les jours au même endroit pendant un an, ses effets deviennent permanents.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, vous pouvez augmenter la taille du cube de 30 mètres par niveau au-delà du niveau Apprenti. Ainsi, avec un emplacement de niveau Adepte, vous pouvez protéger une zone de 60 mètres de côté.
+
+
 ---
 title: "Sang du démon"
 description: "La cible subit 1d6 dégâts d'acide à chaque tour."
@@ -14448,6 +15232,8 @@ classes:
 Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez une attaque de sort au contact. Si elle est réussie, le sang de la cible devient corrosif, lui infligeant 1d6 dégâts d'acide à chacun de vos tours. Si la cible réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, les dégâts sont ignorés pour ce tour.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de sort de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Saut"
 description: "La cible voit sa distance de saut triplée."
@@ -14469,6 +15255,8 @@ classes:
 ---
 **Coût** : 2 points de Magie ou de Foi  
 Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
+
+
 ---
 title: "Scrutation"
 description: ""
@@ -14515,6 +15303,8 @@ Si la cible réussit son jet de sauvegarde, elle n'est pas affectée et vous ne 
 Si elle rate son jet, le sort crée un organe sensoriel [_invisible_](/gerer-la-sante-du-personnage/#invisible) dans un rayon de 3 mètres autour d'elle. Vous voyez et entendez à travers cet organe comme si vous vous trouviez à sa place. L'organe sensoriel se déplace avec la cible et reste dans un rayon de 3 mètres autour d'elle pendant toute la durée du sort. Une créature capable de voir les objets invisibles perçoit l'organe sensoriel comme un orbe lumineux de la taille de votre poing.
 
 Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vous avez déjà vu. L'organe sensoriel apparaît alors à cet endroit et n'en bouge pas.
+
+
 ---
 title: "Séchage"
 description: "Crée un courant d'air chaud pour sécher une zone."
@@ -14539,6 +15329,8 @@ classes:
 **Coût** : 1 point de Foi ou de Magie  
 En utilisant ce sort, si rien visuellement ne se passe, l'environnement se modifie cependant.
 Une petite brise chaude et sèche se déplace sur la zone, améliorant l'efficacité de séchage de tous les objets et êtres vivants dans la zone.
+
+
 ---
 title: "Sentinelle"
 description: "Recrute un petit animal comme gardien."
@@ -14559,6 +15351,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie  
 L'enchanteur désigne un animal, le plus souvent natif de l'écosystème présent, afin de lui garantir des chances de survie. Pour la durée du sort, celui-ci se promène dans une zone de 200 mètres autour de la demeure de l'enchanteur et vient le prévenir de toute intrusion.
+
+
 ---
 title: "Séquestration"
 description: "Rend un objet <em>invisible</em>, tant visuellement qu'à la divination."
@@ -14585,6 +15379,8 @@ Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet 
 Si la cible est une créature, elle entre en état d'animation suspendue. Le temps ne s'écoule plus pour elle et elle ne vieillit plus.
 
 Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce peut être ce que vous voulez, mais ce doit être visible ou se produire dans un rayon de 1,5 kilomètre autour de la cible. Par exemple, « _au bout de 1000 ans_ » ou « _quand la tarasque se réveillera_ ». Ce sort se termine également si la cible subit le moindre dégât.
+
+
 ---
 title: "Serviteur invisible"
 description: "Crée une force <em>invisible</em> capable d'effectuer des tâches simples."
@@ -14609,6 +15405,8 @@ Ce sort crée une force invisible, dépourvue de forme et d'intellect, mais capa
 Une fois à chacun de vos tours, vous pouvez utiliser une action bonus pour ordonner mentalement à votre serviteur de se déplacer d'un maximum de 4,50 mètres et d'interagir avec un objet. Le serviteur peut accomplir des tâches simples à la portée d'un domestique humain, comme aller chercher des affaires, faire le ménage, repriser, plier les habits, allumer la cheminée, servir les plats et la boisson, etc. Une fois que vous avez donné votre ordre, il fait de son mieux pour y obéir jusqu'à ce qu'il ait terminé. Il attend alors l'ordre suivant.
 
 Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plus de 18 mètres de vous, le sort se termine.
+
+
 ---
 title: "Serviteurs de fumée"
 description: "Invoque de petits êtres de fumée."
@@ -14630,6 +15428,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie  
 Ce sort permet d'invoquer des petits êtres de fumée, d'une trentaine de centimètres de haut. Le magicien peut en invoquer un par point de bonus d'Intelligence. Il doit y avoir des sources de fumée pour leur création, comme un feu dans l'âtre, une cuisinière ou de l'encens. Ces êtres ne sont pas véritablement intelligents mais possèdent un peu d'empathie et permettent au magicien de ne pas se sentir trop seul dans sa demeure. Ils n'ont pas grande utilité et sont plutôt des êtres artificiels dénués de conscience. Ils ne peuvent quitter le domicile car ce sont des petits esprits du foyer.  
+
+
 ---
 title: "Signature magique"
 description: " inscrire dans le monde vibratoire supérieure sa signature."
@@ -14653,6 +15453,8 @@ classes:
 **Coût** : 1 point de Magie    
 
 Le ritualiste inscrit dans le monde vibratoire supérieure sa signature qui peut-être ressentie par un autre ritualiste si il est mis en la présence de l’objet. Ce sort est souvent utilisé dans des cercles de magie ou entre Maître et disciple.  
+
+
 ---
 title: "Silence"
 description: "Sphère de 6 mètres sans aucun son. Créatures <em>assourdies</em>, pas de sort verbal."
@@ -14674,6 +15476,8 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi  
 Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphère de 6 mètres de rayon centrée sur un point de votre choix à portée, ni la traverser. Une créature ou un objet entièrement contenu dans la sphère sont immunisés contre les dégâts de tonnerre, et les créatures entièrement contenues dans la sphère sont <RT l="assourdies" t="assourdi"/>. Il est impossible de lancer un sort à composante verbale depuis la sphère.
+
+
 ---
 title: "Soin animalier"
 description: "Soigne les petites affections d'un animal."
@@ -14694,6 +15498,8 @@ classes:
 ---
 **Coût** : 1 point de Foi  
 Ce sort permet de traiter la plupart des petites affections liées à l'animal, comme les parasites, les irritations, les pertes de poils ou de plumes, les problèmes d'alimentation, etc... Il ne s'agit pas d'un sort à application médicale avec des effets miracles.  
+
+
 ---
 title: "Soin dentaire"
 description: "Soigne les problèmes dentaires."
@@ -14714,6 +15520,8 @@ classes:
 ---
 **Coût** : 1 point de Foi  
 En passant son index sur une dent, le magicien peut guérir une carie, adoucir les contours d'une dent cassée ou tout autre soin de "confort". Cela permet aussi de blanchir les dents.    
+
+
 ---
 title: "Soin dermique"
 description: "Soigne les affections de la peau."
@@ -14734,6 +15542,8 @@ classes:
 ---
 **Coût** : 12 point de Foi  
 Ce sort permet de réparer des imperfections de la peau comme les grains de beauté ou toute autre excroissance plus ou moins disgracieuse. Il suffit au Magicien de passer la main devant pour avoir de l'effet. Ce sort permet aussi de traiter les verrues et de nombreuses affections de la peau comme certaines mycoses.   
+
+
 ---
 title: "Soin des blessures"
 description: "Rend 1d6 + modificateur points d'action."
@@ -14756,6 +15566,8 @@ classes:
 La créature que vous touchez récupère un nombre de points d'action égal à 1d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, les soins augmentent de 1d6 par niveau au-delà du niveau de Novice.
+
+
 ---
 title: "Soin des blessures de groupe"
 description: "Rend 4d6+modificateur points d'action à six créatures proches."
@@ -14779,6 +15591,8 @@ classes:
 Une vague d'énergie curative s'étend depuis un point de votre choix situé à portée. Choisissez un maximum de six créatures présentes dans une sphère de 9 mètres de rayon centrée sur ce point. Chacune d'entre elles récupère un nombre de points d'action égal à 4d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants ni sur les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les soins augmentent de 2d6 par niveau au-delà du niveau d'Apprenti.  
+
+
 ---
 title: "Sombre tentation"
 description: "Le lanceur de sort essaie de corrompre l'âme de sa cible"
@@ -14807,6 +15621,8 @@ Par exemple, une cible qui à 12 en Sagesse, qui est loyal bon, et qui encaisse 
 
 **À plus haut niveau**.  
 Si vous lancez ce sort en utilisant des niveaux de surcharge, les dégâts augmentent de 1d6 par niveau au-delà du niveau Novice.  
+
+
 ---
 title: "Sommeil"
 description: "Rend inconscientes les cibles dans un rayon de 6 mètres."
@@ -14834,6 +15650,8 @@ Chaque créature affectée par le sort tombe [_inconsciente_](/gerer-la-sante-du
 Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent être <RT l="charmées" t="charme"/>.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, lancez 3d6 de plus par niveau au-delà du niveau de Novice.
+
+
 ---
 title: Son de la pierre
 description: "Variable voir description ci-dessous"
@@ -14908,6 +15726,8 @@ Type de sol frappé                                                             
 
 
 **Appel sableux** est la deuxième variante de ce sort. Cette variante a été inventée par un sorcier qui s’était perdu dans les déserts Ashkémith. Il suffit de frapper le sable avec l’arme gravée, et alors une vibration se répandra sur 10 lieux de rayon/minutes pour un maximum de 24 heures. Le sorcier peut aussi accompagner la vibration par une phrase. Plus la personne qui sent la vibration est loin du foyer du sort, plus elle aura du mal a comprendre la phrase. Il ne faut pas de jet pour pouvoir retrouver le point où a été lancé le sort.  
+
+
 ---
 title: "Souffle de messager"
 description: "envoyer un message qui sera transporté par les vents"
@@ -14928,6 +15748,8 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi  
 Ce sort permet d'envoyer un message qui sera transporté par les vents jusqu'à un endroit choisi par l'enchanteur. Les vents délivrent leur message automatiquement et toute personne présente à l'endroit choisi entendra le message. Le vent doit physiquement atteindre le point d’arrivée et peut donc mettre plusieurs jours à délivrer le message. Peu importe si une personne et présence, le message est délivré au moment de l’arrivée du vent. Plus la distance est grande, plus la délivrance est hasardeuse. Si la durée n'est pas suffisante pour atteindre la cible, le message se perd. Les vents suivent les courants d'air et ne se déplacent donc pas forcément en ligne droite.    
+
+
 ---
 title: "Souhait"
 description: "Modifie les fondements de la réalité ou réplique n'importe quel sort."
@@ -14961,6 +15783,8 @@ Sinon, vous pouvez créer l'un des effets suivants, au choix.
 Ce sort peut également vous permettre d'accomplir des exploits dépassant le cadre des exemples précédents. Formulez votre souhait à votre MJ de la manière la plus précise possible. Le MJ dispose d'une grande liberté pour gérer ce genre de cas. Plus le souhait est important, plus il y a de chances que quelque chose tourne mal. Le sort peut tout simplement échouer, avoir des effets partiels seulement ou s'accompagner de conséquences inattendues en raison de la manière dont vous l'avez formulé. 
 
 Le stress lié à l'incantation d'un _souhait_ pour faire autre chose que répliquer un autre sort vous affaiblit grandement. À tel point que vous subissez 2d6 dégâts nécrotiques par niveau de sort à chaque fois que vous lancez un autre sort par la suite, et ce jusqu'à ce que vous ayez terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il est absolument impossible de réduire ces dégâts ou de les empêcher, de quelque manière que ce soit. De plus, votre Force tombe à 3 (si elle n'est pas déjà de 3 ou moins) pendant 2d6  jours. À chaque fois que vous passez une de ces journées à vous reposer et ne rien faire de plus que des activités légères, le temps de récupération qui vous reste diminue de 2 jours.
+
+
 ---
 title: "Strangulation"
 description: "Le PJ étrangle une cible à distance, lui inflige 1d6 dégâts et l'<em>entrave</em>."
@@ -14984,6 +15808,8 @@ classes:
 Vous tendez le bras en direction de votre cible et, de votre main, vous mimez son étranglement. Faites une attaque de sort à distance. En cas de réussite, la cible subit 1d6 points de dégâts contondants et elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force ou être [_entravée_](/gerer-la-sante-du-personnage/#entrave). Si le [jet d'attaque](/combattre/#jets-d-attaque) initial était un succès, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement les mêmes dégâts et l'obliger à faire un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Si vous faites quoi que ce soit d'autre (vous pouvez toutefois parler), le sort prend fin. Le sort prend aussi fin si la cible passe hors de portée ou en dehors de votre champ de vision.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple, vous infligez 1d6 points de dégât par round. Vous augmentez les dégâts de 1d6 supplémentaires par niveaux de plus (jusqu'à 5d6 au niveau Maître).
+
+
 ---
 title: "Suggestion"
 description: "Impose la conduite à suivre à la cible."
@@ -15011,6 +15837,8 @@ La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#je
 Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pendant la durée du sort. Par exemple, vous pouvez suggérer à un chevalier de donner son cheval de guerre au premier mendiant qu'il rencontre. Si les conditions ne sont pas remplies avant la fin du sort, la cible n'accomplit pas l'action.
 
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine.
+
+
 ---
 title: "Suggestion de groupe"
 description: "Les cibles suivent les ordres du PJ pendant 24 heures."
@@ -15040,6 +15868,8 @@ Vous pouvez spécifier des conditions qui déclenchent une conduite spéciale pe
 Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort, le sort se termine pour elle.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, la durée du sort est de 10 jours. Si vous utilisez un emplacement de niveau Expert, elle est de 30 jours et si vous utilisez un emplacement de niveau Maître, elle est de 1 an et 1 jour.
+
+
 ---
 title: "Suicide"
 description: "La cible tente de se suicider"
@@ -15060,6 +15890,8 @@ classes:
 ---
 **Coût** : 16 points de Magie  
 La cible qui subit ce sort reçoit un tel sentiment de désespoir qu'elle tente immédiatement de se suicider par tous les moyens possibles durant toute la durée du sort. Il est possible de résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.  
+
+
 ---
 title: "Symbole"
 description: "Crée un glyphe piégé qui affecte tous ceux qui le lisent."
@@ -15107,6 +15939,8 @@ Lorsque vous dessinez le glyphe, vous devez choisir l'une des options suivantes.
 **Mort**. Chaque cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 10d10 dégâts nécrotiques, les autres la moitié seulement.
 
 **Sommeil**. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou tomber [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) pendant 10 minutes. Une telle créature se réveille si elle subit des dégâts ou si quelqu'un utilise son action pour la réveiller en la secouant ou la giflant.
+
+
 ---
 title: "Teinte"
 description: "Permet de modifier la couleur dans des teintes naturelles"
@@ -15128,6 +15962,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie  
 L'enchanteur peut teindre des objets ou des zones et parties de corps comme les cheveux, les yeux, la peau, (pour les ongles, voir [Manucure](/grimoire/manucure) etc... Les teintes doivent exister dans la nature (pas de cheveux bleus ou rouges vifs). Ce sort permet de faire des tatouages temporaire sur le magicien à des talents d'artistes.   
+
+
 ---
 title: "Tempête de grêle"
 description: "Invoque une tempête qui inflige des dégâts contondants et de froid."
@@ -15153,6 +15989,8 @@ Des grêlons durs comme de la pierre s'abattent dans un cylindre de 6 mètres de
 Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre prochain tour.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Apprenti ou supérieur, les dégâts contondants augmentent de 1d6 par niveau au-delà du niveau de Disciple.
+
+
 ---
 title: "Tempête de neige"
 description: "Invoque une tempête qui fait chuter les créatures."
@@ -15178,6 +16016,8 @@ Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un
 Le sol de la zone est couvert d'une couche de verglas si glissante que le terrain devient difficile. Quand une créature entre dans la zone d'effet pour la première fois de son tour ou y débute son tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 Si une créature se concentre dans la zone d'effet du sort, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort, ou perdre sa concentration.
+
+
 ---
 title: "Tempête de sable"
 description: "Crée une tempête de sable mouvante qui inflige 8d6 dégâts."
@@ -15201,6 +16041,8 @@ classes:
 Vous créez une gigantesque tempête de sable qui balaye tout sur son passage. La vague de sable mesure 150 mètres de large, 24 mètres de long et 24 mètres de haut. Elle débute au point désigné situé à portée puis se déplace à une vitesse de 24 mètres par round dans la direction de votre choix. Une fois la direction fixée, il n'est plus possible d'en modifier la course. La vague inflige 8d6 dégâts contondants à toute créature qui se trouve sur son passage. Chaque créature affectée a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force pour réduire les dégâts de moitié. Les créatures de taille G ou inférieure qui le ratent sont emportées dans les airs et subissent 3d6 dégâts supplémentaires (non affectés par le résultat du jet de sauvegarde), tandis que les créatures de taille TG ou supérieure tombent [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Tant qu'une créature se trouve dans la zone d'effet de la tempête, elle est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) et elle bénéficie d'un abri important.
 
 Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dégâts supplémentaires (qui sont divisés par deux en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force réussi).
+
+
 ---
 title: "Tempête vengeresse"
 description: "Crée une violente tempête dont les effets évoluent de round en round."
@@ -15231,6 +16073,8 @@ De menaçantes nuées orageuses se forment en un point situé dans votre champ d
 **Round 4**. La grêle se met à tomber. Chaque créature située sous le nuage subit 2d6 dégâts contondants.
 
 **Rounds 5 à 10**. Des bourrasques et une pluie glacée balaient la zone sous le nuage et la transforment en terrain difficile où la visibilité est nulle. Chaque créature qui s'y trouve subit 1d6 dégâts de froid. Il est impossible d'effectuer une attaque avec une arme à distance dans la zone. Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit de se concentrer sur un sort. Enfin, des bourrasques de vent fort (de 30 à 75 kilomètres par heure) dispersent automatiquement le brouillard, la brume et les phénomènes similaires stagnant dans la zone, qu'ils soient d'origine ordinaire ou magique.
+
+
 ---
 title: "Ténèbres"
 description: "Sphère de 4,50 mètres plongée dans le noir complet."
@@ -15256,6 +16100,8 @@ Des ténèbres magiques se répandent depuis un point de votre choix situé à p
 Si le point que vous avez choisi est un objet en votre possession ou un objet qui n'est ni porté ni transporté par autrui, les ténèbres émanent de l'objet et se déplacent avec lui. Il suffit de recouvrir complètement l'objet affecté avec un objet opaque, comme un bol ou un heaume, pour bloquer les ténèbres.
 
 Si une partie de la zone affectée par ce sort chevauche une zone de lumière issue d'un sort de niveau 2 ou moins, elle dissipe le sort de lumière.
+
+
 ---
 title: "Tentacules noires"
 description: "Crée tentacules de fumée."
@@ -15279,6 +16125,8 @@ Le sorcier a besoin d'une source conséquente de feu, comme un gros brasero par 
 Celles-ci frappent avec un test de « combat sans arme » égal au score de compétence d'arcanes du sorcier. Chaque tentacule inflige 1D6 blessures et ignore complètement les protections non magiques.  
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent chacun de 1d6 par niveau au-delà du niveau d'Apprenti.
+
+
 ---
 title: "Texte illusoire"
 description: "Le véritable texte écrit n'est lisible que par les personnes désignées."
@@ -15304,6 +16152,8 @@ Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'éc
 À vos yeux et à ceux de toutes les créatures que vous désignez lors de l'incantation, l'écriture semble normale, de votre main, et transmet le message que vous aviez en tête en rédigeant le texte. Pour les autres personnes, vos écrits semblent appartenir à une langue inconnue ou magique complètement inintelligible, ou alors ils transmettent un message complètement différent de la réalité, rédigé d'une main qui n'est pas la vôtre et dans une autre langue de votre connaissance.  
 
 Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original aussi. Une créature dotée de vision parfaite est capable de lire le message original.  
+
+
 ---
 title: "Thaumaturgie"
 description: "Permet de créer un effet magique mineur à choisir dans une liste."
@@ -15335,6 +16185,8 @@ Vous créez une manifestation merveilleuse mineure ou un signe de puissance surn
 * Vous modifiez l'apparence de vos yeux pendant 1 minute.
 
 Si vous lancez ce sort à plusieurs reprises, vous ne pouvez avoir que trois effets d'une minute actifs à la fois. Vous pouvez révoquer un tel effet par une action.
+
+
 ---
 title: "Tonte"
 description: "Permet de couper l'herbe."
@@ -15357,6 +16209,8 @@ classes:
 **Coût** : 1 point de Magie
 Ce sort permet d'entretenir son jardin. L'enchanteur se déplace et la zone est fauchée par un souffle de vent rasant qui ne coupe que les végétaux.
 L'enchanteur peut même décider que des plantes ne soient pas coupées, il peut, par exemple, épargner une tulipe en fleur au milieu de son gazon.
+
+
 ---
 title: "Torche"
 description: "Transforme une branche en torche"
@@ -15381,6 +16235,8 @@ source: "Elric"
 **Enchantement** Le lanceur de sort utilise de la sève qu'il a prélevé sur un résineux. Il a pour cela besoin de 5 po de matériel (encens, bougies...). La sève se conditionne en bâtonnet semblable à de la colophane. Un enchantement permet d'obtenir 2d6 doses.
 
 Le lanceurt de sort incante sur de la sève avant de l'appliquer sur un morceau de bois choisi. Le morceau de bois devient alors une vraie torche. Les propriétés magiques de la sève s’annule au bout de deux jours. Le sorcier peut se concentrer sur un maximum de 24 torches, mais alors la durée du sort est divisée par le nombre de torche avec un minimum de 15 minutes.
+
+
 ---
 title: Torche divine
 description: "Augmente l'effet d'une torche"
@@ -15406,6 +16262,8 @@ source: "Elric"
 
 Le sorcier doit préparer puis incanter pendant 2 heures sur un onguent à base de poudre à canon et de fluor. Cette onguent peut être conservé pendant un mois au maximum avant de devoir relancer le sort.Le sorcier doit par la suite appliquer cette onguent sur une torche, ce qui doublera sa zone de lumière vive et sa zone de lumière faible. Ce sort éblouie instantanément toutes créatures vivant dans l’obscurité sans jet de sauvegarde. Cette torche a les mêmes inconvénients qu’une simple torche mais elle peut être toute fois combinée avec le sort « torche ».  
 **À plus haut niveau.** Pour chaque emplacement de surcharge, la zone de lumière vive est augmentée de 6 mètres et la zone de faible lumière de 6 mètres elle aussi.  
+
+
 ---
 title: "Transpercer"
 description: "Le projectile du PJ inflige 1d6 dégâts à chaque round."
@@ -15426,6 +16284,8 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 La prochaine fois que vous blessez une créature avec une arme à distance qui inflige des dégâts perçants ou tranchants, l'arme reste fichée dans le corps de votre cible. Elle lui inflige 1d6 dégâts supplémentaires à chacun de vos tours suivants jusqu'à la fin du sort, ou jusqu'à ce qu'elle utilise son action pour retirer l'arme. Retirer l'arme lui inflige 2d6 dégâts, ou la moitié si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité.
+
+
 ---
 title: "Transport végétal"
 description: "Crée un lien entre deux plantes qui permet le déplacement."
@@ -15446,6 +16306,8 @@ classes:
 ---
 **Coût** : 12 points de Foi  
 Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure située à portée et une autre plante de mêmes dimensions, située à n'importe quelle distance mais sur le même plan d'existence. Vous devez impérativement avoir vu ou touché la plante de destination au moins une fois auparavant. Pendant toute la durée du sort, Seul vous pouvez entrer par la plante de départ et ressortir par celle d'arrivée en dépensant 1,50 mètre de déplacement.
+
+
 ---
 title: "Tremblement de terre"
 description: "Séisme qui ébranle les créatures et endommage les bâtiments."
@@ -15479,6 +16341,8 @@ Le sort a des effets supplémentaires selon le terrain affecté. C'est au MJ de 
 Une structure s'effondre automatiquement si une fissure s'ouvre sous elle (voir plus loin).
 
 **Structures**. Les secousses infligent 50 dégâts contondants à toute structure en contact avec le sol au moment où vous lancez le sort et au début de chacun de vos tours jusqu'à la fin du sort. Si l'une d'elles tombe à 0 point de vie, elle s'effondre et blesse peut-être les créatures voisines. Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une distance égale ou inférieure à la moitié de la hauteur de ce bâtiment, doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 5d6 dégâts contondants, elle tombe [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et elle est ensevelie sous les décombres. Il faut réussir un test de Force (Athlétisme) DD 20 via une action pour y échapper. Le MJ peut modifier le DD en fonction de la nature des décombres. Si la créature réussit son jet de sauvegarde, elle subit seulement la moitié des dégâts, ne tombe pas [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et n'est pas ensevelie.
+
+
 ---
 title: "Tromperie"
 description: "Le PJ est <em>invisible</em> et crée un double illusoire de lui-même."
@@ -15504,6 +16368,8 @@ Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) à l'instan
 Vous pouvez utiliser votre action pour déplacer votre double d'un maximum de deux fois votre vitesse et le faire bouger, parler et se comporter comme bon vous semble.
 
 Vous pouvez voir par les yeux et entendre par les oreilles de votre double comme si vous vous trouviez à son emplacement. À chacun de vos tours, vous pouvez utiliser une action bonus pour passer d'une perception via ses sens à une perception via les vôtres ou inversement. Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à ce qui se passe directement autour de vous.
+
+
 ---
 title: "Trouver les pièges"
 description: "Le PJ perçoit la présence de pièges."
@@ -15526,6 +16392,8 @@ classes:
 Vous percevez la présence de tout piège se trouvant à portée et dans votre champ de vision. Concernant ce sort, le terme de piège désigne toute chose qui inflige soudainement ou de façon inattendue un effet considéré comme néfaste ou indésirable et que son créateur a conçu dans ce but. Ainsi, le sort prévient si une zone est affectée par une alarme, un glyphe de garde ou une fosse piégée mécanique, mais il ne révèle pas une faiblesse naturelle dans un plancher, un plafond instable ou une doline cachée.
 
 Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vous donne une idée générale de la nature du danger qu'il représente.
+
+
 ---
 title: "Trouver un chemin"
 description: "Permet de déterminer le chemin le plus court vers une destination."
@@ -15551,6 +16419,8 @@ classes:
 Ce sort vous permet de trouver le chemin physique le plus direct et le plus court vers un endroit fixe spécifique avec lequel vous êtes familier et qui se trouve sur le même plan d'existence que vous. Le sort échoue si vous choisissez une destination située sur un autre plan d'existence, une destination mouvante (comme une forteresse mobile) ou une destination n'ayant rien de spécifique (comme l'antre d'un dragon vert).  
 
 Tant que le sort persiste et que vous êtes sur le même plan d'existence que votre destination, vous savez dans quelle direction et à quelle distance elle se trouve. Tant que vous faites route vers votre destination, à chaque fois que vous avez le choix entre plusieurs itinéraires, vous déterminez automatiquement celui qui sera le plus court et le plus direct (mais pas forcément le plus sûr).  
+
+
 ---
 title: "Trouver une monture"
 description: "Invoque une fidèle monture hors du commun."
@@ -15579,6 +16449,8 @@ Quand la monture tombe à 0 point d'action, elle meurt. Vous pouvez la renvoyer 
 Vous pouvez communiquer par télépathie avec votre monture tant qu'elle se trouve dans un rayon de 1,50 kilomètre.
 
 Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vous pouvez libérer la monture du lien quand vous le désirez, par une action.
+
+
 ---
 title: "Tuer"
 description: "Une mort lente et douloureuse selon la volonté du sorcier."
@@ -15601,6 +16473,8 @@ classes:
 Le sorcier immobilise sa victime et exerce une pression mentale pour lui écraser la cage thoracique. La cible doit résister avec un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si la cible réussi son test elle ne subit qu'1d6 ooints de dégâts de force. Dans le as contraire, le premier round, la cible est immobilisée alors que le sorcier tend sa main vers elle, la paume ouverte, elle subit 1d6 dégâts de force.. Le deuxième round, il la soulève sur la pointe des pieds et la maintient tout le round ainsi, lui infligeant 2d6 dégâts de force.   
 À partir du troisième round, le sorcier ferme le poing crispé en direction de sa victime et celle-ci commence à se faire écraser. Elle subit entre 1d6 et 3D6 dégâts de force selon le souhait du sorcier. Il peut donc tuer une personne valide en quelques rounds. Le sorcier peut, par sadisme, décider de n'infliger donc qu'1d6 dégâts de force par round. La cible qui a raté son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, ne peut plus rien faire et se retrouve complètement à la merci du sorcier.  
 Seuls des intervenants extérieurs peuvent la sauver.
+
+
 ---
 title: "Tueur mental"
 description: "Attaque psychique devastatrice."
@@ -15622,6 +16496,8 @@ classes:
 **Coût** : 16 points de Magie  
 
 Le sorcier envoie une onde de choc directement dans la boîte crânienne de son adversaire. Celui-ci doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. En cas d'échec, la boîte crânienne éclate et c'est la mort. En cas de réussite, la cible encaisse 10d6 de dégât mental. Ce sort coûte un niveau de fatigue.
+
+
 ---
 title: "Tueur sonique"
 description: "Le sorcier crie et déclenche une vague de force."
@@ -15644,6 +16520,8 @@ Le sorcier lance un crie qui crée une onde de choc visible dans l'air par un ef
 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, le sort cause 1d6 de dégâts supplémentaire au-delà du niveau de Disciple.  
+
+
 ---
 title: "Vague tonnante"
 description: "Les cibles subissent 3d6 dégâts et sont repoussées de 3 mètres."
@@ -15669,6 +16547,8 @@ Une vague de force tonnante émane de vous. Chaque créature située dans un cub
 De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englobés dans la zone affectée sont automatiquement éloignés de 3 mètres à l'opposé de vous. Le sort émet un grondement de tonnerre qui s'entend dans un rayon de 90 mètres.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du premier.  
+
+
 ---
 title: "Verrou magique"
 description: "Bloque l'ouverture d'une porte, une fenêtre, un portail, un coffre, etc."
@@ -15691,6 +16571,8 @@ classes:
 Vous touchez une ouverture fermée, comme une porte, une fenêtre, un portail, un coffre ou autre. Elle se verrouille alors pour toute la durée du sort. Vous et toutes les créatures désignées lors de l'incantation du sort pouvez ouvrir l'ouverture normalement. Vous pouvez aussi définir un mot de passe qui, une fois prononcé dans un rayon de 1,50 mètre autour de l'objet fermé, dissipe le sort pendant 1 minute. Sinon, impossible d'ouvrir l'objet à moins de le briser ou de dissiper ou supprimer le sort. Un sort de <ST s="deblocage"/> supprime le _verrou magique_ pendant 10 minutes.
 
 Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser ou à ouvrir de force : le DD pour le briser ou crocheter ses éventuelles serrures augmente de 10.
+
+
 ---
 title: "Viser juste"
 description: "Le PJ obtient un <em>avantage</em> sur son prochain jet d'attaque."
@@ -15712,6 +16594,8 @@ classes:
 ---
 **Coût** : 1 point de Magie
 Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous donne un bref aperçu de ses défenses. À votre prochain tour, vous avez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de votre premier [jet d'attaque](/combattre/#jets-d-attaque) contre elle, à condition que le sort ne se soit pas terminé avant.
+
+
 ---
 title: "Vision animale"
 description: "Augmente les sens"
@@ -15742,6 +16626,8 @@ Le lanceur de sort doit ensuite appliquer cet onguent sur ses yeux, ses oreilles
 	|1-2|les tests de compétences liés à la sagesse inclus nature et exclus dressage et médecine sont baissés d’un cran de difficulté. (les test de difficulté facile sont considérés comme acquis).|
 	|3-4|le joueur obtient un avantage à tout ses jets de sagesse, inclus nature et exclus dressage et médecine.|
 	|5-6| le joueur obtient un bonus de +4 à tout ses jets de sagesse, inclus nature et exclus dressage et médecine.|
+
+
 ---
 title: "Vision dans le noir"
 description: "La cible bénéficie d'une vision dans le noir à 18 mètres."
@@ -15763,6 +16649,8 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi  
 Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
+
+
 ---
 title: "Vision suprême"
 description: "La cible repère les portes cachées par magie et voit le plan éthéré."
@@ -15785,6 +16673,8 @@ classes:
 **Coût** : 12 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un collyre coûtant 25 po, fait de poudre de champignon, de safran et de graisse, que le sort consume. Il a pour cela besoin de 60 po de matériel (encens, bougies...).     
 Grâce à ce sort, la créature consentante que vous touchez est capable de voir les choses telles qu'elles sont réellement. Pendant toute la durée du sort, la cible bénéficie de vision parfaite, repère les portes dérobées cachées par magie et voit le plan éthéré, tout cela dans un rayon de 36 mètres.  
+
+
 ---
 title: "Vitalité"
 description: "Jusqu'à six cibles récupèrent 1 point de vie par round."
@@ -15807,6 +16697,8 @@ classes:
 Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ de vision, récupèrent 1 point d'action par round jusqu'à la fin du sort.
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau Apprenti ou supérieur, vous augmentez le nombre de points d'action récupéré par round de 1 point par niveau au-delà du niveau Disciple.
+
+
 ---
 title: "Voeux de contraception"
 description: "Enchante un objet qui agit comme un contraceptif"
@@ -15830,6 +16722,8 @@ source: "Elric"
 **Coût** : 4 point de Magie ou de Foi  
 
 Le sorcier enchante temporairement un petit bracelet de cuivre oxydé que quelqu’un porte au poignet. La personne qui porte le bracelet ne doit pas enlever le bracelet durant tout le sort sous risque de le briser. Ce sort permet d’éviter d’engrosser ou de se faire engrosser durant une période de 12 heures.  
+
+
 ---
 title: "Voir l'invisible"
 description: "Le PJ peut voir les créatures et objets <em>invisibles</em> et observer le plan éthéré."
@@ -15851,6 +16745,8 @@ classes:
 ---
 **Coût** : 4 points de Magie  
 Pendant toute la durée du sort, vous voyez les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
+
+
 ---
 title: "Zone de vérité"
 description: "Sphère de 4,50 mètres dans laquelle il est impossible de mentir."
@@ -15874,3 +16770,5 @@ classes:
 Vous créez une zone magique capable de protéger contre la duplicité, de la forme d'une sphère de 4,50 mètres de rayon centrée sur un point de votre choix situé à portée. Jusqu'à la fin du sort, une créature qui pénètre dans la sphère pour la première fois de son tour ou y commence son tour doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Si elle échoue, elle ne peut pas mentir délibérément tant qu'elle reste dans la zone du sort. Vous savez si chaque créature présente a réussi ou raté son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).  
 
 Une créature affectée est consciente du sort qui la limite et peut donc soigneusement éviter de répondre aux questions qui susciteraient normalement un mensonge de sa part. Une telle créature peut rester évasive dans ses réponses, tant qu'elle reste dans les limites de la vérité.  
+
+

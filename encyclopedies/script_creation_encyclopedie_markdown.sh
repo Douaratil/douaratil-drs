@@ -25,9 +25,11 @@ do
 			for dossier in ${source}${chapitre:${#prefixe_liste}}/*
 			do
 				cat "$source${chapitre:${#prefixe_liste}}${dossier:(${#source}+${#chapitre}-${#prefixe_liste})}/README.md" >> ${livre}.md
+				echo -e "\n" >> ${livre}.md
 			done
 		else
 			cat "${source}${chapitre}/README.md" >> ${livre}.md
+			echo -e "\n" >> ${livre}.md
 		fi
 	done
 
