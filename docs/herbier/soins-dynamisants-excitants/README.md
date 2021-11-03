@@ -265,7 +265,7 @@ Valeur : 100 pièces d'or la dose.
 
 ## Yaveth
 **Description**  
-Le Yaveth est ne petit arbuste qui pousse dans les zones tempérées et océaniques. La consommation de son fruit a la propriété de dynamiser son utilisateur.
+Le Yaveth est un petit arbuste qui pousse dans les zones tempérées et océaniques. La consommation de son fruit a la propriété de dynamiser son utilisateur.
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et océaniques:

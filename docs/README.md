@@ -24,6 +24,7 @@ les modifications et ajouts sur le site:
 - Ajout du [Rawekh](/herbier/soins-dynamisants-excitants/#rawekh), un parasite nodulaire d’écorce qui pousse dans les zones tempérées et forestières.
 - Ajout du [Touroulh](/herbier/soins-dynamisants-excitants/#touroulh), petite plante qui pousse dans les zones tempérées et forestières.
 - Ajout du [Vicalmyrh](/herbier/soins-dynamisants-excitants/#vicalmyrh), petite plante qui pousse dans les zones tempérées et forestières de conifères.
+- Ajout du [Yaveth](/herbier/soins-dynamisants-excitants/#yaveth), petit arbuste qui pousse dans les zones tempérées et océaniques. 
 
 Bon jeu.  
 §§§ .text-right
