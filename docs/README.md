@@ -18,7 +18,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 les modifications et ajouts sur le site:
 
-- Transferts de plantes dans la section des plantes [Utilisations Générales](/herbier/sutilisations-gemnrales), un arbuste qui pousse dans les zones arides au bord des océans.  
+- Transferts de plantes dans la section des plantes [Utilisations Générales](/herbier/utilisations-generales), un arbuste qui pousse dans les zones arides au bord des océans.  
 - Ajout du [Myhnerre](/herbier/soins-dynamisants-excitants/#myhnerre), un arbuste qui pousse dans les zones froides et montagneuses.
 - Ajout de l'[Erhegelth](/herbier/soins-dynamisants-excitants/#erhegelth), un arbuste qui pousse dans les zones tempérées et montagneuses.
 - Ajout du [Rawekh](/herbier/soins-dynamisants-excitants/#rawekh), un parasite nodulaire d’écorce qui pousse dans les zones tempérées et forestières.
