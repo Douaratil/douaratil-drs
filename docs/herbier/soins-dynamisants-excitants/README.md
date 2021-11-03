@@ -254,7 +254,7 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée et fore
 **Eté** :DD 28   
 **Automne** :DD 28   
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d’argent la dose.  
+**Valeur** : 10 pièces d’argent la dose.  
 **Facteur d'addiction** :  Irrésistible(6)  
 **Facteur d’intoxication**:(4)  
 
@@ -262,3 +262,23 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 Le fruit de Vicalmyrh est utilisé pour ses vertus curatives.  
 *mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 fruits (doses) de Vicalmyrh pour constituer une dose de dynamisant. Son ingestion redonne immédiatement la totalité des PA jusqu’à concurrence de 150.   
 Valeur : 100 pièces d'or la dose.  
+
+## Yaveth
+**Description**  
+Le Yaveth est ne petit arbuste qui pousse dans les zones tempérées et océaniques. La consommation de son fruit a la propriété de dynamiser son utilisateur.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océaniques:
+**Hivers** :DD 22
+**Printemps** :DD 22  
+**Eté** :DD 22   
+**Automne** :DD 22   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 5 pièces d'or la dose.  
+**Facteur d'addiction** :  Moyen(3)  
+**Facteur d’intoxication**:(2)  
+
+**Utilisation**  
+Le fruit de Yaveth est utilisé pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 fruits (doses) de Yaveth pour constituer une dose de dynamisant. Son ingestion redonne immédiatement la 7d6 PA.
+Valeur : 48 pièces d'or la dose.  
