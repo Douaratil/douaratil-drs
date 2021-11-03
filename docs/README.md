@@ -19,12 +19,12 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 les modifications et ajouts sur le site:
 
 - Transferts de plantes dans la section des plantes [Utilisations Générales](/herbier/sutilisations-gemnrales), un arbuste qui pousse dans les zones arides au bord des océans.  
-- Ajout de du [Myhnerre](/herbier/soins-dynamisants-excitants/#myhnerre), un arbuste qui pousse dans les zones froides et montagneuses.
+- Ajout du [Myhnerre](/herbier/soins-dynamisants-excitants/#myhnerre), un arbuste qui pousse dans les zones froides et montagneuses.
 - Ajout de l'[Erhegelth](/herbier/soins-dynamisants-excitants/#erhegelth), un arbuste qui pousse dans les zones tempérées et montagneuses.
 - Ajout du [Rawekh](/herbier/soins-dynamisants-excitants/#rawekh), un parasite nodulaire d’écorce qui pousse dans les zones tempérées et forestières.
 - Ajout du [Touroulh](/herbier/soins-dynamisants-excitants/#touroulh), petite plante qui pousse dans les zones tempérées et forestières.
 - Ajout du [Vicalmyrh](/herbier/soins-dynamisants-excitants/#vicalmyrh), petite plante qui pousse dans les zones tempérées et forestières de conifères.
-- Ajout du [Yaveth](/herbier/soins-dynamisants-excitants/#yaveth), petit arbuste qui pousse dans les zones tempérées et océaniques. 
+- Ajout du [Yaveth](/herbier/soins-dynamisants-excitants/#yaveth), petit arbuste qui pousse dans les zones tempérées et océaniques.
 
 Bon jeu.  
 §§§ .text-right
