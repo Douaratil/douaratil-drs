@@ -14,11 +14,29 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 54
+
+Les plantes dynamisantes sont terminées, passons à celles qui ont une utilisation plus générales:   
+
+- Ajout de l'[Akhase](/herbier/utilisations-generales/#akhase), une plante de grande taille qui pousse dans les zones tempérées et herbeuses parmis les hautes herbes.  
+- Ajout de d'[Alenas](/herbier/utilisations-generales/#alenas), une plante de petite taille qui pousse dans les zones tempérées sous des forêts de conifères.  
+- Ajout de d'[Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.  
+- Ajout de du [Dherene](/herbier/utilisations-generales/#dherene), un arbre qui pousse dans les zones tempérées et océaniques.  
+
+- Ajout de du [Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.
+
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 4 novembre 2021_
+§§§   
+
 ## Mise à jour 53
 
 les modifications et ajouts sur le site:
 
-- Transferts de plantes dans la section des plantes [Utilisations Générales](/herbier/utilisations-generales), un arbuste qui pousse dans les zones arides au bord des océans.  
+- Transferts de plantes dans la section des plantes [Utilisations Générales](/herbier/utilisations-generales).
 - Ajout du [Myhnerre](/herbier/soins-dynamisants-excitants/#myhnerre), un arbuste qui pousse dans les zones froides et montagneuses.
 - Ajout de l'[Erhegelth](/herbier/soins-dynamisants-excitants/#erhegelth), un arbuste qui pousse dans les zones tempérées et montagneuses.
 - Ajout du [Rawekh](/herbier/soins-dynamisants-excitants/#rawekh), un parasite nodulaire d’écorce qui pousse dans les zones tempérées et forestières.

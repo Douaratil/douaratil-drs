@@ -10,23 +10,64 @@ Note: Le facteur d'intoxication est à titre d'information. Normalement, Certain
 
 ## Akhase
 **Description**  
-L'Aquash est une plante de grande taille qui pousse dans les zones tempérées et herbeuses. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.
+L'Akhase est une plante de grande taille qui pousse dans les zones tempérées et herbeuses parmis les hautes herbes. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et océaniques:
-**Hivers** :DD 22
-**Printemps** :DD 22  
-**Eté** :DD 22   
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse parmis les hautes herbes:
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
 **Automne** :DD 22   
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 5 pièces d'or la dose.  
+**Valeur** : 1 pièces d'or la dose.  
 **Facteur d'addiction** :  Moyen(3)  
 **Facteur d’intoxication**:(2)  
 
 **Utilisation**  
-Le fruit de Yaveth est utilisé pour ses vertus curatives.  
-*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 fruits (doses) de Yaveth pour constituer une dose de dynamisant. Son ingestion redonne immédiatement la 7d6 PA.
-Valeur : 48 pièces d'or la dose.  
+La sève de l'Akhase est utilisée pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 4 doses de sève d'Akhase pour constituer une dose de soin. Son ingestion a un effet dynamisant et redonne 1d6 PA et double la vitesse de guérison d'une blessure majeure pendant 12 heures.  
+Valeur : 12 pièces d'or la dose.  
+
+## Arlanne
+**Description**  
+L'Arlanne est une plante de petite taille qui pousse dans les zones froides et montagneuses. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.  
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide et montagneuse:
+**Hivers** :DD 16  
+**Printemps** :DD 12  
+**Eté** :DD 12   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** :  Moyen(3)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La racine de l'Arlanne est utilisée pour ses vertus décongestionnantes.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d'Arlanne pour constituer une dose de soin. Son ingestion a un effet décongesttionnant et toussif. Le consommateur gagne un bonus de +4 contre le froid non magique durant 3 heures. L'autre effet est la récupération de maladies respiratoires. La vitesse de guérison est multipliée par 5.    
+Valeur : 1 pièces d'or la dose.  
+
+## Alenas
+**Description**  
+L'Alenas est une plante de petite taille qui pousse dans les zones tempérées sous des forêts de conifères. L'utilisation de sa feuille a la propriété de guérir son utilisateur de n'importe quelle maladie.  
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée sous des forêts de conifères:
+**Hivers** :DD 35  
+**Printemps** :DD 22  
+**Eté** :DD 28   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 30 pièces d'or la dose.  
+**Facteur d'addiction** :  Moyen(6)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La feuille de l'Alenas est utilisée pour ses vertus curatives.  
+*mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 2 feuilles (doses) d'Alenas pour constituer une dose de soin. Son ingestion a un effet curatif contre tous les types de maladies. Une personne est guérie en 1d6 heures.     
+Valeur : 300 pièces d'or la dose.  
+
 
 ## Cepate
 **Description**  
@@ -75,6 +116,26 @@ En cas de réussite, il trouvera 2d6 doses par heure de prospection.
 *Onguent* ( Herboristerie DD 16, 3 doses): la coulemine peut-être préparé en onguent. Il est possible de créer une dose d’onguent de coulemine par trois doses de coulemine prélevée sous réserve de réussir le test d’alchimie approprié (les tests s’effectuent par dose et la préparation prend quinze minutes par dose). L’odeur très forte repousse les insectes qui doivent réussir un test de Sagesse DD 28 pour ne pas s’enfuir. L’efficacité est de 6 + 1d6 heures. L’odeur est persistante et peut s’avérer incommodante. Tous les DD de compétences persuasion mais aussi ceux de discrétion subissent un désavantage pour le porteur de l’onguent.   
 **Facteur d’intoxication**:(12)  
 Valeur : 1 pièce d’or la dose.  
+
+## Dherene
+**Description**  
+Le Dherene est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de son écorce a la propriété de repousser les insees par son odeur dans un rayon de 15 mètres.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** :  inexistant(0)  
+**Facteur d’intoxication**:(8)  
+
+**Utilisation**  
+L'écorce de Dherene est utilisée pour ses vertus répulsives.  
+*mixture* (herboristerie/Survie DD 12, 1 dose) : Il faut 1 écorces (doses) de Dherene pour constituer une dose de répulsif. L'effet dure pendant 12 heures.  
+Valeur : 5 pièces d'argent la dose.  
 
 ## Eglantiane  
 **Description**  
