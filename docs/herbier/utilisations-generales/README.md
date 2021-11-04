@@ -138,7 +138,7 @@ Valeur : 1 pièce d’or la dose.
 
 ## Dherene
 **Description**  
-Le Dherene est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de son écorce a la propriété de repousser les insees par son odeur dans un rayon de 15 mètres.
+Le Dherene est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de son écorce a la propriété de repousser les insectes par son odeur dans un rayon de 15 mètres.
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
@@ -221,6 +221,26 @@ Enfin, l'huile essentielle est également citée pour ses propriétés anticoagu
 Valeur : 5 pièces d’or la dose.  
 *Contre-indication et effets indésirables* : La plante peut avoir une action abortive et elle est donc contre indiquée durant la grossesse. La présence de substances pigmentantes et photosensibilisante, peut favoriser des réactions lors de bains de soleil ou d'exposition intensive aux rayons.  
 *L'herbe aux anges* : L’Empeurine, dite encore « herbe aux anges », doit son nom à ses vertus magiques et à l'odeur aromatique suave et musquée qu'elle répand. Cette ombellifère géante passe en effet pour conjurer les envoûtements et les sorciers ne résisteraient pas à sa bonne odeur. Accrochée au cou des enfants, elle les protégerait en particulier des maléfices de toute nature. Mais elle peut également servir d’amulette aux adultes.  
+
+## Felmetter
+**Description**  
+Le Felmetter est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de ses feuilles a la propriété de reveiller d'un comas mais aussi de contatcer un ami (animal ou personne) dans un rayon de 100 mètres par niveau.  
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
+**Hivers** :DD 28  
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 22   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 10 pièces d'or la dose.  
+**Facteur d'addiction** :  irrélsistible (6)  
+**Facteur d’intoxication**:(3)  
+
+**Utilisation**  
+La feuille de Felmetter est utilisée pour ses vertus répulsives.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 5 feuilles (doses) de Felmetter pour constituer une dose. L'effet dure pendant 1 heure.  
+Valeur : 110 pièces d'or la dose.  
 
 ## Fortliane
 **Description**

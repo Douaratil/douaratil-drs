@@ -24,7 +24,7 @@ Les plantes dynamisantes sont terminées, passons à celles qui ont une utilisat
 - Ajout de l'[Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.  
 - Ajout de l'[Atanath](/herbier/utilisations-generales/#atanath), une mousse qui pousse dans les zones tempérées au bord des rivières.  
 - Ajout du [Dherene](/herbier/utilisations-generales/#dherene), un arbre qui pousse dans les zones tempérées et océaniques.  
-- Ajout de l'[Atanath](/herbier/utilisations-generales/#atanath), une mousse qui pousse dans les zones tempérées au bord des rivières.
+- Ajout du [Felmeter](/herbier/utilisations-generales/#felmeter), un arbre qui pousse dans les zones tempérées et océaniques.  
 
 
 Bon jeu.  
