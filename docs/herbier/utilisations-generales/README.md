@@ -28,26 +28,6 @@ La sève de l'Akhase est utilisée pour ses vertus curatives.
 *mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 4 doses de sève d'Akhase pour constituer une dose de soin. Son ingestion a un effet dynamisant et redonne 1d6 PA et double la vitesse de guérison d'une blessure majeure pendant 12 heures.  
 Valeur : 12 pièces d'or la dose.  
 
-## Arlanne
-**Description**  
-L'Arlanne est une plante de petite taille qui pousse dans les zones froides et montagneuses. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.  
-
-**Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone froide et montagneuse:
-**Hivers** :DD 16  
-**Printemps** :DD 12  
-**Eté** :DD 12   
-**Automne** :DD 12   
-En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
-**Valeur** : 1 pièces d'argent la dose.  
-**Facteur d'addiction** :  Moyen(3)  
-**Facteur d’intoxication**:(1)  
-
-**Utilisation**  
-La racine de l'Arlanne est utilisée pour ses vertus décongestionnantes.  
-*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d'Arlanne pour constituer une dose de soin. Son ingestion a un effet décongesttionnant et toussif. Le consommateur gagne un bonus de +4 contre le froid non magique durant 3 heures. L'autre effet est la récupération de maladies respiratoires. La vitesse de guérison est multipliée par 5.    
-Valeur : 1 pièces d'or la dose.  
-
 ## Alenas
 **Description**  
 L'Alenas est une plante de petite taille qui pousse dans les zones tempérées sous des forêts de conifères. L'utilisation de sa feuille a la propriété de guérir son utilisateur de n'importe quelle maladie.  
@@ -68,6 +48,45 @@ La feuille de l'Alenas est utilisée pour ses vertus curatives.
 *mixture* (herboristerie/Survie DD 22, 1 dose) : Il faut 2 feuilles (doses) d'Alenas pour constituer une dose de soin. Son ingestion a un effet curatif contre tous les types de maladies. Une personne est guérie en 1d6 heures.     
 Valeur : 300 pièces d'or la dose.  
 
+## Arlanne
+**Description**  
+L'Arlanne est une plante de petite taille qui pousse dans les zones froides et montagneuses. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.  
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide et montagneuse:
+**Hivers** :DD 16  
+**Printemps** :DD 12  
+**Eté** :DD 12   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** :  Moyen(3)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La racine de l'Arlanne est utilisée pour ses vertus décongestionnantes.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d'Arlanne pour constituer une dose de soin. Son ingestion a un effet décongesttionnant et toussif. Le consommateur gagne un bonus de +4 contre le froid non magique durant 3 heures. L'autre effet est la récupération de maladies respiratoires. La vitesse de guérison est multipliée par 5.    
+Valeur : 1 pièces d'or la dose.  
+
+## Atanath
+**Description**  
+L'Atanath est une mousse qui pousse dans les zones tempérées au bord des rivières. L'utilisation de sa feuille a la propriété de stopper une fièvre.  
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée au bord d'une rivière:
+**Hivers** :DD 12  
+**Printemps** :DD 12  
+**Eté** :DD 16   
+**Automne** :DD 12   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** :  inéxistant(1)  
+**Facteur d’intoxication**:(6)  
+
+**Utilisation**  
+L'Atanath est utilisée pour ses vertus curatives.  
+*application* (herboristerie/Survie DD 12, 1 dose) : Il faut 3 doses d'Atanath pour constituer un cataplasme. La fièvre est maîtrisée pendant 6 heures.      
+Valeur : 8 pièces d'or la dose.  
 
 ## Cepate
 **Description**  

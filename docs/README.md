@@ -18,12 +18,13 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 Les plantes dynamisantes sont terminées, passons à celles qui ont une utilisation plus générales:   
 
+- Changement de la couleur des icones et liens Kofi.  
 - Ajout de l'[Akhase](/herbier/utilisations-generales/#akhase), une plante de grande taille qui pousse dans les zones tempérées et herbeuses parmis les hautes herbes.  
 - Ajout de d'[Alenas](/herbier/utilisations-generales/#alenas), une plante de petite taille qui pousse dans les zones tempérées sous des forêts de conifères.  
-- Ajout de d'[Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.  
-- Ajout de du [Dherene](/herbier/utilisations-generales/#dherene), un arbre qui pousse dans les zones tempérées et océaniques.  
-
-- Ajout de du [Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.
+- Ajout de l'[Arlanne](/herbier/utilisations-generales/#arlanne), une plante de petite taille qui pousse dans les zones froides et montagneuses.  
+- Ajout de l'[Atanath](/herbier/utilisations-generales/#atanath), une mousse qui pousse dans les zones tempérées au bord des rivières.  
+- Ajout du [Dherene](/herbier/utilisations-generales/#dherene), un arbre qui pousse dans les zones tempérées et océaniques.  
+- Ajout de l'[Atanath](/herbier/utilisations-generales/#atanath), une mousse qui pousse dans les zones tempérées au bord des rivières.
 
 
 Bon jeu.  

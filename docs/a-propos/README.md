@@ -12,7 +12,7 @@ Les sources de ce site sont disponibles sur [GitHub](https://github.com/douarati
 
 Vous souhaitez participer aux frais d'hébergement ou m'encourager ?
 
-<v-btn class="mb-2" depressed dark color="#BDB76B" link :href="$site.themeConfig.kofi" target="\_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline">&nbsp;au développeur</span></v-btn>
+<v-btn class="mb-2" depressed dark color="#ffcc00" link :href="$site.themeConfig.kofi" target="\_blank"><v-icon class="mr-2">mdi-glass-mug-variant</v-icon>Jeter un sou<span class="d-none d-md-inline">&nbsp;au développeur</span></v-btn>
 
 ## Le jeu
 _**Douaratil**_ est un jeu de rôle basé sur les mécaniques de l'[OGL5](/licence-ogl/) et développé par Olivier
