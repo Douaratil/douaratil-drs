@@ -25,7 +25,9 @@ Les plantes dynamisantes sont terminées, passons à celles qui ont une utilisat
 - Ajout de l'[Atanath](/herbier/utilisations-generales/#atanath), une mousse qui pousse dans les zones tempérées au bord des rivières.  
 - Ajout du [Dherene](/herbier/utilisations-generales/#dherene), un arbre qui pousse dans les zones tempérées et océaniques.  
 - Ajout du [Felmeter](/herbier/utilisations-generales/#felmeter), un arbre qui pousse dans les zones tempérées et océaniques.  
-
+- Ajout de la [Latha](/herbier/utilisations-generales/#latha), une plante qui pousse dans les zones tempérées et côtes froides.  
+- Ajout de la [Thurd](/herbier/utilisations-generales/#thurd), une mousse qui pousse dans les zones froide et côtes froides.
+- Ajout de la [Ubhar](/herbier/utilisations-generales/#ubhar), une plante qui pousse dans les zones froide et près des glaciers.
 
 Bon jeu.  
 §§§ .text-right

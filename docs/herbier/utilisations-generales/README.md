@@ -65,7 +65,7 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 
 **Utilisation**  
 La racine de l'Arlanne est utilisée pour ses vertus décongestionnantes.  
-*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d'Arlanne pour constituer une dose de soin. Son ingestion a un effet décongesttionnant et toussif. Le consommateur gagne un bonus de +4 contre le froid non magique durant 3 heures. L'autre effet est la récupération de maladies respiratoires. La vitesse de guérison est multipliée par 5.    
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d'Arlanne pour constituer une dose de soin. Son ingestion a un effet décongestionnant et toussif. Le consommateur gagne un bonus de +4 contre le froid non magique durant 3 heures. L'autre effet est la récupération de maladies respiratoires. La vitesse de guérison est multipliée par 5.    
 Valeur : 1 pièces d'or la dose.  
 
 ## Atanath
@@ -224,7 +224,7 @@ Valeur : 5 pièces d’or la dose.
 
 ## Felmetter
 **Description**  
-Le Felmetter est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de ses feuilles a la propriété de reveiller d'un comas mais aussi de contatcer un ami (animal ou personne) dans un rayon de 100 mètres par niveau.  
+Le Felmetter est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de ses feuilles a la propriété de réveiller d'un comas mais aussi de contacter un ami (animal ou personne) dans un rayon de 100 mètres par niveau.  
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
@@ -234,11 +234,11 @@ Le prospecteur devra réussir un test en Survie dans une zone tempérée et océ
 **Automne** :DD 22   
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 10 pièces d'or la dose.  
-**Facteur d'addiction** :  irrélsistible (6)  
+**Facteur d'addiction** :  irrésistible (6)  
 **Facteur d’intoxication**:(3)  
 
 **Utilisation**  
-La feuille de Felmetter est utilisée pour ses vertus répulsives.  
+La feuille de Felmetter est utilisée pour ses vertus psychotropes.  
 *mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 5 feuilles (doses) de Felmetter pour constituer une dose. L'effet dure pendant 1 heure.  
 Valeur : 110 pièces d'or la dose.  
 
@@ -383,6 +383,25 @@ Valeur : 3 pièce d’or la dose.
 *Symptômes observés* : Les premiers symptômes apparaissent très rapidement : sécheresse de la bouche, diminution des sécrétions, troubles visuels, dilatation des pupilles, élévation du rythme cardiaque, faiblesse musculaire pouvant aller jusqu'à une incapacité à se tenir debout. Les troubles du comportement, caractérisés par une désorientation spatio-temporelle, apparaissent ensuite. L'individu est congestionné, sa face et son cou sont rouges, il a une parole incohérente ou peut être trouvé dans un coma profond. Il arrive que l'individu décède avant une prise en charge médicale. L'individu a des hallucinations visuelles, auditives, il ne reconnaît plus ses proches et semble vouloir attraper des objets imaginaires. Les hallucinations sont décrites par les usagers comme cauchemardesques  souvent accompagnées de crises d'angoisse et de la perte des repères spatio-temporels. Le retour à la normale demande plusieurs jours. Il s'accompagne en général d'une amnésie totale ou partielle de l'épisode.
 L'état produit par la plante s'apparente à un état de somnambulisme, de rêve éveillé voire de folie, ce qui n'est pas du tout la cas des drogues psychédéliques. Ceci couplé aux difficultés extrêmes de dosage rend l'expérience délirogène hautement dangereuse.  
 
+## Latha
+**Description**  
+La Latha est une plante qui pousse dans les zones tempérées et côtes froides. L'utilisation de ses tiges a la propriété de renforcer la résistance aux maladies en octroyant un bonus de +2 aux tests pendant 24h.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et côte froide:
+**Hivers** :DD 16  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'argent la dose.  
+**Facteur d'addiction** :  inexistante (0)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La tige de Latha est utilisée pour ses vertus fortifiantes.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 5 tiges (doses) de Latha pour constituer une dose. La préparation doit être bouillie pendant au moins 20 minutes.
+Valeur : 3 pièces d'or la dose.  
 
 ## Menthagile
 **Description**  
@@ -552,3 +571,43 @@ Valeur : 3 pièces d’or la dose.
 *Huile* ( Alchimie DD 35, 1d6 doses) : L'huile fabriquée par des procédés alchimiques n'est pas utilisable dans l'alimentation. Par contre, elle est réputée pour ses fonctions anti-fongiques et spermicides qui lui permettent d'être utilisée comme lubrifiant sans risque de procréer. Cette huile est largement utilisée dans les harems et certains bordels de luxe. Son coût de fabrication et de vente limite la clientèle.  
 **Facteur d’intoxication**:(2)  
 Valeur : 33 pièces d’or la dose.  
+
+## Thurd
+**Description**  
+La Thurd est une mousse qui pousse dans les zones froide et côtes froides. Son utilisation offre une résistance prolongée aux maladies en octroyant un bonus de +2 aux tests pendant 2d6 jours.
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide et côte froide:
+**Hivers** :DD 16  
+**Printemps** :DD 16  
+**Eté** :DD 16   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 8 pièces d'argent la dose.  
+**Facteur d'addiction** :  moyenne (3)  
+**Facteur d’intoxication**:(1)  
+
+**Utilisation**  
+La Thurd est utilisée pour ses vertus fortifiantes.  
+*mixture* (herboristerie/Survie DD 16, 1 dose) : Il faut 5 doses de Thurd pour constituer une dose. La préparation doit être bouillie pendant au moins 20 minutes.
+Valeur : 10 pièces d'or la dose.  
+
+## Ubhar
+**Description**  
+Le Ubhar est une plante qui pousse dans les zones froide et près des glaciers. Son utilisation offre une qualité nutritive rare qui permet de survivre dans des zones froides et hostiles. Une dose permet de nourrir une personne pour une journée.   
+
+**Localisation**  
+Le prospecteur devra réussir un test en Survie dans une zone froide et près des glaciers:
+**Hivers** :DD 22  
+**Printemps** :DD 16  
+**Eté** :DD 12   
+**Automne** :DD 16   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'or la dose.  
+**Facteur d'addiction** :  très faible (1)  
+**Facteur d’intoxication**:(3)  
+
+**Utilisation**  
+La Ubhar est utilisée pour ses vertus nutritives.  
+*pâte commestible* (herboristerie/cuisine/Survie DD 12, 1 dose) : Il faut 2 noix de Ubhar pour constituer une dose. La préparation doit être cuite pendant au moins 20 minutes.
+Valeur : 30 pièces d'or la dose.  
