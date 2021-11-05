@@ -56,6 +56,10 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
 | **Shahim** | Ethnies Shahimas | Shahiate |
+| **Ashkhèm** | Peuple Ashkémite | Ashkheth |
+| **Ashkham** | Peuple Ashkémite | Ashkheth |
+| **Shkhaamm** | Peuple Ashkémite | Ashkheth |
+| **Ashkhérite** | Peuple Ashkémite | Ashkheth |
 | **Assyrhiote** | Peuple Assyrhim | Syride |
 | **Assyrith** | Peuple Assyrhim | Syride |
 | **Cyrènide** | Peuple Assyrhim | Syride |
