@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0) "
+  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (2/1) "
 category: "PJ"
 ---
 ## Lochetos Vlatcano
@@ -215,7 +215,7 @@ Lôchetos possède l'équipement suivant :
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** :48     
-**famille** : une amante et une fille Serena, une femme shahim
+**famille** : une amante et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
 §§§
 
 §§§ .hero

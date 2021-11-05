@@ -28,6 +28,7 @@ Les plantes dynamisantes sont terminées, passons à celles qui ont une utilisat
 - Ajout de la [Latha](/herbier/utilisations-generales/#latha), une plante qui pousse dans les zones tempérées et côtes froides.  
 - Ajout de la [Thurd](/herbier/utilisations-generales/#thurd), une mousse qui pousse dans les zones froide et côtes froides.
 - Ajout de la [Ubhar](/herbier/utilisations-generales/#ubhar), une plante qui pousse dans les zones froide et près des glaciers.
+- Apprentissage de l'Ashkhème et de l'Askheth pour [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) auprès de son esclave Kahina ult Bouhen.
 
 Bon jeu.  
 §§§ .text-right
