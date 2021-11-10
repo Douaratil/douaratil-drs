@@ -140,13 +140,14 @@ Yan Zin possède l'équipement suivant :
 - insigne de cavalerie (officier en formation)
 - sabre oriental
 - Vêtement de bonne qualité
-3800 PA, 2171 PO.    
-200 PO de marchandises pour son clan.  
+- 3800 PA
+- 171 PO.    
+- 200 PO de marchandises pour son clan.  
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** : Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
 §§§
 
 §§§ .hero
@@ -154,6 +155,10 @@ Yan Zin possède l'équipement suivant :
 **Bâtiments** : Une bâtisse principale    
 **Serviteurs** : 0    
 **Revenus** : 0    
+
+#### ville de Madin'alajnibh
+**Bâtiments** :  
+**Revenus** : 1d6 PA
 §§§
 
 §§§ .hero
