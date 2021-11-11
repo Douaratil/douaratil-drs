@@ -11,7 +11,7 @@ Un foyer accueillant est aussi un endroit où le personnage aime se retirer pour
 
 ## La question de l'acquisition  
 Un domaine ne peut s'acquérir simplement par de l'argent. C'est en général un don de la part d'un puissant en échange de l'allégeance et de la gestion saine des lieux. Acquérir un domaine est en fait un ensemble d'obligation envers sa famille, ses gens et son suzerain. L'acquisition d'un domaine doit s'intégrer dans le contexte de la campagne et pouvoir s'expliquer.  
-Par exemple, il serait impensable qu'un étranger, sous prétexte qu'il possède quelques richesses, s'empare des terres. Ce serait de la part du vendeur un acte de trahison envers son peuple et un acte de guerre de la part de l'acheteur. On peut cependant estimer qu'en échange de services et de loyauté, un domaine soit donné en tant "colonie" à un population d'oigine étrangère.  
+Par exemple, il serait impensable qu'un étranger, sous prétexte qu'il possède quelques richesses, s'empare des terres. Ce serait de la part du vendeur un acte de trahison envers son peuple et un acte de guerre de la part de l'acheteur. On peut cependant estimer qu'en échange de services et de loyauté, un domaine soit donné en tant "colonie" à un population d’origine étrangère.  
 
 ## La gestion du domaine  
 Le domaine est géré par le personnage. Comme les tests familiaux et économiques, les décisions de dépenses et les revenus se génèrent tous les mois, pendant les intermèdes. Un option de bâtiment est construite en une lune, il faut donc attendre un mois pour en bénéficier.  
@@ -54,7 +54,7 @@ Chaque élément de s'acquière qu'une seule fois, exception faite des chambres 
 |Ferme|500 po|1d6 pa|Une famille|Famille qui travaille la terre et s'occupe du bétail, cette option peut-être choisie plusieurs fois|
 |Atelier de poterie|1000 po|1d6 po|Une famille|Famille qui fournit les récipients et les tuiles|
 |Forge|2000 po|2d6 po|Une famille|Famille qui fournit les outils, les fers et autres ustensiles|
-|Menuiserie|1500 po|1d6 po|Une famille|Famille qui s'occupe de la menuiserie, charpente, bucheronnage et charbonnerie suivant la saison|
+|Menuiserie|1500 po|1d6 po|Une famille|Famille qui s'occupe de la menuiserie, charpente, bûcheronnage et charbonnerie suivant la saison|
 |Moulin|2500 po|3d6 po|Une famille|Famille qui s'occupe de la farine et des stocks de céréales|
 ||||||
 |Four|500 po|0|Un boulanger|-|

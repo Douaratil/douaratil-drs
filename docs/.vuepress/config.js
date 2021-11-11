@@ -503,6 +503,11 @@ module.exports = {
                 path: '/domaine/'
               },
               {
+                title: "Développer une colonie",
+                icon: 'mdi-chess-rook',
+                path: '/colonie/'
+              },
+              {
                 title: "L'expérience",
                 icon: 'mdi-upload',
                 path: '/experience/'

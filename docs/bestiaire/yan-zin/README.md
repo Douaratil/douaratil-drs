@@ -133,15 +133,15 @@ Yan Zin possède l'équipement suivant :
 - arc long
 - armure de cuir
 - armure de cuir cloutée   
-- [briche de protection](/liste-objets-magiques/broche-de-protection)
+- [broche de protection](/liste-objets-magiques/broche-de-protection)
 - cheval
 - dague
 - flèches (11)
 - insigne de cavalerie (officier en formation)
 - sabre oriental
 - Vêtement de bonne qualité
-- 3800 PA
-- 171 PO.    
+- 10 500 PA
+- 2271 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -156,9 +156,15 @@ Yan Zin possède l'équipement suivant :
 **Serviteurs** : 0    
 **Revenus** : 0    
 
-#### ville de Madin'alajnibh
-**Bâtiments** :  
-**Revenus** : 1d6 PA
+#### Colonie de Madin'alajnibh
+**Bâtiments** : Maisons (1)  
+**Influence** :  
+**Insécurité** :  
+**Bien-être** :  
+**Production de nourriture** :  
+**Colons**:  
+**Capacité d'accueil** :   
+**Revenus** : 1d6 PA  
 §§§
 
 §§§ .hero
