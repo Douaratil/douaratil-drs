@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Neutre mauvais"
-challenge: "12"
-customHP: "40"
+challenge: "13"
+customHP: "42"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 20
-  sag: 15
+  sag: 16
   cha: 14
 customSavingThrows: "for -1, dex -1, con +3, int(•) +9, sag(••) +10, cha(•) +6 "
 savingThrows:
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "14 (Armure de cuir cloutée)"
+  value: "15 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie -1"
@@ -181,7 +181,11 @@ Gwion possède l'équipement suivant :
 - [pierre d'obédience](/liste-objets-magiques/pierre-d-obedience)
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
-- 4767 PC, 21 828 PA, 44 PE, 3103 PO, 134 PP.  
+- 4767 PC
+- 21 828 PA
+- 44 PE
+- 2653 PO
+- 134 PP.  
 §§§
 
 §§§ .hero
@@ -195,15 +199,14 @@ un petit fil de cuivre enchanté.
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +8**  
-**DD de Sauvegarde: 13**  
+**DD de Sauvegarde: 18**  
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure de mage](/grimoire/armure-de-mage), [Aspersion d'acide](/grimoire/aspersion-acide), [Bourrasque](/grimoire/bourrasque), [Boussole mentale](/grimoire/boussole-mentale), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
 [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
-[Pas brumeux](/grimoire/pas-brumeux),[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
-[suggestion](/grimoire/suggestion),[vague tonnante](/grimoire/vague-tonnante) [vision dans le noir](/grimoire/vision-dans-le-noir).  
+[Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
+[Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison),[Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique), [Respiration aquatique](/grimoire/respiration-aquatique),     
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique), [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Sorts possédés à apprendre** :
 - Novice : Strangulation.   
@@ -222,16 +225,50 @@ un petit fil de cuivre enchanté.
 **Bâtiments** : Une bâtisse principale    
 **Serviteurs** : 0    
 **Revenus** : 0    
+### Colonie de Madin'alajnibh
+|Table des bâtiments & des ressources ddu quartier |||||||||||
+|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
+|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Bordel|0|0|0|0|-|0|0d6 pp|1|
+|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
+|Caserne|0|0|-0|-|-|0|-|0|
+|Écurie|0|0|0|0|-|0|-|1/10 maisons|
+|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
+|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
+|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
+|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
+|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
+|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
+|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
+|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
+|Salle du conseil|0|0|0|0|-|0|-|1|
+|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|0|0|0|0|-|0|0d6 pp|1|
+|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+
+**Colons** : 24  
+**Trésor** : 0
+**Nourriture** : 0
+
+### Modificateur d'évènement  
+|Modificateur d'évènement|||||||
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
+|15 --->|0|0|0|-24|-19|**-43**|
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 117 859       
-**Points de Magie** :68   
-**Points de Foi** :15    
-**Points d'honneur** :43       
+**XP acquis** : 121 761       
+**Points de Magie** :72   
+**Points de Foi** :16    
+**Points d'honneur** :45          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   

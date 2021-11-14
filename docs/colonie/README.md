@@ -65,7 +65,23 @@ La production de nourriture permet de faire vivre la population sur place. Elle 
 Le surplus de production peut être vendu par les caravanes au prix de 10 PO/ nourriture.   
 
 #### Colons  
-Il s'agit du nombre de colons dans la ville. Pour une bonne stabilité, il faut que ce chiffre soit le plus prêt de la capacité d'accueil de la ville. Les colons consomment par lune une quantité de nourriture égale au nombre de colons. La renommée du personnage attire les colons. Il peut ainsi faire venir un nombre de colon correspondant à ses point d'honneur, modulée par son score d'influence.
+Il s'agit du nombre de colons dans la ville. Pour une bonne stabilité, il faut que ce chiffre soit le plus prêt de la capacité d'accueil de la ville. Les colons consomment par lune une quantité de nourriture égale au nombre de colons. La renommée du personnage attire les colons. Il peut ainsi faire venir un nombre de colon correspondant au **tier du niveau du personnage**, modulée par positivement par son modificateur de **Charisme** ou négativement par son modificateur de **Sagesse**. Comme nous parlons de modulation, l'application est au bon vouloir du gestionnaire de la colonie. De plus charque bonus/malus est un pool de dés. Par exemple : +3d6 en modulation permet d'ajouter de +1d6 à +3d6 selon le souhait du gestionnaire.     
+
+|Recrutement des colons||Modulation de recrutement|||||
+|Niveaux|D6|Score de Charisme|Modulation de dés|Score de Sagesse|Modulation de dés|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1-3|1d6|2-3|-4d6|2-3|+4d6|
+|4-6|2d6|4-5|-3d6|4-5|+3d6|
+|7-9|3d6|6-7|-2d6|6-7|+2d6|
+|10-12|4d6|8-9|-1d6|8-9|+1d6|
+|13-17|5d6|10-11|0|10-11|0|
+|18-20|6d6|12-13|+1d6|12-13|-1d6|
+|21-23|7d6|14-15|+2d6|14-15|-2d6|
+|24-26|8d6|16-17|+3d6|16-17|-3d6|
+|27-29|9d6|18-19|+4d6|18-19|-4d6|
+|30|10d6|20-21+|+5d6|20-21+|-5d6|
+
+
 
 #### Capacité d'accueil de la ville  
 Correspond à la capacité des bâtiments à héberger des colons. S'il y a plus de colons que de capacité d'accueil, cela augmente l'insécurité de 1 par colon en surnombre. Il est possible de renvoyer des colons au prix de 5 PO par colon.    

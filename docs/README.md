@@ -14,6 +14,17 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 56
+
+- [Colonie](/colonie) modification mineure des règles avec système de recrutement de colons modulables.  
+- Mise à jour des personnages avec le système de [Colonie](/colonie).
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 14 novembre 2021_
+§§§   
+
 ## Mise à jour 55
 
 Une nouvelle option de gameplay voit le jour. Il s'agit d'une amélioration des règles de la gestion des domaines mais ave des aspects stratégiques et coopératifs. Il s'agit de développer une ville entre les joueurs et de la faire prospérer. Il s'agit donc des règles de la [colonie](/colonie). Les règles sont susceptibles d'évoluer dans le temps mais cela donne déjà une bonne base pour comprendre de quoi il s'agit.  

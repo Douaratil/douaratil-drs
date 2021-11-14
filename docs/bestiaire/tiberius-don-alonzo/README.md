@@ -185,6 +185,46 @@ petite maison à Ker-Saozon.
 **Bâtiments** : Une bâtisse principale  
 **Serviteurs** : 0  
 **Revenus** : 0  
+
+#### Colonie de Madin'alajnibh
+
+### Colonie de Madin'alajnibh
+|Table des bâtiments & des ressources ddu quartier |||||||||||
+|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
+|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Bordel|0|0|0|0|-|0|0d6 pp|1|
+|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
+|Caserne|0|0|-0|-|-|0|-|0|
+|Écurie|0|0|0|0|-|0|-|1/10 maisons|
+|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
+|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
+|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
+|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
+|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
+|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
+|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
+|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
+|Salle du conseil|0|0|0|0|-|0|-|1|
+|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|0|0|0|0|-|0|0d6 pp|1|
+|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+
+
+**Colons** : 53  
+**Trésor** : 0
+**Nourriture** : 0
+
+
+### Modificateur d'évènement  
+|Modificateur d'évènement|||||||
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
+|13 --->|0|0|0|-53|-48|**-101**|
+
 §§§
 
 §§§ .hero
