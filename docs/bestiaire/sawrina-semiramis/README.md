@@ -203,12 +203,15 @@ Sawrina possède l'équipement suivant :
 |Temple|0|0|0|0|-|0|0d6 pp|1|
 |**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
 
+**Colons** : 17  
+**Trésor** : 0
+**Nourriture** : 0
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-27|-22|**-49**|
+|11 --->|0|0|0|-17|-22|**-29**|
 §§§
 
 §§§ .hero

@@ -10,14 +10,13 @@ Une colonie est d'abord un élément narratif et stratégique du jeu. Il coûter
 La gestion de la colonie se déroule en plusieurs phases:   
 
 - Phase 1 : Détermination de l'arrivée des nouveaux colons (modulée par l'influence).   
-- Phase 2 : Détermination et application des évènements intérieurs (modulée par l'influence).   
-- Phase 3 : Détermination et application des évènements extérieurs (modulée par l'influence).   
-- Phase 4 : Détermination des constructions achevées.   
-- Phase 5 : Production de  nourriture et détermination des revenus.   
-- Phase 6 : Consommation de la nourriture.
-- Phase 7 : Vente ou achat de nourriture avec les caravanes.  
-- Phase 8 : Détermination constructions avenir et affectation des colons.
-- Phase 9 : Détermination finale du tours. La colonie se "fige" pendant une lune jusqu'à la prise en compte des nouveaux bâtiments.   
+- Phase 2 : Détermination et application des évènements  (modulée par l'influence).    
+- Phase 3 : Détermination des constructions achevées.   
+- Phase 4 : Production de  nourriture et détermination des revenus.   
+- Phase 5 : Consommation de la nourriture.
+- Phase 6 : Vente ou achat de nourriture avec les caravanes.  
+- Phase 7 : Détermination constructions avenir et affectation des colons.
+- Phase 8 : Détermination finale du tours. La colonie se "fige" pendant une lune jusqu'à la prise en compte des nouveaux bâtiments.   
 
 
 
@@ -336,8 +335,8 @@ Un investissement de 100 000 po dans la colonie permet d'avoir l'équivalent du 
 ## Les évènements de la colonie
 Une colonie génère rapidement beaucoup d'activité et des évènements arrivent inévitablement, quelques fois ce sont des bonnes nouvelles et quelques fois des mauvaises.
 
-### évènements intérieurs
-|Détermination|Événements intérieurs |
+### évènements
+|Détermination|Événements|
 |Jeter 4d6*|Résultat|
 |:-:|:-:|
 |4-6|Désastre|
@@ -349,37 +348,38 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 
 * Les dés ne sont pas explosifs    
 
-### Événements intérieurs désastreux.   
+### Désastre
 
 |Détermination|Désastre|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16|Un sorcier amateur c'est trompé dans les dosage de ses potions. Explosion qui détruit une 1d6 (non explosif) maison. 1d6 (explosif) mort par maison détruite.|
-|17||
-|18||
+|4-10|Raid de pillard, perte de 1d6 maison (non explosif) et de 3d6 (explosif) colons morts, Perte 1d6 X 1000 PO à concurence de la totalité du trésor et de la moitié des biens du personnage, perte jusqu'à 150 de nourriture|
+|11|Evènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts, perte jusqu'à 100 de nourriture|
+|12|Une caravane est irrémédiablement perdue sans laisser de nouvelles|
+|13|Maraudes et pillages, 1000 PO de dégâts, 2d6 (explosif) colons morts|
+|14|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|15|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|16|Un sorcier amateur s'est trompé dans les dosage de ses potions. Explosion qui détruit une 1d6 (non explosif) maison. 1d6 (explosif) mort par maison détruite.|
+|17|Evènement Tremblement de terre, perte de 1d6 (non explosif) maison mais heureusement aucune victime, par contre autant de sans abris|
+|18|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
 |19|Une soirée de mariage qui tourne mal, incendie, perte d'une maison et de 2d6 morts.|
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
+|20|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|21|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|22|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|23|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|24|Bagarre générale dans une taverne ou un bordel, 3d6 (explosifs) mort et bâtiment (si possédé) perdu|
+|25|Conflits entre familles, 1000 PO de dégâts, 2d6 (explosif) colons morts, perte d'une maison|
+|26|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|27|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|28|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|29|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|30|Parce qu'il y a de l'espoir, relancer sur la table mauvaises nouvelles|
 
+### Mauvaise nouvelle
 |Détermination|Mauvaise nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
+|4-10|Faux espoir, relancer sur la table désastre|
 |11||
 |12||
 |13||
@@ -399,23 +399,24 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |27||
 |28||
 |29||
-|30||
+|30|Parce qu'il y a de l'espoir, relancer sur la table la vie suit son cour|
 
+### La vie suit son cour
 |Détermination|La vie suit son cour|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
+|4-10|Faux espoir, relancer sur la table mauvaise nouvelle|
 |11||
 |12||
 |13||
 |14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
+|15|0|
+|16|Perte 4d6 X 10 PA|
+|17|La vie suit son court et c'est bien mieux ainsi|
+|18|Marché local : gain 2d6 X 10 PA|
+|19|Marché important avec évenmentiel 4d6 X 10 PA|
+|20| 1d6 X 10 PO|
+|21|2d6 X 10 PO|
 |22||
 |23||
 |24||
@@ -424,12 +425,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |27||
 |28||
 |29||
-|30||
+|30|Parce qu'il y a de l'espoir, relancer sur la table Bonne nouvelle|
 
+### Bonne nouvelle
 |Détermination|Bonne nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
+|4-10|Faux espoir, relancer sur la table la vie suit son cour|
 |11||
 |12||
 |13||
@@ -449,12 +451,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |27||
 |28||
 |29||
-|30||
+|30|Parce qu'il y a de l'espoir, relancer sur la table très bonne nouvelle|
 
+### Très bonne nouvelle
 |Détermination|Très bonne nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
+|4-10|Faux espoir, relancer sur la table bonne nouvelle|
 |11||
 |12||
 |13||
@@ -474,174 +477,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |27||
 |28||
 |29||
-|30||
+|30|Parce qu'il y a de l'espoir, relancer sur la table Miracle|
 
+### Miracle
 |Détermination|Miracle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-### évènements extérieurs
-|Détermination|Événements intérieurs |
-|Jeter 4d6*|Résultat|
-|:-:|:-:|
-|4-6|Désastre|
-|7-10|Mauvaise nouvelle|
-|11-15|La vie suit son cour|
-|16-19|Bonne nouvelle|
-|20-23|Très bonne nouvelle|
-|24|Miracle|
-
-* Les dés ne sont pas explosifs  
-
-|Détermination|Désastre|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-
-|Détermination|Mauvaise nouvelle|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-
-|Détermination|La vie suit son cour|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-
-|Détermination|Bonne nouvelle|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-
-|Détermination|Très bonne nouvelle|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-
-|Détermination|Miracle|
-|Jeter 4d6 (explosifs)|Résultat|
-|:-:|:-:|
-|4-10||
+|4-10|Faux espoir, pas de miracle, relancer sur la table très bonne nouvelle|
 |11||
 |12||
 |13||
