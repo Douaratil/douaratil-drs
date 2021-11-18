@@ -22,7 +22,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 17 novembre 2021_
+_le 19 novembre 2021_
 §§§   
 
 ## Mise à jour 56

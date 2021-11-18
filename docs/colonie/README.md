@@ -357,150 +357,149 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |11|Evènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts, perte jusqu'à 100 de nourriture|
 |12|Une caravane est irrémédiablement perdue sans laisser de nouvelles|
 |13|Maraudes et pillages, 1000 PO de dégâts, 2d6 (explosif) colons morts|
-|14|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|15|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|14|-|
+|15|-|
 |16|Un sorcier amateur s'est trompé dans les dosage de ses potions. Explosion qui détruit une 1d6 (non explosif) maison. 1d6 (explosif) mort par maison détruite.|
 |17|Evènement Tremblement de terre, perte de 1d6 (non explosif) maison mais heureusement aucune victime, par contre autant de sans abris|
-|18|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|18|-|
 |19|Une soirée de mariage qui tourne mal, incendie, perte d'une maison et de 2d6 morts.|
-|20|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|21|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|22|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|23|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|20|-|
+|21|-|
+|22|-|
+|23|-|
 |24|Bagarre générale dans une taverne ou un bordel, 3d6 (explosifs) mort et bâtiment (si possédé) perdu|
 |25|Conflits entre familles, 1000 PO de dégâts, 2d6 (explosif) colons morts, perte d'une maison|
-|26|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|27|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|28|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|29|Evènement climatique grave, 1500 PO de dégâts, 3d6 (explosif) colons morts|
-|30|Parce qu'il y a de l'espoir, relancer sur la table mauvaises nouvelles|
+|26|-|
+|27|Puit souillé (200 PO pour l'assainir sans délai ou détruit), 1d6 (explosif) colons morts|
+|28|Puit asséché (400 PO pour le réparer sans délai ou détruit)|
+|30|Parce qu'il y a de l'espoir, relancer sur la table **Mauvaises nouvelles**|
 
 ### Mauvaise nouvelle
 |Détermination|Mauvaise nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Faux espoir, relancer sur la table désastre|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30|Parce qu'il y a de l'espoir, relancer sur la table la vie suit son cour|
+|4-10|Faux espoir, relancer sur la table **Désastre**|
+|11|-|
+|12|-|
+|13|-|
+|14|-|
+|15|-|
+|16|-|
+|17|-|
+|18|-|
+|19|-|
+|20|-|
+|21|-|
+|22|-|
+|23|-|
+|24|-|
+|25|-|
+|26|-|
+|27|-|
+|28|-|
+|29|-|
+|30|Parce qu'il y a de l'espoir, relancer sur la table **La vie suit son cour**|
 
 ### La vie suit son cour
 |Détermination|La vie suit son cour|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Faux espoir, relancer sur la table mauvaise nouvelle|
-|11||
-|12||
-|13||
-|14||
-|15|0|
+|4-10|Faux espoir, relancer sur la table **Mauvaise nouvelle**|
+|11|-|
+|12|-|
+|13|-|
+|14|-|
+|15|-|
 |16|Perte 4d6 X 10 PA|
 |17|La vie suit son court et c'est bien mieux ainsi|
 |18|Marché local : gain 2d6 X 10 PA|
 |19|Marché important avec évenmentiel 4d6 X 10 PA|
 |20| 1d6 X 10 PO|
 |21|2d6 X 10 PO|
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30|Parce qu'il y a de l'espoir, relancer sur la table Bonne nouvelle|
+|22|-|
+|23|-|
+|24|-|
+|25|-|
+|26|-|
+|27|-|
+|28|-|
+|29|-|
+|30|Parce qu'il y a de l'espoir, relancer sur la table **Bonne nouvelle**|
 
 ### Bonne nouvelle
 |Détermination|Bonne nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Faux espoir, relancer sur la table la vie suit son cour|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30|Parce qu'il y a de l'espoir, relancer sur la table très bonne nouvelle|
+|4-10|Faux espoir, relancer sur la table **La vie suit son cour**|
+|11|-|
+|12|-|
+|13|-|
+|14|-|
+|15|-|
+|16|-|
+|17|-|
+|18|-|
+|19|-|
+|20|-|
+|21|-|
+|22|-|
+|23|-|
+|24|-|
+|25|-|
+|26|-|
+|27|-|
+|28|-|
+|29|-|
+|30|Parce qu'il y a de l'espoir, relancer sur la table **Très bonne nouvelle**|
 
 ### Très bonne nouvelle
 |Détermination|Très bonne nouvelle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Faux espoir, relancer sur la table bonne nouvelle|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30|Parce qu'il y a de l'espoir, relancer sur la table Miracle|
+|4-10|Faux espoir, relancer sur la table **Bonne nouvelle**|
+|11|-|
+|12|-|
+|13|-|
+|14|-|
+|15|-|
+|16|-|
+|17|-|
+|18|-|
+|19|-|
+|20|-|
+|21|-|
+|22|-|
+|23|-|
+|24|-|
+|25|-|
+|26|-|
+|27|-|
+|28|-|
+|29|-|
+|30|Parce qu'il y a de l'espoir, relancer sur la table **Miracle**|
 
 ### Miracle
 |Détermination|Miracle|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Faux espoir, pas de miracle, relancer sur la table très bonne nouvelle|
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
+|4-10|Faux espoir, pas de miracle, relancer sur la table **Très bonne nouvelle**|
+|11|-|
+|12|-|
+|13|-|
+|14|-|
+|15|-|
+|16|-|
+|17|-|
+|18|-|
+|19|-|
+|20|-|
+|21|-|
+|22|-|
+|23|-|
+|24|-|
+|25|-|
+|26|-|
+|27|-|
+|28|-|
+|29|-|
+|30|-|
