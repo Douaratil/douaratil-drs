@@ -369,7 +369,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |23|-|
 |24|Bagarre générale dans une taverne ou un bordel, 3d6 (explosifs) mort et bâtiment (si possédé) perdu|
 |25|Conflits entre familles, 1000 PO de dégâts, 2d6 (explosif) colons morts, perte d'une maison|
-|26|-|
+|26|Raid mineur surle quartier, perte de 1d6|
 |27|Puit souillé (200 PO pour l'assainir sans délai ou détruit), 1d6 (explosif) colons morts|
 |28|Puit asséché (400 PO pour le réparer sans délai ou détruit)|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **Mauvaises nouvelles**|
