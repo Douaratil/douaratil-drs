@@ -7,19 +7,15 @@ title:  Holtseidar
 
 |Niveau|Aptitudes|
 |:-:|:-:|
-|**3**|[Expert](#expert)|
-|**5**|[Oeil du gardien des runes](#oeil-du-gardien-des-runes)|
-|**6**|[Pierre de puissance  ](#pierre-de-puissance)|
-|**7**|[Compagnon animal renard](#compagnon-animal-renard )|
-|**8**|[Critique brutal (+1d6)](#critique-brutal)|
-|**9**|[Seconde Attaque](#seconde-attaque)|
-|**10**|[Pierre de puissance supérieure](#pierre-de-puissance-superieure)|
-|**11**|[Compagnon animal loup](#compagnon-animal-loup )|
-|**12**|[Pierre de puissance suprême](#pierre-de-puissance-supreme)|
-|**13**|[Critique brutal (+2d6)](#critique-brutal)|
-|**14**|[Compréhension](#comprehension)|
-|**17**|[Compagnon animal second loup](#compagnon-animal-second-loup ), [Critique brutal (+3d6)](#critique-brutal)|
-|**19**|[Troisième Attaque ](#troisieme-attaque )|
+|**3**|[Peinture sacrée (max +1)](#peinture-sacree)|
+|**5**|[Style de combat (Archérie)](#style-de-combat)|
+|**6**|[Attaque supplémentaire (seconde)](#attaque-supplementaire)|
+|**7**|[Peinture sacrée (max +2)](#peinture-sacree)|
+|**8**|[Lame experte](#lame-experte)|
+|**10**|[Tireur expert](#tireur-expert)|
+|**11**|[Peinture sacrée (max +3)](#peinture-sacree)|
+|**15**|[Peinture sacrée (max +4)](#peinture-sacree), [Attaque supplémentaire (troisième)](#attaque-supplementaire), [Salve](#salve)|
+|**19**|[Peinture sacrée (max +5)](#peinture-sacree)|
 |**20**|[Véritable Holtseidar](#veritable-holtseidar)|
 
 ## Aptitudes d'Archétype
@@ -27,66 +23,52 @@ En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires  
-**Armes** : armes courantes, épée longue, Hache de bataille  
-**Outils** : Deux instruments de musique de votre choix    
-**Jets de sauvegarde** : Dextérité, Charisme  
+**Armes** : armes courantes, épée longue, arc long, arc composite  
+**Outils** : aucun  
+**Jets de sauvegarde** : Dextérité, sagesse  
 **Compétences** : choisissez trois compétences au choix  
 **Conditions d'accessibilité**: Être de culture Melg  
 **Points de Magie** : Le Holtseidar est un Archétype de connaissance, de ce fait, il développe les points de Magie (PM) s’il emprunte la voie de la Magie.  
 
-Les Holtseidars l’une des castes magiques chez les Melgs. D’approche moins chamanique que le Vitnar, il marque son pouvoir dans la pierre à l’aide de runes puissantes. Considérés chez les Melgs comme des personnes hors du commun, les Holtseidars sont rarement inquiétés et sont laissés libres par les Rolfs qui apprécient à l’occasion faire appel à leurs services. Redoutables sur le champs de bataille, certains se consacrent plus au renseignement ou à l’enseignement. Il connaissent la plupart du temps de nombreuses légendes et sont appréciés lors des longues soirées d’hiver dans la hutte principale au coin du feu.
-Les Holtseidars de la voie des Armes sont appelés Rûnya Styrke, littéralement «Rune de force». Les Holtseidars de la voie de l’Ombre sont appelés Rûnya Snabb, littéralement «Rune de vitesse». Les Holtseidars de la voie de la Magie sont appelés Rûnya Syn, littéralement « Ruune de vision».
-
-### Expert
-**En Melg : Ekspert**  
-À partir du niveau 3, en remplacement de l'aptitude vigilance primitive, vous obtenez la maîtrise de deux compétences supplémentaires au choix. Vous pouvez choisir deux compétences parmi celles que vous maîtrisez déjà, et dans ce cas vous doublez leur bonus de maîtrise.  
-
-### Oeil du gardien des runes
-**En Melg : Oye Vaktare Runa**  
-À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchants.  
+Les Holtseidars l’une des castes de guerries magiciens chez les Melgs. D’approche moins chamanique que le Vitnar, il marque son pouvoir dans ses peintures corporelles à l'aide de runes puissantes. Considérés chez les Melgs comme des personnes hors du commun, les Holtseidars sont rarement inquiétés et sont laissés libres par les Rolfs qui apprécient à l’occasion faire appel à leurs services. Redoutables sur le champs de bataille, certains se consacrent plus au renseignement ou à l’enseignement. Il connaissent la plupart du temps de nombreuses légendes et sont appréciés lors des longues soirées d’hiver dans la hutte principale au coin du feu.
+Les Holtseidars de la voie des Armes sont appelés Rûnya Styrke, littéralement «Rune de force». Les Holtseidars de la voie de l’Ombre sont appelés Rûnya Snabb, littéralement «Rune de vitesse». Les Holtseidars de la voie de la Magie sont appelés Rûnya Syn, littéralement « Rune de vision».
 
 
-### Pierre de puissance  
-**En Melg : Sten Strom**  
-À partir du niveau 6, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +1 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être semi-précieuse d’une valeur de 100po.  
+### Peinture sacrée  
+**En Melg : Hellig Maleri**
+Au niveau 3, l'Holtseidar peut broyer différents pigments pour créer un onguent qui lui servira à appliquer des runes sur son corps ou celui d'autrui. Il ne peut pas appliquer plus de runes que le total de son modificateur de sagesse (minimum 1). Il peut révoquer une rune par une simple action, même sur une personne différente et éloignée de lui.   
+La rune donne un bonus sur n'importe quelle compétence ou jet de sauvegarde mais aussi sur n'importe quelle jauge (Action, Magie, Foi ou Honneur) ou encore la VD. Les caractéristiques ne sont pas affectées directement Le bonus octroyé ne peut jamais dépasser le modificateur de Sagesse et le total des points cumulés sur les runes ne peux jamais dépasser son niveau.    
+La rune a aussi la limitation suivante, elle peut donner un bonus mais son maximum reste limité par le niveau du personnage avec le tableau suivant:   
 
-### Compagnon animal renard
-**En Melg : Dyrefølger**  
-À partir du niveau 7, le Skell s’attache les services d’un renard roux. L’animal ne s’éloigne jamais plus de 20 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.
+|Niveau|Bonus maximum|
+|:-:|:-:|
+|**3**|+1|
+|**7**|+2|
+|**11**|+3|
+|**15**|+4|
+|**19**|+5|
 
-### Critique brutal  
-**En Melg : Krit Valdsam**  
-À partir du niveau 8, quand vous blessez un adversaire et que vous lui causez un coup critique (c’est à dire plus de dégâts que sa valeur de constitution), vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts.
-À partir du niveau 13, vous lancez deux dés additionnels, et trois dés à partir du niveau 17.  
+### Style de combat  
+**En Melg : Kampstil**  
+Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
 
-### Seconde Attaque
-**En Melg : SekundAngreb**  
- À partir du niveau 9, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous choisissez une arme de prédilection parmi celles que vous maîtrisez et vous ajoutez +2 aux Dégâts.
+### Attaque supplémentaire  
+**En Melg : Manangreb**  
+À partir du niveau 6, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
+Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Holtseidar vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +2 aux dégâts au niveau 6 et +3 au niveau 15.  
 
-### Pierre de puissance supérieure  
-**En Melg : Sten Strom överlägsen**  
-À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
+### Lame experte
+**En Melg : Ekspertblad**  
+Au niveau 8, vous gagnez une maîtrise supplémentaire de l'épée longue. Si vous possédez déjà la double maîtrise, vous obtenez alors un bonus de +2.   
 
-### Compagnon animal loup
-**En Melg : Dyrefølger**  
-À partir du niveau 11, le Skell s’attache les services d’un loup. L’animal ne s’éloigne jamais plus de 40 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.  
+### tireur expert
+**En Melg : Ekspertblad**  
+Au niveau 10, vous gagnez une maîtrise supplémentaire de l'arc long et de l'arc composite. Si vous possédez déjà la double maîtrise, vous obtenez alors un bonus de +2.   
 
-### Pierre de puissance suprême    
-**En Melg : Sten Strom överpeme**  
-À partir du niveau 12, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +3 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 600po.  
-
-### Compréhension  
-**En Melg : Förstå**  
-À partir du niveau 14, le Skell apprend une langue supplémentaire.  
-
-### Compagnon animal second loup
-**En Melg : Dyrefølger**  
-À partir du niveau 17, le Skell s’attache les services d’un second loup. L’animal ne s’éloigne jamais plus de 80 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.  
-
-### Troisième Attaque  
-**En Melg : Tredje Angreb**  
-À partir du niveau 19, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous ajoutez +4 aux Dégâts supplémentaires à l’arme de prédilection que vous aviez choisis précédemment.  
+### Salve  
+**En Melg : salva'h**  
+À partir du niveau 15, vous pouvez utiliser votre action pour faire une attaque à distance contre autant de créatures que vous le voulez, dans la mesure où elles se trouvent dans un rayon de 3 mètres autour d'un point que vous avez défini dans la zone de portée de votre arme. Vous devez avoir une munition pour chaque cible, bien entendu, et vous lancez un jet d'attaque séparé pour chaque cible.  
 
 ### Véritable Holtseidar    
 **En Melg : Holtseidar**  
-Au niveau 20, le Holtseidar est accompli et augmente ses caractéristiques de * et de * de 2 points sans pouvoir dépasser 22.
+Au niveau 20, le Holtseidar est accompli et augmente ses caractéristiques de Dextérité et de Sagesse de 2 points sans pouvoir dépasser 22.
