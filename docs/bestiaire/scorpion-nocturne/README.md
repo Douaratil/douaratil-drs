@@ -29,6 +29,9 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+## Scorpion nocturne
+&nbsp;
+[![Scorpion nocturne](https://www.douaratil.fr/illustrations/bete/scorpionnocturnem.png)](https://www.douaratil.fr/illustrations/bete/scoprionnocturne.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions

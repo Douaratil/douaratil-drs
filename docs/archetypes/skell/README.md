@@ -55,7 +55,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 
 ### Critique brutal  
 **En Melg : Krit Valdsam**  
-À partir du niveau 8, quand vous blessez un adversaire et que vous lui causez un coup critique (c’est à dire plus de dégâts que sa valeur de constitution), vous pouvez lancer un dé de dégâts additionnel quand vous déterminez les dégâts.
+À partir du niveau 8, quand vous blessez un adversaire et que vous lui causez un coup critique (c’est à dire plus de dégâts que sa valeur de constitution), vous lancezun dé de dégâts additionnel quand vous déterminez les dégâts sur la table des critiques.
 À partir du niveau 13, vous lancez deux dés additionnels, et trois dés à partir du niveau 17.  
 
 ### Seconde Attaque
