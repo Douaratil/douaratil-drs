@@ -96,7 +96,7 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 _**Ruse**_.  *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
 
 _**Peinture sacrée**_.  *(Holtseidar)* Au niveau 3, l'Holtseidar peut broyer différents pigments pour créer un onguent qui lui servira à appliquer des runes sur son corps ou celui d'autrui. Il ne peut pas appliquer plus de runes que le total de son modificateur de sagesse (minimum 1). Il peut révoquer une rune par une simple action, même sur une personne différente et éloignée de lui.   
-La rune donne un bonus sur n'importe quelle compétence ou jet de sauvegarde mais aussi sur n'importe quelle jauge (Action, Magie, Foi ou Honneur) ou encore la VD. Les caractéristiques ne sont pas affectées directement Le bonus octroyé ne peut jamais dépasser le modificateur de Sagesse et le total des points cumulés sur les runes ne peux jamais dépasser son niveau.    
+La rune donne un bonus sur n'importe quelle compétence ou jet de sauvegarde mais aussi sur n'importe quelle jauge (Action, Magie, Foi ou Honneur) ou encore la VD. Les caractéristiques ne sont pas affectées directement Le bonus octroyé ne peut jamais dépasser le modificateur de Sagesse et le total des points cumulés sur les runes ne peut jamais dépasser son niveau.    
 La rune a aussi la limitation suivante, elle peut donner un bonus mais son maximum reste limité par le niveau du personnage avec le tableau suivant:   
 
 |Niveau|Bonus maximum|
