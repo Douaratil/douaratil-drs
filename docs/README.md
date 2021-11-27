@@ -16,6 +16,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 59
 
+- Modification de la compétence [Coup parfait du Seibahkami](/archetypes/seibahkami/#coup-parfait) prenant désormais en compte les règles du coup critique.   
+- Ajout des illustrations du [Kakishikh](/bestiaire/kakishikh) et du [Diadebaide](/bestiaire/diadebaide).
+- Mise à jour des Chroniques d'[Okther](/chroniques/miz-okther-721) et de de [Du](/chroniques/miz-du-721) avec les liens.   
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 27 novembre 2021_
+§§§   
+
+## Mise à jour 59
+
 - Modification de la compétence [Critique brutal du Skell](/archetypes/skell/#critique-brutal) prenant désormais en compte les règles du coup critique.   
 - Ajout des illustrations du [Scorpion](/bestiaire/scorpion), [Scorpion géant](/bestiaire/scorpion-geant), [Scorpion nocturne](/bestiaire/scorpion-nocturne), [Scorpion stygien](/bestiaire/scorpion-stygien).  
 - Ajout des illustrations section règle [Coups critiques](/tables-de-degats-et-de-coups-critiques/)].   

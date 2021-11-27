@@ -39,6 +39,9 @@ languages:
 telepathy: 36
 
 ---
+## Kakishikh
+&nbsp;
+[![Kakishikh](https://www.douaratil.fr/illustrations/fielon/kakishikhm.png)](https://www.douaratil.fr/illustrations/fielon/kakishikh.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

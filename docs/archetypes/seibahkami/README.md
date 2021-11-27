@@ -62,7 +62,7 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 
 ### Coup parfait  
 **En Yotaï : Nōsotchū Kanpeki**  
-À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts supplémentaires causés par un coup critique lors d'une attaque de corps-à-corps, c’est à dire que les dégâts ont dépassé la valeur de la constitution de l’adversaire..  
+À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts sur la table des coups critiques lors d'une attaque de corps-à-corps.  
 À partir du niveau 13, vous lancez deux dés additionnels (+2d6), trois dés (+3d6) à partir du niveau 17 et quatre dés (+4d6) au niveau 20.  
 
 ### Frappe majestueuse  
