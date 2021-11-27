@@ -17,6 +17,15 @@ La montagne en colère
 ## Dif'alquadim
 Cette pyramide est la trace d'une ancienne civilisation. Son nom signifie la sépulture ancienne.  
 
+## Ichibi   
+Grand lac peu profond, riche en poisson avec de grandes étendues de roseaux.   
+
+## Idolobha elikhulu  
+Cette grande cité Sooghaï se situe au nord des royaumes Sooghaïs et est tenue par des grands chefs de guerre qui commercent avec les Ashkémites (esclaves, ivoire, bois préciuex, animaux exotiques....).   
+
+## Ihlathi Lesihogo  
+Littéralement la "forêt infernale" en langue Soogh. Jungle impénétrable remplie de dangers inombrables.
+
 ## Jazirham  
 L'île rouge.
 
@@ -37,3 +46,6 @@ Nyttlandyan est une colonie de peuples du nords exilés à cause des guerres. Le
 
 ## Sarha'alkubhan'almlia
 Le grand désert de dune.  
+
+## Ulwandle  
+La mer intérieure en langue Soogh.

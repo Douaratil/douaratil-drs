@@ -29,6 +29,10 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 
 - Éléments entre parenthèses : Un (casque) ou un (bouclier) à côté d'un résultat critique signifie que si la cible possède l'objet approprié, l'effet ne se produit pas.
 
+## Coups critiques
+&nbsp;
+[![Coups critiques](https://www.douaratil.fr/illustrations/regles/coupcritiquem.png)](https://www.douaratil.fr/illustrations/regles/coupcritique.jpg)  
+
 ### Jets critiques Tranchants, contondants, perforants, contre les grandes créatures, contre les très grandes créatures et créatures gigantesques.  
 |Jet|Tranchant |contondant|Perforant|Contre Grandes Créatures|Contre Très grandes & Gigantesques|
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -64,6 +68,9 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |39|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort|Tête, Mort|
 |40+|Tête, décapitation, Mort instantanée, +5 init pour le rd suivant|Tête enfoncée, Mort instantanée, +5 init pour le rd suivant|Tête, transperçée, Mort instantanée, +5 init pour le rd suivant|Tête, Mort instantanée, +5 init pour le rd suivant|Tête, Mort instantanée, +5 init pour le rd suivant|   
 
+## Coups critiques
+&nbsp;
+[![Coups critiques](https://www.douaratil.fr/illustrations/regles/coupcritique2m.png)](https://www.douaratil.fr/illustrations/regles/coupcritique2.jpg)  
 
 ### Jets critiques de feu, de froid, foudre, radiant, tonnerre
 |Jet|Feu |Froid|Foudre|Radiant|Tonnerre|

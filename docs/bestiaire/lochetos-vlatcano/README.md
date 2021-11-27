@@ -184,7 +184,7 @@ Lôchetos possède l'équipement suivant :
 - piège à mâchoire
 - torches (2)
 - vêtement discrets
-- 64 PC, 5247 PA, 50 PE, 12385 PO, 70 PP.  
+- 64 PC, 5247 PA, 50 PE, 11885 PO, 70 PP.  
 §§§
 
 §§§ .hero
@@ -231,6 +231,10 @@ Lôchetos possède l'équipement suivant :
 |Temple|0|0|0|0|-|0|0d6 pp|1|
 |**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
 
+**Colons** : 27    
+**Trésor** : 0  
+**Nourriture** : 0  
+
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
@@ -253,4 +257,6 @@ Lôchetos possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-weight</v-icon> Commerce
 Achat de quatre grandes barques
+tentes et vêtements adaptés a la vie dans le désert + matos essentiel pour la récolte d’eau
+
 §§§

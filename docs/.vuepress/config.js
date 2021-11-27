@@ -711,6 +711,11 @@ module.exports = {
                 title: "Miz Okther 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-okther-721'
+              },
+              {
+                title: "Miz du 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-du-721'
               }
             ]
           },

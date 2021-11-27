@@ -27,6 +27,9 @@ dungeonTypes:
   - Caverne naturelle
 
 ---
+## Scorpion géant
+&nbsp;
+[![Scorpion géant](https://www.douaratil.fr/illustrations/bete/scorpiongeantm.png)](https://www.douaratil.fr/illustrations/bete/scorpiongeant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions

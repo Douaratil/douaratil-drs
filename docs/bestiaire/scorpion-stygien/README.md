@@ -1,5 +1,5 @@
 ---
-title: "Scorpion stygien à large queue"
+title: "Scorpion stygien"
 type: "Bête"
 size: "TP"
 alignment: "non-alignée"
@@ -28,6 +28,9 @@ dungeonTypes:
   - Caverne aménagée
 
 ---
+## Scorpion stygien
+&nbsp;
+[![Scorpion stygien](https://www.douaratil.fr/illustrations/bete/scorpionstygienm.png)](https://www.douaratil.fr/illustrations/bete/scorpionstygien.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## Actions
