@@ -60,7 +60,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 
 ### Seconde Attaque
 **En Melg : SekundAngreb**  
- À partir du niveau 9, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous choisissez une arme de prédilection parmi celles que vous maîtrisez et vous ajoutez +2 aux Dégâts.
+ À partir du niveau 9, vous pouvez [_attaquer_](/combattre/#attaquer) deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous choisissez une arme de prédilection parmi celles que vous maîtrisez et vous ajoutez +2 aux Dégâts.
 
 ### Pierre de puissance supérieure  
 **En Melg : Sten Strom överlägsen**  

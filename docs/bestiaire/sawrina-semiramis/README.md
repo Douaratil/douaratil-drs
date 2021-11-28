@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "14"
-customHP: "58"
+challenge: "15"
+customHP: "61"
 abilityScores:
   for: 10
   dex: 20
   con: 16
   int: 10
-  sag: 16
+  sag: 17
   cha: 10
 customSavingThrows: "for +0, dex(••) +15, con +3, int(•) +5, sag(•) +8, cha +0"
 savingThrows:
@@ -81,7 +81,7 @@ _**Historique  Médecin:**_.
 
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 
-_**Voie des ombres & Nayane**_. Sawrina est niveau 13 dans la voie des ombres et Archétype Nayane.  
+_**Voie des ombres & Nayane**_. Sawrina est niveau 15 dans la voie des ombres et Archétype Nayane.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation, survie, perception**  
 
@@ -121,6 +121,10 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 _**Immunité au poison**_. *(Nayane)*  A partir du niveau 10, la Nayane est immunisée à toutes les formes de poison.  
 
 _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.  
+
+_**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.  
+
+_**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
@@ -164,7 +168,7 @@ Sawrina possède l'équipement suivant :
 - onguent de soin (1) (récup 1d6 pa, doit être au calme)
 - potion de soin (1) (récup 1d6+2 pa)
 - serpes (2) sacrificielles finement ouvragées (Valeur 100po pièce)
-- 771 PC, 12226 PA, 49 PE & 1803 PO, 79 PP.  
+- 771 PC, 13026 PA, 49 PE & 1823 PO, 79 PP.  
 §§§
 
 §§§ .hero
@@ -194,16 +198,16 @@ Sawrina possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Maison|2|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**2d6 pa**|**-**|
 
-**Colons** : 17  
+**Colons** : 38  
 **Trésor** : 0
 **Nourriture** : 0
 
@@ -211,16 +215,16 @@ Sawrina possède l'équipement suivant :
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-17|-22|**-29**|
+|12 --->|0|0|0|0|-28|**-28**|
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 149 585
-**Points de Foi** :15   
-**Points d'honneur** :46
+**XP acquis** : 169 751
+**Points de Foi** :17   
+**Points d'honneur** :45
 §§§
 
 §§§ .hero

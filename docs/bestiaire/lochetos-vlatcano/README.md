@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "12"
-customHP: "50"
+challenge: "13"
+customHP: "53"
 abilityScores:
   for: 10
   dex: 14
   con: 14
   int: 10
   sag: 12
-  cha: 19
-customSavingThrows: "for +1, dex(••) +10, con +3, int(•) +4, sag +2, cha(•) +8 "
+  cha: 20
+customSavingThrows: "for +1, dex(••) +12, con +3, int(•) +5, sag +2, cha(•) +10 "
 savingThrows:
   - "dex"
   - "dex"
@@ -28,42 +28,42 @@ skills:
   - name: "custom"
     value: "arcanes(touche à tout) +2"
   - name: "custom"
-    value: "athlétisme(••) +8"
+    value: "athlétisme(••) +10"
   - name: "custom"
-    value: "discrétion(••) +9"
+    value: "discrétion(••) +12"
   - name: "custom"
     value: "dressage(touche à tout) +3"
   - name: "custom"
     value: "escamotage(touche à tout) +4"
   - name: "custom"
-    value: "histoire(•) +4"
+    value: "histoire(•) +6"
   - name: "custom"
-    value: "intimidation(touche à tout) +6"
+    value: "intimidation(touche à tout) +7"
   - name: "custom"
-    value: "investigation(••) +8"
+    value: "investigation(••) +10"
   - name: "custom"
     value: "médecine(touche à tout) +3"
   - name: "custom"
     value: "nature(touche à tout) +2"
   - name: "custom"
-    value: "perception(••) +9"
+    value: "perception(••) +11"
   - name: "custom"
-    value: "perspicacité(••) +9"
+    value: "perspicacité(••) +10"
   - name: "custom"
-    value: "persuasion(••) +12"
+    value: "persuasion(••) +15"
   - name: "custom"
     value: "religion(touche à tout) +2"
   - name: "custom"
-    value: "représentation(••) +12"
+    value: "représentation(••) +15"
   - name: "custom"
-    value: "supercherie(••) +12"
+    value: "supercherie(••) +15"
   - name: "custom"
     value: "survie(touche à tout) +3"
 movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (2/1) "
+  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (3/1) "
 category: "PJ"
 ---
 ## Lochetos Vlatcano
@@ -80,7 +80,7 @@ _**Historique:**_ Limier.
 
 _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 11 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 13 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 (Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)  
@@ -132,20 +132,20 @@ _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez a
 
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm +4, Dex +1, Duel +2), allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +5, Bm +5, Dex +1, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 6 dégâts tranchants (Finesse & légère).
 
-_**Glaive**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +0, Duel +2), allonge 1,50 m, une cible.  
+_**Glaive**_. _Attaque d'arme au corps à corps_ : +12 pour toucher (Bm +5, Bm +5, For +0, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +10 pour toucher (Bm +4, Bm +4, For +0, Duel +2), allonge 1,50 m, une cible.  
+_**Hache**_. _Attaque d'arme au corps à corps_ : +12 pour toucher (Bm +5, Bm +5, For +0, Duel +2), allonge 1,50 m, une cible.  
 _Touché_ : 4 dégâts tranchants (6 à deux mains).
 
-_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +11 pour toucher (Bm +4, Bm +4, Dex +1, Duel +2), portée 6/18.  
+_**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +5, Bm +5, Dex +1, Duel +2), portée 6/18.  
 _Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher (Bm +4, Bm +4, Dex +1), portée 24/96.  
+**Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher (Bm +5, Bm +5, Dex +1), portée 24/96.  
 _Touché_ : 4 dégâts perforants .
 
 &nbsp;
@@ -184,7 +184,7 @@ Lôchetos possède l'équipement suivant :
 - piège à mâchoire
 - torches (2)
 - vêtement discrets
-- 64 PC, 5247 PA, 50 PE, 11885 PO, 70 PP.  
+- 64 PC, 8147 PA, 50 PE, 9885 PO, 70 PP.  
 §§§
 
 §§§ .hero
@@ -211,7 +211,7 @@ Lôchetos possède l'équipement suivant :
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Basse-cour|2|0|-|0|2d6|0|2d6 pa|1/5 maisons|
 |Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
@@ -222,16 +222,16 @@ Lôchetos possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Maison|5|5|-|-|-|25|5d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|**Total**|**4**|**4**|**0**|**0**|**2d6**|**25**|**5d6 pa**|**-**|
 
-**Colons** : 27    
+**Colons** : 23    
 **Trésor** : 0  
 **Nourriture** : 0  
 
@@ -247,10 +247,10 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 111 825
+**XP acquis** : 129 371   
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** :48     
+**Points d'honneur** : 51      
 **famille** : une amante et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
 §§§
 

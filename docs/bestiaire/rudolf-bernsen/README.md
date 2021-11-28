@@ -4,11 +4,11 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "10"
-customHP: "54"
+challenge: "11"
+customHP: "58"
 abilityScores:
   for: 21
-  dex: 16
+  dex: 17
   con: 14
   int: 9
   sag: 12
@@ -82,7 +82,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, flûte, tambourin.  
 
-_**Voie des armes & Skell**_. Rudolf est niveau 10 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Skell**_. Rudolf est niveau 11 dans la voie des armes et Archétype Skell.
 
 _**Style de combat Protection**_. *(Armes)* Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.    
 
@@ -111,15 +111,14 @@ _**Seconde Attaque**_.  *(Skell)*  À partir du niveau 9, vous pouvez [_attaquer
 
 _**Pierre de puissance supérieure**_.  *(Skell)*  À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
+_**Compagnon animal loup**_.  *(Skell)*  À partir du niveau 11, le Skell s’attache les services d’un loup. L’animal ne s’éloigne jamais plus de 40 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.  
+
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
-_**Attaques multiples**_. Rudolf effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
+_**Attaques multiples**_. Rudolf effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher , allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
-
-_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_**[Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse)(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4 dégâts contondant.
 
 _**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
 _Touché_ : 4 dégâts perforants .  
@@ -154,16 +153,14 @@ Rudolf possède l'équipement suivant :
 - flèches (29)
 - flûte
 - [flûte de charme](/liste-objets-magiques/flute-de-charme)
-- hache
 - [Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse)
 - sac
 - onguent de soin (2) (récup 1d6 pa, doit être au calme)
 - opaline (val 300po enchantée pour la DEX +2)
-- pique
 - tambourin
 - tente
 - tenue de voyageur
-- 3560 PC,  3395 PA, 12 PE, 1895 PO, 45 PP.
+- 4260 PC,  3495 PA, 12 PE, 16354 PO, 45 PP.
 §§§
 
 §§§ .hero
@@ -193,17 +190,17 @@ Rudolf possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Maison|2|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**2d6 pa**|**-**|
 
 
-**Colons** : 17     
+**Colons** : 29     
 **Trésor** : 0   
 **Nourriture** : 0   
 
@@ -211,16 +208,16 @@ Rudolf possède l'équipement suivant :
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|10 --->|0|0|0|-17|-12|**-19**|
+|11 --->|0|0|0|0|-19|**-19**|
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 71 754    
+**XP acquis** : 90 595   
 **Points de Magie** :9    
 **Points de Foi** :12    
-**Points d'honneur** :34      
+**Points d'honneur** :36      
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 La valeur naturelle de Force de Rudolf est de 16.  
