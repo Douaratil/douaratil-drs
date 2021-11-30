@@ -57,4 +57,4 @@ _**Résistance à la magie**_. L'archimage bénéficie d'un [_avantage_](/utilis
 
 ## Actions
 _**Dague**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 ou portée 6/18 m, une cible.  
-_Touché_ : 4 dégâts perforants.
+_Touché_ : 1d6+2 dégâts perforants.

@@ -68,13 +68,13 @@ _**Armes magiques**_. Les attaques d'arme d'Ashkam sont magiques.
 _**Attaques multiples**_. Ashkam porte une attaque de _morsure_, une d'_aile_ et une de _serres_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 10 dégâts perforants.
+_Touché_ : 7d6+4 dégâts perforants.
 
 _**Aile**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 4,50 m, une cible.  
-_Touché_ : 10 dégâts contondants et la cible doit réussir un jet de sauvegarde de Force DD 17, sans quoi elle est jetée _à terre_.
+_Touché_ : 4d6+4 dégâts contondants et la cible doit réussir un jet de sauvegarde de Force DD 17, sans quoi elle est jetée _à terre_.
 
 _**Serres**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 10 dégâts tranchants et la cible est _empoignée_ et _entravée_ (évasion DD 17). Ashkam peut empoigner une créature à la fois s'il se trouve au sol et deux s'il est en train de voler. Il ne peut pas utiliser les serres qu'il utilise pour empoigner une créature pour frapper une autre créature.
+_Touché_ : 3d6+4 dégâts tranchants et la cible est _empoignée_ et _entravée_ (évasion DD 17). Ashkam peut empoigner une créature à la fois s'il se trouve au sol et deux s'il est en train de voler. Il ne peut pas utiliser les serres qu'il utilise pour empoigner une créature pour frapper une autre créature.
 
 ## Actions légendaires
 Alquam peut faire 3 actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, Ashkam récupère les actions légendaires dépensées.

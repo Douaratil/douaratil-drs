@@ -32,4 +32,4 @@ _**Tactique de groupe**_. Le babouin obtient un [_avantage_](/utiliser-les-carac
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts perforants.
+_Touché_ : 1d6 dégâts perforants.

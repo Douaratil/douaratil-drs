@@ -60,10 +60,10 @@ telepathy: 36
 ***Attaques multiples***. Un akau-keshake porte une attaque de _morsure_ et deux attaques de _griffes_.
 
 ***Morsure***. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.
 
 ***Griffes***. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 3d6+5 dégâts tranchants.
 
 ## Variante : Convocation de démon
 Certains akau-keshakes possèdent une action qui leur permet de convoquer d'autres démons.

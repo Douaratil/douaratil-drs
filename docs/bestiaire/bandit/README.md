@@ -27,7 +27,7 @@ languages:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## Actions
 _**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96 m, une cible.  
-_Touché_ : 4 dégâts perforants.
+_Touché_ : 2d6+1 dégâts perforants.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants.
+_Touché_ : 2d6+1 dégâts tranchants.

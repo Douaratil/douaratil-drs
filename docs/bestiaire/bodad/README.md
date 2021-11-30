@@ -64,10 +64,10 @@ _**Inébranlable**_. Un Bodad ne peut pas se trouver dans l'état _terrorisé_ t
 _**Attaques multiples**_. Un Bodad porte trois attaques de _dard_ et deux attaques de _faux_. Il peut également faire une attaque de _morsure_ contre une cible qu'il a _empoignée_.
 
 _**Faux**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 8 dégâts tranchants, ou le Bodad peut à la place se saisir d'une cible de taille Moyenne ou inférieure à l'aide de ses plus petits bras vestigiaux (aucun dégât, évasion DD 13).
+_Touché_ : 4d6+3 dégâts tranchants, ou le Bodad peut à la place se saisir d'une cible de taille Moyenne ou inférieure à l'aide de ses plus petits bras vestigiaux (aucun dégât, évasion DD 13).
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible _empoignée_.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 5d6+3 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible subit 3d6 dégâts de poison de conversion au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du Bodad pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un Bodad, son cadavre éclate et il en sort un [débu](/bestiaire/debu/) nouvellement formé et couvert d'un liquide immonde. Ce débu est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par [_restauration inférieure_](/grimoire/restauration-inferieure/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/) ou une magie comparable.
+_Touché_ : 3d6+3 dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible subit 3d6 dégâts de poison de conversion au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du Bodad pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un Bodad, son cadavre éclate et il en sort un [débu](/bestiaire/debu/) nouvellement formé et couvert d'un liquide immonde. Ce débu est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par [_restauration inférieure_](/grimoire/restauration-inferieure/), [_protection contre le poison_](/grimoire/protection-contre-le-poison/) ou une magie comparable.

@@ -79,7 +79,7 @@ _**Aura de confiance**_. Bodidius projette une aura de confiance sur un rayon de
 _**Attaques multiples**_. Bodidius fait deux attaques de _griffes_.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants.
+_Touché_ : 8d6+4 dégâts tranchants.
 
 _**Trait de feu infernal (Recharge 5–6)**_. _Attaque de sort à distance_ : +15 pour toucher, portée 36 m, une cible.  
 _Touché_ : 20d6 dégâts de force plus 10d6 dégâts de tonnerre ; les dégâts de tonnerre sont réduits de moitié sur un jet de sauvegarde de Dextérité DD 20 réussi.  

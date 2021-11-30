@@ -83,7 +83,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Marteau léger|2 po|1d6 contondant|1 kg|Légère, lancer (6/18)|
 |Masse d'armes|5 po|2d6 contondant|2 kg|-|
 |Massue|2 pa|2d6+2 contondant|5 kg|À deux mains|
-|Serpe|1 po|+1d6 tranchant|1 kg|Légère|
+|Serpe|1 po|1d6 tranchant|1 kg|Légère|
 |**Armes à distance courantes**|||||
 |Arc court|25 po|2d6 perforant|1 kg|Munitions (portée 24/96), à deux mains|
 |Bolas|5 po|1d6 contondant|1 kg|lancer (portée 6/18)|

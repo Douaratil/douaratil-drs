@@ -49,8 +49,8 @@ _**Restauration magique**_. Vous avez appris comment regagner une partie de votr
 
 ## Actions
 
-_**Serpe sacrificielle +4**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (légère). (arme enchantée de maître)
+_**Serpe sacrificielle +3**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+5 dégâts tranchants (légère). (arme enchantée de maître)
 
 
 

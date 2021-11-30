@@ -61,7 +61,7 @@ _**Chemin tortueux**_. Un Berdu ne laisse pas de traces de son passage à traver
 _**Attaques multiples**_. Un Berdu porte trois attaques de _coup_ et utilise une fois son pouvoir _absorber_.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants et la cible est _empoignée_ (évasion DD 16).
+_Touché_ : 3d6+5 dégâts contondants et la cible est _empoignée_ (évasion DD 16).
 
 _**Absorber**_. Un Berdu attire une créature de taille Moyenne ou inférieure qu'il a _empoignée_ dans son corps. Une créature absorbée ne se trouve plus dans l'état _empoigné_, mais elle est _aveuglée_ et _entravée_, bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur du Berdu, et elle subit 3d6 dégâts perforants plus 8d6 dégâts de poison au début de chacun des tours du Berdu. Un Berdu ne peut contenir ainsi qu'une seule créature à la fois.
 

@@ -30,4 +30,4 @@ _**Téméraire**_. Au début de son tour, le berserker peut bénéficier d'un [_
 
 ## Actions
 _**Hache à deux mains**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants.
+_Touché_ : 2d6+3 dégâts tranchants.

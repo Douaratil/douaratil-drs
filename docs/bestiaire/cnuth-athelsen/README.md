@@ -97,19 +97,19 @@ _**Maître des haches**_. *(Jörghal)* À partir du niveau 6, le Jörghal se uti
 _**Attaques multiples**_. Cnuth effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +11 pour toucher.  
-_Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  
+_Touché_ : 2d6+5 dégâts contondant (polyvalent 2d6+7 à deux mains)  
 
 _**Dague**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).   
+_Touché_ : 1d6+5 dégâts tranchants (portée 6/18).   
 
 _**Hache à deux mains**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 10 dégâts tranchants (à deux mains).  
+_Touché_ : 3d6+5 dégâts tranchants (à deux mains).  
 
 _**Hache**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).  
+_Touché_ : 2d6+7 dégâts tranchants (3d6+5 à deux mains).  
 
 _**Pique**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).  
+_Touché_ : 3d6 dégâts tranchants (lourde, allonge, à deux mains).  
 
 
 

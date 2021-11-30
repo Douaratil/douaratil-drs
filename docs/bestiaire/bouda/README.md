@@ -66,9 +66,9 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un bouda es
 _**Attaques multiples**_. Un bouda porte une attaque de _morsure_ et une attaque de _griffe méphitique_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants plus 3d6 dégâts de poison.
+_Touché_ : 3d6+4 dégâts perforants plus 3d6 dégâts de poison.
 
 _**Griffe méphitique**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver _empoisonnée_ pour 1 round par le nuage de vermines qui grouille autour des bras du bouda.
+_Touché_ : 3d6+4 dégâts tranchants, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver _empoisonnée_ pour 1 round par le nuage de vermines qui grouille autour des bras du bouda.
 
 _**Engloutissement vorace**_. Un bouda dévore les organes d'un cadavre dans l'emplacement occupé par ce dernier. Le bouda gagne une quantité de points d'action temporaires égale au niveau ou à l'ID de la créature morte pour une durée de 1 heure. Les organes qu'il a dévorés à l'aide de ce pouvoir n'existent plus.  

@@ -36,4 +36,4 @@ _**Incantation**_. L'acolyte est un lanceur de sorts de niveau 4. Sa caractéris
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Serpes sacrificielles**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants.  
+_Touché_ : 1d6+1 dégâts tranchants.  

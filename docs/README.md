@@ -19,7 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Le jeu Douaratil est toujours en phase de test et la dernière partie m'a permis de penser à certains ajustements qui permettront d'atténuer certaines inégalités sans modifier complètement le système. Les dés de dégâts sont réintroduits mais prennent tout de même en compte la "marge" du jet d'attaque avec un bonus pour les 6 obtenus (en plus de la possibilité de faire des jets critiques dans certaines conditions).   
 - Les triple 6 ne peuvent plus être parés (ce sont les joueurs qui ne vont pas être contents).   
 - J'en profite pour modifier le menu dans la section équipement et le rendre plus lisible.   
-- Mise à jour du bestiaire en cours. 
+- Mise à jour du bestiaire en cours (Lettre A et B faites). 
 
 Bon jeu.  
 §§§ .text-right

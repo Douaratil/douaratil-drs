@@ -34,4 +34,4 @@ _**Pied sûr**_. La chèvre obtient un [_avantage_](/utiliser-les-caracteristiqu
 
 ## Actions
 _**Coup de bélier**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts contondants.
+_Touché_ : 1d6 dégâts contondants.

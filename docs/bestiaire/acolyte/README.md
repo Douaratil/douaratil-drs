@@ -36,4 +36,4 @@ _**Incantation**_. L'acolyte est un adepte de la voie de la Magie de niveau 3. S
 
 ## <v-icon>mdi-sword-cross</v-icon>  Actions
 _**Gourdin**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts contondants.
+_Touché_ : 1d6 dégâts contondants.

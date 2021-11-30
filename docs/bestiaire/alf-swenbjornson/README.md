@@ -123,19 +123,19 @@ _**Lame experte**_.  *(Holtseidar)* Au niveau 8, vous gagnez une maîtrise suppl
 _**Attaques multiples**_. Alf effectue 2 attaques par round lorsqu'il utilise l'action attaquer.  
 
 _**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .  
+_Touché_ : 2d6+6 dégâts perforants .  
 
 _**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6+3 dégâts tranchants (portée 6/18).  
 
 _**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+3 dégâts tranchants (3d6+1 à deux mains).
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+3 dégâts tranchants (3d6+1 à deux mains).
 
 
 §§§ .hero

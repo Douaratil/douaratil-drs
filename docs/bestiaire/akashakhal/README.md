@@ -68,7 +68,7 @@ _**Convocation de démon (1/jour)**_. Akashakhal peut convoquer un chasme. Le d�
 _**Attaques multiples**_. Akashakhal porte quatre attaques de _griffe_.  
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une cible.    
-_Touché_ : 6 dégâts tranchants.  
+_Touché_ : 4d6+5 dégâts tranchants.  
 
 _**Manteau de nuées (Recharge 5–6)**_. Akashakhal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont _désavantagées_ et Akashakhal peut voir dans toutes les directions (par les yeux des insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akashakhal subit 3d6 dégâts perforants plus 3d6 dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également _empoisonnée_ pendant 1 heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akashakhal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est _empoisonné_ par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.  
 
