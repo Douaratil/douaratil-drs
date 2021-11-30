@@ -268,22 +268,6 @@ Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par le mon
 ### Attaques multiples
 Une créature capable d'effectuer plusieurs attaques lors de son tour peut réaliser l'action « _attaques multiples_ ». Une créature ne peut pas utiliser l'action « _attaques multiples_ » quand elle effectue une attaque d'opportunité car celle-ci consiste en une seule attaque au corps à corps.
 
-### Dégâts
-Les dégâts varient aussi selon la taille qui représente l’inertie de l’objet manipulé ou de la masse de la créature. Les dégâts s’appliquent donc selon le tableau suivant :  
-
-### Dégâts en fonction de la taille.  
-
-| Taille du monstre | Dégâts |
-|:-|:-:|
-| **Très petit** | 1 |
-| **Petit** | 2 |
-| **Moyen** | 3 |
-| **Grand** | 6 |
-| **Très grand** | 10 |
-| **Gigantesque** | 20 |
-
-
-
 ### Munitions
 Un monstre porte sur lui les munitions nécessaires pour effectuer ses attaques à distance. Vous pouvez partir du principe qu'un monstre transporte 2d4 munitions adaptées à son attaque d'arme de jet et 2d10 munitions adaptées à son arme à projectiles, telle qu'un arc ou une arbalète.
 

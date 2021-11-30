@@ -367,7 +367,49 @@ module.exports = {
           {
             title: "Equipement",
             icon: 'mdi-gavel',
-            path: '/equipement/',
+            // path: '/equipement/',
+            children: [
+              {
+                  title: "Système monétaire",
+                  icon: 'mdi-circle-multiple-outline',
+                  path: '/equipement/systeme-monetaire',
+                },
+              {
+                  title: "Armures",
+                  icon: 'mdi-shield',
+                  path: '/equipement/armures',
+                },
+              {
+                  title: "Armes",
+                  icon: 'mdi-sword-cross',
+                  path: '/equipement/armes',
+                },
+              {
+                  title: "Equipement d'aventurier",
+                  icon: 'mdi-gantry-crane',
+                  path: '/equipement/equipement-d-aventurier',
+                },
+              {
+                  title: "Outils",
+                  icon: 'mdi-hammer-wrench',
+                  path: '/equipement/outils',
+                },
+              {
+                  title: "Montures & véhicules",
+                  icon: 'mdi-horse-human',
+                  path: '/equipement/montures-&-vehicules',
+                },
+              {
+                  title: "Marchandises",
+                  icon: 'mdi-barley',
+                  path: '/equipement/marchandises',
+                },
+              {
+                  title: "Dépenses courantes",
+                  icon: 'mdi-baguette',
+                  path: '/equipement/depenses-courantes',
+                },
+            ]
           },
           {
             title: 'Utiliser les caractéristiques',

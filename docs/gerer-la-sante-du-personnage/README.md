@@ -21,7 +21,8 @@ Par exemple, un Beghelm permet à un Dall Dawnser de regagner 8 points d'action 
 Une créature morte ne peut pas regagner de point d'action.
 
 ### Coups critiques
-Un [coup critique](/tables-de-degats-et-de-coups-critiques/) peut entraîner une blessure (fracture, hemorragie, brûlure) qualifiées de mineur ou de majeure. C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action, si le seuil de critique est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
+Un coup critique ne peut être **paré ou esquivé**. Un coup critique est résolu sur la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). Un coup critique peut entraîner une blessure (fracture, hémorragie, brûlure) qualifiées de mineur ou de majeure. Cette blessure est décrite dans la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action (PA), si le seuil de critique (SC) est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
+
 
 #### Type de blessure grave et rythme de guérison  
 

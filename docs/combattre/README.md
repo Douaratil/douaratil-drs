@@ -207,7 +207,8 @@ Que vous portiez une attaque avec une arme de corps-à-corps, une arme à distan
 Si vous vous demandez si une action que vous êtes en train de faire peut être considérée comme une attaque, rappelez-vous une règle simple : si vous faites un [jet d'attaque](/combattre/#jets-d-attaque), c'est que vous être en train de faire une attaque.
 
 ### Jets d'attaque
-Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un 3d6 et ajoutez les modificateurs appropriés, il s'agit de la **Valeur Offensive (VO)**. Si le total du dé et des modificateurs est supérieur ou égal à la **Valeur de défense (VD)** de votre cible, votre attaque est réussie. La VD d'un personnage est déterminée au moment de sa création, tandis que la VD d'un adversaire est indiquée dans ses statistiques.
+Quand vous faites une attaque, votre [jet d'attaque](/combattre/#jets-d-attaque) permet de déterminer si vous touchez votre cible ou non. Pour faire un [jet d'attaque](/combattre/#jets-d-attaque), lancez un 3d6 et ajoutez les modificateurs appropriés, il s'agit de la **Valeur Offensive (VO)**. Si le total du dé et des modificateurs est supérieur ou égal à la **Valeur de défense (VD)** de votre cible, votre attaque est réussie. La VD d'un personnage est déterminée au moment de sa création, tandis que la VD d'un adversaire est indiquée dans ses statistiques.  
+Le jet d'attaque peut modifier les dégâts : pour chaque 6 obtenu il est rajouté +1 aux dégâts.   
 
 #### Modificateurs du jet
 Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un adversaire porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.
@@ -216,7 +217,14 @@ Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux mo
 
 Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer certains sorts. Le modificateur de caractéristique utilisé pour une attaque magique de ce type dépend de la caractéristique d'incantation du lanceur de sorts.
 
-**Bonus de maîtrise**. Quand vous faites une attaque en utilisant une arme que vous maîtrisez, vous ajoutez votre bonus de maîtrise à votre [jet d'attaque](/combattre/#jets-d-attaque). Il en va de même pour les sorts.
+**Bonus de maîtrise**. Quand vous faites une attaque en utilisant une arme que vous maîtrisez, vous ajoutez votre bonus de maîtrise à votre [jet d'attaque](/combattre/#jets-d-attaque). Il en va de même pour les sorts.  
+
+#### Faire un triple 1 ou un triple 6
+Parfois, le destin se montre particulièrement cruel ou clément envers un combattant. Et donc, un novice va parfois réussir une attaque très improbable et le vétéran confirmé va rater un coup tout fait.
+
+Si les d6 lancés pour un jet d'attaque donne un résultat de trois 6 "naturels" ou plus, l'attaque réussit automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **coup critique**, expliqué plus loin dans ce chapitre.
+
+Si les d6 lancés pour un jet d'attaque donne un résultat de trois 1 "naturels" ou plus, l'attaque échoue automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **échec critique**, expliqué plus loin dans ce chapitre.
 
 ### Valeur de Défense
 La Valeur de Défense (VD) est égale à :  
@@ -320,13 +328,13 @@ Une cible qui bénéficie d'un **abri total** ne peut pas être ciblée directem
 Lorsqu'une attaque est réussie, l'adversaire ciblé subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
 
 ### Jets de dégâts ou dégâts fixes
-Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante. Les dégâts causés par une arme sont égaux aux dégâts de l’arme auxquels s’ajoute la marge du jet de toucher, c’est à dire le résultat du jet d’attaque moins la VD, ce qui correspond à la puissance de l’attaque et qui prend en compte ainsi le bonus de caractéristique.
-Certains sorts, ou dégâts liés à des chutes ou des expositions à des substances dangereuses infligent des dés de dégât que vous devez lancez (un ou plusieurs d6), vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. La règle explosive s’applique ici aussi. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.  
+Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante.
+Certains sorts, ou dégâts liés à des chutes ou des expositions à des substances dangereuses infligent des dés de dégât que vous devez lancer (un ou plusieurs d6), vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. La règle explosive s’applique ici aussi. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.  
 Le descriptif d'un sort vous indique quel dé lancer pour calculer les dégâts et si vous devez y ajouter ou non un modificateur.  
 Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.  
 
 #### Coups critiques
-Un coup critique est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit plus que un montant supérieur à la valeur de sa constitution en un seul coup (on parle de seuil de critique) ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action ou que le résultat du jet d'attaque contient trois 6. Le coup critique entraine de plus immédiatement une blessure majeure qui est résolue immédiatement dans la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage).
+Un [coup critique](/tables-de-degats-et-de-coups-critiques) est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit un montant supérieur à la valeur de sa constitution en un seul coup (on parle de seuil de critique (SC)) ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action ou que le résultat du jet d'attaque contient trois 6 au moins. Le coup critique entraine de plus immédiatement une blessure majeure qui est résolue immédiatement dans la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage).
 
 #### Types de dégâts
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.
