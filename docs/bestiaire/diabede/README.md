@@ -59,10 +59,10 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Diabede 
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une unique cible.  
-_Touché_ : 11 (2d6 + 4) dégâts perforants.
+_Touché_ : 2d6 + 4 dégâts perforants.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une unique cible.  
-_Touché_ : 14 (3d6 + 4) dégâts tranchants.
+_Touché_ : 3d6 + 4 dégâts tranchants.
 
 _**Briser la concentration**_. Les voix stridentes et babillantes et les griffes aiguisées des diables d'encre font d'eux une plus grande gêne que leurs compétences martiales pourraient laisser croire. Par une action bonus, un Diabede peut forcer un ennemi unique qui se trouve dans un rayon de 9 mètres à faire un jet de sauvegarde de Sagesse DD 13 ; sur un échec, la cible perd sa concentration jusqu'au début de son prochain tour.
 

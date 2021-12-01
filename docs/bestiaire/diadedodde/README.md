@@ -55,13 +55,13 @@ _**Résistance à la magie**_. Le Diadedodde obtient un [_avantage_](/utiliser-l
 _**Attaques multiples**_. Le Diadedodde effectue quatre attaques : une avec sa morsure, une avec sa griffe, une avec sa masse d'armes et une avec sa queue.
 
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 3d6+8 dégâts tranchants.
 
 _**Masse d'armes**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts contondants plus 6d6 dégâts de feu.
+_Touché_ : 2d6+8 dégâts contondants plus 6d6 dégâts de feu.
 
 _**Morsure**_. Attaque d'arme au corps à corps : +14 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Tant que le poison fait effet, la cible ne peut pas récupérer de points d'action et elle subit 21 (6d6) dégâts de poison au début de chacun de ses tours. La cible [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
+_Touché_ : 4d6+8 dégâts perforants. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Tant que le poison fait effet, la cible ne peut pas récupérer de points d'action et elle subit 21 (6d6) dégâts de poison au début de chacun de ses tours. La cible [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 5d6+8 dégâts contondants.

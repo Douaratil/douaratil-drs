@@ -66,13 +66,13 @@ _**Résistance à la magie**_. Le diable est _avantagé_ lors de ses jets de sau
 _**Attaques multiples**_. Le diable fait porte 3 attaques : une de _morsure_, une de _griffes_ et une avec sa _queue_. Alternativement, il peut utiliser projeter un _rayon lunaire_ deux fois.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 2d6+5 dégâts tranchants.
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 2d6+5 dégâts contondants.
 
 _**Projeter un rayon lunaire**_. _Attaque de sort à distance_ : +7 pour toucher, portée 45 m, une cible.  
 _Touché_ : 6d6 dégâts de froid et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver _aveuglée_ pendant 4 rounds.

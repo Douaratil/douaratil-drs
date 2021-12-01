@@ -70,7 +70,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un diabdo e
 _**Attaques multiples**_. Un diabdo porte deux attaques de _fléau lourd_.
 
 _**Fléau lourd (fléau de l'avarice)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 2d6+5 dégâts contondants.
 
 _**Traîtrise des trésors (Recharge 5–6)**_. Par une action bonus, un diabdo peut faire en sorte que les anneaux, colliers et autres bijoux portés par une créature se retournent momentanément contre celle-ci. Le diable peut ainsi affecter tous les bijoux visibles portés par deux créatures dans un rayon de 18 mètres, de sorte que ceux-ci se trouvent soudain dotés de barbelures et de pointes. Chaque cible doit réussir un jet de sauvegarde de Sagesse DD 15 pour diminuer de moitié les dégâts causés par cet effet. En cas d'échec, une victime subit 4d6 dégâts perforants ainsi qu'un effet supplémentaire en fonction de l'emplacement de l'objet.
 

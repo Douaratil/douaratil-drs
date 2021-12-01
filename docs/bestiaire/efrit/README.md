@@ -49,7 +49,7 @@ _**Trépas élémentaire**_. Quand l'éfrit meurt, son corps se dissout en un é
 _**Attaques multiples**_. L'éfrit effectue deux attaques de cimeterre ou utilise deux fois _Projeter une flamme_.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 16 dégâts tranchants plus 2d6 dégâts de feu.
+_Touché_ : 2d6+6 dégâts tranchants plus 2d6 dégâts de feu.
 
 _**Projeter une flamme**_. _Attaque de sort à distance_ : +7 pour toucher, portée 36 m, une cible.  
 _Touché_ : 5d6 dégâts de feu.
