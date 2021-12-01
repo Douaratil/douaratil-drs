@@ -384,3 +384,24 @@ Chaque voie accorde la maîtrise d'au moins deux types de jets de sauvegarde et 
 Le degré de difficulté d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) dépend de l'effet qui en est la cause. Par exemple, le DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) causé par un sort est déterminé par la caractéristique d'incantation du lanceur de sort et son bonus de maîtrise.
 
 Le résultat d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi ou raté est indiqué dans la description de l'effet à l'origine du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). D'habitude, un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi signifie qu'une créature n'est pas blessée, ou moins qu'elle aurait dû, par un effet.
+
+### Règle du 1
+
+Concernant les **tests de compétences** et les **jets de sauvegarde**, à l’inverse du 6, le 1 indique une catastrophe. Sur un même lancer de dés, un 1 peut-être annulé par un 6 (au choix du lanceur). Le choix doit être fait avant de relancer un quelconque dés. Les dés sont alors écartés. Il est possible de se demander : quel intérêt d’écarter les dés. Les conséquences sont en fait simples. Il y a de grande chance de rater son action car le test se voit soustrait de 7 (6+1), donc de ne pas réaliser ce qu’il souhaitait. Le bénéfice et de ne pas en subir les conséquences. Si les dés sont gardés, ils sont joués séparément. Les 6 entrainent donc d’autres lancer de dés 6.
+
+Pour chaque 1, 1d6 est lancé de façon explosive. Le résultat doit être retiré dans la jauge du personnage concernée par la caractéristiques liée à la compétence (ex : Dressage est une compétence de Sagesse, ce seront les points de Foi qui seront soustraits. Le résultat est interprété en matière de narration.
+
+En ce sens, les PA représentent habituellement la capacité physique mais les PM la capacité  de concentration, Les PF la confiance en soi et les PH les situations embarrassantes.  
+
+Si une jauge atteint 0 les points excédentaires sont basculés sur une autre jauge au choix du joueur.   
+
+**Atteindre 0 dans une jauge a pour conséquences de faire subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses actions liées à la caractéristiques.**
+
+PA = FOR, DEX et CON
+PM = INT
+PF = SAG
+PH = CHA
+
+Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+
+**Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**

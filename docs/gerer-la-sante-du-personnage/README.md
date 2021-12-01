@@ -224,22 +224,3 @@ Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéf
 
 D’autre part, un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) permet de récupérer des **point de Magie** ou des points de Foi qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
 Enfin, il est possible de récupérer des **points d’honneur** qui auraient été perdus. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), les blessures morales s’éloignent doucement et le personnage reprend confiance en ses capacités. Il récupère 1 point par niveau + son bonus de charisme. ***Un personnage de la voie des armes double son bonus de caractéristique***.  
-
-### Règle du 1
-
-Quelque soit le test, à l’inverse du 6, le 1 indique une catastrophe. Sur un même lancer de dés, un 1 peut-être annulé par un 6 (au choix du lanceur). Le choix doit être fait avant de relancer un quelconque dés. Les dés sont alors écartés. Il est possible de se demander : quel intérêt d’écarter les dés. Les conséquences sont en fait simples. Il y a de grande chance de rater son action car le test se voit soustrait de 7 (6+1), donc de ne pas réaliser ce qu’il souhaitait. Le bénéfice et de ne pas en subir les conséquences. Si les dés sont gardés, ils sont joués séparément. Les 6 entrainent donc d’autres lancer de dés 6.
-
-Pour chaque 1, 1d6 est lancé de façon explosive. Le résultat peut-être retiré dans n’importe qu’elle jauge du personnage (PA, PM, PF ou PH). Le résultat est interprété en matière de narration.
-
-En ce sens, les PA représentent la capacité physique, les PM la capacité  de concentration, Les PF la confiance en soi et les PH les situations embarrassantes.  
-
-**Atteindre 0 dans une jauge a plusieurs conséquences. La première concernant les PA est le risque d’encaisser des blessures critiques. Mais globalement, un personnage qui à 0 dans une jauge, subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses actions liées à la caractéristiques.**
-
-PA = FOR, DEX et CON
-PM = INT
-PF = SAG
-PH = CHA
-
-Ces points se récupèrent dans les phases de [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
-
-**Ne sont pas concernés par la règle du 1 les jets de dégâts et l’initiative ainsi que les jets critiques. Cette règle ne s'applique que pour les personnages joueurs qui ont une vie trépidante et plein de rebondissements. Pour les PNJ et les autres adversaires, la règle du 1 est simplifiée et le 1 annule obligatoirement un 6.**

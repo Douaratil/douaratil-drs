@@ -18,6 +18,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 - Ajustement des points d'expériences et retraits des marges.
 - Mise à jour du bestiaire en cours (Lettre C et D faites).
+- Mise à jour de la [règle du 1](/utiliser-les-caracteristiques/#regle-du-1).   
 - Mise à jour des personnages [Margs Maenkalon](/bestiaire/margs-maenkalon), [Thorleik Aevarson](/bestiaire/thorleik-aevarson), [Knut Svenson](/bestiaire/knut-svenson), [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), [Gwion Gornoc](/bestiaire/gwion-gornoc), [Rudolf Bernsen](/bestiaire/rudolf-bernsen), [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), [Sawrina Semiramis](/bestiaire/sawrina-semiramis), [Malala Soa](/bestiaire/malala-soa), [Pywed Vecconos](/bestiaire/pywed-vecconos), [Taron Vecconos](/bestiaire/taron-vecconos), [Shine Hame](/bestiaire/shine-hame), [Yan Zin](/bestiaire/yan-zin),
  [Owain Macaro](/bestiaire/owain-macaro).  
 - Mise à jour de la [Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse).  
