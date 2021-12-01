@@ -118,13 +118,13 @@ _**Compagnon animal loup**_.  *(Skell)*  À partir du niveau 11, le Skell s’at
 _**Attaques multiples**_. Rudolf effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**[Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse)(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts contondant.
+_Touché_ : 2d6+5 dégâts contondant.
 
 _**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .  
+_Touché_ : 2d6+3 dégâts perforants .  
 
 _**Serpe sacrificielle +1(••)**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (légère). (arme exceptionnel de maître)  
+_Touché_ : 1d6+6 dégâts tranchants (légère). (arme exceptionnel de maître)  
 
 
 §§§ .hero

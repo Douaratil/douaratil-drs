@@ -106,16 +106,16 @@ _**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse, légère).
+_Touché_ : 2d6+1 dégâts tranchants (Finesse, légère).
 
 _**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts tranchants (Polyvalent +4 à deux mains).
+_Touché_ : 2d6 dégâts tranchants (Polyvalent 2d6+2 à deux mains).
 
 _**Dague(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
+_Touché_ : 1d6+1 dégâts tranchants (Finesse, légère, lancer 6/18).
 
 _**Fronde(•)**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 9/36.  
-_Touché_ : 2 dégâts perforants .
+_Touché_ : 1d6+1 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -165,7 +165,7 @@ Shin Hame possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 8300     
+**XP acquis** : 13 148     
 **Points de Magie** :22  
 **Points de Foi** :21   
 **Points d'honneur** :24    

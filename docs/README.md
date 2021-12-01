@@ -14,12 +14,31 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 63
+
+- Ajustement des points d'expériences et retraits des marges.
+- Mise à jour du bestiaire en cours (Lettre C et D faites).
+- Mise à jour des personnages [Margs Maenkalon](/bestiaire/margs-maenkalon), [Thorleik Aevarson](/bestiaire/thorleik-aevarson), [Knut Svenson](/bestiaire/knut-svenson), [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), [Gwion Gornoc](/bestiaire/gwion-gornoc), [Rudolf Bernsen](/bestiaire/rudolf-bernsen), [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), [Sawrina Semiramis](/bestiaire/sawrina-semiramis), [Malala Soa](/bestiaire/malala-soa), [Pywed Vecconos](/bestiaire/pywed-vecconos), [Taron Vecconos](/bestiaire/taron-vecconos), [Shine Hame](/bestiaire/shine-hame), [Yan Zin](/bestiaire/yan-zin),
+ [Owain Macaro](/bestiaire/owain-macaro).  
+- Mise à jour de la [Masse d'arme vicieuse](/liste-objets-magiques/masse-d-arme-vicieuse).  
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc) au niveau 14.  
+- Mise à jour de [Knut Svenson](/bestiaire/knut-svenson) au niveau 6.  
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin) au niveau 7.
+
+
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 1 décembre 2021_
+§§§   
+
 ## Mise à jour 62
 
 - Le jeu Douaratil est toujours en phase de test et la dernière partie m'a permis de penser à certains ajustements qui permettront d'atténuer certaines inégalités sans modifier complètement le système. Les dés de dégâts sont réintroduits mais prennent tout de même en compte la "marge" du jet d'attaque avec un bonus pour les 6 obtenus (en plus de la possibilité de faire des jets critiques dans certaines conditions).   
 - Les triple 6 ne peuvent plus être parés (ce sont les joueurs qui ne vont pas être contents).   
 - J'en profite pour modifier le menu dans la section équipement et le rendre plus lisible.   
-- Mise à jour du bestiaire en cours (Lettre A et B faites). 
+- Mise à jour du bestiaire en cours (Lettre A et B faites).
 
 Bon jeu.  
 §§§ .text-right

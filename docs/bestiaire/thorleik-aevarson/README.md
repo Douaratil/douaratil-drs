@@ -26,7 +26,7 @@ skills:
   - name: "custom"
     value: "acrobatie +0"
   - name: "custom"
-    value: "arcanes(••) +11"
+    value: "arcanes +3"
   - name: "custom"
     value: "athlétisme +1"
   - name: "custom"
@@ -52,7 +52,7 @@ skills:
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
-    value: "religion +2"
+    value: "religion (••) +11"
   - name: "custom"
     value: "représentation +0"
   - name: "custom"
@@ -252,7 +252,7 @@ Thorleik Aevarson possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 85 234
+**XP acquis** : 98 093  
 **Points de Magie** :16   
 **Points de Foi** :60    
 **Points d'honneur** :32      

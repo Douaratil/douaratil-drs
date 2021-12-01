@@ -6,5 +6,5 @@ rarity: "Rare"
 attunement: false
 
 ---
-Lorsque vous obtenez une marge de 10 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires contondant infligé par l'arme.   
+Lorsque vous obtenez deux "6" sur un jet d'attaque avec cette arme magique, votre coup inflige 2d6 dégâts supplémentaires contondant.   
 ![Masse d'arme vicieuse](https://www.douaratil.fr/illustrations/objet/massedarmevicieuse.jpg)

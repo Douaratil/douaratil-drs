@@ -106,16 +106,16 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse & légère).
+_Touché_ : 2d6 dégâts tranchants (Finesse & légère).
 
 _**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Hache(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
 
 

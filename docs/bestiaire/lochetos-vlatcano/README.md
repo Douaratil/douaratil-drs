@@ -133,20 +133,20 @@ _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez a
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +5, Bm +5, Dex +1, Duel +2), allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse & légère).
+_Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).
 
 _**Glaive**_. _Attaque d'arme au corps à corps_ : +12 pour toucher (Bm +5, Bm +5, For +0, Duel +2), allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Hache**_. _Attaque d'arme au corps à corps_ : +12 pour toucher (Bm +5, Bm +5, For +0, Duel +2), allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Dague assassyr'him**_. _Attaque d'arme au corps à corps_ : +13 pour toucher (Bm +5, Bm +5, Dex +1, Duel +2), portée 6/18.  
-_Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+_Touché_ : 1d6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
 **Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher (Bm +5, Bm +5, Dex +1), portée 24/96.  
-_Touché_ : 4 dégâts perforants .
+_Touché_ : 2d6+2 dégâts perforants .
 
 &nbsp;
 §§§ .hero

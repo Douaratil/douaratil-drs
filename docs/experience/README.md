@@ -44,18 +44,18 @@ Travailler dans l'artisanat permet de gagner des points d'expérience suivant la
 
 Durant les parties, une grande partie de l'expérience peut venir de la capacité du personnage à réussir une épreuve ou survivre à un danger. Il peut ainsi être appliqué le même tableau pour les réussites aux tests de compétences et aux jets de sauvegarde.   
 
-Pour rappel, toutes ces règles ne sont que des propositions et doivent être adaptée ou disciminée par le Narrateur suivant le rythme de progression qu'il souhaite donner à sa campagne. 
+Pour rappel, toutes ces règles ne sont que des propositions et doivent être adaptée ou discriminée par le Narrateur suivant le rythme de progression qu'il souhaite donner à sa campagne.
 
 ### Degrés de difficulté typiques
 
 | Difficulté de l'action | DD |XP|
 |:-|:-:|:-:|
-| **Très facile** | 8 |1XP/Pt de marge|
-| **Facile** | 12 |10 + 2XP/Pt de marge|
-| **Modérée** | 16 |20 + 10xp/Pt de marge|
-| **Difficile** | 22 |50 + 25xp/Pt de marge|
-| **Très difficile** | 28 |100 + 50xp/Pt de marge|
-| **Presque impossible** | 35 |200 + 100xp/Pt de marge
+| **Très facile** | 8 |10XP|
+| **Facile** | 12 |15XP|
+| **Modérée** | 16 |20XP|
+| **Difficile** | 22 |50XP|
+| **Très difficile** | 28 |100XP|
+| **Presque impossible** | 35 |200XP|  
 
 §§§ .hero
 ### Exemple de Gwion Gornoc, Ambeanamos et cueilleur de Cépates.  

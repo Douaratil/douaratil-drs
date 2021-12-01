@@ -8,7 +8,7 @@ challenge: "6"
 customHP: "34"
 abilityScores:
   for: 13
-  dex: 14
+  dex: 15
   con: 10
   int: 10
   sag: 14
@@ -103,19 +103,21 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes tellement à l’aide avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
 
+_**Ami équestre**_. *(Seibahkami)* À partir du niveau 7, vous avez une relation puissante avec votre monture. Elle n’accepte que vous comme cavalier. Vous pouvez la laisser vaquer sans craindre de la perdre et il vous suffit de siffler et le cheval rapplique le plus rapidement possible. La portée est de 10 mètres de rayon par niveau.  
+ D’autre part, le personnage peut monter sur sa monture alors qu’elle passe au galop devant lui en tant qu’action bonus. Il peut même le faire en sautant d’un toit ou d’une hauteur et ceci est considéré comme une manœuvre à cheval donc bénéficie du bonus de Kyōkan Jōba (Empathie équestre).  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse, légère).
+_Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).
 
 _**Dague(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (Finesse, légère, lancer 6/18).
+_Touché_ : 1d6+2 dégâts tranchants (Finesse, légère, lancer 6/18).
 
 _**Arc long(••)**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 45/180.  
-_Touché_ : 4 dégâts perforants .
+_Touché_ : 2d6+4 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -199,10 +201,10 @@ Yan Zin possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 16 115        
+**XP acquis** : 25 812        
 **Points de Magie** :10  
 **Points de Foi** :14        
-**Points d'honneur** :27     
+**Points d'honneur** :29     
 §§§
 
 §§§ .hero

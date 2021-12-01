@@ -7,7 +7,7 @@ alignment: "Loyal neutre"
 challenge: "5"
 customHP: "34"
 abilityScores:
-  for: 14
+  for: 16
   dex: 10
   con: 14
   int: 10
@@ -104,13 +104,13 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 _**Attaques multiples**_. Knut effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Pique(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).
+_Touché_ : 3d6+3 dégâts tranchants (lourde, allonge, à deux mains).
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+5 dégâts tranchants (3d6+2 à deux mains).
 
 _**Hache de bataille(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (lourde, à deux mains).
+_Touché_ : 3d6+3 dégâts tranchants (lourde, à deux mains).
 
 
 §§§ .hero
@@ -190,10 +190,10 @@ Knut possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *Rien pour le moment*  
-**XP acquis** : 13 787
+**XP acquis** : 21 074
 **Points de Magie** :10   
 **Points de Foi** :10    
-**Points d'honneur** :20      
+**Points d'honneur** :22         
 §§§
 
 §§§ .hero

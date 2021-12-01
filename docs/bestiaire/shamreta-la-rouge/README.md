@@ -64,7 +64,7 @@ _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une part
 
 _**Dague sacrée**_. _Attaque d'arme au corps à corps ou à distance_ : + 7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 Cette arme en plus d'être considérée comme magique possède une propriété supérieure, elle est sacrée. Lorsqu'un coup critique est infligé, un bonus de 2d6 est octroyé pour la résolution du critique. Ainsi le jet critique avec des armes courantes sacrées se font à 4d6.  
-_Touché_ : 4 dégâts perforants.  
+_Touché_ : 1d6+2 dégâts perforants.  
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon>  Présentation:  

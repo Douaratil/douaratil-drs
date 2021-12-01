@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Neutre mauvais"
-challenge: "13"
-customHP: "42"
+challenge: "14"
+customHP: "44"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 20
-  sag: 16
+  sag: 18
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int(•) +9, sag(••) +10, cha(•) +6 "
+customSavingThrows: "for -1, dex -1, con +3, int(•) +9, sag(••) +14, cha(•) +6 "
 savingThrows:
   - "int"
   - "sag"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "15 (Armure de cuir cloutée)"
+  value: "16 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie -1"
@@ -32,7 +32,7 @@ skills:
   - name: "custom"
     value: "discrétion(•) +3"
   - name: "custom"
-    value: "dressage +2"
+    value: "dressage +4"
   - name: "custom"
     value: "escamotage(•) +3"
   - name: "custom"
@@ -42,11 +42,11 @@ skills:
   - name: "custom"
     value: "investigation +5"
   - name: "custom"
-    value: "médecine(•) +6"
+    value: "médecine(•) +9"
   - name: "custom"
     value: "nature +5"
   - name: "custom"
-    value: "perception +2 (désavantage pour les tests visuels)"
+    value: "perception +4 (désavantage pour les tests visuels)"
   - name: "custom"
     value: "perspicacité +2"
   - name: "custom"
@@ -58,7 +58,7 @@ skills:
   - name: "custom"
     value: "supercherie +2"
   - name: "custom"
-    value: "survie +2"
+    value: "survie +4"
 
 movement:
   walk: 9
@@ -123,23 +123,26 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
  _**Magie du sang**_.  *(Ambeanamos)* À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux [_repos court_](/gerer-la-sante-du-personnage/#repos-court)s ou longs.
  Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
 
+  _**Charme intense**_.  *(Ambeanamos)* Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1d6 point de magie (PM) que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
+ De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.   
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6-1 dégâts tranchants (3d6-1 à deux mains).
 
 _**Hache(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).  
+_Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .
+_Touché_ : 2d6-1 dégâts perforants .
 
 _**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
-_Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+_Touché_ : 1d6-1 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
 _**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
-_Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)
+_Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
 &nbsp;
 §§§ .hero
 ###  <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -179,12 +182,14 @@ Gwion possède l'équipement suivant :
 - outils d'herboristerie
 - pelle
 - [pierre d'obédience](/liste-objets-magiques/pierre-d-obedience)
+- rations (10)
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
-- 4767 PC
-- 21 828 PA
+- torche (1)
+- 4762 PC
+- 22 878 PA
 - 44 PE
-- 2653 PO
+- 1733 PO
 - 134 PP.  
 §§§
 
@@ -206,12 +211,15 @@ un petit fil de cuivre enchanté.
 [Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique), [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de feu](/grimoire/mur-de-feu), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
+[Sanctuaire privé](/grimoire/sanctuaire-prive),                 
+
+**Apprenti** :  
+[Réservoir arcanique](/grimoire/reservoir-arcanique)
 
 **Sorts possédés à apprendre** :
-- Novice : Strangulation.   
-- Disciple : Hors saison, Jeter une malédiction, Ordre, Sanctuaire privé.  
-- Apprenti : Brise os, Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, Réservoir arcanique, Restauration supérieur, Scrutation.  
+
+- Apprenti : Brise os, Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, , Restauration supérieur, Scrutation.  
 §§§
 
 §§§ .hero
@@ -230,7 +238,7 @@ un petit fil de cuivre enchanté.
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
+|Basse-cour|1|1|-|0|2d6|2|1d6 pa|1/5 maisons|
 |Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
@@ -240,35 +248,35 @@ un petit fil de cuivre enchanté.
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
 |Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Four|1|1|-|-|1d6|2|1d6 pa|1/5 maisons|
+|Maison|4|4|-|-|-|20|4d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|Temple|0|0|0|0|-|0|1d6 pp|1|
+|**Total**|**6**|**6**|**0**|**0**|**3d6**|**24**|**6d6 pa**|**-**|
 
-**Colons** : 24  
+**Colons** : 28  
 **Trésor** : 0
-**Nourriture** : 0
+**Nourriture** : 28
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|15 --->|0|0|0|-24|-19|**-43**|
+|20 --->|0|0|0|0|0|**0**|
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 121 761       
-**Points de Magie** :72   
-**Points de Foi** :16    
-**Points d'honneur** :45          
+**XP acquis** : 141 605       
+**Points de Magie** :76   
+**Points de Foi** :18    
+**Points d'honneur** :47          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   

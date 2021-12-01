@@ -83,13 +83,13 @@ _**Style de combat**_. *(Gwylwir)* Au niveau 5, vous choisissez le style de comb
 ## Actions  
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Arc long(••)**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
-_Touché_ : 6 dégâts perforants .
+_Touché_ : 2d6+2 dégâts perforants .
 
 §§§ .hero
 ### Présentation:  

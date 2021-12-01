@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "l'Alcath (3/2), le Courdote (3/2), le Khern (2/0) "
+  - "l'Alcath (3/2), le Courdote (3/2), le Khern (2/0), Soogh (2/0) "
 category: "PJ"
 ---
 ## Tiberius Don Alonzo
@@ -119,19 +119,19 @@ _**Chevalier sans peur**_. *(Astartes)* Au niveau 13, lorsque vous combattez ave
 _**Attaques multiples**_. Tiberius effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Epée courte +2(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants .
+_Touché_ : 2d6+7 dégâts tranchants .
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6+5 dégâts tranchants (portée 6/18).  
 
 _**Dague(••) seconde main**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
 _**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants.  
+_Touché_ : 2d6+4 dégâts tranchants.(Polyvalente 3d6+2)  
 
 _**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, portée 6/18.  
-_Touché_ : 4 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+_Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
 §§§ .hero
@@ -169,7 +169,11 @@ Tiberius possède l'équipement suivant :
 - rations (8)
 - silex
 - torches (20)
-- 200 PC, 9748 PA, 36 PE & 5218 PO, 5 PP.   
+- 200 PC
+- 12 948 PA
+- 36 PE
+- 7717 PO
+- 5 PP.   
 
 §§§
 
@@ -204,26 +208,29 @@ petite maison à Ker-Saozon.
 |Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
+|Maison|7|7|-|-|-|35|7d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
-|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
+|Puits|2|2|-|+3|2d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|**Total**|**9**|**9**|**0**|**3**|**2d6**|**35**|**7d6 pa**|**-**|
 
 
-**Colons** : 53  
-**Trésor** : 0
-**Nourriture** : 0
+**Colons** : 75  
+**Trésor** : 0   
+**Nourriture** : 75  
 
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|13 --->|0|0|0|-53|-48|**-101**|
+|13 --->|0|0|3|0|40|**-37**|  
+
+Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commises par leur membre , ils sont punis. SInon, il sont une rente de 20 po/lune et une exemption de corvée.
+- Recherche de ceps matures (8-10 ans) gravières, syrats...)
 
 §§§
 
@@ -231,7 +238,7 @@ petite maison à Ker-Saozon.
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 121 928     
+**XP acquis** : 138 489     
 **Points de Magie** :10   
 **Points de Foi** :10     
 **Points d'honneur** :45    

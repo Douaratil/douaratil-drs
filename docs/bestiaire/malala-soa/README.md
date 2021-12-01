@@ -59,16 +59,16 @@ Vous avez appris comment regagner une partie de votre énergie magique en étudi
 
 ## Actions  
 _**Dague**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
 _**Massue**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts contondant (à deux mains).  
+_Touché_ : 2d6+2 dégâts contondant (à deux mains).  
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts contondant (Polyvalent +4 à deux mains).  
+_Touché_ : 2d6 dégâts contondant (Polyvalent 2d6+2 à deux mains).  
 
 _**Fronde**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts perforant (portée 9/36).  
+_Touché_ : 1d6 dégâts perforant (portée 9/36).  
 
 
 

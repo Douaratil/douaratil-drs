@@ -53,11 +53,11 @@ _**Attaques multiples**_. Shamash Eriba peut effectuer 4 attaques (3 de la Voie 
 
 _**Cimeterre +2**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 Le cimeterre de Shamash Eriba est infusé de magie.  
-_Touché_ : 6 dégâts tranchants (Finesse, légère).
+_Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).
 
 _**Dague +2 de saignement**_. _Attaque d'arme au corps à corps ou à distance_ : + 8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 La dague de Shamash Eriba est infusée de deux sortilèges. Le premier augmente les dégât de 2. Le second permet de déclencher des saignements. La personne touchée doit réussir un JS de constitution DD 14 ou subir 2 PA par round pendant 1D6 round. Chaque saignement est géré indépendamment.
-_Touché_ : 4 dégâts perforants.
+_Touché_ : 1d6+5 dégâts perforants.
 
 §§§ .hero
 ### Présentation:  
