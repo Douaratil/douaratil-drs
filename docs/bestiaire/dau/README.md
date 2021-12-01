@@ -50,7 +50,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'une dau est
 _**Attaques multiples**_. La dau porte deux attaques de _coup_.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 2 dégâts contondants plus 3d6 dégâts nécrotiques et la dau regagne une quantité de points d'action égale à la quantité de dégâts nécrotiques infligés. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou voir son maximum de points d'action réduit d'un nombre égal à la quantité de dégâts nécrotiques subis. Cette réduction persiste jusqu'à ce que la créature termine un long repos.
+_Touché_ : 1d6+3 dégâts contondants plus 3d6 dégâts nécrotiques et la dau regagne une quantité de points d'action égale à la quantité de dégâts nécrotiques infligés. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou voir son maximum de points d'action réduit d'un nombre égal à la quantité de dégâts nécrotiques subis. Cette réduction persiste jusqu'à ce que la créature termine un long repos.
 
 ## Réactions
 _**Esquive miroir (1/jour)**_. Quand une dau est sur le point d'être touchée par une attaque ou affectée par un sort, elle crée un double illusoire pour la remplacer et se téléporte dans un emplacement inoccupé qu'elle peut voir et qui se trouve dans un rayon de 9 mètres. La dau n'est pas affectée par l'attaque ou le sort et son double illusoire est détruit.

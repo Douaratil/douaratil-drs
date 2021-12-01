@@ -60,7 +60,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Dabbiub 
 _**Attaques multiples**_. Un Dabbiub porte quatre attaques de _doigts-aiguilles_.
 
 _**Doigts-aiguilles**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le Dabbiub lui inflige soit une _réduction de caractéristiques_, soit un _dérèglement humoral_. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
+_Touché_ : 5d6+5 dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le Dabbiub lui inflige soit une _réduction de caractéristiques_, soit un _dérèglement humoral_. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
 
 _**Réduction de caractéristique (3/jour)**_. Si la cible de l'attaque de _doigts-aiguilles_ d'un Dabbiub échoue à son jet de sauvegarde de Constitution, elle subit une réduction de 1d6 points de caractéristique (choisie par le Dabbiub) jusqu'à ce qu'elle ait terminé un repos long. Si cet effet réduit la valeur d'une de ses caractéristiques à 0, la créature sombre dans l'inconscience jusqu'à ce qu'elle ait regagné au moins 1 point.
 

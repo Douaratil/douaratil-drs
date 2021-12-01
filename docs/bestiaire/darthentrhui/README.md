@@ -65,7 +65,7 @@ _**Présence divine**_. La présence de l'entité divine est tellement puissante
 _**Attaques multiples**_. Darthentrhui effectue trois attaques.  
 
 _**Pattes griffues empoisonnée**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+_Touché_ : 4d6+6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
 ## Actions légendaires
