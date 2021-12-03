@@ -50,12 +50,12 @@ Pour rappel, toutes ces règles ne sont que des propositions et doivent être ad
 
 | Difficulté de l'action | DD |XP|
 |:-|:-:|:-:|
-| **Très facile** | 8 |10XP|
-| **Facile** | 12 |15XP|
-| **Modérée** | 16 |20XP|
-| **Difficile** | 22 |50XP|
-| **Très difficile** | 28 |100XP|
-| **Presque impossible** | 35 |200XP|  
+| **Très facile** | 8 |20XP|
+| **Facile** | 12 |40XP|
+| **Modérée** | 16 |80XP|
+| **Difficile** | 22 |140XP|
+| **Très difficile** | 28 |200XP|
+| **Presque impossible** | 35 |300XP|  
 
 §§§ .hero
 ### Exemple de Gwion Gornoc, Ambeanamos et cueilleur de Cépates.  
@@ -98,12 +98,12 @@ Prier les dieux permet d'obtenir certains avantages outre le fait d'obtenir de l
 |Gérer les évènements économiques & familiaux|Variable + montant équivalent en XP de la valeur en or gagnée ou dépensée|
 |||
 |**Artisanat**||
-| Très facile|10 XP|
-| Facile|15 XP|
-| Modérée|20 XP|
-| Difficile|50 XP|
-| Très difficile|100 XP|
-| Presque impossible|200 XP|
+| Très facile|20 XP|
+| Facile|40 XP|
+| Modérée|80 XP|
+| Difficile|140 XP|
+| Très difficile|200 XP|
+| Presque impossible|300 XP|
 |||
 |**Apprentissage de sort**||
 |Novice|50 XP|

@@ -30,7 +30,7 @@ En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  toutes les armures, boucliers  
-**Armes** : armes courantes, épée courte, glaive (épée longue), trident, filet  
+**Armes** : armes courantes, épée courte, glaive (épée longue), javeline, lance, trident, filet  
 **Outils** :aucun  
 **Jets de sauvegarde** : Force, Dextérité  
 **Compétences** : choisissez deux compétences parmi les suivantes : Athlétisme, Intimidation, Médecine, Perspicacité, Persuasion et Religion  
