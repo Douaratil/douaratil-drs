@@ -72,7 +72,7 @@ A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui pe
 |**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
-Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
 ### Imparable  
 **En Selm : Serssiss's**  
