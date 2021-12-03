@@ -22,6 +22,10 @@ title: Bhegelm
 |**19**|[Monture sacrée parfaite](#monture-sacree-parfaite)|
 |**20**|[Archidruide](#archidruide), [Véritable Bhegelm](#veritable-bhegelm)|
 
+## Bhegelm
+&nbsp;
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm2m.png)](https://www.douaratil.fr/illustrations/archetype/bhegelm2.jpg)
+
 ## Aptitudes d'Archétype  
 En tant que Bhegelm, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -112,6 +116,10 @@ La créature est consciente de cet effet avant de vous attaquer.
 **En Khern : Bras Drouiz**  
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
+
+## Bhegelm
+&nbsp;
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelmm.png)](https://www.douaratil.fr/illustrations/archetype/bhegelm.jpg)
 
 ### Véritable Bhegelm  
 **En Khern : Bhegelm**

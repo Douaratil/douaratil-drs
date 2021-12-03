@@ -23,6 +23,10 @@ title: bhaner
 |**19**|[Inspiration supérieure](#inspiration-supérieure)|
 |**20**|[Véritable Bhaner](#veritable-bhaner)|
 
+## Bhaner
+&nbsp;
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhanerm.png)](https://www.douaratil.fr/illustrations/archetype/bhaner.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.
 

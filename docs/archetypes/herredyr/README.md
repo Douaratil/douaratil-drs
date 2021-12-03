@@ -21,6 +21,10 @@ title: Herredyr
 |**16**|[Rage bestiale (+2d6)](#rage-bestiale)|
 |**20**|[Seigneur des bêtes](#seigneur-des-betes),[Rage bestiale (+3d6)](#rage-bestiale)|
 
+## Herredyr
+&nbsp;
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyrm.png)](https://www.douaratil.fr/illustrations/archetype/herredyr.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
 

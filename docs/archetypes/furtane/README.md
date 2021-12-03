@@ -21,6 +21,10 @@ title: Fürtane
 |**19**|[Cercle de la mort implacable](#cercle-de-la-mort-indomptable)|
 |**20**|[Mère louve](#mere-louve), [Véritable Fürtane](#veritable-furtane)|
 
+## Fürtane
+&nbsp;
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtanem.png)](https://www.douaratil.fr/illustrations/archetype/furtane.jpg)
+
 ## Aptitudes d'Archétype  
 En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.  
 

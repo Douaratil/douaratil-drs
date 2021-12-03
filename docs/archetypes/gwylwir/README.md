@@ -22,6 +22,10 @@ title: Gwylwir
 |**19**|[Attaque tourbillonnante](#attaque-tourbillonnante)|
 |**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Gwylvir](#veritable-gwylvir)|
 
+## Gwylwir
+&nbsp;
+[![Gwylwir](https://www.douaratil.fr/illustrations/archetype/gwylwirm.png)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
 

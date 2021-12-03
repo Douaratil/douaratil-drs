@@ -22,6 +22,10 @@ title:  Skell
 |**19**|[Troisième Attaque ](#troisieme-attaque )|
 |**20**|[Véritable Skell](#veritable-skell)|
 
+## Skell
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skellm.png)](https://www.douaratil.fr/illustrations/archetype/skell.jpg)
+
 ## Aptitudes d'Archétype
 En tant que  Skell, vous bénéficiez des aptitudes d'Archétype suivantes.
 

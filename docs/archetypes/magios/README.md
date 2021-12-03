@@ -21,6 +21,10 @@ title: Magios
 |**19**|[Orateur suprême](#orateur-supreme)|
 |**20**|[Véritable Magios](#veritable-magios)|
 
+## Magios
+&nbsp;
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magiosm.png)](https://www.douaratil.fr/illustrations/archetype/magios.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Magios, vous bénéficiez des aptitudes d'Archétype suivantes.
 

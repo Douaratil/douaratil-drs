@@ -20,6 +20,10 @@ title: "Jörghal"
 |**19**|[Champion mythique](#champion-mythique)|
 |**20**|[Véritable Jörghal](#veritable-jorghal)|
 
+## Jörghal
+&nbsp;
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghalm.png)](https://www.douaratil.fr/illustrations/archetype/jorghal.jpg)
+
 ## Aptitudes d'Archétype  
 En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.  
 

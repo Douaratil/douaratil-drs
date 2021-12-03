@@ -17,6 +17,13 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 64
 
 - Ajout d'illustration pour l'archétype de l'[Ambeanamos](/archetypes/ambeanamos).   
+- Ajout d'illustration pour l'archétype du [Bhaner](/archetypes/bhaner).
+- Ajout de deux illustrations pour l'archétype du [Bhegelm](/archetypes/bhegelm).  
+- Ajout d'illustration pour l'archétype de la [Fürtane](/archetypes/furtane).   
+- Ajout d'illustration pour l'archétype de l'[Herredyr](/archetypes/herredyr).   
+- Ajout d'illustration pour l'archétype du [Jörghal](/archetypes/jorghal).  
+- Ajout d'illustration pour l'archétype de le [Magios](/archetypes/magios).   
+- Ajout d'illustration pour l'archétype de le [Sermazloth](/archetypes/sermazloth).   
 - Mise à jour de l'[Astartes](/archetypes/astartes) avec ajout de la maîtrise de la javeline et de la lance.
 - Ajustement de la table des points d'[Expérience](/experience), (j'avais été un peu sévère dans la réduction) et mise en adéquation avec la table d'artisanat.   
 
