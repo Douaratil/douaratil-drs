@@ -24,8 +24,14 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout d'illustration pour l'archétype du [Jörghal](/archetypes/jorghal).  
 - Ajout d'illustration pour l'archétype de le [Magios](/archetypes/magios).   
 - Ajout d'illustration pour l'archétype de le [Sermazloth](/archetypes/sermazloth).   
+- Ajout d'illustration pour l'archétype de le [Skell](/archetypes/skell).   
+
 - Mise à jour de l'[Astartes](/archetypes/astartes) avec ajout de la maîtrise de la javeline et de la lance.
 - Ajustement de la table des points d'[Expérience](/experience), (j'avais été un peu sévère dans la réduction) et mise en adéquation avec la table d'artisanat.   
+
+- Ajout d'illustration pour du [Akashakhal](/bestiaire/akashakhal).
+- Ajout d'illustration pour du [Ashkam](/bestiaire/ashkam).   
+- Ajout d'illustration pour du [Bodad](/bestiaire/bodad).   
 
 
 

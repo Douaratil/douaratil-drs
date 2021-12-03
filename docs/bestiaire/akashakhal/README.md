@@ -53,6 +53,9 @@ languages:
   - "infernal"
 telepathy: 18
 ---
+## Akashakhal
+&nbsp;
+[![Akashakhal](https://www.douaratil.fr/illustrations/fielon/akashakhalm.png)](https://www.douaratil.fr/illustrations/fielon/akashakhal.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités  

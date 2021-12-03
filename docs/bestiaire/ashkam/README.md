@@ -46,6 +46,9 @@ languages:
 telepathy: 36
 
 ---
+## Ashkam
+&nbsp;
+[![Ashkam](https://www.douaratil.fr/illustrations/fielon/ashkamm.png)](https://www.douaratil.fr/illustrations/fielon/ashkam.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 23        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -77,7 +80,7 @@ _**Serres**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 3 m
 _Touché_ : 3d6+4 dégâts tranchants et la cible est _empoignée_ et _entravée_ (évasion DD 17). Ashkam peut empoigner une créature à la fois s'il se trouve au sol et deux s'il est en train de voler. Il ne peut pas utiliser les serres qu'il utilise pour empoigner une créature pour frapper une autre créature.
 
 ## Actions légendaires
-Alquam peut faire 3 actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, Ashkam récupère les actions légendaires dépensées.
+Ashkam peut faire 3 actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, Ashkam récupère les actions légendaires dépensées.
 
 _**Attaque**_. Ashkam fait une attaque.
 

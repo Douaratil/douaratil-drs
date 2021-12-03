@@ -51,6 +51,9 @@ languages:
 telepathy: 36
 
 ---
+## Bodad
+&nbsp;
+[![Bodad](https://www.douaratil.fr/illustrations/fielon/bodadm.png)](https://www.douaratil.fr/illustrations/fielon/bodad.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
