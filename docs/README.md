@@ -23,6 +23,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout d'illustration pour l'archétype de l'[Herredyr](/archetypes/herredyr).   
 - Ajout d'illustration pour l'archétype du [Jörghal](/archetypes/jorghal).  
 - Ajout d'illustration pour l'archétype de le [Magios](/archetypes/magios).   
+- Ajout d'illustration pour l'archétype de le [Nayane](/archetypes/nayane).
 - Ajout d'illustration pour l'archétype de le [Sermazloth](/archetypes/sermazloth).   
 - Ajout d'illustration pour l'archétype de le [Skell](/archetypes/skell).   
 

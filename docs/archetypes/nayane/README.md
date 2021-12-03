@@ -22,6 +22,10 @@ title: Nayane
 |**19**|[Parangon de mort](#parangon-de-mort), [Intouchable (3-6)](#intouchable)|
 |**20**|[Véritable Nayane](#veritable-nayane)|
 
+## Nayane
+&nbsp;
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayanem.png)](https://www.douaratil.fr/illustrations/archetype/nayane.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
 
