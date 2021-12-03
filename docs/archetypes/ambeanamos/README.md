@@ -17,6 +17,10 @@ title: Ambeanamos
 |**18**|[Présence puissante](#presence-puissante)|
 |**20**|[Véritable Ambeanamos](#veritable-ambeanamos)|
 
+## Ambeanamos
+&nbsp;
+[![Astartes](https://www.douaratil.fr/illustrations/archetype/ambeanamosm.png)](https://www.douaratil.fr/illustrations/archetype/ambeanamos.jpg)  
+
 ## Aptitudes d'Archétype
 En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
