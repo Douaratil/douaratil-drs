@@ -55,7 +55,7 @@ _**Vulnérabilité à l'eau**_. Si l'élémentaire se déplace dans l'eau ou s'i
 _**Attaques multiples**_. L'élémentaire effectue deux attaques de contact.
 
 _**Contact**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 2d6 de dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
+_Touché_ : 2d6+3 dégâts de feu. Si la cible est un objet inflammable ou une créature, elle prend feu. La cible subit 2d6 de dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.
 
 ---  
 L'élémentaire de feu est une créature non tangible qui vient d'un autre plan. Il apparait la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparait quelques fois.  

@@ -60,6 +60,9 @@ telepathy: 72
 source: "Elric"
 
 ---
+## Sathyakurm’de
+&nbsp;
+[![Sathyakurm’de](https://www.douaratil.fr/illustrations/aberration/sathyakurmdem.png)](https://www.douaratil.fr/illustrations/aberration/sathyakurmde.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -75,7 +78,7 @@ _**Résistance légendaire (4/jour)**_. Si Sathyakurm’de rate un jet de sauveg
 _**Attaques multiples**_. Sathyakurm’de effectue 8 attaques.  
 
 _**Armes tranchante**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou mourir, transpercé, écrasé ou découpé par l'arme te u par la déesse.  
+_Touché_ : 9d6+10 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou mourir, transpercé, écrasé ou découpé par l'arme te u par la déesse.  
 
 
 ## Actions légendaires

@@ -67,6 +67,9 @@ languages:
 telepathy: 72
 
 ---
+## Emhyhruigdrux
+&nbsp;
+[![Emhyhruigdrux](https://www.douaratil.fr/illustrations/aberration/emhyhruigdruxm.png)](https://www.douaratil.fr/illustrations/aberration/emhyhruigdrux.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 30     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -82,7 +85,7 @@ _**Résistance légendaire (3/jour)**_. Si Emhyhruigdrux rate un jet de sauvegar
 _**Attaques multiples**_. Emhyhruigdrux effectue 8 attaques (deux morsures et le reste avec ses membres).  
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +20 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20 ou être tranché net en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et subir 10d6 dégâts seulement en cas de réussite.
+_Touché_ : 8d6+10 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20 ou être tranché net en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et subir 6d6 dégâts seulement en cas de réussite.
 
 
 ## Actions légendaires

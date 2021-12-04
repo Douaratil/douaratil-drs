@@ -68,6 +68,9 @@ telepathy: 72
 source: "Elric"
 
 ---
+## Lhaothlastholo
+&nbsp;
+[![Lhaothlastholo](https://www.douaratil.fr/illustrations/aberration/lhaothlastholom.png)](https://www.douaratil.fr/illustrations/aberration/lhaothlastholo.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -83,13 +86,13 @@ _**Résistance légendaire (3/jour)**_. Si Lhaothlastholo rate un jet de sauvega
 _**Attaques multiples**_. Lhaothlastholo effectue 3 attaques.  
 
 _**Pattes griffues**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants.
+_Touché_ : 7d6+6 dégâts perforants.
 
 _**Morsure empoisonnée**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 22. Elle subit 9d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
+_Touché_ : 9d6+6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 22. Elle subit 9d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
 
 _**Langue gluante**_. _Attaque d'arme à distance_ : +14 pour toucher, allonge 18 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 22 ou être [_entravée_](/gerer-la-sante-du-personnage/#entrave) en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté. Une personne [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut tenter de se libérer tous les rounds ou être mâchée par Lhaothlastholo (son attaque de morsure empoisonnée réussie automatiquement).  
+_Touché_ : 8d6+6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 22 ou être [_entravée_](/gerer-la-sante-du-personnage/#entrave) en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté. Une personne [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut tenter de se libérer tous les rounds ou être mâchée par Lhaothlastholo (son attaque de morsure empoisonnée réussie automatiquement).  
 
 
 ## Actions légendaires

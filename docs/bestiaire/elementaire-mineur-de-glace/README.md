@@ -53,7 +53,7 @@ _**Incantation innée (1/jour)**_. Le méphite peut lancer [_nappe de brouillard
 
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 2 dégâts tranchants plus 1d6 dégâts de froid.
+_Touché_ : 1d6 dégâts tranchants plus 1d6 dégâts de froid.
 
 _**Souffle de givre (Recharge 6)**_. Le méphite souffle de l'air froid sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 ; elles subissent 2d6 dégâts de froid en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
 

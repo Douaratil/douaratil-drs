@@ -49,7 +49,7 @@ _**Incantation innée (1/jour)**_. Le méphite peut lancer [_chauffer le métal_
 
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ :2 dégâts tranchants plus 1d6 dégâts de feu.
+_Touché_ :1d6 dégâts tranchants plus 1d6 dégâts de feu.
 
 _**Souffle de feu (Recharge 6)**_. Le méphite souffle du feu sur un cône de 4,50 mètres. Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 2d6 dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.   
 

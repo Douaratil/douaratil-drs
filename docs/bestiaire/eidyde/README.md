@@ -39,6 +39,9 @@ languages:
 telepathy: 36
 
 ---
+## Eidyde
+&nbsp;
+[![Eidyde](https://www.douaratil.fr/illustrations/fielon/eidydem.png)](https://www.douaratil.fr/illustrations/fielon/eidyde.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -50,10 +53,10 @@ _**Résistance à la magie**_. L'Eidyde obtient un [_avantage_](/utiliser-les-ca
 _**Attaques multiples**_. L'Eidyde effectue trois attaques.
 
 _**Arc long**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 45/180 m, une cible.  
-_Touché_ : 6 dégâts perforants plus 4d6 dégâts de poison et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
+_Touché_ : 2d6+4 dégâts perforants plus 4d6 dégâts de poison et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Le poison fait effet jusqu'à son élimination par un sort de restauration inférieure ou une magie similaire.
 
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants, ou 6 dégâts tranchants si l'épée est maniée à deux mains, plus 4d6 dégâts de poison.
+_Touché_ : 2d6+6 dégâts tranchants, ou 6 dégâts tranchants si l'épée est maniée à deux mains, plus 4d6 dégâts de poison.
 
 ## Réactions
-_**Parade**_. L'érynie ajoute 4 à sa VD lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.
+_**Parade**_. L'eidyde ajoute 4 à sa VD lorsqu'elle est la cible d'une attaque au corps à corps réussie. Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer de cette façon.

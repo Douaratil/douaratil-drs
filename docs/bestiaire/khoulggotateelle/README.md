@@ -52,6 +52,9 @@ telepathy: 72
 source: "Elric"
 
 ---
+## Khoulggotateelle
+&nbsp;
+[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/khoulggotateellem.png)](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 28     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -67,10 +70,10 @@ _**Présence divine**_. La présence de l'entité divine est tellement puissante
 _**Attaques multiples**_. Khoulggotateelle effectue six attaques.  
 
 _**griffes**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants.
+_Touché_ : 8d6+8 dégâts perforants.
 
 **Fouet**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts tranchants et JS de constitution DD 25 ou flétrissement mortel de 1d6 cumulatif par round (1d6 le premier round, 2d6 le second, 3d6 le troisième etc...)(finesse, allonge)
+_Touché_ : 6d6+8 dégâts tranchants et JS de constitution DD 25 ou flétrissement mortel de 1d6 cumulatif par round (1d6 le premier round, 2d6 le second, 3d6 le troisième etc...)(finesse, allonge)
 
 
 ## Actions légendaires
