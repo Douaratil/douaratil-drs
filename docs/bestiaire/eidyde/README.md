@@ -41,7 +41,7 @@ telepathy: 36
 ---
 ## Eidyde
 &nbsp;
-[![Eidyde](https://www.douaratil.fr/illustrations/fielon/eidydem.png)](https://www.douaratil.fr/illustrations/fielon/eidyde.jpg)  
+[![Eidyde](https://www.douaratil.fr/illustrations/fielon/eidydem.png)](https://www.douaratil.fr/illustrations/fielon/eidyde.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

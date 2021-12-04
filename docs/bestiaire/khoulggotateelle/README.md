@@ -54,7 +54,7 @@ source: "Elric"
 ---
 ## Khoulggotateelle
 &nbsp;
-[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/khoulggotateellem.png)](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle.jpg)
+[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/khoulggotateellem.png)](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 28     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

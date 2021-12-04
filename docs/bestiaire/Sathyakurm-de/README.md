@@ -62,7 +62,7 @@ source: "Elric"
 ---
 ## Sathyakurm’de
 &nbsp;
-[![Sathyakurm’de](https://www.douaratil.fr/illustrations/aberration/sathyakurmdem.png)](https://www.douaratil.fr/illustrations/aberration/sathyakurmde.jpg)
+[![Sathyakurm’de](https://www.douaratil.fr/illustrations/aberration/sathyakurmdem.png)](https://www.douaratil.fr/illustrations/aberration/sathyakurmde.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

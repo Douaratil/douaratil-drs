@@ -23,6 +23,7 @@ Je profite de cette mise à jour pour remercier Fred pour les soirées passées 
 - Ajout d'illustration pour de l'[Eidyde](/bestiaire/eidyde).  
 - Ajout d'illustration pour de [Emhyhruigdrux](/bestiaire/emhyhruigdrux).
 - Ajout d'illustration pour de [Khoulggotateelle](/bestiaire/khoulggotateelle).
+- Ajout d'illustration pour de [Lhaothlastholo](/bestiaire/lhaothlastholo).
 - Ajout d'illustration pour de [Sathyakurm’de](/bestiaire/sathyakurm-de).
 
 
