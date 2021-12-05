@@ -66,6 +66,9 @@ telepathy: 72
 source: "Elric"
 
 ---
+## Shandoth
+&nbsp;
+[![Shandoth](https://www.douaratil.fr/illustrations/aberration/shandothm.png)](https://www.douaratil.fr/illustrations/aberration/shandoth.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -81,7 +84,7 @@ _**Résistance légendaire (3/jour)**_. Si Shandoth rate un jet de sauvegarde, e
 _**Attaques multiples**_. Shandoth effectue 3 attaques.  
 
 _**Pattes griffues empoisonnée**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21. Elle subit 4d6 dégâts de élémentaire (feu, froid ou autre toujours à l'avantage de la déesse) en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
+_Touché_ : 7d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 21. Elle subit 4d6 dégâts de élémentaire (feu, froid ou autre toujours à l'avantage de la déesse) en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.  
 
 ## Actions légendaires
 Shandoth peut faire trois actions légendaires, parmi celles proposées ci-dessous. Elle ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, elle récupère les actions légendaires dépensées.
