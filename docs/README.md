@@ -16,8 +16,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 66
 
-
-- Ajout d'illustration pour de [Sandoth](/bestiaire/shandoth).
+- Ajout d'illustration du [Akau-keshake](/bestiaire/akau-keshake).
+- Ajout d'illustration de [Shandoth](/bestiaire/shandoth).
+- Ajout d'illustration de [Sheggothlil](/bestiaire/sheggothlil).
+- Ajout d'illustration de [Vhaxrrixz](/bestiaire/vhaxrrixz). Akau-keshake
 
 Bon jeu.  
 §§§ .text-right
@@ -29,13 +31,11 @@ _le 5 décembre 2021_
 
 Je profite de cette mise à jour pour remercier Fred pour les soirées passées à travailler sur la feuille de personnage de [Lets-role](https://www.lets-role.com). Merci aussi à Megalo que j'ai rencontré sur le Discord de lets-role pour son regard expert sur le script car il m'a résolu la double maîtrise sur les jets de sauvegarde.    
 - Mise à jour des dégâts des créatures du bestiaire.
-
-
-- Ajout d'illustration pour de l'[Eidyde](/bestiaire/eidyde).  
-- Ajout d'illustration pour de [Emhyhruigdrux](/bestiaire/emhyhruigdrux).
-- Ajout d'illustration pour de [Khoulggotateelle](/bestiaire/khoulggotateelle).
-- Ajout d'illustration pour de [Lhaothlastholo](/bestiaire/lhaothlastholo).
-- Ajout d'illustration pour de [Sathyakurm’de](/bestiaire/sathyakurm-de).
+- Ajout d'illustration de l'[Eidyde](/bestiaire/eidyde).  
+- Ajout d'illustration de [Emhyhruigdrux](/bestiaire/emhyhruigdrux).
+- Ajout d'illustration de [Khoulggotateelle](/bestiaire/khoulggotateelle).
+- Ajout d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo).
+- Ajout d'illustration de [Sathyakurm’de](/bestiaire/sathyakurm-de).
 
 
 
@@ -58,10 +58,8 @@ _le 4 décembre 2021_
 - Ajout d'illustration pour l'archétype de le [Nayane](/archetypes/nayane).
 - Ajout d'illustration pour l'archétype de le [Sermazloth](/archetypes/sermazloth).   
 - Ajout d'illustration pour l'archétype de le [Skell](/archetypes/skell).   
-
 - Mise à jour de l'[Astartes](/archetypes/astartes) avec ajout de la maîtrise de la javeline et de la lance.
 - Ajustement de la table des points d'[Expérience](/experience), (j'avais été un peu sévère dans la réduction) et mise en adéquation avec la table d'artisanat.   
-
 - Ajout d'illustration pour du [Akashakhal](/bestiaire/akashakhal).
 - Ajout d'illustration pour du [Ashkam](/bestiaire/ashkam).   
 - Ajout d'illustration pour du [Bodad](/bestiaire/bodad).   

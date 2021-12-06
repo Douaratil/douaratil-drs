@@ -66,6 +66,9 @@ telepathy: 72
 source: "Elric"
 
 ---
+## Vhaxrrixz
+&nbsp;
+[![Vhaxrrixz](https://www.douaratil.fr/illustrations/aberration/vhaxrrixzm.png)](https://www.douaratil.fr/illustrations/aberration/vhaxrrixz.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -81,7 +84,7 @@ _**Résistance légendaire (3/jour)**_. Si Vhaxrrixz rate un jet de sauvegarde, 
 _**Attaques multiples**_. Vhaxrrixz effectue 4 attaques.  
 
 _**dague torsadée empoisonnée**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 2d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+_Touché_ : 7d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Elle subit 2d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 
 ## Actions légendaires
