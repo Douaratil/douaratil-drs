@@ -39,6 +39,9 @@ languages:
   - "infernal"
 
 ---
+## Diabodi
+&nbsp;
+[![Diabodi](https://www.douaratil.fr/illustrations/fielon/diabodiem.png)](https://www.douaratil.fr/illustrations/fielon/diabodi.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

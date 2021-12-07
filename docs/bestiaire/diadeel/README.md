@@ -43,6 +43,9 @@ languages:
 telepathy: 36
 
 ---
+## Diadeel
+&nbsp;
+[![Diadeel](https://www.douaratil.fr/illustrations/fielon/diadeelm.png)](https://www.douaratil.fr/illustrations/fielon/diadeel.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

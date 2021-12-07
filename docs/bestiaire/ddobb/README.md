@@ -47,6 +47,9 @@ languages:
 telepathy: 36
 
 ---
+## Ddobb
+&nbsp;
+[![Ddobb](https://www.douaratil.fr/illustrations/fielon/ddobbm.png)](https://www.douaratil.fr/illustrations/fielon/ddobb.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 26        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

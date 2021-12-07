@@ -51,6 +51,9 @@ languages:
 telepathy: 36
 
 ---
+## Diabdo
+&nbsp;
+[![Diabdo](https://www.douaratil.fr/illustrations/fielon/diabdom.png)](https://www.douaratil.fr/illustrations/fielon/diabdo.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

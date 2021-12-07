@@ -37,6 +37,9 @@ languages:
 telepathy: 36
 
 ---
+## Diabarbuth
+&nbsp;
+[![Diabarbuth](https://www.douaratil.fr/illustrations/fielon/diabarbuthm.png)](https://www.douaratil.fr/illustrations/fielon/diabarbuth.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

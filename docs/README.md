@@ -18,6 +18,21 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 - Ajout d'illustration d'[Arbedab](/bestiaire/arbedab).
 - Ajout d'illustration de [Bodidius](/bestiaire/bodidius).
+- Ajout d'illustration de [Bouda](/bestiaire/bouda).
+- Ajout d'illustration de [Dabbiub](/bestiaire/dabbiub).
+- Ajout d'illustration de [Ddobb](/bestiaire/ddobb).
+- Ajout d'illustration de [Debu](/bestiaire/debu).
+- Ajout d'illustration de [Diabarbuth](/bestiaire/diabarbuth).
+- Ajout d'illustration de [Diabbarbede](/bestiaire/diabbarbede).
+- Ajout d'illustration de [Diabbuaibe](/bestiaire/diabbuaibe).
+- Ajout d'illustration de [Diabdo](/bestiaire/diabdo).
+- Ajout d'illustration de [Diabede](/bestiaire/diabede).
+- Ajout d'illustration de [Diabodi](/bestiaire/diabodi).
+- Ajout d'illustration de [Diabordu](/bestiaire/diabordu).
+- Ajout d'illustration de [Diadedodde](/bestiaire/diadedodde).
+- Ajout d'illustration de [Diabeel](/bestiaire/diabeel).
+- Ajout d'illustration de [Diagede](/bestiaire/diagede).
+- Ajout d'illustration de [Dibbeda](/bestiaire/dibbeda).
 
 Bon jeu.  
 §§§ .text-right

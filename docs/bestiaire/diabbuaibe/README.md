@@ -46,6 +46,9 @@ languages:
 telepathy: 36
 
 ---
+## Diabbuaibe
+&nbsp;
+[![Diabbuaibe](https://www.douaratil.fr/illustrations/fielon/diabbuaibem.png)](https://www.douaratil.fr/illustrations/fielon/diabbuaibe.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
