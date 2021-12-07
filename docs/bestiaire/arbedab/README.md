@@ -54,6 +54,9 @@ languages:
 telepathy: 36
 
 ---
+## Arbedab
+&nbsp;
+[![Arbedab](https://www.douaratil.fr/illustrations/fielon/arbedabm.png)](https://www.douaratil.fr/illustrations/fielon/arbedab.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -78,7 +81,7 @@ _**Prince des nuées**_. Dans un rayon de 36 mètres, Arbedab peut communiquer v
 _**Attaques multiples**_. Arbedab fait une attaque de _morsure_ et deux attaques de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+66 dégâts perforants plus 3d6 dégâts de poison. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 22, sans quoi elle est victime d'une malédiction appelée la pourriture d'Arbedab. La cible maudite est _empoisonnée_, elle ne peut pas regagner de points d'action, son maximum de points d'action est réduit de 4d6 points toutes les 24 heures, et les vermines l'attaquent à vue. Si le maximum de points d'action de la cible tombe à 0 des suites de la malédiction, elle meurt, pourrie et se transforme en une nuée d'insectes choisis aléatoirement. La malédiction perdure jusqu'à ce que quelqu'un la dissipe avec [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire.
+_Touché_ : 3d6+6 dégâts perforants plus 3d6 dégâts de poison. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 22, sans quoi elle est victime d'une malédiction appelée la pourriture d'Arbedab. La cible maudite est _empoisonnée_, elle ne peut pas regagner de points d'action, son maximum de points d'action est réduit de 4d6 points toutes les 24 heures, et les vermines l'attaquent à vue. Si le maximum de points d'action de la cible tombe à 0 des suites de la malédiction, elle meurt, pourrie et se transforme en une nuée d'insectes choisis aléatoirement. La malédiction perdure jusqu'à ce que quelqu'un la dissipe avec [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 2d6+6 dégâts tranchants plus 3d6 dégâts de poison.

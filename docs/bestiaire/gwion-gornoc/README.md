@@ -255,7 +255,7 @@ un petit fil de cuivre enchanté.
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|1d6 pp|1|
+|Temple|0|0|0|0|-|0|0d6 pp|1|
 |**Total**|**6**|**6**|**0**|**0**|**3d6**|**24**|**6d6 pa**|**-**|
 
 **Colons** : 28  
@@ -273,7 +273,7 @@ un petit fil de cuivre enchanté.
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 141 605       
+**XP acquis** : 143 605       
 **Points de Magie** :76   
 **Points de Foi** :18    
 **Points d'honneur** :47          

@@ -184,7 +184,11 @@ Lôchetos possède l'équipement suivant :
 - piège à mâchoire
 - torches (2)
 - vêtement discrets
-- 64 PC, 8147 PA, 50 PE, 9885 PO, 70 PP.  
+- 6314 PC
+- 9022 PA
+- 750 PE
+- 10 803 PO
+- 70 PP  
 §§§
 
 §§§ .hero
@@ -247,7 +251,7 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 129 371   
+**XP acquis** : 134 371   
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** : 51      

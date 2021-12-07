@@ -49,6 +49,9 @@ languages:
 telepathy: 36
 
 ---
+## Bodidius
+&nbsp;
+[![Bodidius](https://www.douaratil.fr/illustrations/fielon/bodidiusm.png)](https://www.douaratil.fr/illustrations/fielon/bodidius.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

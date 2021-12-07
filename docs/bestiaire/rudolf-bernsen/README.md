@@ -214,7 +214,7 @@ Rudolf possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 90 595   
+**XP acquis** : 95 595   
 **Points de Magie** :9    
 **Points de Foi** :12    
 **Points d'honneur** :36      
