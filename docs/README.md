@@ -30,7 +30,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout d'illustration de [Diabodi](/bestiaire/diabodi).
 - Ajout d'illustration de [Diabordu](/bestiaire/diabordu).
 - Ajout d'illustration de [Diadedodde](/bestiaire/diadedodde).
-- Ajout d'illustration de [Diabeel](/bestiaire/diabeel).
+- Ajout d'illustration de [Diadeel](/bestiaire/diadeel).
 - Ajout d'illustration de [Diagede](/bestiaire/diagede).
 - Ajout d'illustration de [Dibbeda](/bestiaire/dibbeda).
 
