@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 68
 
-- Ajout de nouvelles plantes dans l'herbier dans la section [Préservaion de la vie](/herbier/preservation-de-la-vie).
+- Ajout de nouvelles plantes dans l'herbier dans la section [Préservation de la vie](/herbier/preservation-de-la-vie).
 
 Bon jeu.  
 §§§ .text-right
