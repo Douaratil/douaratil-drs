@@ -15,6 +15,7 @@ Les Archétypes actuellement disponibles sont :
 - [Fürtane](/archetypes/furtane/), guerrière furie khernaëe.  
 - [Gwylwir](/archetypes/gwylwir/), guerrier meldète.  
 - [Herredyr](/archetypes/herredyr/), homme bête de culture clanique.  
+- [Holtseidar](/archetypes/holtseidar/), maître des runes melg.
 - [Ior](/archetypes/ior/), guerrier frénétique meldète.  
 - [Jargl](/archetypes/jargl/), champion khernaë.  
 - [Jörghal](/archetypes/jorghal/), champion melg.  
