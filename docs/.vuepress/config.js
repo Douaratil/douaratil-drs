@@ -243,7 +243,7 @@ module.exports = {
               },
             {
                 title: "Compagnon animal",
-                icon: 'mdi-drama-masks',
+                icon: 'mdi-bird',
                 path: '/archetypes/2-compagnon-animal',
               },
           {
