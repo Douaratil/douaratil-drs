@@ -236,11 +236,16 @@ module.exports = {
             icon: 'mdi-human-queue',
             //path: '/archetypes',
             children: [
-              {
-                  title: "Présentation",
-                  icon: 'mdi-drama-masks',
-                  path: '/archetypes/1-presentation',
-                },
+            {
+                title: "Présentation",
+                icon: 'mdi-drama-masks',
+                path: '/archetypes/1-presentation',
+              },
+            {
+                title: "Compagnon animal",
+                icon: 'mdi-drama-masks',
+                path: '/archetypes/2-compagnon-animal',
+              },
           {
               title: "Ambeanamos",
               icon: 'mdi-auto-fix',

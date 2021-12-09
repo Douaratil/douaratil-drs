@@ -13,8 +13,8 @@ title: Drodan
 |**10**|[Refuge d'automne](#refuge-d-automne)|
 |**12**|[Compagnon animal buse](#compagnon-anima-buse)|
 |**14**|[Prédateur de l'hiver](#predateur-de-l-hiver)|
-|**18**|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale)](#incantation-animale)|
-|**19**|[Compagnon animal Aigle)](#compagnon-animal-aigle)|
+|**18**|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale](#incantation-animale)|
+|**19**|[Compagnon animal Aigle](#compagnon-animal-aigle)|
 |**20**|[Archidruide](#archidruide), [Véritable Drodan](#veritable-drodan)
 
 ## Aptitudes d'Archétype

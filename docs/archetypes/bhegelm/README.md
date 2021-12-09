@@ -18,7 +18,7 @@ title: Bhegelm
 |**14**|[Sanctuaire de la nature](#sanctuaire-de-la-nature)|
 |**16**|[Compagnon animal corneille blanche](#compagnon-animal-corneille-blanche)|
 |**17**|[Jeunesse éternelle](#jeunesse-eternelle)|
-|**18**|[Incantation animale)](#incantation-animale)|
+|**18**|[Incantation animale](#incantation-animale)|
 |**19**|[Monture sacrée parfaite](#monture-sacree-parfaite)|
 |**20**|[Archidruide](#archidruide), [Véritable Bhegelm](#veritable-bhegelm)|
 
