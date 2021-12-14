@@ -23,7 +23,6 @@ senses:
 conditionImmunities:
   - "empoisonne"
 damageTypeImmunities:
-  - "feu"
   - "poison"
 damageTypeVulnerabilities:
   - "contondant"
@@ -62,4 +61,4 @@ _**Souffle de boue (Recharge 1, 3, 4, 2, 6 et 5)**_. L’élémentaire projette 
 
 ---
 L'élémentaire mineur de boue est une créature non tangible qui vient d'un autre plan. Il apparaît la plus part du temps en répondant à une invocation ou en profitant d'une faille entre les plans comme il en apparaît quelques fois.
-Pour prendre corps, un élémentaire mineur de vapeur a besoin d'une surface d'eau d'au moins égal à 30 cm2 et d'un petit parterre de terre, ou tout simplement de boue. Créature non agressive naturellement par sa composition trop molle pour faire de quelconques dégâts, il lui arrive cependant d’être souvent taquin avec les hommes.
+Pour prendre corps, un élémentaire mineur de boue a besoin d'une surface d'eau d'au moins égal à 30 cm2 et d'un petit parterre de terre, ou tout simplement de boue. Créature non agressive naturellement par sa composition trop molle elle peut cependant faire des dégâts pour se défendre et il lui arrive cependant d’être souvent taquin avec les hommes.
