@@ -135,20 +135,6 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 ## Autres notions de La famille  
 La famille est une cellule très importante pour le personnage et joue un rôle central dans sa vie hors aventure. Il y trouve secours et assistance. La famille s'entend à plusieurs niveaux. Il y a d'abord la famille nucléaire avec la femme ou le mari ainsi que les enfants. Dans les sociétés de Douaratil, il n'est pas rare que plusieurs générations vivent sous le même toit. Il y a ensuite la famille un peu plus éloignées souvent à quelques jours de marche. Ce sont les cousins et cousines, les oncles et tantes. Cette famille a des relations et permet d'élargir le champs d'influence du personnage. Cela intervient par exemple dans les levées.  
 
-## Les compagnons  
-Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffisamment développés pour être intégralement transcrit sur une feuille de personnage. Le Narrateur peut prendre le contrôle d'un compagnon à tous moment mais généralement, le joueur en garde la maîtrise. Un compagnon est un allié fidèle qui risquera sa vie pour son maître. En échange, celui-ci partage ses richesses avec lui, particulièrement lors des partages de trésor. Les compagnons prennent 10 % de la part du joueur et de ses revenus sans jamais dépasser 50 % quelque soit le nombre de compagnon. **Le nombre de compagnon maximum correspond au bonus de charisme**.  
-
-§§§ .hero
-**Règles concernant les compagnons**: Les compagnons sont joués comme des personnages normaux et sont entièrement sous le contrôle du personnage. Le compagnon revers 50% de ses points d'expérience au personnage principal si celui-ci est absent. Sinon, à l'inverse, si le ou les compagnons sont avec le personnage principal durant le jeu, ils gagnent l'équivalent de 50% des XP du joueur.  
-Ainsi un compagnon  monte de niveau plus lentement qu'un personnage principal.  
-Enfin, un compagnon est à la charge financière du joueur qui doit lui maintenir au minimum un [train de vie modeste](/partir-a-l-aventure/#le-train-de-vie) (1po par jour).  
-
-***Pour résumer:  
-- Coût minimum de 1po/jours  
-- 10% de part de richesse (trésor) par compagnon sans dépenser 50%  
-- Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.***  
-§§§   
-
 
 ## levées des armées   
 L’host ne peut être invoqué normalement qu’une fois par saison. Cela mobilise de forte ressource pour le clan du personnage. Cela peut être fait à la demande du suzerain dans le cadre d'obéissance et de loyauté. Les armées du clan peuvent être aussi utiliser pour régler des conflits qui oppose des familles. La composition de l'host dépend du patrimoine du clan du personnage.  
