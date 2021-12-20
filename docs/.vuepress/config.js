@@ -451,6 +451,11 @@ module.exports = {
             icon: 'mdi-firebase',
             path: '/grimoire/'
           },
+          {
+            title: 'Compagnons',
+            icon: 'mdi-account-multiple',
+            path: '/Compagnons/'
+          },
         ]
       },
       {
