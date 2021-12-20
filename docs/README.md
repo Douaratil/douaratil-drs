@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 73
 - Poursuite des modifications des règles pour l'utilisation des [Compagnons](/archetypes/compagnons).  
-- ajout du sort [Anosnie/Aguesie](/grimoire/anosnie-aguesie) par Elric.
+- ajout du sort [Anosmie/Agueusie](/grimoire/anosmie-agueusie) par Elric.
 
 Bon jeu.  
 §§§ .text-right

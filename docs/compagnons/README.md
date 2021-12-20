@@ -23,21 +23,17 @@ Les compagnons peuvent utiliser certaines de leurs compétences et sorts en acti
 Ils peuvent agir en fonction de leur niveau et de leur voie. Ils peuvent utiliser des capacités de leur voie ou de leur archétype.   
 
 
-|Nom|dégâts|Avantage au combat|Désavantage au combat|Bonus de perception passive|Bonus de pistage (Survie)|
+|Niveau|Voie|Action de combat|Compétence|Sort|Capacité|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|Aigle|Serres (5-6) 1d6 tranchants|Avantage sur 5-6|Désavantage sur 5-6|+5|-|
-|Buse|Serres (5-6) 1d6 tranchants|Avantage sur 6|Désavantage sur 5-6|+5|-|
-|Cerf|Sabots (5-6) 1d6+5 contondants|Avantage sur 5-6|Désavantage sur 4-6|+2|-|
-|Cheval|Sabots (5-6) 2d6 contondants|Avantage sur 5-6|Désavantage sur 4-6|+1|-|
-|Chouette|Serres (5-6) 1 tranchants|Avantage sur 6|Désavantage sur 5-6|+5|-|
-|Corneille|Serres (5-6) 1 tranchants|Avantage sur 6|Désavantage sur 5-6|+3|-|
-|Faucon|Serres (5-6) 1 tranchants|Avantage sur 6|Désavantage sur 5-6|+5|-|
-|Hibou| Serres (5-6) 2 tranchants|Avantage sur 5-6|Désavantage sur 5-6|+5|-|
-|Loup|Morsure (4-6) 1d6+4 tranchants|Avantage sur 4-6|Désavantage sur 4-6|+4|+5|    
-|Lynx|Morsure (3-6) 1d6+2 tranchants|Avantage sur 4-6|Désavantage sur 4-6|+4|+4|      
-|Ours|Griffes (5-6) 2d6+4 tranchants|Avantage sur 3-6|Désavantage sur 3-6|+1|+2|      
-|Panthère|Morsure (3-6) 1d6+2 tranchants|Avantage sur 4-6|Désavantage sur 3-6|+3|+1|       
-|Renard|Morsure (4-6) 1d6 tranchants|Avantage sur 4-6|Désavantage sur 5-6|+3|+3|    
-|Sanglier|Défenses (4-6) 1d6+1 tranchants|Avantage sur 4-6|Désavantage sur 5-6|+2|+2|     
-
-Certaines règles ci-dessus sont applicables pour les compagnons des personnages.
+|1-5|Voie des armes|5-6|6|6|5-6|
+|6-10|Voie des armes|4-6|5-6|6|4-6|
+|11-15|Voie des armes|3-6|4-6|5-6|4-6|
+|16-20+|Voie des armes|2-6|3-6|4-6|3-6|
+|1-5|Voie des ombres|5-6|5-6|6|5-6|
+|6-10|Voie des ombres|5-6|4-6|5-6|4-6|
+|11-15|Voie des ombres|4-6|3-6|5-6|3-6|
+|16-20+|Voie des ombres|3-6|2-6|4-6|2-6|
+|1-5|Voie de la magie|6|6|5-6|6|
+|6-10|Voie de la magie|6|6|4-6|5-6|
+|11-15|Voie de la magie|5-6|5-6|3-6|4-6|
+|16-20+|Voie de la magie|5-6|5-6|2-6|3-6|
