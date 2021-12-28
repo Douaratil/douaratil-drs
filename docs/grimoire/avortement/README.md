@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 10 points de Foi  
+
 En posant la main sur le ventre d'une femme enceinte, le guérisseur a la possibilité de déclencher un avortement. Cet avortement a lieu dans de bonnes conditions de sécurité pour la femme. L'enfant est tué. Si la femme n'est pas consentante, elle peut tenter de résister avec un un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si celle-ci résiste, elle est immunisée contre d'autres tentatives de ce guérisseur.  

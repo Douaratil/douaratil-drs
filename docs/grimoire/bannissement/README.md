@@ -18,7 +18,8 @@ classes:
     - Magie
 
 ---
-**Coût** : 8 points de Foi ou de Magie  
+**Coût** : 8 points de Foi ou de Magie   
+
 Vous tentez d'envoyer une créature située dans votre champ de vision dans un autre plan d'existence. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou être bannie.
 
 Si la cible est native du plan d'existence sur lequel vous vous trouvez, vous l'exilez dans un demi-plan inoffensif. Elle est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) tant qu'elle se trouve là-bas et y reste jusqu'à la fin du sort. À ce moment, elle réapparaît à l'endroit qu'elle a quitté, ou dans l'emplacement inoccupé le plus proche si son emplacement de départ est occupé.

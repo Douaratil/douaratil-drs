@@ -21,6 +21,7 @@ source: Elric
 
 ---
 **Coût** : 2 points de Foi ou de Magie  
+
 Le sorcier désigne une cible dans son champs de vision et lui supprime pendant 1 minute l’odorat ou le goût.  
 
 **À plus haut niveau**:   Pour chaque emplacement de surcharge, la durée du sort, double, triple, quadruple, etc...  

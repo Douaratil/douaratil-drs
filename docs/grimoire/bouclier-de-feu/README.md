@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Magie  
+
 De fines volutes de flammes que seul le magicien peut voir enveloppent son corps pendant toute la durée du sort, émettant une lumière vive dont seul le lanceur de sort bénéficie, dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Vous pouvez mettre prématurément un terme au sort en utilisant une action.
 
 Les flammes vous offrent un bouclier chaud ou froid, comme bon vous semble. Le bouclier chaud vous apporte une résistance contre les dégâts de froid, le bouclier froid une résistance contre les dégâts de feu.

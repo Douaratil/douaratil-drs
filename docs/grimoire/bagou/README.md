@@ -16,4 +16,5 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
+
 Jusqu'à la fin du sort, chaque fois que vous effectuez un test de Charisme, vous pouvez remplacer le nombre obtenu au dé par un 15. De plus, quoi que vous disiez, la magie visant à déterminer si vous dites la vérité vous identifie toujours comme sincère.

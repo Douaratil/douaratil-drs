@@ -17,4 +17,5 @@ classes:
   - Magie
 ---
 **Coût** : 4 points de Magie  
+
 Ce sort permet au sorcier de condenser l’humidité de l’air sur une très large surface pour créer une fine bruine ou alors une légère pluie. Le sort se rompt si le lanceur de sort est tué. Le sort recouvre une zone d’1 km de rayon dont le centre est le sorcier. La pluie ne peut pas rendre une surface glissante, ni faire pleuvoir à l’intérieur d’une maison. Il est impossible de créer une pluie dans une zone aride.  

@@ -17,6 +17,7 @@ classes:
   - Magie
 ---
 **Coût** : 8 points de Magie  
+
 L'enchanteur peut augmenter la taille d'un feu par magie. Toutefois ce sort ne peut pas créer de feu, juste en modifier un déjà existant. Le DD du sort dépend de l'augmentation de taille :  
 · Transformer la flamme d'une bougie en celle d'une torche : DD de 8  
 · Transformer un feu de camp en un petit brasier : DD de 8  

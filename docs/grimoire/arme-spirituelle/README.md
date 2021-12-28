@@ -16,7 +16,8 @@ classes:
     - Foi
 
 ---
-**Coût** : 4 points de Foi  
+**Coût** : 4 points de Foi    
+
 Vous créez à portée une arme spectrale flottante presque invisible qui persiste pendant toute la durée du sort ou jusqu'à ce que vous le lanciez de nouveau. Lors de l'incantation, vous pouvez faire une attaque de sort au corps-à-corps contre une créature située dans un rayon de 1,50 mètre autour de l'arme. L'attaque inflige des dégâts de force égaux à 1d6 + votre modificateur de caractéristique d'incantation.
 
 À votre tour et au prix d'une action bonus, vous pouvez déplacer l'arme d'un maximum de 6 mètres et répéter l'attaque contre une créature située dans un rayon de 1,50 mètre autour d'elle.

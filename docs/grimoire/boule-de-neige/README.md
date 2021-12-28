@@ -18,5 +18,7 @@ classes:
 source: Elric
 ---
 **Coût** : 1 points de Magie  
+
 Le sorcier jette une boule de neige sur la cible comme il jette un projectile normal. La cible peut éviter la boule en faisant un JS de dextérité DD 12. Si elle le rate, elle est ralentie pour son tour et sa vitesse de déplacement est réduite de 4 mètres.  
+
 **À plus haut niveau**. Avec un emplacement de surcharge de disciple, la vitesse de déplacement de la cible est réduite de 6 mètres   

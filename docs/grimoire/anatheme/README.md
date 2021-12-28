@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Magie ou de Foi  
+
 Cette malédiction mineure emplit la cible de crainte qui lui fait perdre toute confiance. Elle est secouée et subie un malus de -1 à toutes ses actions. Un jet de sauvegarde de Sagesse réussie annule l’effet.

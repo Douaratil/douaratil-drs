@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
+
 Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la VD pendant toute la durée du sort.

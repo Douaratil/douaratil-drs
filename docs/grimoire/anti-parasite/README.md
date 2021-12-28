@@ -20,4 +20,5 @@ classes:
 
 ---
 **Coût** : 2 points de Foi ou de Magie  
+
 Ce sort permet de détruire tous les petits parasites dans une zone donnée, sur les personnes et les objets. Il affecte tout ce qui est tique, puce, morpion, pou...Ils sont instantanément tués.   

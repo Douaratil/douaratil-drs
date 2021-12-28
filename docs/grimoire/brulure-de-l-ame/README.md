@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 10 points de Foi  
+
 Le lanceur de sort désigne sa cible dans les limites de la portée du sort. Celle-ci doit réussi un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou subir 2d6 de dégâts de points d'honneur(PH), de points de Magie(PM) et de points de Foi (PF).  Ce sort brûle l'intime de la cible, les mages et les prêtres le redoute mais même les guerriers peuvent en subir les préjudices.   
 
 §§§ .hero

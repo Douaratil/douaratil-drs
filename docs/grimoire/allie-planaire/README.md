@@ -17,6 +17,7 @@ classes:
 
 ---
 **Coût** : 12 points de Foi    
+
 Vous demandez de l'aide à une entité appartenant à un autre monde. Vous devez connaître cet être, que ce soit un dieu, un primordial, un prince démoniaque ou une autre créature à la puissance cosmique. L'entité vous envoie un céleste, un élémentaire ou un fiélon qui lui est loyal. Cette créature apparaît dans un emplacement libre à portée. Si vous connaissez le nom d'une créature spécifique, vous pouvez le mentionner lors de l'incantation pour demander à ce que ce soit elle que l'entité vous envoie, bien qu'elle puisse tout de même vous envoyer un autre émissaire (c'est au MJ de décider).
 
 Quand la créature apparaît, elle n'a aucune obligation de se comporter d'une manière particulière. Vous pouvez lui demander d'accomplir un service rémunéré, mais elle n'est pas obligée d'accepter. Votre requête peut être très simple (_nous faire passer en volant au-dessus de ce précipice_, _nous aider à livrer un combat_...) ou plus complexe (_espionner nos ennemis_, _nous protéger lors de l'exploration de ce donjon_...). Pour négocier un service, vous devez être en mesure de communiquer avec la créature.
