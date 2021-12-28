@@ -10,7 +10,7 @@ Les compagnons sont des PNJ spéciaux, joués par les PJ. Ils sont souvent suffi
 Ainsi un compagnon  monte de niveau plus lentement qu'un personnage principal.  
 Enfin, un compagnon est à la charge financière du joueur qui doit lui maintenir au minimum un [train de vie modeste](/partir-a-l-aventure/#le-train-de-vie) (1po par jour).  
 
-***Pour résumer:  
+***Pour résumer:
 - Coût minimum de 1po/jours  
 - 10% de part de richesse (trésor) par compagnon sans dépenser 50%  
 - Le compagnon reverse 50% des XP gagnés si PJ absent ou récupère l'équivalent de 50% des XP du PJ.***  
@@ -26,14 +26,14 @@ Ils peuvent agir en fonction de leur niveau et de leur voie. Ils peuvent utilise
 |Niveau|Voie|Action de combat|Compétence|Sort|Capacité|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1-5|Voie des armes|5-6|6|6|5-6|
-|6-10|Voie des armes|4-6|5-6|6|4-6|
-|11-15|Voie des armes|3-6|4-6|5-6|4-6|
-|16-20+|Voie des armes|2-6|3-6|4-6|3-6|
-|1-5|Voie des ombres|5-6|5-6|6|5-6|
-|6-10|Voie des ombres|5-6|4-6|5-6|4-6|
-|11-15|Voie des ombres|4-6|3-6|5-6|3-6|
-|16-20+|Voie des ombres|3-6|2-6|4-6|2-6|
 |1-5|Voie de la magie|6|6|5-6|6|
+|1-5|Voie des ombres|5-6|5-6|6|5-6|
+|6-10|Voie des armes|4-6|5-6|6|4-6|
 |6-10|Voie de la magie|6|6|4-6|5-6|
+|6-10|Voie des ombres|5-6|4-6|5-6|4-6|
+|11-15|Voie des armes|3-6|4-6|5-6|4-6|
 |11-15|Voie de la magie|5-6|5-6|3-6|4-6|
+|11-15|Voie des ombres|4-6|3-6|5-6|3-6|
+|16-20+|Voie des armes|2-6|3-6|4-6|3-6|
 |16-20+|Voie de la magie|5-6|5-6|2-6|3-6|
+|16-20+|Voie des ombres|3-6|2-6|4-6|2-6|

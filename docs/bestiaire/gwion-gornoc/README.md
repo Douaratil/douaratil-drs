@@ -273,7 +273,7 @@ un petit fil de cuivre enchanté.
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 143 605       
+**XP acquis** : 148 605       
 **Points de Magie** :76   
 **Points de Foi** :18    
 **Points d'honneur** :47          

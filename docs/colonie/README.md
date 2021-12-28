@@ -98,7 +98,7 @@ Il s'agit de la richesse dégagée par un bâtiment et son activité. Il s'agit 
 **Le bien-être** : -
 **Production de nourriture** : -  
 **Capacité d'accueil de la ville** : 2    
-**Revenus** : 1d6 PO      
+**Revenus** : 2x6d6 PO      
 **Nombre maximum** : 1/10 maisons  
 Les ateliers de poterie produisent des revenus confortables mais comme tout lieu de richesse peut attirer quelques malfaisants, augmentant ainsi l'insécurité. Les poteries sont nécessaires pour stocker les denrées alimentaires et transporter l'eau.   
 Les poteries expriment aussi la culture d'une civilisation.   
@@ -110,7 +110,7 @@ Les poteries expriment aussi la culture d'une civilisation.
 **Le bien-être** : -1
 **Production de nourriture** : 2d6    
 **Capacité d'accueil de la ville** : 2   
-**Revenus** : 1d6 PA   
+**Revenus** : 10x6d6 PA   
 **Nombre maximum** : 1/5 maisons   
 Les basse-cour produisent de petits revenus et génèrent des nuisances avec les volatiles mais la production de nourriture est interessante et la vitesse de reproduction aussi. Une basse-cour à un faible coût d'investissement.    
 
@@ -121,7 +121,7 @@ Les basse-cour produisent de petits revenus et génèrent des nuisances avec les
 **Le bien-être** : -1  
 **Production de nourriture** : 2d6     
 **Capacité d'accueil de la ville** : 2     
-**Revenus** : 2d6 PA  
+**Revenus** : 20X6d6 PA  
 **Nombre maximum** :  1/5 maisons   
 Les bergeries génèrent les mêmes problèmes que les basse-cour mais en plus d'amener de la viande, elles apportent du lait. Les revenus de ce commerce sont plus importants que la basse-cour.    
 
@@ -132,7 +132,7 @@ Les bergeries génèrent les mêmes problèmes que les basse-cour mais en plus d
 **Le bien-être** : +2   
 **Production de nourriture** : -   
 **Capacité d'accueil de la ville** : 5   
-**Revenus** : 2d6 PP    
+**Revenus** : 2X6d6 PP    
 **Nombre maximum** : 1   
 Un bordel attirent souvent beaucoup de monde et ce, depuis de longues distances. Un bordel offre beaucoup d'influence et de très bon revenus tout en améliorant le bine-être des habitants. Le revers de la médaille est l'insécurité que peut engendrer ce genre d'activité.   
 
@@ -198,7 +198,7 @@ Permet de stocker de la nourriture (pour le commerce ou les jours de disette). C
 **Le bien-être** : -2   
 **Production de nourriture** : 2d6    
 **Capacité d'accueil de la ville** : 2   
-**Revenus** :2d6 PO      
+**Revenus** :2X6d6 PO      
 **Nombre maximum** :  1/10 maisons   
 Comme les bergeries, les étables génèrent bénéfices et nuisances liées à l'élevage. Cette activité génère beaucoup de nourriture et de bons revenus.    
 
@@ -209,7 +209,7 @@ Comme les bergeries, les étables génèrent bénéfices et nuisances liées à 
 **Le bien-être** : -1     
 **Production de nourriture** : -    
 **Capacité d'accueil de la ville** : 2     
-**Revenus** : 2d6 PO   
+**Revenus** : 4x6d6 PO   
 **Nombre maximum** :  1/10 maisons   
 La forge est une activité centrale de toute communauté humaine. Elle permet de fabriquer les armes et les outils. La forge génère ainsi de bons revenus mais au dépend d'une augmentation de l'insécurité liée à la présence de lingots et la vente d'armes.  
 
@@ -219,7 +219,7 @@ La forge est une activité centrale de toute communauté humaine. Elle permet de
 **L'insécurité** : -     
 **Le bien-être** : -    
 **Production de nourriture** : 1d6    
-**Revenus** : 1d6 PA   
+**Revenus** : 10X6d6 PA   
 **Capacité d'accueil de la ville** : 2     
 **Nombre maximum** :  1/5 maisons    
 Les fours sont indispensables pour la cuisson du pain et permettent de mettre en commun les moyens. Les fours génèrent de la nourriture et des revenus pour un faible investissement.   
@@ -231,7 +231,7 @@ Les fours sont indispensables pour la cuisson du pain et permettent de mettre en
 **Le bien-être** : -     
 **Production de nourriture** : -     
 **Capacité d'accueil de la ville** : 5     
-**Revenus** : 1d6 PA  
+**Revenus** : 10X6d6 PA  
 **Nombre maximum** : Max=CHA+SAG du joueur  
 Elément de base de la colonie, la maison est le bâtiment qui est le moins cher, qui génère des revenus et qui a une bonne capacité d'accueil.  Le nombre de maison détermine les bâtiments constructibles dans le quartier géré par le joueur.   
 
@@ -242,7 +242,7 @@ Elément de base de la colonie, la maison est le bâtiment qui est le moins cher
 **Le bien-être** : -     
 **Production de nourriture** : -    
 **Capacité d'accueil de la ville** : 2     
-**Revenus** : 1d6 PO    
+**Revenus** : 3X6d6 PO    
 **Nombre maximum** : 1/10 maisons     
 La menuiserie permet de fournir à la ville les portes, les poutres, les meubles et certaines armes. Cette activité génère des revenus corrects.   
 
@@ -253,7 +253,7 @@ La menuiserie permet de fournir à la ville les portes, les poutres, les meubles
 **Le bien-être** : +1   
 **Production de nourriture** : 3D6     
 **Capacité d'accueil de la ville** : 2     
-**Revenus** : 3d6 PO     
+**Revenus** : 5X6d6 PO     
 **Nombre maximum** : 1/10 maisons     
 Le moulin possède un rôle capital dans la communauté humaine. Il fournit une grande quantité de nourriture. Qu'il soit actionné par un animal, de l'eau ou le vent, il permet de fabriquer les farines et les huiles nécessaires à la nourriture de base de la population.   
 
@@ -286,7 +286,7 @@ Il n'y a qu'une salle du conseil mais ce lieu de discussion où se prennent les 
 **Le bien-être** : +2    
 **Production de nourriture** : 1d6     
 **Capacité d'accueil de la ville** : 2    
-**Revenus** :5d6 PE   
+**Revenus** :12X6d6 PE   
 **Nombre maximum** : 2 (la seconde pas avant 10 maisons)   
 Les tavernes sont des lieux sociaux importants. Elles génèrent souvent de bons revenus mais peuvent causer de l'insécurité. Dans certains endroits, elles sont quelques fois interdites. C'est au dirigeant de jauger les bénéfices potentiels et les inconvénients.      
 
@@ -297,32 +297,32 @@ Les tavernes sont des lieux sociaux importants. Elles génèrent souvent de bons
 **Le bien-être** : +10    
 **Production de nourriture** : -    
 **Capacité d'accueil de la ville** : 10  
-**Revenus** :1d6 PP       
+**Revenus** :9d6 PP       
 **Nombre maximum** : 1  
 Un temple est un édifice majestueux qui assure la renommée du quartier. Un temple génère beaucoup de richesse d'influence et de bien-être mais aussi un peu d'insécurité car il y a toujours des personnes prêtes à abuser d'un pélerin naïf.   
 
 |Table des bâtiments & des ressources de la colonie |||||||||||
 |Type|Coûts|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|1000 po|+2|+1|-|-|2|1d6 po|1/10 maisons|
-|Basse-cour|500 po|+1|-|-1|1d6|2|1d6 pa|1/5 maisons|
-|Bergerie|1000 po|+1|-|-1|2d6|2|2d6 pa|1/5 maisons|
-|Bordel|10 000 po|+5|+8|+2|-|5|2d6 pp|1|
+|Atelier de poterie|1000 po|+2|+1|-|-|2|2X6d6 po|1/10 maisons|
+|Basse-cour|500 po|+1|-|-1|1d6|2|10X6d6 pa|1/5 maisons|
+|Bergerie|1000 po|+1|-|-1|2d6|2|20X6d6 pa|1/5 maisons|
+|Bordel|10 000 po|+5|+8|+2|-|5|2X6d6 pp|1|
 |Caravane commerciale|1000 po|+1|-|-1|spécial|5|spécial|maximum 4|
 |Caserne|5000 po|+5|-10|-|-|10|-|1|
 |Écurie|2000 po|+2|-1|-1|-|2|-|1/10 maisons|
 |Enceinte|500 po|+1|-2|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|1000 po|+1|+4|+2|-|2|2|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|1000 po|+2|-|-2|2d6|2|2d6 po|1/10 maisons|
-|Forge|2000 po|+3|+3|-1|-|2|2d6 po|1/10 maisons|
-|Four|500 po|+1|-|-|1d6|2|1d6 pa|1/5 maisons|
-|Maison|500 po|+1|-|-|-|5|1d6 pa|Max=CHA+SAG|
-|Menuiserie|1500 po|+2|+1|-|-|2|1d6 po|1/10 maisons|
-|Moulin|2500 po|+3|+1|+1|3d6|2|3d6 po|1/10 maisons|
+|Étable|1000 po|+2|-|-2|2d6|2|2X6d6 po|1/10 maisons|
+|Forge|2000 po|+3|+3|-1|-|2|4X6d6 po|1/10 maisons|
+|Four|500 po|+1|-|-|1d6|2|10X6d6 pa|1/5 maisons|
+|Maison|500 po|+1|-|-|-|5|10X6d6 pa|Max=CHA+SAG|
+|Menuiserie|1500 po|+2|+1|-|-|2|3X6d6 po|1/10 maisons|
+|Moulin|2500 po|+3|+1|+1|3d6|2|5X6d6 po|1/10 maisons|
 |Puits|500 po|+1|-|+3|1d6|-|-|1/10 maisons|
 |Salle du conseil|1000 po|+5|-3|+3|-|5|-|1|
-|Taverne|3000 po|+2|+4|+2|1d6|5|5d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|7000 po|+7|+2|+10|-|10|1d6 pp|1|
+|Taverne|3000 po|+2|+4|+2|1d6|5|12X6d6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|7000 po|+7|+2|+10|-|10|9d6 pp|1|
 
 * Les revenus sont entendus, charges et autres impôts déduits.
 
@@ -353,23 +353,23 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Détermination|Désastre|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Raid de pillard, perte de 1d6 maison (non explosif) et de 3d6 (explosif) colons morts, Perte 1d6 X 1000 PO à concurence de la totalité du trésor et de la moitié des biens du personnage, perte jusqu'à 150 de nourriture|
-|11|Evènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts, perte jusqu'à 100 de nourriture|
+|4-10|Raid de pillard, perte de 1d6 maison (non explosif) et de 3d6 (explosif) colons morts, Perte 1d6 X 1000 PO à concurrence de la totalité du trésor et de la moitié des biens du personnage, perte jusqu'à 150 de nourriture|
+|11|Évènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts, perte jusqu'à 100 de nourriture|
 |12|Une caravane est irrémédiablement perdue sans laisser de nouvelles|
 |13|Maraudes et pillages, 1000 PO de dégâts, 2d6 (explosif) colons morts|
-|14|-|
-|15|-|
+|14|Maraudes et pillages, 500 PO de dégâts, 1d6 (explosif) colons morts|
+|15|Maraudes et pillages, 250 PO de dégâts, 1d6 (explosif) colons morts|
 |16|Un sorcier amateur s'est trompé dans les dosage de ses potions. Explosion qui détruit une 1d6 (non explosif) maison. 1d6 (explosif) mort par maison détruite.|
-|17|Evènement Tremblement de terre, perte de 1d6 (non explosif) maison mais heureusement aucune victime, par contre autant de sans abris|
-|18|-|
+|17|Évènement Tremblement de terre, perte de 1d6 (non explosif) maison mais heureusement aucune victime, par contre autant de sans abris|
+|18|Évènement climatique désastreux, 500 PO de dégâts, 2d6 (explosif) colons morts, perte jusqu'à 50 de nourriture|
 |19|Une soirée de mariage qui tourne mal, incendie, perte d'une maison et de 2d6 morts.|
-|20|-|
-|21|-|
-|22|-|
-|23|-|
+|20|Augmentation des impôts énormes, régler immédiatement 2000 po à votre seigneur|
+|21|Récoltes désastreuses divisez par 4 votre gain de  nourriture ce mois-ci|
+|22|Activités économiques désastreuses, revenus de la colonie divisée par 4|
+|23|Le temple ou des fidèles sont accusés d'hérésie, procès et exécutions, perte de 3000 po, de 4d6 (explosifs) colons|
 |24|Bagarre générale dans une taverne ou un bordel, 3d6 (explosifs) mort et bâtiment (si possédé) perdu|
 |25|Conflits entre familles, 1000 PO de dégâts, 2d6 (explosif) colons morts, perte d'une maison|
-|26|Raid mineur surle quartier, perte de 1d6|
+|26|Raid mineur sur le quartier, perte de 1d6|
 |27|Puit souillé (200 PO pour l'assainir sans délai ou détruit), 1d6 (explosif) colons morts|
 |28|Puit asséché (400 PO pour le réparer sans délai ou détruit)|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **Mauvaises nouvelles**|
@@ -379,19 +379,19 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **Désastre**|
-|11|-|
-|12|-|
-|13|-|
-|14|-|
+|11|Défaite sur des bandits et des pillards, perte de 1500 po, perte de 4d6 (explosifs) colons|
+|12|Blocus, les caravanes ne peuvent pas être utilisée ce mois-ci|
+|13|Une maladie étrange frappe la colonie, perte de 3d6 (explosif) colons|
+|14|Invasion de rongeurs, perte de 6d6 (explosifs) de nourriture|
 |15|-|
 |16|-|
 |17|-|
 |18|-|
 |19|-|
-|20|-|
-|21|-|
-|22|-|
-|23|-|
+|20|Augmentation des impôts importante, régler immédiatement 1000 po à votre seigneur|
+|21|Récoltes mauvaises divisez par 2 votre gain de  nourriture ce mois-ci|
+|22|Activités économiques mauvaises, revenus de la colonie divisée par 2|
+|23|Le temple ou des fidèles sont accusés d'hérésie, procès et exécutions, perte de 1500 po, de 2d6 (explosifs) colons|
 |24|-|
 |25|-|
 |26|-|
@@ -405,22 +405,22 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **Mauvaise nouvelle**|
-|11|-|
-|12|-|
-|13|-|
-|14|-|
-|15|-|
-|16|Perte 4d6 X 10 PA|
+|11|Défaite sur des bandits et des pillards, perte de 1000 po, perte de 3d6 (explosifs) colons|
+|12|Défaite sur des bandits et des pillards, perte de 700 po, perte de 2d6 (explosifs) colons|
+|13|Augmentation des impôts, régler immédiatement 750 po à votre seigneur|
+|14|Une maladie étrange frappe la colonie, perte de 1d6 (explosif) colons|
+|15|Invasion de rongeurs, perte de 3d6 (explosifs) de nourriture|
+|16|mauvaise activité économique perte 4d6 X 10 PA|
 |17|La vie suit son court et c'est bien mieux ainsi|
-|18|Marché local : gain 2d6 X 10 PA|
-|19|Marché important avec évenmentiel 4d6 X 10 PA|
-|20| 1d6 X 10 PO|
-|21|2d6 X 10 PO|
-|22|-|
-|23|-|
+|18|Marché local : gain 6d6 X 10 PA|
+|19|Marché important avec événementiel 4d6 X 60 PA|
+|20| activité économique normale 6d6 X 10 PO|
+|21|activité économique 6d6 X 20 PO|
+|22|Victoire sur des bandits et des pillards, gain de 500 po, perte de 10d6 (explosifs) colons|
+|23|Le temple ou des fidèles sont suspectés d'hérésie, aucun revenu religieux pour le mois|
 |24|-|
-|25|-|
-|26|-|
+|25|Les bandits et les pillards ont refusé l'affrontement et fui en laissant une partie de leur butin, gain de 600 po|
+|26|Baisse des impôts, vous gagnez immédiatement 750 po de votre seigneur|
 |27|-|
 |28|-|
 |29|-|
@@ -431,7 +431,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **La vie suit son cour**|
-|11|-|
+|11|Bonne victoire sur des bandits et des pillards, gain de 1000 po, perte de 6d6 (explosifs) colons|
 |12|-|
 |13|-|
 |14|-|
@@ -440,13 +440,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |17|-|
 |18|-|
 |19|-|
-|20|-|
-|21|-|
-|22|-|
-|23|-|
+|20|Bonne activité économique 6d6 X 15 PO|
+|21|Bonnes récoltes multipliez par 2 votre gain de  nourriture ce mois-ci|
+|22|Activités économiques bonnes, revenus de la colonie multipliez par 2|
+|23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 1500 po, arrivée 2d6 (explosifs) colons|
 |24|-|
 |25|-|
-|26|-|
+|26|Baisse des impôts, vous gagnez immédiatement 1000 po de votre seigneur|
 |27|-|
 |28|-|
 |29|-|
@@ -457,7 +457,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **Bonne nouvelle**|
-|11|-|
+|11|Belle victoire sur des bandits et des pillards, gain de 1500 po, perte de 4d6 (explosifs) colons|
 |12|-|
 |13|-|
 |14|-|
@@ -466,13 +466,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |17|-|
 |18|-|
 |19|-|
-|20|-|
-|21|-|
-|22|-|
-|23|-|
+|20|très bonne activité économique  6d6 X 20 PO|
+|21|Bonnes récoltes multipliez par 3 votre gain de  nourriture ce mois-ci|
+|22|Activités économiques bonnes, revenus de la colonie multipliez par 4|
+|23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 3000 po, arrivée 4d6 (explosifs) colons|
 |24|-|
 |25|-|
-|26|-|
+|26|Baisse des impôts, vous gagnez immédiatement 2000 po de votre seigneur|
 |27|-|
 |28|-|
 |29|-|
@@ -483,7 +483,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
 |4-10|Faux espoir, pas de miracle, relancer sur la table **Très bonne nouvelle**|
-|11|-|
+|11|Victoire majeure sur des bandits et des pillards, gain de 3000 po, perte de 3d6 (explosifs) colons|
 |12|-|
 |13|-|
 |14|-|
@@ -492,13 +492,13 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |17|-|
 |18|-|
 |19|-|
-|20|-|
-|21|-|
-|22|-|
-|23|-|
+|20|excellente activité économique 6d6 X 40 PO|
+|21|Bonnes récoltes multipliez par 5 votre gain de  nourriture ce mois-ci|
+|22|Activités économiques bonnes, revenus de la colonie multipliez par 8|
+|23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 6000 po, arrivée 8d6 (explosifs) colons|
 |24|-|
 |25|-|
-|26|-|
+|26|Baisse des impôts, vous gagnez immédiatement 5000 po de votre seigneur|
 |27|-|
 |28|-|
 |29|-|
