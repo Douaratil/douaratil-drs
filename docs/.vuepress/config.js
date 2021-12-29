@@ -352,6 +352,11 @@ module.exports = {
               path: '/archetypes/skell',
             },
           {
+              title: "Adoshaï",
+              icon: 'mdi-head-snowflake',
+              path: '/archetypes/adoshai',
+            },
+          {
               title: "Sohoten",
               icon: 'mdi-sword',
               path: '/archetypes/sohoten',

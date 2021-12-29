@@ -127,6 +127,8 @@ Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorie
 **Entraînement aux armes**.Vous maîtrisez glaive.  
 **Langues**. Vous parlez et écrivez les langues communes : le *Weslèdh*, l’*Alcath*, le *Minghour/Mingath* et le *Shahim/Shaiate*. Vous parlez et écrivez le *Selmh*, votre langue natale qui a la particularité de résoner comme le sifflement d’un serpent. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 **Symbiote démoniaque**. Votre vie symbiotique est étendue à 300 cycles et vous ne craignez pas les maladies, même d’origine magique.  
+**Canal arcanique** Vous êtes le point de passage des énergies arcaniques environnantes et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empruntez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vous ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.   
+**Haine ancestrale** Une haine légendaire existe contre les descendants Selmonites qui sont accusés d'avoir déclenché la fin du mondes. Ils sont souvent obligés de vivres cachés ou reclus. Tous les tests d’interactions sociales subissent un désavantage envers les autres ethnies.
 
 # Royaumes de Shaia
 ## Traits des ethnies shahims

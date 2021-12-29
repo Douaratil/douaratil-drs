@@ -31,7 +31,7 @@ Les Sorsers de la voie des Armes sont appelés Tenvakalon, littéralement «Coeu
 
 ### Canal arcanique  
 **En Khern : Camlas Magae**  
-Dès le niveau 3, vous êtes le point de passage des énergies arcaniques environnante et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empeintez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vouas ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.     
+Dès le niveau 3, vous êtes le point de passage des énergies arcaniques environnantes et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empruntez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vous ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.     
 
 ### Clairaudience  
 **En Khern : Soileir Eisteacht**  
@@ -47,4 +47,4 @@ Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous a
 
 ### Véritable Sorser  
 **En Khern : Sorser**
-Au niveau 20, le Khern est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
+Au niveau 20, le Sorser est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
