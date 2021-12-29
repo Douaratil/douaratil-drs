@@ -247,6 +247,11 @@ module.exports = {
                 path: '/archetypes/2-compagnon-animal',
               },
           {
+              title: "Adoshaï",
+              icon: 'mdi-head-snowflake',
+              path: '/archetypes/adoshai',
+            },
+          {
               title: "Ambeanamos",
               icon: 'mdi-auto-fix',
               path: '/archetypes/ambeanamos',
@@ -350,11 +355,6 @@ module.exports = {
               title: "Skell",
               icon: 'mdi-guitar-acoustic',
               path: '/archetypes/skell',
-            },
-          {
-              title: "Adoshaï",
-              icon: 'mdi-head-snowflake',
-              path: '/archetypes/adoshai',
             },
           {
               title: "Sohoten",
