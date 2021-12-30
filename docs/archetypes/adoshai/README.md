@@ -27,7 +27,19 @@ Les Adoshaïs de la voie des Armes sont appelés Ashroth, littéralement «inéx
 
 ### Frappe psychique###
 **En Selmonite : Adoshaï**
-Au niveau 3 (frappe action bonus)
+Au niveau 3, en utilisant son action bonus, l'Adoshaï peut porter une frappe psychique à une cible dans son champs de vision en utilisant pour le jet d'attaque son bonus de JS de Sagesse et un bonus de dégâts égal à son modificateur de Sagesse. La frappe évolue selon le niveau de l'Adoshaï.  
+
+|Niveau|VO|Portée|Dégâts|Coût|
+|:-:|:-:|:-:|:-:|:-:|
+|**3**|JS Sagesse|3 mètres|1d6|1 PM ou PF|
+|**5**|JS Sagesse|4 mètres|1d6+1|1 PM ou PF|
+|**7**|JS Sagesse|5 mètres|1d6+2|1 PM ou PF|
+|**9**|JS Sagesse|6 mètres|2d6|2 PM ou PF|
+|**11**|JS Sagesse|7 mètres|2d6+1|2 PM ou PF|
+|**13**|JS Sagesse|8 mètres|2d6+2|2 PM ou PF|
+|**15**|JS Sagesse|9 mètres|3d6|3 PM ou PF|
+|**17**|JS Sagesse|12 mètres|3d6+1|3 PM ou PF|
+|**19**|JS Sagesse|18 mètres|3d6+2|3 PM ou PF|
 
 ### Potentialité révélée
 **En Selmonite : Adoshaï**
