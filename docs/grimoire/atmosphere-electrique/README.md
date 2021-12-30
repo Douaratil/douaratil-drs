@@ -20,4 +20,4 @@ source: "Elric"
 ---
 **Coût** : 4 points de Magie ou de Foi  
 
-Le sorcier qui lance ce sort créé une atmosphère lourde et électrique qui enlève 1 point d’action ou de conscience tous les rounds aussi bien aux alliés ainsi qu’aux ennemis se trouvant dans la zone. Toute personne dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne dans le rayon d'action doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».
+Le sorcier qui lance ce sort créé une atmosphère lourde et électrique de 18 mètres de rayon qui enlève 1 point d’action, de magie, de foi ou d'honneur tous les rounds aussi bien aux alliés qu’aux ennemis se trouvant dans la zone. Tout personne dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne se trouvant dans le rayon d'action doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».

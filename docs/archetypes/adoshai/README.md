@@ -7,7 +7,15 @@ title: "Adoshaï"
 
 |Niveau|Aptitudes|
 |:-:|:-:|
-
+|**3**|[Frappe psychique (1d6)](#frappe-psychique) |
+|**5**|[Frappe psychique (1d6+1)](#frappe-psychique), [Potentialité révélée](#potentialite-revelee) |
+|**7**|[Frappe psychique (1d6+2)](#frappe-psychique), [Lacération concientisée](#laceration-conscientisee) |
+|**9**|[Frappe psychique (2d6)](#frappe-psychique), [Conscience](#conscience) |
+|**11**|[Frappe psychique (2d6+1)](#frappe-psychique) |
+|**13**|[Frappe psychique (2d6+2)](#frappe-psychique) |
+|**15**|[Frappe psychique (3d6)](#frappe-psychique) |
+|**17**|[Frappe psychique (3d6+1)](#frappe-psychique) |
+|**19**|[Frappe psychique (3d6+2)](#frappe-psychique) |
 |**20**|[Véritable Adoshaï](#veritable-adoshai) |
 
 ## Aptitudes d'Archétype
@@ -26,8 +34,8 @@ Probablement l'un des derniers archétypes des temps anciens, le Adoshaï est Ar
 Les Adoshaïs de la voie des Armes sont appelés Ashroth, littéralement «inéxorable réalité». Les Adoshaïs de la voie de l’Ombre sont appelés Shadaï , littéralement «Destin accompli». Les Adoshaïs de la voie de la Magie sont appelés Ma'ashtag'haï, littéralement «Potentialité révélée».  
 
 ### Frappe psychique###
-**En Selmonite : Adoshaï**
-Au niveau 3, en utilisant son action bonus, l'Adoshaï peut porter une frappe psychique à une cible dans son champs de vision en utilisant pour le jet d'attaque son bonus de JS de Sagesse et un bonus de dégâts égal à son modificateur de Sagesse. La frappe évolue selon le niveau de l'Adoshaï.  
+**En Selm : Adoshaï**   
+Au niveau 3, en utilisant son action bonus, l'Adoshaï peut porter une frappe psychique à une cible dans son champs de vision en utilisant pour le jet d'attaque son bonus de JS de Sagesse et un bonus de dégâts égal à son modificateur de Sagesse. La frappe évolue selon le niveau de l'Adoshaï. La cible à le droit à un JS de Sagesse pour ignorer les dégâts. Chaque attaque à un coût en Points de Magie (PM) ou Points de Foi (PF).   
 
 |Niveau|VO|Portée|Dégâts|Coût|
 |:-:|:-:|:-:|:-:|:-:|
@@ -42,21 +50,22 @@ Au niveau 3, en utilisant son action bonus, l'Adoshaï peut porter une frappe ps
 |**19**|JS Sagesse|18 mètres|3d6+2|3 PM ou PF|
 
 ### Potentialité révélée
-**En Selmonite : Adoshaï**
-Action bonus qui donne un avantage à l'action
+**En Selm : Adoshaï**   
+Au niveau 5, l'Adoshaï peut utiliser son action bonus pour obtenir un avantage à un test de compétence, de combat ou un Jet de sauvegarde.
+Vous devez attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité. Si vous devez l'utiliser une seconde fois après un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous devrez attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité. Chaque utilisation coûte 5 points de Magie ou de Foi.   
 
 ### Lacération conscientisée
-**En Selmonite : Adoshaï**
-(action bonus et action attaquer) dans à 180°
+**En Selm : Adoshaï**   
+Au niveau 7, l'Adoshaï peut utiliser action bonus et/ou action pour porter une [Frappe psychique](#frappe-psychique) dans à 180°.
 
 ### Conscience
-**En Selmonite : Adoshaï**
-Ne peut plus être surpris
+**En Selm : Adoshaï**  
+Au niveau 9, l'Adoshaï est tellement conscient de son environnement qu'il ne peut plus être surpris. Lors d'un round de surprise, il peut agir normalement à son initiative.  
 
 ### Cinglante réalitée
-**En Selmonite : Adoshaï**
+**En Selm : Adoshaï**   
 (action bonus et action attaquer) dans à 360°
 
 ### Véritable Adoshaï  
-**En Selmonite : Adoshaï**
+**En Selm : Adoshaï**   
 Au niveau 20, l'Adoshaï est accompli et augmente ses caractéristiques d'Intelligence et de Sagesse de 2 points sans pouvoir dépasser 22.  
