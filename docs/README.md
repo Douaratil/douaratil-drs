@@ -14,6 +14,27 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 77
+- Amélioration et équilibrage de l'Archétype selmonite, l'[Adoshaï](/archetypes/adoshai)
+- Ajout du sort [bougie inversée](/grimoire/bougie-inversee) par Elric.  
+Je profite de cette mise à jour pour vous souhaiter tous mes voeux pour cette nouvelle année 2022 en espérant que vous vous portiez bien et que vous réalisiez vos rêves.
+Je tiens à remercier mes joueurs:
+- Bastian, Charles, Clovis, David, Elric, Frédéric, Georges, Maguelonne et Sébastien pour leur investissement.
+- Un grand merci à Georges pour ses contributions sur l'économie et les chroniques.
+- Merci à Elric pour son inventivité et sa production de sorts, archétypes, dieux etc...   
+- Merci à David et Bastian de nous avoir reçu tout au long de l'année pour les parties de Jdr.   
+- Merci encore pour leur expertise sur le site, le projet d'édition papier et les projet Lets'role à Fred, Em-squared, Jordan et Megalo. Avoir des développeurs bénévoles est vraiment une merveilleuse opportunité qu'offre l'internet et la communauté du jeu de rôle.   
+&nbsp;
+[![Bonne année 2022](https://www.douaratil.fr/illustrations/regles/skollm.png)](https://www.douaratil.fr/illustrations/regles/skoll.jpg)  
+Parlons tout de même des perspectives pour 2022 car le monde de Douaratil devrait encore s'enrichir. Je ne désespère pas de publier le 4° tome du roman de Douaratil " Les âmes égarées", de publier le jeu de rôle en version imprimable et de développer la version pour les tables virtuelles sur Lets-role.   
+D'autres règles arriverons aussi dans les prochains jours avec un nouvel Archétype inventé par Elric, des règles de guilde et d'ascension.   
+
+Bon jeu, bon réveillon et très bonne année.  
+§§§ .text-right
+_**Olivier**_,  
+_le 31 décembre 2021_
+§§§  
+
 ## Mise à jour 76
 - Ajout d'un nouvel Archétype selmonite, l'[Adoshaï](/archetypes/adoshai)
 - modification du sort [atmosphère électrique](/grimoire/atmosphere-electrique) par Elric.
