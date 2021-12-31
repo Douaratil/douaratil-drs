@@ -21,6 +21,9 @@ title: "Adoshaï"
 |**19**|[Frappe psychique (3d6+2)](#frappe-psychique)|
 |**20**|[Véritable Adoshaï](#veritable-adoshai)|
 
+&nbsp;
+[![Adoshaï](https://www.douaratil.fr/illustrations/archetype/adoshaim.png)](https://www.douaratil.fr/illustrations/archetype/adoshai.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Adoshaï, vous bénéficiez des aptitudes d'Archétype suivantes.
 
