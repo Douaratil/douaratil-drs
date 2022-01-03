@@ -88,4 +88,20 @@ Le lendemain, les compagnons se réunissent et décident de monter une expéditi
 
 **30 Miz Du**  
 Après trois jours de voyage harassant sous un soleil brûlant, les compagnons arrivent en vue de l'étrange pyramide de Dif'Alquadim. Ce lieu ancien est marqué par un passé obscur et entouré de légendes, certains disent que cet édifice est construit sur les vestiges d'un temple Selmonite.   
-Au petit matin, l'équipée est pris en embuscade par un groupe de Sooghaï, secte visiblement occupée à interdire l'accès à la Pyramide
+Au petit matin, l'équipée est prise en embuscade par un groupe de Sooghaï, secte visiblement occupée à interdire l'accès à la Pyramide. Les assaillants qui ont visiblement sous-estimé leurs adversaires se font taillés en pièces en quelques secondes.   
+La voie vers la pyramide est désormais libre.   
+Après avoir résolu une énigme et débloqué les portes, le groupe s'enfonce dans l'antre du bâtiment et se perd dans un méandre de couloir.   
+Arrivés au fond de la pyramide, un glyphe se déclenche et de terribles créatures démoniaques se ruent sur les visiteurs. Une [Kakishikh](/bestiaire/kakishikh) accompagnée de [Diadebaide](/bestiaire/diadebaide)  se lance dans la bataille mais les compétences des guerriers présents et particulièrement de [Tibérius](bestiaire/tiberius-don-alonzo), [Margs](/bestiaire/margs-maenkalon/) et [Sawrina](/bestiaire/sawrina-semiramis/) assaillent les créatures avec l'épée sacrée et les mettent à bas.    
+Celles-ci se dispersent dans une vapeur lourde et nauséabonde.   
+Une étrange écriture se trouve sur la stèle et [Sawrina](/bestiaire/sawrina-semiramis/) arrive à peu près à la traduire car il s'agit du Selm, la langue des Selmonites.  
+*Dif'alquadim est le coeur, car ici tout commence pour celui qui veut emprunter la voie (intraduisible)*  
+*Les dieux dans leur (intradiusible) ont fait le nécessaire pour (intraduisible) accéder à leur puissance*   
+*Les mondes se superposent et s'entrecroisent*   
+*Les Kashas viennent de (intraduisible), les Diabes vivent à (intraduisible) mais les dieux eux-mêmes ne sont pas ceux qu'ils prétendent être*   
+*Nous, les éveillés de (intraduisibles) empruntons le chemin*   
+*Nous, les éveillés de (intraduisibles) démontreront leur duplicité et leur forfaiture*   
+*Le chemin ne débute pas ici*  
+*Au fond de toi se trouve le chemin*  
+*Mais ouvrir la porte demandera la clé et cette clé, nul ne la possède*   
+*Car la clé a été donnée par un dieu trahis (intraduisible)*   
+*La clé se trouve dans le sanctuaire sous la mer dans la terre*   

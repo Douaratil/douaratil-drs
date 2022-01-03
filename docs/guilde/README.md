@@ -195,17 +195,17 @@ Les guildes des Mages diffèrent des guildes d'artisans car elles ne génèrent 
 
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|
-|Novice|aucun pré-requis|[Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde), train de vie modeste|50 po/lune|
-|Disciple|3 lunes|+1 aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde), train de vie confortable|80 po/lune|
-|Apprenti|6 lunes|+1 au toucher et +1 aux dégâts avec un élément de prédilection, +1 aux JS d'INT, train de vie confortable|120 po/lune|
-|Adepte|9 lunes|+1 au toucher et +2 aux dégâts avec un élément de prédilection, +2 aux JS d'INT, train de vie riche|160 po/lune|
-|Expert|12 lunes|+2 au toucher et +2 aux dégâts avec un élément de prédilection, +3 aux JS d'INT et de FOR, train de vie riche|200 po/lune|
-|Maître|18 lunes|+2 au toucher et +3 aux dégâts avec une arme de prédilection légère, [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de compétences qui utilisent l'intelligence, train de vie riche|240 po/lune|
-
+|Novice|aucun pré-requis|[Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde), train de vie modeste|150 po/lune|
+|Disciple|3 lunes|+1 aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde), train de vie confortable|280 po/lune|
+|Apprenti|6 lunes|+1 au toucher et +1 aux dégâts avec un élément de prédilection, +1 aux JS d'INT, train de vie confortable|420 po/lune|
+|Adepte|9 lunes|+1 au toucher et +2 aux dégâts avec un élément de prédilection, +2 aux JS d'INT, train de vie riche|560 po/lune|
+|Expert|12 lunes|+2 au toucher et +2 aux dégâts avec un élément de prédilection, +3 aux JS d'INT et de FOR, train de vie riche|600 po/lune|
+|Maître|18 lunes|+2 au toucher et +3 aux dégâts avec une arme de prédilection légère, [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de compétences qui utilisent l'intelligence, train de vie riche|740 po/lune|
+* Feu, froid, foudre, radiant, tonnerre, force, acide, nécrotique, poison, psychique.
 Les guildes de mages ont des signes de reconnaissance discrets comme des tatouages, des bijoux, des scarifications ou des vêtements spécifiques.   
 
 ### Promotion dans la guilde des mages.   
-Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes des mages se déroulent sous forme initiatiques et sont l'occasion de [duels arcaniques](/voies/#duel-arcanique) et de création d'objet magique qui mettent à l'épreuve les compétences de l'intéressé. Celui qui souhaite accéder à un rang supérieur doit le faire savoir. Une mission lui est alors confiée (vol, espionnage, etc..). Cette mission doit être réussie. L'échec de la mission annule la promotion et une nouvelle mission lui sera affectée **la lune suivante**. Une mission ratée signifie souvent une capture par les autorités ce qui peut entraîner de la prison, des tortures et autres punitions corporelles publiques.   
+Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes des mages se déroulent sous forme initiatiques et sont l'occasion de [duels arcaniques](/voies/#duel-arcanique) et de création d'objet magique qui mettent à l'épreuve les compétences de l'intéressé. Celui qui souhaite accéder à un rang supérieur doit le faire savoir. Il doit réaliser une oeuvre et réussir à vaincre en [duels arcaniques](/voies/#duel-arcanique) un mage du rang visé. L'échec duel ou de la fabrication de l'oeuvre annule la promotion temporairement mais ne demande pas de refaire ce qui est réussi (c'est un examen à deux épreuves) et pourra représenter les rattrapages **la lune suivante**.
 
 |Titre|Adversaire|ID (Niveau) de l'adversaire|Objet magique à fabriquer|
 |:-:|:-:|:-:|:-:|
