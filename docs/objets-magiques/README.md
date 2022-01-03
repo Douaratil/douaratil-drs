@@ -7,11 +7,11 @@ Les objets magiques sont classés selon leur rareté : courant, peu courant, rar
 
 |Rareté|Valeur indicative|
 |:-:|:-:|
-|**[Courant](/liste-objets-magiques/?raretes=Courant)**|2d6 (7) × 10 po|
-|**[Peu courant](/liste-objets-magiques/?raretes=Peu%20courant)**|2d6 (7) × 50 po|
-|**[Rare](/liste-objets-magiques/?raretes=Rare)**|2d10 (11) × 250 po|
-|**[Très rare](/liste-objets-magiques/?raretes=Très%20rare)**|2d10 (11) × 2 500 po|
-|**[Légendaire](/liste-objets-magiques/?raretes=Légendaire)**|2d6 (7) × 10 000 po|
+|**[Courant](/liste-objets-magiques/?raretes=Courant)**|2d6 × 10 po|
+|**[Peu courant](/liste-objets-magiques/?raretes=Peu%20courant)**|2d6 × 50 po|
+|**[Rare](/liste-objets-magiques/?raretes=Rare)**|2d6 × 250 po|
+|**[Très rare](/liste-objets-magiques/?raretes=Très%20rare)**|2d6 × 2 500 po|
+|**[Légendaire](/liste-objets-magiques/?raretes=Légendaire)**|2d6 × 10 000 po|
 
 ## Identifier un objet magique
 Le sort [_identification_](/grimoire/identification/) est le meilleur moyen d'obtenir des informations sur un objet magique. Le coût élevé des composantes nécessaires pousse cependant nombre d'aventuriers à découvrir les secrets de leurs objets magiques par d'autres moyens. Le premier est l'observation. Beaucoup d'objets portent des inscriptions qui peuvent être un mot de commande ou une sorte de notice d'utilisation. D'autres sont créés de manière à donner des indices, comme un anneau de nage qui serait gravé de motifs aquatiques. Le second moyen est l'expérimentation. Passez le même anneau de nage et jetez-vous à l'eau, par exemple. Les potions sont les objets les plus expérimentés : y tremper les lèvres un instant peut suffire, avec de l'expérience, à en découvrir les propriétés. Mais attention aux pièges et aux erreurs qui peuvent coûter très cher !

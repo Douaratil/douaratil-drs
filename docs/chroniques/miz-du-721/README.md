@@ -85,3 +85,7 @@ Les anecdotes et les récits dés aventure s'enchainent toute la soirée, [Tibé
 
 **28 Miz Du**  
 Le lendemain, les compagnons se réunissent et décident de monter une expédition pour découvrir les mystères de Dif’alquadim.
+
+**30 Miz Du**  
+Après trois jours de voyage harassant sous un soleil brûlant, les compagnons arrivent en vue de l'étrange pyramide de Dif'Alquadim. Ce lieu ancien est marqué par un passé obscur et entouré de légendes, certains disent que cet édifice est construit sur les vestiges d'un temple Selmonite.   
+Au petit matin, l'équipée est pris en embuscade par un groupe de Sooghaï, secte visiblement occupée à interdire l'accès à la Pyramide

@@ -102,7 +102,7 @@ Les guildes des guerriers diffèrent des guildes d'artisans car elles ne génèr
 Les guildes de guerriers ont des signes de reconnaissance extérieure comme des tatouages, des bijoux, des scarifications ou des vêtements spécifiques.   
 
 ### Promotion dans la guilde guerrière.   
-Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes guerrières se déroulent sous forme initiatiques et sont l'occasion de fêtes orgiaques. Celui qui souhaite accéder à un rang supérieur doit défier une personne du rang supérieur. Cependant, si une personne très expérimentée débute son parcours dans la guilde, il devra affronter des adversaires dignes de lui. En résumé, il n'affront jamais une personne plus faible que lui. Si la personne qui est défiée est trop vieille ou impotente, elle peut désigner un champion.  
+Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes guerrières se déroulent sous forme initiatiques et sont l'occasion de fêtes orgiaques. Celui qui souhaite accéder à un rang supérieur doit défier une personne du rang supérieur. Cependant, si une personne très expérimentée débute son parcours dans la guilde, il devra affronter des adversaires dignes de lui. En résumé, il n'affront jamais une personne plus faible que lui. Si la personne qui est défiée est trop vieille ou impotente, elle peut désigner un champion.  
 
 |Titre|Adversaire|ID (Niveau) de l'adversaire|
 |:-:|:-:|:-:|
@@ -124,16 +124,16 @@ Les guildes des voleurs (appelées ainsi génétiquement mais comprends les acti
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|
 |Novice|aucun pré-requis|[Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde), train de vie modeste|50 po/lune|
-|Disciple|3 lunes|+1 aux dégâts avec une arme de prédilection (l'arme est symbolique de la guilde), train de vie modeste|80 po/lune|
+|Disciple|3 lunes|+1 aux dégâts avec une arme de prédilection légère (l'arme est symbolique de la guilde), train de vie modeste|80 po/lune|
 |Apprenti|6 lunes|+1 au toucher et +1 aux dégâts avec une arme de prédilection légère, +1 aux JS de DEX, train de vie modeste|120 po/lune|
 |Adepte|9 lunes|+1 au toucher et +2 aux dégâts avec une arme de prédilection légère, +2 aux JS de DEX, train de vie confortable|160 po/lune|
-|Expert|12 lunes|+2 au toucher et +2 aux dégâts avec une arme de prédilection légère, +3 aux JS de DEX et de FOR, train de vie confortable|200 po/lune|
+|Expert|12 lunes|+2 au toucher et +2 aux dégâts avec une arme de prédilection légère, +3 aux JS de DEX, train de vie confortable|200 po/lune|
 |Maître|18 lunes|+2 au toucher et +3 aux dégâts avec une arme de prédilection légère, [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de compétences qui utilisent la DEX, train de vie riche|240 po/lune|
 
 Les guildes de voleurs ont des signes de reconnaissance discrets comme des tatouages, des bijoux, des scarifications ou des vêtements spécifiques.   
 
 ### Promotion dans la guilde des voleurs.   
-Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes des voleurs se déroulent sous forme initiatiques et sont l'occasion de missions qui mettent à l'épreuve les compétences de l'intéressé. Celui qui souhaite accéder à un rang supérieur doit le faire savoir. Une mission lui est alors confiée (vol, espionnage, etc..). Cette mission doit être réussie. L'échec de la mission annule la promotion et une nouvelle mission lui sera affectée **la lune suivante**. Une mission ratée signifie souvent une capture par les autorités ce qui peut entraîner de la prison, des tortures et autres punitions corporelles publiques.   
+Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes des voleurs se déroulent sous forme initiatiques et sont l'occasion de missions qui mettent à l'épreuve les compétences de l'intéressé. Celui qui souhaite accéder à un rang supérieur doit le faire savoir. Une mission lui est alors confiée (vol, espionnage, etc..). Cette mission doit être réussie. L'échec de la mission annule la promotion et une nouvelle mission lui sera affectée **la lune suivante**. Une mission ratée signifie souvent une capture par les autorités ce qui peut entraîner de la prison, des tortures et autres punitions corporelles publiques.   
 
 |Titre|Difficulté de la mission|Conséquence de l'échec|
 |:-:|:-:|:-:|
@@ -185,4 +185,33 @@ Par contre, le membre de la guilde peut faire un spectacle par semaine, qui lui 
 |Expert|22|cité|4d6 po/mod CHA|->|+1 palier de difficulté|200|X10|Haut fait d'honneur légendaire|
 |Maître|28|grande cité (capitale régionale)|5d6 po/mod CHA|+1 palier de difficulté|Grands aristocrates200|500|X20|Haut fait d'honneur mythique|
 
-La table doit se lire en plusieurs partie. Un artiste peut faire un spectacle et attendre des revenus en fonction de son rang 1d6 po/mod CHA pour un Novice ou 5d6 po/mod CHA pour un Maître. Le lieu du spectacle indique ensuite le revenu maximum attendu en fonction du public maximum visé. Ainsi un artiste Maître ne pourra faire qu'un spectacle de Novice dans un lieux-dit (le spectacle sera de qualité de Maître, cela n'influe pas sa prestation mais les revenus attendus seront 1d6 po/mod CHA au maximum.) Le spectacle à un coût suivant le public visé mais il multiplie aussi les revenus attendus.
+La table doit se lire en plusieurs partie. Un artiste peut faire un spectacle et attendre des revenus en fonction de son rang 1d6 po/mod CHA pour un Novice ou 5d6 po/mod CHA pour un Maître. Le lieu du spectacle indique ensuite le revenu maximum attendu en fonction du public maximum visé. Ainsi un artiste Maître ne pourra faire qu'un spectacle de Novice dans un lieux-dit (le spectacle sera de qualité de Maître, cela n'influe pas sa prestation mais les revenus attendus seront 1d6 po/mod CHA au maximum.) Le spectacle à un coût suivant le public visé mais il multiplie aussi les revenus attendus.  
+
+## Guilde des mages
+Les guildes des Mages diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes Mages peuvent être en concurrence les unes avec les autres.  
+
+&nbsp;
+[![Guilde des mages](https://www.douaratil.fr/illustrations/regles/guildedesmagesm.png)](https://www.douaratil.fr/illustrations/regles/guildedesmages.jpg)  
+
+|Titre| Ancienneté minimum|Avantage conféré|Tribut|
+|:-:|:-:|:-:|:-:|
+|Novice|aucun pré-requis|[Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde), train de vie modeste|50 po/lune|
+|Disciple|3 lunes|+1 aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde), train de vie confortable|80 po/lune|
+|Apprenti|6 lunes|+1 au toucher et +1 aux dégâts avec un élément de prédilection, +1 aux JS d'INT, train de vie confortable|120 po/lune|
+|Adepte|9 lunes|+1 au toucher et +2 aux dégâts avec un élément de prédilection, +2 aux JS d'INT, train de vie riche|160 po/lune|
+|Expert|12 lunes|+2 au toucher et +2 aux dégâts avec un élément de prédilection, +3 aux JS d'INT et de FOR, train de vie riche|200 po/lune|
+|Maître|18 lunes|+2 au toucher et +3 aux dégâts avec une arme de prédilection légère, [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de compétences qui utilisent l'intelligence, train de vie riche|240 po/lune|
+
+Les guildes de mages ont des signes de reconnaissance discrets comme des tatouages, des bijoux, des scarifications ou des vêtements spécifiques.   
+
+### Promotion dans la guilde des mages.   
+Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes des mages se déroulent sous forme initiatiques et sont l'occasion de [duels arcaniques](/voies/#duel-arcanique) et de création d'objet magique qui mettent à l'épreuve les compétences de l'intéressé. Celui qui souhaite accéder à un rang supérieur doit le faire savoir. Une mission lui est alors confiée (vol, espionnage, etc..). Cette mission doit être réussie. L'échec de la mission annule la promotion et une nouvelle mission lui sera affectée **la lune suivante**. Une mission ratée signifie souvent une capture par les autorités ce qui peut entraîner de la prison, des tortures et autres punitions corporelles publiques.   
+
+|Titre|Adversaire|ID (Niveau) de l'adversaire|Objet magique à fabriquer|
+|:-:|:-:|:-:|:-:|
+|Novice|[Mage novice](/bestiaire/voie-de-la-magie-novice)|3|-|
+|Disciple|[Mage Disciple](/bestiaire/voie-de-la-magie-disciple)|9|Courant|
+|Adepte|[Mage Adepte](/bestiaire/voie-de-la-magie-adepte)|13|Peu courant|
+|Expert|[Mage Expert](/bestiaire/voie-de-la-magie-expert)|15|Rare|
+|Maître|[Mage Maître](/bestiaire/voie-de-la-magie-maitre)|17|Très rare|
+*Les profils suivants devront prendre en compte les avantages liés à l'appartenance de la guilde.
