@@ -545,6 +545,11 @@ module.exports = {
             icon: 'mdi-castle',
             children: [
               {
+                title: "L'ascension",
+                icon: 'mdi-debian',
+                path: '/ascension'
+              },
+              {
                 title: "Gestion de l'honneur",
                 icon: 'mdi-crown',
                 path: '/passion-honneur-et-interactions-sociales/'
@@ -580,6 +585,11 @@ module.exports = {
             title: "Le commerce",
             icon: 'mdi-sack',
             path: '/commerce'
+          },
+          {
+            title: "Les guildes",
+            icon: 'mdi-anvil',
+            path: '/guilde'
           },
           {
             title: "Les objets",
