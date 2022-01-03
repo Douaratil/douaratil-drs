@@ -42,7 +42,7 @@ A l’oasis les clans de [Gwion](/bestiaire/gwion-gornoc) et [Sawrina](bestiaire
 [Sawrina](bestiaire/sawrina-semiramis) arrive finalement à se faire accepter par son singe.  
 
 **10 Miz Du**  
-[Lôchetos](/bestiaire/lochetos-vlatcano), voyant que la situation se dégrade de toute part décide d’aller à la rencontre d’Amastame Ag Beketa, accompagné de Kuhina. Ils sont bien reçus et le maitre des lieux ne cache pas son étonnement quand il apprend que le nordique maitrise les bases de sa langue. L’accent du barde amuse les nomades mais, suivant les conseils de Kuhina, il se comporte du mieux qu’il peut et noue des liens avec le clan bédouin.  
+[Lôchetos](/bestiaire/lochetos-vlatcano), voyant que la situation se dégrade de toute part décide d’aller à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Ils sont bien reçus et le maitre des lieux ne cache pas son étonnement quand il apprend que le nordique maitrise les bases de sa langue. L’accent du barde amuse les nomades mais, suivant les conseils de Kahina, il se comporte du mieux qu’il peut et noue des liens avec le clan bédouin.  
 Au fil des discussions il apprend que depuis l’attaque des créatures des sables, les populations voisines regardent la colonie d’un mauvais œil et pensent que les étrangers sont venus avec une malédiction, compliquant les relations diplomatiques. Amastame Ag Bekeya ne partage pas cet avis et lui indique que selon lui mal provient de Dif’alquadim, une étrange pyramide à trois jours de marche à l’est de l’oasis. Hormis ce lieux mystérieux la zone ne présente pas de grand point d’intérêt et les trois grandes factions qui se sont présentées évitent de se faire la guerre mais ne se gênent pas pour tuer et rançonner les âmes qui s’égarent dans le désert. Ils n’ont rien tenter il y a quelques jours et ont respecté les clans nordiques car ils étaient nombreux et armés.  
 
 **11 Miz Du**  
@@ -75,5 +75,13 @@ Les deux bêtes se recroquevillent, leur peau se flétrie, se craquelle puis dev
 **27 Miz Du**  
 La vie s'écoule presque tranquillement dans la colonie et même le soleil de la journée semble moins fort et plus facile à supporter. [Alf](/bestiaire/alf-swenbjornson) continue de se reposer mais sa bravoure a été repéré et [Thorleik](/bestiaire/thorleik-aevarson) espère qu'il sera vite de nouveau sur ses pieds.  
 Pendant ce temps, les autres compagnons reviennent de leurs voyages, chacun porteur de nouvelles. A leur arrivée, la communauté accourt et fête les voyageurs, avide de nouvelles qui viennent au-delà des dunes et de canyon.  
-[Lôchetos](/bestiaire/lochetos-vlatcano) était parti quelques jours auprès de la tribu des Souverains, à la rencontre d’Amastame Ag Beketa, accompagné de Kuhina. Durant ce voyage le Meldète a été de plus en plus sensible à la beauté orientale de Kuhina et les nuits dans le déserts étaient froides. Loin de la colonie, les coeurs et les corps se rapprochèrent.   
-Arrivant du Sud, [Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) retrouvent aussi
+[Lôchetos](/bestiaire/lochetos-vlatcano) était parti quelques jours auprès de la tribu des Souverains, à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Durant ce voyage le Meldète a été de plus en plus sensible à la beauté orientale de Kuhina et les nuits dans le déserts étaient froides. Loin de la colonie, les coeurs et les corps se rapprochèrent.   
+Arrivant du Sud, [Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) retrouvent aussi leur foyer.  
+[Lôchetos](/bestiaire/lochetos-vlatcano) et Kahina deviennent un peu plus distant l'un envers l'autre, gêné par la présence de la mère de Serena, fille de [Lôchetos](/bestiaire/lochetos-vlatcano).  
+Le soir, un banquet est organisé et quelques chêvres sont sacrifiés et passées à la broche et des jarres de jus de palme fermenté sont ouvertes pour l'occasion.   
+[Lôchetos](/bestiaire/lochetos-vlatcano) raconte avec son savoir faire bien connu pour la narration, sa vie (sans parler de Kahina) chez les Ashkémites. Il raconte la découverte d'un parchemin qu'il a ramené et le montre sous les "oohhh" de l'assemblée et parle de ma mythique et étrange pyramide de Dif’alquadim.  
+[Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) racontent aussi qu'ils ont acheté à un marchand dans le Sud des parchemins parlant aussi de cette étrange pyramide. Ils racontent aussi la visite des terres Sooghaïs, de la découverte d'une jungle appelée Ihlathi Lesihogo avec au nord, une grande cité du nom d'Idolobha Elikhulu qui surplombre le lac Ichibi.   
+Les anecdotes et les récits dés aventure s'enchainent toute la soirée, [Tibérius](bestiaire/tiberius-don-alonzo) enjolive ses exploits sous le regard attendri de son épouse qui porte ses deux enfants endormis.  
+
+**28 Miz Du**  
+Le lendemain, les compagnons se réunissent et décident de monter une expédition pour découvrir les mystères de Dif’alquadim.
