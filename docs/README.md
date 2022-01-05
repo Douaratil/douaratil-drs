@@ -16,13 +16,12 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 80
 
-- Mise à jour de la chronique de [Miz Du 721](/chroniques/miz-du-721)
-- Mise à jour de la guilde des mages dans la section [Guilde](/guilde).
+- Mise à jour des tarifications de prestation pour les guildes des mages, des voleurs et guerrières dans la section [Guilde](/guilde).
 
 Bon jeu.  
 §§§ .text-right
 _**Olivier**_,  
-_le 6 janvier 2022_
+_le 5 janvier 2022_
 §§§  
 
 ## Mise à jour 79
