@@ -115,6 +115,24 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 
 Les combats de déroulent en plusieurs combats successifs. Chaque phase de combat dure 3 rounds maximum. Entre chaque combat la règle du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) peut s'appliquer. Les combats ne sont pas mortels mais simulés. L'objectif n'est pas d'humilier ou d'estropier l'adversaire mais de prouver sa valeur.   
 
+### Tarification de la guilde des gierruère
+
+Les guildes guerrières proposent beaucoup de services, des protections, des prélèvements de dents, des spectacles de combat etc... Les demandes viennent de toutes les strates de la société. Les tâches réalisables et les tarifs dépendent du rang. Le membre de la guilde (personnage) peut être sollicité jusqu'à 4 fois par lune (1 fois par semaine), il est en général embauché pour 1d6 jours. Il doit effectuer des tests tous les jours suivant la mission, si les tests sont echoués, il ne gagne que la moitié de la somme pour la journée.  
+
+Les chances d'être sollicité correspondent à un JS de Charisme (CHA) DD22
+
+|1d6 (non explosif) ->|1|2|3|4|5|6|
+|Tâche demandée ->|Intimidation (Intimidation DD12)|Tabassage (Athlétisme DD16)|Protection (Athélitisme DD 22)|Spectacle de combat (Athlétisme DD22 + Acrobatie DD16)|Protection rapprochée (Discrétion DD22 + Athéltisme DD16)|Protection très rapprochée (Discrétion DD22 + Athéltisme DD22)|
+|Titre| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Novice| 5 po | - | - | - | - |- |
+|Disciple| 10 po | 20 po | - | - | - |- |
+|Apprenti| 15 po | 25 po | 35 po | - | - |- |
+|Adepte| 20 po | 30 po | 40 po | 50 po | - | - |
+|Expert| 25 po| 35 po | 45 po | 55 po|  65 po |- |
+|Maître| 30 po|40 po | 50 po|60 po |80 po |120 po |
+* Les prix sont entendus par jour de prestation
+
 ## Guilde des voleurs
 Les guildes des voleurs (appelées ainsi génétiquement mais comprends les activité de vol de subterfuge, d'assassinat et de protection) diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes voleurs peuvent être en concurrence les unes avec les autres.  
 
@@ -145,6 +163,25 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 *La guilde niera toute implication avec la personne arrêtée par les autorité (et oui, il ne fait pas se faire prendre).
 
 Si la personne n'a pas de ressources, son amende est payée par la guilde et transformée en dette (usure 30%/lune). La personne est discrètement soignée par la guilde.   
+
+### Tarification de la guilde des voleurs
+
+Les guildes des voleurs proposent beaucoup de services, des protections, transport de marchandises illicites, assassinats etc... Les demandes viennent de toutes les strates de la société. Les tâches réalisables et les tarifs dépendent du rang. Le membre de la guilde (personnage) peut être sollicité jusqu'à 4 fois par lune (1 fois par semaine), il met 1d6 jours à réaliser sa tâche sous réserve de réussir ses tests sinon la mission est prolongée d'un jour.   
+
+Les chances d'être sollicité correspondent à un JS de Charisme (CHA) DD22
+
+|1d6 (non explosif) ->|1|2|3|4|5|6|
+|Tâche demandée ->|Intimidation (Intimidation DD12)|Tabassage (Athlétisme DD16)|Cambriolage (Discrétion DD 22)|Traffic (Discrétion DD22 + Supercherie DD16)|Assassinat (Discrétion DD22 + Athéltisme DD16)|Assassinat sans trace (Discrétion DD28 + Athéltisme DD22)|
+|Titre| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Novice| 10 po | - | - | - | - |- |
+|Disciple| 15 po | 30 po | - | - | - |- |
+|Apprenti| 20 po | 60 po | 100 po | - | - |- |
+|Adepte| 25 po | 100 po | 160 po | 1d6* X 50 po | - | - |
+|Expert| 30 po| 140 po | 180 po | 1d6* X 75 po|  1d6* X 150 po |- |
+|Maître| 35 po|200 po | 250 po|1d6* X 100 po |1d6* X 200 po |1d6* X 300 po |
+* Dés non explosif
+
 
 ## Guilde artistique
 Les guildes de représentations regroupent tous les métiers de spectacle (pour les peintres et les sculpteurs, ce sont plutôt des artisans), elles diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes de représentation peuvent être en concurrence les unes avec les autres mais permettent aussi d'avoir accès à de juteux contrats qui augmenteront la renommée de l'artiste.  
@@ -183,7 +220,7 @@ Par contre, le membre de la guilde peut faire un spectacle par semaine, qui lui 
 |Disciple|12|village|2d6 po/mod CHA|+1 palier de difficulté|30|Petits bourgeois|X2| |
 |Adepte|16|petite ville|3d6 po/mod CHA|->|+1 palier de difficulté|100|X5|Haut fait d'honneur héroïque|
 |Expert|22|cité|4d6 po/mod CHA|->|+1 palier de difficulté|200|X10|Haut fait d'honneur légendaire|
-|Maître|28|grande cité (capitale régionale)|5d6 po/mod CHA|+1 palier de difficulté|Grands aristocrates200|500|X20|Haut fait d'honneur mythique|
+|Maître|28|grande cité (capitale régionale)|5d6 po/mod CHA|+1 palier de difficulté|Grands aristocrates|500|X20|Haut fait d'honneur mythique|
 
 La table doit se lire en plusieurs partie. Un artiste peut faire un spectacle et attendre des revenus en fonction de son rang 1d6 po/mod CHA pour un Novice ou 5d6 po/mod CHA pour un Maître. Le lieu du spectacle indique ensuite le revenu maximum attendu en fonction du public maximum visé. Ainsi un artiste Maître ne pourra faire qu'un spectacle de Novice dans un lieux-dit (le spectacle sera de qualité de Maître, cela n'influe pas sa prestation mais les revenus attendus seront 1d6 po/mod CHA au maximum.) Le spectacle à un coût suivant le public visé mais il multiplie aussi les revenus attendus.  
 
@@ -215,3 +252,30 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour 
 |Expert|[Mage Expert](/bestiaire/voie-de-la-magie-expert)|15|Rare|
 |Maître|[Mage Maître](/bestiaire/voie-de-la-magie-maitre)|17|Très rare|
 *Les profils suivants devront prendre en compte les avantages liés à l'appartenance de la guilde.
+
+### Tarification des actes magiques  
+La présence d'un mage attire toujours beaucoup de gens qui souhaite connaître l'avenir, améliorer leur quotidien ou simplement parler. Ils viennent avec des demandes spécifiques. Si le mage travaille et reçoit, il peut être sollicité jusqu'à 4 fois par lune (1 fois par semaine). Quelque fois les demandent seront au dessus de ses capacités, il ne pourra donc pas les honorer. Lancer des sortilèges occupe beaucoup de temps et il est possible de considérer qu'il faut 1 jour par rang de sort.  
+
+Les chances d'être sollicité correspondent à un JS de Charisme (CHA) DD22
+
+|Niveau du sort|Jours Nécessaires |
+|:-:|:-:|
+|Novice| 1 |
+|Disciple| 2 |
+|Apprenti|3|
+|Adepte| 4 |
+|Expert| 5 |
+|Maître| 6 |
+
+A l'issue des jours, 1 test d'Arcane ou de religion selon la difficulté du sortilège permettra de déterminer la réussite ou l'échec du procédé.   
+
+|1d6 (non explosif) ->|1|2|3|4|5|6|
+|Niveau de Sort ->|Novice|Disciple|Apprenti|Adepte|Expert|Maître|
+|Titre| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Novice| 10 po | - | - | - | - |- |
+|Disciple| 20 po | 40 po | - | - | - |- |
+|Apprenti| 40 po | 80 po | 120 po | - | - |- |
+|Adepte| 60 po | 100 po | 160 po | 200 po | - | - |
+|Expert| 80 po| 140 po | 180 po | 240 po|  300 po |- |
+|Maître| 140 po|200 po | 250 po|300 po |400 po |600 po |
