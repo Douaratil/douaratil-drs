@@ -221,7 +221,8 @@ Rudolf possède l'équipement suivant :
 **XP acquis** : 95 595   
 **Points de Magie** :9    
 **Points de Foi** :12    
-**Points d'honneur** :36      
+**Points d'honneur** :36     
+**Guilde des guerrier** Novice 50po/lune.  
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 La valeur naturelle de Force de Rudolf est de 16.  

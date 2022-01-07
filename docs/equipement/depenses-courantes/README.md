@@ -19,45 +19,45 @@ Dans une petite ville, il sera assez facile de trouver des gens volontaires pour
 
 ## Nourriture, boisson et logement
 
-| Objet | Prix |
-|:-|:-:|
-| **Banquet (par personne)** | 10 po |
-| **Bière** | |
-| &nbsp;&nbsp;Chope | 4 pc |
-| &nbsp;&nbsp;Cruche | 2 pa |
-| **Fromage, gros morceau** | 1 pa |
-| **Hébergement à l'auberge (par jour)** | |
-| &nbsp;&nbsp;Misérable | 7 pc |
-| &nbsp;&nbsp;Pauvre | 1 pa |
-| &nbsp;&nbsp;Modeste | 5 pa |
-| &nbsp;&nbsp;Confortable | 8 pa |
-| &nbsp;&nbsp;Riche | 2 po |
-| &nbsp;&nbsp;Aristocratique | 4 po |
-| **Pain, miche** | 2 pc |
-| **Repas (par jour)** | |
-| &nbsp;&nbsp;Misérable | 3 pc |
-| &nbsp;&nbsp;Pauvre | 6 pc |
-| &nbsp;&nbsp;Modeste | 3 pa |
-| &nbsp;&nbsp;Confortable | 5 pa |
-| &nbsp;&nbsp;Riche | 8 pa |
-| &nbsp;&nbsp;Aristocratique | 2 po |
-| **Viande, gros morceau** | 3 pa |
-| **Vin** | |
-| &nbsp;&nbsp;Ordinaire (cruche) | 2 pa |
-| &nbsp;&nbsp;Raffiné (bouteille) | 10 po |
+| Objet | Prix |DD de Négociation|
+|:-|:-:|-:|
+| **Banquet (par personne)** | 10 po |DD16|
+| **Bière** | | |
+| &nbsp;&nbsp;Chope | 4 pc |DD16|
+| &nbsp;&nbsp;Cruche | 2 pa |DD16|
+| **Fromage, gros morceau** | 1 pa |DD16|
+| **Hébergement à l'auberge (par jour)** | | |
+| &nbsp;&nbsp;Misérable | 7 pc |DD16|
+| &nbsp;&nbsp;Pauvre | 1 pa |DD16|
+| &nbsp;&nbsp;Modeste | 5 pa |DD16|
+| &nbsp;&nbsp;Confortable | 8 pa |DD16|
+| &nbsp;&nbsp;Riche | 2 po |DD16|
+| &nbsp;&nbsp;Aristocratique | 4 po |DD16|
+| **Pain, miche** | 2 pc |DD16|
+| **Repas (par jour)** | | |
+| &nbsp;&nbsp;Misérable | 3 pc |DD16|
+| &nbsp;&nbsp;Pauvre | 6 pc |DD16|
+| &nbsp;&nbsp;Modeste | 3 pa |DD16|
+| &nbsp;&nbsp;Confortable | 5 pa |DD16|
+| &nbsp;&nbsp;Riche | 8 pa |DD16|
+| &nbsp;&nbsp;Aristocratique | 2 po |DD16|
+| **Viande, gros morceau** | 3 pa |DD16|
+| **Vin** | | |
+| &nbsp;&nbsp;Ordinaire (cruche) | 2 pa |DD16|
+| &nbsp;&nbsp;Raffiné (bouteille) | 10 po |DD16|
 
 ## Services
 
-| Service | Prix |
-|:-|:-:|
-| **Courtisane** | 200 po par jour|
-| **Employé** | |
-| &nbsp;&nbsp;Non-qualifié | 2 pa par jour |
-| &nbsp;&nbsp;Qualifié | 2 po par jour |
-| **Messager** | 2 pc par kilomètre |
-| **Péage (route ou porte)** | 1 pc |
-| **Prostituée** | 2 po la séance|
-| **Transport** | |
-| &nbsp;&nbsp;Dans une ville | 1 pc |
-| &nbsp;&nbsp;Entre deux villes | 2 pc par kilomètre |
-| **Voyage maritime** | 7 pc par kilomètre |
+| Service | Prix |DD de Négociation|
+|:-|:-:|-:|
+| **Courtisane** | 200 po par jour|DD16|
+| **Employé** | | |
+| &nbsp;&nbsp;Non-qualifié | 2 pa par jour |DD16|
+| &nbsp;&nbsp;Qualifié | 2 po par jour |DD16|
+| **Messager** | 2 pc par kilomètre |DD16|
+| **Péage (route ou porte)** | 1 pc |DD16|
+| **Prostituée** | 2 po la séance|DD16|
+| **Transport** | | |
+| &nbsp;&nbsp;Dans une ville | 1 pc |DD16|
+| &nbsp;&nbsp;Entre deux villes | 2 pc par kilomètre |DD16|
+| **Voyage maritime** | 7 pc par kilomètre |DD16|

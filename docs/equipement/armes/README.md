@@ -70,44 +70,44 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 
 ## Tableau des armes
 
-|Nom|Prix|Dégâts|Poids|Propriétés|
-|:-|:-:|:-:|:-:|:-|
-|**Armes de corps-à-corps courantes**|||||
-||||||
-|Bâton|2 pa|2d6 contondant|2 kg|Polyvalente (2d6+2)|
-|Dague|2 po|1d6 perforant|0,5 kg|Finesse, légère, lancer (portée 6/18)|
-|Gourdin|1 pa|1d6 contondant|1 kg|Légère|
-|Hachette|5 po|2d6 tranchant|1 kg|Légère, lancer (portée 6/18)|
-|Javelines|5 pa|2d6 perforant|1 kg|Lancer (portée 9/36)|
-|Lance|1 po|2d6 perforant|1,5 kg|Lancer (portée 6/18), polyvalente (2d6+2)|
-|Marteau léger|2 po|1d6 contondant|1 kg|Légère, lancer (6/18)|
-|Masse d'armes|5 po|2d6 contondant|2 kg|-|
-|Massue|2 pa|2d6+2 contondant|5 kg|À deux mains|
-|Serpe|1 po|1d6 tranchant|1 kg|Légère|
-|**Armes à distance courantes**|||||
-|Arc court|25 po|2d6 perforant|1 kg|Munitions (portée 24/96), à deux mains|
-|Bolas|5 po|1d6 contondant|1 kg|lancer (portée 6/18)|
-|Fléchettes|5 pc|1d6 perforant|0,1 kg|Finesse, lancer (portée 6/18)|
-|Fronde|1 pa|1d6 contondant|-|Munitions (portée 9/36)|
-|**Armes de corps-à-corps de guerre**|||||
-|Cimeterre|25 po|2d6 tranchant|1,5 kg|Finesse, légère|
-|Épée à deux mains|50 po|3d6 tranchant|3 kg|Lourde, à deux mains|
-|Épée courte|10 po|2d6 perforant|1 kg|Finesse, légère|
-|Épée longue|15 po|2d6+2 tranchant|1,5 kg|Polyvalente (3d6)|
-|Fléau|10 po|2d6+2 contondant|1 kg|-|
-|Fouet|2 po|1d6 tranchant|1,5 kg|Finesse, allonge|
-|Hache à deux mains|30 po|3d6 tranchant|3,5 kg|Lourde, à deux mains|
-|Hache d'armes|10 po|2d6+2 tranchant|2 kg|Polyvalente (3d6)|
-|Lance d'arçon|10 po|3d6 perforant|3 kg|Allonge, spéciale|
-|Marteau de guerre|15 po|2d6+2 contondant|1 kg|Polyvalente (3d6)|
-|Merlin|10 po|3d6 contondant|5 kg|Lourde, à deux mains|
-|Morgenstern|15 po|2d6+2 perforant|2 kg|-|
-|Pic de guerre|5 po|2d6+2 perforant|1 kg|-|
-|Pique|5 po|3d6 perforant|9 kg|Lourde, allonge, à deux mains|
-|Rapière|25 po|2d6+2 perforant|1 kg|Finesse|
-|Trident|5 po|2d6 perforant|2 kg|Lancer (portée 6/18), polyvalente (2d6+2)|
-|**Armes à distance de guerre**|||||
-|Arc long|50 po|2d6+2 perforant|1 kg|Munitions (portée 45/180), lourde, à deux mains|
-|Arc composite|50 po|2d6+2 perforant|1 kg|Munitions (portée 30/120), lourde, à deux mains|
-|Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|
-|Sarbacane|10 po|1d6 perforant|0,5 kg|Munitions (portée 7,5/30), chargement|
+|Nom|Prix|Dégâts|Poids|Propriétés|DD de négociation|
+|:-|:-:|:-:|:-:|:-:|-:|
+|**Armes de corps-à-corps courantes**||||||
+|||||||
+|Bâton|2 pa|2d6 contondant|2 kg|Polyvalente (2d6+2)|DD16|
+|Dague|2 po|1d6 perforant|0,5 kg|Finesse, légère, lancer (portée 6/18)|DD16|
+|Gourdin|1 pa|1d6 contondant|1 kg|Légère|DD16|
+|Hachette|5 po|2d6 tranchant|1 kg|Légère, lancer (portée 6/18)|DD16|
+|Javelines|5 pa|2d6 perforant|1 kg|Lancer (portée 9/36)|DD16|
+|Lance|1 po|2d6 perforant|1,5 kg|Lancer (portée 6/18), polyvalente (2d6+2)|DD16|
+|Marteau léger|2 po|1d6 contondant|1 kg|Légère, lancer (6/18)|DD16|
+|Masse d'armes|5 po|2d6 contondant|2 kg|-|DD16|
+|Massue|2 pa|2d6+2 contondant|5 kg|À deux mains|DD16|
+|Serpe|1 po|1d6 tranchant|1 kg|Légère|DD16|
+|**Armes à distance courantes**||||||
+|Arc court|25 po|2d6 perforant|1 kg|Munitions (portée 24/96), à deux mains|DD16|
+|Bolas|5 po|1d6 contondant|1 kg|lancer (portée 6/18)|DD16|
+|Fléchettes|5 pc|1d6 perforant|0,1 kg|Finesse, lancer (portée 6/18)|DD16|
+|Fronde|1 pa|1d6 contondant|-|Munitions (portée 9/36)|DD16|
+|**Armes de corps-à-corps de guerre**||||||
+|Cimeterre|25 po|2d6 tranchant|1,5 kg|Finesse, légère|DD16|
+|Épée à deux mains|50 po|3d6 tranchant|3 kg|Lourde, à deux mains|DD16|
+|Épée courte|10 po|2d6 perforant|1 kg|Finesse, légère|DD16|
+|Épée longue|15 po|2d6+2 tranchant|1,5 kg|Polyvalente (3d6)|DD16|
+|Fléau|10 po|2d6+2 contondant|1 kg|-|DD16|
+|Fouet|2 po|1d6 tranchant|1,5 kg|Finesse, allonge|DD16|
+|Hache à deux mains|30 po|3d6 tranchant|3,5 kg|Lourde, à deux mains|DD16|
+|Hache d'armes|10 po|2d6+2 tranchant|2 kg|Polyvalente (3d6)|DD16|
+|Lance d'arçon|10 po|3d6 perforant|3 kg|Allonge, spéciale|DD16|
+|Marteau de guerre|15 po|2d6+2 contondant|1 kg|Polyvalente (3d6)|DD16|
+|Merlin|10 po|3d6 contondant|5 kg|Lourde, à deux mains|DD16|
+|Morgenstern|15 po|2d6+2 perforant|2 kg|-|DD16|
+|Pic de guerre|5 po|2d6+2 perforant|1 kg|-|DD16|
+|Pique|5 po|3d6 perforant|9 kg|Lourde, allonge, à deux mains|DD16|
+|Rapière|25 po|2d6+2 perforant|1 kg|Finesse|DD16|
+|Trident|5 po|2d6 perforant|2 kg|Lancer (portée 6/18), polyvalente (2d6+2)|DD16|
+|**Armes à distance de guerre**||||||
+|Arc long|50 po|2d6+2 perforant|1 kg|Munitions (portée 45/180), lourde, à deux mains|DD16|
+|Arc composite|50 po|2d6+2 perforant|1 kg|Munitions (portée 30/120), lourde, à deux mains|DD16|
+|Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|DD16|
+|Sarbacane|10 po|1d6 perforant|0,5 kg|Munitions (portée 7,5/30), chargement|DD16|

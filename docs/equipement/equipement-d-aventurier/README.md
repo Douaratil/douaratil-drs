@@ -5,106 +5,106 @@ title: "Equipement d'aventurier"
 Vous trouverez dans cette section des objets qui ont des règles spéciales ou dont l'utilisation nécessite des explications.
 
 
-|Objet|Prix|Poids|
-|:-|:-:|:-:|
-|**Acide (fiole)**|25 po|0,5 kg|
-|**Antitoxine (fiole)**|50 po|-|
-|**Balance de marchand**|5 po|1,5 kg|
-|**Bélier portatif**|4 po|17,5 kg|
-|**Billes (sac de 1000)**|1 po|1 kg|
-|**Boîte à amadou**|5 pa|0,5 kg|
-|**Bougie**|1 pc|0,5 kg|
-|**Boulier**|2 po|1 kg|
-|**Bouteille en verre**|2 po|1 kg|
-|**Carquois**|1 po|0,5 kg|
-|**Chaîne (3 mètres)**|5 po|5 kg|
-|**Chausse-trappes (sac de 20)**|1 po|1 kg|
-|**Chevalière**|5 po|-|
-|**Cire à cacheter**|5 pa|-|
-|**Cloche**|1 po|-|
-|**Coffre**|5 po|12,5 kg|
-|**Corde en chanvre (15 mètres)**|1 po|5 kg|
-|**Corde en soie (15 mètres)**|10 po|2,5 kg|
-|**Couverture**|5 pa|1,5 kg|
-|**Craie (1 morceau)**|1 pc|-|
-|**Cruche ou pichet**|2 pc|2 kg|
-|**Eau bénite (flasque)**|25 po|0,5 kg|
-|**Échelle (3 mètres)**|1 pa|12,5 kg|
-|**Encre (bouteille de 30 grammes)**|10 po|-|
-|**Équipement d'escalade**|25 po|6 kg|
-|**Étui pour cartes et parchemins**|1 po|0,5 kg|
-|**Feu grégeois (flasque)**|50 po|0,5 kg|
-|**Fiole**|1 po|-|
-|**Flasque ou chope**|2 pc|0,5 kg|
-|**Focaliseur arcanique**|||
-|&nbsp;&nbsp;Cristal|10 po|0,5 kg|
-|&nbsp;&nbsp;Orbe|20 po|1,5 kg|
-|&nbsp;&nbsp;Sceptre|10 po|1 kg|
-|&nbsp;&nbsp;Bâton|5 po|2 kg|
-|&nbsp;&nbsp;Baguette|10 po|0,5 kg|
-|**Focaliseur druidique**|||
-|&nbsp;&nbsp;Branche de houx|1 po|-|
-|&nbsp;&nbsp;Totem|1 po|-|
-|&nbsp;&nbsp;Bâton|5 po|2 kg|
-|&nbsp;&nbsp;Baguette d'if|10 po|0,5 kg|
-|**Gamelle**|2 pa|0,5 kg|
-|**Grappin**|2 po|2 kg|
-|**Grimoire**|50 po|1,5 kg|
-|**Huile (flasque)**|1 pa|0,5 kg|
-|**Lampe**|5 pa|0,5 kg|
-|**Lanterne à capote**|5 po|1 kg|
-|**Lanterne sourde**|10 po|1 kg|
-|**Livre**|25 po|2,5 kg|
-|**Marteau**|1 po|1,5 kg|
-|**Masse**|2 po|5 kg|
-|**Matériel de pêche**|1 po|2 kg|
-|**Menottes**|2 po|3 kg|
-|**Miroir en acier**|5 po|0,25 kg|
-|**Munitions**|||
-|&nbsp;&nbsp;Flèches (20)|1 po|0,5 kg|
-|&nbsp;&nbsp;Dards de sarbacane (50)|1 po|0,5 kg|
-|&nbsp;&nbsp;Billes de fronde (20)|4 pc|0,75 kg|
-|**Outre**|2 pa|2,5 kg|
-|**Palan**|1 po|2,5 kg|
-|**Panier**|4 pa|1 kg|
-|**Papier (1 feuille)**|2 pa|-|
-|**Parchemin (1 feuille)**|1 pa|-|
-|**Parfum (fiole)**|5 po|-|
-|**Pelle**|2 po|2,5 kg|
-|**Perche (3 mètres)**|2 pc|3,5 kg|
-|**Pics en fer (10)**|1 po|2,5 kg|
-|**Pied-de-biche**|2 po|2,5 kg|
-|**Piège à machoires**|5 po|12,5 kg|
-|**Pierre à affûter**|1 pc|0,5 kg|
-|**Pioche de mineur**|2 po|5 kg|
-|**Piton**|5 pc|125 g|
-|**Poison (fiole)**|100 po|-|
-|**Porte-plume**|2 pc|-|
-|**Pot en fer**|2 po|5 kg|
-|**Rations (1 jour)**|5 pa|1 kg|
-|**Sablier**|25 po|0,5 kg|
-|**Sac**|1 pc|0,25 kg|
-|**Sac à dos**|2 po|2,5 kg|
-|**Sac de couchage**|1 po|3,5 kg|
-|**Sacoche**|5 pa|0,5 kg|
-|**Sacoche à composantes**|25 po|1 kg|
-|**Savon**|2 pc|-|
-|**Seau**|5 pc|1 kg|
-|**Sifflet**|5 pc|-|
-|**Symbole sacré**|||
-|&nbsp;&nbsp;Amulette|5 po|0,5 kg|
-|&nbsp;&nbsp;Emblème|5 po|-|
-|&nbsp;&nbsp;Reliquaire|5 po|1 kg|
-|**Tente, deux personnes**|2 po|10 kg|
-|**Tonneau**|2 po|35 kg|
-|**Torche**|1 pc|0,5 kg|
-|**Trousse de soins**|5 po|1,5 kg|
-|**Vêtements**|||
-|&nbsp;&nbsp;Costume|5 po|2 kg|
-|&nbsp;&nbsp;Habits courants|5 pa|1,5 kg|
-|&nbsp;&nbsp;Habits de bonne qualité|15 po|3 kg|
-|&nbsp;&nbsp;Robes|1 po|2 kg|
-|&nbsp;&nbsp;Tenue de voyageur|2 po|2 kg|
+|Objet|Prix|Poids|DD de Négociation|
+|:-|:-:|:-:|-:|
+|**Acide (fiole)**|25 po|0,5 kg|DD16|
+|**Antitoxine (fiole)**|50 po|-|DD16|
+|**Balance de marchand**|5 po|1,5 kg|DD16|
+|**Bélier portatif**|4 po|17,5 kg|DD16|
+|**Billes (sac de 1000)**|1 po|1 kg|DD16|
+|**Boîte à amadou**|5 pa|0,5 kg|DD16|
+|**Bougie**|1 pc|0,5 kg|DD16|
+|**Boulier**|2 po|1 kg|DD16|
+|**Bouteille en verre**|2 po|1 kg|DD16|
+|**Carquois**|1 po|0,5 kg|DD16|
+|**Chaîne (3 mètres)**|5 po|5 kg|DD16|
+|**Chausse-trappes (sac de 20)**|1 po|1 kg|DD22|
+|**Chevalière**|5 po|-|DD22|
+|**Cire à cacheter**|5 pa|-|DD16|
+|**Cloche**|1 po|-|DD16|
+|**Coffre**|5 po|12,5 kg|DD16|
+|**Corde en chanvre (15 mètres)**|1 po|5 kg|DD16|
+|**Corde en soie (15 mètres)**|10 po|2,5 kg|DD16|
+|**Couverture**|5 pa|1,5 kg|DD16|
+|**Craie (1 morceau)**|1 pc|-|DD16|
+|**Cruche ou pichet**|2 pc|2 kg|DD16|
+|**Eau bénite (flasque)**|25 po|0,5 kg|DD22|
+|**Échelle (3 mètres)**|1 pa|12,5 kg|DD16|
+|**Encre (bouteille de 30 grammes)**|10 po|-|DD16|
+|**Équipement d'escalade**|25 po|6 kg|DD16|
+|**Étui pour cartes et parchemins**|1 po|0,5 kg|DD16|
+|**Feu grégeois (flasque)**|50 po|0,5 kg|DD22|
+|**Fiole**|1 po|-|DD16|
+|**Flasque ou chope**|2 pc|0,5 kg|DD16|
+|**Focaliseur arcanique**||||
+|&nbsp;&nbsp;Cristal|10 po|0,5 kg|DD22
+|&nbsp;&nbsp;Orbe|20 po|1,5 kg|DD22|
+|&nbsp;&nbsp;Sceptre|10 po|1 kg|DD22|
+|&nbsp;&nbsp;Bâton|5 po|2 kg|DD22|
+|&nbsp;&nbsp;Baguette|10 po|0,5 kg|DD22|
+|**Focaliseur druidique**||||
+|&nbsp;&nbsp;Branche de houx|1 po|-|DD22|
+|&nbsp;&nbsp;Totem|1 po|-|DD22|
+|&nbsp;&nbsp;Bâton|5 po|2 kg|DD22|
+|&nbsp;&nbsp;Baguette d'if|10 po|0,5 kg|DD22|
+|**Gamelle**|2 pa|0,5 kg|DD16|
+|**Grappin**|2 po|2 kg|DD16|
+|**Grimoire**|50 po|1,5 kg|DD22|
+|**Huile (flasque)**|1 pa|0,5 kg|DD16|
+|**Lampe**|5 pa|0,5 kg|DD16|
+|**Lanterne à capote**|5 po|1 kg|DD16|
+|**Lanterne sourde**|10 po|1 kg|DD16|
+|**Livre**|25 po|2,5 kg|DD22|
+|**Marteau**|1 po|1,5 kg|DD16|
+|**Masse**|2 po|5 kg|DD16|
+|**Matériel de pêche**|1 po|2 kg|DD16|
+|**Menottes**|2 po|3 kg|DD16|
+|**Miroir en acier**|5 po|0,25 kg|DD16|
+|**Munitions**||||
+|&nbsp;&nbsp;Flèches (20)|1 po|0,5 kg|DD16|
+|&nbsp;&nbsp;Dards de sarbacane (50)|1 po|0,5 kg|DD16|
+|&nbsp;&nbsp;Billes de fronde (20)|4 pc|0,75 kg|DD16|
+|**Outre**|2 pa|2,5 kg|DD16|
+|**Palan**|1 po|2,5 kg|DD16|
+|**Panier**|4 pa|1 kg|DD16|
+|**Papier (1 feuille)**|2 pa|-|DD16|
+|**Parchemin (1 feuille)**|1 pa|-|DD16|
+|**Parfum (fiole)**|5 po|-|DD22|
+|**Pelle**|2 po|2,5 kg|DD16|
+|**Perche (3 mètres)**|2 pc|3,5 kg|DD16|
+|**Pics en fer (10)**|1 po|2,5 kg|DD16|
+|**Pied-de-biche**|2 po|2,5 kg|DD16|
+|**Piège à machoires**|5 po|12,5 kg|DD22|
+|**Pierre à affûter**|1 pc|0,5 kg|DD16|
+|**Pioche de mineur**|2 po|5 kg|DD16|
+|**Piton**|5 pc|125 g|DD16|
+|**Poison (fiole)**|100 po|-|DD22|
+|**Porte-plume**|2 pc|-|DD22|
+|**Pot en fer**|2 po|5 kg|DD16|
+|**Rations (1 jour)**|5 pa|1 kg|DD16|
+|**Sablier**|25 po|0,5 kg|DD22|
+|**Sac**|1 pc|0,25 kg|DD16|
+|**Sac à dos**|2 po|2,5 kg|DD16|
+|**Sac de couchage**|1 po|3,5 kg|DD16|
+|**Sacoche**|5 pa|0,5 kg|DD16|
+|**Sacoche à composantes**|25 po|1 kg|DD16|
+|**Savon**|2 pc|-|DD16|
+|**Seau**|5 pc|1 kg|DD16|
+|**Sifflet**|5 pc|-|DD16|
+|**Symbole sacré**||||
+|&nbsp;&nbsp;Amulette|5 po|0,5 kg|DD22|
+|&nbsp;&nbsp;Emblème|5 po|-|DD22|
+|&nbsp;&nbsp;Reliquaire|5 po|1 kg|DD22|
+|**Tente, deux personnes**|2 po|10 kg|DD16|
+|**Tonneau**|2 po|35 kg|DD16|
+|**Torche**|1 pc|0,5 kg|DD16|
+|**Trousse de soins**|5 po|1,5 kg|DD16|
+|**Vêtements**||||
+|&nbsp;&nbsp;Costume|5 po|2 kg|DD16|
+|&nbsp;&nbsp;Habits courants|5 pa|1,5 kg|DD16|
+|&nbsp;&nbsp;Habits de bonne qualité|15 po|3 kg|DD16|
+|&nbsp;&nbsp;Robes|1 po|2 kg|DD16|
+|&nbsp;&nbsp;Tenue de voyageur|2 po|2 kg|DD16|
 
 ## Acide
 Vous pouvez utiliser une action pour asperger une créature qui se trouve dans un rayon de 1,50 mètre autour de vous avec le contenu de cette fiole ou bien la lancer jusqu'à une distance de 6 mètres. La fiole se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'acide doit être considéré comme une arme improvisée. Si vous touchez votre cible, celle-ci reçoit 2d6 dégâts acides.

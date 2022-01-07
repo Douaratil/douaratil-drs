@@ -21,25 +21,25 @@ Il est à la portée de n'importe qui d'enfiler une armure et de prendre un bouc
 
 ## Tableau des armures
 
-|Armure|Prix|Valeur de Défense (VD) |Force|Discrétion|Poids|
-|:-|:-:|:-:|:-:|:-:|:-:|
-|**Armures légères**|||||
-|[Matelassée](#armure-matelassee)|5 po|+1|-|Désavantage|4 kg|
-|[Cuir](#armure-de-cuir)|10 po|+2|-|-|5 kg|
-|[Cuir clouté](#armure-de-cuir-cloute)|45 po|+3|-|-|6,5 kg|
-|**Armures intermédiaires**||||||
-|[Peau](#armure-de-peau)|10 po|+3|-|-|6 kg|
-|[Chemise de mailles](#chemise-de-mailles)|50 po|+3|-|-|10 kg|
-|[Écailles](#armure-d-ecailles)|50 po|+4|-|Désavantage|22,5 kg|
-|[Cuirasse](#cuirasse)|400 po|+5|-|-|10 kg|
-|[Demi-plate](#armure-de-demi-plate)|550 po|+5|-|Désavantage|20 kg|
-|**Armures lourdes**||||||
-|[Broigne](#broigne)|30 po|+5|-|Désavantage|20 kg|
-|[Cotte de mailles](#cotte-de-mailles)|75 po|+6|For 13|Désavantage|27,5 kg|
-|[Clibanion](#clibanion)|200 po|+7|For 15|Désavantage|30 kg|
-|[Armure à plaques](#armure-a-plaques)|1500 po|+8|For 15|Désavantage|32,5 kg|
-|**Bouclier**||||||
-|Bouclier|10 po|+2|-|-|3 kg|
+|Armure|Prix|Valeur de Défense (VD) |Force|Discrétion|Poids|DD de Négociation|
+|:-|:-:|:-:|:-:|:-:|:-:|-:|
+|**Armures légères**||||||
+|[Matelassée](#armure-matelassee)|5 po|+1|-|Désavantage|4 kg|DD16|
+|[Cuir](#armure-de-cuir)|10 po|+2|-|-|5 kg|DD16|
+|[Cuir clouté](#armure-de-cuir-cloute)|45 po|+3|-|-|6,5 kg|DD16|
+|**Armures intermédiaires**|||||||
+|[Peau](#armure-de-peau)|10 po|+3|-|-|6 kg|DD16|
+|[Chemise de mailles](#chemise-de-mailles)|50 po|+3|-|-|10 kg|DD16|
+|[Écailles](#armure-d-ecailles)|50 po|+4|-|Désavantage|22,5 kg|DD16|
+|[Cuirasse](#cuirasse)|400 po|+5|-|-|10 kg|DD16|
+|[Demi-plate](#armure-de-demi-plate)|550 po|+5|-|Désavantage|20 kg|DD16|
+|**Armures lourdes**|||||||
+|[Broigne](#broigne)|30 po|+5|-|Désavantage|20 kg|DD22|
+|[Cotte de mailles](#cotte-de-mailles)|75 po|+6|For 13|Désavantage|27,5 kg|DD22|
+|[Clibanion](#clibanion)|200 po|+7|For 15|Désavantage|30 kg|DD22|
+|[Armure à plaques](#armure-a-plaques)|1500 po|+8|For 15|Désavantage|32,5 kg|DD22|
+|**Bouclier**|||||||
+|Bouclier|10 po|+2|-|-|3 kg|DD16|
 
 ## Armures légères
 Les armures légères sont faites de matériaux souples et fins. Elles sont adaptées à la tous les types de personnages agiles dans la mesure où elles offrent une protection sans sacrifier leur mobilité. Elles sont maîtrisées par la Voie des Armes et la Voie des Ombres.  

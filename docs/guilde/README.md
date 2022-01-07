@@ -115,7 +115,7 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 
 Les combats de déroulent en plusieurs combats successifs. Chaque phase de combat dure 3 rounds maximum. Entre chaque combat la règle du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) peut s'appliquer. Les combats ne sont pas mortels mais simulés. L'objectif n'est pas d'humilier ou d'estropier l'adversaire mais de prouver sa valeur.   
 
-### Tarification de la guilde des gierruère
+### Tarification de la guilde des guerrière.
 
 Les guildes guerrières proposent beaucoup de services, des protections, des prélèvements de dents, des spectacles de combat etc... Les demandes viennent de toutes les strates de la société. Les tâches réalisables et les tarifs dépendent du rang. Le membre de la guilde (personnage) peut être sollicité jusqu'à 4 fois par lune (1 fois par semaine), il est en général embauché pour 1d6 jours. Il doit effectuer des tests tous les jours suivant la mission, si les tests sont echoués, il ne gagne que la moitié de la somme pour la journée.  
 

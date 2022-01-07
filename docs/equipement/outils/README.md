@@ -5,46 +5,46 @@ title: "Outils"
 Des outils vous aident à faire quelque chose que vous ne pouvez pas faire normalement, comme fabriquer ou réparer un objet, falsifier un document ou crocheter une serrure. Votre ethnie, votre archétype, votre historique ou vos dons vous accordent la maîtrise de certains outils. Maîtriser un outil vous permet d'ajouter votre bonus de maîtrise à n'importe quel [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) que vous faites quand vous utilisez cet outil. L'utilisation d'un outil n'est pas liée à une unique caractéristique dans la mesure où la maîtrise d'un outil représente une connaissance approfondie de son utilisation. Par exemple, le MJ peut vous demander de faire un test de Dextérité pour graver des détails avec vos outils de menuisier, ou un test de Force afin de pouvoir travailler un bois particulièrement résistant.
 
 
-|Objet|Prix|Poids|
-|:-|:-:|:-:|
-|**Instruments de musique**|||
-|&nbsp;&nbsp;Chalemie|2 po|0,5 kg|
-|&nbsp;&nbsp;Cor|3 po|1 kg|
-|&nbsp;&nbsp;Cornemuse|30 po|3 kg|
-|&nbsp;&nbsp;Flûte|2 po|0,5 kg|
-|&nbsp;&nbsp;Flûte de pan|12 po|1 kg|
-|&nbsp;&nbsp;Luth|35 po|1 kg|
-|&nbsp;&nbsp;Lyre|30 po|1 kg|
-|&nbsp;&nbsp;Tambour|6 po|1,5 kg|
-|&nbsp;&nbsp;Tympanion|25 po|5 kg|
-|&nbsp;&nbsp;Viole|30 po|0,5 kg|
-|**Instruments de navigation**|25 po|1 kg|
-|**Jeux**|||
-|&nbsp;&nbsp;Dés|1 pa|-|
-|&nbsp;&nbsp;Jeu de cartes|5 pa|-|
-|**Matériel d'empoisonneur**|50 po|1 kg|
-|**Matériel d'herboriste**|5 po|1,5 kg|
-|**Outils d'artisan**|||
-|&nbsp;&nbsp;Matériel d'alchimiste|50 po|4 kg|
-|&nbsp;&nbsp;Matériel de brasseur|20 po|4,5 kg|
-|&nbsp;&nbsp;Outils de bricoleur|50 po|5 kg|
-|&nbsp;&nbsp;Matériel de calligraphie|10 po|2,5 kg|
-|&nbsp;&nbsp;Outils de cartographe|15 po|3 kg|
-|&nbsp;&nbsp;Outils de charpentier|8 po|3 kg|
-|&nbsp;&nbsp;Outils de cordonnier|5 po|2,5 kg|
-|&nbsp;&nbsp;Ustensiles de cuisinier|1 po|4 kg|
-|&nbsp;&nbsp;Accessoires de déguisement|25 po|1,5 kg|
-|&nbsp;&nbsp;Accessoires de faussaire|15 po|2,5 kg|
-|&nbsp;&nbsp;Outils de forgeron|20 po|4 kg|
-|&nbsp;&nbsp;Outils de joaillier|25 po|1 kg|
-|&nbsp;&nbsp;Outils de maçon|10 po|4 kg|
-|&nbsp;&nbsp;Outils de menuisier|1 po|2,5 kg|
-|&nbsp;&nbsp;Matériel de peintre|10 po|2,5 kg|
-|&nbsp;&nbsp;Outils de potier|10 po|1,5 kg|
-|&nbsp;&nbsp;Outils de souffleur de verre|30 po|2,5 kg|
-|&nbsp;&nbsp;Outils de tanneur|5 po|2,5 kg|
-|&nbsp;&nbsp;Outils de tisserand|10 po|2,5 kg|
-|**Outils de voleur**|25 po|0,5 kg|
+|Objet|Prix|Poids|DD de négociation|
+|:-|:-:|:-:|-:|
+|**Instruments de musique**|||DD 22|
+|&nbsp;&nbsp;Chalemie|2 po|0,5 kg|DD 22|
+|&nbsp;&nbsp;Cor|3 po|1 kg|DD 22|
+|&nbsp;&nbsp;Cornemuse|30 po|3 kg|DD 22|
+|&nbsp;&nbsp;Flûte|2 po|0,5 kg|DD 22|
+|&nbsp;&nbsp;Flûte de pan|12 po|1 kg|DD 22|
+|&nbsp;&nbsp;Luth|35 po|1 kg|DD 22|
+|&nbsp;&nbsp;Lyre|30 po|1 kg|DD 22|
+|&nbsp;&nbsp;Tambour|6 po|1,5 kg|DD 22|
+|&nbsp;&nbsp;Tympanion|25 po|5 kg|DD 22|
+|&nbsp;&nbsp;Viole|30 po|0,5 kg|DD 22|
+|**Instruments de navigation**|25 po|1 kg|DD 22|
+|**Jeux**||||
+|&nbsp;&nbsp;Dés|1 pa|-|DD 22|
+|&nbsp;&nbsp;Jeu de cartes|5 pa|-|DD 22|
+|**Matériel d'empoisonneur**|50 po|1 kg|DD 22|
+|**Matériel d'herboriste**|5 po|1,5 kg|DD 22|
+|**Outils d'artisan**||||
+|&nbsp;&nbsp;Matériel d'alchimiste|50 po|4 kg|DD 22|
+|&nbsp;&nbsp;Matériel de brasseur|20 po|4,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de bricoleur|50 po|5 kg|DD 22|
+|&nbsp;&nbsp;Matériel de calligraphie|10 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de cartographe|15 po|3 kg|DD 22|
+|&nbsp;&nbsp;Outils de charpentier|8 po|3 kg|DD 22|
+|&nbsp;&nbsp;Outils de cordonnier|5 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Ustensiles de cuisinier|1 po|4 kg|DD 22|
+|&nbsp;&nbsp;Accessoires de déguisement|25 po|1,5 kg|DD 22|
+|&nbsp;&nbsp;Accessoires de faussaire|15 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de forgeron|20 po|4 kg|DD 22|
+|&nbsp;&nbsp;Outils de joaillier|25 po|1 kg|DD 22|
+|&nbsp;&nbsp;Outils de maçon|10 po|4 kg|DD 22|
+|&nbsp;&nbsp;Outils de menuisier|1 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Matériel de peintre|10 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de potier|10 po|1,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de souffleur de verre|30 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de tanneur|5 po|2,5 kg|DD 22|
+|&nbsp;&nbsp;Outils de tisserand|10 po|2,5 kg|DD 22|
+|**Outils de voleur**|25 po|0,5 kg|DD 22|
 
 ### Instruments de navigation
 Cet ensemble d'instruments est utilisé pour naviguer en mer. Si vous en maîtrisez l'utilisation, vous pouvez lire une carte et planifier le trajet d'un bateau. Ces outils vous permettent aussi d'ajouter votre bonus de maîtrise à tout [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) que vous faites pour éviter de vous perdre en mer.
