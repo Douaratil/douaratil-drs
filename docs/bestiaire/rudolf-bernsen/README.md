@@ -163,8 +163,8 @@ Rudolf possède l'équipement suivant :
 - 4260 PC,
 - 3495 PA
 - 12 PE
-- 16354 PO
-- 45 PP.
+- 39 PO
+- 5 PP.
 §§§
 
 §§§ .hero
@@ -192,16 +192,16 @@ Rudolf possède l'équipement suivant :
 |Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
+|Forge|1|+3|+3|-1|-|0|1X4X6d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|2|0|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
+|Maison|2|+2|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**20X6d6 pa**|**-**|
+|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**4X6D6po, 20X6d6 pa**|**-**|
 
 
 **Colons** : 29     
@@ -229,6 +229,6 @@ La valeur naturelle de Force de Rudolf est de 16.
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
-facture mineur au thorax (fracture	20 jours,	Usage du membre impossible ou risque d'aggravation, DD28)
+facture mineur au thorax (Guéri le 21 Kerzu)
 
 §§§
