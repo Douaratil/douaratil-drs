@@ -356,7 +356,20 @@ Un test de Charisme peut se révéler utile si vous tentez d'influencer ou de di
 Quand vous tentez d'influencer quelqu'un par le biais de menaces directes, d'actions hostiles ou de violence, le MJ peut vous demander de faire un test de Charisme (Intimidation). Ces actions peuvent être de tenter de faire parler un prisonnier, de convaincre des truands qu'il ferait mieux de ne pas s'en prendre à vous, ou d'utiliser une bouteille brisée pour convaincre un dignitaire de reconsidérer une décision.
 
 ##### Persuasion
-Le MJ peut vous demander de faire un test de Charisme (Persuasion) quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule.
+Le MJ peut vous demander de faire un test de Charisme (Persuasion) quand vous tentez d'influencer une ou plusieurs personnes en faisant preuve de tact, en faisant appel à l'étiquette ou à la bonne volonté de ces gens. La persuasion vous sert généralement quand vous voulez montrer que vous êtes de bonne foi ou pour vous faire des amis, pour demander respectueusement un service ou pour faire preuve du comportement approprié à une situation. Par exemple, lorsque vous devez convaincre un chambellan que votre groupe doit voir le roi, que vous négociez un traité de paix entre deux tribus ennemies ou que vous devez inspirer une foule. La persuasion permet de aussi de négocier les prix. En général, la difficulté de base de négociation est un DD16 mais des objets peuvent demander un DD plus important. Lorsque l'on tente un jet de persuasion, il est possible de gagner 10% par point de marge supérieure au DD requis sans pouvoir dépasser 25% de bonification. Inversement, une pénalité de 10% par point de marge inférieure s'applique sans pouvoir dépasser 25% de malus. Il est possible de tenter de gagner plus sur une transaction, jusqu'à 50% mais dans ce cas un test de supercherie est nécessaire et la personne lésée s'en rendra compte ultérieurement.      
+
+|Type d'objet| DD minimum|
+|:-:|:-:|
+|Armes |DD 16 ou plus|
+|Armures|DD 16 ou plus|
+|Composante magique|DD 16 ou plus|
+|Objets courants |DD 16 ou plus|
+|Objets magiques |DD 22 ou plus|
+|Objets magiques légendaires|DD 35 ou plus|
+|Objets magiques sacrés |DD 28 ou plus|
+|Oeuvre d'art |DD 22 ou plus|
+|Pierres précieuses|DD 22 ou plus|
+
 
 ##### Représentation
 Le résultat d'un test de Charisme (Représentation) détermine la réaction d'un auditoire à une performance musicale, dansée, théâtrale, à un conte ou à d'autres formes de divertissement.

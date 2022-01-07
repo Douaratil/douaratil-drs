@@ -51,7 +51,7 @@ Chaque élément de s'acquière qu'une seule fois, exception faite des chambres 
 |Type|Coûts|Revenus|Personnel| Détails|
 |:-:|:-:|:-:|:-:|:-:|
 |Salle du conseil|1000 po|0|Sans|Salle de réunion, de fête et de cérémonie de la communauté|
-|Ferme|500 po|1d6 pa|Une famille|Famille qui travaille la terre et s'occupe du bétail, cette option peut-être choisie plusieurs fois|
+|Ferme|500 po|10X6d6 pa|Une famille|Famille qui travaille la terre et s'occupe du bétail, cette option peut-être choisie plusieurs fois|
 |Atelier de poterie|1000 po|1d6 po|Une famille|Famille qui fournit les récipients et les tuiles|
 |Forge|2000 po|2d6 po|Une famille|Famille qui fournit les outils, les fers et autres ustensiles|
 |Menuiserie|1500 po|1d6 po|Une famille|Famille qui s'occupe de la menuiserie, charpente, bûcheronnage et charbonnerie suivant la saison|
@@ -61,10 +61,10 @@ Chaque élément de s'acquière qu'une seule fois, exception faite des chambres 
 |Puits|500 po|0|Sans|15 mètres de profondeur|
 |Enceinte en bois|500 po|0|-|Mur de 2 m de hauteur|
 |Ecurie|2000 po|0|Une famille de palefrenier|S'occupe des montures |
-|Basse-cour|500 po|1d6 pa|Une famille|S'occupe des différents poulaillers|
-|Porcherie|500 po|1d6 po|Une famille|S'occupe des troupeaux de cochons|
-|Etable|1000 po|2d6 po|Une famille|S'occupe des troupeaux de bovins|
-|Bergerie|1000 po|2d6 pa|Une famille|S'occupe des troupeaux de ovins|
+|Basse-cour|500 po|10X6d6 pa|Une famille|S'occupe des différents poulaillers|
+|Porcherie|500 po|10x6d6 pa|Une famille|S'occupe des troupeaux de cochons|
+|Etable|1000 po|2X6d6 po|Une famille|S'occupe des troupeaux de bovins|
+|Bergerie|1000 po|20x6d6 pa|Une famille|S'occupe des troupeaux de ovins|
 * Les revenus sont entendus, charges et autres impôts déduits.
 
 Chaque élément de s'acquière qu'une seule fois, exception faite des fermes qui peuvent être acquises jusqu'au un nombre maximum de 10 + bonus de charisme du personnage.  

@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-  materials: "Cendre d'airelle"
+  materials: "airelle"
 ritual: false
 classes:
   - Magie
@@ -20,4 +20,5 @@ source: "Elric"
 ---
 **Coût** : 4 points de Magie ou de Foi  
 
-Le sorcier qui lance ce sort créé une atmosphère lourde et électrique de 18 mètres de rayon qui enlève 1 point d’action, de magie, de foi ou d'honneur tous les rounds aussi bien aux alliés qu’aux ennemis se trouvant dans la zone. Tout personne dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne se trouvant dans le rayon d'action doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».
+**Enchantement**. Le sorcier répand l’airelle coupée en plusieurs morceau dans la zone afin de l’enchanter
+Le sorcier qui lance ce sort créé une atmosphère lourde et électrique de 18 mètres de rayon qui enlève 1 point d’action, de magie, de foi ou d'honneur tous les rounds aussi bien aux alliés qu’aux ennemis se trouvant dans la zone. Tout le monde dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne se trouvant dans la zone doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».

@@ -179,11 +179,16 @@ Thorleik Aevarson possède l'équipement suivant :
 - couverture
 - dague (3)
 - hache d'arme
+- Rations (15)
 - tenue de voyageur
 - matériel d'herboriste
 - pique
 - Tente
-- 591 PC,  2834 PA, 13 PE, 484 PO, 34 PP.
+- 1491 PC
+- 7 404 PA
+- 13 PE
+- 830 PO
+- 53 PP.
 
 §§§ .hero
 ### <v-icon>mdi-halloween</v-icon> Composantes de sorts:  
@@ -217,26 +222,26 @@ Thorleik Aevarson possède l'équipement suivant :
 |Table des bâtiments & des ressources ddu quartier |||||||||||
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0d6 pp|1|
+|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
+|Basse-cour|0|0|-|0|0d6|0|0X10X6d6 pa|1/5 maisons|
+|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
+|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
 |Écurie|0|0|0|0|-|0|-|1/10 maisons|
 |Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
+|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
+|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
+|Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
+|Maison|2|0|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
+|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|0|0|0|0|-|0|0X9d6 pp|1|
+|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**20X6d6 pa**|**-**|
 
 **Colons** : 16  
 **Trésor** : 0

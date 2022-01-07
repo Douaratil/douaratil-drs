@@ -171,6 +171,7 @@ Gwion possède l'équipement suivant :
 - empeurine (7)(huille essentielle)
 - flèches (11)
 - grigris
+- grimoire
 - habits courant
 - hache
 - herbefolle (10) (herbe à fumer)
@@ -186,19 +187,26 @@ Gwion possède l'équipement suivant :
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
-- 4762 PC
-- 22 878 PA
+- 3862 PC
+- 12 878 PA
 - 44 PE
-- 1733 PO
-- 134 PP.  
+- 625 PO
+- 115 PP.  
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-halloween</v-icon> Composantes de sorts:  
-Perle de 100 po, une clochette enchantée.
-10 oeufs de cailles enchantés.  
-bout de ficelle et d’un morceau de bois enchanté.  
-un petit fil de cuivre enchanté.  
+- bout de ficelle
+- clochette enchantée
+- corne incrustée de pierreries (100 po)
+- encens (475 po)
+- gemme (1000po)
+- morceau de bois enchanté.  
+- perle (100 po)
+- petit fil de cuivre enchanté.
+
+
+
 
 §§§
 
@@ -237,26 +245,26 @@ un petit fil de cuivre enchanté.
 |Table des bâtiments & des ressources ddu quartier |||||||||||
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|1|1|-|0|2d6|2|1d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0d6 pp|1|
+|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
+|Basse-cour|1|1|-|0|2d6|2|1X10X6d6 pa|1/5 maisons|
+|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
+|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
 |Écurie|0|0|0|0|-|0|-|1/10 maisons|
 |Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
-|Four|1|1|-|-|1d6|2|1d6 pa|1/5 maisons|
-|Maison|4|4|-|-|-|20|4d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
+|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
+|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
+|Four|1|1|-|-|1d6|2|1X10X6d6 pa|1/5 maisons|
+|Maison|4|4|-|-|-|20|4X10X6d6 pa|Max=CHA+SAG|
+|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
+|Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**6**|**6**|**0**|**0**|**3d6**|**24**|**6d6 pa**|**-**|
+|Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|0|0|0|0|-|0|0X9d6 pp|1|
+|**Total**|**6**|**6**|**0**|**0**|**3d6**|**24**|**60X6d6 pa**|**-**|
 
 **Colons** : 28  
 **Trésor** : 0
@@ -280,10 +288,12 @@ un petit fil de cuivre enchanté.
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
+**Guilde des mages** : Novice 150 po/lune
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - Bas du dos (20 cm)
+- pied gauche (5 cm)
 
 §§§

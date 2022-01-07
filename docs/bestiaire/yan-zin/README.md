@@ -8,12 +8,12 @@ challenge: "6"
 customHP: "34"
 abilityScores:
   for: 13
-  dex: 15
+  dex: 16
   con: 10
   int: 10
   sag: 14
   cha: 10
-customSavingThrows: "for(•) +4, dex(•) +5, con(•) +3, int +0, sag(•) +5, cha +0"
+customSavingThrows: "for(•) +4, dex(•) +6, con(•) +3, int +0, sag(•) +5, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -21,22 +21,22 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "16 (Armure de cuir cloutée)"
+  value: "17 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
-    value: "acrobatie +2"
+    value: "acrobatie +3"
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
     value: "athlétisme(•) +4"
   - name: "custom"
-    value: "discretion +2"
+    value: "discretion +3"
   - name: "custom"
     value: "dressage(••) +8"
   - name: "custom"
     value: "Equitation(••) (dressage + empathie équestre) +9"
   - name: "custom"
-    value: "escamotage +2"
+    value: "escamotage +3"
   - name: "custom"
     value: "histoire +0"
   - name: "custom"
@@ -48,7 +48,7 @@ skills:
   - name: "custom"
     value: "nature +0"
   - name: "custom"
-    value: "percpetion(••) +8"
+    value: "perception(••) +8"
   - name: "custom"
     value: "Perspicacité +2"
   - name: "custom"
@@ -65,7 +65,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (2/0), le commun nordique, L'Alcane/Alcath (2/0 le commun impérial, le Minghour/Mingath (3/1) le commun oriental, le Yotaï/Tohaï (3/1) la langue des Yotakaï, le Yoth (3/1) un dialecte Yotakaï "
+  - "le Weslèdh (2/0), le commun nordique, L'Alcane/Alcath (2/0 le commun impérial, le Minghour/Mingath (3/1) le commun oriental, le Yotaï/Tohaï (3/1) la langue des Yotakaï, le Yoth (3/1) un dialecte Yotakaï, Sogh (2/0) "
 category: "PJ"
 ---
 ## Yan Zin
@@ -110,14 +110,14 @@ _**Ami équestre**_. *(Seibahkami)* À partir du niveau 7, vous avez une relatio
 
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).
+_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+3 dégâts tranchants (Finesse, légère).
 
-_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+2 dégâts tranchants (Finesse, légère, lancer 6/18).
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+3 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Arc long(••)**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 45/180.  
-_Touché_ : 2d6+4 dégâts perforants .
+_**Arc long(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 45/180.  
+_Touché_ : 2d6+5 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -140,6 +140,7 @@ Yan Zin possède l'équipement suivant :
 - dague
 - flèches (11)
 - insigne de cavalerie (officier en formation)
+- rations (6)
 - sabre oriental
 - Vêtement de bonne qualité
 - 10 500 PA
@@ -162,29 +163,29 @@ Yan Zin possède l'équipement suivant :
 |Table des bâtiments & des ressources ddu quartier |||||||||||
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0d6 pp|1|
+|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
+|Basse-cour|0|0|-|0|0d6|0|1X10X6d6 pa|1/5 maisons|
+|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
+|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
 |Écurie|0|0|0|0|-|0|-|1/10 maisons|
 |Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
+|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
+|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
+|Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
+|Maison|1|0|-|-|-|5|3X10X6d6 pa|Max=CHA+SAG|
+|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
+|Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
+|Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
+|Temple|0|0|0|0|-|0|0X9d6 pp|1|
+|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**50X6d6 pa**|**-**|
 
 
-**Colons** : 6  
+**Colons** : 14  
 **Trésor** : 0
 **Nourriture** : 0
 
