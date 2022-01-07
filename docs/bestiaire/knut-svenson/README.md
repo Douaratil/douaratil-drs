@@ -136,7 +136,7 @@ Knut possède l'équipement suivant :
 - pique
 - tente
 - tenue de voyageur
-- 200 PC,  100 PA, 0 PE, 50 PO, 0 PP.
+- 200 PC,  100 PA, 0 PE, 20 PO, 0 PP.
 §§§
 
 §§§ .hero

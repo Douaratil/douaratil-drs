@@ -172,7 +172,7 @@ Tiberius possède l'équipement suivant :
 - 200 PC
 - 12 948 PA
 - 36 PE
-- 7717 PO
+- 7667 PO
 - 5 PP.   
 
 §§§
@@ -243,6 +243,7 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 **Points de Foi** :10     
 **Points d'honneur** :45    
 **famille** : une amante et deux faux jumeaux   
+**Guilde des voleurs**: Novice 50po/lune   
 ## Avidia Collatinus
 &nbsp;
 [![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidiam.png)](https://www.douaratil.fr/illustrations/pnj/avidia.jpg)   

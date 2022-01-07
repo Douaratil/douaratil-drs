@@ -144,7 +144,7 @@ Yan Zin possède l'équipement suivant :
 - sabre oriental
 - Vêtement de bonne qualité
 - 10 500 PA
-- 2271 PO.    
+- 2211 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
