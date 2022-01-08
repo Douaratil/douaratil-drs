@@ -30,6 +30,9 @@ environments:
   - Montagnes
 
 ---
+## Ours charognard
+&nbsp;
+[![Ours charognard](https://www.douaratil.fr/illustrations/bete/ourscharognardm.png)](https://www.douaratil.fr/illustrations/bete/ourscharognard.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -1,15 +1,15 @@
 ---
-title: " Guerrier Sooghaï"
+title: " Guerrier Singhara"
 type: "Humanoïde"
-subtype: "Classe guerrière sooghaï"
+subtype: "Classe guerrière sooghaï de la caste Singhara"
 size: "M"
 alignment: "n'importe quel alignement chaotique"
-challenge: "5"
-customHP: "34"
+challenge: "7"
+customHP: "42"
 abilityScores:
-  for: 14
+  for: 16
   dex: 12
-  con: 14
+  con: 15
   int: 10
   sag: 10
   cha: 10
@@ -18,7 +18,7 @@ savingThrows:
   - "con"
 ac:
   armorType: "custom"
-  value: "13 (Bouclier)"
+  value: "12"
 skills:
   - name: "athletisme"
   - name: "intimidation"
@@ -28,15 +28,14 @@ movement:
 languages:
   - "Soogh"
 ---
-## Guerrier Sooghaï
+## Guerrier Singhara
 &nbsp;
-[![Guerrier Sooghaï](https://www.douaratil.fr/illustrations/humanoide/guerriersooghaim.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersooghai.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
+[![Guerrier Singhara](https://www.douaratil.fr/illustrations/humanoide/guerriersingharam.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersinghara.jpg)  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
-_**Style de combat Protection**_. Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.
-
+_**Style de combat Arme à deux mains**_. Quand vous faites 1 avec un dé pour une attaque avec une arme de corps-à-corps tenue à deux mains, vous pouvez lancer de nouveau le dé et vous devez utiliser ce second résultat, même s'il s'agit encore d'un 1. L'arme doit avoir la propriété à deux mains ou posséder la propriété polyvalente pour que vous puissiez bénéficier de cette aptitude.  
 
 _**Second souffle**_.
 Le pratiquant de la Voie des armes jouit d'une réserve limitée d'endurance dans laquelle il peut puiser afin de se protéger. Lors de son tour, il peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + 5. Une fois qu'il a  utilisé cette aptitude, il doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
@@ -44,11 +43,10 @@ Le pratiquant de la Voie des armes jouit d'une réserve limitée d'endurance dan
 _**Sursaut d'activité**_.
 Le pratiquant de la Voie des armes peut repousser ses propres limites pendant quelques instants. Lors de son tour, il peut faire une action supplémentaire en plus de son action normale et d'une éventuelle action bonus. Une fois cette aptitude utilisée , il doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
+**Techniques initiatiques de combat** : Même règle que les membres d'une guilde guerrière, le guerrier Singhara correspond à un rang disciple et obtient +1 aux dégâts avec une arme de prédilection la lance(l'arme est symbolique de la tribu)
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
 
-_**Casse tête**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchant.  
-
-_**Lance**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, portée 6/18.  
-_Touché_ : 2d6+2 dégâts perforants (polyvalente à deux mains 2d6+4).
+_**Lance**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, portée 6/18.  
+_Touché_ : 2d6+4 dégâts perforants . (polyvalente à deux mains 2d6+6)

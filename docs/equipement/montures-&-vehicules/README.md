@@ -28,6 +28,7 @@ On trouve dans l'univers du jeu d'autres montures que celles qui sont citées ic
 | **Éléphant** | 200&nbsp;po | 12&nbsp;m | 660&nbsp;kg |DD 22|
 | **Molosse** | 25&nbsp;po | 12&nbsp;m | 97,5&nbsp;kg |DD 16|
 | **Poney** | 30&nbsp;po | 12&nbsp;m | 112,5&nbsp;kg |DD 16|
+| **Tabordon** | 270&nbsp;po | 15&nbsp;m | 350&nbsp;kg |DD 22|
 
 ## Équipement, sellerie et véhicules à traction
 
