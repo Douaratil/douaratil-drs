@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "5"
-customHP: "23"
+challenge: "6"
+customHP: "25"
 abilityScores:
   for: 10
   dex: 13
   con: 13
-  int: 12
+  int: 14
   sag: 11
   cha: 9
-customSavingThrows: "for +0, dex(•) +3, con(•) +3, int(•) +3, sag(•) +2, cha +0"
+customSavingThrows: "for +0, dex(•) +4, con(•) +4, int(•) +5, sag(•) +3, cha +0"
 savingThrows:
   - "dex"
   - "con"
@@ -26,7 +26,7 @@ skills:
   - name: "custom"
     value: "acrobatie(•) +4"
   - name: "custom"
-    value: "arcanes(••) +7"
+    value: "arcanes(••) +8"
   - name: "custom"
     value: "athlétisme(•) +0"
   - name: "custom"
@@ -36,11 +36,11 @@ skills:
   - name: "custom"
     value: "escamotage +1"
   - name: "custom"
-    value: "histoire(•) +4"
+    value: "histoire(•) +5"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
-    value: "investigation +1"
+    value: "investigation +2"
   - name: "custom"
     value: "medecine +0"
   - name: "custom"
@@ -52,7 +52,7 @@ skills:
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
-    value: "religion +1"
+    value: "religion +2"
   - name: "custom"
     value: "representation(•) +2"
   - name: "custom"
@@ -165,7 +165,7 @@ Shin Hame possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 13 148     
+**XP acquis** : 19 140    
 **Points de Magie** :22  
 **Points de Foi** :21   
 **Points d'honneur** :24    

@@ -191,7 +191,7 @@ Lôchetos possède l'équipement suivant :
 - 6314 PC
 - 10 122 PA
 - 750 PE
-- 12 054 PO
+- 11 994 PO
 - 70 PP  
 §§§
 
@@ -219,7 +219,7 @@ Lôchetos possède l'équipement suivant :
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|2|2|-|0|2X2d6|4|2X10X6d6 pa|1/5 maisons|
+|Basse-cour|3|3|-|0|3X2d6|4|3X10X6d6 pa|1/5 maisons|
 |Bergerie|2|2|-|0|2X2d6|4|2X20X6d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
@@ -227,19 +227,19 @@ Lôchetos possède l'équipement suivant :
 |Écurie|0|0|0|0|-|0|-|1/10 maisons|
 |Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0X2X6d6|0|0d6 po|1/10 maisons|
+|Étable|1|+2|-|-2|1X2X6d6|0|1X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
 |Four|2|2|-|-|2X1d6|4|2X10X6d6 pa|1/5 maisons|
-|Maison|8|8|-|-|-|40|8X10X6d6 pa|Max=CHA+SAG|
+|Maison|9|9|-|-|-|45|9X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
-|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
+|Puits|1|+0|-|+3|1X1d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**4**|**4**|**0**|**0**|**10d6**|**48**|**140X6d6 pa**|**-**|
+|**Total**|**17**|**18**|**0**|**+1**|**25d6**|**59**|**4X6d6 po, 180X6d6 pa**|**-**|
 
-**Colons** : 48    
+**Colons** : 57    
 **Trésor** : 0  
 **Nourriture** : 0  
 

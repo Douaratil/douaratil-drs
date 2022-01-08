@@ -3,17 +3,17 @@ title: "Thorleik Aevarson"
 type: "PJ"
 subtype: "Melg"
 size: "M"
-alignment: "chaotique bon"
-challenge: "11"
-customHP: "34"
+alignment: "Loyal bon"
+challenge: "12"
+customHP: "36"
 abilityScores:
   for: 12
-  dex: 10
+  dex: 12
   con: 12
   int: 16
   sag: 16
   cha: 10
-customSavingThrows: "for +1, dex +0, con +1, int(••) +11, sag(••) +11, cha +0 "
+customSavingThrows: "for +1, dex +1, con +1, int(••) +11, sag(••) +11, cha +0 "
 savingThrows:
   - "int"
   - "int"
@@ -24,17 +24,17 @@ ac:
   value: "17 (armure de cuir cloutée & bouclier)"
 skills:
   - name: "custom"
-    value: "acrobatie +0"
+    value: "acrobatie +1"
   - name: "custom"
     value: "arcanes +3"
   - name: "custom"
     value: "athlétisme +1"
   - name: "custom"
-    value: "discrétion +0"
+    value: "discrétion +1"
   - name: "custom"
     value: "dressage +3"
   - name: "custom"
-    value: "escamotage +0"
+    value: "escamotage +1"
   - name: "custom"
     value: "histoire +3"
   - name: "custom"
@@ -139,25 +139,27 @@ Progression du compagnon
 |:-:|:-:|:-:|
 |**Hibou**|Vue|Désavantage le jour, mais vision dans le noir à 36 mètres|
 
+_**Rage bestiale**_. *(Herredyr)* Dès le niveau 12, votre allégeance bestiale vous permet développer la rage bestiale qui représente votre capacité de survie et combat. Vos dégâts sont augmenté de 1d6. Au niveau 16, les dégâts passent à 2d6 et enfin 3d6 au niveau 20.   
+
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1).  
-_Touché_ : 4 dégâts contondant (polyvalent 6 à deux mains)  
+_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
+_Touché_ : 3d6+1 dégâts contondant (polyvalent 3d6+3 à deux mains, rage bestiale)  
 
-_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher (Bm +4, Bm+4, For +1), allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (portée 6/18).   
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+1 dégâts tranchants (portée 6/18), rage bestiale.   
 
-_**Epée longue**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).  
+_**Epée longue(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
 
-_**Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher , allonge 1,50 m, une cible.  
+_Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
 
-_**Pique**_. _Attaque d'arme au corps à corps_ : +5 pour toucher (Bm+4, For +1), allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants (lourde, allonge, à deux mains).  
+_**Pique(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -257,10 +259,11 @@ Thorleik Aevarson possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 98 093  
+**XP acquis** : 108 833  
 **Points de Magie** :16   
 **Points de Foi** :60    
-**Points d'honneur** :32      
+**Points d'honneur** :34      
+**Voie d'éveil**: Voie de l'ascension.  
 §§§
 
 §§§ .hero

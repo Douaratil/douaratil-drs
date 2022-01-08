@@ -3,17 +3,17 @@ title: "Yan Zin"
 type: "PJ"
 subtype: "Yotakaï"
 size: "M"
-alignment: "Chaotique neutre"
-challenge: "6"
-customHP: "34"
+alignment: "Loyal bon"
+challenge: "8"
+customHP: "42"
 abilityScores:
   for: 13
-  dex: 16
+  dex: 18
   con: 10
   int: 10
   sag: 14
   cha: 10
-customSavingThrows: "for(•) +4, dex(•) +6, con(•) +3, int +0, sag(•) +5, cha +0"
+customSavingThrows: "for(•) +4, dex(•) +7, con(•) +3, int +0, sag(•) +5, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -24,19 +24,19 @@ ac:
   value: "17 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
-    value: "acrobatie +3"
+    value: "acrobatie +4"
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
     value: "athlétisme(•) +4"
   - name: "custom"
-    value: "discretion +3"
+    value: "discretion +4"
   - name: "custom"
     value: "dressage(••) +8"
   - name: "custom"
     value: "Equitation(••) (dressage + empathie équestre) +9"
   - name: "custom"
-    value: "escamotage +3"
+    value: "escamotage +4"
   - name: "custom"
     value: "histoire +0"
   - name: "custom"
@@ -106,18 +106,20 @@ _**Empathie équestre**_. *(Seibahkami)* À partir du niveau 5, vous êtes telle
 _**Ami équestre**_. *(Seibahkami)* À partir du niveau 7, vous avez une relation puissante avec votre monture. Elle n’accepte que vous comme cavalier. Vous pouvez la laisser vaquer sans craindre de la perdre et il vous suffit de siffler et le cheval rapplique le plus rapidement possible. La portée est de 10 mètres de rayon par niveau.  
  D’autre part, le personnage peut monter sur sa monture alors qu’elle passe au galop devant lui en tant qu’action bonus. Il peut même le faire en sautant d’un toit ou d’une hauteur et ceci est considéré comme une manœuvre à cheval donc bénéficie du bonus de Kyōkan Jōba (Empathie équestre).  
 
+_**Tir lointain**_. *(Seibahkami)* À partir du niveau 8, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche au double de sa portée.  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+3 dégâts tranchants (Finesse, légère).
+_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+4 dégâts tranchants (Finesse, légère).
 
-_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+3 dégâts tranchants (Finesse, légère, lancer 6/18).
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-_**Arc long(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 45/180.  
-_Touché_ : 2d6+5 dégâts perforants .
+_**Arc long(••)**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
+_Touché_ : 2d6+6 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -138,13 +140,13 @@ Yan Zin possède l'équipement suivant :
 - [broche de protection](/liste-objets-magiques/broche-de-protection)
 - cheval
 - dague
-- flèches (11)
+- flèches (7)
 - insigne de cavalerie (officier en formation)
 - rations (6)
 - sabre oriental
 - Vêtement de bonne qualité
-- 10 500 PA
-- 2211 PO.    
+- 11 300 PA
+- 2357 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -202,10 +204,11 @@ Yan Zin possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 25 812        
+**XP acquis** : 37 797        
 **Points de Magie** :10  
 **Points de Foi** :14        
-**Points d'honneur** :29     
+**Points d'honneur** :31  
+**Voie d'éveil**: Voie de l'ascension     
 §§§
 
 §§§ .hero

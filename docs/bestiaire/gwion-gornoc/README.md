@@ -188,7 +188,7 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3862 PC
-- 13 718 PA
+- 18 788 PA
 - 44 PE
 - 2915 PO
 - 89 PP.  
@@ -246,8 +246,8 @@ Gwion possède l'équipement suivant :
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|1|1|-|0|2d6|2|1X10X6d6 pa|1/5 maisons|
-|Bergerie|1|0|-|-1|2d6|2|0X20X6d6 pa|1/5 maisons|
+|Basse-cour|1|1|-|0|1X2d6|2|1X10X6d6 pa|1/5 maisons|
+|Bergerie|1|1|-|-1|1X2d6|2|1X20X6d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
@@ -256,17 +256,17 @@ Gwion possède l'équipement suivant :
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
-|Four|2|2|-|-|2d6|2|2X10X6d6 pa|1/5 maisons|
-|Maison|5|5|-|-|-|25|5X10X6d6 pa|Max=CHA+SAG|
+|Four|2|2|-|-|2X2d6|2|2X10X6d6 pa|1/5 maisons|
+|Maison|6|6|-|-|-|25|6X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**6**|**8**|**0**|**0**|**6d6**|**31**|**100X6d6 pa**|**-**|
+|**Total**|**10**|**10**|**0**|**0**|**6d6**|**31**|**110X6d6 pa**|**-**|
 
-**Colons** : 33  
+**Colons** : 37  
 **Trésor** : 0
 **Nourriture** : 28
 
