@@ -248,7 +248,7 @@ Lôchetos possède l'équipement suivant :
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-27|-22|**-49**|
+|10 --->|+0|0|+1|-0|-0|**+1**|
 §§§
 
 §§§ .hero
