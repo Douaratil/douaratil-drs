@@ -1,5 +1,5 @@
 ---
-title: "Crocodile géant"
+title: "Croccanonda"
 type: "Bête"
 size: "TG"
 alignment: "non-alignée"
@@ -36,10 +36,10 @@ environments:
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Retenir son souffle**_. Le crocodile peut retenir son souffle pendant 30 minutes.
+_**Retenir son souffle**_. Le Croccanonda peut retenir son souffle pendant 30 minutes.
 
 ## Actions
-_**Attaques multiples**_. Le crocodile effectue deux attaques : une avec sa morsure et une avec sa queue.
+_**Attaques multiples**_. Le Croccanonda effectue deux attaques : une avec sa morsure et une avec sa queue.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 5d6+5 dégâts perforants et la cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 16). Jusqu'à la fin de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave) et le crocodile ne peut pas mordre une autre cible.
