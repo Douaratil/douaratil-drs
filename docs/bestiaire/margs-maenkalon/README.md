@@ -180,7 +180,7 @@ Margs possède l'équipement suivant :
 - 4619 PC
 - 9183 PA
 - 36 PE
-- 5276 PO
+- 5226 PO
 - 0 PP.  
 §§§
 
@@ -245,6 +245,7 @@ Margs possède l'équipement suivant :
 **Points de Magie** :8   
 **Points de Foi** :17    
 **Points d'honneur** :41    
+**Guilde des guerrier** Novice 50po/lune.  
 §§§
 
 §§§ .hero
