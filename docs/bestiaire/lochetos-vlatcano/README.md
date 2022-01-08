@@ -191,7 +191,7 @@ Lôchetos possède l'équipement suivant :
 - 6314 PC
 - 10 122 PA
 - 750 PE
-- 11 994 PO
+- 7 231 PO
 - 70 PP  
 §§§
 
