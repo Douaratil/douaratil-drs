@@ -4,12 +4,12 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "13"
-customHP: "51"
+challenge: "14"
+customHP: "56"
 abilityScores:
   for: 14
   dex: 20
-  con: 12
+  con: 14
   int: 10
   sag: 10
   cha: 12
@@ -69,7 +69,7 @@ category: "PJ"
 ## Tiberius Don Alonzo
 &nbsp;
 [![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberiusm.png)](https://www.douaratil.fr/illustrations/pj/tiberius.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 12          
+**<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon>Capacités
 **Historique** :Bâtard.    
@@ -113,6 +113,11 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 _**Châtiment amélioré**_. *(Astartes)* Au niveau 11, vous débordez tellement de vertu que tous les coups que vous portez avec vos armes de corps-à-corps sont alimentés par votre Foi. Quand vous touchez un adversaire avec une arme de corps-à-corps, celle-ci subit 2d6 dégâts supplémentaires. Si vous utilisez aussi votre châtiment lors d'une attaque, vous additionnez ces dégâts aux dégâts supplémentaires de votre châtiment.  
 
 _**Chevalier sans peur**_. *(Astartes)* Au niveau 13, lorsque vous combattez avec ferveur, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque sur chaque attaque effectuée après un déplacement d'au moins 6 mètres et, si vous blessez un adversaire, elle doit réaliser un jet de sauvegarde de Force ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre) (voir la section Combat monté si la cible est elle-même sur une monture).  
+
+_**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.  
+
+_**Contact purifiant**_. *(Astartes)* À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.  
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
@@ -170,9 +175,9 @@ Tiberius possède l'équipement suivant :
 - silex
 - torches (20)
 - 200 PC
-- 12 948 PA
+- 19 071 PA
 - 36 PE
-- 7667 PO
+- 8558 PO
 - 5 PP.   
 
 §§§
@@ -220,7 +225,7 @@ petite maison à Ker-Saozon.
 
 **Colons** : 75  
 **Trésor** : 0   
-**Nourriture** : 75  
+**Nourriture** : 150  
 
 
 ### Modificateur d'évènement  
@@ -229,7 +234,7 @@ petite maison à Ker-Saozon.
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
 |13 --->|0|0|3|0|40|**-37**|  
 
-Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commises par leur membre , ils sont punis. SInon, il sont une rente de 20 po/lune et une exemption de corvée.
+Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commises par leur membre , ils sont punis. Sinon, il sont une rente de 20 po/lune et une exemption de corvée.
 - Recherche de ceps matures (8-10 ans) gravières, syrats...)
 
 §§§
@@ -238,12 +243,13 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 138 489     
+**XP acquis** : 146 544
 **Points de Magie** :10   
 **Points de Foi** :10     
-**Points d'honneur** :45    
+**Points d'honneur** :47    
 **famille** : une amante et deux faux jumeaux   
 **Guilde des voleurs**: Novice 50po/lune   
+**Voie d'éveil**: Voie médiane  
 ## Avidia Collatinus
 &nbsp;
 [![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidiam.png)](https://www.douaratil.fr/illustrations/pnj/avidia.jpg)   

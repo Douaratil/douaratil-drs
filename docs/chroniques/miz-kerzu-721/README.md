@@ -37,6 +37,9 @@ Sur ces mots, le sorcier fait signe aux hommes restés derrière lui afin de pr�
 
 Sur ces mots, et après les remerciements chaleureux du clan Aevarson, ils repartirent dans leur clan.   
 
+**3 Miz Kerzu**   
+Aujourd’hui, Lochetos reçoit la visite de Gwion qui lui demande son assistance, afin de négocier le prix de l’acquisition d’un objet de grande valeur. Bien entendu, le llawenos accepte de l’aider, et lui demande en échange de lui enseigner un de ses rituels. L’ambeanamos accepte, à condition qu’ils partent au plus vite vers la Ville Blanche, Luat’albarh.  
+
 **4 Miz Kerzu**  
 Le convois pour Luat’albarh part de la colonie au petit matin, accompagné de [Gwion](/bestiaire/gwion-gornoc) et [Lôchetos](/bestiaire/lochetos-vlatcano), ainsi que de [Margs](/bestiaire/margs-maenkalon)  [Sawrina](/bestiaire/sawrina-semiramis) afin de veiller sur le bon déroulement du voyage et des commerces. Le sorcier voyage exclusivement dans une caravane tirée par des bêtes, où il y reste pour étudier ses grimoires. La route est encore longue pour rejoindre la ville, et ils ne reviendront pas avant une quinzaine de jour.   
 ## Luat’albarh   
@@ -56,23 +59,23 @@ Le convois part de la ville et rentre à la colonie après de bonnes affaires.
 **18 Miz Kerzu**  
 Le sorcier commence à enseigner le rituel messager animal à [Lôchetos](/bestiaire/lochetos-vlatcano). Après de nombreuses heures de travail, le novice dans l’art finit par s’impatienter et dit :   
 
-- *Tu n’es vraiment pas un bon professeur !*.  
+*- Tu n’es vraiment pas un bon professeur !*.  
 
 Sur ces mots, l’ambeanamos se raidit et réplique :     
 *- J’arrête là ton apprentissage si tu ne présentes pas tes plus plates excuses !*   
- *- C'est plutôt toi qui devrais t'excuser, tu ne sais pas aligner deux mots et tes explications sont incompréhensibles*, se moque-t-il de [Gwion](/bestiaire/gwion-gornoc).  
+*- C'est plutôt toi qui devrais t'excuser, tu ne sais pas aligner deux mots et tes explications sont incompréhensibles*, se moque-t-il de [Gwion](/bestiaire/gwion-gornoc).  
 *- Ahah, c’est ce qu’il dit alors qu’il ne comprend pas les notions les plus simples de mon art !* Se renfrogne le sorcier.    
 
 Le convoi s’arrête à cause de la dispute des deux camarades. Tous les yeux sont braqués sur [Gwion](/bestiaire/gwion-gornoc) et [Lôchetos](/bestiaire/lochetos-vlatcano), faisant perdre un court instant les moyens du barde malgré son habitude à être sous tout les regards. [Lôchetos](/bestiaire/lochetos-vlatcano) reprit afin de convaincre [Gwion](/bestiaire/gwion-gornoc) :    
 *- Allons mon ami, cessons nos enfantillages et retournons au travail *.   
 Sa sagesse n’est pas sans effet sur le sorcier, qui semble se radoucir. Cependant, [Gwion](/bestiaire/gwion-gornoc) murmure quelque chose. Le sorcier semble devenir soudainement imposant, sa voix devient beaucoup plus puissante, et soutenir le regard du sorcier semble difficile voire impossible. Il lui lance d’un air vantard :    
-- * Contemple ma puissance ! Celle dont tu ne pourras pas avoir accès à cause de ta prétention ! *. Ce dernier argument a presque raison de [Lôchetos](/bestiaire/lochetos-vlatcano), mais celui ci garde son honneur et fait une nouvelle fois appel à sa sagesse :  
+*- Contemple ma puissance ! Celle dont tu ne pourras pas avoir accès à cause de ta prétention !*. Ce dernier argument a presque raison de [Lôchetos](/bestiaire/lochetos-vlatcano), mais celui ci garde son honneur et fait une nouvelle fois appel à sa sagesse :  
 
 *-  Le temps file et nous nous ridiculisons devant les membres de la troupe, oublions cette petite querelle et apprend moi ce fichu sort*.  
 
 Bien que mécontent, [Gwion](/bestiaire/gwion-gornoc) se voit forcé de donner raison à [Lôchetos](/bestiaire/lochetos-vlatcano), et compte poursuivre son enseignement le lendemain.     
 
-**19 Miz Kerzu **
+**19 Miz Kerzu**  
 Une nouvelle fois, [Lôchetos](/bestiaire/lochetos-vlatcano) se montre incapable de comprendre correctement les explications de [Gwion](/bestiaire/gwion-gornoc) pourtant simples. Exaspéré, le sorcier prend cependant sur lui pour ne pas recommencer une scène similaire de celle de la veille.   
 
 **20 Miz Kerzu**  

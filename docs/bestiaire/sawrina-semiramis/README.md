@@ -226,10 +226,11 @@ Sawrina possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 169 751
+**XP acquis** : 176 931
 **Points de Foi** :17   
 **Points d'honneur** :45
 **Guilde des voleurs** Novice 50po/lune
+**Voie del'éveil**: Voie médiane
 §§§
 
 §§§ .hero

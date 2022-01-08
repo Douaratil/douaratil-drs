@@ -187,7 +187,9 @@ Alf Swenbjörnson possède l'équipement suivant :
 **XP acquis** : 64 994  
 **Points de Magie** :10      
 **Points de Foi** :14      
-**Points d'honneur** :28        
+**Points d'honneur** :28      
+
+**Mort le 10 Kerzu 722 sur le lac Ichibi à Idolobha Elikhulu au côté de Rudolf Bernsen en luttant contre les guerriers Singhara et les guerrière Otnagha.**  
 
 
 §§§

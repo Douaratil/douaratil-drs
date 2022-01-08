@@ -3,7 +3,7 @@ title: "Gwion Gornoc"
 type: "PJ"
 subtype: "Meldète"
 size: "M"
-alignment: "Neutre mauvais"
+alignment: "Neutre"
 challenge: "14"
 customHP: "44"
 abilityScores:
@@ -188,10 +188,10 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3862 PC
-- 12 878 PA
+- 13 718 PA
 - 44 PE
-- 625 PO
-- 115 PP.  
+- 2915 PO
+- 89 PP.  
 §§§
 
 §§§ .hero
@@ -223,11 +223,11 @@ Gwion possède l'équipement suivant :
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
-[Réservoir arcanique](/grimoire/reservoir-arcanique)
+[Brise os](/grimoire/brise-os), [Réservoir arcanique](/grimoire/reservoir-arcanique)
 
 **Sorts possédés à apprendre** :
 
-- Apprenti : Brise os, Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, , Restauration supérieur, Scrutation.  
+- Apprenti : Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, , Restauration supérieur, Scrutation.  
 §§§
 
 §§§ .hero
@@ -247,7 +247,7 @@ Gwion possède l'équipement suivant :
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
 |Basse-cour|1|1|-|0|2d6|2|1X10X6d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
+|Bergerie|1|0|-|-1|2d6|2|0X20X6d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
@@ -256,17 +256,17 @@ Gwion possède l'équipement suivant :
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
-|Four|1|1|-|-|1d6|2|1X10X6d6 pa|1/5 maisons|
-|Maison|4|4|-|-|-|20|4X10X6d6 pa|Max=CHA+SAG|
+|Four|2|2|-|-|2d6|2|2X10X6d6 pa|1/5 maisons|
+|Maison|5|5|-|-|-|25|5X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**6**|**6**|**0**|**0**|**3d6**|**24**|**60X6d6 pa**|**-**|
+|**Total**|**6**|**8**|**0**|**0**|**6d6**|**31**|**100X6d6 pa**|**-**|
 
-**Colons** : 28  
+**Colons** : 33  
 **Trésor** : 0
 **Nourriture** : 28
 
@@ -281,7 +281,7 @@ Gwion possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 148 605       
+**XP acquis** : 157 230       
 **Points de Magie** :76   
 **Points de Foi** :18    
 **Points d'honneur** :47          
@@ -289,6 +289,7 @@ Gwion possède l'équipement suivant :
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
 **Guilde des mages** : Novice 150 po/lune
+**Eveil**: Voie médiane
 §§§
 
 §§§ .hero

@@ -241,11 +241,12 @@ Margs possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
-**XP acquis** : 150 505  
+**XP acquis** : 155 335
 **Points de Magie** :8   
 **Points de Foi** :17    
 **Points d'honneur** :41    
 **Guilde des guerrier** Novice 50po/lune.  
+** Voie d'éveil**:
 §§§
 
 §§§ .hero

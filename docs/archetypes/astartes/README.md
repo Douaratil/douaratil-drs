@@ -80,7 +80,7 @@ Au niveau 13, lorsque vous combattez avec ferveur, vous obtenez un [_avantage_](
 ### Contact purifiant   
 **En Alcante : Tangere Integro**    
 À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.  
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s.  
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux [_repos longs_](/gerer-la-sante-du-personnage/#repos-long).  
 
 ### Chevalier prestigieux  
 **En Alcante : Equès Gloriosum**   

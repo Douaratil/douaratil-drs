@@ -226,6 +226,7 @@ Rudolf possède l'équipement suivant :
 
 Rudolf vient d'avoir une petite fille née en Miz Genver.   
 La valeur naturelle de Force de Rudolf est de 16.  
+**Mort le 10 Kerzu 722 sur le lac Ichibi à Idolobha Elikhulu au côté de Alf Swenbjörnson en luttant contre les guerriers Singhara et les guerrière Otnagha.**  
 §§§
 
 §§§ .hero
