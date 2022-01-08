@@ -21,10 +21,10 @@ Cette pyramide est la trace d'une ancienne civilisation. Son nom signifie la sé
 Grand lac peu profond, riche en poisson avec de grandes étendues de roseaux.   
 
 ## Idolobha elikhulu  
-Cette grande cité Sooghaï se situe au nord des royaumes Sooghaïs et est tenue par des grands chefs de guerre qui commercent avec les Ashkémites (esclaves, ivoire, bois préciuex, animaux exotiques....).   
+Cette grande cité Sooghaï se situe au nord des royaumes Sooghaïs et est tenue par des grands chefs de guerre qui commercent avec les Ashkémites (esclaves, ivoire, bois précieux, animaux exotiques....).   
 
 ## Ihlathi Lesihogo  
-Littéralement la "forêt infernale" en langue Soogh. Jungle impénétrable remplie de dangers inombrables.
+Littéralement la "forêt infernale" en langue Soogh. Jungle impénétrable remplie de dangers innombrables.
 
 ## Jazirham  
 L'île rouge.
