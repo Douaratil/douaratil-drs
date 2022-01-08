@@ -23,6 +23,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Bestiaire : ajout du [Guerrière Otnagha élite](/bestiaire/guerriere-otnagha-elite)
 - Bestiaire : ajout du [Tabordon](/bestiaire/guerrier-tabordon)
 - Bestiaire : ajout de l'illustration de l'[ours charognard](/bestiaire/ours-charognard)
+- Mise à jour des chronique de [Miz Kerzu 721](/chroniques/miz-kerzu-721)
 
 Bon jeu.  
 §§§ .text-right
