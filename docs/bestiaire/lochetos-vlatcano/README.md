@@ -269,3 +269,7 @@ Achat de quatre grandes barques
 tentes et vêtements adaptés a la vie dans le désert + matos essentiel pour la récolte d’eau
 
 §§§
+
+## Kahina ult Bouhen
+&nbsp;
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
