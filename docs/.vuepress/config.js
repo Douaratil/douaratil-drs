@@ -790,9 +790,9 @@ module.exports = {
                 path: '/chroniques/miz-kerzu-721'
               },
               {
-                title: "Miz Genver 721",
+                title: "Miz Genver 722",
                 icon: 'mdi-script-text',
-                path: '/chroniques/miz-genver-721'
+                path: '/chroniques/miz-genver-722'
               }
             ]
           },
