@@ -788,6 +788,11 @@ module.exports = {
                 title: "Miz Kerzu 721",
                 icon: 'mdi-script-text-outline',
                 path: '/chroniques/miz-kerzu-721'
+              },
+              {
+                title: "Miz Genver 721",
+                icon: 'mdi-script-text',
+                path: '/chroniques/miz-genver-721'
               }
             ]
           },

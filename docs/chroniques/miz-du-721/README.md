@@ -22,6 +22,8 @@ Cette section raconte les aventures de :
 Telles qu'elles ont été rapportées.
 
 §§§
+## Madinalajnibh   
+
 **1 Miz Du**  
 [L’ambeanamos](bestiaire/gwion-gornoc) se fait discret ces derniers temps dans la colonie et se concentre sur l’étude du grimoire acheté à Courdoes. Bien qu’absent de la vie active, il prend soin d’être vu plusieurs fois chez les colons pour garder une influence grâce à sa visibilité, d’autant plus que sa place au sein du conseil lui donne un rôle tout particulier à assumer auprès des autres colons.  
 
@@ -83,6 +85,7 @@ Le soir, un banquet est organisé et quelques chêvres sont sacrifiés et passé
 [Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) racontent aussi qu'ils ont acheté à un marchand dans le Sud des parchemins parlant aussi de cette étrange pyramide. Ils racontent aussi la visite des terres Sooghaïs, de la découverte d'une jungle appelée Ihlathi Lesihogo avec au nord, une grande cité du nom d'Idolobha Elikhulu qui surplombre le lac Ichibi.   
 Les anecdotes et les récits dés aventure s'enchainent toute la soirée, [Tibérius](bestiaire/tiberius-don-alonzo) enjolive ses exploits sous le regard attendri de son épouse qui porte ses deux enfants endormis.  
 
+## Dif’alquadim  
 **28 Miz Du**  
 Le lendemain, les compagnons se réunissent et décident de monter une expédition pour découvrir les mystères de Dif’alquadim.
 
