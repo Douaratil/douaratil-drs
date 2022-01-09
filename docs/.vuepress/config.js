@@ -545,9 +545,9 @@ module.exports = {
             icon: 'mdi-castle',
             children: [
               {
-                title: "L'ascension",
+                title: "L'éveil",
                 icon: 'mdi-debian',
-                path: '/ascension'
+                path: '/eveil'
               },
               {
                 title: "Gestion de l'honneur",

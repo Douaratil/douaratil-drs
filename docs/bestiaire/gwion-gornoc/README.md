@@ -256,15 +256,15 @@ Gwion possède l'équipement suivant :
 |Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
-|Four|2|2|-|-|2X2d6|2|2X10X6d6 pa|1/5 maisons|
-|Maison|6|6|-|-|-|25|6X10X6d6 pa|Max=CHA+SAG|
+|Four|2|2|-|-|2X1d6|4|2X10X6d6 pa|1/5 maisons|
+|Maison|6|6|-|-|-|30|6X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**10**|**10**|**0**|**0**|**6d6**|**31**|**110X6d6 pa**|**-**|
+|**Total**|**10**|**10**|**0**|**0**|**6d6**|**38**|**110X6d6 pa**|**-**|
 
 **Colons** : 37  
 **Trésor** : 0
@@ -274,7 +274,7 @@ Gwion possède l'équipement suivant :
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|20 --->|0|0|0|0|0|**0**|
+|24 --->|+1|0|-1|0|0|**+0**|
 §§§
 
 §§§ .hero

@@ -136,7 +136,11 @@ Knut possède l'équipement suivant :
 - pique
 - tente
 - tenue de voyageur
-- 200 PC,  100 PA, 0 PE, 20 PO, 0 PP.
+- 200 PC
+- 100 PA
+- 0 PE
+- 20 PO
+- 0 PP.
 §§§
 
 §§§ .hero
@@ -166,17 +170,17 @@ Knut possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1X10X6d6 pa|Max=CHA+SAG|
+|Maison|4|0|-|-|-|20|4X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**10X6d6 pa**|**-**|
+|**Total**|**4**|**4**|**0**|**0**|**-**|**20**|**40X6d6 pa**|**-**|
 
-**Colons** : 31  
-**Trésor** : 0
+**Colons** : 41  
+**Trésor** : 1060 pa
 **Nourriture** : 0
 
 
@@ -184,7 +188,7 @@ Knut possède l'équipement suivant :
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-31|-26|**-57**|
+|12 --->|0|0|0|-41|-21|**-62**|
 §§§
 
 §§§ .hero

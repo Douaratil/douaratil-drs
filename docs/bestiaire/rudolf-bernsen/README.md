@@ -194,7 +194,7 @@ Rudolf possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|1|+3|+3|-1|-|0|1X4X6d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|2|+2|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
+|Maison|2|+2|-|-|-|10|2X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
