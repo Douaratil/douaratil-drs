@@ -207,7 +207,7 @@ Margs possède l'équipement suivant :
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0X10X6d6 pa|1/5 maisons|
+|Basse-cour|2|2|-|0|4d6|0|2X10X6d6 pa|1/5 maisons|
 |Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
@@ -218,24 +218,24 @@ Margs possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|2|2|-|-|-|10|2X10X6d6 pa|Max=CHA+SAG|
+|Maison|4|4|-|-|-|20|4X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**20X6d6 pa**|**-**|
+|**Total**|**6**|**6**|**0**|**0**|**4d6**|**20**|**40X6d6 pa**|**-**|
 
-**Colons** : 47  
-**Trésor** : 0
-**Nourriture** : 0
+**Colons** : 63  
+**Trésor** : 880 pa
+**Nourriture** : 9
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-47|-42|**-99**|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|15 --->|0|0|0|-52|-43|**-95**|-10|
 §§§
 
 §§§ .hero
@@ -246,7 +246,7 @@ Margs possède l'équipement suivant :
 **Points de Foi** :17    
 **Points d'honneur** :41    
 **Guilde des guerrier** Novice 50po/lune.  
-** Voie d'éveil**:
+**Voie d'éveil**:Voie médiane  
 §§§
 
 §§§ .hero

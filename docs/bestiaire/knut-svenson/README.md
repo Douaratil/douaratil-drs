@@ -187,8 +187,8 @@ Knut possède l'équipement suivant :
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|12 --->|0|0|0|-41|-21|**-62**|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|12 --->|0|0|0|-41|-21|**-62**|-6|
 §§§
 
 §§§ .hero

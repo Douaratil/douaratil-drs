@@ -252,8 +252,8 @@ Thorleik Aevarson possède l'équipement suivant :
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|-3|-1|-16|-6|**-26**|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|11 --->|0|-3|-1|-16|-6|**-26**|-3|
 §§§
 
 §§§ .hero

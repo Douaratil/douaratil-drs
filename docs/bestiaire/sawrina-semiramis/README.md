@@ -202,24 +202,24 @@ Sawrina possède l'équipement suivant :
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
 |Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|2|0|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
+|Maison|3|3|-|-|-|15|3X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
 |Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**2**|**2**|**0**|**0**|**-**|**10**|**20X6d6 pa**|**-**|
+|**Total**|**3**|**3**|**0**|**0**|**-**|**15**|**30X6d6 pa**|**-**|
 
-**Colons** : 38  
-**Trésor** : 0
+**Colons** : 45  
+**Trésor** : 720 pa
 **Nourriture** : 0
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|12 --->|0|0|0|0|-28|**-28**|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|13 --->|0|0|0|-45|-30|**-75**|-8|
 §§§
 
 §§§ .hero

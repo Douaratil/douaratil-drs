@@ -231,8 +231,8 @@ petite maison à Ker-Saozon.
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|13 --->|0|0|3|0|40|**-37**|  
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|13 --->|0|0|3|0|40|**-37**|-4|
 
 Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commises par leur membre , ils sont punis. Sinon, il sont une rente de 20 po/lune et une exemption de corvée.
 - Recherche de ceps matures (8-10 ans) gravières, syrats...)

@@ -273,8 +273,8 @@ Gwion possède l'équipement suivant :
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|24 --->|+1|0|-1|0|0|**+0**|
+|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
+|24 --->|+1|0|-1|0|0|**+0**|+0|
 §§§
 
 §§§ .hero
