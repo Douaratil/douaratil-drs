@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-materials: "Des conditions pluvieuses doivent être réunies"
+  materials: "Des conditions pluvieuses doivent être réunies"
 ritual: false
 classes:
     - Foi

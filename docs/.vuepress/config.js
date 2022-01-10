@@ -419,6 +419,11 @@ module.exports = {
                   icon: 'mdi-baguette',
                   path: '/equipement/depenses-courantes',
                 },
+              {
+                  title: "Composants magiques",
+                  icon: 'mdi-auto-fix',
+                  path: '/equipement/composants-magiques',
+                },
             ]
           },
           {

@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-materials: "Poussière d’améthyste"
+  materials: "Poussière d’améthyste"
 ritual: false
 classes:
     - Magie
