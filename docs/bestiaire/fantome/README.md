@@ -56,7 +56,7 @@ _**Vision éthérée**_. Le fantôme peut voir jusqu'à 18 mètres dans le plan 
 
 ## Actions
 _**Contact flétrissant**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts nécrotiques.
+_Touché_ : 4d6+3 dégâts nécrotiques.
 
 _**Forme éthérée**_. Le fantôme entre dans le plan Éthéré depuis le plan Matériel, ou vice versa. Il est visible sur le plan Matériel quand il est dans la Frontière éthérée et vice-versa, mais il ne peut pas affecter et ne peut pas être affecté par quoi que ce soit provenant de l'autre plan.
 

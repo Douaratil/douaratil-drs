@@ -66,13 +66,13 @@ _**Résistance contre le renvoi**_. L'empereur est _avantagé_ sur les jets de s
 _**Attaques multiples**_. L'empereur fait une attaque de _morsure_ et deux de _griffes_. Il peut faire une attaque de _sceptre_ au lieu d'une attaque de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
+_Touché_ : 3d6+2 dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est _paralysée_ pendant 1d6 rounds. Une créature _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
+_Touché_ : 2d6+4 dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est _paralysée_ pendant 1d6 rounds. Une créature _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
 
 _**Sceptre**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts contondants plus 5d6 dégâts nécrotiques.
+_Touché_ : 2d6+4 dégâts contondants plus 5d6 dégâts nécrotiques.
 
 ## Réactions
 _**Armure de sang**_. Quand l'empereur subit des dégâts à cause d'une créature située dans son champ de vision dans un rayon de 18 mètres, l'assaillant subit des dégâts nécrotiques d'un montant égal à la moitié des dégâts qu'il inflige à l'empereur.

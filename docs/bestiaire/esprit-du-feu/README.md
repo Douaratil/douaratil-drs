@@ -57,6 +57,6 @@ _**Sensibilité à l'eau**_. À chaque fois qu'un esprit du feu parcourt 1,50 m�
 _**Attaques multiples**_. L'esprit du feu fait deux attaques de _coup_.
 
 _**Coup**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts contondants.
+_Touché_ : 1d6+4 dégâts contondants.
 
 _**Contact de combustion (recharge 5-6)**_. Quand il fait une attaque de coup, un esprit de feu a une chance de mettre le feu à une cible. La cible doit immédiatement réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13 ou prendre feu et subir 2d6 dégâts de feu supplémentaires au début de son prochain tour. Jusqu'à ce que quelqu'un utilise une action pour éteindre ce feu, la créature subit 2d6 dégâts de feu au début de chacun de ses tours.

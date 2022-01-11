@@ -36,4 +36,4 @@ _**Vue aiguisée**_. Le hibou obtient un [_avantage_](/utiliser-les-caracteristi
 
 ## Actions
 _**Serres**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts tranchants.
+_Touché_ : 1d6 dégâts tranchants.

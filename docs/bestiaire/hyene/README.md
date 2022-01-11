@@ -35,4 +35,4 @@ _**Tactique de groupe**_. La hyène obtient un [_avantage_](/utiliser-les-caract
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants.
+_Touché_ : 1d6 dégâts perforants.

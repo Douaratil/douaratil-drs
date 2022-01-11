@@ -103,16 +103,16 @@ Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous a
 _**Attaques multiples**_. Gwihem effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (légère, portée 6/18).
+_Touché_ : 2d6 dégâts tranchants (légère, portée 6/18).
 
 _**Epée courte(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (Finesse, légère).  
+_Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).  
 
 **Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants (Finesse & légère).  
+_Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).  
 
 
 

@@ -63,13 +63,12 @@ _**Indomptable**_
 ## Actions
 
 _**Attaques multiples**_. Gaenor porte 3 attaques tous les rounds.
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
 
 _**Glaive +3**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (9 à deux mains).
+_Touché_ : 2d6+8 dégâts tranchants (3d6+6 à deux mains).
 
 _**Hache**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants (6 à deux mains).
+_Touché_ : 2d6+5 dégâts tranchants (3d6+5 à deux mains).
 
 §§§ .hero
 ### Présentation:  

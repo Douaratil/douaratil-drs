@@ -34,7 +34,7 @@ _**Déchaînée**_. Quand la hyène réduit les points d'action d'une créature 
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 10 dégâts perforants.
+_Touché_ : 2d6+3 dégâts perforants.
 
 ---
 La Hyène à Tête Rouge est un prédateur des milieux désertiques qui chasse en solitaire ou en couple. De grande taille, elle peut faire un adversaire redoutable. On en trouve dans les déserts de l'Est et dans le Sud des royaumes de Shahia.  
