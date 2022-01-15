@@ -55,7 +55,7 @@ _**Incantation innée**_. Koschei utilise le Charisme comme caractéristique d'i
 * **À volonté** : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_envoi de message_](/grimoire/envoi-de-message/)
 * **3/jour chacun** : [_invisibilité_](/grimoire/invisibilite/), [_projectile magique_](/grimoire/projectile-magique/), [_bouclier_](/grimoire/bouclier/)
 * **2/jour chacun** : [_cône de froid_](/grimoire/cone-de-froid/), [_motif hypnotique_](/grimoire/motif-hypnotique/)
-* **1/jour chacun** : [_désintégration_](/grimoire/desintegration/)
+* **1/jour chacun** : [Irradiation](/grimoire/irradiation/)
 
 _**Résistance légendaire (3/jour)**_. Si Koschei rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
