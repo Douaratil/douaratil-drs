@@ -928,7 +928,7 @@ telepathy: 36
 ***Ichor infectieux***. Chaque fois qu'un akau-keshake subit des dégâts perforants ou tranchants, un jet de sang caustique s'échappe de la plaie en direction de l'attaquant. Ce jet forme une ligne de 3 mètres de long sur 1,50 mètre de large. La première créature qui se trouve sur le trajet de cette ligne doit réussir un jet de sauvegarde de Constitution DD 15 contre les maladies ou se trouver infectée par la maladie de l'ichor de Shekhuii. La créature reste _empoisonnée_ jusqu'à ce que la maladie soit guérie. Toutes les 24 heures, la cible retente son jet de sauvegarde de Constitution et, sur un échec, son maximum de points d'action est réduit de 2d6. Sur un succès, la maladie est guérie. La cible meurt si la maladie réduit son maximum de points de d'action à 0. La réduction du maximum de points d'action d'une créature persiste jusqu'à ce que la maladie soit guérie.
 
 ***Incantation innée***. Un akau-keshake est un lanceur de sorts inné. Sa caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
-* **1/jour chacun** : [_mur de feu_](/grimoire/mur-de-feu/), [_peur_](/grimoire/peur/)
+* **1/jour chacun** : [_mur de chaleur_](/grimoire/mur-de-chaleur/), [_peur_](/grimoire/peur/)
 
 ***Résistance à la magie***. Un akau-keshake est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -1259,7 +1259,7 @@ _**Incantation**_. L'archimage est un adepte de la voie de la Magie de niveau 19
 * **Novice (à volonté)** : [_armure du mage_](/grimoire/armure-du-mage/),[_aspersion d'acide_](/grimoire/aspersion-acide/),[_contrôle des flammes_](/grimoire/controle-des-flammes/), [_détection de la magie_](/grimoire/detection-de-la-magie/),[_détection des pensées_](/grimoire/detection-des-pensees/), [_glas funèbre_](/grimoire/glas-funebre/), [_message_](/grimoire/message/), [_identification_](/grimoire/identification/), [_immobilisation de personne_](/grimoire/immobilisation-de-personne/), [_prestidigitation_](/grimoire/prestidigitation/),
 [_projectile magique_](/grimoire/projectile-magique/), [_suggestion_](/grimoire/suggestion/).  
 
-* **Disciple (5/jour)** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de feu](/grimoire/mur-de-feu/), [oeil magique](/grimoire/oeil-magique/).
+* **Disciple (5/jour)** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de chaleur](/grimoire/mur-de-chaleur/), [oeil magique](/grimoire/oeil-magique/).
 
 * **Apprenti (4/jour)** : [cercle de mort](/grimoire/cercle-de-mort/), [cône de froid](/grimoire/cone-de-froid/), [mur de force](/grimoire/mur-de-force/), [scrutation](/grimoire/scrutation/).
 
@@ -4042,7 +4042,7 @@ _**Aura de terreur**_. Toutes les créatures hostiles envers le Diadedodde qui c
 
 _**Incantation innée**_. La caractéristique d'incantation du Diadedodde est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21). Le Diadedodde peut lancer les sorts suivants de manière innée sans composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)
-* _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de feu_](/grimoire/mur-de-feu/)
+* _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 
 _**Résistance à la magie**_. Le Diadedodde obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -4283,7 +4283,7 @@ environments:
 _**Incantation innée**_. La caractéristique d'incantation de l'éfrit est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)
 * _**3/jour**_ : [_langues_](/grimoire/langues/)
-* _**1/jour chacun**_ : [_changement de plan_](/grimoire/changement-de-plan/), [_forme gazeuse_](/grimoire/forme-gazeuse/), [_invisibilité_](/grimoire/invisibilite/), [_image majeure_](/grimoire/image-majeure/), [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) (élémentaire du feu seulement), [_mur de feu_](/grimoire/mur-de-feu/)
+* _**1/jour chacun**_ : [_changement de plan_](/grimoire/changement-de-plan/), [_forme gazeuse_](/grimoire/forme-gazeuse/), [_invisibilité_](/grimoire/invisibilite/), [_image majeure_](/grimoire/image-majeure/), [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) (élémentaire du feu seulement), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 
 _**Trépas élémentaire**_. Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
 
@@ -10100,7 +10100,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Odoba es
 * **Constant** : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/)
 * **À volonté** : [_augure_](/grimoire/augure/), [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)
 * **5/jour chacun** : [_jeter une malédiction_](/grimoire/jeter-une-malediction/)
-* **3/jour chacun** : [_champ antimagie_](/grimoire/champ-antimagie/), [_contacter un autre plan_](/grimoire/contacter-un-autre-plan/), [_mur de feu_](/grimoire/mur-de-feu/)
+* **3/jour chacun** : [_champ antimagie_](/grimoire/champ-antimagie/), [_contacter un autre plan_](/grimoire/contacter-un-autre-plan/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 * **1/jour chacun** : [_mauvais œil_](/grimoire/mauvais-oeil/), [_prémonition_](/grimoire/premonition/), [_trouver un chemin_](/grimoire/trouver-un-chemin/)
 
 ## Action
@@ -13354,7 +13354,7 @@ _**Armes magiques**_. Les attaques d'arme de Shekhuii sont magiques.
 _**Ichor infectieux**_. À chaque fois que Shekhuii subit des dégâts perforants ou tranchants, un jet de sang caustique s'échappe de la plaie en direction de l'attaquant. Ce jet forme une ligne de 3 mètres de long sur 1,50 mètre de large. La première créature qui se trouve sur le trajet de cette ligne doit réussir un jet de sauvegarde de Constitution DD 24 contre les maladies ou se trouver infectée par la maladie de l'ichor de Shekhuii. La créature reste _empoisonnée_ jusqu'à ce que la maladie soit guérie. Toutes les 24 heures, la cible doit faire un jet de sauvegarde de Constitution DD 24 et, sur un échec, son maximum de points d'action est réduit de 2d6. Sur un succès, la maladie est guérie. La cible meurt si la maladie réduit son maximum de points d'action à 0. La réduction du maximum de points d'action d'une créature persiste jusqu'à ce que la maladie soit guérie.
 
 _**Incantation innée**_. La caractéristique d'incantation innée de Shekhuii est le Charisme (DD du jet de sauvegarde contre les sorts 22, +14 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
-* **À volonté** : [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de feu_](/grimoire/mur-de-feu/)
+* **À volonté** : [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 * **3/jour chacun** : [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/), [_tempête de feu_](/grimoire/tempete-de-feu/)
 * **1/jour chacun** : [_mot de pouvoir mortel_](/grimoire/mot-de-pouvoir-mortel/)
 
@@ -14483,7 +14483,7 @@ Thorleik Aevarson possède l'équipement suivant :
 **Novice** : [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
-[Arme sainte](/grimoire/arme-sainte), [Mur de feu](/grimoire/mur-de-feu), [Prière de soins](/grimoire/priere-de-soins)
+[Arme sainte](/grimoire/arme-sainte), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins)
 §§§
 
 

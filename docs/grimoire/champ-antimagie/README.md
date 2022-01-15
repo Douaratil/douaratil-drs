@@ -24,7 +24,7 @@ Les sorts et autres effets magiques, en dehors de ceux émanant d'un artefact ou
 
 **Effets visant une cible**. Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme <ST s="projectile-magique"/> ou <ST s="charme-personne"/>, n'ont aucun effet sur cette cible.
 
-**Zones de magie**. La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d'un mur de feu sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
+**Zones de magie**. La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d'un mur de chaleur sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
 
 **Sorts**. Tout sort ou effet magique actif sur une créature ou un objet est supprimé dès qu'elle ou il se trouve à l'intérieur et pendant tout le temps qu'elle ou il y reste.
 

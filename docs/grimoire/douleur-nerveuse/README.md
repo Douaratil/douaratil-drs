@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-materials: "feuille d'ortie séchée"
+  materials: "feuille d'ortie séchée"  
 ritual: false
 classes:
     - Magie

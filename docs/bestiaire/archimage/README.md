@@ -41,7 +41,7 @@ _**Incantation**_. L'archimage est un adepte de la voie de la Magie de niveau 19
 * **Novice (à volonté)** : [_armure du mage_](/grimoire/armure-du-mage/),[_aspersion d'acide_](/grimoire/aspersion-acide/),[_contrôle des flammes_](/grimoire/controle-des-flammes/), [_détection de la magie_](/grimoire/detection-de-la-magie/),[_détection des pensées_](/grimoire/detection-des-pensees/), [_glas funèbre_](/grimoire/glas-funebre/), [_message_](/grimoire/message/), [_identification_](/grimoire/identification/), [_immobilisation de personne_](/grimoire/immobilisation-de-personne/), [_prestidigitation_](/grimoire/prestidigitation/),
 [_projectile magique_](/grimoire/projectile-magique/), [_suggestion_](/grimoire/suggestion/).  
 
-* **Disciple (5/jour)** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de feu](/grimoire/mur-de-feu/), [oeil magique](/grimoire/oeil-magique/).
+* **Disciple (5/jour)** : [contresort](/grimoire/contresort/), [invocation de élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [lenteur](/grimoire/suggestion/), [mur de chaleur](/grimoire/mur-de-chaleur/), [oeil magique](/grimoire/oeil-magique/).
 
 * **Apprenti (4/jour)** : [cercle de mort](/grimoire/cercle-de-mort/), [cône de froid](/grimoire/cone-de-froid/), [mur de force](/grimoire/mur-de-force/), [scrutation](/grimoire/scrutation/).
 

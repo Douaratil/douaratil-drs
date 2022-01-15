@@ -59,10 +59,12 @@ title: Composantes magiques
 |Émeraude (rare)|1000 po|100 gr|Rare DD22|DD22|
 |Émeraude (très rare)|2000 po|40 gr|Rare DD28|DD28|
 |Encens (courant)|1 po|10 gr|Courant DD12|DD16|
-|Encens (peu courant)|10 po|10 gr|Courant DD16|DD16|
-|Encens (rare)|1 po|25 gr|Courant DD22|DD22|
+|Encens (peu courant)|10 po|10 gr|Peu courant DD16|DD16|
+|Encens (rare)|1 po|25 gr|Rare DD22|DD22|
 |Encens (très rare)|100 po|10 gr|Courant DD28|DD28|
+|Encre de pieuvre de la baie d'émeraude|1 po|0,15 l|Rare DD22|DD22|
 |Feuille de choux|1 pc|50 gr|Courant DD12|DD16|
+|Fil de cuivre (/10cm)|1 po|10 gr|Courant DD12|DD16|
 |Filament d'argent|1 pa|5 gr|Courant DD12|DD16|
 |Fleurs séchées|2 pa|50 gr|Courant DD12|DD16|
 |Graines de légume (courant)|3 pc|5 gr|Courant DD12|DD16|
@@ -70,7 +72,7 @@ title: Composantes magiques
 |Grenat (peu courant)|10 po|20 gr|Peu courant DD16|DD16|
 |Grenat (rare)|50 po|30 gr|Rare DD22|DD22|
 |Grenat (très rare)|150 po|40 gr|Rare DD28|DD28|
-|Gui (le brin)|2 pa|10 gr|Courant DD12|DD16|
+|Gui (le brin)|2 pa|50 gr|Courant DD12|DD16|
 |Héliotrope|50 po|10 gr|Peu courant DD16|DD16|
 |Héliotrope|100 po|20 gr|Rare DD22|DD22|
 |Héliotrope|150 po|30 gr|Très rare 28 DD16|DD28|
@@ -81,6 +83,7 @@ title: Composantes magiques
 |Hématite (très rare)|150 po|40 gr|Rare DD28|DD28|
 |Huile d'hélianthe|2 po|1 litre|Peu courant DD16|DD16|
 |Huile de lavande|2 pa|1 litre|Peu courant DD16|DD16|
+|If (le brin)|5 pa|50 gr|Courant DD12|DD16|
 |Jade (courant)|2 po|50 gr|Courant DD12|DD16|
 |Jade (peu courant)|100 po|20 gr|Peu courant DD16|DD16|
 |Jade (rare)|50 po|200 gr|Rare DD22|DD22|
@@ -112,6 +115,7 @@ title: Composantes magiques
 |Opale noire (peu courant)|500 po|10 gr|Peu courant DD16|DD16|
 |Opale noire (rare)|1000 po|100 gr|Rare DD22|DD22|
 |Opale noire (très rare)|2000 po|40 gr|Rare DD28|DD28|
+|Ortie séchée (sachet de feuille))|8 pc|30 gr|Courant DD12|DD16|
 |Parchemin (petit)|5 pc|25 gr|Courant DD12|DD16|
 |Parchemin (moyen)|1 pa|50 gr|Courant DD12|DD16|
 |Parchemin (grand)|5 pa|100 gr|Courant DD12|DD16|

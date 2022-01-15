@@ -219,7 +219,7 @@ Gwion possède l'équipement suivant :
 [Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de feu](/grimoire/mur-de-feu), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  

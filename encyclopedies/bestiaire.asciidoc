@@ -1863,7 +1863,7 @@ Un akau-keshake est un lanceur de sorts inné.
 Sa caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 13).
 Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 
-* *1/jour chacun* : link:/grimoire/mur-de-feu/[_mur de feu_], link:/grimoire/peur/[_peur_]
+* *1/jour chacun* : link:/grimoire/mur-de-chaleur/[_mur de chaleur_], link:/grimoire/peur/[_peur_]
 
 *_Résistance à la magie_*.
 Un akau-keshake est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -2158,7 +2158,7 @@ L'archimage est un adepte de la voie de la Magie de niveau 19.
 Sa caractéristique d'incantation est l'Intelligence (DD du link:/utiliser-les-caracteristiques/#jets-de-sauvegarde[jet de sauvegarde] contre les sorts 17, +9 pour toucher avec les attaques de sort).
 L'archimage peut lancer déguisement et invisibilité à volonté et connait les sorts suivants :
 * *Novice (à volonté)* : link:/grimoire/armure-du-mage/[_armure du mage_],link:/grimoire/aspersion-acide/[_aspersion d'acide_],link:/grimoire/controle-des-flammes/[_contrôle des flammes_], link:/grimoire/detection-de-la-magie/[_détection de la magie_],link:/grimoire/detection-des-pensees/[_détection des pensées_], link:/grimoire/glas-funebre/[_glas funèbre_], link:/grimoire/message/[_message_], link:/grimoire/identification/[_identification_], link:/grimoire/immobilisation-de-personne/[_immobilisation de personne_], link:/grimoire/prestidigitation/[_prestidigitation_], link:/grimoire/projectile-magique/[_projectile magique_], link:/grimoire/suggestion/[_suggestion_].
-* *Disciple (5/jour)* : link:/grimoire/contresort/[contresort], link:/grimoire/invoquer-des-elementaires-mineurs/[invocation de élémentaires mineurs], link:/grimoire/suggestion/[lenteur], link:/grimoire/mur-de-feu/[mur de feu], link:/grimoire/oeil-magique/[oeil magique].
+* *Disciple (5/jour)* : link:/grimoire/contresort/[contresort], link:/grimoire/invoquer-des-elementaires-mineurs/[invocation de élémentaires mineurs], link:/grimoire/suggestion/[lenteur], link:/grimoire/mur-de-chaleur/[mur de chaleur], link:/grimoire/oeil-magique/[oeil magique].
 * *Apprenti (4/jour)* : link:/grimoire/cercle-de-mort/[cercle de mort], link:/grimoire/cone-de-froid/[cône de froid], link:/grimoire/mur-de-force/[mur de force], link:/grimoire/scrutation/[scrutation].
 * *Adepte (3/jour)* : link:/grimoire/doigt-de-mort/[doigt de mort], link:/grimoire/forme-etheree/[forme éthérée],
 * *Expert (2/jour)* : link:/grimoire/cotrole-du-climat/[contrôle du climat], link:/grimoire/sequestration/[séquestration].
@@ -4372,7 +4372,7 @@ La caractéristique d'incantation du Diadedodde est le Charisme (DD du link:/uti
 Le Diadedodde peut lancer les sorts suivants de manière innée sans composante matérielle :
 
 * _*À volonté*_ : link:/grimoire/detection-de-la-magie/[_détection de la magie_]
-* _*3/jour chacun*_ : link:/grimoire/immobiliser-un-monstre/[_immobiliser un monstre_], link:/grimoire/mur-de-feu/[_mur de feu_]
+* _*3/jour chacun*_ : link:/grimoire/immobiliser-un-monstre/[_immobiliser un monstre_], link:/grimoire/mur-de-chaleur/[_mur de chaleur_]
 
 _*Résistance à la magie*_.
 Le Diadedodde obtient un link:/utiliser-les-caracteristiques/#avantage-et-desavantage[_avantage_] lors des jets de sauvegarde contre les sorts et autres effets magiques.
@@ -4571,7 +4571,7 @@ La caractéristique d'incantation de l'éfrit est le Charisme (DD du link:/utili
 L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _*À volonté*_ : link:/grimoire/detection-de-la-magie/[_détection de la magie_]
 * _*3/jour*_ : link:/grimoire/langues/[_langues_]
-* _*1/jour chacun*_ : link:/grimoire/changement-de-plan/[_changement de plan_], link:/grimoire/forme-gazeuse/[_forme gazeuse_], link:/grimoire/invisibilite/[_invisibilité_], link:/grimoire/image-majeure/[_image majeure_], link:/grimoire/invoquer-un-elementaire/[_invoquer un élémentaire_] (élémentaire du feu seulement), link:/grimoire/mur-de-feu/[_mur de feu_]
+* _*1/jour chacun*_ : link:/grimoire/changement-de-plan/[_changement de plan_], link:/grimoire/forme-gazeuse/[_forme gazeuse_], link:/grimoire/invisibilite/[_invisibilité_], link:/grimoire/image-majeure/[_image majeure_], link:/grimoire/invoquer-un-elementaire/[_invoquer un élémentaire_] (élémentaire du feu seulement), link:/grimoire/mur-de-chaleur/[_mur de chaleur_]
 
 _*Trépas élémentaire*_.
 Quand l'éfrit meurt, son corps se dissout en un éclat de feu et un nuage de fumée en ne laissant derrière lui que ses objets équipés ou transportés.
@@ -9764,7 +9764,7 @@ Il peut lancer les sorts suivants de manière innée, sans composantes matériel
 * *Constant* : link:/grimoire/detection-du-mal-et-du-bien/[_détection du mal et du bien_]
 * *À volonté* : link:/grimoire/augure/[_augure_], link:/grimoire/protection-contre-le-mal-et-le-bien/[_protection contre le mal et le bien_]
 * *5/jour chacun* : link:/grimoire/jeter-une-malediction/[_jeter une malédiction_]
-* *3/jour chacun* : link:/grimoire/champ-antimagie/[_champ antimagie_], link:/grimoire/contacter-un-autre-plan/[_contacter un autre plan_], link:/grimoire/mur-de-feu/[_mur de feu_]
+* *3/jour chacun* : link:/grimoire/champ-antimagie/[_champ antimagie_], link:/grimoire/contacter-un-autre-plan/[_contacter un autre plan_], link:/grimoire/mur-de-chaleur/[_mur de chaleur_]
 * *1/jour chacun* : link:/grimoire/mauvais-oeil/[_mauvais œil_], link:/grimoire/premonition/[_prémonition_], link:/grimoire/trouver-un-chemin/[_trouver un chemin_]
 
 == Action
@@ -12512,7 +12512,7 @@ _*Incantation innée*_.
 La caractéristique d'incantation innée de Shekhuii est le Charisme (DD du jet de sauvegarde contre les sorts 22, +14 pour toucher avec les attaques de sort).
 Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 
-* *À volonté* : link:/grimoire/dissipation-de-la-magie/[_dissipation de la magie_], link:/grimoire/immobiliser-un-monstre/[_immobiliser un monstre_], link:/grimoire/mur-de-feu/[_mur de feu_]
+* *À volonté* : link:/grimoire/dissipation-de-la-magie/[_dissipation de la magie_], link:/grimoire/immobiliser-un-monstre/[_immobiliser un monstre_], link:/grimoire/mur-de-chaleur/[_mur de chaleur_]
 * *3/jour chacun* : link:/grimoire/mot-de-pouvoir-etourdissant/[_mot de pouvoir étourdissant_], link:/grimoire/tempete-de-feu/[_tempête de feu_]
 * *1/jour chacun* : link:/grimoire/mot-de-pouvoir-mortel/[_mot de pouvoir mortel_]
 
@@ -13580,7 +13580,7 @@ Thorleik Aevarson possède l'équipement suivant :
 
 *Bonus d'incantation: +8* + *DD de Sauvegarde: 13* + *Novice* : link:/grimoire/compagnon-animal[Compagnon animal], link:/grimoire/coup-de-tonnerre[Coup de tonnerre], link:/grimoire/druidisme[Druidisme], link:/grimoire/baie-nourriciere[Baie nourricière], link:/grimoire/bouclier-de-la-foi[Bouclier de la foi], link:/grimoire/flamme-sacree[Flamme sacrée], link:/grimoire/invisibilite[Invisibilité], link:/grimoire/lame-de-feu[Lame de feu], link:/grimoire/produire-une-flamme[Produire une flamme], link:/grimoire/projectile-magique[Projectile magique],link:/grimoire/soins-des-blessures[soins des blessures], link:/grimoire/thaumaturgie[Thaumaturgie].
 
-*Disciple* : + link:/grimoire/arme-sainte[Arme sainte], link:/grimoire/mur-de-feu[Mur de feu], link:/grimoire/priere-de-soins[Prière de soins] §§§
+*Disciple* : + link:/grimoire/arme-sainte[Arme sainte], link:/grimoire/mur-de-chaleur[Mur de chaleur], link:/grimoire/priere-de-soins[Prière de soins] §§§
 
 §§§ .hero
 

@@ -19,6 +19,7 @@ Pour revenir dans l'état d'esprit de Douaratil, beaucoup de sorts et de créatu
 - Mise à jour des dommages des créatures du bestiaire.
 - Ajout d'une page de [composants magiques](/equipement/composants-magiques)
 - modification du sort désintégration en [Irradiation](/grimoire/irradiation)
+- modification du sort Mur de feu en [Mur de chaleur](/grimoire/mur-de-chaleur)
 
 Bon jeu.  
 §§§ .text-right

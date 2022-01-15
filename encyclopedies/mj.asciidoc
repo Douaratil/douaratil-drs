@@ -3736,7 +3736,7 @@ Vous pouvez également parler et comprendre l'ignée.
 Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'anneau, vous avez accès aux propriétés supplémentaires suivantes :
 
 * Vous êtes immunisé aux dégâts de feu.
-* Vous pouvez lancer les sorts suivants grâce à l'anneau en dépensant le nombre nécessaire de charges : link:/grimoire/mains-brulantes/[_mains brûlantes_] (1 charge) et link:/grimoire/mur-de-feu/[_mur de feu_] (3 charges).
+* Vous pouvez lancer les sorts suivants grâce à l'anneau en dépensant le nombre nécessaire de charges : link:/grimoire/mains-brulantes/[_mains brûlantes_] (1 charge) et link:/grimoire/mur-de-chaleur/[_mur de chaleur_] (3 charges).
 
 '''
 

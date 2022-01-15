@@ -65,7 +65,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Odoba es
 * **Constant** : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/)
 * **À volonté** : [_augure_](/grimoire/augure/), [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)
 * **5/jour chacun** : [_jeter une malédiction_](/grimoire/jeter-une-malediction/)
-* **3/jour chacun** : [_champ antimagie_](/grimoire/champ-antimagie/), [_contacter un autre plan_](/grimoire/contacter-un-autre-plan/), [_mur de feu_](/grimoire/mur-de-feu/)
+* **3/jour chacun** : [_champ antimagie_](/grimoire/champ-antimagie/), [_contacter un autre plan_](/grimoire/contacter-un-autre-plan/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 * **1/jour chacun** : [_mauvais œil_](/grimoire/mauvais-oeil/), [_prémonition_](/grimoire/premonition/), [_trouver un chemin_](/grimoire/trouver-un-chemin/)
 
 ## Action

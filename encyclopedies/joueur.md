@@ -7815,7 +7815,7 @@ Les sorts et autres effets magiques, en dehors de ceux émanant d'un artefact ou
 
 **Effets visant une cible**. Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme <ST s="projectile-magique"/> ou <ST s="charme-personne"/>, n'ont aucun effet sur cette cible.
 
-**Zones de magie**. La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d'un mur de feu sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
+**Zones de magie**. La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère. Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère. Par exemple, les flammes d'un mur de chaleur sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
 
 **Sorts**. Tout sort ou effet magique actif sur une créature ou un objet est supprimé dès qu'elle ou il se trouve à l'intérieur et pendant tout le temps qu'elle ou il y reste.
 
@@ -13110,7 +13110,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 
 
 ---
-title: "Mur de feu"
+title: "Mur de chaleur"
 description: "Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent."
 school: "Évocation"
 level: 1
@@ -13130,7 +13130,7 @@ classes:
 
 ---
 **Coût** : 8 points de Magie ou de Foi  
-Vous créez un mur de feu sur une surface solide située à portée. Il peut faire un maximum de 18 mètres de long, 6 mètres de haut et 30 centimètres d'épaisseur, ou prendre une forme circulaire de 6 mètres de diamètre pour 6 mètres de haut et 30 centimètres d'épaisseur. Le mur est opaque et persiste toute la durée du sort.
+Vous créez un mur de chaleur sur une surface solide située à portée. Il peut faire un maximum de 18 mètres de long, 6 mètres de haut et 30 centimètres d'épaisseur, ou prendre une forme circulaire de 6 mètres de diamètre pour 6 mètres de haut et 30 centimètres d'épaisseur. Le mur est opaque et persiste toute la durée du sort.
 
 Quand le mur apparaît, chaque créature présente dans sa zone d'effet doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent reçoivent 7d6 dégâts de feu, les autres la moitié seulement.
 

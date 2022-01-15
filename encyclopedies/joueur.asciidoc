@@ -11362,7 +11362,7 @@ Les sorts et autres effets magiques visant une créature ou un objet situé dans
 *Zones de magie*.
 La zone d'effet d'un sort ou d'un effet magique, comme celle d'une boule de feu, ne peut pas s'étendre au sein de la sphère.
 Si la sphère recouvre une zone de magie existante, l'effet de cette dernière est supprimé dans la partie recouverte par la sphère.
-Par exemple, les flammes d'un mur de feu sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
+Par exemple, les flammes d'un mur de chaleur sont supprimées au sein de la sphère, créant un trou dans le mur si la partie recouverte est assez grande.
 
 *Sorts*.
 Tout sort ou effet magique actif sur une créature ou un objet est supprimé dès qu'elle ou il se trouve à l'intérieur et pendant tout le temps qu'elle ou il y reste.
@@ -14356,11 +14356,11 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 
 '''
 
-title: "Mur de feu" description: "Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent." school: "Évocation" level: 1 concentration: true casting_time: "1 action" duration: "jusqu'à 1 minute" range: "36 mètres" components:   verbal: true   somatic: true   material: true   materials: "un éclat de phosphore" ritual: false classes:     - Foi     - Magie
+title: "Mur de chaleur" description: "Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent." school: "Évocation" level: 1 concentration: true casting_time: "1 action" duration: "jusqu'à 1 minute" range: "36 mètres" components:   verbal: true   somatic: true   material: true   materials: "un éclat de phosphore" ritual: false classes:     - Foi     - Magie
 
 '''
 
-*Coût* : 8 points de Magie ou de Foi + Vous créez un mur de feu sur une surface solide située à portée.
+*Coût* : 8 points de Magie ou de Foi + Vous créez un mur de chaleur sur une surface solide située à portée.
 Il peut faire un maximum de 18 mètres de long, 6 mètres de haut et 30 centimètres d'épaisseur, ou prendre une forme circulaire de 6 mètres de diamètre pour 6 mètres de haut et 30 centimètres d'épaisseur.
 Le mur est opaque et persiste toute la durée du sort.
 

@@ -50,7 +50,7 @@ _**Aura de terreur**_. Toutes les créatures hostiles envers le Diadedodde qui c
 
 _**Incantation innée**_. La caractéristique d'incantation du Diadedodde est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21). Le Diadedodde peut lancer les sorts suivants de manière innée sans composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)
-* _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de feu_](/grimoire/mur-de-feu/)
+* _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 
 _**Résistance à la magie**_. Le Diadedodde obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
