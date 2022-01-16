@@ -78,7 +78,7 @@ _**Existence légendaire**_. Il n'est pas bon de tuer un Inéxorable. Lorsqu'il 
 _**Attaque multiple**_ L'inexorable peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 13 dégâts tranchant
+_Touché_ : 3d6+10 dégâts tranchant
 
 §§§ .hero
 "*Je me trouvais sur la jetée du port de Kerzu lorsque la grande silhouette en armure noire apparu au loin. Les quelques inconscients qui se présentèrent devant elle furent inéxorablement tranchées*.  

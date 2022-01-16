@@ -41,4 +41,4 @@ _**Résistance à la magie**_. Un kakhe est _avantagé_ lors de ses jets de sauv
 
 ## Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts perforants.
+_Touché_ : 1d6+3 dégâts perforants.

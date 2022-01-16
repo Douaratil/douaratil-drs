@@ -63,9 +63,9 @@ _**Attaque sournoise (1/tour)**_. Un Khukheshakh inflige 3d6 dégâts supplémen
 _**Attaques multiples**_. Un Khukheshakh porte un _coup de corne_ et deux attaques de _griffe_.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants.
+_Touché_ : 3d6+5 dégâts tranchants.
 
 _**Coup de corne**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants et la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle se retrouve _à terre_.
+_Touché_ : 4d6+5 dégâts perforants et la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle se retrouve _à terre_.
 
 _**Foudroiement (Recharge 5-6)**_. Un Khukheshakh peut faire apparaître un éclair crépitant dans le ciel, ou dans l'air s'il se trouve sous terre ou à l'intérieur, et diriger celui-ci afin qu'il frappe un point que le Khukheshakh peut voir dans un rayon de 45 m. Toutes les créatures qui se trouvent dans un rayon de 6 m autour du point d'impact subissent 10d6 dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16. Si une créature échoue à son jet de sauvegarde, elle est _étourdie_ jusqu'au début du prochain tour du Khukheshakh.

@@ -64,10 +64,10 @@ _**Bouclier à trophées**_. Si un kishi tue un adversaire lors de ce tour, il p
 _**Attaques multiples**_. Le démon porte une attaque de _morsure_ et trois attaques de _lance_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 3 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.
 
 _**Lance**_. _Attaque d'arme au corps à corps ou à distance_ : +8 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
-_Touché_ : 4 dégâts perforants ou 6 dégâts perforants si utilisée à deux mains pour une attaque de corps à corps.
+_Touché_ : 2d6+5 dégâts perforants ou 2d6+7 dégâts perforants si utilisée à deux mains pour une attaque de corps à corps.
 
 ## Variante : Convocation de démon
 Certains démons kishis possèdent une action qui leur permet de convoquer d'autres démons.

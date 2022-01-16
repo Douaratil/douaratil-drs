@@ -63,10 +63,10 @@ _**Armes magiques**_. Les attaques d'arme de Kashokh sont magiques.
 _**Attaques multiples**_. Kashokh fait trois attaques.
 
 _**Bourse**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 10 dégâts contondants plus 5d6 dégâts radiants.
+_Touché_ : 4d6+6 dégâts contondants plus 5d6 dégâts radiants.
 
 _**Pièces en fusion**_. _Attaque d'arme à distance_ : +14 pour toucher, portée 12/36 m, une cible.  
-_Touché_ : 10 dégâts contondants plus 5d6 dégâts de feu.
+_Touché_ : 3d6+6 dégâts contondants plus 5d6 dégâts de feu.
 
 _**Votre poids en or (Recharge 5-6)**_. Kashokh peut utiliser ce pouvoir comme action bonus immédiatement après avoir touché une créature avec son attaque de bourse. La créature doit faire un jet de sauvegarde de Constitution DD 24. Si elle échoue de 5 ou plus, elle est instantanément transformée en or massif et se trouve donc dans l'état pétrifié. Si elle échoue de moins de 5, elle se trouve dans l'état _entravé_. Une créature _entravée_ refait le jet de sauvegarde à la fin de son tour suivant : elle est _pétrifiée_ sur un échec ou met un terme à l'effet sur une réussite. Cette pétrification dure jusqu'à ce que la créature soit ciblée par un sort de [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie comparable.
 

@@ -65,10 +65,10 @@ _**Armes magiques**_. Les attaques armées de Koschei sont magiques et infligent
 _**Attaques multiples**_. Koschei fait deux attaques à l'_épée longue_ et une de _drain de vie_.
 
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchants ou 6 dégâts tranchants si utilisée à deux mains, plus 4d6 dégâts nécrotiques.
+_Touché_ : 2d6+8 dégâts tranchants ou 3d6+6 dégâts tranchants si utilisée à deux mains, plus 4d6 dégâts nécrotiques.
 
 _**Drain de vie**_. _Attaque de sort au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5d6 dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 19 ou voir son maximum de points d'action réduit d'une quantité égale au nombre de dégâts subis, Koschei récupérant le même nombre de points d'action. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points d'action à 0.
+_Touché_ : 4d6+6 dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 19 ou voir son maximum de points d'action réduit d'une quantité égale au nombre de dégâts subis, Koschei récupérant le même nombre de points d'action. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points d'action à 0.
 
 ## Actions légendaires
 Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de son tour, Koschei récupère les actions légendaires dépensées.

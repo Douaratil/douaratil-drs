@@ -68,15 +68,15 @@ _**Armes magiques**_. Les attaques d'arme de Korshekh sont magiques.
 _**Attaques multiples**_. Korshekh fait une attaque de _morsure_, deux attaques d'_écrasement_ et une attaque de _dard_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants. Si la cible est une créature de taille Grande ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité DD 24 ou être engloutie par Korshekh. Une créature engloutie est _aveuglée_ et _entravée_, et elle subit également 5d6 dégâts nécrotiques au début de chacun des tours de Korshekh. Le nombre de créatures que Korshekh peut engloutir n'est pas limité.
+_Touché_ : 8d6+9 dégâts perforants. Si la cible est une créature de taille Grande ou inférieure, elle doit réussir un jet de sauvegarde de Dextérité DD 24 ou être engloutie par Korshekh. Une créature engloutie est _aveuglée_ et _entravée_, et elle subit également 5d6 dégâts nécrotiques au début de chacun des tours de Korshekh. Le nombre de créatures que Korshekh peut engloutir n'est pas limité.
 
 Si une créature engloutie inflige 50 dégâts ou plus en un seul tour à Korshekh, celui-ci doit réussir un jet de sauvegarde de Constitution DD 20 ou régurgiter toutes les créatures englouties, qui tombent alors à terre dans un rayon de 3 mètres autour de lui. Si Korshekh meurt, les créatures englouties ne sont plus _entravées_ et peuvent s'enfuir en dépensant 6 mètres de déplacement. Elles ressortent _à terre_.
 
 _**Écrasement**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts contondants. Une cible est également _empoignée_ et _entravée_ (évasion DD 19) jusqu'à ce que Korshekh se déplace. Korshekh peut empoigner jusqu'à deux créatures à la fois ; au moins une de ses attaques d'écrasement doit être dirigée contre les créatures qu'il a empoignées.
+_Touché_ : 4d6+9 dégâts contondants. Une cible est également _empoignée_ et _entravée_ (évasion DD 19) jusqu'à ce que Korshekh se déplace. Korshekh peut empoigner jusqu'à deux créatures à la fois ; au moins une de ses attaques d'écrasement doit être dirigée contre les créatures qu'il a empoignées.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 4,50 m, une cible.  
-_Touché_ : 20 dégâts perforants et la cible subit 10d6 dégâts de poison et est _empoisonnée_ pendant 1 heure ; réussir un jet de sauvegarde de Constitution DD 23 permet de réduire les dégâts de poison de moitié et d'annuler l'état _empoisonné_. Une créature qui échoue à son jet de sauvegarde de 10 ou plus est également _paralysée_ tant qu'elle se trouve dans l'état _empoisonné_.
+_Touché_ : 4d6+9 dégâts perforants et la cible subit 10d6 dégâts de poison et est _empoisonnée_ pendant 1 heure ; réussir un jet de sauvegarde de Constitution DD 23 permet de réduire les dégâts de poison de moitié et d'annuler l'état _empoisonné_. Une créature qui échoue à son jet de sauvegarde de 10 ou plus est également _paralysée_ tant qu'elle se trouve dans l'état _empoisonné_.
 
 ## Actions légendaires
 Korshekh peut faire 3 actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, Korshekh récupère les actions légendaires dépensées.

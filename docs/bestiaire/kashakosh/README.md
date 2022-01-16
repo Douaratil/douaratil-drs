@@ -87,10 +87,10 @@ _**Convocation de démons (1/jour)**_. Kashakosh peut convoquer 2d6 barlguras d'
 _**Attaques multiples**_. Kashakosh fait une attaque de _morsure_ et deux attaques de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants plus 2d6 dégâts de feu, et la cible doit réussir un jet de sauvegarde de Constitution DD 22 ou voir sa valeur de Force diminuée de 1d6. Une créature dont la Force est réduite à 0 meurt.
+_Touché_ : 8d6+10 dégâts perforants plus 2d6 dégâts de feu, et la cible doit réussir un jet de sauvegarde de Constitution DD 22 ou voir sa valeur de Force diminuée de 1d6. Une créature dont la Force est réduite à 0 meurt.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts tranchants plus 2d6 dégâts de feu, et la cible doit réussir un jet de sauvegarde de Constitution DD 22 ou voir sa valeur de Force diminuée de 1d6. Une créature dont la Force est réduite à 0 meurt.
+_Touché_ : 6d6+10 dégâts tranchants plus 2d6 dégâts de feu, et la cible doit réussir un jet de sauvegarde de Constitution DD 22 ou voir sa valeur de Force diminuée de 1d6. Une créature dont la Force est réduite à 0 meurt.
 
 _**Souffle de feu (Recharge 5-6)**_. Kashakosh peut cracher un cône de feu impie de 9 mètres. Toute créature prise dans la zone d'effet subit 17d6 dégâts, qui sont pour moitié de feu et pour moitié nécrotiques, ou moitié moins de dégâts si elle réussit un jet de sauvegarde de Dextérité DD 22.
 

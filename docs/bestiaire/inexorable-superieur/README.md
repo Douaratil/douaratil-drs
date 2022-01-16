@@ -77,7 +77,7 @@ _**Existence légendaire**_. Il n'est pas bon de tuer un Inéxorable. Lorsqu'il 
 _**Attaque multiple**_ L'inexorable peut attaquer **quatre** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 13 dégâts tranchant  
+_Touché_ : 3d6+11 dégâts tranchant  
 
 §§§ .hero
 "*Je massacrais la créature avec une satisfaction non dissimulée. Elle m'avait poursuivie pendant des lunes et je savais maintenant que je serais tranquille. Une douce main se posa sur mon épaule. J'ouvrais les yeux. Je me trouvais dans mon lit et Shemrata la Rouge me regardait d'un air inquiet.*   

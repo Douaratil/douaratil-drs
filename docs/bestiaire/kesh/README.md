@@ -50,4 +50,4 @@ _**Esprit lié**_. Le Kesh est lié à un lieu, une maison, un établissement (e
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 au toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1 dégâts perforants.
+_Touché_ : 1d6+3 dégâts perforants.

@@ -55,9 +55,9 @@ _**Résistance à la magie**_. La Kakishikh obtient un [_avantage_](/utiliser-le
 _**Attaques multiples**_. La Kakishikh effectue sept attaques : six avec ses épées longues et une avec sa queue.
 
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 3d6+4 dégâts tranchants.
 
-_**Queue**_ . _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une créature. Touché : 6 dégâts contondants. La cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 19) si elle est de taille M ou plus petite. Jusqu'à la fin de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave), la Kakishikh peut automatiquement réussir son attaque de queue contre elle mais ne peut plus utiliser cette attaque contre d'autres cibles.
+_**Queue**_ . _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une créature. Touché : 4d6+4 dégâts contondants. La cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 19) si elle est de taille M ou plus petite. Jusqu'à la fin de cette empoignade, la cible est [_entravée_](/gerer-la-sante-du-personnage/#entrave), la Kakishikh peut automatiquement réussir son attaque de queue contre elle mais ne peut plus utiliser cette attaque contre d'autres cibles.
 
 _**Téléportation**_. La Kakishikh se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.
 

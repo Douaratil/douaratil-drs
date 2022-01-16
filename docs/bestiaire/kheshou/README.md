@@ -49,7 +49,7 @@ _**Résistance à la magie**_. Le Kheshou obtient un [_avantage_](/utiliser-les-
 _**Attaques multiples**_. Le Kheshou effectue trois attaques : une avec sa morsure et deux avec ses griffes.
 
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 2d6+4 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 4d6+4 dégâts perforants.
