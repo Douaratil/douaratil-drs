@@ -19,6 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Bestiaire : ajout du [Charkoth](/bestiaire/charkoth)  
 - Bestiaire : ajout du [Rhinosaure](/bestiaire/rhinosaure)  
 - Bestiaire : ajout du [Rhinotosaure](/bestiaire/rhinotosaure)  
+- Mise à jour des dommages des créatures du bestiaire jusqu'à la lettre K.
 
 Bon jeu.  
 §§§ .text-right
