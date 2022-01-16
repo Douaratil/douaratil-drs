@@ -33,7 +33,7 @@ environments:
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Morsure**_. Si le Malaak réussit deux attaques de griffes sur un adversaire au cours du même round, il il le mort avec sa gueule canine, occasionnant automatiquement 3d6 de dégâts, d’autre part la victime est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) et subira des dégâts tous les rounds à moins de réussir un test de force DD15 pour se libérer. Le résultat des dégâts est appliqué à l'abdomen.  
+_**Morsure**_. Si le Mandrill des montagnes réussit deux attaques de griffes sur un adversaire au cours du même round, il le mort avec sa gueule canine, occasionnant automatiquement 3d6+2 de dégâts, d’autre part la victime est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) et subira des dégâts tous les rounds à moins de réussir un test de force DD15 pour se libérer. Le résultat des dégâts est appliqué à l'abdomen.  
 _**Discrétion**_. Dans un environnement enneigé, les Mandrills sont quasiment indétectables. Ils triplent leur bonus de discrétion dans ces conditions.  
 
 
@@ -41,7 +41,7 @@ _**Discrétion**_. Dans un environnement enneigé, les Mandrills sont quasiment 
 _**Attaques multiples**_ : Le Mandrill des montagnes effectue deux attaques de griffes.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+2 dégâts perforants.
 
 ---
 
