@@ -52,4 +52,4 @@ _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice 
 
 ## Actions
 _**Becs**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature dans l'emplacement de la nuée.  
-_Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+_Touché_ : 2d6 dégâts perforants ou 1d6 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.

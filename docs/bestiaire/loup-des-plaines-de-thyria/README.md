@@ -38,7 +38,7 @@ _**Tactique de groupe**_. Le loup obtient un [_avantage_](/utiliser-les-caracter
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ :3 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 12 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_Touché_ :1d6+4 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 12 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
 ---
 

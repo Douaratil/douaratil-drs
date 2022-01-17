@@ -49,4 +49,4 @@ _**Odorat aiguisé**_. La nuée obtient un [_avantage_](/utiliser-les-caracteris
 
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
-_Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+_Touché_ : 2d6 dégâts perforants ou 1d6 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.

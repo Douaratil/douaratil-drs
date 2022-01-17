@@ -55,4 +55,4 @@ _**Respiration aquatique**_. La nuée peut respirer uniquement sous l'eau.
 
 ## Actions
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée.  
-_Touché_ : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+_Touché_ : 4d6 dégâts perforants ou 2d6 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.

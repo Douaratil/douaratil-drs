@@ -49,7 +49,7 @@ environments:
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.
 
 ## Actions
-_**Morsures**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché : 6 dégâts perforants ou 3 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
+_**Morsures**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché : 2d6 dégâts perforants ou  1d6 dégâts perforants si la nuée a perdu au moins la moitié de ses points d'action.
 
 §§§ .hero
 ## Variante : nuée d'insectes

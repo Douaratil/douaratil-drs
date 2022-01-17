@@ -35,7 +35,7 @@ dungeonTypes:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## Actions
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+4 dégâts perforants.
 
 _**Massue**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 3d6+4 dégâts contondants.

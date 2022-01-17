@@ -50,7 +50,7 @@ _**Régénération**_. Le Ur'h mage récupère 10 points d'action au début de s
 _**Attaques multiples**_. Le Ur'h mage effectue deux attaques, soit avec ses griffes, soit avec sa massue.
 
 _**massue**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts contondant.
+_Touché_ : 3d6+4 dégâts contondant.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 2d6 dégâts tranchants.

@@ -37,7 +37,7 @@ _**Agressif**_. Par une action bonus, le Uh'r peut se déplacer d'une distance m
 
 ## Actions
 _**Hache à deux mains**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 8 dégâts tranchants.
+_Touché_ : 3d6+3 dégâts tranchants.
 
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +5 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
-_Touché_ : 4 dégâts perforants.
+_Touché_ : 2d6+3 dégâts perforants.

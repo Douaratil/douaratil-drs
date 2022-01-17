@@ -47,7 +47,7 @@ _**Mutation**_. Le chef Ur'h corrompu possède une capacité de la liste ci-dess
 _**Attaques multiples**_. Le chef Ur'h corrompu fait deux attaques de corps à corps.
 
 _**Massue**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 3d6+5 dégâts contondants.
 
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +8 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.

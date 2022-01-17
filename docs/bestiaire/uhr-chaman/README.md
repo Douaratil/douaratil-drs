@@ -45,4 +45,4 @@ _**Incantation**_. Le chaman est un lanceur de sorts de Foi. Sa caractéristique
 _**Attaques multiples**_. Le chaman effectue deux attaques au corps à corps.
 
 _**Masse**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 4 dégâts contondants.
+_Touché_ : 2d6+4 dégâts contondants.

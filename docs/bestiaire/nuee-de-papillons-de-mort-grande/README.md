@@ -57,4 +57,4 @@ _**Poids des ailes**_. La vitesse d'une créature qui se trouve dans le même em
 _**Attaques multiples**_. La nuée porte une attaque de _morsure_ contre toutes les créatures avec lesquelles elle partage un emplacement.
 
 _**Morsures**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée.  
-_Touché_ : 16 dégâts perforants ou 8 dégâts perforants si la nuée n'a plus que la moitié de ses points d'action ou moins. La cible subit également 5d6 dégâts de poison et est _empoisonnée_ pendant 1d6 rounds ; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état _empoisonné_ si elle réussit un jet de sauvegarde de Constitution DD 15.
+_Touché_ : 6d6+3 dégâts perforants ou 3d6+3 dégâts perforants si la nuée n'a plus que la moitié de ses points d'action ou moins. La cible subit également 5d6 dégâts de poison et est _empoisonnée_ pendant 1d6 rounds ; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état _empoisonné_ si elle réussit un jet de sauvegarde de Constitution DD 15.
