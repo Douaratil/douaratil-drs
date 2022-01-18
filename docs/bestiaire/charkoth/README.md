@@ -28,7 +28,7 @@ environments:
 &nbsp;
 [![Charkoth](https://www.douaratil.fr/illustrations/bete/charkothm.png)](https://www.douaratil.fr/illustrations/bete/charkoth.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+2 dégâts perforants.

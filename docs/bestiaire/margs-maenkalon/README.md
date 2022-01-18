@@ -230,6 +230,7 @@ Margs possède l'équipement suivant :
 **Colons** : 63  
 **Trésor** : 880 pa
 **Nourriture** : 9
+**Construction de Miz Genver 722** : 5 maisons et 1 bergerie (terminée pour début Miz favros 722)
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
