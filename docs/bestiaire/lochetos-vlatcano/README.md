@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (3/1) "
+  - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (3/2), Shahim/Shahiate (1/0), Sogh (1/0)"
 category: "PJ"
 ---
 ## Lochetos Vlatcano
@@ -199,7 +199,7 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +1**  
 **DD de Sauvegarde: 9**  
-**Novice** : [soin des blessures](/grimoire/soin-des-blessures).  
+**Novice** : [Messager animal](/grimoire/messager-animal), [soin des blessures](/grimoire/soin-des-blessures).  
 §§§
 
 §§§ .hero
