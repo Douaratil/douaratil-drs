@@ -31,7 +31,7 @@ environments:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13       
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants, la cible doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible est _aveuglée_ et subit 2d6 dégâts de poison au début de chacun de ses tours. La cible refait le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
+_Touché_ : 3d6 dégâts perforants, la cible doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible est _aveuglée_ et subit 2d6 dégâts de poison au début de chacun de ses tours. La cible refait le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 
 §§§ .hero
 "*Un liquide verdâtre qui goutte de crocs aussi longs que des kriss acérés qui sortent de la bouche de cette monstruosité de dix huit pieds de long qui ne connaît pas la peur, c’est la vision terrifiante que j’ai eu de cette vipère. Par chance, je l’ai rencontré alors qu’elle se trouvait enfermée dans une cage. Ce serpent venimeux géant est considéré comme l’un des plus dangereux et l’un des rares à attaquer un humain adulte. Il lui suffit d’une morsure pour tuer un humain en bonne santé en quelques secondes, et il est très dur à occire grâce à sa peau épaisse. Le cruel propriétaire shahim de l’animal voulut jeter un esclave sooghaï dans la cage pour me prouver ses dires mais je lui précisais que je le croyais sur parole, sauvant ainsi la momentanément la vie du pauvre homme.*  

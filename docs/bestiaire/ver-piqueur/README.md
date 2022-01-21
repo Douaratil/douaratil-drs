@@ -34,7 +34,7 @@ dungeonTypes:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
 ## Actions
 _**Dart**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
+_Touché_ : 2d6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 3d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.
 
 §§§ .hero
 « *Le bruit dans le sol avait un instant cessé. Soudain, un petit monticule sortit de terre à la manière d’une taupinière mais il s’écarta pour laisser la place à un écoeurant ver de la circonférence d’un melon. Je reculais en le regardant se dérouler sur le sol et se lover. Il mesurait six bonnes coudées. Il se redressa dans ma direction et c’est à ce moment que je remarquai une pointe osseuse à l’extrémité de l’animal d’où suintait un liquide noir. Je comprenais immédiatement qu’il s’agissait de poison. J’avais perdu mes deux compagnons dans cette caverne, je ne souhaitais pas les rejoindre dans leur repos éternel et décidait de rebrousser chemin car ma soif de connaissances n’avait d’égal que ma prudence.* »

@@ -38,4 +38,4 @@ _**Retenir son souffle**_. Le plésiosaure peut retenir son souffle pendant 1 he
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 3d6+4 dégâts perforants.

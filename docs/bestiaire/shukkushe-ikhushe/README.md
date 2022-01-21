@@ -62,4 +62,4 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 _**Forme éthérée**_. Le fiélon entre par magie dans le plan Éthéré depuis le plan Matériel ou vice versa.
 
 _**Griffe (forme de fiélon uniquement)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants.
+_Touché_ : 1d6+3 dégâts tranchants.

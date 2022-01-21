@@ -75,10 +75,10 @@ _**Parler avec les singes**_. Shekhuii peut expliquer des concepts simples aux s
 _**Attaques multiples**_. Shekhuii utilise sa _présence terrifiante_ et fait une attaque de _morsure_ et deux attaques de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts perforants plus 2d6 dégâts de feu.
+_Touché_ : 3d6+11 dégâts perforants plus 2d6 dégâts de feu.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 6 m, une cible.  
-_Touché_ : 20 dégâts tranchants.
+_Touché_ : 3d6+11 dégâts tranchants.
 
 _**Souffle embrasant (Recharge 5–6)**_. Shekhuii crache un cône de feu et d'acide de 18 mètres. Les créatures prises dans le cône subissent chacune 6d6 dégâts de feu plus 6d6 dégâts d'acide, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 24.
 

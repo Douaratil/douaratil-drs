@@ -55,9 +55,9 @@ _**Métamorphe**_. Le Shukhakh peut utiliser son action pour prendre l'une des d
 _**Attaques multiples**_. Le Shukhakh fait deux attaques de _griffes_ et une de _morsure_ ou deux attaques de _griffes_ et une de _boiterie_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants.
+_Touché_ : 4d6+6 dégâts perforants.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants.
+_Touché_ : 7d6+6 dégâts tranchants.
 
 _**Boiterie**_. Le Shukhakh peut handicaper une créature en déchirant ses tendons et ses ligaments par télékinésie. Il peut viser une créature dans un rayon de 30 mètres. Elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle subit 4d6 dégâts de force et voit sa vitesse réduite de 6 mètres. Les déplacements magiques ne sont pas affectés. Ces dégâts se guérissent uniquement par magie, pas en dépensant un dé d'action ni en se reposant.

@@ -55,8 +55,9 @@ _**Spasmes d'agonie**_. Le Shakhor explose quand il meurt, et toutes les créatu
 _**Attaques multiples**_. Le Shakhor effectue deux attaques : une avec son épée longue et une avec son fouet.
 
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 10 dégâts tranchants plus 4d6 dégâts de foudre.
+_Touché_ : 4d6+8 dégâts tranchants plus 4d6 dégâts de foudre.
 
-_**Fouet**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 9 m, une cible. Touché : 10 dégâts tranchants plus 3d6 dégâts de feu et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 20 pour ne pas être tiré vers le Shakhor sur une distance maximale de 7,50 mètres.
+_**Fouet**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 9 m, une cible.
+_Touché_ : 2d6+8 dégâts tranchants plus 3d6 dégâts de feu et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 20 pour ne pas être tiré vers le Shakhor sur une distance maximale de 7,50 mètres.
 
 _**Téléportation**_. Le Shakhor se téléporte par magie, avec tous ses objets équipés ou transportés, vers un emplacement inoccupé situé dans son champ de vision à une distance maximale de 36 mètres.

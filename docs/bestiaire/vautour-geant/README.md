@@ -38,7 +38,7 @@ _**Tactique de groupe**_. Le vautour obtient un [_avantage_](/utiliser-les-carac
 _**Attaques multiples**_. Le vautour effectue deux attaques : une avec son bec et une avec ses serres.
 
 _**Bec**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6 dégâts perforants.
 
 _**Serres**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 2d6+2 dégâts tranchants.

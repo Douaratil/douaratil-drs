@@ -38,13 +38,13 @@ _**Monstre assiégeur**_. La quantité de dégâts qu'un spinosaure inflige aux 
 _**Attaques multiples**_. Le spinosaure porte une attaque de _morsure_ et deux de _griffes_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 4,50 m, une cible.  
-_Touché_ : 20 dégâts perforants. Si la cible est une créature de taille Grande ou inférieure, elle se trouve _empoignée_ (évasion DD 18). Quand le spinosaure se déplace, la créature _empoignée_ se déplace avec lui. Tant qu'elle est _empoignée_, la cible est _entravée_ et le spinosaure ne peut pas mordre une autre cible.
+_Touché_ : 8d6+8 dégâts perforants. Si la cible est une créature de taille Grande ou inférieure, elle se trouve _empoignée_ (évasion DD 18). Quand le spinosaure se déplace, la créature _empoignée_ se déplace avec lui. Tant qu'elle est _empoignée_, la cible est _entravée_ et le spinosaure ne peut pas mordre une autre cible.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 20 dégâts tranchants.
+_Touché_ : 4d6+8 dégâts tranchants.
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 6 m, une cible.  
-_Touché_ : 20 dégâts contondants.
+_Touché_ : 4d6+8 dégâts contondants.
 
 _**Présence terrifiante**_. Toutes les créatures choisies par le spinosaure, qui se trouvent dans un rayon de 36 mètres autour de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 18 ou être _terrorisées_ pendant 1 minute. Une créature _terrorisée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature réussit son jet de sauvegarde ou que cet effet se termine en ce qui la concerne, elle est immunisée contre la présence terrifiante du spinosaure pour les prochaines 24 heures.
 

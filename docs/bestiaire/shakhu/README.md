@@ -52,7 +52,7 @@ _**Résistance à la magie**_. Le Shakhu obtient un [_avantage_](/utiliser-les-c
 _**Attaques multiples**_. Le Shakhu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.
 
 _**Pince**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Le Shakhu a deux pinces dont chacune peut empoigner qu'une seule créature.
+_Touché_ : 4d6+1 dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Le Shakhu a deux pinces dont chacune peut empoigner qu'une seule créature.
 
 _**Poing**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 2d6 dégâts contondants.

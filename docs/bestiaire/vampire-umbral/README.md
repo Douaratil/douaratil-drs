@@ -67,6 +67,6 @@ _**Sensibilité à la lumière du soleil**_. Le vampire umbral est _désavantag�
 
 ## Actions
 _**Poigne umbrale**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5d6 dégâts de froid et la valeur de Force de la cible diminue de 1d6. La cible meurt si cela réduit sa Force à 0, sinon la diminution persiste jusqu'à ce qu'elle termine un long ou un court repos.
+_Touché_ : 4d6+4 dégâts de froid et la valeur de Force de la cible diminue de 1d6. La cible meurt si cela réduit sa Force à 0, sinon la diminution persiste jusqu'à ce qu'elle termine un long ou un court repos.
 
 Si un humanoïde non mauvais décède suite à cette attaque, une ombre se lève de son cadavre 1d6 heures plus tard.

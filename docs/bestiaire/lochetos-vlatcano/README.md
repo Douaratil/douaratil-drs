@@ -242,6 +242,7 @@ Lôchetos possède l'équipement suivant :
 **Colons** : 57    
 **Trésor** : 0  
 **Nourriture** : 0  
+**Constructions Miz Genver 722** : 1 maison  
 
 
 ### Modificateur d'évènement  

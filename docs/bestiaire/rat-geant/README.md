@@ -34,7 +34,7 @@ _**Tactique de groupe**_. Le rat obtient un [_avantage_](/utiliser-les-caracteri
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2 dégâts perforants.
+_Touché_ : 1d6 dégâts perforants.
 
 §§§ .hero
 ## Variante : rats géants malades

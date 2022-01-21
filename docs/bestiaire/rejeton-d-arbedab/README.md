@@ -46,7 +46,7 @@ _**Communication odorante**_. Un rejeton d'Arbedab peut communiquer avec ses sem
 _**Attaques multiples**_. Un rejeton d'Arbedab fait une attaque de _morsure_ et deux de _dard_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts tranchants 2d6 dégâts de poison.
+_Touché_ : 2d6+4 dégâts tranchants 2d6 dégâts de poison.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants plus 2d6 dégâts de poison musculaire. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle se trouve dans l'état _empoisonné_ pendant 1 minute. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+_Touché_ : 1d6+4 dégâts perforants plus 2d6 dégâts de poison musculaire. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle se trouve dans l'état _empoisonné_ pendant 1 minute. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.

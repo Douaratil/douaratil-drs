@@ -43,10 +43,10 @@ _**Piège osseux**_. Quand le wyrm des sables est sous terre avec ses excroissan
 _**Attaques multiples**_. Le wyrm des sables porte une attaque de _morsure_ et une attaque de _dard_. Il peut remplacer la _morsure_ par un _coup de corne_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.
 
 _**Coup de corne**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 6 dégâts perforants.
+_Touché_ : 2d6+5 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 3 m, une créature.  
-_Touché_ : 6 dégâts perforant plus 7d6 dégâts de poison musculaire, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 15 réussi. Si les dégâts de poison réduisent les points d'action de la cible à 0, elle est stable, mais _empoisonnée_ et _paralysée_ pendant 1 heure. La récupération de points d'action ne met pas un terme à l'empoisonnement ni à la paralysie.
+_Touché_ : 2d6+5 dégâts perforant plus 7d6 dégâts de poison musculaire, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 15 réussi. Si les dégâts de poison réduisent les points d'action de la cible à 0, elle est stable, mais _empoisonnée_ et _paralysée_ pendant 1 heure. La récupération de points d'action ne met pas un terme à l'empoisonnement ni à la paralysie.

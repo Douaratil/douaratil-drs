@@ -188,9 +188,9 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3862 PC
-- 18 788 PA
+- 19 788 PA
 - 44 PE
-- 2915 PO
+- 2615 PO
 - 89 PP.  
 §§§
 
@@ -223,7 +223,8 @@ Gwion possède l'équipement suivant :
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
-[Brise os](/grimoire/brise-os), [Réservoir arcanique](/grimoire/reservoir-arcanique)
+[Brise os](/grimoire/brise-os), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Scrutation](/grimoire/scrutation)
+$àçmp
 
 **Sorts possédés à apprendre** :
 
@@ -266,9 +267,10 @@ Gwion possède l'équipement suivant :
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
 |**Total**|**10**|**10**|**0**|**0**|**6d6**|**38**|**110X6d6 pa**|**-**|
 
-**Colons** : 37  
+**Colons** : 41  
 **Trésor** : 0
 **Nourriture** : 28
+**Constructions Miz Genver 722** : 1 maison  
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
@@ -281,7 +283,7 @@ Gwion possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 157 230       
+**XP acquis** : 159 630       
 **Points de Magie** :76   
 **Points de Foi** :18    
 **Points d'honneur** :47          

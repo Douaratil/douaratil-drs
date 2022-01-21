@@ -43,7 +43,7 @@ _**Expectoration de nuées (recharge 5-6)**_. Un rejeton peut cracher une [_nué
 _**Attaques multiples**_. Un rejeton porte une attaque de _morsure_ et deux de _dard_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants.
+_Touché_ : 2d6 dégâts perforants.
 
 _**Dard**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3 dégâts perforants plus 2d6 dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être _empoisonnée_ pour 1d6 rounds.
+_Touché_ : 3d6 dégâts perforants plus 2d6 dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou être _empoisonnée_ pour 1d6 rounds.

@@ -31,4 +31,4 @@ _**Charge**_. Si le rhinocéros se déplace en ligne droite sur une distance min
 
 ## Actions
 _**Coup de corne**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts contondants.
+_Touché_ : 3d6+3 dégâts contondants.

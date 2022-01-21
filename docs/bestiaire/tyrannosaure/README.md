@@ -34,10 +34,10 @@ environments:
 _**Attaques multiples**_. Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 10 dégâts perforants. La cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 17) si elle est de taille M ou plus petite. Elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave) tant qu'elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) et le tyrannosaure ne peut pas mordre une autre créature.
+_Touché_ : 8d6+7 dégâts perforants. La cible est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 17) si elle est de taille M ou plus petite. Elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave) tant qu'elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) et le tyrannosaure ne peut pas mordre une autre créature.
 
 _**Queue**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 10 dégâts contondants.
+_Touché_ : 4d6+7 dégâts contondants.
 
 §§§ .hero
 "*Je me trouvais fièrement en tête de colonne, chevauchant ma nouvelle monture, un superbe pur- sang d'un blanc immaculé, cadeau du seigneur-marchand Elgofas . Voilà longtemps que je n'en avais pas possédé de si belle (j'ai tendance à les perdre mais j'ai souvent des excuses).*  

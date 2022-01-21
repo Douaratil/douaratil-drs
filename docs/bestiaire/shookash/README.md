@@ -61,7 +61,7 @@ _**Porte des ombres (4/jour)**_. Un shookash peut voyager entre les ombres comme
 _**Attaques multiples**_. Un démon shookash porte trois attaques de _morsure_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6.
+_Touché_ : 4d6+5 tranchant.
 
 _**Rayon de vol d'ombre (Recharge 5-6)**_ Un shookash peut émettre un rayon depuis son œil unique. Une cible qui se trouve à 18 mètres du shookash est automatiquement touchée par ce rayon. La cible se trouve repoussée de 6 mètres en arrière et doit réussir un jet de sauvegarde de Dextérité DD 15 ou être également jetée _à terre_. L'ombre de la cible reste dans l'emplacement qu'elle occupait à l'origine et se comporte comme une ombre morte-vivante sous le contrôle du démon shookash.
 

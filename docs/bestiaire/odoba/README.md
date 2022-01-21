@@ -72,7 +72,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Odoba es
 _**Attaques multiples**_. Un Odoba porte quatre attaques : une de _morsure_, une de _griffes_, une à l'aide de son _fléau_ et une de _pas pesant_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts perforants. La cible doit également réussir un jet de sauvegarde de Constitution DD 18 ou être _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible ne peut pas regagner de points d'action et elle subit 4d6 dégâts de poison circulatoire au début de chacun de ses tours. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+_Touché_ : 3d6+8 dégâts perforants. La cible doit également réussir un jet de sauvegarde de Constitution DD 18 ou être _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible ne peut pas regagner de points d'action et elle subit 4d6 dégâts de poison circulatoire au début de chacun de ses tours. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 2d6+8 dégâts tranchants.

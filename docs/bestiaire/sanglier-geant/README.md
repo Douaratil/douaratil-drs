@@ -35,4 +35,4 @@ _**Implacable (Recharge après un [_repos court_](/gerer-la-sante-du-personnage/
 
 ## Actions
 _**Défense**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 dégâts tranchants.
+_Touché_ : 2d6+3 dégâts tranchants.

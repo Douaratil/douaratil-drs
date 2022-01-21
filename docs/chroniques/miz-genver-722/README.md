@@ -36,3 +36,7 @@ Bien que ces paroles ne soient pas magiques, le sorcier ne peut s’empêcher de
 
 La voix de [Gwion](/bestiaire/gwion-gornoc)  résonne étrangement dans ce lieu. Elle sonne à la fois cristalline et à la fois mate. Il lui semble que son sort ne fonctionne pas. Lorsque soudainement il se sent vidé de son énergie. Ces quelques instants lui semblent durer une éternité, et au moment où ce supplice s’arrête, il défaille et se sent vidé d’au moins la moitié de son énergie si ce n’est plus. C’est aussi la première fois pour lui qu’il lance un sort aussi puissant, et il doute que son maître en ait un jour jeté comme celui-ci.  
 L’atmosphère est changée, preuve que le sort fonctionne. Le sorcier laisse la pierre s’alimenter dans la pyramide et il s’en va de ce lieu qu’il scelle soigneusement : un vol serait pour lui une véritable honte. Il rejoint ses hommes de gardes, étonnés de son état mais qui se gardent bien de faire un quelconque commentaire. Il repartent dans la nuit vers la colonie.  
+
+## Madinalajnibh   
+**3 Miz Genver**  
+Le conseil de la colonie Madinalajnibh décide de se rendre au sud vérifier les informations obtenues dans la pyramide de Dif'alquadim. Ils font aussi le lien avec la prophétie de la devineresse sermazolth de Dinas Môr-leidr. 

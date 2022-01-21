@@ -16,6 +16,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 87
 - Correction coups critique dans la section combattre.   
+- Mise à jour en cours chronique de [Miz Genver 722](/chroniques/miz-genver-722)
+- Mise à jour des dégâts des créatures du bestiaire (enfin terminé).
 
 Bon jeu.  
 §§§ .text-right
