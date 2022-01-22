@@ -18,6 +18,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Correction coups critique dans la section combattre.   
 - Mise à jour en cours chronique de [Miz Genver 722](/chroniques/miz-genver-722)
 - Mise à jour des dégâts des créatures du bestiaire (enfin terminé).
+- Ajout de la possibilité de soutenir le projet du site en june (G1) avec [ma clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj ou sur le site gchange en lien](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil)
 
 Bon jeu.  
 §§§ .text-right
@@ -164,7 +165,8 @@ Bon jeu à tout le monde !
 &nbsp;
 <v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/vRXeVwrNvK), pour discuter de ce site.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
-<v-icon>mdi-twitter</v-icon> [Twitter Douaratil](https://twitter.com/douaratil), pour les annonces des mises à jour régulières.
+<v-icon>mdi-twitter</v-icon> [Twitter Douaratil](https://twitter.com/douaratil), pour les annonces des mises à jour régulières.  
+<v-icon>mdi-alpha-g-circle-outline</v-icon>[Pour faire un paiement, envoyer de la monnaie Ğ1](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil) : à la clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj
 
 </v-col>
 
