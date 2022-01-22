@@ -14,6 +14,16 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 88
+- Correction du sort [Hors saison](/grimoire/hors-saison)   
+- Mise à jour des tableaux des [composants magiques](/equipement/composants-magiques) jusqu'à "Localiser des animaux ou des plantes".
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 22 janvier 2022_
+§§§  
+
 ## Mise à jour 87
 - Correction coups critique dans la section combattre.   
 - Mise à jour en cours chronique de [Miz Genver 722](/chroniques/miz-genver-722)
@@ -162,11 +172,13 @@ Bon jeu à tout le monde !
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage PDF](https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf), _par Olivier_.  
 
 ### À propos de ce site
+<v-icon>mdi-alpha-g-circle-outline</v-icon>[Pour faire un paiement, envoyer de la monnaie Ğ1](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil) : à la clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj
+
+### À propos de ce site
 &nbsp;
 <v-icon>mdi-discord</v-icon> [Discord Douaratil](https://discord.gg/vRXeVwrNvK), pour discuter de ce site.  
 <v-icon>mdi-github</v-icon> [Sources Github](https://github.com/douaratil/heros-et-dragons-drs), tout le code source en licence GPLv3.  
 <v-icon>mdi-twitter</v-icon> [Twitter Douaratil](https://twitter.com/douaratil), pour les annonces des mises à jour régulières.  
-<v-icon>mdi-alpha-g-circle-outline</v-icon>[Pour faire un paiement, envoyer de la monnaie Ğ1](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil) : à la clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj
 
 </v-col>
 
