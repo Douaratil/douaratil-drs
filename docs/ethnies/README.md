@@ -1,5 +1,5 @@
 ---
-title: "langues"
+title: "ethnies"
 ---
 # Les ethnies
 ## Traits ethniques
@@ -33,6 +33,9 @@ Personne originaire d'Alicantys et par extension, originaire de l'Empire. Alican
 **Augmentation de caractéristiques**. Votre valeur d’intelligence augmente de 1.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Langues**. Vous parlez et écrivez l’*Alcath*, le commun impérial ainsi que la langue alcante, l’*Alcane*.  
+
+&nbsp;
+[![Impérial](https://www.douaratil.fr/illustrations/regles/ethniealcantem.png)](https://www.douaratil.fr/illustrations/regles/ethniealcante.jpg)  
 
 ## Les peuples
 
@@ -73,6 +76,9 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Langues**. Vous parlez et écrivez le *Weslèdh*, le commun nordique.  
 
+&nbsp;
+[![Nordique](https://www.douaratil.fr/illustrations/regles/ethnienordiquem.png)](https://www.douaratil.fr/illustrations/regles/ethnienordique.jpg)  
+
 ### Traits du Khernaë
 
 **Augmentation de caractéristiques**. Votre valeur de dextérité augmente de 2.  
@@ -102,6 +108,8 @@ Peuple d'orient sur le point d'envahir les terres de l'ouest. Ils sont constitu�
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.   
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Langues**. Vous parlez et écrivez le commun Minghour, le *Minghour* et sa déclinaison écrite le *Minghath*.  
+&nbsp;
+[![Asiatique](https://www.douaratil.fr/illustrations/regles/ethnieasiatiquem.png)](https://www.douaratil.fr/illustrations/regles/ethnieasiatique.jpg)  
 
 ### Minghour Oynours
 **Augmentation de caractéristiques**. Votre valeur dextérité augmente de 1.  
@@ -121,6 +129,8 @@ Peuple d'orient sur le point d'envahir les terres de l'ouest. Ils sont constitu�
 # Race ancienne
 ## Traits du Selmonite
 ### Selmonite.
+&nbsp;
+[![Selmonite](https://www.douaratil.fr/illustrations/regles/ethnieselmonitem.png)](https://www.douaratil.fr/illustrations/regles/ethnieselmonite.jpg)  
 Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorieux.  
 **Augmentation de caractéristiques**. Votre valeur d’intelligence  augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
@@ -140,6 +150,9 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Langues**. Vous parlez et écrivez le commun des royaumes de Shaia, le *Shahim* et sa déclinaison écrite le *Shahiate*.  
+
+&nbsp;
+[![Shahim](https://www.douaratil.fr/illustrations/regles/ethnieshahimm.png)](https://www.douaratil.fr/illustrations/regles/ethnieshahim.jpg)  
 
 ### Peuple Ashkémites
 **Augmentation de caractéristiques**. Votre valeur constitution augmente de 1.  
@@ -166,6 +179,8 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 ## Traits du Sooghaï
 ### Sooghaï.
 Peuple à la peau noire des royaumes du sud.  
+&nbsp;
+[![Sooghaï](https://www.douaratil.fr/illustrations/regles/ethniesooghaim.png)](https://www.douaratil.fr/illustrations/regles/ethniesooghai.jpg)  
 ### Peuple Sooghaï
 **Augmentation de caractéristiques**. Votre valeur de constitution augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  

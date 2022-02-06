@@ -5,6 +5,10 @@ description: Règles de création de personnage
 # Création du personnage
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
+
+&nbsp;
+[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage.jpg)  
+
 ## 1. Choisir une ethnie
 
 Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque ethnie et chaque variante.
@@ -44,6 +48,9 @@ La **Sagesse** mesure l'intuition et la perspicacité du personnage, sa capacit�
 Le **Charisme** traduit les aptitudes sociales du personnage et sa personnalité. C'est le Charisme qui permet de persuader, d'enjoliver ou d'attirer les regards sur soi au moment opportun. Le charisme permet de calculer les points d’honneur (PH).  
 
 Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
+
+&nbsp;
+[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem2.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage2.jpg)  
 
 ### Répartition des points de caractéristiques
 Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustée par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
@@ -101,6 +108,8 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
+&nbsp;
+[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem3.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage3.jpg)  
 
 ## Évolution des personnages
 

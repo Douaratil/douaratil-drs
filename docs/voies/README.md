@@ -7,6 +7,8 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 
 # Voie des armes
 ## Évolution de la voie des Armes
+&nbsp;
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmesm.png)](https://www.douaratil.fr/illustrations/regles/voiedesarmes.jpg)
 
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
@@ -75,6 +77,8 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 # Voie de l’ombre
 ## Évolution de la voie de l'ombre
+&nbsp;
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombrem.png)](https://www.douaratil.fr/illustrations/regles/voiedelombre.jpg)
 
 |Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
 |:-:|:-:|:-:|:-:|
@@ -141,7 +145,8 @@ Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
 # Voie de la magie
 ## Évolution de la voie de la magie
-
+&nbsp;
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagiem.png)](https://www.douaratil.fr/illustrations/regles/voiedelamagie.jpg) 
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
