@@ -39,4 +39,38 @@ L’atmosphère est changée, preuve que le sort fonctionne. Le sorcier laisse l
 
 ## Madinalajnibh   
 **3 Miz Genver**  
-Le conseil de la colonie Madinalajnibh décide de se rendre au sud vérifier les informations obtenues dans la pyramide de Dif'alquadim. Ils font aussi le lien avec la prophétie de la devineresse sermazolth de Dinas Môr-leidr. 
+Le conseil de la colonie Madinalajnibh décide de se rendre au sud pour vérifier les informations obtenues dans la pyramide de Dif'alquadim. Ils font aussi le lien avec la prophétie de la devineresse sermazolth de Dinas Môr-leidr. Cet aspect les motives d'autant plus que la vie dans le désert est difficile pour beaucoup d'entre eux.
+
+**4 Miz Genver**   
+C'est ainsi qu'au petit matin, tous les compagnons se mettent en route en direction de la grande cité du sud Idolobha Elikhulu, à l'exception de Taron, Pywed et Knuth. Le voyage dans le désert est monotone et chacun reste silencieux pour économiser ses forces. La longue caravane s'étire sur les crêtes des dunes et le silence n'est brisé que par le bruit du sable qui dévale les pentes et par le bruit des reniflements des dromadaires.   
+
+**7 Miz Genver**   
+Les jours se sont succédés sans incident et désormais les dunes commencent à disparaitre à l'horizon du nord. Des herbes sèches apparaissent et sortent du sable. Au début, discrètement mais finalement, les herbes sèches prennent le dessus puis des petits buissons commencent aussi à faire leur apparition. En fin de journée, les compagnons déambulent dans une véritable savane. Le relief reste chaotique dans de nombreux endroits et ne permettent pas de voir très loin. souvent les herbes arrivent à mi-corps.   
+Soudain un brouhaha se fait entendre et surgissant de la crête d'une petite colline escarpée, des créatures massives et trapues, ressemblant à des hippopotames ou des rhinocéros, mais avec la particularité d'avoir une crête osseuse derrière la nuque et de grandes défenses qui sortent de la mâchoire. Les [Tabordons](/bestiaire/tabordon) prennent de cour la caravane et la déborde par les flancs, bousculant les dromadaires et éparpillant les individus qui cherchent à éviter le choc frontal avec ces créatures. Certains, paniquant, attaquent les [Tabordons](/bestiaire/tabordon) et en tuent plusieurs.  
+C'est en voyant des bergers sooghaïs qui crient qu'ils arrêtent la tuerie d'un troupeau qui avait pris peur.   
+Il s'en suit une phase houleuse de demande de dédommagement, qui se conclue sans satisfaire aucun parti.   
+Ne demandant pas leur reste, les compagnons accélèrent le pas pour arriver à Idolobha Elikhulu et marchent une partie de la nuit.  
+
+**8 Miz Genver**   
+C'est au petit matin qu'il se rendent compte que la végétation a changé. Ici tout est plus vert et de grands arbres encore éparses déploient de majestueuses branches couvertes de longues feuilles et de fruits colorés.  
+Tous se rappellent l'étrange écriture se trouve sur la stèle de Dif'Alquadim et de la traduction de [Sawrina](/bestiaire/sawrina-semiramis/):  
+*Dif'alquadim est le coeur, car ici tout commence pour celui qui veut emprunter la voie (intraduisible)*  
+*Les dieux dans leur (intradiusible) ont fait le nécessaire pour (intraduisible) accéder à leur puissance*   
+*Les mondes se superposent et s'entrecroisent*   
+*Les Kashas viennent de (intraduisible), les Diabes vivent à (intraduisible) mais les dieux eux-mêmes ne sont pas ceux qu'ils prétendent être*   
+*Nous, les éveillés de (intraduisibles) empruntons le chemin*   
+*Nous, les éveillés de (intraduisibles) démontreront leur duplicité et leur forfaiture*   
+*Le chemin ne débute pas ici*  
+*Au fond de toi se trouve le chemin*  
+*Mais ouvrir la porte demandera la clé et cette clé, nul ne la possède*   
+*Car la clé a été donnée par un dieu trahis (intraduisible)*   
+*La clé se trouve dans le sanctuaire sous la mer dans la terre*   
+Ainsi que la prophétie de la divineresse Aodrena War Arc'hant :  
+*"Dans la période du Premier Feu, la nation des enfants d’Ylohane s’élèvera et suivra la voie du Cercle de la nuit. Le cercle de Kernac servira de point de rassemblement au peuple et ses traditions seront la source de beaucoup de force. Le Bhegelm choisi par le destin Sacré les conduira à la terre choisie pour les élues du nouveau jour. Vous devrez chercher une île, ancienne maison du peuple déchu, et découvrir le puit reliée à la purification de la terre. Vous trouverez une telle île au début et à la fin de votre voyage. Il y aura sept endroits où vous vous arrêterez sur votre parcours. Vous saurez que vous avez atteint l’endroit choisi quand vous aurez atteint une terre où la nourriture se développe sur l’eau. Si vous y restez, vous périrez."*     
+Les groupe se remet en route, dans un silence ponctués par les claques pour combattre vainement les moustiques.   
+
+## Idolobha Elikhulu   
+C'est à la fin de journée qu'ils arrivent en vue de la ville d'Idolobha Elikhulu. Depuis les petites collines alentours, il ne s'agit pas d'une ville qui comporte de grands bâtiments mais il s'agit d'une multitude de petites maisons de bois et de terre rouge qui ne dépasse pas un étage. Une grande partie de la ville borde la grande mer intérieure qu'est le lac Ichibi.   
+Dans un soleil couchant sanguinolent qui se couche à l'ouest, au loin des vols d'échassiers roses et blancs s'ébattent dans les airs. La cité elle même est entourée d'une palissade qui est un mélange de troncs d'arbres et de mur de terre rouge colmaté avec des bouses de vaches et de [Tabordons](/bestiaire/tabordon).   
+Il y a une grande activité dans la ville qui semble toujours être en effervescence comme si un marché y avait lieu tous les jours.
+Idolobha Elikhulu est une grande ville commerçante.  

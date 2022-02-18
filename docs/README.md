@@ -14,6 +14,25 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 91
+- Avancement de la version papier et PDF du livre du joueur.
+- Ajout d'une nouvel archétype l'[Alka'him](/archetypes/alkahim)
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 13 février 2022_
+§§§  
+
+## Mise à jour 90
+- Mise à jour en cours chronique de [Miz Genver 722](/chroniques/miz-genver-722)
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 6 février 2022_
+§§§  
+
 ## Mise à jour 89
 - Ajout d'illustrations à la page [Création du personnage](/creation-du-personnage)
 - Ajout d'illustrations à la page [Ethnies](/ethnie)
@@ -185,7 +204,8 @@ Bon jeu à tout le monde !
 <v-icon>mdi-drama-masks</v-icon> [Feuille de personnage PDF](https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf), _par Olivier_.  
 
 ### À propos de ce site
-<v-icon>mdi-alpha-g-circle-outline</v-icon>[Pour faire un paiement, envoyer de la monnaie Ğ1](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil) : à la clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj
+&nbsp;
+<v-icon>mdi-alpha-g-circle-outline</v-icon> [Pour payer en Ğ1](https://www.gchange.fr/#/app/market/view/AX5-Bf35MXNil0GI2Ce_/dveloppement-du-jeu-de-rle-douaratil) : à la clé publique 4ZTqxWU9s2yKkem4gQC79jZkXYtV77bNoLbSgvCt8SXj
 
 ### À propos de ce site
 &nbsp;

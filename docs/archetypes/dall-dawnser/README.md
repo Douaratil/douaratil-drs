@@ -47,15 +47,13 @@ Dès le niveau 3, votre pratique des arts de combat Dall Hadur vous permet de ma
 Les dégâts de combat à mains nues évoluent suivant le niveau de Dall Dawnser.
 
 |Niveau|Dégâts|
-|:-:|:-:|
-|**3**|1|
-|**5**|2|
-|**7**|3|
-|**10**|4|
-|**13**|5|
-|**16**|6|
-|**18**|7|
-|**20**|8|
+|:-|:-|
+|**3-7**|1d6|
+|**8-10**|1d6+1|
+|**11-13**|1d6+2|
+|**14-16**|2d6|
+|**17-19**|2d6+2|
+|**20 & plus**|3d6|
 Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type d’arme, vous obtenez les bénéfices suivants :
 •Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque.
 
@@ -148,7 +146,7 @@ Au niveau 14, la maîtrise du Nerzhkalon qui vous anime vous rend immunisé aux 
 
 ### Absorber les coups  
 **En Khern : Lugantaol**  
-Lorsque vous atteignez le niveau 16, vous avez endurci votre corps et appris à absorber l'énergie des coups, vous devenez résistant aux dégâts contondants. De plus, chaque blessure reçue renforce votre détermination. Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdre au moins 5 points d’action, vous récupérez 2 point de Foi.
+Lorsque vous atteignez le niveau 16, vous avez endurci votre corps et appris à absorber l'énergie des coups, vous devenez résistant aux dégâts contondants. De plus, chaque blessure reçue renforce votre détermination. Une fois par round, lorsqu'une attaque portée par un adversaire vous fait perdre au moins 5 points d’action, vous récupérez 2 points de Foi.
 
 ### Âme translucide  
 **En Khern :  Damsklaer Kallon**  

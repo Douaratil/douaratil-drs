@@ -6,6 +6,8 @@ Vous trouverez dans cette rubriques les Archétypes de personnage disponibles. L
 
 Les Archétypes actuellement disponibles sont :
 
+- [Adoshaï](/archetypes/adoshai/), mentaliste selmonite.  
+- [Alka'him](/archetypes/alkahim/), alchimiste shahim.  
 - [Ambeanamos](/archetypes/ambeanamos/), sorcier meldète.  
 - [Astartes](/archetypes/astartes/), guerrier ancante.  
 - [Bhaner](/archetypes/bhaner/), barde khernaë.  

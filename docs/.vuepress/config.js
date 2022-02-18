@@ -252,6 +252,11 @@ module.exports = {
               path: '/archetypes/adoshai',
             },
           {
+              title: "Alka'him",
+              icon: 'mdi-bottle-tonic',
+              path: '/archetypes/alkahim',
+            },
+          {
               title: "Ambeanamos",
               icon: 'mdi-auto-fix',
               path: '/archetypes/ambeanamos',

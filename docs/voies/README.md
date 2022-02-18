@@ -62,7 +62,7 @@ Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, v
 **Protection**
 Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.  
 ### Second souffle
-Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_[_repos long_](/gerer-la-sante-du-personnage/#repos-long)_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
+Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_[_repos long_](/gerer-la-sante-du-personnage/#repos-long)_] avant de l'utiliser de nouveau.
 ### Sursaut d'activité
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
@@ -146,7 +146,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 # Voie de la magie
 ## Évolution de la voie de la magie
 &nbsp;
-[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagiem.png)](https://www.douaratil.fr/illustrations/regles/voiedelamagie.jpg) 
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagiem.png)](https://www.douaratil.fr/illustrations/regles/voiedelamagie.jpg)
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
