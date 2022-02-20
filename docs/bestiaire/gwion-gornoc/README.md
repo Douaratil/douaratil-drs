@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Neutre"
-challenge: "14"
-customHP: "44"
+challenge: "15"
+customHP: "46"
 abilityScores:
   for: 8
   dex: 8
