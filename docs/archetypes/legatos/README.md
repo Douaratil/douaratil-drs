@@ -36,7 +36,7 @@ Les Legatos sont des meneurs d’hommes et puits de connaissances. Il stocke, ar
 
 ### Le choix des armes   
 **En Alcante : Elegit Arma**  
-À partir du niveau 3, quand vous maîtrisez aux choix [l'épée longue ou le trident](/equipement/#tableau-des-armes).  
+À partir du niveau 3, vous maîtrisez aux choix [l'épée longue ou le trident](/equipement/#tableau-des-armes).  
 
 ### Autorité légitime  
 **En Alcante : Autorita Legit**  

@@ -11,9 +11,9 @@ abilityScores:
   dex: 8
   con: 16
   int: 20
-  sag: 18
+  sag: 19
   cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int(•) +9, sag(••) +14, cha(•) +6 "
+customSavingThrows: "for -1, dex -1, con +3, int(•) +10, sag(••) +14, cha(•) +7 "
 savingThrows:
   - "int"
   - "sag"
@@ -26,19 +26,19 @@ skills:
   - name: "custom"
     value: "acrobatie -1"
   - name: "custom"
-    value: "arcanes(••) +13"
+    value: "arcanes(••) +15"
   - name: "custom"
     value: "athlétisme -1"
   - name: "custom"
-    value: "discrétion(•) +3"
+    value: "discrétion(•) +4"
   - name: "custom"
     value: "dressage +4"
   - name: "custom"
-    value: "escamotage(•) +3"
+    value: "escamotage(•) +4"
   - name: "custom"
     value: "histoire +5"
   - name: "custom"
-    value: "intimidation(••) +10"
+    value: "intimidation(••) +12"
   - name: "custom"
     value: "investigation +5"
   - name: "custom"
@@ -128,20 +128,20 @@ _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6-1 dégâts tranchants (3d6-1 à deux mains).
 
-_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
 _Touché_ : 2d6-1 dégâts perforants .
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, portée 6/18.  
 _Touché_ : 1d6-1 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher.  
+_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
 _Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
 &nbsp;
 §§§ .hero
@@ -190,7 +190,7 @@ Gwion possède l'équipement suivant :
 - 3862 PC
 - 19 788 PA
 - 44 PE
-- 2615 PO
+- 990 PO
 - 89 PP.  
 §§§
 
@@ -204,6 +204,7 @@ Gwion possède l'équipement suivant :
 - morceau de bois enchanté.  
 - perle (100 po)
 - petit fil de cuivre enchanté.
+- opale noire (rare)
 
 
 
@@ -219,16 +220,16 @@ Gwion possède l'équipement suivant :
 [Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
+[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairvoyance](/grimoire/clairvoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
-[Brise os](/grimoire/brise-os), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Scrutation](/grimoire/scrutation)
+[Brise os](/grimoire/brise-os), [Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Scrutation](/grimoire/scrutation)
 $àçmp
 
 **Sorts possédés à apprendre** :
 
-- Apprenti : Cône de froid, Invoquer un élémentaire, Modification de mémoire, Passage dimentionnel, , Restauration supérieur, Scrutation.  
+- Apprenti : Cône de froid, Invoquer un élémentaire, Restauration supérieur.  
 §§§
 
 §§§ .hero
@@ -243,7 +244,7 @@ $àçmp
 **Serviteurs** : 0    
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
-|Table des bâtiments & des ressources ddu quartier |||||||||||
+|Table des bâtiments & des ressources du quartier |||||||||||
 |Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
@@ -283,10 +284,10 @@ $àçmp
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 159 630       
-**Points de Magie** :76   
-**Points de Foi** :18    
-**Points d'honneur** :47          
+**XP acquis** : 169 620     
+**Points de Magie** :80   
+**Points de Foi** :19    
+**Points d'honneur** :49          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
