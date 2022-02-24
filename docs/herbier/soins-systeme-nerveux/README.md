@@ -75,8 +75,8 @@ Le prospecteur devra réussir un test en Survie dans une zone de jungle chaude e
 **Automne** :DD 28    
 En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
 **Valeur** : 1 pièces d'or la dose.  
-**Facteur d'addiction** : Important (4)  
-**Facteur d’intoxication**:(3)  
+**Facteur d'addiction** : Faible (2)  
+**Facteur d’intoxication**:(1)  
 
 **Utilisation**  
 Le Youtt est utilisée pour ses vertus curatives.  
