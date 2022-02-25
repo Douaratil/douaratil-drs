@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-  materials: "encens incandescent, petite dose de soufre et d'huile, cordelette avec des nœuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po"
+  materials: "encens incandescent, petite dose de soufre et d'huile, cordelette avec des nœuds, petite dose de sang et petit sceptre en argent d'une valeur minimale de 10 po"
 ritual: false
 classes:
 
