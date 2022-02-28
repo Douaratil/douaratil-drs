@@ -28,6 +28,11 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Couverture**|5 pa|1,5 kg|DD16|
 |**Craie (1 morceau)**|1 pc|-|DD16|
 |**Cruche ou pichet**|2 pc|2 kg|DD16|
+
+
+
+|Objet|Prix|Poids|DD de Négociation|
+|:-|:-:|:-:|-:|
 |**Eau bénite (flasque)**|25 po|0,5 kg|DD22|
 |**Échelle (3 mètres)**|1 pa|12,5 kg|DD16|
 |**Encre (bouteille de 30 grammes)**|10 po|-|DD16|
@@ -51,6 +56,10 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Grappin**|2 po|2 kg|DD16|
 |**Grimoire**|50 po|1,5 kg|DD22|
 |**Huile (flasque)**|1 pa|0,5 kg|DD16|
+
+
+|Objet|Prix|Poids|DD de Négociation|
+|:-|:-:|:-:|-:|
 |**Lampe**|5 pa|0,5 kg|DD16|
 |**Lanterne à capote**|5 po|1 kg|DD16|
 |**Lanterne sourde**|10 po|1 kg|DD16|
@@ -81,6 +90,11 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Poison (fiole)**|100 po|-|DD22|
 |**Porte-plume**|2 pc|-|DD22|
 |**Pot en fer**|2 po|5 kg|DD16|
+
+
+
+|Objet|Prix|Poids|DD de Négociation|
+|:-|:-:|:-:|-:|
 |**Rations (1 jour)**|5 pa|1 kg|DD16|
 |**Sablier**|25 po|0,5 kg|DD22|
 |**Sac**|1 pc|0,25 kg|DD16|

@@ -84,12 +84,25 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Masse d'armes|5 po|2d6 contondant|2 kg|-|DD16|
 |Massue|2 pa|2d6+2 contondant|5 kg|À deux mains|DD16|
 |Serpe|1 po|1d6 tranchant|1 kg|Légère|DD16|
+
+   
+
+|Nom|Prix|Dégâts|Poids|Propriétés|DD de négociation|
+|:-|:-:|:-:|:-:|:-:|-:|
 |**Armes à distance courantes**||||||
+|||||||
 |Arc court|25 po|2d6 perforant|1 kg|Munitions (portée 24/96), à deux mains|DD16|
 |Bolas|5 po|1d6 contondant|1 kg|lancer (portée 6/18)|DD16|
 |Fléchettes|5 pc|1d6 perforant|0,1 kg|Finesse, lancer (portée 6/18)|DD16|
 |Fronde|1 pa|1d6 contondant|-|Munitions (portée 9/36)|DD16|
+
+
+
+
+|Nom|Prix|Dégâts|Poids|Propriétés|DD de négociation|
+|:-|:-:|:-:|:-:|:-:|-:|
 |**Armes de corps-à-corps de guerre**||||||
+|||||||
 |Cimeterre|25 po|2d6 tranchant|1,5 kg|Finesse, légère|DD16|
 |Épée à deux mains|50 po|3d6 tranchant|3 kg|Lourde, à deux mains|DD16|
 |Épée courte|10 po|2d6 perforant|1 kg|Finesse, légère|DD16|
@@ -106,7 +119,14 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Pique|5 po|3d6 perforant|9 kg|Lourde, allonge, à deux mains|DD16|
 |Rapière|25 po|2d6+2 perforant|1 kg|Finesse|DD16|
 |Trident|5 po|2d6 perforant|2 kg|Lancer (portée 6/18), polyvalente (2d6+2)|DD16|
+
+
+
+
+|Nom|Prix|Dégâts|Poids|Propriétés|DD de négociation|
+|:-|:-:|:-:|:-:|:-:|-:|
 |**Armes à distance de guerre**||||||
+|||||||
 |Arc long|50 po|2d6+2 perforant|1 kg|Munitions (portée 45/180), lourde, à deux mains|DD16|
 |Arc composite|50 po|2d6+2 perforant|1 kg|Munitions (portée 30/120), lourde, à deux mains|DD16|
 |Filet|1 po|-|1,5 kg|Spéciale, lancer (portée 1,5/4,5)|DD16|
