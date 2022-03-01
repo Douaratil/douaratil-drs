@@ -19,9 +19,21 @@ Des outils vous aident à faire quelque chose que vous ne pouvez pas faire norma
 |&nbsp;&nbsp;Tympanion|25 po|5 kg|DD 22|
 |&nbsp;&nbsp;Viole|30 po|0,5 kg|DD 22|
 |**Instruments de navigation**|25 po|1 kg|DD 22|
+
+
+
+|Objet|Prix|Poids|DD de négociation|
+|:-|:-:|:-:|-:|
 |**Jeux**||||
 |&nbsp;&nbsp;Dés|1 pa|-|DD 22|
 |&nbsp;&nbsp;Jeu de cartes|5 pa|-|DD 22|
+
+
+
+
+
+|Objet|Prix|Poids|DD de négociation|
+|:-|:-:|:-:|-:|        
 |**Matériel d'empoisonneur**|50 po|1 kg|DD 22|
 |**Matériel d'herboriste**|5 po|1,5 kg|DD 22|
 |**Outils d'artisan**||||
