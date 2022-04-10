@@ -36,7 +36,7 @@ Les Sohotens de la voie des Armes sont appelés Sohohittos, littéralement «fra
 Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement « esprit vigoureux». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur manière de combattre. Les Sohomaindus sont des mages/prêtres. Cette approche hybride des arts magiques les rendent plus polyvalents que leurs homolgues.  
 
 
-### mur de bois
+### Mur de bois
 **En Yotaï : Kabe Mokuzai**  
 À partir du niveau 3, vous faites tournoyer votre arme shohoten autours de vous afin de vus protéger. Pour une action bonus, vous pouvez avoir un effet équivalent au sort [bouclier](/grimoire/bouclier) excepté que la capacité d’arrêter des projectiles ne concerne que les projectiles normaux (flèches, fléchettes, javelots etc…). Il faut un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) pour pouvoir utiliser de nouveau cette capacité.
 
