@@ -65,7 +65,7 @@ Ces dégâts passent à 2d6 au niveau 11 et 3d6 au niveau 17.
 
 ### Infaillible  
 **En Alcante : Infalibo**  
-Au niveau 19, vous pouvez relancer n'importe quel type de dés ou de test car vous avez la réputation d'être infaillible. Vous ne pouvez utiliser cette aptitude qu'une fois entre chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s](/gerer-la-sante-du-personnage/#repos-long).  
+Au niveau 19, vous pouvez relancer n'importe quel type de dés ou de test car vous avez la réputation d'être infaillible. Vous ne pouvez utiliser cette aptitude qu'une fois entre chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
 ### Véritable Legatos  
 **En Alcante : Legatos**  

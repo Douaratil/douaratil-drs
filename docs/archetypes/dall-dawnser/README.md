@@ -39,11 +39,11 @@ En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes
 **Points de Magie** : Le Dall Danwser est un Archétype mystique, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
 Le Danseur funeste ou semeur de morts est un guerrier solitaire qui est quelquefois accompagné d'un disciple. Maître dans l'art du combat à l'épée, si chère au guerrier khernaë, il base ses techniques de combat sur les esquives et la riposte, tout en prenant des postures d'animaux. Le Danseur funeste est craint en tant que duelliste, réputé pour sa capacité à affronter plusieurs adversaires simultanément. Le Danseur funeste est un voyageur qui se met au service d'une cause ou d'une personne pour un temps que lui seul définit. Il vit selon son code d'honneur et chacun de ses choix est une quête.
-Les Dall Dawnsers qui viennent de la Voie des Armes sont appelés Eoster , c’est à dire littéralement «le moissonneur». Les Dall Dawnsers qui viennent de la Voie de l’Ombre sont appelés Kutuilher, c’est à dire littéralement « Le cueilleurt » . Les Dall Dawnsers qui viennent de la Voie de la Magie sont appelés Foeltr, c’est à dire littéralement « foudre» .  
+Les Dall Dawnsers qui viennent de la Voie des Armes sont appelés Eoster , c’est à dire littéralement «le moissonneur». Les Dall Dawnsers qui viennent de la Voie de l’Ombre sont appelés Kutuilher, c’est à dire littéralement « Le cueilleurs » . Les Dall Dawnsers qui viennent de la Voie de la Magie sont appelés Foeltr, c’est à dire littéralement « foudre» .  
 
 ### Technique de combat
 **En Khern : Dall Hadur**  
-Dès le niveau 3, votre pratique des arts de combat Dall Hadur vous permet de maîtriser différents styles comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde. Le Dall Hadur est une technique de combat qui mélange l’usage des armes et des membres du Dall Dawnser, transformant tout son corps en arme. Mais le plus extraordinaire est que le Dall Dawnser apprends à se passer des armes. Certains Dall Dawnser étaient plus meurtriers que n'importe quel combattant simplement en utilsant leur main.  
+Dès le niveau 3, votre pratique des arts de combat Dall Hadur vous permet de maîtriser différents styles comme les épées courtes ou toutes les armes courantes qui n'ont pas la propriété à deux mains ou lourde. Le Dall Hadur est une technique de combat qui mélange l’usage des armes et des membres du Dall Dawnser, transformant tout son corps en arme. Mais le plus extraordinaire est que le Dall Dawnser apprends à se passer des armes. Certains Dall Dawnser étaient plus meurtriers que n'importe quel combattant simplement en utilisant leur main.  
 Les dégâts de combat à mains nues évoluent suivant le niveau de Dall Dawnser.
 
 |Niveau|Dégâts|
@@ -124,7 +124,7 @@ Au niveau 10, vous apprenez la technique de la morsure du serpent. Elle vous per
 **En Khern : Bannad**  
 Au niveau 11, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 2 points et votre réaction afin de l'obliger à effectuer un jet de sauvegarde de Dextérité. Si la valeur de Force de l’adversaire est supérieure à la vôtre, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). En cas d'échec, la créature se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et vous pouvez en profiter pour lui porter une à mains nues.  
 
-### soins physique  
+### Soins physique  
 **En Khern : Emellkorf**  
 Au niveau 12, vous gagnez la capacité de vous soigner seul. En utilisant une action, vous pouvez regagner un nombre de points d’action égal à trois fois votre niveau de Dall Dawnser. Vous devez finir un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir utiliser cette aptitude de nouveau.  
 
@@ -158,7 +158,7 @@ De plus, quand vous faites un jet de sauvegarde et échouez, vous pouvez dépens
 **En Khern : Fhultard**  
 Lorsque vous atteignez le niveau 18, en dépensant 8 points de Foi, vous pouvez utiliser votre action pour porter une attaque contre chaque adversaire autour de vous dans un rayon de 4,50 mètres. Chaque créature de taille moyenne ou inférieure que vous blessez par cette attaque doit réussir un jet de sauvegarde de Force (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise) ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 
-### étreinte mortelle  
+### Étreinte mortelle  
 **En Khern : Preder Marv**  
 À partir du niveau 19, vous maîtrisez des clés, des techniques d'étranglement ou de points de pression sur des nerfs qui vous permettent de plonger vos adversaires dans l'inconscience.
 Lorsque vous réussissez une empoignade, vous pouvez dépenser 6 points de Foi pour obliger votre adversaire à faire un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Dextérité + votre bonus de maîtrise). En cas d'échec, il devient inconscient pour 1d6 tours + votre modificateur de Sagesse.  

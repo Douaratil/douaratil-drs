@@ -21,12 +21,12 @@ title: Drodan
 En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** : armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal)  
+**Armures** : armures légères, armures intermédiaires, boucliers (les drodanos n'utilisent pas d'armure ou de bouclier faits en métal)  
 **Armes** : gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances  
 **Outils** : matériel d'herboriste  
 **Jets de sauvegarde** :  Intelligence, Sagesse  
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Médecine, Nature, Perception, Perspicacité, Religion et Survie  
-**Conditions d'accessibilité**: Être de culture Meldète  
+**Conditions d'accessibilité**: Être de culture Meldète et de sexe masculin.
 **Points de Magie** : Le Drodan fait partie des prêtres, de ce fait, il développe les points de Foi (PF).  
 
 La caste des drodanos regroupe les sages du peuple meldète. Cette caste est la seule où un membre d'une autre caste peut rentrer facilement, à condition d'en être jugé digne par les anciens. Les tatouages de la caste d'origine seront alors tous recouverts par le motif traditionnel des drodanos : la ronce. Seuls les hommes sont admis dans cette caste, et ils n'ont pas le droit d'avoir des enfants (ce sont les Genos qui ont imposé cette loi il y a longtemps, pour éviter que cette caste déjà puissante devienne elle aussi héréditaire et leur fasse concurrence). Si un drodan « faute » avec une femme, l'enfant sera considéré sans père et pourra être banni par le clan si la mère ne veut pas l'intégrer dans sa caste. Il existe quatre rangs dans la caste des drodanos :  
