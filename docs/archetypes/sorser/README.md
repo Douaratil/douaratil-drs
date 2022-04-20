@@ -45,6 +45,11 @@ Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vou
 **En Khern : Paedra  dihesk**  
 Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
+### Peur  
+**En Khern : Paedra  dihesk**  
+Au niveau 9, Vous pouvez inspirer la peur autour de vous en invoquant la [Peur du Sorser](/grimoire/peur-du-sorser). Ce sort n'est enseigné qu'entre Sorser, c'est pourquoi, il est rarement utilisé par d'autres Archétypes. Le savoir de ce pouvoir est jalousement gardé.
+
+
 ### Véritable Sorser  
 **En Khern : Sorser**
 Au niveau 20, le Sorser est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
