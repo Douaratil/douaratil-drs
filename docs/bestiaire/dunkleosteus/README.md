@@ -31,7 +31,7 @@ dungeonTypes:
 
 ---
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Agressivité carnassière**_. Le Dunkleosteus obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de son premier round d'attaque.
 

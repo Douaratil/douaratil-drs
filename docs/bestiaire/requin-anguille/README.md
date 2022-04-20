@@ -31,8 +31,8 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Frénésie sanguinaire**_. Le requin anguille obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points d'action.
 
