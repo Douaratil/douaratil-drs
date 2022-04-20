@@ -19,8 +19,8 @@ title: "Sorser"
 En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** :  Armures légères   
-**Armes** : Dague, bâton  
+**Armures** :  Aucune   
+**Armes** : Dague, bâton, cimeterre, épée longue, épée courte.  
 **Outils** :Outils d'alchimie et d'herboristerie.     
 **Jets de sauvegarde** : Intelligence, Charisme    
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Médecine et Religion    
@@ -45,8 +45,8 @@ Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vou
 **En Khern : Paedra  dihesk**  
 Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
-### Peur  
-**En Khern : Paedra  dihesk**  
+### Peur du Sorser
+**En Khern : Eagla an Sorser**  
 Au niveau 9, Vous pouvez inspirer la peur autour de vous en invoquant la [Peur du Sorser](/grimoire/peur-du-sorser). Ce sort n'est enseigné qu'entre Sorser, c'est pourquoi, il est rarement utilisé par d'autres Archétypes. Le savoir de ce pouvoir est jalousement gardé.
 
 
