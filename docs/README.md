@@ -20,6 +20,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du [Dunkleosteus](/bestiaire/dunkleosteus)
 - Ajout du [Leedschithys](/bestiaire/leedschithys)
 - Ajout du [Requin anguille](/bestiaire/requin-anguille)
+- Ajout du [Xiphactinus](/bestiaire/xiphactinus)
 
 
 Bon jeu.  
