@@ -17,7 +17,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 95
 - Révision de l'archétype du Sorsers.  
 - Ajout du sort [Peur du Sorser](/grimoire/peur-du-sorser)
+- Ajout du [Dunkleosteus](/bestiaire/dunkleosteus)
+- Ajout du [Leedschithys](/bestiaire/leedschithys)
 - Ajout du [Requin anguille](/bestiaire/requin-anguille)
+
 
 Bon jeu.  
 §§§ .text-right
