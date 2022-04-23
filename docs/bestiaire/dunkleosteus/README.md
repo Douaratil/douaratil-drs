@@ -30,6 +30,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Dunkleosteus
+&nbsp;
+[![Dunkleosteus](https://www.douaratil.fr/illustrations/bete/dunkleosteusm.png)](https://www.douaratil.fr/illustrations/bete/dunkleosteus.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

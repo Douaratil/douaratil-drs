@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 ## Xiphactinus
 &nbsp;
-[![Xiphactinus](https://www.douaratil.fr/illustrations/bete/xiphactinusm.png)](https://www.douaratil.fr/illustrations/bete/xiphactinus.jpg)  
+[![Xiphactinus](https://www.douaratil.fr/illustrations/bete/xiphactinusm.png)](https://www.douaratil.fr/illustrations/bete/xiphactinus.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

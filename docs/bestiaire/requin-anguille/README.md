@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 ## Requin Anguille
 &nbsp;
-[![Requin anguille](https://www.douaratil.fr/illustrations/bete/requinanguillem.png)](https://www.douaratil.fr/illustrations/bete/requinanguille.jpg)  
+[![Requin anguille](https://www.douaratil.fr/illustrations/bete/requinanguillem.png)](https://www.douaratil.fr/illustrations/bete/requinanguille.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
