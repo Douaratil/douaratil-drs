@@ -30,6 +30,9 @@ environments:
   - Montagnes
 
 ---
+## Ours brun
+&nbsp;
+[![Ours brun](https://www.douaratil.fr/illustrations/fielon/oursbrunm.png)](https://www.douaratil.fr/illustrations/fielon/oursbrun.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
