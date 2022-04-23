@@ -31,11 +31,14 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Xiphactinus
+&nbsp;
+[![Xiphactinus](https://www.douaratil.fr/illustrations/bete/xiphactinusm.png)](https://www.douaratil.fr/illustrations/bete/xiphactinus.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
-_**Respiration aquatique**_. Le requin anguille peut respirer uniquement sous l'eau.
+_**Respiration aquatique**_. Le Xiphactinus peut respirer uniquement sous l'eau.
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  

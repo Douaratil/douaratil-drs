@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Requin Anguille
+&nbsp;
+[![Requin anguille](https://www.douaratil.fr/illustrations/bete/requinanguillem.png)](https://www.douaratil.fr/illustrations/bete/requinanguille.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -47,4 +50,4 @@ _Touché_ : 3d6+3 dégâts perforants.
 **Mes aventures de Ioen l’Invocateur.**
 §§§
 
-Le requin anguille vit dans les estuaires des rivières dans certains royaumes de Shahias ou Monghours. Lors des grandes marrées, il lui arrive de remonter les rivières d'eau douce en cherche de proie.
+Le requin anguille vit dans les estuaires des rivières dans certains royaumes de Shahias ou Minghours. Lors des grandes marrées, il lui arrive de remonter les rivières d'eau douce en cherche de proie.
