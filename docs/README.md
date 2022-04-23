@@ -22,8 +22,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout de l'illustration du [Requin anguille](/bestiaire/requin-anguille)
 - Ajout de l'illustration du [Xiphactinus](/bestiaire/xiphactinus)
 
-Merci à mes soutiens suite à mon annonce sur le site [Gchange](/https://www.gchange.fr/#/app/market/view/AYBMlKEHKBAvm3O0htCU/soutien-pour-un-jeux-de-rle-et-romans).
-Merci donc à [Estienne Dunord](/https://demo.cesium.app/#/app/wot/EV4yZXAgmDd9rMsRCSH2MK7RHWty7CDB9tmHku3iRnEB/EstienneDunord), [Etk](/https://demo.cesium.app/#/app/wot/9ZbSdtUr93zdRR26939iHu2WHAUk7qs4WVnNTg3g4miy/EtK) et [Foxlin Lyre](/https://demo.cesium.app/#/app/wot/7wHqHDZGRzEMxoJFgNtagZPo2ZpEXcb5cBPkx4TG729E/F0xl1n).
+Merci à mes soutiens suite à mon annonce sur le site [Gchange](https://www.gchange.fr/#/app/market/view/AYBMlKEHKBAvm3O0htCU/soutien-pour-un-jeux-de-rle-et-romans).
+Merci donc à [Estienne Dunord](https://demo.cesium.app/#/app/wot/EV4yZXAgmDd9rMsRCSH2MK7RHWty7CDB9tmHku3iRnEB/EstienneDunord), [Etk](https://demo.cesium.app/#/app/wot/9ZbSdtUr93zdRR26939iHu2WHAUk7qs4WVnNTg3g4miy/EtK) et [Foxlin Lyre](https://demo.cesium.app/#/app/wot/7wHqHDZGRzEMxoJFgNtagZPo2ZpEXcb5cBPkx4TG729E/F0xl1n).
 
 Bon jeu.  
 §§§ .text-right
