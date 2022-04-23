@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
 ---
+## Goule
+&nbsp;
+[![Goule](https://www.douaratil.fr/illustrations/mort-vivant/goulem.png)](https://www.douaratil.fr/illustrations/mort-vivant/goule.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## Actions
