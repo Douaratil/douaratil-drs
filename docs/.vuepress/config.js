@@ -376,6 +376,11 @@ module.exports = {
               icon: 'mdi-celtic-cross',
               path: '/archetypes/vitnar',
             },
+          {
+              title: "Zhongdhou",
+              icon: 'mdi-bottle-tonic-skull',
+              path: '/archetypes/zhongdhou',
+            },
 
           ]
           },

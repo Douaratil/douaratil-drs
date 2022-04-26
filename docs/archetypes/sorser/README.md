@@ -11,8 +11,13 @@ title: "Sorser"
 |**4**|[Clairaudience](#clairaudience)||
 |**5**|[Pas brumeux](#pas-brumeux)|
 |**7**|[Ressource inépuisable](#ressource-inepuisable)|
+|**9**|[Peur du Sorser](#peur-du-sorser)|
 |**10**|[Pas brumeux(2)](#pas-brumeux) |
+|**11**|[Armure du Sorser](#armure-du-sorser) |
+|**12**|[Coercition du Sorser](#pas-brumeux) |
 |**15** |[Pas brumeux(3)](#pas-brumeux) |
+|**17** |[Domination terrorisante](#domination-terrorisante) |
+|**19** |[Compagnon de l'ombre](#compagnon-de-l-ombre) |
 |**20**|[Véritable Sorser](#veritable-sorser), [Pas brumeux(4)](#pas-brumeux) |
 
 ## Aptitudes d'Archétype
@@ -49,6 +54,24 @@ Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous a
 **En Khern : Eagla an Sorser**  
 Au niveau 9, Vous pouvez inspirer la peur autour de vous en invoquant la [Peur du Sorser](/grimoire/peur-du-sorser). Ce sort n'est enseigné qu'entre Sorser, c'est pourquoi, il est rarement utilisé par d'autres Archétypes. Le savoir de ce pouvoir est jalousement gardé.
 
+### Armure du Sorser
+**En Khern : Eagla an Sorser**   
+Au niveau 11, le Sorser bénéficie en permanence de l'effet équivalent au sort [Armure du mage](/grimoire/armure-du-mage). Cette capacité s'active ou se désactive (pour éviter des détections magiques par exemple) à volonté au prix d'une action bonus.     
+
+### Coercition du Sorser
+**En Khern : Preder an Sorser**  
+Au niveau 12, le Sorser peut utiliser la capacité équivalente au sort [Coercition du Sorser](/grimoire/coercition-du-sorser). Ce sort n'est enseigné qu'entre Sorser, c'est pourquoi, il est rarement utilisé par d'autres Archétypes. Le savoir de ce pouvoir est jalousement gardé.   
+
+### Domination terrorisante
+**En Khern : Dindan spont**  
+Au niveau 17, le Sorser peut utiliser une capacité équivalente au sort [étrangeté](grimoire/etrangete). Le Sorser doit attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.
+
+### Compagnon de l'ombre
+**En Khern : Keneil skeud**    
+Au niveau 19, le Sorser peut contacter les forces de l'ombre pour lui enseigner des secrets.Le Sorser doit attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité. Tout doit se dérouler à l'abri de la lumière du soleil. Le Sorser peut demander :
+- Acquérir un pourvoir magique (Tout type de sort qu'il peut comprendre). Les règles normales d'apprentissages s'appliquent.
+- Être informé des évènements du royaume. Les réponses sont toujours vaste et la zone d'influence s'étend à un rayon de 25 km par point de bonus de sagesse (minimum 25 km).
+- Demander la localisation d'un compagnon ou d'un ami (à définir avec le narrateur) sans limite de distance.   
 
 ### Véritable Sorser  
 **En Khern : Sorser**
