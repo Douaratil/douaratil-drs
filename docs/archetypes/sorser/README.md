@@ -74,5 +74,5 @@ Au niveau 19, le Sorser peut contacter les forces de l'ombre pour lui enseigner 
 - Demander la localisation d'un compagnon ou d'un ami (à définir avec le narrateur) sans limite de distance.   
 
 ### Véritable Sorser  
-**En Khern : Sorser**
+**En Khern : Sorser**  
 Au niveau 20, le Sorser est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
