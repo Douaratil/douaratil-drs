@@ -43,58 +43,71 @@ Les Zhongdhous possèdent une représentations paradoxale. Ils sont à la fois s
 Les Zhongdhous qui viennent de la Voie des Armes sont appelés Fangh Youdhou, c’est à dire littéralement «Voie du venimeux». Les Zhongdhous qui viennent de la Voie de l’Ombre sont appelés Fangh Dhou, c’est à dire littéralement «Voie du poison». Les Zhongdhous qui viennent de la Voie la Magie sont appelés Fangh Sidh, c’est à dire littéralement «Voie de la mort».   
 
 ### Spécialité herboriste  
+**En langue Minghour : Kaoyaoshy**  
 Au niveau 3, le Zhongdhou maîtrise l’outil d’herboriste.   
 
 ### Cueilleur  
+**En langue Minghour : Khaïzhaï**  
 Au niveau 4, le Zhongdhou est capable de trouver des plantes dans la nature avec un DD inférieur d’un cran par rapport au DD de base pour la recherche.   
 
 ### Spécialité alchimiste
+**En langue Minghour : Lianjin**  
 Au niveau 5, le Zhongdhou maîtrise l’outil d’alchimiste.   
 
 ### Chimiste amateur
+**En langue Minghour : Huaxu**  
 Au niveau 6, le Zhongdhou peut maintenant fabriquer de la poudre noire ainsi que des engins pyrotechniques
 
 ### Spécialité empoisonneur
+**En langue Minghour : Zhongdhouzh**  
 Au niveau 7, le Zhongdhou maîtrise l’outil d'empoisonneur.
 
 ### Empoisonneur novice  
+**En langue Minghour : Zhongdhouzh Xinshu**  
 Au niveau 8, le Zhongdhou peut fabriquer du poison universel ainsi que du poison diarrhéique.   
 
-### Empoisonneur disciple
+### Empoisonneur disciple  
+**En langue Minghour : Zhongdhouzh Dizi**  
 Au niveau 9, le Zhongdhou peut maintenant fabriquer du poison hémophilique ainsi que du poison allergisant.  
 
-### Camouflage
+### Camouflage  
+**En langue Minghour : Wèizhuang**  
 Au niveau 11, le Zhongdhou est capable de faire passer n’importe quel poison pour une potion et n’importe quelle potion pour un poison.  
 
-### Empoisonneur apprenti  
+### Empoisonneur apprenti   
+**En langue Minghour : Zhongdhouzh Xuétou**  
 Au niveau 13, le Zhongdhou peut maintenant fabriquer du poison illusoire ainsi que du poison droguant.   
 
 ### Immunité aux poisons
+**En langue Minghour : Mianyi Dou**  
 Au niveau 14,  à cause des émanations de gaz des laboratoires, le Zhongdhou est immunisé aux poisons naturels et aux maladies et est résistant aux poisons d’origine magique, mais a de forte chance d’être stérile. Si sur 4d6 non explosif il fait moins que 18 alors il est stérile.  
 
 ### Empoisonneur adepte
+**En langue Minghour : Zhongdhouzh**  
 Au niveau 15, le Zhongdhou peut maintenant fabriquer du poison puissant ainsi que du poison vicieux.  
 
 ### Herboriste confirmé  
+**En langue Minghour : Kaoyaoshy Queren**  
 Au niveau 15, le Zhongdhou est un herboriste qui n’a plus besoin de prouver sa valeur. Les crans de difficulté pour trouver les plantes baisse d’un cran une nouvelle fois. De plus, pour marquer son apprentissage et pour prouver sa valeur, le héros crée sa propre recette de potion ou poison et en invente les effets en accord avec le narrateur.  
 
-### Empoisonneur expert
+### Empoisonneur expert  
+**En langue Minghour : Zhongdhouzh Zhuanjia**  
 Au niveau 16, le Zhongdhou peut maintenant fabriquer du poison mortel ainsi que du poison explosif.
 
-
 ### Alchimiste parfait
+**En langue Minghour : Lianjin Wanmeï**  
 Au niveau 17, le Zhongdhou a très bien compris ce principe élémentaire : rien ne se perd, rien ne se crée, tout se transforme. Ainsi, il est désormais capable de créer l’élixir de vie qui lui confère longévité à condition de passer 1 heure par jour à le concevoir afin de conserver sa vie une journée de plus. Il lui est possible d’y passer plus d’une heure par jour afin de stocker des élixirs supplémentaires  pour chaque heures passées à y travailler. Cependant, cette potion ne conserve pas la jeunesse, et même s’il survit, le corps vieillit. Aussi, ses capacités sont arrivées jusqu’aux oreilles des puissants, qui chercheront à le mettre à leurs services de gré ou de force.
 
-
 ### Maître empoisonneur
+**En langue Minghour : Zhongdhouzh**  
 Au niveau 18, le Zhongdhou peut maintenant fabriquer du poison épidémique ainsi que du poison d’âme.   
 
-
 ### Création d'homoncule
+**En langue Minghour : Chuangjian Rénzao**  
 Au niveau 19, le Zhongdhou possède l’un des savoirs les plus obscurs de tous les peuples. Il est désormais capable de créer la vie de manière artificielle. Pour créer cet être, il doit le façonner pendant un an. L’homoncule, pour survivre doit se nourrir d’une âme par an et doit rester enfermé dans un réceptacle tel qu’un objet ou un organisme ou alors rester en tant que pure invention dans les éprouvettes de l’alchimiste. Un homoncule peut habiter un organisme naturel consentant.
 
-
 ### Véritable Zhongdhou
+**En langue Minghour : Zhongdhou**  
 Au niveau 20, le héros est accompli. Il gagne 2 points de caractéristique en INT et en CON.
 
 # Poisons du Zhongdhou
