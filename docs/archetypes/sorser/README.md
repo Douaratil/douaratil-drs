@@ -70,7 +70,7 @@ Au niveau 17, le Sorser peut utiliser une capacité équivalente au sort [étran
 **En Khern : Keneil skeud**    
 Au niveau 19, le Sorser peut contacter les forces de l'ombre pour lui enseigner des secrets.Le Sorser doit attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité. Tout doit se dérouler à l'abri de la lumière du soleil. Le Sorser peut demander :
 - Acquérir un pourvoir magique (Tout type de sort qu'il peut comprendre). Les règles normales d'apprentissages s'appliquent.
-- Être informé des évènements du royaume. Les réponses sont toujours vaste et la zone d'influence s'étend à un rayon de 25 km par point de bonus de sagesse (minimum 25 km).
+- Être informé des évènements du royaume. Les réponses sont toujours évasives et la zone d'influence s'étend à un rayon de 25 km par point de bonus de sagesse (minimum 25 km).
 - Demander la localisation d'un compagnon ou d'un ami (à définir avec le narrateur) sans limite de distance.   
 
 ### Véritable Sorser  
