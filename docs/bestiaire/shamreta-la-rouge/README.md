@@ -84,7 +84,7 @@ Shamreta la rouge est une énigmatique sorcière au service du puissant marchand
 [Attiser les flammes](/grimoire/attiser-les-flammes), [Bouclier de feu](/grimoire/bouclier-de-feu), [Brûlure de la peau](/grimoire/brulure-de-la-peau), [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Oeil magique](/grimoire/oeil-magique).
 
 **Apprenti** :
-[Brise os](/grimoire/brise-os), [Désintégration](/grimoire/desintegration), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire), [Modification de mémoire](/grimoire/modification-de-memoire), [Mur de force](/grimoire/mur-de-force), [Réservoir arcanique](/grimoire/reservoir-arcanique).
+[Brise os](/grimoire/brise-os), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire), [Irradiation](/grimoire/irradiation), [Modification de mémoire](/grimoire/modification-de-memoire), [Mur de force](/grimoire/mur-de-force), [Réservoir arcanique](/grimoire/reservoir-arcanique).
 
 **Adepte** :
 [Cage de force](/grimoire/cage-de-force), [Doigt de mort](/grimoire/doigt-de-mort), [Esclave](/grimoire/esclave), [Symbole](/grimoire/symbole).
