@@ -85,7 +85,7 @@ _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule d
 
 _**Voie de la Magie & Ambeanamos**_. Gwion est niveau 12 dans la voie de la Magie et Archétype Ambeanamos.  
 
-_**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).
+_**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybrides" (cf: Sohoten).
 
 _**Loi primordiale**_. *(Magie)* "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui interdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.  
 Cette règle perment aux utilisateurs de la voie de la Magie de se cotoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, il perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).   
@@ -188,10 +188,10 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3862 PC
-- 19 788 PA
+- 26 518 PA
 - 44 PE
-- 990 PO
-- 89 PP.  
+- 11 502 PO
+- 36 PP.  
 §§§
 
 §§§ .hero
@@ -224,12 +224,14 @@ Gwion possède l'équipement suivant :
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
-[Brise os](/grimoire/brise-os), [Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Scrutation](/grimoire/scrutation)
+[Brise os](/grimoire/brise-os), [Cône de froid](/grimoire/cone-de-froid), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire),[Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Restauration supérieure](/grimoire/restauration-superieure), [Scrutation](/grimoire/scrutation)
 $àçmp
 
 **Sorts possédés à apprendre** :
 
-- Apprenti : Cône de froid, Invoquer un élémentaire, Restauration supérieur.  
+- Novice : Baie nourricière, druidisme, coup de tonnerre, compagnon animal, bouclier de la foi, lame de feu, flamme sacrée, produire une flamme, thaumaturgie  
+- Disciple : Prière de soin, arme sainte  
+- Apprenti :   
 §§§
 
 §§§ .hero
@@ -249,7 +251,7 @@ $àçmp
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
 |Basse-cour|1|1|-|0|1X2d6|2|1X10X6d6 pa|1/5 maisons|
-|Bergerie|1|1|-|-1|1X2d6|2|1X20X6d6 pa|1/5 maisons|
+|Bergerie|2|1|-|-1|1X2d6|2|1X20X6d6 pa|1/5 maisons|
 |Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
 |Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
 |Caserne|0|0|-0|-|-|0|-|0|
@@ -259,19 +261,19 @@ $àçmp
 |Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
 |Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
 |Four|2|2|-|-|2X1d6|4|2X10X6d6 pa|1/5 maisons|
-|Maison|6|6|-|-|-|30|6X10X6d6 pa|Max=CHA+SAG|
+|Maison|9|6|-|-|-|30|6X10X6d6 pa|Max=CHA+SAG|
 |Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
 |Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
-|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
+|Puits|1|+0|-|0|0d6|-|-|1/10 maisons|
 |Salle du conseil|0|0|0|0|-|0|-|1|
 |Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
 |Temple|0|0|0|0|-|0|0X9d6 pp|1|
 |**Total**|**10**|**10**|**0**|**0**|**6d6**|**38**|**110X6d6 pa**|**-**|
 
-**Colons** : 41  
+**Colons** : 19  
 **Trésor** : 0
 **Nourriture** : 28
-**Constructions Miz Genver 722** : 1 maison  
+**Constructions Miz Genver 722** : 1 maison  + 1 basse cours
 
 ### Modificateur d'évènement  
 |Modificateur d'évènement|||||||
@@ -284,14 +286,13 @@ $àçmp
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 169 620     
+**XP acquis** : 185 015    
 **Points de Magie** :80   
 **Points de Foi** :19    
 **Points d'honneur** :49          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Poursuivi par un inéxorable** Repos long efficacité réduite (moitié).   
-**Guilde des mages** : Novice 150 po/lune
+**Guilde des mages** : Disciple 280 po/lune
 **Eveil**: Voie médiane
 §§§
 
@@ -299,5 +300,7 @@ $àçmp
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
+
+Mise à jour du 30/04/2022
 
 §§§
