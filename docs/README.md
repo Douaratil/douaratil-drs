@@ -17,6 +17,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 98
 - Avancement du livre des joueurs version PDF et papier.  
 - Ajout du sort [Furoncles](/grimoire/furoncles)
+- Ajout du sort [Langue bleue](/grimoire/langue-bleue)
 
 Bon jeu.  
 §§§ .text-right
