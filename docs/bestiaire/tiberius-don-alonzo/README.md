@@ -198,41 +198,11 @@ petite maison à Ker-Saozon.
 #### Colonie de Madin'alajnibh
 
 ### Colonie de Madin'alajnibh
-|Table des bâtiments & des ressources ddu quartier |||||||||||
-|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
-|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
-|Caserne|0|0|-0|-|-|0|-|0|
-|Écurie|0|0|0|0|-|0|-|1/10 maisons|
-|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
-|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|7|7|-|-|-|35|7X10X6d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
-|Puits|2|2|-|+3|2d6|-|-|1/10 maisons|
-|Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**9**|**9**|**0**|**3**|**2d6**|**35**|**70X6d6 pa**|**-**|
-
-
+**Développement** Faible La colonie est pauvre.  
+La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po  
 **Colons** : 75  
 **Trésor** : 0   
-**Nourriture** : 150  
 
-
-### Modificateur d'évènement  
-|Modificateur d'évènement|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
-|13 --->|0|0|3|0|40|**-37**|-4|
 
 Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commises par leur membre , ils sont punis. Sinon, il sont une rente de 20 po/lune et une exemption de corvée.
 - Recherche de ceps matures (8-10 ans) gravières, syrats...)

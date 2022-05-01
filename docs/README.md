@@ -15,13 +15,22 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 98
-- Finalisation du livre des joueurs version PDF et papier. J'ai commandé deux exemplaires pour corriger les dernières coquilles. Attendons les objets pour en évaluer la qualité.
-- Corrections et précisions pour de nombreux sorts.
-- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc)
-- Ajout du sort [Furoncles](/grimoire/furoncles)
-- Ajout du sort [Langue bleue](/grimoire/langue-bleue)
+- Finalisation du livre des joueurs version PDF et papier. J'ai commandé deux exemplaires pour corriger les dernières coquilles. Attendons les objets pour en évaluer la qualité.  
+- Corrections et précisions pour de nombreux sorts ([Aéromancie](/grimoire/aeromancie), [Air magique](/grimoire/air-magique), [Amphore magique](/grimoire/amphore-magique), [Anosmie/Agueusie](/grimoire/anosmie-agueusie), [Appel de la pluie](/grimoire/appel-de-la-pluie), [Arme d'électrocution](/grimoire/arme-d-electrocution), [Asphyxie](/grimoire/asphyxie), [Ataxie/Désafférentation](/grimoire/ataxie-desafferentation), [Atmosphère électrique](/grimoire/atmosphere-electrique), [Atmosphère vertueuse](/grimoire/atmosphere-vertueuse), [Attiser les flammes](/grimoire/attiser-les-flammes)).   
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc)  
+- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)  
+- Mise à jour de [Thorleik Aevarson](/bestiaire/throleik-aevarson)  
+- Ajout du sort [Achever les vivants](/grimoire/achever-les-vivants) d'Elric.    
+- Ajout du sort [Aiguilles glaciales](/grimoire/aiguilles-glaciales) d'Elric.    
+- Ajout du sort [Anéantissement partiel](/grimoire/aneantissement-partiel) d'Elric.  
+- Ajout du sort [Appel renforcé de la pluie](/grimoire/appel-renforce-de-la-pluie) d'Elric.  
+- Ajout du sort [Arbre sacré](/grimoire/arbre-sacre) d'Elric.  
+- Ajout du sort [Arme prédestinée](/grimoire/arme-predestinee) d'Elric.  
+- Ajout du sort [Âtres liés](/grimoire/atres-lies) d'Elric.  
+- Ajout du sort [Furoncles](/grimoire/furoncles)  
+- Ajout du sort [Langue bleue](/grimoire/langue-bleue)  
 - Simplification des règles de domaine et de colonie. L'idée est de se rapprocher d'une gestion simplifiée comme les intermèdes de patrimoine. La gestion trop simulationiste et stratégique interfère négativement sur la narration et le roleplaying.    
-- Précisions des règles dans le chapitre intermède avec définition des phases de jeu.  
+- Précisions des règles dans le chapitre intermède avec définition des phases de jeu.    
 
 Bon jeu.  
 §§§ .text-right

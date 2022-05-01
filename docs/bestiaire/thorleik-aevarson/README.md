@@ -64,7 +64,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/0), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (0/1)"
+  - "le Weslèdh (3/0), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (0/1), Ashkhèm (3/3), Ashkham (2/3)"
 category: "PJ"
 ---
 
@@ -186,10 +186,10 @@ Thorleik Aevarson possède l'équipement suivant :
 - matériel d'herboriste
 - pique
 - Tente
-- 1491 PC
-- 7 404 PA
+- 2491 PC
+- 11 042 PA
 - 13 PE
-- 830 PO
+- 2999 PO   
 - 53 PP.
 
 §§§ .hero
@@ -206,10 +206,17 @@ Thorleik Aevarson possède l'équipement suivant :
 [Arme sainte](/grimoire/arme-sainte), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins)
 §§§
 
+**Sorts possédés à apprendre** :
+
+- Novice : Cécité/Surdité, Confort, Détection de la magie   
+- Disciple : Chien de garde, Invoquer des élémentaires mineurs, Respiration aquatique, Jeter une malédiction  
+- Apprenti : Restauration supérieure   
+§§§
+
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine** : néant
+**Niveau patrimoine** : Faible Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.  
 §§§
 
 §§§ .hero
@@ -221,45 +228,18 @@ Thorleik Aevarson possède l'équipement suivant :
 
 
 ### Colonie de Madin'alajnibh
-|Table des bâtiments & des ressources ddu quartier |||||||||||
-|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0X20X6d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
-|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
-|Caserne|0|0|-0|-|-|0|-|0|
-|Écurie|0|0|0|0|-|0|-|1/10 maisons|
-|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
-|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
-|Forge|1|+3|+3|-1|-|2|1X4X6d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0X10X6d6 pa|1/5 maisons|
-|Maison|2|2|-|-|-|5|2X10X6d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
-|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
-|Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0X12X6d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**3**|**5**|**0**|**0**|**-**|**12**|**4X6d6po, 20X6d6 pa**|**-**|
 
-**Colons** : 16  
-**Trésor** : 188po, 360 pa
-**Nourriture** : 0
+**Développement Très faible** La colonie est très pauvre.
+La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
+**Colons** : 22  
+**Trésor** : 688po, 360 pa
 
-### Modificateur d'évènement  
-|Modificateur d'évènement|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
-|11 --->|0|-3|-1|-16|-6|**-26**|-3|
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 108 833  
+**XP acquis** : 109 313   
 **Points de Magie** :16   
 **Points de Foi** :60    
 **Points d'honneur** :34      

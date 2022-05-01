@@ -246,40 +246,10 @@ $àçmp
 **Serviteurs** : 0    
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
-|Table des bâtiments & des ressources du quartier |||||||||||
-|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0X2X6d6 po|1/10 maisons|
-|Basse-cour|1|1|-|0|1X2d6|2|1X10X6d6 pa|1/5 maisons|
-|Bergerie|2|1|-|-1|1X2d6|2|1X20X6d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0X2X6d6 pp|1|
-|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
-|Caserne|0|0|-0|-|-|0|-|0|
-|Écurie|0|0|0|0|-|0|-|1/10 maisons|
-|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
-|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0X2X6d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0X4X6d6 po|1/10 maisons|
-|Four|2|2|-|-|2X1d6|4|2X10X6d6 pa|1/5 maisons|
-|Maison|9|6|-|-|-|30|6X10X6d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0X3X6d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0X5X6d6 po|1/10 maisons|
-|Puits|1|+0|-|0|0d6|-|-|1/10 maisons|
-|Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0X12Xd6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0X9d6 pp|1|
-|**Total**|**10**|**10**|**0**|**0**|**6d6**|**38**|**110X6d6 pa**|**-**|
-
+**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
 **Colons** : 19  
-**Trésor** : 0
-**Nourriture** : 28
-**Constructions Miz Genver 722** : 1 maison  + 1 basse cours
+**Trésor** : 1000 po  
 
-### Modificateur d'évènement  
-|Modificateur d'évènement|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
-|24 --->|+1|0|-1|0|0|**+0**|+0|
 §§§
 
 §§§ .hero

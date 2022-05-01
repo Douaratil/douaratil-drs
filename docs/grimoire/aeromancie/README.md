@@ -19,6 +19,6 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie  
 
-Ce sort permet de voir un événement futur en lien avec une personne. Le sorcier doit jeter de la poussière d’améthyste au vent en pensant à une personne. Des images, des sons, et d’autres sensations apparaîtront au sorcier durant 1 seconde seulement. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 10 l’effet du sort reste confus dans la tête du sorcier, entre 11 et 17, le sorcier n’a retenu que la moitié des informations, 17 et +, le sorcier se rappelle de tout très clairement, sans aucuns doutes.
+Ce sort permet de voir un événement futur en lien avec une personne. Le sorcier jette la poussière d’améthyste au vent en pensant à la cible. Des images, des sons, et d’autres sensations apparaîtront au sorcier. Le lanceur de sort doit jeter 3d6 explosif. Si le résultat est entre 3 et 10 l’effet du sort reste confus dans la tête du sorcier, entre 11 et 17, le sorcier n’a retenu que la moitié des informations. Pour 17 et +, le sorcier se rappelle très clairement de tout.
 
 **À plus haut niveau**. Les emplacements de surcharge permettent un résultat plus pertinent. Chaque emplacement de surcharge ajoute un bonus de +2 au jet.

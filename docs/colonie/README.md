@@ -48,14 +48,14 @@ La colonie génère des revenus suivant son niveau de développement. Il s'agit 
 *Condition: Niveau 3*  
 *Investissement : 1500 po*  
 La colonie est très pauvre.   
-Le colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
+La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
 *Revenus : 5 X 6d6 po*  
 
 **Développement Faible**  
 *Condition: Niveau 6*  
 *Investissement :3000 po*  
 La colonie est pauvre.   
-Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
+La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
 *Revenus : 10 X 6d6 po*  
 
 **Développement Normal**  
@@ -63,14 +63,14 @@ Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 *Investissement :9000 po*  
 La colonie est respectable.   
 La colonie est pauvre.   
-Le colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
+La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
 *Revenus : 1d6 PP et 20 x 6d6 po*
 
 **Développement Important**  
 *Condition: Niveau 12*  
 *Investissement :18 000 po*  
 La colonie est importante et renommée dans la région.   
-Le colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre.
+La colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "héroïque"**  
 *Revenus : 5D6 PP et 30 x 6d6 po*   
 
@@ -79,12 +79,12 @@ Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "h
 *Investissement :36 000 po*  
 La colonie est très important et renommé dans le royaume.   
 La colonie est importante et renommée dans la région.   
-Le colonie est constituée de quarante bâtiments avec une capacité d'accueil de 400 personnes. La colonie comprends une dizaine de points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes, mais aussi temple et bordel. La colonie a une grande muraille de pierre.
+La colonie est constituée de quarante bâtiments avec une capacité d'accueil de 400 personnes. La colonie comprends une dizaine de points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes, mais aussi temple et bordel. La colonie a une grande muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"**  
-*Revenus : 3 X 6d6PP et 50 x 6d6 po*   
+*Revenus : 3 X 6d6 PP et 50 x 6d6 po*   
 
 ## Les évènements de la colonie
-Une colonie génère rapidement beaucoup d'activité et des évènements arrivent inévitablement, quelques fois ce sont des bonnes nouvelles et quelques fois des mauvaises.
+Une colonie génère rapidement beaucoup d'activité et des évènements arrivent inévitablement, quelques fois ce sont des bonnes nouvelles et quelques fois des mauvaises. Les bâtiments détruits sont reconstruits en une lune.  
 
 ### évènements
 |Détermination|Événements|
@@ -104,25 +104,25 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |Détermination|Désastre|
 |Jeter 4d6 (explosifs)|Résultat|
 |:-:|:-:|
-|4-10|Raid de pillard, perte de 1d6 maison (non explosif) et de 3d6 (explosif) colons morts, Perte 1d6 X 1000 PO à concurrence de la totalité du trésor et de la moitié des biens du personnage, perte jusqu'à 150 de nourriture|
-|11|Évènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts, perte jusqu'à 100 de nourriture|
-|12|Une caravane est irrémédiablement perdue sans laisser de nouvelles|
+|4-10|Raid de pillard, perte de maisons et de 3d6 (explosif) colons morts, 2000 PO de dégâts, Perte 1d6 X 1000 PO à concurrence de la totalité du trésor et de la moitié des biens du personnage|
+|11|Évènement climatique désastreux, 1500 PO de dégâts, 3d6 (explosif) colons morts|
+|12|Une caravane est irrémédiablement perdue sans laisser de nouvelles, perte de 1200 PO|
 |13|Maraudes et pillages, 1000 PO de dégâts, 2d6 (explosif) colons morts|
 |14|Maraudes et pillages, 500 PO de dégâts, 1d6 (explosif) colons morts|
 |15|Maraudes et pillages, 250 PO de dégâts, 1d6 (explosif) colons morts|
-|16|Un sorcier amateur s'est trompé dans les dosage de ses potions. Explosion qui détruit une 1d6 (non explosif) maison. 1d6 (explosif) mort par maison détruite.|
-|17|Évènement Tremblement de terre, perte de 1d6 (non explosif) maison mais heureusement aucune victime, par contre autant de sans abris|
-|18|Évènement climatique désastreux, 500 PO de dégâts, 2d6 (explosif) colons morts, perte jusqu'à 50 de nourriture|
-|19|Une soirée de mariage qui tourne mal, incendie, perte d'une maison et de 2d6 morts.|
+|16|Un sorcier amateur s'est trompé dans les dosage de ses potions. Explosion qui détruit 1d6 (non explosif) maison. 1d6 (explosif) morts par maison détruite. 500 PO de dégâts|
+|17|Évènement Tremblement de terre, perte de 1d6 (non explosif) maisons mais heureusement aucune victime, par contre autant de sans abris|
+|18|Évènement climatique désastreux, 500 PO de dégâts, 2d6 (explosif) colons morts|
+|19|Une soirée de mariage qui tourne mal, incendie, perte d'une maison et de 2d6 (explosif) morts.|
 |20|Augmentation des impôts énormes, régler immédiatement 2000 po à votre seigneur|
-|21|Récoltes désastreuses divisez par 4 votre gain de  nourriture ce mois-ci|
-|22|Activités économiques désastreuses, revenus de la colonie divisée par 4|
+|21|Récoltes désastreuses divisez par 4 votre revenu ce mois-ci|
+|22|Activités économiques désastreuses, revenus de la colonie divisée par 3|
 |23|Le temple ou des fidèles sont accusés d'hérésie, procès et exécutions, perte de 3000 po, de 4d6 (explosifs) colons|
-|24|Bagarre générale dans une taverne ou un bordel, 3d6 (explosifs) mort et bâtiment (si possédé) perdu|
+|24|Bagarre générale dans une taverne ou un bordel ou en pleine rue, 3d6 (explosifs) morts et bâtiment (si possédé) perdu|
 |25|Conflits entre familles, 1000 PO de dégâts, 2d6 (explosif) colons morts, perte d'une maison|
-|26|Raid mineur sur le quartier, perte de 1d6|
-|27|Puit souillé (200 PO pour l'assainir sans délai ou détruit), 1d6 (explosif) colons morts|
-|28|Puit asséché (400 PO pour le réparer sans délai ou détruit)|
+|26|Raid mineur sur le quartier, perte de 1d6 X 100 PO de dégâts|
+|27|Puit souillé (200 PO pour l'assainir), 1d6 (explosif) colons morts|
+|28|Puit asséché (400 PO pour le réparer)|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **Mauvaises nouvelles**|
 
 ### Mauvaise nouvelle
@@ -131,24 +131,24 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **Désastre**|
 |11|Défaite sur des bandits et des pillards, perte de 1500 po, perte de 4d6 (explosifs) colons|
-|12|Blocus, les caravanes ne peuvent pas être utilisée ce mois-ci|
+|12|Blocus, les caravanes ne peuvent pas être utilisée ce mois-ci, perte de 1000 po|
 |13|Une maladie étrange frappe la colonie, perte de 3d6 (explosif) colons|
-|14|Invasion de rongeurs, perte de 6d6 (explosifs) de nourriture|
-|15|-|
-|16|-|
-|17|-|
-|18|-|
-|19|-|
+|14|Invasion de rongeurs, perte d'une partie des réserve de nourriture, perte de 800 po|
+|15|Maraudes et pillages, 800 PO de dégâts, 1d6 (explosif) colons morts|
+|16|Maraudes et pillages, 400 PO de dégâts, 1d6 (explosif) colons morts|
+|17|Maraudes et pillages, 200 PO de dégâts, 1d6 (explosif) colons morts|
+|18|Maraudes et pillages, 100 PO de dégâts, 1d6 (explosif) colons morts|
+|19|Évènement climatique désastreux, 300 PO de dégâts, 1d6 (explosif) colons morts|
 |20|Augmentation des impôts importante, régler immédiatement 1000 po à votre seigneur|
-|21|Récoltes mauvaises divisez par 2 votre gain de  nourriture ce mois-ci|
+|21|Récoltes mauvaises divisez par 3 le revenu ce mois-ci|
 |22|Activités économiques mauvaises, revenus de la colonie divisée par 2|
 |23|Le temple ou des fidèles sont accusés d'hérésie, procès et exécutions, perte de 1500 po, de 2d6 (explosifs) colons|
-|24|-|
-|25|-|
-|26|-|
-|27|-|
-|28|-|
-|29|-|
+|24|Conflits entre familles, 500 PO de dégâts, 1d6 (explosif) colons morts, perte d'une maison|
+|25|Raid mineur sur le quartier, perte de 1d6 X 50 PO de dégâts|
+|26|Ville assiégée, perte de 1d6 X 10 po par jour|
+|27|Ville assiégée, perte de 1d6 X 5 po par jour|
+|28|Ville assiégée, perte de 1d6 X 2 po par jour|
+|29|Ville assiégée, Le personnage subit un coup ciritique contondant (résultat mortel ignorée mais transormé blessure grave, blessures prises en compte.)|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **La vie suit son cour**|
 
 ### La vie suit son cour
@@ -160,16 +160,16 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |12|Défaite sur des bandits et des pillards, perte de 700 po, perte de 2d6 (explosifs) colons|
 |13|Augmentation des impôts, régler immédiatement 750 po à votre seigneur|
 |14|Une maladie étrange frappe la colonie, perte de 1d6 (explosif) colons|
-|15|Invasion de rongeurs, perte de 3d6 (explosifs) de nourriture|
-|16|mauvaise activité économique perte 4d6 X 10 PA|
+|15|Invasion de rongeurs, perte d'une partie des réserve de nourriture, perte de 400 po|
+|16|mauvaise activité économique perte 4d6 X 10 Po|
 |17|La vie suit son court et c'est bien mieux ainsi|
-|18|Marché local : gain 6d6 X 10 PA|
-|19|Marché important avec événementiel 4d6 X 60 PA|
-|20| activité économique normale 6d6 X 10 PO|
-|21|activité économique 6d6 X 20 PO|
-|22|Victoire sur des bandits et des pillards, gain de 500 po, perte de 10d6 (explosifs) colons|
+|18|Marché local : gain 6d6 X 10 Po|
+|19|Marché important avec événementiel 4d6 X 25 Po|
+|20| activité économique normale 6d6 X 50 PO|
+|21|activité économique 6d6 X 100 PO|
+|22|Victoire sur des bandits et des pillards, gain de 500 po, perte de 5d6 (explosifs) colons|
 |23|Le temple ou des fidèles sont suspectés d'hérésie, aucun revenu religieux pour le mois|
-|24|-|
+|24|Fête religieuse, la population est joyeuse, gain 600 po|
 |25|Les bandits et les pillards ont refusé l'affrontement et fui en laissant une partie de leur butin, gain de 600 po|
 |26|Baisse des impôts, vous gagnez immédiatement 750 po de votre seigneur|
 |27|-|
@@ -195,7 +195,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |21|Bonnes récoltes multipliez par 2 votre gain de  nourriture ce mois-ci|
 |22|Activités économiques bonnes, revenus de la colonie multipliez par 2|
 |23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 1500 po, arrivée 2d6 (explosifs) colons|
-|24|-|
+|24|Victoire sur des bandits et des pillards, gain de 1000 po, perte de 5d6 (explosifs) colons|
 |25|-|
 |26|Baisse des impôts, vous gagnez immédiatement 1000 po de votre seigneur|
 |27|-|
