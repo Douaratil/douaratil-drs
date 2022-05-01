@@ -20,7 +20,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc)  
 - Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)  
 - Mise à jour de [Thorleik Aevarson](/bestiaire/throleik-aevarson)  
-- Ajout du sort [Achever les vivants](/grimoire/achever-les-vivants) d'Elric.    
+- Ajout du sort [Achever les mourants](/grimoire/achever-les-mourants) d'Elric.    
 - Ajout du sort [Aiguilles glaciales](/grimoire/aiguilles-glaciales) d'Elric.    
 - Ajout du sort [Anéantissement partiel](/grimoire/aneantissement-partiel) d'Elric.  
 - Ajout du sort [Appel renforcé de la pluie](/grimoire/appel-renforce-de-la-pluie) d'Elric.  
