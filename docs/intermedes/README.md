@@ -54,7 +54,7 @@ Le personnage possède un patrimoine qui lui permet de vivre dignement dans la s
 Le personnage possède un patrimoine important qui peut comprendre plusieurs fermes ou plusieurs échoppes. La famille est souvent connue localement et au delà. Certains membres peuvent avoir des fonctions publiques ou religieuses. Ce patrimoine génère des revenus importants qui permettent de se détacher du lot. Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.   
 
 **Patrimoine Très important**   
-*Condition :10 et + *   
+*Condition :10 et +*   
 *Investissement: 32 000 pièces d'or*   
 Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
 

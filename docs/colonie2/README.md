@@ -2,10 +2,9 @@
 title: Colonie
 ---
 # La colonie
-Le développement d'une colonie reprends certaines règles de la gestion du domaine. La différence réside dans le fait que les joueurs se trouvent en responsabilité de quartiers qu'ils développent. Cet aspect du jeu n'est pas indispensable pour les parties mais les joueurs qui développeront cet aspect, en plus de l'expansion de leur famille, apprécieront ce mécanisme du jeu qui approfondira leur histoire et ancrage dans le monde de Douaratil. Nous conseillons d'impliquer tous les joueurs de la tablée dans cette aventure car ils auront des responsabilités et de lourdes décision à prendre.
-**Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon ses bonus de caractéristiques. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.** 
+Le développement d'une colonie reprends certaines règles de la gestion du domaine. La différence réside dans le fait que les joueurs se trouvent en responsabilité de quartiers qu'ils développent. Cet aspect du jeu n'est pas indispensable pour les parties mais les joueurs qui développeront cet aspect, en plus de l'expansion de leur famille, apprécieront ce mécanisme du jeu qui approfondira leur histoire et ancrage dans le monde de Douaratil. Nous conseillons d'impliquer tous les joueurs de la tablée dans cette aventure car ils auront des responsabilités et de lourdes décision à prendre.  
 
-Une colonie est d'abord un élément narratif et stratégique du jeu. Il coûtera probablement plus d'or qu'il n'en rapportera mais entraînera probablement de nombreuses aventures.  
+Une colonie est d'abord un élément narratif et stratégique du jeu. Il coûtera probablement plus d'or qu'il n'en rapportera mais entrainera probablement de nombreuses aventures.  
 
 ## Les phases de jeu
 La gestion de la colonie se déroule en plusieurs phases:   
