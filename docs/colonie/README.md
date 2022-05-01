@@ -48,14 +48,14 @@ La colonie génère des revenus suivant son niveau de développement. Il s'agit 
 *Condition: Niveau 3*  
 *Investissement : 1500 po*  
 La colonie est très pauvre.   
-Le colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 personnes. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
+Le colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
 *Revenus : 5 X 6d6 po*  
 
 **Développement Faible**  
 *Condition: Niveau 6*  
 *Investissement :3000 po*  
 La colonie est pauvre.   
-Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 personnes. La colonie comprends deux point d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
+Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
 *Revenus : 10 X 6d6 po*  
 
 **Développement Normal**  
@@ -63,58 +63,25 @@ Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 *Investissement :9000 po*  
 La colonie est respectable.   
 La colonie est pauvre.   
-Le colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 personnes. La colonie comprends trois point d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
+Le colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
 *Revenus : 1d6 PP et 20 x 6d6 po*
 
 **Développement Important**  
 *Condition: Niveau 12*  
 *Investissement :18 000 po*  
-La colonie est important et renommé dans la région.   
-Le bâtiment principal est constitué d'une grande pièce principale, d'une grande cuisine, d'une écurie et de cinq chambres. Le bâtit est un mélange de bois et de pierre et possède des volets, le toit est en tuiles. Une palissade de pierre de deux mètres avec des fossés emplis de pieux sont dissuasifs.   
-Dans le bourg, vingt fermes se sont installées avec basse cours, porcheries, bergeries et atelier de poterie.   
-La population se compose de la famille du seigneur, de cinq servante, de deux cuisinier, de quinze gardes dans une caserne confortable et de vingt familles de paysans.   
+La colonie est importante et renommée dans la région.   
+Le colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "héroïque"**  
-*Revenus : 25 x 6d6 po*   
+*Revenus : 5D6 PP et 30 x 6d6 po*   
 
 **Développement Très Important**  
 *Condition: Niveau 15*  
 *Investissement :36 000 po*  
 La colonie est très important et renommé dans le royaume.   
-Le bâtiment principal est constitué d'une grande pièce principale, d'une grande cuisine, d'une salle de réception, d'une écurie et de sept chambres. Le bâtit est de pierre de taille et possède des fenêtres en verre et des volets, le toit est en tuiles. Une palissade de pierre de trois mètres avec des douves emplies de pieux sont dissuasifs. Dans le bourg, trente fermes se sont installées avec basse cours, porcheries, bergeries, étables, forges et atelier de poterie.   
-La population se compose de la famille du seigneur, de cinq servante, de deux cuisinier, de vingt gardes dans une caserne confortable et de trente familles de paysans.  
+La colonie est importante et renommée dans la région.   
+Le colonie est constituée de quarante bâtiments avec une capacité d'accueil de 400 personnes. La colonie comprends une dizaine de points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes, mais aussi temple et bordel. La colonie a une grande muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"**  
-*Revenus : 40 x 6d6 po*   
-
-|Table des bâtiments & des ressources de la colonie |||||||||||
-|Type|Coûts|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|1000 po|+2|+1|-|-|2|2X6d6 po|1/10 maisons|
-|Basse-cour|500 po|+1|-|-1|1d6|2|10X6d6 pa|1/5 maisons|
-|Bergerie|1000 po|+1|-|-1|2d6|2|20X6d6 pa|1/5 maisons|
-|Bordel|10 000 po|+5|+8|+2|-|5|2X6d6 pp|1|
-|Caravane commerciale|1000 po|+1|-|-1|spécial|5|spécial|maximum 4|
-|Caserne|5000 po|+5|-10|-|-|10|-|1|
-|Écurie|2000 po|+2|-1|-1|-|2|-|1/10 maisons|
-|Enceinte|500 po|+1|-2|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
-|Entrepôt|1000 po|+1|+4|+2|-|2|2|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|1000 po|+2|-|-2|2d6|2|2X6d6 po|1/10 maisons|
-|Forge|2000 po|+3|+3|-1|-|2|4X6d6 po|1/10 maisons|
-|Four|500 po|+1|-|-|1d6|2|10X6d6 pa|1/5 maisons|
-|Maison|500 po|+1|-|-|-|5|10X6d6 pa|Max=CHA+SAG|
-|Menuiserie|1500 po|+2|+1|-|-|2|3X6d6 po|1/10 maisons|
-|Moulin|2500 po|+3|+1|+1|3d6|2|5X6d6 po|1/10 maisons|
-|Puits|500 po|+1|-|+3|1d6|-|-|1/10 maisons|
-|Salle du conseil|1000 po|+5|-3|+3|-|5|-|1|
-|Taverne|3000 po|+2|+4|+2|1d6|5|12X6d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|7000 po|+7|+2|+10|-|10|9d6 pp|1|
-
-* Les revenus sont entendus, charges et autres impôts déduits.
-
-## Avantage concret du développement  
-Le fait d'augmenter la colonie permet d'être considéré dans les alentours. Un investissement de 10 000 po dans la colonie permet d'avoir l'équivalent du **haut fait de richesse "héroïque"** avec les avantages de points d'honneur qu'il en découle.  
-Un investissement de 100 000 po dans la colonie permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  
-
-### La rente d'expérience  
+*Revenus : 3 X 6d6PP et 50 x 6d6 po*   
 
 ## Les évènements de la colonie
 Une colonie génère rapidement beaucoup d'activité et des évènements arrivent inévitablement, quelques fois ce sont des bonnes nouvelles et quelques fois des mauvaises.
