@@ -14,6 +14,18 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 99
+- Correction de liens cassés.   
+- Mise à jour de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon)    
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano)    
+
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 2 mai 2022_
+§§§
+
 ## Mise à jour 98
 - Finalisation du livre des joueurs version PDF et papier. J'ai commandé deux exemplaires pour corriger les dernières coquilles. Attendons les objets pour en évaluer la qualité.  
 - Corrections et précisions pour de nombreux sorts ([Aéromancie](/grimoire/aeromancie), [Air magique](/grimoire/air-magique), [Amphore magique](/grimoire/amphore-magique), [Anosmie/Agueusie](/grimoire/anosmie-agueusie), [Appel de la pluie](/grimoire/appel-de-la-pluie), [Arme d'électrocution](/grimoire/arme-d-electrocution), [Asphyxie](/grimoire/asphyxie), [Ataxie/Désafférentation](/grimoire/ataxie-desafferentation), [Atmosphère électrique](/grimoire/atmosphere-electrique), [Atmosphère vertueuse](/grimoire/atmosphere-vertueuse), [Attiser les flammes](/grimoire/attiser-les-flammes)).   
