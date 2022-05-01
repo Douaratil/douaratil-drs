@@ -189,10 +189,10 @@ Lôchetos possède l'équipement suivant :
 - torches (2)
 - vêtement discrets
 - 6314 PC
-- 10 122 PA
+- 12 722 PA
 - 750 PE
-- 7 231 PO
-- 70 PP  
+- 931 PO
+- 93 PP  
 §§§
 
 §§§ .hero
@@ -204,7 +204,7 @@ Lôchetos possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces de d'argent et 3D6 X 100 pièces d'or.  
+**Niveau patrimoine important** :  Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.  
 **Un emplacement & un petit entrepôt au port de Thaouet** 2d6 pièces d'or.
 §§§
 
@@ -216,16 +216,9 @@ Lôchetos possède l'équipement suivant :
 
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
-**Colons** : 57    
+**Colons** : 121       
 **Trésor** : 0  
 
-
-
-### Modificateur d'évènement  
-|Modificateur d'évènement|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|Modificateur final évènement|
-|18 --->|+0|0|+1|-0|-0|**+1**|+0|
 §§§
 
 §§§ .hero

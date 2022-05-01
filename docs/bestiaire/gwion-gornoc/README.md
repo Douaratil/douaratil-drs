@@ -188,10 +188,10 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3862 PC
-- 26 518 PA
+- 30 018 PA
 - 44 PE
-- 11 502 PO
-- 36 PP.  
+- 10 592 PO
+- 128 PP.  
 §§§
 
 §§§ .hero
@@ -236,7 +236,7 @@ $àçmp
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces de d'argent et 3D6 X 100 pièces d'or.  
+**Niveau patrimoine important** : Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.
 **Apoticaire de Caohaydan** : 3d6 po  
 §§§
 
@@ -247,7 +247,7 @@ $àçmp
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
-**Colons** : 19  
+**Colons** : 46    
 **Trésor** : 1000 po  
 
 §§§
@@ -262,7 +262,7 @@ $àçmp
 **Points d'honneur** :49          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Guilde des mages** : Disciple 280 po/lune
+**Guilde des mages** : Disciple 280 po/lune  
 **Eveil**: Voie médiane
 §§§
 
