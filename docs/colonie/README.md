@@ -2,67 +2,20 @@
 title: Colonie
 ---
 # La colonie
-Le développement d'une colonie reprends certaines règles de la gestion du domaine. La différence réside dans le fait que les joueurs se trouvent en responsabilité de quartiers qu'ils développent. Cet aspect du jeu n'est pas indispensable pour les parties mais les joueurs qui développeront cet aspect, en plus de l'expansion de leur famille, apprécieront ce mécanisme du jeu qui approfondira leur histoire et ancrage dans le monde de Douaratil. Nous conseillons d'impliquer tous les joueurs de la tablée dans cette aventure car ils auront des responsabilités et de lourdes décision à prendre.
-**Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon ses bonus de caractéristiques. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.** 
+Le développement d'une colonie reprends certaines règles de la gestion du domaine. La différence réside dans le fait que les joueurs peuvent développer les colonies en dehors de leurs royaumes d'origine. Cet aspect du jeu n'est pas indispensable pour les parties mais les joueurs qui développeront cet aspect, en plus de l'expansion de leur famille, apprécieront ce mécanisme du jeu qui approfondira leur histoire et ancrage dans le monde de Douaratil. Nous conseillons d'impliquer tous les joueurs de la tablée dans cette aventure car ils auront des responsabilités et de lourdes décision à prendre.
+**Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon la moyenne ses bonus de caractéristiques arrondi à l'entier inférieur. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.**
 
-Une colonie est d'abord un élément narratif et stratégique du jeu. Il coûtera probablement plus d'or qu'il n'en rapportera mais entraînera probablement de nombreuses aventures.  
+Une colonie est d'abord un élément narratif du jeu. Il coûtera probablement plus d'or qu'il n'en rapportera mais entraînera probablement de nombreuses aventures.  
 
 ## Les phases de jeu
-La gestion de la colonie se déroule en plusieurs phases:   
-
-- Phase 1 : Détermination de l'arrivée des nouveaux colons (modulée par l'influence).   
-- Phase 2 : Détermination et application des évènements  (modulée par l'influence).    
-- Phase 3 : Détermination des constructions achevées.   
-- Phase 4 : Production de  nourriture et détermination des revenus.   
-- Phase 5 : Consommation de la nourriture.
-- Phase 6 : Vente ou achat de nourriture avec les caravanes.  
-- Phase 7 : Détermination constructions avenir et affectation des colons.
-- Phase 8 : Détermination finale du tours. La colonie se "fige" pendant une lune jusqu'à la prise en compte des nouveaux bâtiments.   
-
+La gestion de la colonie se déroule au moment des intermèdes.  
+- Phase 1 : Gestion des colons.
+- Phase 2 : Gestions des évènements des colonies
+- Phase 1 : Revenus.
+- Phase 2 : Investissement (permet de générer de nouveau des revenus)
 
 
 ## Le développement de la colonie  
-
-### Le développement passif de la colonie
-La colonie se développe de façon passive. La renommée du personnage attire des personnes de son clans et de ses alliés (toujours de son ethnie). Ainsi, une maison est construite toute les lunes sans jamais pouvoir dépasser un nombre total de maison égale à l'addition de son score de sagesse et de charisme.  
-Il s'agit du nombre de maison et non des autres bâtiments qui seront construit pour la croissance et la stabilité de la ville.  
-**Nombre maximum de maisons (foyers)= Score (SAG+CHA)**  
-
-
-### Le développement actif de la colonie  
-En plus du développement passif de la colonie, le personnage joueur peut investir de l'argent pour accélérer la croissance de son quartier et son influence sur la colonie.  
-Les investissements peuvent se faire dans n'importe quel bâtiment Il est réalisé en une lune (périodes de 30 jours). Pour construire un bâtiment, il faut pouvoir mobiliser 10 colons par tranche de 500 po du coût du bâtiment. Evidemment les joueurs peuvent affecter des colons à d'autres joueurs pour les aider (ou pas).
-
-#### L'influence
-L'influence est un bonus qui appartient au personnage pour gérer et temporiser les évènements de son quartier. L'influence est une combinaison du charisme et des bâtiments construits dans le quartier. Ce score total correspond à un bonus d'influence qui permet d'affecter les tables des évènements.   
-
-|L'influence ||
-|Points d'influence|Bonus d'influence|
-|:-:|:-:|
-|1-20|0|
-|21-40|+1|
-|41-60|+2|
-|61-80|+3|
-|81-100|+4|
-|101-120|+5|
-|121-140|+6|
-|141-160|+7|
-|161 et +|+8|
-
-- L'usage du bonus d'influence est spéciale dans le sens où elle ne permet pas d'ajouter un bonus mais de moduler un résultat en positif ou négatif.    
-- L'influence réelle pour la détermination des évènements est la somme du bonus d'influence et le score de bien-être à laquelle est soustrait le score d'insécurité    
-
-**Influence = [(Bonus d'influence + score de bien-être)- Insécurité]**.   
-
-#### L'insécurité
-L'insécurité est une tendance qui peut se développer quand certaines activités existent dans des quartiers. Tout dépend des bâtiments et des évènements. L'insécurité affecte certains tableaux d'évènements. Elle est compensée par le bien-être.      
-
-#### Le bien-être
-Le bien-être est une tendance qui exprime un sentiment de la population et permet de compenser les effets de l'insécurité.   
-
-#### Production de nourriture
-La production de nourriture permet de faire vivre la population sur place. Elle peut affecte le bien-être et l'insécurité.  
-Le surplus de production peut être vendu par les caravanes au prix de 10 PO/ nourriture.   
 
 #### Colons  
 Il s'agit du nombre de colons dans la ville. Pour une bonne stabilité, il faut que ce chiffre soit le plus prêt de la capacité d'accueil de la ville. Les colons consomment par lune une quantité de nourriture égale au nombre de colons. La renommée du personnage attire les colons. Il peut ainsi faire venir un nombre de colon correspondant au **tier du niveau du personnage**, modulée par positivement par son modificateur de **Charisme** ou négativement par son modificateur de **Sagesse**. Comme nous parlons de modulation, l'application est au bon vouloir du gestionnaire de la colonie. De plus charque bonus/malus est un pool de dés. Par exemple : +3d6 en modulation permet d'ajouter de +1d6 à +3d6 selon le souhait du gestionnaire.     
@@ -84,223 +37,53 @@ Il s'agit du nombre de colons dans la ville. Pour une bonne stabilité, il faut 
 
 
 #### Capacité d'accueil de la ville  
-Correspond à la capacité des bâtiments à héberger des colons. S'il y a plus de colons que de capacité d'accueil, cela augmente l'insécurité de 1 par colon en surnombre. Il est possible de renvoyer des colons au prix de 5 PO par colon.    
+Correspond à la capacité des bâtiments à héberger des colons. S'il y a plus de colons que de capacité d'accueil, cela augmente l'insécurité par 5 colons en surnombre soustraire 1d6 po de revenus. Il est possible de renvoyer des colons au prix de 5 PO par colon. Il est aussi possible de s'échanger des colons entre joueurs pour peupler les colonies. A l'inverse, une colonie qui descend en dessous de 50% de sa capacité d'accueil, voit son niveau de développement diminuer. Ainsi, au bout de deux lunes, la colonie rétrograde d'un niveau de développement.  
 
 #### Revenus  
-Il s'agit de la richesse dégagée par un bâtiment et son activité. Il s'agit de la somme qui revient au personnage après la déduction des impôts et des charges.   
+La colonie génère des revenus suivant son niveau de développement. Il s'agit de la somme qui revient au personnage après la déduction des impôts et des charges.   
 
-## Les divers bâtiments  
+## Les niveaux de développement  
 
+**Développement Très faible**  
+*Condition: Niveau 3*  
+*Investissement : 1500 po*  
+La colonie est très pauvre.   
+Le colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 personnes. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
+*Revenus : 5 X 6d6 po*  
 
-### L'atelier de poterie
-**Coût** : 1000 PO  
-**L'influence** : +2  
-**L'insécurité** : +1     
-**Le bien-être** : -
-**Production de nourriture** : -  
-**Capacité d'accueil de la ville** : 2    
-**Revenus** : 2x6d6 PO      
-**Nombre maximum** : 1/10 maisons  
-Les ateliers de poterie produisent des revenus confortables mais comme tout lieu de richesse peut attirer quelques malfaisants, augmentant ainsi l'insécurité. Les poteries sont nécessaires pour stocker les denrées alimentaires et transporter l'eau.   
-Les poteries expriment aussi la culture d'une civilisation.   
+**Développement Faible**  
+*Condition: Niveau 6*  
+*Investissement :3000 po*  
+La colonie est pauvre.   
+Le colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 personnes. La colonie comprends deux point d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
+*Revenus : 10 X 6d6 po*  
 
-### Basse-cour
-**Coût** : 500 PO   
-**L'influence** : +1  
-**L'insécurité** : -   
-**Le bien-être** : -1
-**Production de nourriture** : 2d6    
-**Capacité d'accueil de la ville** : 2   
-**Revenus** : 10x6d6 PA   
-**Nombre maximum** : 1/5 maisons   
-Les basse-cour produisent de petits revenus et génèrent des nuisances avec les volatiles mais la production de nourriture est interessante et la vitesse de reproduction aussi. Une basse-cour à un faible coût d'investissement.    
+**Développement Normal**  
+*Condition: Niveau 9*  
+*Investissement :9000 po*  
+La colonie est respectable.   
+La colonie est pauvre.   
+Le colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 personnes. La colonie comprends trois point d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
+*Revenus : 1d6 PP et 20 x 6d6 po*
 
-### Bergerie
-**Coût** : 1000 PO   
-**L'influence** : +1
-**L'insécurité** : -  
-**Le bien-être** : -1  
-**Production de nourriture** : 2d6     
-**Capacité d'accueil de la ville** : 2     
-**Revenus** : 20X6d6 PA  
-**Nombre maximum** :  1/5 maisons   
-Les bergeries génèrent les mêmes problèmes que les basse-cour mais en plus d'amener de la viande, elles apportent du lait. Les revenus de ce commerce sont plus importants que la basse-cour.    
+**Développement Important**  
+*Condition: Niveau 12*  
+*Investissement :18 000 po*  
+La colonie est important et renommé dans la région.   
+Le bâtiment principal est constitué d'une grande pièce principale, d'une grande cuisine, d'une écurie et de cinq chambres. Le bâtit est un mélange de bois et de pierre et possède des volets, le toit est en tuiles. Une palissade de pierre de deux mètres avec des fossés emplis de pieux sont dissuasifs.   
+Dans le bourg, vingt fermes se sont installées avec basse cours, porcheries, bergeries et atelier de poterie.   
+La population se compose de la famille du seigneur, de cinq servante, de deux cuisinier, de quinze gardes dans une caserne confortable et de vingt familles de paysans.   
+Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "héroïque"**  
+*Revenus : 25 x 6d6 po*   
 
-### Bordel
-**Coût** : 10 000 PO   
-**L'influence** : +5  
-**L'insécurité** : +8     
-**Le bien-être** : +2   
-**Production de nourriture** : -   
-**Capacité d'accueil de la ville** : 5   
-**Revenus** : 2X6d6 PP    
-**Nombre maximum** : 1   
-Un bordel attirent souvent beaucoup de monde et ce, depuis de longues distances. Un bordel offre beaucoup d'influence et de très bon revenus tout en améliorant le bine-être des habitants. Le revers de la médaille est l'insécurité que peut engendrer ce genre d'activité.   
-
-### Caravane commerciale
-**Coût** : 1000 PO  
-**L'influence** : +1  
-**L'insécurité** : -   
-**Le bien-être** : -1    
-**Production de nourriture** : spécial   
-**Capacité d'accueil de la ville** : 5     
-**Revenus** : spécial   
-**Nombre maximum** : 4   
-Les caravanes permettent de commercer avec l'extérieur. Elles peuvent subir des attaques et des embuscades. Une caravane peut vendre les excédents de nourriture. Une caravane peut emporter jusqu'à 5 nourritures (générer ainsi 10 PO/Nourriture). A l'inverse, elle peut aussi acheter de la nourriture (10 PO/Nourriture) pour remplir les greniers.   
-
-### Caserne
-**Coût** : 5000 PO   
-**L'influence** : +5   
-**L'insécurité** : -10      
-**Le bien-être** : -     
-**Production de nourriture** : -   
-**Capacité d'accueil de la ville** : 10    
-**Revenus** : -   
-**Nombre maximum** : 1    
-Avoir une caserne dans un quartier fait fortement diminuer l'insécurité. Personne n'aime voir des hommes en armes pour assurer la sécurité mais comme tout mal nécessaire, la caserne permet de pacifier la ville et de maintenir l'influence de son dirigeant.   
-
-### Écurie
-**Coût** : 2000 PO    
-**L'influence** : +2  
-**L'insécurité** : -1    
-**Le bien-être** : -1    
-**Production de nourriture** : -   
-**Capacité d'accueil de la ville** : 2  
-**Revenus** : -   
-**Nombre maximum** : 1/10 maisons   
-Les écuries sont toujours prestigieuses et augmentent l'influence mais la présence de montures engendre quelques nuisances olfactives et sonores ainsi qu'un peu d'insécurité.   
-
-### Enceinte
-**Coût** : 500 PO  
-**L'influence** : +1  
-**L'insécurité** : -2    
-**Le bien-être** : -    
-**Production de nourriture** : -    
-**Capacité d'accueil de la ville** : -      
-**Revenus** : -   
-**Nombre maximum** : 1 par section (case) limitrophe des maisons extérieures    
-L'enceinte quelle soit de bois ou de pierre n'est jamais infranchissable. Cependant, elle fait baisser l'insécurité car elle permet d'empêcher dans une certaine mesure des intrusions et aussi de faciliter les rondes des gardes.    
-
-### Entrepôt
-**Coût** : 1000 PO  
-**L'influence** : +1  
-**L'insécurité** : +4     
-**Le bien-être** : +2    
-**Production de nourriture** : -       
-**Capacité d'accueil de la ville** : 2  
-**Revenus** : -    
-**Nombre maximum** : 1/10 maisons    
-Permet de stocker de la nourriture (pour le commerce ou les jours de disette). Chaque entrepôt peut stocker 20 nourritures. Des stocks de nourritures engendrent mécaniquement une certaine insécurité car attire la convoitise.      
-
-### Étable
-**Coût** : 1000 PO   
-**L'influence** : +2
-**L'insécurité** : -     
-**Le bien-être** : -2   
-**Production de nourriture** : 2d6    
-**Capacité d'accueil de la ville** : 2   
-**Revenus** :2X6d6 PO      
-**Nombre maximum** :  1/10 maisons   
-Comme les bergeries, les étables génèrent bénéfices et nuisances liées à l'élevage. Cette activité génère beaucoup de nourriture et de bons revenus.    
-
-### Forge
-**Coût** : 2000 PO  
-**L'influence** : +3   
-**L'insécurité** : +3    
-**Le bien-être** : -1     
-**Production de nourriture** : -    
-**Capacité d'accueil de la ville** : 2     
-**Revenus** : 4x6d6 PO   
-**Nombre maximum** :  1/10 maisons   
-La forge est une activité centrale de toute communauté humaine. Elle permet de fabriquer les armes et les outils. La forge génère ainsi de bons revenus mais au dépend d'une augmentation de l'insécurité liée à la présence de lingots et la vente d'armes.  
-
-### Four
-**Coût** : 500 PO  
-**L'influence** : +1  
-**L'insécurité** : -     
-**Le bien-être** : -    
-**Production de nourriture** : 1d6    
-**Revenus** : 10X6d6 PA   
-**Capacité d'accueil de la ville** : 2     
-**Nombre maximum** :  1/5 maisons    
-Les fours sont indispensables pour la cuisson du pain et permettent de mettre en commun les moyens. Les fours génèrent de la nourriture et des revenus pour un faible investissement.   
-
-### Maison
-**Coût** : 500 PO  
-**L'influence** : +1   
-**L'insécurité** : -     
-**Le bien-être** : -     
-**Production de nourriture** : -     
-**Capacité d'accueil de la ville** : 5     
-**Revenus** : 10X6d6 PA  
-**Nombre maximum** : Max=CHA+SAG du joueur  
-Elément de base de la colonie, la maison est le bâtiment qui est le moins cher, qui génère des revenus et qui a une bonne capacité d'accueil.  Le nombre de maison détermine les bâtiments constructibles dans le quartier géré par le joueur.   
-
-### Menuiserie
-**Coût** : 1500 PO   
-**L'influence** : +2   
-**L'insécurité** : +1      
-**Le bien-être** : -     
-**Production de nourriture** : -    
-**Capacité d'accueil de la ville** : 2     
-**Revenus** : 3X6d6 PO    
-**Nombre maximum** : 1/10 maisons     
-La menuiserie permet de fournir à la ville les portes, les poutres, les meubles et certaines armes. Cette activité génère des revenus corrects.   
-
-### Moulin
-**Coût** : 2500 PO  
-**L'influence** : +3  
-**L'insécurité** : +1    
-**Le bien-être** : +1   
-**Production de nourriture** : 3D6     
-**Capacité d'accueil de la ville** : 2     
-**Revenus** : 5X6d6 PO     
-**Nombre maximum** : 1/10 maisons     
-Le moulin possède un rôle capital dans la communauté humaine. Il fournit une grande quantité de nourriture. Qu'il soit actionné par un animal, de l'eau ou le vent, il permet de fabriquer les farines et les huiles nécessaires à la nourriture de base de la population.   
-
-### Puits
-**Coût** : 500 PO   
-**L'influence** : +1  
-**L'insécurité** : -     
-**Le bien-être** : +3    
-**Production de nourriture** : 1d6    
-**Capacité d'accueil de la ville** : -     
-**Revenus** : -     
-**Nombre maximum** : 1/10 maisons     
-Les puits produisent de la nourriture à moindre coût. L'eau est la base de l'alimentation mais aussi pour de nombreuses tâches domestiques et de constructions.  
-
-### Salle du conseil
-**Coût** : 1000 PO  
-**L'influence** : +5   
-**L'insécurité** : -3     
-**Le bien-être** : +3    
-**Production de nourriture** : -    
-**Capacité d'accueil de la ville** : 5    
-**Revenus** : -   
-**Nombre maximum** : 1  
-Il n'y a qu'une salle du conseil mais ce lieu de discussion où se prennent les grandes décisions, qui sert quelque fois de tribunal permet de mieux gérer la colonie et d'influer sur les différents aspects de la colonie.   
-
-### Taverne
-**Coût** : 3000 PO  
-**L'influence** : +2  
-**L'insécurité** : +4    
-**Le bien-être** : +2    
-**Production de nourriture** : 1d6     
-**Capacité d'accueil de la ville** : 2    
-**Revenus** :12X6d6 PE   
-**Nombre maximum** : 2 (la seconde pas avant 10 maisons)   
-Les tavernes sont des lieux sociaux importants. Elles génèrent souvent de bons revenus mais peuvent causer de l'insécurité. Dans certains endroits, elles sont quelques fois interdites. C'est au dirigeant de jauger les bénéfices potentiels et les inconvénients.      
-
-### Temple
-**Coût** : 7000 PO  
-**L'influence** : +7  
-**L'insécurité** : +2     
-**Le bien-être** : +10    
-**Production de nourriture** : -    
-**Capacité d'accueil de la ville** : 10  
-**Revenus** :9d6 PP       
-**Nombre maximum** : 1  
-Un temple est un édifice majestueux qui assure la renommée du quartier. Un temple génère beaucoup de richesse d'influence et de bien-être mais aussi un peu d'insécurité car il y a toujours des personnes prêtes à abuser d'un pélerin naïf.   
+**Développement Très Important**  
+*Condition: Niveau 15*  
+*Investissement :36 000 po*  
+La colonie est très important et renommé dans le royaume.   
+Le bâtiment principal est constitué d'une grande pièce principale, d'une grande cuisine, d'une salle de réception, d'une écurie et de sept chambres. Le bâtit est de pierre de taille et possède des fenêtres en verre et des volets, le toit est en tuiles. Une palissade de pierre de trois mètres avec des douves emplies de pieux sont dissuasifs. Dans le bourg, trente fermes se sont installées avec basse cours, porcheries, bergeries, étables, forges et atelier de poterie.   
+La population se compose de la famille du seigneur, de cinq servante, de deux cuisinier, de vingt gardes dans une caserne confortable et de trente familles de paysans.  
+Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"**  
+*Revenus : 40 x 6d6 po*   
 
 |Table des bâtiments & des ressources de la colonie |||||||||||
 |Type|Coûts|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
@@ -329,7 +112,7 @@ Un temple est un édifice majestueux qui assure la renommée du quartier. Un tem
 
 ## Avantage concret du développement  
 Le fait d'augmenter la colonie permet d'être considéré dans les alentours. Un investissement de 10 000 po dans la colonie permet d'avoir l'équivalent du **haut fait de richesse "héroïque"** avec les avantages de points d'honneur qu'il en découle.  
-Un investissement de 100 000 po dans la colonie permet d'avoir l'équivalent du **haut fait de richesse "héroïque"** avec les avantages de points d'honneur qu'il en découle.  
+Un investissement de 100 000 po dans la colonie permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  
 
 ### La rente d'expérience  
 

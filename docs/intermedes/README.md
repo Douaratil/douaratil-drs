@@ -2,7 +2,7 @@
 title: Les intermèdes - Gestion de la famille et des biens
 ---
 ## Phases d'intermèdes  
-Les personnages vivent des aventures héroïques qui seront peut-être chantées ou racontées à travers les régions et quelques fois, au delà de leur mort. Pourtant, aussi aventureux soient ils, ils doivent par moment retourner pour gérer leurs affaires, s'entrainer, procéder à des recherches. Ils peuvent faire cela durant les aventures mais souvent au dépend de leur participation car la recherche et les entrainements demandent beaucoup de temps.  
+Les personnages vivent des aventures héroïques qui seront peut-être chantées ou racontées à travers les régions et quelques fois, au delà de leur mort. Pourtant, aussi aventureux soient ils, ils doivent par moment retourner pour gérer leurs affaires, s’entraîner, procéder à des recherches. Ils peuvent faire cela durant les aventures mais souvent au dépend de leur participation car la recherche et les entraînements demandent beaucoup de temps.  
 L'année est divisée en quatre saisons de trois lunes chacune. Chaque saison et/ou chaque lune (selon le souhait du narrateur) est l'occasion de gérer les intermèdes, les biens et la famille. Ces périodes entre les aventures sont aussi l'occasion de jouer des mini-scénarios en solo. Cette phase de jeu devient très intéressante dés que le personnage aura une famille et des biens à gérer. Dés qu'il se mariera, il commencera par la base de ses possessions, avoir une maison et gérer une cellule familiale mais dans la plupart des cas cela ne s'arrêtera pas là car le mariage est souvent l'occasion d'alliance et de lègues.  
 
 La phase d'intermède se décompose comme suit:  
@@ -14,7 +14,7 @@ La phase d'intermède se décompose comme suit:
 6. Entrainements et recherches.  
 
 ### Phase 1 Guérison des blessures  
-Il arrivera que le personnage subisse des blessures au cours de ses aventures. Certaines seront vite récupérées mais d'autres mettront plus de temps. Durant la période de guérison, le personnage ne pourra ni faire de scénario en solo, ni d'entrainements ou de recherches. La  plupart du temps, il ne repartira pas en aventure s'il est encore gravement blessé. Ce serait au péril de sa vie.  
+Il arrivera que le personnage subisse des blessures au cours de ses aventures. Certaines seront vite récupérées mais d'autres mettront plus de temps. Durant la période de guérison, le personnage ne pourra ni faire de scénario en solo, ni d’entraînements ou de recherches. La  plupart du temps, il ne repartira pas en aventure s'il est encore gravement blessé. Ce serait au péril de sa vie.  
 
 ### Phase 2 Le scénario en solo  
 Le joueur peut souhaiter faire des actions ou suivre des buts personnels qui n'ont pas leur place dans une partie d'aventure ou qui sont le prolongement ou la suite d'une partie d'aventure. La phase d'intermède permet de résoudre et de jouer ces petites aventures sans pour autant monopoliser le temps de jeu des autres joueurs.  
@@ -24,14 +24,21 @@ Cette phase de jeu ne doit pas se substituer à la partie de jeu de rôle mais d
 La plupart des peuples ne tiennent pas de registre d'état civil et les dates d'anniversaires sont approximatives. Le joueur peut décider d'une saison qui correspond à la période de sa naissance. A chaque fois qu'une phase d'intermède passera par cette saison, le personnage vieillira d'un an.  
 
 ### Phase 4 Mise à jour économique  
-Cette phase permet de connaitre les résultats de l'intermède au niveau économique. Il prends en compte les fluctuations locales des marchés, de la disponibilité des ressources et des aléas climatiques.  
-Cette mise à jour dépend du patrimoine du personnage et de sa famille. Le patrimoine du personnage est acquis au fur et à mesure des alliances et des mariages, des conquêtes et des achats. Une fois les revenus du patrimoine défini, il faut faire un tirage sur la table des évènements économiques. Cette table sera décrite après les niveaux de patrimoine du personnage. Pour augmenter le patrimoine d'une famille, il faut investir des richesses qui génèreront, si tout se passe bien, des profits.  
+Cette phase permet de connaître les résultats de l'intermède au niveau économique. Il prends en compte les fluctuations locales des marchés, de la disponibilité des ressources et des aléas climatiques.  
+Cette mise à jour dépend du patrimoine du personnage et de sa famille, de la possession d'un domaine, d'activités commerciales ou de colonies.   
+*1 - Le patrimoine* du personnage est acquis au fur et à mesure des alliances et des mariages, des conquêtes et des achats. Une fois les revenus du patrimoine défini, il faut faire un tirage sur la table des évènements économiques. Cette table sera décrite après les niveaux de patrimoine du personnage. Pour augmenter le patrimoine d'une famille, il faut investir des richesses qui généreront, si tout se passe bien, des profits.  
+*2 - Le domaine* est le fief du personnage et de sa famille. Comme le patrimoine, il se développe par investissement et génère des profits.   
+*3 - Les colonies* sont les installations du personnage au travers des royaumes. Comme le patrimoine, elles se développent par des investissements et génèrent des profits.  
+*4 - Le commerce et les comptoirs commerciaux* sont les installations du personnage au travers des royaumes. Comme le patrimoine, ils se développent par des investissements et génèrent des profits.  
+*5 - Guilde* est gérée à cette phase pour le personnage. Il est conseillé de faire jouer en tablée les épreuves de progression dans la guilde.  
 
 ### Phase 5 Jets familiaux
-Cette phase permet de connaitre les aléas de la vie familiale avec les bonheurs et les peines: les naissances, les maladies et les décès. Les jets familiaux peuvent avoir de gros impacts sur la destinée du personnage. Les évènements peuvent aussi influer sur sa réputation et même sur les évènements économiques suivants.   
+Cette phase permet de connaître les aléas de la vie familiale avec les bonheurs et les peines: les naissances, les maladies et les décès. Les jets familiaux peuvent avoir de gros impacts sur la destinée du personnage. Les évènements peuvent aussi influer sur sa réputation et même sur les évènements économiques suivants.   
+
+
 
 ## Patrimoine  
-Le personnage peut bénéficier d'un patrimoine qui lui assure des revenus et un certain niveau de vie. Ce patrimoine peut décliner ou augmenter. L'histoire du scénario prend cependant toujours le dessus sur ces considérations et des négociations peuvent avoir lieu entre le narrateur et le joueur. Les personnages peuvent augmenter leur patrimoine en investissant dans diverses affaires avec les richesses qu'ils obtiendront durant leurs aventures. Cette richesse placée permettra d'assurer des revenus réguliers. Les personnages commencent sans patrimoine et leur famille est miséreuse (et si elle ne l'est pas, ce sont les affaires du personnages et de ses fidèles qui est concernée). Il faut atteindre le patrimoine très faible pour cmmencer à espérer générer des revenus. Pour augmenter le patrimoine, il faut investir la somme prévue sous réserve de remplir les conditions de niveau. Investir beaucoup permet de gagner beaucoup mais aussi de risquer de perdre beaucoup.  
+Le personnage peut bénéficier d'un patrimoine qui lui assure des revenus et un certain niveau de vie. Ce patrimoine peut décliner ou augmenter. L'histoire du scénario prend cependant toujours le dessus sur ces considérations et des négociations peuvent avoir lieu entre le narrateur et le joueur. Les personnages peuvent augmenter leur patrimoine en investissant dans diverses affaires avec les richesses qu'ils obtiendront durant leurs aventures. Cette richesse placée permettra d'assurer des revenus réguliers. Les personnages commencent sans patrimoine et leur famille est miséreuse (et si elle ne l'est pas, ce sont les affaires du personnages et de ses fidèles qui est concernée). Il faut atteindre le patrimoine très faible pour commencer à espérer générer des revenus. Pour augmenter le patrimoine, il faut investir la somme prévue sous réserve de remplir les conditions de niveau. Investir beaucoup permet de gagner beaucoup mais aussi de risquer de perdre beaucoup.  
 
 **Patrimoine Très faible**  
 *Condition: Niveau 2*  

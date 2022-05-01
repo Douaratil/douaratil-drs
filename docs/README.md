@@ -20,7 +20,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc)
 - Ajout du sort [Furoncles](/grimoire/furoncles)
 - Ajout du sort [Langue bleue](/grimoire/langue-bleue)
-- Simplification des règles de domaine et de colonie.   
+- Simplification des règles de domaine et de colonie. L'idée est de se rapprocher d'une gestion simplifiée comme les intermèdes de patrimoine. La gestion trop simulationiste et stratégique interfère négativement sur la narration et le roleplaying.    
+- Précisions des règles dans le chapitre intermède avec définition des phases de jeu.  
 
 Bon jeu.  
 §§§ .text-right
