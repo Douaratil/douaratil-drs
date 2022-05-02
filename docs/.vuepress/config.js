@@ -734,6 +734,7 @@ module.exports = {
             title: "Les chroniques",
             icon: 'mdi-script',
             children: [
+
               {
                 title: "Miz du 720",
                 icon: 'mdi-script-text-outline',
@@ -801,13 +802,33 @@ module.exports = {
               },
               {
                 title: "Miz Kerzu 721",
-                icon: 'mdi-script-text-outline',
+                icon: 'mdi-script-text',
                 path: '/chroniques/miz-kerzu-721'
               },
               {
                 title: "Miz Genver 722",
-                icon: 'mdi-script-text',
+                icon: 'mdi-script-text-outline',
                 path: '/chroniques/miz-genver-722'
+              },
+              {
+                title: "Miz Favros 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-favros-722'
+              },
+              {
+                title: "Miz Morz 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-morz-722'
+              },
+              {
+                title: "Miz Ebrel 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-ebrel-722'
+              },
+              {
+                title: "Miz Mae 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-mae-722'
               }
             ]
           },
