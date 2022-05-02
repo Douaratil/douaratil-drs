@@ -18,6 +18,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Correction de liens cassés.   
 - Mise à jour de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon)    
 - Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano)    
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin)
+- Révision des chroniques [Miz Du 720](/chroniques/miz-du-720)
+- Révision des chroniques [Miz Kerzu 720](/chroniques/miz-kerzu-720)
+- Révision des chroniques [Miz Genver 721](/chroniques/miz-genver-721)
 
 
 Bon jeu.  
