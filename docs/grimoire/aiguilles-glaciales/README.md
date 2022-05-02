@@ -15,7 +15,7 @@ components:
 ritual: false
 classes:
     - Magie
-
+source: "Elric"
 ---
 **Coût** : 14 points de Magie  
 **Enchantement** : Pendant une nuit de pleine lune, le sorcier doit enchanter un petit cristal sur une montagne au sommet enneigé et tailler ce cristal en de fins morceaux. Le lanceur de sort en récupère 9d6 petits morceaux extrêmement coupants. Au bout de trois lunes, les cristaux perdent leur pouvoir et fondent comme si ce n’était que de l’eau.  

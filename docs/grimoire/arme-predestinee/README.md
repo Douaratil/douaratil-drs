@@ -16,6 +16,7 @@ ritual: false
 classes:
     - Foi
     - Magie
+source: "Elric"
 ---
 **Coût** : 12 points de Magie ou de Foi  
 **Enchantement** : Le sorcier invoque un esprit, un démon ou encore une fée en murmurant le nom du futur porteur de l’arme. Le sorcier explique le contrat à l’entité, en désignant le nom de l’ennemi et en indiquant son possesseur en versant son sang sur le fil de la lame.  
