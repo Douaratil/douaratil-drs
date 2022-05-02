@@ -23,46 +23,38 @@ ac:
   armorType: "custom"
   value: "17 (Armure de cuir)"
 skills:
-  - name: "intimidation"
-  - name: "dressage"
-    isExpert: true
-  - name: "perception"
-    isExpert: true
-  - name: "survie"
-    isExpert: true
-  skills:
-    - name: "custom"
-      value: "acrobatie +5"
-    - name: "custom"
-      value: "arcanes +0"
-    - name: "custom"
-      value: "athlétisme +0"
-    - name: "custom"
-      value: "dressage(••) +8"
-    - name: "custom"
-      value: "escamotage +5"
-    - name: "custom"
-      value: "histoire +0"
-    - name: "custom"
-      value: "intimidation(•) +4"
-    - name: "custom"
-      value: "investigation +0"
-    - name: "custom"
-      value: "médecine +0"
-    - name: "custom"
-      value: "nature +0"
-    - name: "custom"
-      value: "perception(••) +8"
-    - name: "custom"
-      value: "perspicacite +0"
-    - name: "custom"
-      value: "representation +0"
-    - name: "custom"
-      value: "supercherie +0"
-    - name: "custom"
-      value: "religion +0"
-    - name: "custom"
-      value: "survie(••) +8"
+  - name: "custom"
+    value: "acrobatie +5"
+  - name: "custom"
+    value: "arcanes +0"
+  - name: "custom"
+    value: "athlétisme +0"
+  - name: "custom"
+    value: "dressage(••) +8"
+  - name: "custom"
+    value: "escamotage +5"
+  - name: "custom"
+    value: "histoire +0"
+  - name: "custom"
+    value: "intimidation(•) +4"
+  - name: "custom"
+    value: "investigation +0"
+  - name: "custom"
+    value: "médecine +0"
+  - name: "custom"
+    value: "nature +0"
+  - name: "custom"
+    value: "perception(••) +8"
+  - name: "custom"
+    value: "perspicacite +0"
+  - name: "custom"
+    value: "representation +0"
+  - name: "custom"
+    value: "supercherie +0"
+  - name: "custom"
+    value: "religion +0"
+  - name: "custom"
+    value: "survie(••) +8"
 movement:
   walk: 9
 senses:
@@ -126,7 +118,8 @@ _Touché_ : 2d6+2 dégâts perforants .
 
 §§§ .hero
 ### Présentation:  
-Talos appartient au clan meldète Vitaro qui a prêté allégeance à Owain Macaro. Depuis les guerres contre du Cercle de la Nuit, il a développé une haine particulière envers les Khernaës.
+Talos appartient au clan meldète Vitaro qui a prêté allégeance à Owain Macaro. Depuis les guerres contre du Cercle de la Nuit, il a développé une haine particulière envers les Khernaës.  
+Envoyé par Owain Macaro qui est entré en résistance contre le cercle de la nuit et ses alliés, il doit rejoindre les exilés pour leur demander de revenir en Douaratil et défaire le culte maudit.  
 §§§
 
 §§§ .hero
