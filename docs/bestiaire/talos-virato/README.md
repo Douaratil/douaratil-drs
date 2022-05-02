@@ -66,7 +66,7 @@ category: "PJ"
 &nbsp;
 [![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](https://www.douaratil.fr/illustrations/pj/talosvirato.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 27     
 ## Capacités
 _**Historique:**_  Bandit de grand chemin.  
 **Compétences**. Intimidation, Survie.    
@@ -105,6 +105,16 @@ Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection sup
 
 _**Style de combat**_. *(Gwylwir)* Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
 
+_**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.
+
+_**Attaque supplémentaire**_. *(Gwylwir)* À partir du niveau 6, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
+Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Gwylwir vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +2 aux dégâts au niveau 6 et +3 au niveau 15.  
+
+_**Style de combat à deux armes**_. *(Gwylwir)* Au niveau 8 , vous choisissez le style de combat Combat à deux armes. Quand vous combattez avec deux armes, soit des dagues ou des épées courtes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
+
+_**Défense**_. *(Gwylwir)* Au niveau 9 , quand vous portez une armure, vous gagnez un bonus de +1 à votre Valeur de Défense (VD).  
+
 ## Actions  
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
@@ -113,7 +123,7 @@ _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
-_**Arc long(••)**_. _Attaque d'arme à distance_ : +13 pour toucher, portée 45/180.  
+_**Arc long(••)**_. _Attaque d'arme à distance_ : +17 pour toucher, portée 45/180.  
 _Touché_ : 2d6+2 dégâts perforants .
 
 §§§ .hero
