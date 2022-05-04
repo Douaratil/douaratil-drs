@@ -77,8 +77,7 @@ Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "h
 **Développement Très Important**  
 *Condition: Niveau 15*  
 *Investissement :36 000 po*  
-La colonie est très important et renommé dans le royaume.   
-La colonie est importante et renommée dans la région.   
+La colonie est très importante et renommée dans le royaume.    
 La colonie est constituée de quarante bâtiments avec une capacité d'accueil de 400 personnes. La colonie comprends une dizaine de points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes, mais aussi temple et bordel. La colonie a une grande muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"**  
 *Revenus : 3 X 6d6 PP et 50 x 6d6 po*   

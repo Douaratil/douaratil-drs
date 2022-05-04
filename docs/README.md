@@ -14,6 +14,16 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 100
+- Lancement de la conception du deuxième livre : le livre des rituels qui contiendra toutes les règles pour lancer des sortilèges, la listes des rituels ainsi que les prix de la plus part des composants courants.   
+- Révision progressive des règles de [commerce](/commerce) qui seront enrichies et validées par Georges qui à l'initiative de projet.  
+
+Bon jeu.  
+§§§ .text-right
+_**Olivier**_,  
+_le 4 mai 2022_
+§§§
+
 ## Mise à jour 99
 - Correction de liens cassés.   
 - Création du personnage [Talos Virato](/bestiaire/talos-virato)  
