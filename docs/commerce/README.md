@@ -53,6 +53,7 @@ Le domaine est géré par le personnage. Comme les tests familiaux et économiqu
 *Condition: Niveau 3*  
 *Investissement : 3000 po*  
 *Risque maximum : Faible*  
+*Investissement commercial maximum: 200 po*
 Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
 *Revenus : 5 X 6d6 po*  
