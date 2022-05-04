@@ -4,14 +4,39 @@ source: "Georges"
 ---
 # Le commerce :  
 **Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon la moyenne ses bonus de caractéristiques arrondi à l'entier inférieur. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.**  
-Le joueur va pouvoir s’il le souhaite, en plus de son patrimoine investir dans des affaires commerciales. L’empire commercial du joueur va être définit par 4 éléments : les gains mensuels, la performance, la réputation et l’instabilité.  
+Le joueur va pouvoir s’il le souhaite, en plus de son patrimoine investir dans des affaires commerciales. L’empire commercial du joueur va être définit par ses comptoirs qui vont générer des revenus. Ses revenus sont soumis à des aléas commerciaux et des risques pris par le joueur. Les risques dépendent des marchandises échangées.
 
 ## Les phases de jeu
-La gestion de la colonie se déroule au moment des intermèdes.  
+La gestion de la phase commerciale se déroule au moment des intermèdes.  
 - Phase 1 : Phase préparatoire
 - Phase 2 : Gestions des évènements de la transaction commerciale
 - Phase 1 : Revenus.
 - Phase 2 : Investissement (permet de développer un comptoir et ainsi de générer de nouveau des revenus)
+
+## Phase préparatoire
+Il s'agit de la phase la plus importante car elle détermine la nature de la transaction commerciale. Le joueur décide de la somme investie et dans quelles types de marchandises.
+
+### Phase préparatoire 1 : choix de la somme à investir
+Premièrement, la somme maximum dépend du type de comptoir développé et acquis par le joueur. Pour investir des sommes plus conséquentes et générer plus de bénéfice, les comptoirs devront être amélioré.  
+### Phase préparatoire 2 : Choix du type de marchandise
+Il faut considérer que le choix des marchandises n'est pas un problème en soi mais nécessite une transaction avec les grossistes. Cette transaction est réussi avec un test de persuasion. La difficulté du test varie selon le type de marchandise mais aussi selon le contexte sécuritaire de la région du comptoir.  
+
+| Catégorie de marchandise| Contexte normal |Contexte d'insécurité (conflit armé, épidémie etc...)|
+|:-:|:-:|:-:|
+|Risques faibles |DD 16|DD 22|
+|Risques normau |DD 22|DD 28|
+|Haute |DD 28|DD 35|
+
+#### Bénéfice et risques liés.   
+**Risques faibles** : Nourriture de base (céréales, fruits, légumes, troupeaux ovins), objets d'artisanat, outils, matières premières de construction (pierre bois)  
+**Risques normaux** : Produits raffinés (plats confectionnés, gibiers rares, bovins, vin), armes, armures, objets d'artisanats raffinés, matières premières de construction (marbre, bois rare), épices, plantes communes.
+**Risques élevés** : Drogues, spiritueux, esclaves, pierre précieuses, métaux précieux (or, argent, platine ...)
+
+| Risques liés à la marchandise| Revenus attendus |Modificateur d'évènement|
+|:-:|:-:|:-:|
+ |Faibles |X 1,1|-5|
+ |Normale |X 1,3|-10|
+|Haute |X1,(2d6 explosif pour chaque 10ème)|-15|
 
 ## Gains mensuels :  
 Ce sont les gains que peut espérer toucher le joueur chaque lune. Ils varient en fonction des investissements qu’a effectué le joueur jusqu’ici.  
@@ -20,16 +45,6 @@ Modifie les test de persuasion
 ## L’instabilité :  
 Les commerces les plus lucratifs sont rarement les plus légaux. Ainsi, suivant le type de marchandises, le risque augmente d'attirer les autorités (contrôle, impôt) ou au contraire des concurrents mal intentionnés, et plus généralement des bandits et des pillards qui préfèrent obtenir par la force le labeur des autres.   
 
-### Type de marchandises et risques liés.   
-**Risques faibles** : Nourriture de base (céréales, fruits, légumes, troupeaux ovins), objets d'artisanat, outils, matières premières de construction (pierre bois)  
-**Risques normaux** : Produits raffinés (plats confectionnés, gibiers rares, bovins, vin  )
-**Risques élevés** :
-
-| Risques liés à la marchandise| Revenus attendus |Modificateur d'évènement|
-|:-:|:-:|:-:|
- |Faibles |X 1|-5|
- |Normale |X 1,2|-10|
-|Haute |X1,(2d6 explosif pour chaque 10ème)|-15|
 
 # La gestion du commerce
 Le domaine est géré par le personnage. Comme les tests familiaux et économiques, les décisions de dépenses et les revenus se génèrent tous les mois, pendant les intermèdes. Un investissement est mis en place au bout d’une lune, il faut donc attendre un mois pour en bénéficier.  
