@@ -5,6 +5,14 @@ source: "Georges"
 # Le commerce :  
 **Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon la moyenne ses bonus de caractéristiques arrondi à l'entier inférieur. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.**  
 Le joueur va pouvoir s’il le souhaite, en plus de son patrimoine investir dans des affaires commerciales. L’empire commercial du joueur va être définit par 4 éléments : les gains mensuels, la performance, la réputation et l’instabilité.  
+
+## Les phases de jeu
+La gestion de la colonie se déroule au moment des intermèdes.  
+- Phase 1 : Phase préparatoire
+- Phase 2 : Gestions des évènements de la transaction commerciale
+- Phase 1 : Revenus.
+- Phase 2 : Investissement (permet de développer un comptoir et ainsi de générer de nouveau des revenus)
+
 ## Gains mensuels :  
 Ce sont les gains que peut espérer toucher le joueur chaque lune. Ils varient en fonction des investissements qu’a effectué le joueur jusqu’ici.  
 ## La réputation :  

@@ -12,7 +12,7 @@ La gestion de la colonie se déroule au moment des intermèdes.
 - Phase 1 : Gestion des colons.
 - Phase 2 : Gestions des évènements des colonies
 - Phase 1 : Revenus.
-- Phase 2 : Investissement (permet de générer de nouveau des revenus)
+- Phase 2 : Investissement (permet de développer la colonie et ainsi de générer de nouveau des revenus)
 
 
 ## Le développement de la colonie  
