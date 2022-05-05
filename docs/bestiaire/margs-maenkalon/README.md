@@ -178,16 +178,16 @@ Margs possède l'équipement suivant :
 - serpe de maître sacrificielle
 - torches (10)
 - 4619 PC
-- 9183 PA
+- 2583 PA
 - 36 PE
-- 1756 PO
-- 0 PP.  
+- 5336 PO
+- 1 PP.  
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +5**  
-**DD de Sauvegarde: 7**  
+**Bonus d'incantation: +13**  
+**DD de Sauvegarde: 11**  
 **Novice** : [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [mot de guérison](/grimoire/mot-de-guerison).  
 §§§
 
@@ -216,7 +216,7 @@ Margs possède l'équipement suivant :
 **Points de Magie** :8   
 **Points de Foi** :17    
 **Points d'honneur** :41    
-**Guilde des guerrier** Novice 50po/lune.  
+**Guilde des guerrier** Novice 50po/lune, Réseau de guilde, train de vie modeste.    
 **Voie d'éveil**:Voie médiane  
 §§§
 

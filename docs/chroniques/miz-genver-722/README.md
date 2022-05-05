@@ -45,7 +45,7 @@ Le conseil de la colonie Madinalajnibh décide de se rendre au sud pour vérifie
 C'est ainsi qu'au petit matin, tous les compagnons se mettent en route en direction de la grande cité du sud Idolobha Elikhulu, à l'exception de Taron, Pywed et Knuth. Le voyage dans le désert est monotone et chacun reste silencieux pour économiser ses forces. La longue caravane s'étire sur les crêtes des dunes et le silence n'est brisé que par le bruit du sable qui dévale les pentes et par le bruit des reniflements des dromadaires.   
 
 **7 Miz Genver**   
-Les jours se sont succédés sans incident et désormais les dunes commencent à disparaitre à l'horizon du nord. Des herbes sèches apparaissent et sortent du sable. Au début, discrètement mais finalement, les herbes sèches prennent le dessus puis des petits buissons commencent aussi à faire leur apparition. En fin de journée, les compagnons déambulent dans une véritable savane. Le relief reste chaotique dans de nombreux endroits et ne permettent pas de voir très loin. souvent les herbes arrivent à mi-corps.   
+Les jours se sont succédés sans incident et désormais les dunes commencent à disparaître à l'horizon du nord. Des herbes sèches apparaissent et sortent du sable. Au début, discrètement mais finalement, les herbes sèches prennent le dessus puis des petits buissons commencent aussi à faire leur apparition. En fin de journée, les compagnons déambulent dans une véritable savane. Le relief reste chaotique dans de nombreux endroits et ne permettent pas de voir très loin. souvent les herbes arrivent à mi-corps.   
 Soudain un brouhaha se fait entendre et surgissant de la crête d'une petite colline escarpée, des créatures massives et trapues, ressemblant à des hippopotames ou des rhinocéros, mais avec la particularité d'avoir une crête osseuse derrière la nuque et de grandes défenses qui sortent de la mâchoire. Les [Tabordons](/bestiaire/tabordon) prennent de cour la caravane et la déborde par les flancs, bousculant les dromadaires et éparpillant les individus qui cherchent à éviter le choc frontal avec ces créatures. Certains, paniquant, attaquent les [Tabordons](/bestiaire/tabordon) et en tuent plusieurs.  
 C'est en voyant des bergers sooghaïs qui crient qu'ils arrêtent la tuerie d'un troupeau qui avait pris peur.   
 Il s'en suit une phase houleuse de demande de dédommagement, qui se conclue sans satisfaire aucun parti.   
@@ -74,3 +74,12 @@ C'est à la fin de journée qu'ils arrivent en vue de la ville d'Idolobha Elikhu
 Dans un soleil couchant sanguinolent qui se couche à l'ouest, au loin des vols d'échassiers roses et blancs s'ébattent dans les airs. La cité elle même est entourée d'une palissade qui est un mélange de troncs d'arbres et de mur de terre rouge colmaté avec des bouses de vaches et de [Tabordons](/bestiaire/tabordon).   
 Il y a une grande activité dans la ville qui semble toujours être en effervescence comme si un marché y avait lieu tous les jours.
 Idolobha Elikhulu est une grande ville commerçante.  
+
+**8 Miz Genver**   
+Les compagnons pénètrent dans la ville le matin. Ils se rendent compte qu'ils sont un peu voyant au milieu de ces peuples à la peau noire, même si d'autres commerçants venus des royaumes shahims vont et viennent. Cette singularité d'épiderme ne semble pas interroger les habitants Idolobha Elikhulu. Tandis que Thorleik et Tiberius, probablement harassés par la chaleur et l'humidité, décident d'organiser un spectacle de rue à base d'effet pyrotechnique, Sawrina en profite pour subtiliser quelques bijoux à des spectateurs inattentifs.  
+Les compagnons se rendent compte qu'ils sont surveillés par les gardes qui ont l'air peu commodes.   
+Toujours à la recherche du sanctuaire, se rendent dans une hutte où se trouve une sorcière. Après quelques échanges, elle confirme que le sanctuaire se trouve dans le lac sous l'eau.   
+Pour ne pas être dénoncé, Tibérius lui tranche la gorge.   
+C'est à la nuit tombée que les aventuriers partent à la nage vers le lieux qu'ils avaient repéré sur le lac et qui était entouré d'oiseaux blancs.   
+Pendant leur traversée, ils sont assaillis par de redoutables crocodiles. Le tumulte des combats attire l'attention des sentinelles de la ville et des pirogues sont mises à l'eau.   
+Les aventuriers pénèter dans ce qui semble être un conduit vertical à fleur d'eau.     

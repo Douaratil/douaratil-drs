@@ -38,16 +38,18 @@ Les commerces les plus lucratifs sont rarement les plus légaux. Ainsi, suivant 
 
 | Risques liés à la marchandise| Revenus attendus |Modificateur d'évènement|
 |:-:|:-:|:-:|
-|Risques faibles |X 1,1|-5|
-|Risques normaux |X 1,3|-10|
-|Risques élevés |X1,(2d6 explosif pour chaque 10ème)|-15|
+|Risques faibles |X 1,1|0|
+|Risques normaux |X 1,3|-2|
+|Risques élevés |X1,(2d6 explosif pour chaque 10ème)|-4|
 
 #### Bonus de Réputation
-Un comptoir rayonne dans le milieu commercial. Ainsi, une réputation s'établie progressivement. Au fur et à mesure que le comptoir évolue, le personnage joueur obtient un bonus de persuasion pour négocier au nom de son comptoir. Le bonus évolue avec le niveau d'avancement du comptoir.   
+Un comptoir rayonne dans le milieu commercial. Ainsi, une réputation s’établit progressivement. Au fur et à mesure que le comptoir évolue, le personnage joueur obtient un bonus de persuasion pour négocier au nom de son comptoir. Le bonus évolue avec le niveau d'avancement du comptoir.   
 
+### Gestion des évènements
+Une fois que les actions commerciales ont été décidées et sont lancées, les convois de marchandises sont soumis à des aléas tirés sur la table des évènements, modifié par le **modificateur de risques liés** et le **modificateur de charisme** du personnage.   
 
 # La gestion du commerce
-Le domaine est géré par le personnage. Comme les tests familiaux et économiques, les décisions de dépenses et les revenus se génèrent tous les mois, pendant les intermèdes. Un investissement est mis en place au bout d’une lune, il faut donc attendre un mois pour en bénéficier.  
+Le domaine est géré par le personnage. Comme les tests familiaux et colonies, les décisions de dépenses et les revenus se génèrent tous les mois, pendant les intermèdes. Un investissement est mis en place au bout d’une lune, il faut donc attendre un mois pour en bénéficier.  
 
 **Comptoir commercial Très faible**  
 *Condition: Niveau 3*  
@@ -63,63 +65,64 @@ Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur l
 *Risque maximum : Faible*  
 *Investissement commercial maximum: 400 po*
 Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
-Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+Le comptoir compte un bâtiment principal et un bâtiment secondaire qui sert d’entrepôt, une écurie et deux pontons sur la rivière. quatre personnes tiennent les lieux, deux autres s'occupent des deux chevaux et de deux charrettes et quatre autres sont sur deux bateaux à voile.
 
 **Comptoir commercial normal**  
 *Condition: Niveau 8*  
 *Coût d'achat: 12 000 po*  
 *Risque maximum : Normal*  
 *Investissement commercial maximum: 700 po*
-Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
-Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+Le comptoir est bien installé et a une renommée dans la province alentour. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal et deux bâtiments secondaires qui servent d’entrepôts, une écurie et trois pontons sur la rivière. huit personnes tiennent les lieux, quatre autres s'occupent des deux chevaux et des deux bœufs et de leurs charrettes et six autres sont sur trois bateaux à voile.
 
 **Comptoir commercial important**  
 *Condition: Niveau 12*  
 *Coût d'achat : 24 000 po*  
 *Risque maximum : Élevé*  
-*Investissement commercial maximum: 700 po*
-Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
-Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+*Investissement commercial maximum: 1000 po*
+Le comptoir est maintenant important et a une renommée dans la région. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal et trois bâtiments secondaires qui servent d’entrepôts, deux écuries et quatre pontons sur la rivière. douze personnes tiennent les lieux, six autres s'occupent des trois chevaux et des trois bœufs et de leurs charrettes et huit autres sont sur quatre bateaux à voile.
 
 **Comptoir commercial très important**  
 *Condition: Niveau 14*  
 *Coût d'achat : 48 000 po*  
 *Risque maximum : Élevé*  
-*Investissement commercial maximum: 700 po*
-Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
-Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+*Investissement commercial maximum: 1500 po*
+Le comptoir est maintenant très important et a une renommée dans les royaumes. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal et quatre bâtiments secondaires qui servent d’entrepôts, deux écuries et cinq pontons sur la rivière. vingt personnes tiennent les lieux, huit autres s'occupent des quatre chevaux et des quatre bœufs et de leurs charrettes et dix autres sont sur cinq bateaux à voile.
 
-| Niveau du comptoir commercial| Coût d'achat |Risque maximum autorisé|Investissement maximum autorisé|Réputation (bonus de persuasion)|
-|:-:|:-:|:-:|:-:|:-:|
-| Très faible|3000 PO|Faible|200|0|
-| Faible|6000 PO|Faible|400|+1|
-| Normal|12 000 PO|Normal|700|+2|
-|Important |24 000 PO|Elevé||+3|
-|Très important |48 000 PO|Elevé||+4|
+# Table des évènements
+Lancer 4d6 explosifs modifié par le **modificateur de risques liés** et le **modificateur de charisme** du personnage.  
 
-
-| 4d6* | Multiplicateur |
+| 4d6*| Conséquences sur la transaction commerciale |
 |:-:|:-:|
-| 4-5 | -3 |
-| 6 | -2 |
-| 7-21 | au-dessus du niveau d'instabilité = benefices x1, en dessous ou égal = dettes x(-1) |
-| 22-24 | 2 |
-**Jet non explosif**
+|4| Catastrophe, la cargaison est perdue (attaque de bandits, accident)|
+|5|Très mauvaises affaires, pas d'acheteur, les marchandises ont été bradées, 3d6*% de pertes de la valeur de la marchandise|
+|6|Amendes pour non respects des lois locales du commerce, perte de 500 po|
+|7|Mauvaises affaires, très peu d'acheteurs, les marchandises ont été bradées, 2d6*% de pertes de la valeur de la marchandise|
+|8|Votre marchandise ne vous a apporté aucun bénéfice et tout a été vendu, bradé, il ne reste rien. Avec les quelques sous récoltés, et votre sens des affaires, vous ne reviendrez pas les mains vides, gain 1d6* X 30 PO|
+|9|Rançonnés durant le voyage, 1d6* X 50 PO de pertes |
+|10|Amendes pour non respects des lois locales du commerce, perte de 300 po|
+|11|Mauvaises affaires, peu d'acheteurs, les marchandises ont été bradées, 1d6*% de pertes de la valeur de la marchandise|
+|12|Péages et avaries, frais imprévus de 250 PO|
+|13|C'est les affaires, les marchandisent se vendent mais au prix de nombreuses négociations|
+|14|Amendes pour non respects des lois locales du commerce, perte de 100 po|
+|15|Bonnes affaires, quelques d'acheteurs, les marchandises se vendent, 10% de gain sur le prix attendu|
+|16|Ventes comme attendues mais avec un gain de 1d6* X 10PO|
+|17|Bonne découverte en chemin, des produits rares, gain de 100 PO|
+|18|Contrôle des douanes, tout est en règle mais graissage de patte nécessaire, perte 150 PO|
+|19|Ventes comme attendues mais avec un gain de 1d6* X 30PO|
+|20|Très bonnes affaires, des acheteurs, les marchandises se vendent, 20% de gain sur le prix attendu|
+|21|Contrôle des douanes, tout est en règle mais graissage de patte nécessaire, perte 100 PO|
+|22|Très bonne découverte en chemin, des produits rares, gain de 300 PO|
+|23|Ventes comme attendues mais avec un gain de 1d6* X 50PO|
+|24|Contrôle des douanes, tout est en règle mais graissage de patte nécessaire, perte 50 PO|
+|25|Excellentes affaires, beaucoup acheteurs, les marchandises se vendent, 30% de gainsur le prix attendu|
+|26|Ventes comme attendues mais avec un gain de 1d6* X 70PO|
+|27|Excellente découverte en chemin, des produits très rares, gain de 500 PO|
+|28|Contrôle des douanes, tout est en règle mais graissage de patte nécessaire, perte 10 PO|
+|29|Ventes comme attendues mais avec un gain de 1d6* X 100 PO|
+|30 et +|Belote et rebelote, les marchandises ont été vendues au prix souhaité, l'argent a permis de racheter des produits sur place et de les revendre, et ainsi de multiplier les transactions, gain de 1d6* PP et de 2d6*X 200 PO|
 
 
- Si le multiplicateur est négatif :   
-Le joueur est endetté de : multiplicateur*(coûts mensuels fixes – (résultats gains)*(1+(niveau d'instabilité/100)))  
-
-Si le multiplicateur est positif :   
-Le joueur est enrichit de :   multiplicateur*(résultats gains*(1+(niveau de performance/100)) – coûts mensuels fixes)  
-
- Exemple :   
-Pierre a une affaire avec 2 bateaux fluviaux (6 matelots) et un entrepôt gardé par 2 gardes.  
-Son score de performance : Il lance son jet de Persuasion DD16 qu’il rate avec un total de -3 , il y additionne les scores des bateaux : 2  et celui de l’entrepôt : il a donc un score de performance de 0  
-**Réputation** : 2 bateaux à 2 et 2 gardes à 1 : un score de 2*2+2*1 = 6 . C’est une petite affaire, qui ne dépasse pas les 10 de réputation, il ne gagne donc pas de point d’honneur  
-**Instabilité** : Score de base de 10 + les deux bateaux à 2 – les deux gardes à 1 – le point de l’entrepôt  total : 10 + 2*2 -2*1 -1 = 11. Son affaire n’est pas très sûre car les routes commerciales ne sont pas surveillées, son score d’instabilité est donc de 11.   
-**Jet de gains** : Les deux bateaux lui rapporte chacun 250*2D6 PC + 50*2D6 PA + 15*2D6 PE +10*2D6 PO L’entrepôt lui rapporte 2D6 PO  
-Il lance donc 4 fois 2D6 qu’il multiplie par 250PC, 50 PA, 15PE et 11PO. Il obtient un total de 2750PC + 300 PA + 120PE + 220 PO = 337.5PO (pour simplifier les calculs). Il doit maintenant lancer 4D6 non explosifs pour savoir si ça a été un bon mois : malheureusement il fait un 11 ! c’est pile son score d’instabilité mais il se retrouve quand même endetté.   
-Il va donc devoir rembourser : le salaire des gardes : 2*60PO = 120 PO  
-La dette de son affaire : 337.5 PO * (1+(niveau d'instabilité/100)) = 337.5*1.11 = 374.5PO  
-Il est endetté de 494.5 PO ! Il devrait peut être sécuriser son affaire si il ne veut pas sombrer encore plus.  
+*explosifs

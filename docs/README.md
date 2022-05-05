@@ -16,8 +16,9 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 100
 - Lancement de la conception du deuxième livre : le livre des rituels qui contiendra toutes les règles pour lancer des sortilèges, la listes des rituels ainsi que les prix de la plus part des composants courants.   
-- Révision progressive des règles de [commerce](/commerce) qui seront enrichies et validées par Georges qui à l'initiative de projet.  
+- Révision progressive des règles de [commerce](/commerce), la première mouture crée par Georges est à mon avis trop simulationiste. Elle intègre des paramètres très intéressants qui ont fait avancer ma réflexion sur le sujet.   
 Bon jeu.  
+- Précision sur les taux de change et les commissions dans la page du [Système monétaire](/equipement/systeme-monetaire).
 §§§ .text-right
 _**Olivier**_,  
 _le 5 mai 2022_

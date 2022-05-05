@@ -213,7 +213,8 @@ Gwion possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**DD de Sauvegarde: 18**  
+**Bonus d'incantation: +15**
+**DD de Sauvegarde: 20**  
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Aspersion d'acide](/grimoire/aspersion-acide), [Bourrasque](/grimoire/bourrasque), [Boussole mentale](/grimoire/boussole-mentale), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
 [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
 [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
@@ -262,7 +263,7 @@ $àçmp
 **Points d'honneur** :49          
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Guilde des mages** : Disciple 280 po/lune  
+**Guilde des mages** : Disciple 280 po/lune, avantage : réseau de guilde, +1 aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde), train de vie confortable.   
 **Eveil**: Voie médiane
 §§§
 
