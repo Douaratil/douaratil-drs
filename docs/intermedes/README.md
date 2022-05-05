@@ -42,27 +42,27 @@ Le personnage peut bénéficier d'un patrimoine qui lui assure des revenus et un
 
 **Patrimoine Très faible**  
 *Condition: Niveau 2*  
-*Investissement: 1 000 pièces d'or*  
+*Coût d'achat: 1 000 pièces d'or*  
 Le personnage n'a qu'une petite cabane dans un ou plusieurs villages, où certains membres de sa famille peuvent vivre. Le personnage ne possède pas de terres de chasses et de champs à cultiver. Il n'a que peu de bêtes qui sont gardés pour la vente ou les évènements de fête ou les sacrifices religieux. La famille vit de cueillette, du ramassage du bois et de trocs principalement. Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
 
 **Patrimoine Faible**  
 *Condition: Niveau 4*  
-*Investissement: 2 000 pièces d'or*  
+*Coût d'achat: 2 000 pièces d'or*  
 Le personnage possède une ou plusieurs bâtisses qu'il partage avec des membres de sa famille. Les murs sont en pierre et les toits en en dur. Il est possible d'avoir des lopins de terre pour la culture maraîchère et d'avoir un petit cheptel d'animaux garantissant un peu de viande. Une partie du surplus peut-être vendu, donnant la possibilité d'acheter occasionnellement quelques ustensiles auprès des artisans. Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.  
 
 **Patrimoine Normal**  
 *Condition: Niveau 6*
-*Investissement: 8 000 pièces d'or*  
+*Coût d'achat: 8 000 pièces d'or*  
 Le personnage possède un patrimoine qui lui permet de vivre dignement dans la société dans lequel il vit. Sa demeure est en pierre et les toits sont de tuiles ou d'ardoise. Certains membre de la famille peuvent posséder de petits commerces ou des échoppes d'artisanat. Souvent, les bâtiments peuvent avoir un petit jardin clôturé, des dépendances pour les animaux et les outils, le foin et les réserves. Des terres peuvent être louées à des seigneurs. Ce patrimoine génère un revenu modeste mais suffisant pour faire quelques projets et faire plaisir à ses proches. Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
 
 **Patrimoine Important**   
 *Condition: Niveau 8*   
-*Investissement: 16 000 pièces d'or*   
+*Coût d'achat: 16 000 pièces d'or*   
 Le personnage possède un patrimoine important qui peut comprendre plusieurs fermes ou plusieurs échoppes. La famille est souvent connue localement et au delà. Certains membres peuvent avoir des fonctions publiques ou religieuses. Ce patrimoine génère des revenus importants qui permettent de se détacher du lot. Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.   
 
 **Patrimoine Très important**   
 *Condition :10 et +*   
-*Investissement: 32 000 pièces d'or*   
+*Coût d'achat: 32 000 pièces d'or*   
 Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"** avec les avantages de points d'honneur qu'il en découle.  Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.  
 
 

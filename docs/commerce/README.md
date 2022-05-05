@@ -27,23 +27,23 @@ Il faut considérer que le choix des marchandises n'est pas un problème en soi 
 |Risques normau |DD 22|DD 28|
 |Haute |DD 28|DD 35|
 
+Le personnage doit réussir le test demandé. Il a droit à **trois tentative maximum**. Passé ce nombre de tentative, il est considéré qu'aucun accord commercial n'a été trouvé.   
+
 #### Bénéfice et risques liés.   
+Les commerces les plus lucratifs sont rarement les plus légaux. Ainsi, suivant le type de marchandises, le risque augmente d'attirer les autorités (contrôle, impôt) ou au contraire des concurrents mal intentionnés, et plus généralement des bandits et des pillards qui préfèrent obtenir par la force le labeur des autres.   
+
 **Risques faibles** : Nourriture de base (céréales, fruits, légumes, troupeaux ovins), objets d'artisanat, outils, matières premières de construction (pierre bois)  
 **Risques normaux** : Produits raffinés (plats confectionnés, gibiers rares, bovins, vin), armes, armures, objets d'artisanats raffinés, matières premières de construction (marbre, bois rare), épices, plantes communes.
 **Risques élevés** : Drogues, spiritueux, esclaves, pierre précieuses, métaux précieux (or, argent, platine ...)
 
 | Risques liés à la marchandise| Revenus attendus |Modificateur d'évènement|
 |:-:|:-:|:-:|
- |Faibles |X 1,1|-5|
- |Normale |X 1,3|-10|
-|Haute |X1,(2d6 explosif pour chaque 10ème)|-15|
+|Risques faibles |X 1,1|-5|
+|Risques normaux |X 1,3|-10|
+|Risques élevés |X1,(2d6 explosif pour chaque 10ème)|-15|
 
-## Gains mensuels :  
-Ce sont les gains que peut espérer toucher le joueur chaque lune. Ils varient en fonction des investissements qu’a effectué le joueur jusqu’ici.  
-## La réputation :  
-Modifie les test de persuasion
-## L’instabilité :  
-Les commerces les plus lucratifs sont rarement les plus légaux. Ainsi, suivant le type de marchandises, le risque augmente d'attirer les autorités (contrôle, impôt) ou au contraire des concurrents mal intentionnés, et plus généralement des bandits et des pillards qui préfèrent obtenir par la force le labeur des autres.   
+#### Bonus de Réputation
+Un comptoir rayonne dans le milieu commercial. Ainsi, une réputation s'établie progressivement. Au fur et à mesure que le comptoir évolue, le personnage joueur obtient un bonus de persuasion pour négocier au nom de son comptoir. Le bonus évolue avec le niveau d'avancement du comptoir.   
 
 
 # La gestion du commerce
@@ -51,12 +51,52 @@ Le domaine est géré par le personnage. Comme les tests familiaux et économiqu
 
 **Comptoir commercial Très faible**  
 *Condition: Niveau 3*  
-*Investissement : 3000 po*  
+*Coût d'achat : 3000 po*  
 *Risque maximum : Faible*  
 *Investissement commercial maximum: 200 po*
-Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises
-La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
-*Revenus : 5 X 6d6 po*  
+Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+
+**Comptoir commercial faible**  
+*Condition: Niveau 5*  
+*Coût d'achat : 6000 po*  
+*Risque maximum : Faible*  
+*Investissement commercial maximum: 400 po*
+Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+
+**Comptoir commercial normal**  
+*Condition: Niveau 8*  
+*Coût d'achat: 12 000 po*  
+*Risque maximum : Normal*  
+*Investissement commercial maximum: 700 po*
+Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+
+**Comptoir commercial important**  
+*Condition: Niveau 12*  
+*Coût d'achat : 24 000 po*  
+*Risque maximum : Élevé*  
+*Investissement commercial maximum: 700 po*
+Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+
+**Comptoir commercial très important**  
+*Condition: Niveau 14*  
+*Coût d'achat : 48 000 po*  
+*Risque maximum : Élevé*  
+*Investissement commercial maximum: 700 po*
+Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point.
+Le comptoir compte un bâtiment principal, une petite écurie et un ponton sur la rivière. Deux personnes tiennent les lieux, une autre s'occupe du cheval et de la charrette et deux autres sont sur un bateau à voile.
+
+| Niveau du comptoir commercial| Coût d'achat |Risque maximum autorisé|Investissement maximum autorisé|Réputation (bonus de persuasion)|
+|:-:|:-:|:-:|:-:|:-:|
+| Très faible|3000 PO|Faible|200|0|
+| Faible|6000 PO|Faible|400|+1|
+| Normal|12 000 PO|Normal|700|+2|
+|Important |24 000 PO|Elevé||+3|
+|Très important |48 000 PO|Elevé||+4|
+
 
 | 4d6* | Multiplicateur |
 |:-:|:-:|

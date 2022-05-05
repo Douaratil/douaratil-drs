@@ -46,21 +46,21 @@ La colonie génère des revenus suivant son niveau de développement. Il s'agit 
 
 **Développement Très faible**  
 *Condition: Niveau 3*  
-*Investissement : 1500 po*  
+*Coût d'achat : 1500 po*  
 La colonie est très pauvre.   
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade.
 *Revenus : 5 X 6d6 po*  
 
 **Développement Faible**  
 *Condition: Niveau 6*  
-*Investissement :3000 po*  
+*Coût d'achat :3000 po*  
 La colonie est pauvre.   
 La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois.
 *Revenus : 10 X 6d6 po*  
 
 **Développement Normal**  
 *Condition: Niveau 9*  
-*Investissement :9000 po*  
+*Coût d'achat :9000 po*  
 La colonie est respectable.   
 La colonie est pauvre.   
 La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
@@ -68,7 +68,7 @@ La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 
 
 **Développement Important**  
 *Condition: Niveau 12*  
-*Investissement :18 000 po*  
+*Coût d'achat :18 000 po*  
 La colonie est importante et renommée dans la région.   
 La colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "héroïque"**  
@@ -76,7 +76,7 @@ Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "h
 
 **Développement Très Important**  
 *Condition: Niveau 15*  
-*Investissement :36 000 po*  
+*Coût d'achat :36 000 po*  
 La colonie est très importante et renommée dans le royaume.    
 La colonie est constituée de quarante bâtiments avec une capacité d'accueil de 400 personnes. La colonie comprends une dizaine de points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes, mais aussi temple et bordel. La colonie a une grande muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "légendaire"**  
