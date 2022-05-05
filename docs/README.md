@@ -18,7 +18,11 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Lancement de la conception du deuxième livre : le livre des rituels qui contiendra toutes les règles pour lancer des sortilèges, la listes des rituels ainsi que les prix de la plus part des composants courants.   
 - Révision progressive des règles de [commerce](/commerce), la première mouture crée par Georges est à mon avis trop simulationiste. Elle intègre des paramètres très intéressants qui ont fait avancer ma réflexion sur le sujet.   
 Bon jeu.  
-- Précision sur les taux de change et les commissions dans la page du [Système monétaire](/equipement/systeme-monetaire).
+- Précision sur les taux de change et les commissions dans la page du [Système monétaire](/equipement/systeme-monetaire).  
+- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon)   
+- Mise à jour succincte des chroniques [Miz Favros 722](/chroniques/miz-favros-722)
+- Mise à jour succincte des chroniques [Miz Morz 722](/chroniques/miz-morz-722)
+- Mise à jour succincte des chroniques [Miz Ebrel 722](/chroniques/miz-ebrel-722)
 §§§ .text-right
 _**Olivier**_,  
 _le 5 mai 2022_

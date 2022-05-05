@@ -1,6 +1,5 @@
 ---
 title: Commerce (Règles optionnelles)
-source: "Georges"
 ---
 # Le commerce :  
 **Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon la moyenne ses bonus de caractéristiques arrondi à l'entier inférieur. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.**  
