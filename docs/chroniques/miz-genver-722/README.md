@@ -75,11 +75,18 @@ Dans un soleil couchant sanguinolent qui se couche à l'ouest, au loin des vols 
 Il y a une grande activité dans la ville qui semble toujours être en effervescence comme si un marché y avait lieu tous les jours.
 Idolobha Elikhulu est une grande ville commerçante.  
 
-**8 Miz Genver**   
+**9 Miz Genver**   
 Les compagnons pénètrent dans la ville le matin. Ils se rendent compte qu'ils sont un peu voyant au milieu de ces peuples à la peau noire, même si d'autres commerçants venus des royaumes shahims vont et viennent. Cette singularité d'épiderme ne semble pas interroger les habitants Idolobha Elikhulu. Tandis que Thorleik et Tiberius, probablement harassés par la chaleur et l'humidité, décident d'organiser un spectacle de rue à base d'effet pyrotechnique, Sawrina en profite pour subtiliser quelques bijoux à des spectateurs inattentifs.  
 Les compagnons se rendent compte qu'ils sont surveillés par les gardes qui ont l'air peu commodes.   
 Toujours à la recherche du sanctuaire, se rendent dans une hutte où se trouve une sorcière. Après quelques échanges, elle confirme que le sanctuaire se trouve dans le lac sous l'eau.   
 Pour ne pas être dénoncé, Tibérius lui tranche la gorge.   
 C'est à la nuit tombée que les aventuriers partent à la nage vers le lieux qu'ils avaient repéré sur le lac et qui était entouré d'oiseaux blancs.   
 Pendant leur traversée, ils sont assaillis par de redoutables crocodiles. Le tumulte des combats attire l'attention des sentinelles de la ville et des pirogues sont mises à l'eau.   
-Les aventuriers pénèter dans ce qui semble être un conduit vertical à fleur d'eau.     
+Les aventuriers pénètrent dans ce qui semble être un conduit vertical à fleur d'eau. Ils descendent profondément et empruntent un couloir avant d'arriver sur une porte qui semble pivoter sur elle même et bascule vers l'inconnu.      
+Tous décident de la prendre d'autant que les gardes de la ville arrivent et qu'ils ne semblent pas commodes. Les deux Melgs, Alf et Rudolf décident de faire demi tours et d'affronter les guerriers d'Idolobha Elikhulu. Rudolf et Alf surgissent du conduit et se jettent sur les pirogues. Après avoir abattu six adversaires, leur corps percés de toutes part, les deux Melgs s'effondrent et sont achevés à coups de lances.   
+Ceux qui ont traversé la porte ont vécu une étrange expérience : ils ont entamé l'éveil.  
+Ils se réveillent sur la berge du lac et constatent la disparition de leur deux compagnons. Ils partent à leur recherche et découvrent que leur corps ont été exposés.   
+Durant la nuit, ils organisent une expédition et récupèrent les corps avant de prendre rapidement la route du nord et rejoindre la protection du désert.   
+
+**12 Miz Genver**  
+En chemin, sous les offices de Thorleik, les corps sont incinérés. Ils rentrent à Madinalajnibh le cœur lourd.

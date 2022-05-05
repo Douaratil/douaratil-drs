@@ -10,63 +10,9 @@ Pour constituer un groupe de combattant, il faut rassembler des individus qui on
 
 ## Organiser son armée  
 On peut distinguer principalement l'infanterie et la cavalerie. Pour chaque, il y a une version légère et une version lourde. Il y a aussi les unités d'attaque à distance.  
-Il y a ensuite le niveau d'expertise de l'unité: inexpérimentée (Niv 2), Normale (Niv 4) ou Elite (Niv 6). Les troupes ne peuvent pas être plus haute que le niveau élite. Les personnages qui sont plus expérimentées doivent être joués individuellement en tant que PNJ exceptionnels.  
+Les personnages qui sont plus expérimentées doivent être joués individuellement en tant que PNJ exceptionnels.  
 
-## Quelles valeurs Utiliser  
-Valeur de défense (VD)  
-Valeur offensive (VO)  
-Points d'action (PA)  
-
-Déplacement
-Par convention sur le champs de bataille, les unités se déplacent selon leur type et leur encombrement. Le déplacement est compté pour 2 rounds comme nous le verrons dans le cadre de l'unité de temps.
-
-
-|Table de caractéristiques de l'infanterie légère ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Infanterie légère inexpérimentée|20|14|+3|1|18m/3|0/0|225|
-|Infanterie légère normale|30|14|+4|1|18m/3|0/0|550|
-|Infanterie légère élite|40|14|+5|2|18m/3|0/0|1150|
-
-
-|Table de caractéristiques de l'infanterie lourde ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Infanterie lourde inexpérimentée|20|17|+3|1|12m/2|0/0|250|
-|Infanterie lourde normale|30|17|+4|1|12m/2|0/0|600|
-|Infanterie lourde élite|40|17|+5|2|12m/2|0/0|1200|
-
-
-|Table de caractéristiques des unités d'archers ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Archer inexpérimenté|20|12|+3|1|18m/3|24m/96m - 8/32|225|
-|Archer normal|30|12|+4|1|18m/3|24m/96m - 8/32|1050|
-|Archer élite|40|12|+5|2|18m/3|24m/96m - 8/32|1150|
-
-
-|Table de caractéristiques de la cavalerie légère ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Cavalerie légère inexpérimentée|20|15|+3|1|30m/10|0/0|250|
-|Cavalerie légère normale|30|15|+4|1|30m/10|0/0|600|
-|Cavalerie légère élite|40|15|+5|2|30m/10|0/0|1200|
-
-
-|Table de caractéristiques dede la cavalerie lourde ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Cavalerie lourde inexpérimentée|20|18|+3|1|24m/8|0/0|275|
-|Cavalerie lourde normale|30|18|+4|1|24m/8|0/0|650|
-|Cavalerie lourde élite|40|18|+5|2|24m/8|0/0|1250|
-
-
-|Table de caractéristiques de la cavalerie archère ||||||||
-|Type|PA|VD|VO|Attaques/rd|Vitesse/cases|Portée/cases|XP|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Cavalerie archer inexpérimenté|20|12|+3|1|30m/10|24m/96m - 8/32|250|
-|Cavalerie archer normal|30|12|+4|1|30m/10|24m/96m - 8/32|600|
-|Cavalerie archer élite|40|12|+5|2|30m/10|24m/96m - 8/32|1200|
+## Quelles sont les troupes disponibles?   
 
 **Infanterie légère**
 Les soldats sont équipés d'une armure légère type armure de cuir, d'un bouclier, d'une arme à une main (hache, épée) et d'un javelot.  
@@ -80,15 +26,10 @@ Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'
 Les soldats sont équipés d'une armure lourde type armure de clibanion, d'un bouclier, d'une arme à une main (hache, épée) et d'une lance. Leurs chevaux sont de lourds destriers.  
 **Cavalerie archer**
 Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'une arme à une main (hache, épée) et d'un arc court.  
+
 ## Unité de temps  
 L'unité de temps d'une bataille est le double d'un round. Cela permet au personnage d'intervenir deux fois chaque étape de la bataille. Il peut par contre lui être opposé plusieurs adversaires à chaque round, s'il se trouve au contact. Au niveau des personnages, les adversaires qui lui sont opposés le sont à son créneau d'initiative.   
 
-## Les modificateurs
-Les modificateurs sont les mêmes que pour le combat individuel. Il peut fonctionner avec des bonus et des malus, ou des avantages et des désavantages selon les situations mais il faut aussi considérer les modificateurs suivants:   
-
-- La charge donne un bonus de 1d6 et rajoute un multiplicateur de dégâts.  
-- Les attaques de flancs donnent un bonus de 1d6 et rajoute un multiplicateur de dégâts.   
-- Les attaques de dos donnent un bonus de 2d6 et rajoute deux multiplicateur de dégâts.  
 
 ## Déroulement de la bataille  
 Au début de la bataille, on défini quelle armée agit en premier. Ce choix peut être fait par tous moyens que vous jugez bon (Pair ou impair sur 1d6 par exemple).  
@@ -96,18 +37,9 @@ Ensuite pour chaque camps, s'il y a de chaque côté des adversaires majeurs (pe
 
 La phase de combat se joue en trois actes. Chaque armée joue et ensuite les personnages et PNJ individuellement.   
 
-### PA des unités  
-Les unités ont un nombre de points d'action (PA) égal à PA individuel multiplié par le nombre d'individu dans l'unité.  
 
-*Par exemple : une unité d'infanterie lourde normale de 100 effectifs possède 3000 PA (30 PA X 100)*  
 
-Les PA sont soustraits au fur et à mesure. A chaque fois qu'un montant atteint 30 (quelque soit la cause des dégâts).  
-
-*Par exemple : Des personnages attaquent une unité d'infanterie lourde normale. A trois, ils arrivent à causer 63 points de dégâts d'action. Pour ce tour, l'unité perd deux soldats (2 X 30). Il reste 3 points qui sont comptabilisés pour les rounds suivants. Dés que 27 PA de dégâts seront causés, il faudra ajouter les 3 PA excédentaires du round précédent. On arrive ainsi à 30 PA et un autre soldat est mis hors de combat.*  
-
-### Les attaques des unités  
-Les unités attaquent normalement avec 3d6 et ajoute leur VO. Au résultat est soustrait la Valeur de défense (VD) de l'unité adverse.  
-Les unités ajoutent 1d6 par 10 soldats qui la constituent au delà de 10.  
+#
 
 ### Les Dégâts  
 Les dégâts sont infligés à l'unité en faisant le différentiel entre le test d'attaque et la valeur de défense (VD) et multipliant par 2 ou plus. Les dégâts sont multipliés apr deux car ils sont calculés sur 2 rounds. Cependant, d'autre multiplicateurs peuvent être ajoutés.    
@@ -121,8 +53,6 @@ Les dégâts sont infligés à l'unité en faisant le différentiel entre le tes
 |Attaque de dos|+2|
 * Tous les multiplicateurs sont cumulables.     
 
-
-*Exemple: Une unité multiplie ses dégâts par 2. Si elle charge, elle les multiplie par 3, si elle charge de flanc, elle multiplie par 4. Si elle charge dans le dos, elle multiplie par 5. Une unité qui attaque de flanc multiplie par 3 et une unité qui attaque de dos, multiplie par 4.*  
 
 ### Le bonus de surnombre   
 Une unité qui est au moins deux fois plus nombreuse que ses adversaire gagne un bonus de 2d6 de surnombre.  
@@ -143,8 +73,5 @@ Il est possible de tenter de rallier une unité tous les rounds avec un JS de Sa
 
 §§§ .hero
 ### Illustration : exemples de bataille  
-Une unité de 60 fantassins légers inexpérimentés (1200 PA, VD 14, VO +3) combat une unité de 50 fantassins lourds inexpérimentés (1000 PA, VD 17, VO +3).  
-Respectivement lors de la phase de combat (à ce moment) l'unité de fantassins légers attaque avec 3d6 +3 +5d6 alors que les fantassins lourds attaqueront avec 3d6 +3 +4d6.    
 
-Il faudra ainsi moduler tout cela avec le positionnement des unités, les manoeuvres et le nombre d'attaques.    
 §§§
