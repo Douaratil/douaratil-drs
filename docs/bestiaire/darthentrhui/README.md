@@ -44,8 +44,7 @@ languages:
   - "sylvestre"
 
 telepathy: 72
-
-source: "Elric"
+source: "Elric"        
 
 ---
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19      

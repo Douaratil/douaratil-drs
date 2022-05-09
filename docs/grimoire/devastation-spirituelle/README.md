@@ -5,8 +5,7 @@ school: "Nécromancie"
 level: 3
 concentration: false
 casting_time: "3 rounds"
-duration: "jusqu’à la prochaine aube
-"
+duration: "jusqu’à la prochaine aube"
 range: "18 mètres"
 components:
   verbal: true
@@ -15,6 +14,7 @@ components:
 ritual: false
 classes:
     - Magie
+
 source: "Elric"
 ---
 **Coût** : 14 points de Magie  

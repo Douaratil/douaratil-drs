@@ -15,6 +15,7 @@ components:
 ritual: true
 classes:
     - Magie
+
 source: "Elric"
 ---
 **Coût** : 6 points de Magie  

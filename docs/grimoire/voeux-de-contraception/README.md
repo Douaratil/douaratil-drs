@@ -14,8 +14,9 @@ components:
   materials: "Bracelet de cuivre ( oxydé ), encens de 15 PO"
 ritual: true
 classes:
-  - Magie
-  - Foi
+    - Magie
+    - Foi
+
 source: "Elric"
 ---
 **Coût** : 4 point de Magie ou de Foi  

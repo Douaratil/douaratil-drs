@@ -14,8 +14,9 @@ components:
   materials:
 ritual: false
 classes:
-  - Magie
-source: Elric
+    - Magie
+
+source: "Elric"
 ---
 **Coût** : 1 points de Magie  
 

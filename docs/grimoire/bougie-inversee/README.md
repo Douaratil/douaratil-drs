@@ -14,8 +14,9 @@ components:
   materials: "Bougie, hélianthe"
 ritual: false
 classes:
-    - magie
-source: Elric
+    - Magie
+
+source: "Elric"
 ---
 **Coût** : 4 points de Magie  
 

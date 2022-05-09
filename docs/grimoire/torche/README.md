@@ -14,8 +14,9 @@ components:
   materials: "Sève"
 ritual: true
 classes:
-  - Magie
-  - Foi
+    - Magie
+    - Foi
+
 source: "Elric"
 ---
 **Coût** : 4 points de Magie  

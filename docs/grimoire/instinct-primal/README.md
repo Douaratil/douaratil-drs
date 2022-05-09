@@ -16,6 +16,7 @@ ritual: true
 classes:
     - Magie
     - Foi
+
 source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  

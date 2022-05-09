@@ -35,7 +35,7 @@ environments:
   - Plans élémentaires
 dungeonTypes:
   - Caverne sous-marine
-source: "Elric"
+source: "Elric"        
 ---
 ## Elémentaire mineur de boue
 &nbsp;

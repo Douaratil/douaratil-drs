@@ -15,9 +15,8 @@ components:
 ritual: false
 classes:
     - Magie
-Source: "Elric"
 
-
+source: "Elric"
 ---
 **Coût** : 10 points de Magie  
 Le sorcier doit frotter sur ses doigts, sa main ou même ses lèvres des pétales de gentiane, puis toucher la cible à la gorge avec les doigts ou les autres membres qui ont été frottés avec des pétales. La victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution. La gorge va rapidement enfler pendant 2 rounds puis va commencer à étouffer la victime.   

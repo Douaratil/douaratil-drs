@@ -14,8 +14,8 @@ components:
   materials: "onguent à base de Fluor et poudre noir"
 ritual: true
 classes:
-
     - Foi
+
 source: "Elric"
 ---
 **Coût** : 6 points de Foi  

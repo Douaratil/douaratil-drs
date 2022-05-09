@@ -15,6 +15,7 @@ components:
 ritual: false
 classes:
     - Magie
+
 source: "Elric"
 ---
 Le druide bénit une poignée de terre grasse en louant les Felspeärs durant la nuit de l’équinoxe de printemps ou du solstice d’été. Le lanceur de sort doit ensuite planter les 7 branches requises dans le sol, l’irriguer et éparpiller la terre bénite sur les pieds des branches rassemblées. Par la suite, le lieu du sortilège doit être laissé sans présence humaine pour qu’un arbre apparaisse. Il poussera en une saison pour atteindre trois mètres. Il grandira ensuite d’un mètre tous les ans jusqu’à atteindre une quinzaine de mètre maximum.   

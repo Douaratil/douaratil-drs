@@ -14,7 +14,8 @@ components:
   materials:
 ritual: false
 classes:
-  - Foi
+    - Foi
+
 source: "Elric"
 ---
 **Coût** : 2 points de Foi  

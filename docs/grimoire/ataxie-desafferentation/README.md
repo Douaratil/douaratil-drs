@@ -16,6 +16,7 @@ ritual: false
 classes:
     - Foi
     - Magie
+
 source: "Elric"
 
 ---

@@ -14,8 +14,9 @@ components:
   materials: "Chaîne en fer de 2 mètres ou une autre arme faite de métal de corps à corps"
 ritual: false
 classes:
-    - magie
-source: Elric
+    - Magie
+
+source: "Elric"
 ---
 **Coût** : 1 points de Magie  
 Le sorcier charge une arme en métal comme une une chaîne en fer de l'énergie d'un orage. Le lanceur de sort doit effectuer un jet de combat au corps à corps. S’il touche il fait alors subir les dégâts basiques de l’arme, et l’ennemi touché subit 1d6 dégât de foudre à chacun de ses rounds pendant 3 rounds. La chaîne semble être normale, mais dans l’obscurité la plus complète, elle brille légèrement d’une couleur bleuâtre. Si une autre personne que le lanceur de sort touche l’arme magique, alors elle ressent comme des petits picotements à chaque fois que sa peau rentre en contact avec le métal. Au niveau 5, les dégâts passent à 2d6, au niveau 11 à 3d6, au niveau 17 à 4d6, au niveau 20 à 5d6.  

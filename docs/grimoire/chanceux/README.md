@@ -16,7 +16,8 @@ ritual: true
 classes:
     - Foi
     - magie
-Source: "Elric"
+
+source: "Elric"
 ---
 **Coût** : 10 points de Foi ou de Magie  
 Ce sort permet d’influencer légèrement certains hasards comme dans les jeux de dés ou bien le choix d’une équipe pour savoir quel passage prendre dans un donjon. Les personnes influencées par ce sort ont le droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. S’ils réussissent le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), la tentative d’influencer échoue mais les cibles ne se rendent pas compte qu’elles ont été victimes d’un sort. Contrairement au sort prémonition ce sort ne permet pas d’éviter le danger. Pour utiliser le sort, le sorcier doit tenir un objet porte bonheur comme une pierre, une amulette, un osselet, etc,… qu’il doit garder sur lui pour toujours une fois le sort lancé. S’il perd ou se fait voler son objet fétiche alors il subit des événements malheureux proportionnels au nombre de fois où il a été chanceux (voir la table ci-dessous). Cette malchance atteint sa limite lorsqu’elle compense la chance que le joueur a eu.  

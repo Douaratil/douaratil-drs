@@ -16,8 +16,8 @@ ritual: false
 classes:
     - Foi
     - Magie
-source: Elric
 
+source: "Elric"
 ---
 **Coût** : 4 points de Magie ou de Foi
 Pendant l’incantation, le sorcier ouvre une petite boîte plaquée de feuilles d’or puis referme pendant toute la durée du sort. Pour briser le sortilège, le sorcier ouvre la boîte. La cible est empêchée de jeter les sorts de niveau maître pendant toute la durée du sort.   

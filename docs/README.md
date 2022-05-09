@@ -16,6 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 101
 - Corrections et précisions pour de nombreux sorts ([Bouclier personnel](/grimoire/bouclier-personnel), [Bougie inversée](/grimoire/bougie-inversee), [Boule de neige](/grimoire/boule-de-neige), ([Boussole mentale](/grimoire/boussole-mentale), [Brume d'antre](/grimoire/brume-d-antre), [Brume glaciale](/grimoire/brume-glaciale), [Cachette des racines](/grimoire/cachette-des-racines), [Cave mémorielle](/grimoire/cave-memorielle), [Chanceux](/grimoire/chanceux), [Charge d'épée](/grimoire/charge-d-epee), ([Coup au fer blanc](/grimoire/coup-au-fer-blanc), [Coup de poing de cuivre](/grimoire/coup-de-poing-de-cuivre), [Dégradation magique](/grimoire/degradation-magique), [Déperlance](/grimoire/deperlance)).
+- Ajout du sort [Bâton de lumière](/grimoire/baton-de-lumiere) d'Elric.   
 - Ajout du sort [Destination trompeuse](/grimoire/destination-trompeuse) d'Elric.                     
 - Ajout du sort [Dévastation magique](/grimoire/devastation-magique) d'Elric.                   
 - Ajout du sort [Dévastation spirituelle](/grimoire/devastation-spirituelle) d'Elric.                        

@@ -14,7 +14,6 @@ components:
   materials: "objet porte-bonheur"
 ritual: false
 classes:
-
     - Magie
 ---
 **Coût** : 1 point de Magie   
