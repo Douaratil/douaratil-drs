@@ -15,10 +15,13 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 101
-- Corrections et précisions pour de nombreux sorts ([Bouclier personnel](/grimoire/bouclier-personnel), ([Bougie inversée](/grimoire/bougie-inversee), ([Boule de neige](/grimoire/boule de neige), ([Boussole mentale](/grimoire/boussole mentale), ([Brume d'antre](/grimoire/brume-d-antre), ([Brume glaciale](/grimoire/brume-glaciale), ([Cachette des racines](/grimoire/cachette-des-racines), ([Cave mémorielle](/grimoire/cave-memorielle), ([Chanceux](/grimoire/chanceux), ([Charge d'épée](/grimoire/charge-d-epee),                
+- Corrections et précisions pour de nombreux sorts ([Bouclier personnel](/grimoire/bouclier-personnel), [Bougie inversée](/grimoire/bougie-inversee), [Boule de neige](/grimoire/boule-de-neige), ([Boussole mentale](/grimoire/boussole-mentale), [Brume d'antre](/grimoire/brume-d-antre), [Brume glaciale](/grimoire/brume-glaciale), [Cachette des racines](/grimoire/cachette-des-racines), [Cave mémorielle](/grimoire/cave-memorielle), [Chanceux](/grimoire/chanceux), [Charge d'épée](/grimoire/charge-d-epee), ([Coup au fer blanc](/grimoire/coup-au-fer-blanc), [Coup de poing de cuivre](/grimoire/coup-de-poing-de-cuivre), [Dégradation magique](/grimoire/degradation-magique), [Déperlance](/grimoire/deperlance)).
+- Ajout du sort [Destination trompeuse](/grimoire/destination-trompeuse) d'Elric.                     
+- Ajout du sort [Dévastation magique](/grimoire/devastation-magique) d'Elric.                   
+- Ajout du sort [Dévastation spirituelle](/grimoire/devastation-spirituelle) d'Elric.                        
 §§§ .text-right
 _**Olivier**_,  
-_le 8 mai 2022_
+_le 9 mai 2022_
 §§§
 
 ## Mise à jour 100
