@@ -22,7 +22,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Dévastation spirituelle](/grimoire/devastation-spirituelle) d'Elric.                        
 §§§ .text-right
 _**Olivier**_,  
-_le 9 mai 2022_
+_le 10 mai 2022_
 §§§
 
 ## Mise à jour 100
