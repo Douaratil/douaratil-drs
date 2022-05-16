@@ -136,16 +136,16 @@ Knut possède l'équipement suivant :
 - pique
 - tente
 - tenue de voyageur
-- 200 PC
-- 100 PA
+- 4000 PC
+- 450 PA
 - 0 PE
-- 20 PO
+- 1560 PO
 - 0 PP.
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** : néant
+**Niveau patrimoine très faible** :  Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
 §§§
 
 §§§ .hero
@@ -157,7 +157,7 @@ Knut possède l'équipement suivant :
 ### Colonie de Madin'alajnibh
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
-**Colons** : 41  
+**Colons** : 21  
 **Trésor** : 1060 pa
 
 §§§
@@ -176,3 +176,5 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 Comme un sou neuf
 
 §§§
+
+*Mise à jour du 16 mai 2022*

@@ -175,9 +175,9 @@ Tiberius possède l'équipement suivant :
 - silex
 - torches (20)
 - 200 PC
-- 19 071 PA
+- 17 971 PA
 - 36 PE
-- 8558 PO
+- 9824 PO
 - 5 PP.   
 
 §§§
@@ -194,8 +194,6 @@ petite maison à Ker-Saozon.
 **Bâtiments** : Une bâtisse principale  
 **Serviteurs** : 0  
 **Revenus** : 0  
-
-#### Colonie de Madin'alajnibh
 
 ### Colonie de Madin'alajnibh
 **Développement** Faible La colonie est pauvre.  
@@ -234,3 +232,4 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 Comme un sou neuf
 
 §§§
+*Mise à jour le 16 mai 2022*
