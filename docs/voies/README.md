@@ -2,8 +2,8 @@
 title: Les trois voies
 ---
 # Les trois voies
-Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à parti du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
-Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaë. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
+Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à partir du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
+Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
 # Voie des armes
 ## Évolution de la voie des Armes
@@ -34,9 +34,9 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 |**20**|+80|[Attaque supplémentaire](#attaque-supplémentaire)|
 Parmi les trois voie proposées, la voie des armes correspond à toutes les voies guerrières. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
-D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
+D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
 ## Aptitudes de classe
-En tant que voie des armes, vous bénéficiez des aptitudes de classe suivantes.
+En tant que voie des armes, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
 **Points d’action au niveau 1** : 4 + votre valeur de Constitution  
 **Points d’action aux niveaux supérieurs** : 4 par niveau de voie des armes après le niveau 1  
@@ -104,9 +104,9 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 |**20**|+60|[Coup de chance](#coup-de-chance)|+10d6|
 Parmi les trois voie proposées, la voie de l’ombre correspond à toutes les voies tournées vers les subterfuges et la discrétion. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
-D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
+D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
 ## Aptitudes de classe
-En tant que voie de l’ombres, vous bénéficiez des aptitudes de classe suivantes.
+En tant que voie de l’ombres, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
 **Points d’action au niveau 1** : 3 + votre valeur de Constitution  
 **Points d’action aux niveaux supérieurs** : 3 par niveau de voie de l’ombres après le niveau 1	 	
@@ -171,9 +171,9 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |**20**|+40|[Sorts de prédilection](#sorts-de-predilection)|+80|
 Parmi les trois voie proposées, la voie de la magie correspond à toutes les voies tournées vers les arts de la magie et des religions. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
-D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 point (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
+D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
 ## Aptitudes de classe
-En tant que voie de la magie, vous bénéficiez des aptitudes de classe suivantes.
+En tant que voie de la magie, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
 **Points d’action au niveau 1** : 2 + votre valeur de Constitution  
 **Points d’action aux niveaux supérieurs** : 2 par niveau de voie de la magie après le niveau 1  

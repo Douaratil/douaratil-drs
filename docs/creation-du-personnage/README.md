@@ -31,7 +31,7 @@ Au moment du choix de la classe de votre personnage, même s'il n'est encore que
 En règle générale, **chaque personnage débute sa vie d'aventurier au niveau 1**.
 
 ### Rituels magiques
-Si vous avez opté pour la voie de la magie, vous disposez d’une capacité supérieure à exécuter des rituels. Jusqu’au moment de choisir votre archétype, vous êtes un simple élève dont la seule capacité magique est d’assister l’un des vos maîtres lors de ces rituels. C’est au niveau 3 que vous êtes réellement initiés à votre voie magique. Suivant l’archétype choisi vous développerez des points de magie (MP) basés sur la caractéristique intelligence ou des points de foi (PF) basés sur la caractéristique sagesse. Généralement, les archétypes de type religieux développent la sagesse (SAG) et les archétype de type mages développent l’intelligence (INT) Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts](/grimoire/).
+Si vous avez opté pour la voie de la magie, vous disposez d’une capacité supérieure à exécuter des rituels. Jusqu’au moment de choisir votre archétype, vous êtes un simple élève dont la seule capacité magique est d’assister l’un des vos maîtres lors de ces rituels. C’est au niveau 3 que vous êtes réellement initiés à votre voie magique. Suivant l’archétype choisi vous développerez des points de magie (MP) basés sur la caractéristique intelligence ou des points de foi (PF) basés sur la caractéristique sagesse. Généralement, les archétypes de types religieux développent la sagesse (SAG) et les archétypes de types mages développent l’intelligence (INT) Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts](/grimoire/).
 
 ## 4. Déterminer les caractéristiques
 
@@ -53,7 +53,7 @@ Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les
 [![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem2.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage2.jpg)  
 
 ### Répartition des points de caractéristiques
-Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustée par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
+Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustées par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
 Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20 ([Voir tableau évolution du personnage](/creation-du-personnage/#evolution-des-personnages)).La seule exception est l'accomplissement d'un archétype au niveau 20 ou supérieur qui donne un bonus de caractéristique avec un maximum de 22 ([Voir Archétypes](/archetypes))  
 
 ### Valeurs et modificateurs
@@ -97,7 +97,7 @@ Pour chaque arme que porte votre personnage, il vous faut maintenant calculer la
 * La Force si vous utilisez une arme de corps à corps. Vous pouvez aussi choisir d'utiliser la Force pour une arme à distance dotée de la propriété Lancer.
 * La Dextérité si vous utilisez une arme à distance. Vous pouvez aussi choisir d'utiliser la Dextérité pour une arme de corps à corps dotée de la propriété Finesse.
 
-Les armes infligent des dégâts de base, qui sont indiqués dans la liste des armes au chapitre [Équipement - Armes](/armes/). Les dégâts se calculent en faisant la somme des dégâts de l’arme et de la marge de réussite de l’attaque (c’est à dire le nombre de points qui dépasse la valeur de défense).  
+Les armes infligent des dégâts de base, qui sont indiqués dans la liste des armes au chapitre [Équipement - Armes](/armes/). Les dégâts se calculent en faisant la somme des dégâts de l’arme. Le jet d'attaque peut modifier les dégâts : pour chaque 6 obtenu il est rajouté +1 aux dégâts.    
 
 # Au-delà du niveau 1
 Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa voie et de sa spécialisation.  Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.  

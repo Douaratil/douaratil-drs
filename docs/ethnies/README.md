@@ -13,9 +13,6 @@ Cette entrée indique l'âge à partir duquel un individu est considéré comme 
 ### Alignement
 La plupart des ethnies tendent naturellement vers un alignement donné, mentionné dans cette entrée. L'alignement est indiqué à titre informatif et les joueurs ne sont pas obligés de l'adopter, mais si vous vous demandez pourquoi votre personnage est d'alignement Chaotique, en rébellion par rapport à une société plutôt loyale, par exemple, cela peut vous aider à mieux déterminer son comportement.
 
-### Taille
-Les personnages de la plupart des races sont de taille moyenne, une catégorie qui regroupe les créatures qui se situent entre 1,20 mètre et 2,1 mètres.
-
 ### Vitesse
 Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voyagez ou quand vous combattez.
 
@@ -23,7 +20,9 @@ Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voy
 Le fait d'appartenir à une race donnée vous permet de parler, lire et écrire certaines langues.
 
 ### Peuples
-Certaines ethnie se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de l’ethnie dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d'une même ethnie peuvent varier énormément d'une ethnie ou d'un territoire à l'autre.Taille et poids habituels
+Certaines ethnies se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de l’ethnie dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d'une même ethnie peuvent varier énormément d'une ethnie ou d'un territoire à l'autre.
+
+### Taille et poids habituels
 La taille et le poids sont à la discrétion du joueur lors de la création du personnage mais elle devrait prendre en compte certains aspects physiques comme la constitution et la force.  
 
 # Impériaux
@@ -42,19 +41,19 @@ Personne originaire d'Alicantys et par extension, originaire de l'Empire. Alican
 ### Peuple Alycante
 
 **Augmentation de caractéristiques**. Votre valeur sagesse augmente de 1.  
-**Entraînement aux armes**. Vous maîtrisez l’épée courte.  
+**Compétences maîtrisées**. Vous maîtrisez l’épée courte.  
 Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycantis, l’*Alcante*, et parler, lire et écrire une langue supplémentaire de votre choix.   
 
 ### Peuple Avalin
 
 **Augmentation de caractéristiques**. Votre valeur charisme augmente de 1.    
-**Entraînement aux armes**. Vous maîtrisez l’épée courte.  
+**Compétences maîtrisées**. Vous maîtrisez l’épée courte.  
 **Langues supplémentaires**. Vous pouvez parler le dialecte de la cité d’Avaline, l’*Avalinae*, et parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Peuple Courdo
 
 **Augmentation de caractéristiques**. Votre valeur dextérité augmente de 1.  
-**Entraînement aux armes**. Vous maîtrisez l’épée courte.  
+**Compétences maîtrisées**. Vous maîtrisez l’épée courte.  
 **Langues supplémentaires**. Vous pouvez parler le dialecte de la cité de *Coudoès*, le *courdote*, et parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Peuple Lacède
@@ -84,7 +83,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Augmentation de caractéristiques**. Votre valeur de dextérité augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Compétences maîtrisées**. Vous maîtrisez le glaive et la hachette.  
-**Langues supplémentaires**. Vous parlez le *Khern*, votre langue maternelle. La langue écrite des Khernaë, les *Omaths* est sacrée et enseignée à très peu de personnes. Vous pouvez choisir un dialecte local entre le *Bena’ch* et le *Mor’vron*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+**Langues supplémentaires**. Vous parlez le *Khern*, votre langue maternelle. La langue écrite des Khernaës, les *Omaths*, est sacrée et enseignée à très peu de personnes. Vous pouvez choisir un dialecte local entre le *Bena’ch* et le *Mor’vron*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Traits du Meldète
 **Meldète**:Peuple voisin des Khernaës, les Meldètes ont autrefois vécu dans le Grand Nord, mais ils en auraient été chassés par des traîtres. Ils ont ensuite longtemps vécu à l'est du continent, puis ils se sont déplacés vers l'ouest et le sud par vagues successives. Autrefois société de chasseurs-cueilleurs nomades, les Meldètes se sont sédentarisés au fil des siècles dans de petits villages indépendants. De grands royaumes ont été créés par regroupements d'intérêts. Au-delà du pouvoir des chefs militaires, le véritable pouvoir dominant est celui des drodanos, l'élite religieuse et intellectuelle.  
@@ -95,7 +94,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Langues supplémentaires**. Vous parlez le *Mèlde*, votre langue maternelle. La langue écrite, le *Drods* des Meldètes est sacrée et donc enseignée seulement aux Drodanos et certains rares lettrés. Vous pouvez choisir un dialect entre le *Mèldon*, le *Dorodane*, le *Brèdète* et le *Nordhème*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Traits du Melg
-**Melg(e)** : Les Melgs ont occupé le centre du continent et la zone nord sous le cercle polaire depuis les origines. Leurs terres avaient auparavant été occupées par des ancêtres des Khernaës qui ont laissé des cercles de pierres levées, des dolmens et des menhirs. Les Melgs les ont réutilisés pour leurs cultes, en gravant dessus de nombreux holtars et en rajoutant des gravures de dragons, serpents et autres animaux mythiques. Ils sont venus par vagues successives des terres du grand Est, et ont lentement colonisé les plaines et les côtes en suivant les fleuves. Ce sont d'excellents marins et bâtisseurs de bateaux. Leurs origines se perdent dans la nuit des temps, mais leurs traditions les font remonter aux premiers fruits de l'arbre originel Rokolf. On distingue trois branches principales dans le peuple melg : les draükarns qui vivent au bord de la mer, les znorkarns qui vivent dans les plaines de l'est et les welkarns qui habitent à l'ouest. Aujourd'hui repoussés par les Minghours, ils se pressent aux portes des royaumes khernaës et meldètes.  
+**Melg(e)** : Les Melgs ont occupé le centre du continent et la zone nord sous le cercle polaire depuis les origines. Leurs terres avaient auparavant été occupées par des ancêtres des Khernaës qui ont laissé des cercles de pierres levées, des dolmens et des menhirs. Les Melgs les ont réutilisés pour leurs cultes, en gravant dessus de nombreux holtars et en rajoutant des gravures de dragons, serpents et autres animaux mythiques. Ils sont venus par vagues successives des terres du grand Est, et ont lentement colonisé les plaines et les côtes en suivant les fleuves. Ce sont d'excellents marins et bâtisseurs de bateaux. Leurs origines se perdent dans la nuit des temps, mais leurs traditions les font remonter aux premiers fruits de l'arbre originel Rokolf. On distingue trois branches principales dans le peuple melg : les draükarns qui vivent au bord de la mer, les znorkarns qui vivent dans les plaines de l'est et les welkarns qui habitent à l'ouest.
 **Augmentation de caractéristiques**. Votre valeur de force  augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Compétences maîtrisées**. Vous maîtrisez la hache et la pique.  
@@ -103,7 +102,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 
 # Peuples asiatiques
 ### Minghour(e).
-Peuple d'orient sur le point d'envahir les terres de l'ouest. Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oynours ou les Ygouths. Les Oynours forment la principale force de l'invasion minghoure, ce sont des cavaliers nomades cruels. Les Ygouths sont organisés en tribus souvent installés dans des montagnes, Il forme un peuple robuste et combatif. Les Yotakaï littéralement "les coureurs du vent" forment une tribu minghoure. Les Yotakaïs forment de grands cavaliers et fantassins, redoutables au sabre.  
+Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oynours ou les Ygouths. Les Oynours forment la principale population minghoure, ce sont des cavaliers nomades cruels. Les Ygouths sont organisés en tribus souvent installées dans des montagnes, Il forme un peuple robuste et combatif. Les Yotakaï littéralement "les coureurs du vent" forment une tribu minghoure. Les Yotakaïs forment de grands cavaliers et fantassins, redoutables au sabre.  
 ## Traits des ethnies Minghour
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.   
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
@@ -135,7 +134,7 @@ Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorie
 **Augmentation de caractéristiques**. Votre valeur d’intelligence  augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**.Vous maîtrisez glaive.  
-**Langues**. Vous parlez et écrivez les langues communes : le *Weslèdh*, l’*Alcath*, le *Minghour/Mingath* et le *Shahim/Shaiate*. Vous parlez et écrivez le *Selmh*, votre langue natale qui a la particularité de résoner comme le sifflement d’un serpent. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+**Langues**. Vous parlez et écrivez les langues communes : le *Weslèdh*, l’*Alcath*, le *Minghour/Mingath* et le *Shahim/Shaiate*. Vous parlez et écrivez le *Selmh*, votre langue natale qui a la particularité de résonner comme le sifflement d’un serpent. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 **Symbiote démoniaque**. Votre vie symbiotique est étendue à 300 cycles et vous ne craignez pas les maladies, même d’origine magique.  
 **Canal arcanique** Vous êtes le point de passage des énergies arcaniques environnantes et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empruntez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vous ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.   
 **Haine ancestrale** Une haine légendaire existe contre les descendants Selmonites qui sont accusés d'avoir déclenché la fin du mondes. Ils sont souvent obligés de vivres cachés ou reclus. Tous les tests d’interactions sociales subissent un désavantage envers les autres ethnies.
@@ -144,7 +143,7 @@ Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorie
 ## Traits des ethnies shahims
 
 ### Shahim(a).
-Peuples du sud en guerre perpétuelle contre les royaumes Alcantes et Lacèdes. Les Shahims sont composés des éthnies Assyrhims, Ptolèmes, Shèmes, Ashkemites et Lassymides.
+Peuples du sud souvent en conflit contre les royaumes Alcantes et Lacèdes. Les Shahims sont composés des éthnies Assyrhims, Ptolèmes, Shèmes, Ashkemites et Lassymides.
 Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrhims forment une civilisation évoluée à l'est de la mer sur un territoire fertile et luxuriant. Les Shèmes vivent dans de grandes cités dans des déserts de roches sur les routes commerciales des épices et des métaux précieux. Les Ashkemites sont des cavaliers nomades qui parcourent le territoire des royaumes de Shahia et les Lassymides forme un peuple de marin, rompu à la piraterie. Tous ces peuples partagent un ancêtre mythologique commun, Sha le premier homme.  
 
 **Augmentation de caractéristiques**. Votre valeur de dextérité  augmente de 1.  

@@ -19,6 +19,10 @@ Ces individus sont respectueux de la loi, d'une tradition ou de leur code de con
 C'est l'alignement de ceux qui préfèrent se tenir à distance des dilemmes moraux et n'aiment pas prendre parti. Ils font ce qui leur paraît approprié sur le moment. La plupart des druides et de nombreux humains sont d'alignement Neutre.  
 ### Chaotique Neutre (CN).
 Ceux de cet alignement écoutent leurs désirs et font passer leur propre liberté avant tout. On trouve parmi ceux d'alignement Chaotique Neutre de nombreux barbares et roublards et quelques bardes.  
+
+### Loyal Mauvais (LM)
+Voilà l'alignement des créatures qui s'appliquent à méthodiquement prendre ce dont elles ont envie dans le cadre d'un code ou d'une tradition, de leur loyauté ou d'un ordre.  
+
 ### Neutre Mauvais (NM)  
 C'est l'alignement des créatures qui font ce qu'elles veulent tant qu'elles peuvent s'en tirer.   
 ### Chaotique Mauvais (CM)  
