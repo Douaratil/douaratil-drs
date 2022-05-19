@@ -40,7 +40,7 @@ L'unité de temps d'une bataille est le double d'un round. Cela permet au person
 |12-17|Voie des armes (Adepte)|
 |18+|Voie des armes (Expert)|
 
-Les mêlées étant furieuses, l'adversaire ne lui est opposé que deux rounds maximum. Si les deux ont survécu, ils se perdent de vue dans la bataille et un nouveau tirage est effectué.  
+Les mêlées étant furieuses, l'adversaire ne lui est opposé que deux rounds maximum. Si les deux ont survécu, ils se perdent de vue dans la bataille et un nouveau tirage est effectué. Le personnage obtient les points d’expérience correspondants 
 
 ## Déroulement de la bataille  
 Au début de chaque tour de bataille (2 rounds), chaque joueur test la situation de bataille pour vérifier si elle est avantageuse ou désavantageuse. Un descriptif s'applique alors. Suivant la taille de la bataille, tous les joueurs ne devront pas forcément effectuer ce test. Il faut pour ce faire commander des troupes.  
