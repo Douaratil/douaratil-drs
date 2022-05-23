@@ -36,12 +36,12 @@ En tant que Adoshaï, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être Selmonite    
 **Points de Magie** : L'Adoshaï est un mage, le personnage développe les points de Magie (PM).    
 
-Probablement l'un des derniers archétypes des temps anciens, le Adoshaï est Archétype qui a développé les pouvoirs psychiques pour transcender ou augmenter la magie. Par sa discipline psychique, il peut augmenter ses capacités ou porter des attaques invisibles à distance. Ceux qui connaissent ses capacités sont le redoutent.   
+Probablement l'un des derniers archétypes des temps anciens, l'Adoshaï est un Archétype qui a développé les pouvoirs psychiques pour transcender ou augmenter la magie. Par sa discipline psychique, il peut augmenter ses capacités ou porter des attaques invisibles à distance. Ceux qui connaissent ses capacités le redoutent.   
 Les Adoshaïs de la voie des Armes sont appelés Ashroth, littéralement «inéxorable réalité». Les Adoshaïs de la voie de l’Ombre sont appelés Shadaï , littéralement «Destin accompli». Les Adoshaïs de la voie de la Magie sont appelés Ma'ashtag'haï, littéralement «Potentialité révélée».  
 
 ### Frappe psychique
 **En Selm : Ssisik sharsa**   
-Au niveau 3, en utilisant son action bonus, l'Adoshaï peut porter une frappe psychique à une cible dans son champs de vision en utilisant pour le jet d'attaque son bonus de JS de Sagesse et un bonus de dégâts égal à son modificateur de Sagesse. La frappe évolue selon le niveau de l'Adoshaï. La cible à le droit à un JS de Sagesse pour ignorer les dégâts. Chaque attaque à un coût en Points de Magie (PM) ou Points de Foi (PF).   
+Au niveau 3, en utilisant son action bonus et/ou son action, l'Adoshaï peut porter une frappe psychique à une cible dans son champs de vision en utilisant pour le jet d'attaque son bonus de JS de Sagesse et un bonus de dégâts égal à son modificateur de Sagesse. La frappe évolue selon le niveau de l'Adoshaï. La cible à le droit à un JS de Sagesse pour ignorer les dégâts. Chaque attaque à un coût en Points de Magie (PM) ou Points de Foi (PF).   
 
 |Niveau|VO|Portée|Dégâts|Coût|
 |:-:|:-:|:-:|:-:|:-:|
@@ -66,7 +66,7 @@ Au niveau 6, l'Adoshaï peut utiliser la capacité équivalente au sort [Amitié
 
 ### Lacération conscientisée
 **En Selm : Oshi haseshasia**   
-Au niveau 7, l'Adoshaï peut utiliser action bonus et/ou action pour porter une [Frappe psychique](#frappe-psychique) dans à 180°.
+Au niveau 7, l'Adoshaï peut utiliser son action bonus et/ou son action pour porter une [Frappe psychique](#frappe-psychique) dans à 180°.
 
 ### Confusion
 **En Selm : Shaashik**   
@@ -79,7 +79,7 @@ Au niveau 9, l'Adoshaï est tellement conscient de son environnement qu'il ne pe
 ### Attaque supplémentaire  
 **En Selm : Issessus**  
 À partir du niveau 10, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
-Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 18. Pour celles qui viennent de la voie des armes et qui bénéficient déjà des attaques supplémentaires, elles obtiennent un bonus de dégâts de +2 en compensation à chaque fois, soit +2 au niveau 9 et +4 au niveau 16.
+Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 18. Pour ceux qui viennent de la voie des armes et qui bénéficient déjà des attaques supplémentaires, ils obtiennent un bonus de dégâts de +2 en compensation à chaque fois, soit +2 au niveau 10 et +4 au niveau 18.
 
 ### Suggestion
 **En Selm : Shahih**   

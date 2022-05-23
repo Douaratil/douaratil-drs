@@ -148,7 +148,7 @@ Au niveau 19, l'Alka'him  peut maintenant fabriquer des engins flambants.
 
 ### Véritable l'Alka'him
 **En Shahim: Sahih Alka'him**  
-Au niveau 20, le héro est accompli. Il gagne 2 points de caractéristique en INT et en CON.  
+Au niveau 20, le héro est accompli. Il gagne 2 points de caractéristique en Intelligence et en Constitution sans dépasser 22.  
 
 # les engins pyrotechniques de l'Alkad'hims
 
@@ -210,7 +210,7 @@ Au niveau 20, le héro est accompli. Il gagne 2 points de caractéristique en IN
 
 ### Vizpinel
 **Lieu**. Chez les Sooghaïs.  
-**Description**. Cette pierre ne se trouve que dans le lointain Sud et est assez courant chez ce peuple. D’apparence grise et banale, elle est facilement confondue avec du gravier. Cependant, au contact d’étincelle, ces petits graviers émettent une détonation et une vive lumière. Ce type de pierre ne se trouve cependant que dans certaines grottes, mais s’y trouve nombreuses.  
+**Description**. Cette pierre ne se trouve que dans le lointain Sud et est assez courant chez ce peuple. D’apparence grise et banale, elle est facilement confondue avec du gravier. Cependant, au contact d’étincelle, ces petits graviers émettent une détonation et une vive lumière. Ce type de pierre ne se trouve cependant que dans certaines grottes, mais en grande quantité.  
 
 
 ### Engin bruyant

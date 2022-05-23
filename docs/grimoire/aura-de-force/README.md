@@ -15,7 +15,7 @@ ritual: false
 classes:
     - Foi
 
-source: "Manuel des règles"
+
 ---
 **Coût** : 10 points de Foi  
 

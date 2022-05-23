@@ -44,17 +44,17 @@ Les sorts utilisent des points de Magie (PM) ou des points de Foi (PF). Les coû
 |Adepte|1 lune|600 po|  22|28|35|
 |Expert|2 lunes|1200 po|  28|35|-|
 |Maître|3 lunes|2400 po|35|-|-|
-* DA : Difficultée d'apprentissage  
+* DA : Difficulté d'apprentissage  
 * Coût & le temps sont doublés pour la Voie de l'Ombre et triplés pour la Voie des Armes.
 
 
 ### Utiliser des points de Magie ou des points de Foi?
-Il arrive que certains sorts soient disponibles pour la voie "magique" et la voie "spirituelle". Le sort propose alors d'utiliser des points de Magie (PM) ou de Foi (PF). Le choix est laissé au personnage en sachant que selon son archétype, il ne récupèrera pas de la même vitesse, voir la section [Repos](/gerer-la-sante-du-personnage/#repos-long).  
+Il arrive que certains sorts soient disponibles pour la voie "magique" et la voie "spirituelle". Le sort propose alors d'utiliser des points de Magie (PM) ou de Foi (PF). Le choix est laissé au personnage en sachant que selon son archétype, il ne récupérera pas de la même vitesse, voir la section [Repos](/gerer-la-sante-du-personnage/#repos-long).  
 
 ### Lancer un sort en surcharge
 Quand un lanceur de sorts utilise de point que celui nécessaire pour le sort, ce dernier adopte une puissance supérieure lors de son incantation. Par exemple, si Umare lance [_projectile magique_](/grimoire/projectile-magique/) en dépensant un emplacement de niveau Disciple, ce [_projectile magique_](/grimoire/projectile-magique/) devient un sort de Disciple. En pratique, le sort se « _dilate_ » en se surchargeant de l'énergie investie.
 
-Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [_soin des blessures_](/grimoire/soin-des-blessures/), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description. Le cout en points de Magie ou de Foi est toujours le maximum du niveau soit +8 PM pour un sort de [_projectile magique_](/grimoire/projectile-magique/) lancé au niveau Disciple (4 projectiles à 1d6 de dégâts) pour un total de 10 PM (2 PM+8 PM). Pour les niveaux supérieurs, il faut dépenser les niveaux intermédiaires en points. Même exemple avec [_projectile magique_](/grimoire/projectile-magique/) mais de niveau Apprenti (5 projectiles à 1d6 de dégâts) pour un total de est de 22 PM (2 PM + 8 PM + 12 PM)
+Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [_soin des blessures_](/grimoire/soin-des-blessures/), ont un effet plus puissant quand ils sont lancés avec un niveau supérieur, comme expliqué dans leur description. Le coût en points de Magie ou de Foi est toujours le maximum du niveau soit +8 PM pour un sort de [_projectile magique_](/grimoire/projectile-magique/) lancé au niveau Disciple (4 projectiles à 1d6 de dégâts) pour un total de 10 PM (2 PM+8 PM). Pour les niveaux supérieurs, il faut dépenser les niveaux intermédiaires en points. Même exemple avec [_projectile magique_](/grimoire/projectile-magique/) mais de niveau Apprenti (5 projectiles à 1d6 de dégâts) pour un total de est de 22 PM (2 PM + 8 PM + 12 PM)
 
 ## Les rituels
 Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. **Cette version du sort demande 10 minutes de plus et utilise la moitié du pouvoir normalement requis. Le sort ne peut être lancée à plus haut niveau.**
@@ -106,11 +106,11 @@ Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire/) 
 Utiliser ou apprendre la Magie sans en posséder les prérequis est dangereux et coûteux. Les caractéristiques minimums demandées permettent normalement une bonne compréhension du sortilège et de ses contingences.
 Ainsi une personne qui souhaite apprendre un sort sans avoir la caractéristique minimal requise ajoute un multiplicateur (en temps et donc en coût) par palier nécessaire et manquant pour apprendre le sort.  
 
-Enfin utiliser un sort sans en posséder la caractéristique est extrêmement dangereux car il entraine la perte d'1d6 points par point de marge raté. Ses points sont soustraits dans un premier temps dans la jauge de magie, puis dans les autres jauges (Foi ou Magie, Honneur et Action) au choix du Narrateur.   
+Enfin utiliser un sort sans en posséder la caractéristique est extrêmement dangereux car il entraîne la perte d'1d6 points par point de marge raté. Ses points sont soustraits dans un premier temps dans la jauge de magie, puis dans les autres jauges (Foi ou Magie, Honneur et Action) au choix du Narrateur.   
 
 **Lancer un sort sans en posséder la caractéristique prérequise se fait toujours avec un désavantage.**  
 
-Par exemple : Un novice ambitieux, Nolden Branchenoir veux apprendre un sort d'apprenti malgré le fait qu'il n'ai que 12 en intelligence et que le prérequis est de 16. Les sorts d'aprenti sont deux paliers au dessus de celui de Novice (Disciple et Apprenti). Apprendre un sort dans ces conditions lui coutera donc 900 po (300 x 3po et une lune et demi : 3 demi lunes). Est ce que le jeu en vaut la chandelle? Pourtant il vient de la voie de la magie.   
+Par exemple : Un novice ambitieux, Nolden Branchenoir veux apprendre un sort d'apprenti malgré le fait qu'il n'ai que 12 en intelligence et que le prérequis est de 16. Les sorts d'apprenti sont deux paliers au dessus de celui de Novice (Disciple et Apprenti). Apprendre un sort dans ces conditions lui coûtera donc 900 po (300 x 3po et une lune et demi : 3 demi lunes). Est ce que le jeu en vaut la chandelle? Pourtant il vient de la voie de la magie.   
 
 ### Temps d'incantation
 Généralement, un sort se lance par une seule action, mais certains exigent une action bonus, une réaction ou encore plus de temps.
