@@ -144,6 +144,9 @@ title: Composantes magiques
 |Nom|Prix|Poids|Disponibilité|DD de négociation|
 |:-|:-:|:-:|:-:|:-:|
 ||||||
+|Héliotite|100 po|10 gr|Peu courant DD16|DD16|
+|Héliotite|300 po|20 gr|Rare DD22|DD22|
+|Héliotite|500 po|30 gr|Très rare 28 DD16|DD28|
 |Héliotrope|50 po|10 gr|Peu courant DD16|DD16|
 |Héliotrope|100 po|20 gr|Rare DD22|DD22|
 |Héliotrope|150 po|30 gr|Très rare 28 DD16|DD28|

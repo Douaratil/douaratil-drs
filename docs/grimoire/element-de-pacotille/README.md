@@ -1,6 +1,6 @@
 ---
 title: "Elément de pacotille"
-description: "Enchantement qui octroie une réserve de points d'action."
+description: "Enchantement qui octroie une réserve de points d'action contre les dégâts élémentaux."
 school: "Transmutation"
 level: 4
 concentration: false
