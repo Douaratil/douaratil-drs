@@ -26,4 +26,4 @@ Ce sort possède 4 variantes. Il permet à un organisme comme un arbre ou une fl
 - Pour l’automne, il suffit de faire sécher un chrysanthème et de l’exposer lors du crépuscule, tout en priant vers l’Ouest. La préparation peut être conservée jusqu’à ce que le sort soit jeté.  
 - Pour l’hiver, il suffit de récupérer un crâne humain et un crâne animal puis les exposer au nord.  La préparation peut être conservée jusqu’à ce que le sort soit jeté.  
 
-Pour que le sort opère il suffit de répandre la fumée ou la cendre sur l’organisme à dérégler, ou bien d’enterrer les chrysanthèmes séchés ou les crânes. Le sort ne dure qu’une saison. Un organisme prend 1 mois pour se dérégler et 1 mois pour se régler de nouveau sur un total de 4 mois.
+Pour que le sort opère il suffit de répandre la fumée ou la cendre sur l’organisme à dérégler, ou bien d’enterrer les chrysanthèmes séchés ou les crânes. Le sort ne dure qu’une saison. Un organisme prend 1 mois pour se dérégler et 1 mois pour se régler de nouveau sur un total de 3 mois.

@@ -15,11 +15,11 @@ components:
 ritual: false
 classes:
     - Magie
-Source: "Eric"
+source: "Elric"
 
 
 ---
 **Coût** : 12 points de Magie  
 
 Le sorcier doit tracer un cercle avec des flèches symbolisant les différents points cardinaux, puis poser les bras de noyés autour, droits, pointant l’extérieur du cercle.   
-Le nécromancien doit se mettre au milieu de ce cercle et incanter. Il doit retirer les ongles des morts, les mettre dans une lanterne et fixer les bras sur les côtés du bateau immergé dans l’eau. Tant que la lanterne contient les ongles et qu’elle se trouve sur le bateau alors l’embarcation se déplace toute seule sous les ordres du sorcier. Si jamais la lanterne se brise par malchance au milieu de la mer alors les bras détruisent l’embarcation pour se venger de leur asservissement, si elle se brise hors de l’eau alors les bras disparaissent tout simplement dans l’eau. Une petite embarcation nécessite 2 bras, une embarcation moyenne en nécessite 4, une grande embarcation en nécessite 8 et enfin une embarcation gigantesque en nécessite 15.
+Le nécromancien doit se mettre au milieu de ce cercle et incanter. Il doit retirer les ongles des morts, les mettre dans une lanterne et fixer les bras sur les côtés d'un bateau immergé dans l’eau. Tant que la lanterne contient les ongles et qu’elle se trouve sur le bateau alors l’embarcation se déplace toute seule sur les ordres du sorcier. Si jamais la lanterne se brise par malchance au milieu de la mer alors les bras détruisent l’embarcation pour se venger de leur asservissement. Si elle se brise hors de l’eau alors les bras disparaissent tout simplement dans l’eau. Une petite embarcation nécessite 2 bras, une embarcation moyenne en nécessite 4, une grande embarcation en nécessite 8 et enfin une embarcation gigantesque en nécessite 15.

@@ -14,6 +14,21 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 105
+- Ajout des sorts [Element béni](/grimoire/element-beni), [Element maudit](/grimoire/element-maudit), [Element de pacotille](/grimoire/element-de-pacotille).                                                                                                                                                                                                                                 
+§§§ .text-right
+_**Olivier**_,  
+_le 27 mai 2022_
+§§§
+
+## Mise à jour 104
+- Mise à jour des règles de [batailles](/batailles) (je dois encore les tester avec Elric et Charles)    
+- Corrections et précisions pour de nombreux sorts: ([Encre de tassos](/grimoire/encre-de-tassos), [Etanchéité](/grimoire/etancheite), [Etouffement](/grimoire/etouffement), [Feu véridique](/grimoire/feu-veridique), [Fil de vie](/grimoire/fil-de-vie), [Force des noyés](/grimoire/force-des-noyes), [Hors saison](/grimoire/hors-saison), [Hypersensibilité](/grimoire/hypersensibilite).                                                                                                                                                                                                                                 
+§§§ .text-right
+_**Olivier**_,  
+_le 26 mai 2022_
+§§§
+
 ## Mise à jour 103
 Bien moins visible que les mises à jour précédente, je fais ce point pour vous informer que le livre des rituels avance à un bon rythme. Le livre des joueurs est actuellement en cours de correction. Touts ces corrections sont aussi répercutées sur le site (fautes de frappe et fautes de français). Le projet continue ainsi d'avancer même si les changements sont plus discrets.                   
 §§§ .text-right
