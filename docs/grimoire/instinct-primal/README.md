@@ -21,4 +21,4 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  
 
-Ce sort permet de réveiller l’esprit animal en une cible, ce qui lui confère un avantage à tout les jets de sauvegarde de DEX, CON et FOR et dans les attaques, mais un désavantage à tout les jets de sauvegarde de SAG et INT et dans toutes les caractéristique qui sont basées sur l’INT et la SAG.   
+Ce sort permet de réveiller l’esprit animal en une cible, lui conférant un avantage à tous ses JS de DEX, CON et FOR et à toutes ses attaques, mais lui inflige un désavantage à tous ses JS de SAG et INT et dans toutes ses caractéristiques basées sur l’INT et la SAG.  
