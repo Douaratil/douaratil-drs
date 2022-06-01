@@ -6,4 +6,4 @@ rarity: "Rare"
 attunement: false
 
 ---
-Vous bénéficiez d'un bonus de +2 aux jets d'attaque effectués avec cette arme magique.
+Vous bénéficiez d'un bonus de +2 aux jets d'attaque et aux dégâts effectués avec cette arme magique.

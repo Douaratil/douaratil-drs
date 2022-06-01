@@ -6,4 +6,4 @@ rarity: "Rare"
 attunement: false
 
 ---
-Lorsque vous obtenez une marge de 10 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires du type normalement infligé par l'arme.
+Lorsque vous obtenez coup critique sur un jet d'attaque avec cette arme magique, vous infligez 2d6 dégâts supplémentaires du type normalement infligé par l'arme.

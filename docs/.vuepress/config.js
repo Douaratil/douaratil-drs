@@ -523,6 +523,11 @@ module.exports = {
                 path: '/objets-magiques/'
               },
               {
+                title: "Fabrication d'objets magiques",
+                icon: 'mdi-magic-staff',
+                path: '/fabricationd-objets-magiques/'
+              },
+              {
                 title: "Liste des objets magiques",
                 icon: 'mdi-script-text',
                 path: '/liste-objets-magiques/'

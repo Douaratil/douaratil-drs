@@ -5,4 +5,4 @@ subtype: "N'importe quelle arme"
 rarity: "Peu courant"
 attunement: false
 ---
-Vous bénéficiez d'un bonus de +1 aux jets d'attaque effectués avec cette arme magique.
+Vous bénéficiez d'un bonus de +1 aux jets d'attaque et aux dégâts effectués avec cette arme magique.
