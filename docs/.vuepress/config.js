@@ -525,7 +525,7 @@ module.exports = {
               {
                 title: "Fabrication d'objets magiques",
                 icon: 'mdi-magic-staff',
-                path: '/fabricationd-objets-magiques/'
+                path: '/fabrication-d-objets-magiques/'
               },
               {
                 title: "Liste des objets magiques",

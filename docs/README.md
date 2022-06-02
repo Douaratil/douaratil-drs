@@ -15,7 +15,7 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 107  
-- Ajout des règles de [fabrication des objets magiques](/fabrication-des-objets-magiques), avis aux amateurs.  
+- Ajout des règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques), avis aux amateurs.  
 - Corrections et précisions pour les objets magiques, ajoutant les coûts de fabrication éventuels pour les artisans amateurs.                                                                         
 §§§ .text-right
 _**Olivier**_,  
