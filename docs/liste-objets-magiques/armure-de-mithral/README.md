@@ -7,3 +7,8 @@ attunement: false
 
 ---
 Le mithral est un métal léger et flexible, à tel point qu'on peut porter une chemise de mailles ou une cuirasse de cette matière sous des vêtements normaux. Si le type d'armure impose d'ordinaire un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) ou si une certaine valeur de Force figure parmi ses conditions requises, ce n'est pas le cas de sa version en mithral.
+
+**Fabrication**  
+*Coût estimé*: Prix de l'objet × 20 po  
+*Temps estimé*: Une lunes
+*Points de pouvoir estimés*: 2000  

@@ -20,3 +20,8 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts.
 |**10**|Psychique|
 |**11**|Radiant|
 |**12**|Tonnerre|
+
+**Fabrication**  
+*Coût estimé*: Prix de l'objet × 50 po  
+*Temps estimé*: Trois lunes
+*Points de pouvoir estimés*: 5000  

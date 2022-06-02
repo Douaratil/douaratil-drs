@@ -6,4 +6,8 @@ rarity: "Rare"
 attunement: "harmonisation requise"
 
 ---
-Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L'amulette n'a aucun effet si votre Constitution est déjà de 19 ou plus.
+Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L'amulette n'a aucun effet si votre Constitution est déjà de 19 ou plus.  
+**Fabrication**  
+*Coût estimé*: 1000 po
+*Temps estimé*: Trois lunes
+*Points de pouvoir estimés*: 5000  

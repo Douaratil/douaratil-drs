@@ -10,4 +10,8 @@ Lorsque vous l'utilisez pour une attaque à distance, vous pouvez lui chuchoter 
 
 Quand vous faites une attaque à distance avec cet arc contre votre ennemi juré, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du test. De plus, votre cible ne tire aucun avantage d'un abri (à moins d'un abri total) et vous ne subissez pas de [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) s'il se trouve à longue portée. Si vous touchez, votre ennemi juré subit 3d6 dégâts perforants supplémentaires.
 
-Tant que vit votre ennemi juré, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de jets d'attaque effectués avec toutes les autres armes.
+Tant que vit votre ennemi juré, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de jets d'attaque effectués avec toutes les autres armes.  
+**Fabrication**  
+*Coût estimé*: 1000 po
+*Temps estimé*: Six lunes
+*Points de pouvoir estimés*: 15 000     

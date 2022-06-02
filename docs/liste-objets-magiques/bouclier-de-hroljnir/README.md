@@ -15,4 +15,9 @@ _**Bouclier magique**_. La targe de Hroljnir est un bouclier qui offre un bonus 
 _**Don des géants**_. Une fois harmonisé au bouclier, vous gagnez les bénéfices suivants :
 * Votre Force augmente de 2, avec un maximum de 24.
 * Vous parlez la langue ancienne des géants.
-* Lorsque vous effectuez une attaque avec une arme, vous pouvez utiliser une action bonus pour infliger 1d6 dommages supplémentaires de type acide, feu, froid, foudre ou poison, au choix.
+* Lorsque vous effectuez une attaque avec une arme, vous pouvez utiliser une action bonus pour infliger 1d6 dommages supplémentaires de type acide, feu, froid, foudre ou poison, au choix.   
+
+**Fabrication**  
+*Coût estimé*: Prix de l'objet × 1000 po  
+*Temps estimé*: Douze lunes
+*Points de pouvoir estimés*: 60 000    
