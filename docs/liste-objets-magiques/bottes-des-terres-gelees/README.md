@@ -13,5 +13,5 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 
 **Fabrication**  
 *Coût estimé*: 600 po  
-*Temps estimé*: Deux lunes
+*Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000    

@@ -22,6 +22,6 @@ Vous bénéficiez d'une résistance contre un type de dégâts tant que vous por
 |**12**|Tonnerre|Spinelle|
 
 **Fabrication**  
-*Coût estimé*: 500 po
-*Temps estimé*: Trois lunes
-*Points de pouvoir estimés*: 5000    
+*Coût estimé*: 500 po  
+*Temps estimé*: Trois lunes  
+*Points de pouvoir estimés*: 5000     

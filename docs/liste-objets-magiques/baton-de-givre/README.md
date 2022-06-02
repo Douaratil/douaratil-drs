@@ -14,5 +14,5 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 **Fabrication**  
 *Coût estimé*: 3000 po  
-*Temps estimé*: Six lunes
+*Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000    

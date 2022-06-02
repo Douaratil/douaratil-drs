@@ -10,5 +10,5 @@ Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la VD co
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 50 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

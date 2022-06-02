@@ -10,5 +10,5 @@ Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dép
 
 **Fabrication**  
 *Coût estimé*: 200 po  
-*Temps estimé*: Une lunes
+*Temps estimé*: Une lune  
 *Points de pouvoir estimés*: 2000  

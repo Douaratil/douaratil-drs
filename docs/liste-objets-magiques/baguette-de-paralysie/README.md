@@ -12,5 +12,5 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 **Fabrication**  
 *Coût estimé*: 500 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

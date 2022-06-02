@@ -14,5 +14,5 @@ _**Cône de terreur**_. Avec cette baguette en main, vous pouvez utiliser une ac
 
 **Fabrication**  
 *Coût estimé*: 500 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

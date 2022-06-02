@@ -10,5 +10,5 @@ Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moi
 
 **Fabrication**  
 *Coût estimé*: 600 po  
-*Temps estimé*: Deux lunes
+*Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000    

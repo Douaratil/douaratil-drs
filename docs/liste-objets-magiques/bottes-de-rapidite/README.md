@@ -11,5 +11,5 @@ Quand que vous portez ces bottes, vous pouvez utiliser une action bonus pour dou
 
 **Fabrication**  
 *Coût estimé*: 900 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    

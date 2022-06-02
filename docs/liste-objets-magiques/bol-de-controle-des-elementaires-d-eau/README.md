@@ -12,5 +12,5 @@ Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres 
 
 **Fabrication**  
 *Coût estimé*: 600 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000      

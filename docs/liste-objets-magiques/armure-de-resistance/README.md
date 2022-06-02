@@ -23,5 +23,5 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts.
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 50 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

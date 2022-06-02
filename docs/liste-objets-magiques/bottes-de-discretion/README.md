@@ -10,5 +10,5 @@ Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle
 
 **Fabrication**  
 *Coût estimé*: 600 po  
-*Temps estimé*: Deux lunes
+*Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000    

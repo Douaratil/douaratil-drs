@@ -19,5 +19,5 @@ _**Don des géants**_. Une fois harmonisé au bouclier, vous gagnez les bénéfi
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 1000 po  
-*Temps estimé*: Douze lunes
+*Temps estimé*: Douze lunes  
 *Points de pouvoir estimés*: 60 000    

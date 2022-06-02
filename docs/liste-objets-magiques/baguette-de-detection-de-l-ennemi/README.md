@@ -11,5 +11,5 @@ Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez util
 La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un 3d6 si vous dépensez la dernière charge. Si vous obtenez 6 ou moins, elle est détruite et tombe en cendres.
 **Fabrication**  
 *Coût estimé*: 500 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

@@ -12,6 +12,6 @@ Quand vous faites une attaque à distance avec cet arc contre votre ennemi juré
 
 Tant que vit votre ennemi juré, vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de jets d'attaque effectués avec toutes les autres armes.  
 **Fabrication**  
-*Coût estimé*: 1000 po
-*Temps estimé*: Six lunes
+*Coût estimé*: 1000 po  
+*Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000     

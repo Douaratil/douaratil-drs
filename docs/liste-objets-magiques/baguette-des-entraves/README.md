@@ -14,5 +14,5 @@ _**Évasion facilitée**_. Avec cette baguette en main, vous pouvez utiliser vot
 
 **Fabrication**  
 *Coût estimé*: 500 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

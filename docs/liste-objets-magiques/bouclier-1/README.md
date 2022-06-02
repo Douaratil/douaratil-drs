@@ -10,5 +10,5 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +1 à la VD. Ce
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 20 po  
-*Temps estimé*: Deux lunes
+*Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  

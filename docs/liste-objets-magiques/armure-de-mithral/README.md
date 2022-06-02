@@ -10,5 +10,5 @@ Le mithral est un métal léger et flexible, à tel point qu'on peut porter une 
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 20 po  
-*Temps estimé*: Une lunes
+*Temps estimé*: Une lune    
 *Points de pouvoir estimés*: 2000  

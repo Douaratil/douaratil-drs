@@ -18,5 +18,5 @@ _**Contrecoup vengeur**_. Vous pouvez utiliser une action pour briser le bâton 
 
 **Fabrication**  
 *Coût estimé*: 1500 po  
-*Temps estimé*: Trois lunes
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    

@@ -12,5 +12,5 @@ Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à co
 
 **Fabrication**  
 *Coût estimé*: 3000 po  
-*Temps estimé*: Six lunes
+*Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000    

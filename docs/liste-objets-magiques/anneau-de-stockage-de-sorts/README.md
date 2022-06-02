@@ -13,6 +13,6 @@ Toute personne peut lancer un sort dans l'anneau en le touchant au moment de l'i
 Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké à l'intérieur. Le sort utilise le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le sort, le bonus à l'attaque du sort et la caractéristique d'incantation de la créature qui l'a lancé mais, pour tous les autres paramètres, on considère que c'est vous qui lancez le sort. Le sort lancé depuis l'anneau n'est plus stocké à l'intérieur et libère ainsi de l'espace de stockage.  
 
 **Fabrication**  
-*Coût estimé*: 500 po
-*Temps estimé*: Trois lunes
+*Coût estimé*: 500 po  
+*Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    

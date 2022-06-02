@@ -10,5 +10,5 @@ Tant que vous tenez ce bouclier, vous vous obtenez l'[_avantage_](/utiliser-les-
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 100 po  
-*Temps estimé*: Six lunes
+*Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000  
