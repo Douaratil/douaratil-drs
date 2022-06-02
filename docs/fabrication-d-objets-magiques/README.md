@@ -68,7 +68,7 @@ Les parchemins sont à usage unique. Les potions sont généralement à usage un
 |**[Artefact](/liste-objets-magiques/?raretes=Artefact)**|6000|35|Trois lunes lunes|10d6%|
 
 ## Limite de pouvoir sur les objets.  
-Les objets magiques peuvent posséder plusieurs pouvoirs. Tout dépend de leur type. Les seules exceptions sont les potions et les parchemins qui  n'ont qu'un seul pouvoir.  
+Si le joueur souhaite créer ses propres objets magiques, il devra se conformer à quelques limites.  Les objets magiques peuvent posséder plusieurs pouvoirs. Tout dépend de leur type. Les seules exceptions sont les potions et les parchemins qui  n'ont qu'un seul pouvoir.  
 
 |Rareté|Nombre de pouvoirs maximum|
 |:-:|:-:|

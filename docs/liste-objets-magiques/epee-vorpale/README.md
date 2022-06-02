@@ -6,6 +6,11 @@ rarity: "Légendaire"
 attunement: "harmonisation requise"
 
 ---
-Vous obtenez un bonus de +3 aux jets d'attaque effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.
+Vous obtenez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.
 
-Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez une marge de 10 au jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.
+Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez un un coup critique jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.
+
+**Fabrication**  
+*Coût estimé*: Prix de l'épée x 500 po    
+*Temps estimé*: Neuf lunes  
+*Points de pouvoir estimés*: 16 000        

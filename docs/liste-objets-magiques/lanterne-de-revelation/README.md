@@ -6,4 +6,9 @@ rarity: "Peu courant"
 attunement: false
 
 ---
-Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en consommant 0,5 litre d'huile. Elle émet alors une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) situés dans la zone de vive lumière de la lanterne deviennent visibles. Vous pouvez utiliser une action pour baisser la capote et réduire la luminosité à une faible lumière dans un rayon de 1,50 mètre.
+Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en consommant 0,5 litre d'huile. Elle émet alors une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) situés dans la zone de vive lumière de la lanterne deviennent visibles. Vous pouvez utiliser une action pour baisser la capote et réduire la luminosité à une faible lumière dans un rayon de 1,50 mètre.  
+
+**Fabrication**  
+*Coût estimé*: 200 po    
+*Temps estimé*: Deux lunes  
+*Points de pouvoir estimés*: 2000          

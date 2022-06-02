@@ -22,4 +22,9 @@ Ce mince cierge est dédié à une divinité précise et partage son alignement.
 
 La magie du cierge s'active quand on l'allume, ce qui demande une action. Il est détruit après 4 heures de combustion. Vous pouvez l'éteindre avant pour le réutiliser plus tard. Déduisez chaque période de combustion (par portions d'une minute) de la durée totale de combustion du cierge.
 
-Tant que le cierge est allumé, il émet une faible lumière dans un rayon de 9 mètres. Chaque créature baignée dans cette lumière et disposant du même alignement que le cierge obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de sauvegarde ainsi que lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, un utilisateur de la voie de la Magie présent dans la lumière et disposant du même alignement que le cierge peut lancer les sorts à la moitié du coût normal sans jamais être inférieur à 1.
+Tant que le cierge est allumé, il émet une faible lumière dans un rayon de 9 mètres. Chaque créature baignée dans cette lumière et disposant du même alignement que le cierge obtient l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de sauvegarde ainsi que lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, un utilisateur de la voie de la Magie présent dans la lumière et disposant du même alignement que le cierge peut lancer les sorts à la moitié du coût normal sans jamais être inférieur à 1.  
+
+**Fabrication**  
+*Coût estimé*: 1000 po    
+*Temps estimé*: Six lunes  
+*Points de pouvoir estimés*: 5000    

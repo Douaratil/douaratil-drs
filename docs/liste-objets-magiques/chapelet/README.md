@@ -17,3 +17,8 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 |**9-11**|Faveur|[_Restauration supérieure_](/grimoire/restauration-superieure/)|
 |**12-14**|Châtiment|[_Frappe lumineuse_](/grimoire/frappe-lumineuse/)|
 |**15-18**|Convocations|[_Allié planaire_](/grimoire/allie-planaire/)|
+
+**Fabrication**  
+*Coût estimé*: 900 po    
+*Temps estimé*: Trois lunes  
+*Points de pouvoir estimés*: 5000    

@@ -29,3 +29,8 @@ Le sort [_identification_](/grimoire/identification/) révèle si la flasque con
 |**22**|[Planétar](/bestiaire/planetar/)|
 |**23**|[Solar](/bestiaire/solar/)|
 |**24**|[Shukkushe-Ikhushe](/bestiaire/shukkushe-ikhushe/)|
+
+**Fabrication**  
+*Coût estimé*: 10 000 po    
+*Temps estimé*: Neuf lunes  
+*Points de pouvoir estimés*: 16 000       

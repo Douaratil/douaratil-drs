@@ -10,3 +10,8 @@ Cette flûte d'apparence banale permet de jouer des airs qui influent sur l'audi
 - Test de musique DD 12 : 2 X par jour [amitié avec les animaux](/grimoire/amitie-avec-les-animaux)
 - Test de musique DD 12 : 2 X par jour [bagou](/grimoire/bagou)
 - Test de musique DD 16 : 2 X par jour [charme personne](/grimoire/charme-personne)
+
+**Fabrication**  
+*Coût estimé*: 100 po    
+*Temps estimé*: Trois lunes  
+*Points de pouvoir estimés*: 5000      
