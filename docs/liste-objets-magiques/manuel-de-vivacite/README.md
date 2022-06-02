@@ -6,4 +6,9 @@ rarity: "Très rare"
 attunement: false
 
 ---
-Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Dextérité augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.
+Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont chargés de magie. Si vous passez 48 heures sur une période de 6 jours au moins à étudier ce livre et appliquer ses conseils, votre valeur de Dextérité augmente de 2, tout comme votre maximum pour cette valeur. Le manuel perd alors toute magie mais elle se recharge au bout d'un siècle.   
+
+**Fabrication**  
+*Coût estimé*: 12 500 po    
+*Temps estimé*: Six lunes  
+*Points de pouvoir estimés*: 15 000        
