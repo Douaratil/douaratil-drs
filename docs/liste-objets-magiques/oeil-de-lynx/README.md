@@ -6,4 +6,9 @@ rarity: "Peu courant"
 attunement: "harmonisation requise"
 
 ---
-Cette pierre oeil de lynx se place devant les yeux. Quand vous regardez au travers, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue. Si la visibilité est bien dégagée, vous percevez tous les détails des créatures et des objets, même très éloignés, à conditions que ces créatures et objets fassent au moins 60 centimètres de large.
+Cette pierre oeil de lynx se place devant les yeux. Quand vous regardez au travers, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue. Si la visibilité est bien dégagée, vous percevez tous les détails des créatures et des objets, même très éloignés, à conditions que ces créatures et objets fassent au moins 60 centimètres de large.  
+
+**Fabrication**  
+*Coût estimé*: 400 po    
+*Temps estimé*: Deux lunes  
+*Points de pouvoir estimés*: 2000          

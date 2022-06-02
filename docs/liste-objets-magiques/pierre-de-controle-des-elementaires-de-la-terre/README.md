@@ -6,4 +6,9 @@ rarity: "Rare"
 attunement: false
 
 ---
-Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour prononcer son mot de commande et convoquer un élémentaire de la Terre, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Il faut attendre l'aube suivante avant de pouvoir réutiliser la pierre. Elle pèse 2,5 kilos.
+Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour prononcer son mot de commande et convoquer un élémentaire de la Terre, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Il faut attendre l'aube suivante avant de pouvoir réutiliser la pierre. Elle pèse 2,5 kilos.  
+
+**Fabrication**  
+*Coût estimé*: 1500 po    
+*Temps estimé*: Trois lune  
+*Points de pouvoir estimés*: 5000       

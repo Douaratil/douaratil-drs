@@ -20,3 +20,8 @@ Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1
 |**10**|Psychique|
 |**11**|Radiant|
 |**12**|Tonnerre|
+
+**Fabrication**  
+*Coût estimé*: 100 po    
+*Temps estimé*: Trois nuits  
+*Points de pouvoir estimés*: 200   

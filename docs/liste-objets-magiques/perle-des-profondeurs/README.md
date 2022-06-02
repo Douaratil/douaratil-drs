@@ -18,4 +18,9 @@ _**Appel du kraken**_. Si vous êtes harmonisé à la perle et immergé dans l'o
 
 _**Malédiction**_. Une fois harmonisé à la perle, vous subissez sa malédiction : votre peau se noircie et craquelle et vos doigts deviennent crochus et difformes. Vous devez vous immerger complètement dans l'eau de mer chaque jour ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos actions. Au terme du dixième jour sans vous immerger, vous mourez. La malédiction reste même si vous n'êtes plus harmonisé à la perle. Le seul moyen de s'en débarrasser est d'utiliser les sorts [_lever une malédiction_](/grimoire/lever-une-malediction/) ou [_restauration supérieure_](/grimoire/restauration-superieure/).
 
-_**Détruire la perle**_. Le sang d'un Solar a créé la perle, seul le sang de son ennemi peut la détruire. La perle doit être immergée pendant une heure dans un litre de sang de [kraken](/bestiaire/kraken/) par au moins 100 mètres de profondeur pour être détruite.
+_**Détruire la perle**_. Le sang d'un Solar a créé la perle, seul le sang de son ennemi peut la détruire. La perle doit être immergée pendant une heure dans un litre de sang de [kraken](/bestiaire/kraken/) par au moins 100 mètres de profondeur pour être détruite.  
+
+**Fabrication**  
+*Coût estimé*: 20 000 po    
+*Temps estimé*: Douze lunes  
+*Points de pouvoir estimés*: 60 000           

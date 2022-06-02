@@ -6,4 +6,9 @@ rarity: "Légendaire"
 attunement: false
 
 ---
-Quand vous buvez cette potion, votre valeur de Force est égale à 29 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.
+Quand vous buvez cette potion, votre valeur de Force est égale à 29 pendant 1 heure. La potion n'a aucun effet si votre Force est déjà égale ou supérieure à cette valeur.  
+
+**Fabrication**  
+*Coût estimé*: 1000 po    
+*Temps estimé*: Deux lunes  
+*Points de pouvoir estimés*: 3000        
