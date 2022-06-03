@@ -81,3 +81,27 @@ Si le joueur souhaite créer ses propres objets magiques, il devra se conformer 
 |**Parchemin**|1|
 |**Potion**|1|
 |**Sceptre**|3|
+
+### Anneau  
+Les anneaux peuvent posséder trois enchantements sans distinction.   
+### Armes
+Les armes peuvent bénéficier de trois enchantements.  
+- Le premier est toujours le bonus au toucher et aux dégâts. Les armes en bois sont limitées à un bonus de +1. Les armes métalliques à un bonus de +1 à +3. Il existe cependant des exceptions, les épées peuvent atteindre les +5. Les haches et les masses peuvent atteindre les +4.  
+- Le second pouvoir peut être un attribut spécial et/ou la caractéristique sacrée ou tueuse.  
+- Le troisième pouvoir est la caractéristique sacrée ou tueuse.  
+### Armures  
+Les armures peuvent bénéficier de deux enchantements.  
+- Le premier est toujours le bonus à la valeur de défense. Les armures légères sont limitées à un bonus de +1. Les armures intermédiaires à un bonus de +1 à +3. Les armures lourdes à un bonus de +1 à +4.  
+- Le second pouvoir peut être un attribut spécial.  
+### Baguette  
+Les baguettes peuvent posséder trois enchantements sans distinction.
+### Bâton
+Les bâtons peuvent posséder quatre enchantements sans distinction. Si le bâton est utilisé comme arme, il doit respecter les règles des armes, même s'il possède des pouvoirs supplémentaires.  
+### Objet merveilleux
+Les objets merveilleux peuvent posséder trois enchantements sans distinction.
+### Parchemin
+Les parchemin peuvent posséder un enchantements correspondant à un sort.
+### Potion
+Les potions peuvent posséder un enchantements correspondant à un sort (limité à un effet sur soi même) ou un pouvoir spécial.
+### Sceptre
+Les sceptre peuvent posséder trois enchantements sans distinction. Si le sceptre est utilisé comme arme, il doit respecter les règles des armes, même s'il possède des pouvoirs supplémentaires.  

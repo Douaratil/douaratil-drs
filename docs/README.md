@@ -14,6 +14,18 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 108  
+- Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
+Ajout de nouveaux objets magiques et de leur description :
+- Armes légères: [Bâton+1](/liste-objets-magiques/baton-1),[Dague+1](/liste-objets-magiques/dague-1), [Dague+2](/liste-objets-magiques/dague-2), [Dague+3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
+[Javeline +3](/liste-objets-magiques/javeline-3), [Lance +1](/liste-objets-magiques/lance-1), [Lance +2](/liste-objets-magiques/lance-2), [Lance +3](/liste-objets-magiques/lance-3), [Marteau léger +1](/liste-objets-magiques/marteau-leger-1), [Marteau léger +2](/liste-objets-magiques/marteau-leger-2), [Marteau léger +3](/liste-objets-magiques/marteau-leger-3), [Masse d'arme +1](/liste-objets-magiques/masse-d-arme-1), [Masse d'arme +2](/liste-objets-magiques/masse-d-arme-2), [Masse d'arme +3](/liste-objets-magiques/masse-d-arme-3), [Massue +1](/liste-objets-magiques/massue-1), [Serpe +1](/liste-objets-magiques/serpe-1), [Serpe +2](/liste-objets-magiques/serpe-2),
+[Serpe +3](/liste-objets-magiques/serpe-3)                           
+
+§§§ .text-right
+_**Olivier**_,  
+_le 3 juin 2022_
+§§§
+
 ## Mise à jour 107  
 - Ajout des règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques), avis aux amateurs.  
 - Corrections et précisions pour les objets magiques, ajoutant les coûts de fabrication éventuels pour les artisans amateurs.                                                                         

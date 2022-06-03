@@ -6,9 +6,9 @@ rarity: "Très rare"
 attunement: "harmonisation requise"  
 
 ---
-**Toucher**: -     
-**Dégâts**: 1d6     
-La dague est infusée de deux Omaths magiques. Le premier donne un bonus de +1. Le second permet de lancer sa dague dans la limite de la portée et de la rappeler dans le même round ou au suivant au prix d'une action bonus tant que le lanceur se trouve dans la portée.  
+**Toucher**: +1     
+**Dégâts**: 1d6+1 perforant (Finesse, légère, lancer (portée 6/18))       
+La dague est infusée de deux Omaths magiques. Le premier donne un bonus de +1 au toucher et aux dégâts. Le second permet de lancer sa dague dans la limite de la portée et de la rappeler dans le même round ou au suivant au prix d'une action bonus tant que le lanceur se trouve dans la portée.  
 
 **Fabrication**  
 *Coût estimé*: 1000 po    
