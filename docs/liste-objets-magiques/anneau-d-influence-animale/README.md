@@ -10,6 +10,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 * [_Amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) (DD des jets de sauvegarde contre le sort 13)
 * [_Peur_](/grimoire/peur/) (DD des jets de sauvegarde contre le sort 13). Seules les bêtes dotées d'une Intelligence de 3 ou moins peuvent être ciblées par ce sort.
 * [_Communication avec les animaux_](/grimoire/communication-avec-les-animaux/)   
+
 **Fabrication**  
 *Coût estimé*: 500 po  
 *Temps estimé*: Trois lunes  

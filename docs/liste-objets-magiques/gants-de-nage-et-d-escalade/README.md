@@ -6,7 +6,7 @@ rarity: "Peu courant"
 attunement: "harmonisation requise"
 
 ---
-Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.
+Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.  
 
 **Fabrication**  
 *Coût estimé*: 1000 po  

@@ -6,7 +6,7 @@ rarity: "Très rare"
 attunement: false
 
 ---
-Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +3 à la VD. Ce bonus vient en plus du bonus normal à la VD que le bouclier confère.
+Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus de +3 à la VD. Ce bonus vient en plus du bonus normal à la VD que le bouclier confère.  
 
 **Fabrication**  
 *Coût estimé*: Prix de l'objet × 100 po  

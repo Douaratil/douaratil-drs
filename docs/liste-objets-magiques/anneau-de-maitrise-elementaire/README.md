@@ -35,6 +35,7 @@ _**Anneau de maîtrise élémentaire du Feu**_. Vous pouvez dépenser 2 des char
 Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'anneau, vous avez accès aux propriétés supplémentaires suivantes :
 * Vous êtes immunisé aux dégâts de feu.
 * Vous pouvez lancer les sorts suivants grâce à l'anneau en dépensant le nombre nécessaire de charges : [_mains brûlantes_](/grimoire/mains-brulantes/) (1 charge) et [_mur de chaleur_](/grimoire/mur-de-chaleur/) (3 charges).  
+
 **Fabrication**  
 *Coût estimé*: 5000 po  
 *Temps estimé*: Neuf lunes  
