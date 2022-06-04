@@ -3,7 +3,7 @@ title: "Dague assassyr'him"
 type: "Arme"
 subtype: false
 rarity: "Très rare"
-attunement: false
+attunement: "harmonisation requise"
 
 ---
 **Toucher**: -     

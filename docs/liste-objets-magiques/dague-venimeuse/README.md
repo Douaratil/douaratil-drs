@@ -3,7 +3,7 @@ title: "Dague venimeuse"
 type: "Arme"
 subtype: "Dague"
 rarity: "Rare"
-attunement: false
+attunement: "harmonisation requise" 
 
 ---
 **Toucher**: +1      

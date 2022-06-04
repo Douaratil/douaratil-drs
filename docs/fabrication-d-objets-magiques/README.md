@@ -69,6 +69,7 @@ Les parchemins sont à usage unique. Les potions sont généralement à usage un
 
 ## Limite de pouvoir sur les objets.  
 Si le joueur souhaite créer ses propres objets magiques, il devra se conformer à quelques limites.  Les objets magiques peuvent posséder plusieurs pouvoirs. Tout dépend de leur type. Les seules exceptions sont les potions et les parchemins qui  n'ont qu'un seul pouvoir.  
+Les armes et les armures qui possèdent plusieurs pouvoirs demandant toujours d'être harmonisées.   
 
 |Rareté|Nombre de pouvoirs maximum|
 |:-:|:-:|
