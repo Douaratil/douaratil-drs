@@ -1,16 +1,16 @@
 ---
-title: "Hachette +2"
+title: "Hache d'armes à deux mains +2"
 type: "Arme"
-subtype: "Hachette"
+subtype: "Hache d'armes à deux mains"
 rarity: "Rare"
 attunement: false
 
 ---
 **Toucher**: +2  
-**Dégâts**:2d6+2 tranchant (Légère, lancer (portée 6/18))    
+**Dégâts**:3d6+2 tranchant (Lourde, à deux mains)  
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
-*Coût estimé*: 250 po  
+*Coût estimé*: 1500 po  
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000  

@@ -14,12 +14,28 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 109
+- Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
+Ajout de nouveaux objets magiques et de leur description :
+- Armes à distance légère: [Arc court +1](/liste-objets-magiques/arc-court-1), [Arc court +2](/liste-objets-magiques/arc-court-2), [Arc court +3](/liste-objets-magiques/arc-court-3), [Bolas +1](/liste-objets-magiques/bolas-1), [Fléchettes +1](/liste-objets-magiques/flechettes-1), [Fronde +1](/liste-objets-magiques/fronde-1).  
+- Armes de guerre: [Cimeterre +1](/liste-objets-magiques/cimeterre-1), [Cimeterre +2](/liste-objets-magiques/cimeterre-2), [Cimeterre +3](/liste-objets-magiques/cimeterre-3), [Epée à deux mains +1](/liste-objets-magiques/epee-a-deux-mains-1), [Epée à deux mains +2](/liste-objets-magiques/epee-a-deux-mains-2), [Epée à deux mains +3](/liste-objets-magiques/epee-a-deux-mains-3), [Epée courte  +1](/liste-objets-magiques/epee-courte-1), [Epée courte  +2](/liste-objets-magiques/epee-courte-2), [Epée courte  +3](/liste-objets-magiques/epee-courte-3), [Epée longue +1](/liste-objets-magiques/epee-longue-1), [Epée longue +2](/liste-objets-magiques/epee-longue-2), [Epée longue +3](/liste-objets-magiques/epee-longue-3), [Fléau +1](/liste-objets-magiques/fleau-1), [Fléau +2](/liste-objets-magiques/fleau-2),
+ [Fléau +3](/liste-objets-magiques/fleau-3), [Fouet +1](/liste-objets-magiques/fouet-1),[Hache d'armes à deux mains +1](/liste-objets-magiques/hache-d-armes-a-deux-mains-1), [Hache d'armes à deux mains +2](/liste-objets-magiques/hache-d-armes-a-deux-mains-2), [Hache d'armes à deux mains +3](/liste-objets-magiques/hache-d-armes-a-deux-mains-3)    
+
+ Bon jeu.           
+
+§§§ .text-right
+_**Olivier**_,  
+_le 4 juin 2022_
+§§§
+
 ## Mise à jour 108  
 - Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
 Ajout de nouveaux objets magiques et de leur description :
-- Armes légères: [Bâton+1](/liste-objets-magiques/baton-1),[Dague+1](/liste-objets-magiques/dague-1), [Dague+2](/liste-objets-magiques/dague-2), [Dague+3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
+- Armes légères: [Bâton +1](/liste-objets-magiques/baton-1),[Dague +1](/liste-objets-magiques/dague-1), [Dague +2](/liste-objets-magiques/dague-2), [Dague +3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
 [Javeline +3](/liste-objets-magiques/javeline-3), [Lance +1](/liste-objets-magiques/lance-1), [Lance +2](/liste-objets-magiques/lance-2), [Lance +3](/liste-objets-magiques/lance-3), [Marteau léger +1](/liste-objets-magiques/marteau-leger-1), [Marteau léger +2](/liste-objets-magiques/marteau-leger-2), [Marteau léger +3](/liste-objets-magiques/marteau-leger-3), [Masse d'arme +1](/liste-objets-magiques/masse-d-arme-1), [Masse d'arme +2](/liste-objets-magiques/masse-d-arme-2), [Masse d'arme +3](/liste-objets-magiques/masse-d-arme-3), [Massue +1](/liste-objets-magiques/massue-1), [Serpe +1](/liste-objets-magiques/serpe-1), [Serpe +2](/liste-objets-magiques/serpe-2),
-[Serpe +3](/liste-objets-magiques/serpe-3)                           
+[Serpe +3](/liste-objets-magiques/serpe-3)    
+
+Bon jeu.                         
 
 §§§ .text-right
 _**Olivier**_,  
@@ -28,171 +44,14 @@ _le 3 juin 2022_
 
 ## Mise à jour 107  
 - Ajout des règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques), avis aux amateurs.  
-- Corrections et précisions pour les objets magiques, ajoutant les coûts de fabrication éventuels pour les artisans amateurs.                                                                         
+- Corrections et précisions pour les objets magiques, ajoutant les coûts de fabrication éventuels pour les artisans amateurs.   
+Bon jeu.                                                                                 
 §§§ .text-right
 _**Olivier**_,  
 _le 2 juin 2022_
 §§§
 
-## Mise à jour 106  
-- Corrections et précisions pour de nombreux sorts: [Instinct primal](/grimoire/instinct-primal), [Main de l'air](/grimoire/main-de-l-air), [Miroir du Douargwar](/grimoire/miroir-du-douargwar).   
-- Ajout des sorts [Insensibilité](/grimoire/insensibilite), [Invisibilité de la dernière chance](/grimoire/invisibilite-de-la-derniere-chance), [invisibilite-du-dernier-recours](/grimoire/invisibilite-du-dernier-recours), [Larme de glace](/grimoire/larme-de-glace), [Miroir pétrifiant](/grimoire/miroir-petrifiant), [Nuée d'oiseaux](/grimoire/nuee-d-oiseaux), [Nuit limpide](/grimoire/nuit-limpide).                                                                                                
-§§§ .text-right
-_**Olivier**_,  
-_le 30 mai 2022_
-§§§
 
-## Mise à jour 105
-- Ajout des sorts [Element béni](/grimoire/element-beni), [Element maudit](/grimoire/element-maudit), [Element de pacotille](/grimoire/element-de-pacotille), [Fer béni](/grimoire/fer-beni), [Fer maudit](/grimoire/fer-maudit), [Fer mou](/grimoire/fer-mou), [Feu d'eau](/grimoire/feu-d-eau), [Flamme espionne](/grimoire/flamme-espionne), [Flamme glissante](/grimoire/flamme-glissante), [Flamme persistante](/grimoire/flamme-persistante), [Hors-monde](/grimoire/hors-monde), [Hors-temps](/grimoire/hors-temps), [Hydro-vampirisme](/grimoire/hydro-vampirisme), [Hypoesthésie](/grimoire/hypoesthesie).                                                                                                                                                                                                                                 
-§§§ .text-right
-_**Olivier**_,  
-_le 27 mai 2022_
-§§§
-
-## Mise à jour 104
-- Mise à jour des règles de [batailles](/batailles) (je dois encore les tester avec Elric et Charles)    
-- Corrections et précisions pour de nombreux sorts: ([Encre de tassos](/grimoire/encre-de-tassos), [Etanchéité](/grimoire/etancheite), [Etouffement](/grimoire/etouffement), [Feu véridique](/grimoire/feu-veridique), [Fil de vie](/grimoire/fil-de-vie), [Force des noyés](/grimoire/force-des-noyes), [Hors saison](/grimoire/hors-saison), [Hypersensibilité](/grimoire/hypersensibilite).                                                                                                                                                                                                                                 
-§§§ .text-right
-_**Olivier**_,  
-_le 26 mai 2022_
-§§§
-
-## Mise à jour 103
-Bien moins visible que les mises à jour précédente, je fais ce point pour vous informer que le livre des rituels avance à un bon rythme. Le livre des joueurs est actuellement en cours de correction. Touts ces corrections sont aussi répercutées sur le site (fautes de frappe et fautes de français). Le projet continue ainsi d'avancer même si les changements sont plus discrets.                   
-§§§ .text-right
-_**Olivier**_,  
-_le 24 mai 2022_
-§§§
-
-## Mise à jour 102
-- Mise à jour de [Knut Svenson](/bestiaire/knut-svenson)         
-- Mise à jour de [Tiberius Don Alonzon](/bestiaire/tiberius-don-alonzo)                     
-§§§ .text-right
-_**Olivier**_,  
-_le 16 mai 2022_
-§§§
-
-## Mise à jour 101
-- Corrections et précisions pour de nombreux sorts ([Bouclier personnel](/grimoire/bouclier-personnel), [Bougie inversée](/grimoire/bougie-inversee), [Boule de neige](/grimoire/boule-de-neige), ([Boussole mentale](/grimoire/boussole-mentale), [Brume d'antre](/grimoire/brume-d-antre), [Brume glaciale](/grimoire/brume-glaciale), [Cachette des racines](/grimoire/cachette-des-racines), [Cave mémorielle](/grimoire/cave-memorielle), [Chanceux](/grimoire/chanceux), [Charge d'épée](/grimoire/charge-d-epee), ([Coup au fer blanc](/grimoire/coup-au-fer-blanc), [Coup de poing de cuivre](/grimoire/coup-de-poing-de-cuivre), [Dégradation magique](/grimoire/degradation-magique), [Déperlance](/grimoire/deperlance)).
-- Ajout du sort [Bâton de lumière](/grimoire/baton-de-lumiere) d'Elric.   
-- Ajout du sort [Destination trompeuse](/grimoire/destination-trompeuse) d'Elric.                     
-- Ajout du sort [Dévastation magique](/grimoire/devastation-magique) d'Elric.                   
-- Ajout du sort [Dévastation spirituelle](/grimoire/devastation-spirituelle) d'Elric.                        
-§§§ .text-right
-_**Olivier**_,  
-_le 10 mai 2022_
-§§§
-
-## Mise à jour 100
-- Lancement de la conception du deuxième livre : le livre des rituels qui contiendra toutes les règles pour lancer des sortilèges, la listes des rituels ainsi que les prix de la plus part des composants courants.   
-- Révision progressive des règles de [commerce](/commerce), la première mouture crée par Georges est à mon avis trop simulationiste. Elle intègre des paramètres très intéressants qui ont fait avancer ma réflexion sur le sujet.   
-Bon jeu.  
-- Précision sur les taux de change et les commissions dans la page du [Système monétaire](/equipement/systeme-monetaire).  
-- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon)   
-- Mise à jour succincte des chroniques [Miz Favros 722](/chroniques/miz-favros-722)
-- Mise à jour succincte des chroniques [Miz Morz 722](/chroniques/miz-morz-722)
-- Mise à jour succincte des chroniques [Miz Ebrel 722](/chroniques/miz-ebrel-722)
-§§§ .text-right
-_**Olivier**_,  
-_le 5 mai 2022_
-§§§
-
-## Mise à jour 99
-- Correction de liens cassés.   
-- Création du personnage [Talos Virato](/bestiaire/talos-virato)  
-- Mise à jour de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon)    
-- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano)    
-- Mise à jour de [Yan Zin](/bestiaire/yan-zin)
-- Révision des chroniques [Miz Du 720](/chroniques/miz-du-720)
-- Révision des chroniques [Miz Kerzu 720](/chroniques/miz-kerzu-720)
-- Révision des chroniques [Miz Genver 721](/chroniques/miz-genver-721)
-- Révision des chroniques [Miz Favros 721](/chroniques/miz-favros-721)
-
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 2 mai 2022_
-§§§
-
-## Mise à jour 98
-- Finalisation du livre des joueurs version PDF et papier. J'ai commandé deux exemplaires pour corriger les dernières coquilles. Attendons les objets pour en évaluer la qualité.  
-- Corrections et précisions pour de nombreux sorts ([Aéromancie](/grimoire/aeromancie), [Air magique](/grimoire/air-magique), [Amphore magique](/grimoire/amphore-magique), [Anosmie/Agueusie](/grimoire/anosmie-agueusie), [Appel de la pluie](/grimoire/appel-de-la-pluie), [Arme d'électrocution](/grimoire/arme-d-electrocution), [Asphyxie](/grimoire/asphyxie), [Ataxie/Désafférentation](/grimoire/ataxie-desafferentation), [Atmosphère électrique](/grimoire/atmosphere-electrique), [Atmosphère vertueuse](/grimoire/atmosphere-vertueuse), [Attiser les flammes](/grimoire/attiser-les-flammes)).   
-- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc)  
-- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)  
-- Mise à jour de [Thorleik Aevarson](/bestiaire/throleik-aevarson)  
-- Ajout du sort [Achever les mourants](/grimoire/achever-les-mourants) d'Elric.    
-- Ajout du sort [Aiguilles glaciales](/grimoire/aiguilles-glaciales) d'Elric.    
-- Ajout du sort [Anéantissement partiel](/grimoire/aneantissement-partiel) d'Elric.  
-- Ajout du sort [Appel renforcé de la pluie](/grimoire/appel-renforce-de-la-pluie) d'Elric.  
-- Ajout du sort [Arbre sacré](/grimoire/arbre-sacre) d'Elric.  
-- Ajout du sort [Arme prédestinée](/grimoire/arme-predestinee) d'Elric.  
-- Ajout du sort [Âtres liés](/grimoire/atres-lies) d'Elric.  
-- Ajout du sort [Furoncles](/grimoire/furoncles)  
-- Ajout du sort [Langue bleue](/grimoire/langue-bleue)  
-- Simplification des règles de domaine et de colonie. L'idée est de se rapprocher d'une gestion simplifiée comme les intermèdes de patrimoine. La gestion trop simulationiste et stratégique interfère négativement sur la narration et le roleplaying.    
-- Précisions des règles dans le chapitre intermède avec définition des phases de jeu.    
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 1 mai 2022_
-§§§
-
-## Mise à jour 97
-- Avancement du livre des joueurs version PDF et papier.  
-- Ajout de l'archétype [Zhongdhou](/archetypes/zhongdhou) d'après le travail d'Elric
-- Finalisation de l'archétype du [Sorser](/archetypes/sorser)
-- Ajout du sort [Coercition du sorser](/grimoire/coercition-du-sorser)
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 26 avril 2022_
-§§§
-
-## Mise à jour 96
-- Ajout de l'illustration du [Dunkleosteus](/bestiaire/dunkleosteus)
-- Ajout de l'illustration de la [Goule](/bestiaire/goule)
-- Ajout de l'illustration du [Leedschithys](/bestiaire/leedschithys)
-- Ajout de l'illustration de l'[Ours brun](/bestiaire/ours-brun)
-- Ajout de l'illustration du [Requin anguille](/bestiaire/requin-anguille)
-- Ajout de l'illustration du [Xiphactinus](/bestiaire/xiphactinus)
-
-Merci à mes soutiens suite à mon annonce sur le site [Gchange](https://www.gchange.fr/#/app/market/view/AYBMlKEHKBAvm3O0htCU/soutien-pour-un-jeux-de-rle-et-romans).
-Merci donc à [Estienne Dunord](https://demo.cesium.app/#/app/wot/EV4yZXAgmDd9rMsRCSH2MK7RHWty7CDB9tmHku3iRnEB/EstienneDunord), [Etk](https://demo.cesium.app/#/app/wot/9ZbSdtUr93zdRR26939iHu2WHAUk7qs4WVnNTg3g4miy/EtK) et [Foxlin Lyre](https://demo.cesium.app/#/app/wot/7wHqHDZGRzEMxoJFgNtagZPo2ZpEXcb5cBPkx4TG729E/F0xl1n).
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 23 avril 2022_
-§§§  
-
-## Mise à jour 95
-- Révision de l'archétype du Sorsers.  
-- Ajout du sort [Peur du Sorser](/grimoire/peur-du-sorser)
-- Ajout du [Dunkleosteus](/bestiaire/dunkleosteus)
-- Ajout du [Leedschithys](/bestiaire/leedschithys)
-- Ajout du [Requin anguille](/bestiaire/requin-anguille)
-- Ajout du [Xiphactinus](/bestiaire/xiphactinus)
-
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 20 avril 2022_
-§§§  
-
-## Mise à jour 94
-- La préparation de la version papier du livre des joueurs est toujours en cours mais prends plus de temps que prévu.
-- Elric travaille sur une variante asiatique de son archétype.
-- Je prévoie de supprimer les chroniques qui son chronophages. Je garderai évidemment les archives pour poursuivre ma campagne.   
-
-Bon jeu.  
-§§§ .text-right
-_**Olivier**_,  
-_le 7 avril 2022_
-§§§  
 
 
 
