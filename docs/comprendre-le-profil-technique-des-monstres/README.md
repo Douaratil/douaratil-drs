@@ -25,49 +25,49 @@ Le type d'un monstre définit sa nature fondamentale. Certains sorts, objets mag
 Voici les divers types de monstre de ce jeu, aucune règle spécifique ne leur étant rattachée.
 
 ### Aberrations
-**Les aberrations** sont des êtres véritablement étranges et différents. Beaucoup possèdent des pouvoirs magiques innés nés des méandres de leur étrange esprit et non des énergies mystiques du monde. Les divinités sont des aberrations par excellence.
+**Les aberrations** sont des êtres véritablement étranges et différents. Beaucoup possèdent des pouvoirs magiques innés nés des méandres de leur étrange esprit et des énergies mystiques du monde. Les divinités sont des aberrations par excellence. Les aberrations n'apparaissent pas sur le monde physique. Elles existent dans leurs propres plans et dans les mondes des esprits.   
 
 ### Bêtes
 **Les bêtes** sont des créatures non-humanoïdes qui font naturellement partie de l'écologie fantastique. Certaines maîtrisent des pouvoirs magiques mais la plupart sont dénuées d'intelligence, ne connaissent aucun langage et ne vivent pas en société. La catégorie des bêtes comprend toutes sortes d'animaux ordinaires et de dinosaures, ainsi que les versions géantes d'animaux.
 
 ### Célestes
-**Les célestes** sont des créatures natives des plans supérieurs. La plupart sont au service de divinités et leur servent de messagers ou d'agents dans le royaume des mortels ou dans les plans. Les célestes sont bons par nature et les cas exceptionnels de célestes qui s'éloignent de cet alignement sont rares et terrifiants.
+**Les célestes** sont des créatures natives des plans supérieurs. La plupart sont au service de divinités et leur servent de messagers ou d'agents dans le royaume des mortels ou dans les plans. Les célestes sont bons par nature et les cas exceptionnels de célestes qui s'éloignent de cet alignement sont rares et terrifiants. Les célestes n'apparaissent pas sur le monde physique.
 
 ### Créatures artificielles
-**Les créatures artificielles** sont fabriquées et non mises au monde. Certaines sont programmées par leur créateur pour suivre plusieurs instructions simples, tandis que d'autres reçoivent une conscience et sont capables de penser par elles-mêmes. Les golems sont des créatures artificielles emblématiques. De nombreuses créatures originaires du plan extérieur sont des créatures artificielles façonnées à partir de la matière première du plan par la volonté de créatures plus puissantes.
+**Les créatures artificielles** sont fabriquées et non mises au monde. Certaines sont programmées par leur créateur pour suivre plusieurs instructions simples, tandis que d'autres reçoivent une conscience et sont capables de penser par elles-mêmes. Les golems sont des créatures artificielles emblématiques. Les créatures artificielles existent en théorie et sont mentionnées dans des livres de magie mais personne ne peut attester en avoir vu jusqu'à présent.   
 
 ### Créatures monstrueuses
 **Les créatures monstrueuses** sont des monstres au sens le plus strict du terme : des créatures effrayantes qui sortent de l'ordinaire, qui ne sont pas vraiment naturelles et presque jamais bienveillantes. Certaines sont le fruit d'expérimentations magiques ayant mal tourné et d'autres le produit d'horribles malédictions. Elles défient tout classement et forment une catégorie fourre-tout pour les créatures qui ne correspondent à aucun autre type.
 
 ### Dragons
-**Les dragons** sont de grandes créatures reptiliennes aux origines anciennes, dotées d'immenses pouvoirs.
+**Les dragons** sont de grandes créatures reptiliennes aux origines anciennes, dotées d'immenses pouvoirs. Leur existence est une légende et de nombreuses créatures terrifiantes sont nommées dragons à tort.   
 
 ### Élémentaires
-**Les élémentaires** sont des créatures natives des plans élémentaires. Certaines créatures de ce type ne sont guère plus que des amas animés d'une matière élémentaire particulière, notamment les créatures simplement appelées élémentaires. D'autres ont des formes biologiques investies d'énergie élémentaire.
+**Les élémentaires** sont des créatures natives des plans élémentaires. Certaines créatures de ce type ne sont guère plus que des amas animés d'une matière élémentaire particulière, notamment les créatures simplement appelées élémentaires. D'autres ont des formes biologiques investies d'énergie élémentaire. Les élémentaires n'apparaissent pas sur réellement sur le monde physique mais investissent des éléments présents pour les mettre en mouvement. Sur les plans psychiques, ils existent à part entière.   
 
 ### Fées
-**Les fées** sont des créatures magiques étroitement liées aux forces de la nature. Elles vivent dans des bosquets plongés dans la pénombre et des forêts embrumées. Sur certains mondes, elles sont étroitement liées à la Féerie sauvage, aussi appelée plan Féerique. On en trouve d'autres sur les plans extérieurs.
+**Les fées** sont des créatures magiques étroitement liées aux forces de la nature. Elles vivraient dans des bosquets plongés dans la pénombre et des forêts embrumées. Les fées n'apparaissent pas sur le monde physique.  
 
 ### Fiélons
-**Les fiélons** sont des créatures cruelles natives des plans inférieurs. Quelques-uns servent des divinités mais beaucoup travaillent dur sous le commandement d'archidiables et de princes démons. Les lanceurs de sorts maléfiques convoquent parfois des fiélons qui exécutent leurs ordres sur le plan Matériel. Si un céleste maléfique est rare, un fiélon bienveillant est presque inconcevable.
+**Les fiélons** sont des créatures cruelles natives des plans inférieurs. Quelques-uns servent des divinités mais beaucoup travaillent dur sous le commandement d'archidiables et de princes démons. Les lanceurs de sorts maléfiques convoquent parfois des fiélons qui exécutent leurs ordres sur les plans psychiques. Si un céleste maléfique est rare, un fiélon bienveillant est presque inconcevable.
 
 ### Géants
-**Les géants** se dressent au-dessus des humains et de leurs semblables.
+**Les géants** se dressent au-dessus des humains et de leurs semblables. Des légendes attestent de leur existence.  
 
 ### Humanoïdes
-**Les humanoïdes** forment les principales peuplades, civilisées ou sauvages. Ils rassemblent les humains et une très grande variété d'autres espèces. Ils sont bipèdes, possèdent une langue, une culture et peu de pouvoirs magiques, voire aucun (même si la plupart des humanoïdes peuvent apprendre à lancer des sorts).
+**Les humanoïdes** forment les principales peuplades, civilisées ou sauvages. Ils rassemblent principalement les humains et peut-être d'autres espèces. Ils sont bipèdes, possèdent une langue, une culture et peu de pouvoirs magiques, voire aucun (même si la plupart des humanoïdes peuvent apprendre à lancer des sorts).
 
 ### Morts-vivants
-**Les morts-vivants** sont des créatures autrefois vivantes qui ont été ramenées à l'effroyable état de non-vie par la magie nécromantique ou quelque malédiction impie.
+**Les morts-vivants** sont des créatures autrefois vivantes qui ont été ramenées à l'effroyable état de non-vie par la magie nécromantique ou quelque malédiction impie. Il existe deux types de morts vivants : les intangibles et les tangibles. Les intangibles interviennent sur le plan psychique. Les tangibles ne sont que légendes à l'exception des goules. Les goules ne sont pas en décomposition. Elles ne meurent pas par le temps et peuvent rester endormies des décennie pour se réveiller et se nourrir. Certaines légendes racontent que les goules sont une grande partie de l'ancien puissant peuple des selomonites qui a été maudit par les forces infernales. Les goules sont anthropophages.   
 
 ### Plantes
 **Les plantes**, dans le contexte du jeu, sont des créatures végétales et non des plantes ordinaires. La plupart sont mobiles et certaines carnivores.
 
 ### Vases
-**Les vases** sont des créatures gélatineuses dont la forme est rarement fixe. La plupart vivent sous terre, dans des grottes et des donjons, et se nourrissent de déchets, de charognes ou des créatures assez malchanceuses pour les rencontrer.
+**Les vases** sont des créatures gélatineuses dont la forme est rarement fixe. C'est souvent un ensemble d'individus minuscules qui collaborent pour ne former qu'une seule et même créature. La plupart vivent sous terre, en forêt, dans des grottes et des donjons, et se nourrissent de déchets, de charognes ou des créatures assez malchanceuses pour les rencontrer.
 
 ## Sous-types
-Un ou plusieurs sous-types apparaissent parfois, entre parenthèses, après le type d'un monstre. Par exemple, un orc est de type humanoïde (orc). Les sous-types indiqués entre parenthèses permettent une classification plus précise pour certaines créatures. Aucune règle spécifique ne leur est rattachée mais des éléments du jeu, comme les objets magiques, peuvent s'y référer. Par exemple, une lance particulièrement efficace pour combattre les démons sera tout aussi efficace contre tous les monstres de sous-type démon.
+Un ou plusieurs sous-types apparaissent parfois, entre parenthèses, après le type d'un monstre. Les sous-types indiqués entre parenthèses permettent une classification plus précise pour certaines créatures. Aucune règle spécifique ne leur est rattachée mais des éléments du jeu, comme les objets magiques, peuvent s'y référer. Par exemple, une lance particulièrement efficace pour combattre les démons sera tout aussi efficace contre tous les monstres de sous-type démon.
 
 ## Alignement
 L'alignement d'un monstre donne des indications sur son tempérament et son comportement lors d'un combat ou d'une situation de _roleplay_. Par exemple, il peut s'avérer difficile de raisonner un monstre Chaotique Mauvais. Ce monstre pourrait même attaquer les personnages à vue, là où un monstre Neutre serait prêt à négocier. Voir le chapitre [_Personnalité & Historique - Alignement_](/personnalite-et-historique/#alignement) pour plus d'informations sur les différents alignements.

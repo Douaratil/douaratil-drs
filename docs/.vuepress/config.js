@@ -617,6 +617,11 @@ module.exports = {
             path: '/objets-opposition/'
           },
           {
+            title: "Les plans",
+            icon: 'mdi-soundcloud',
+            path: '/les-plans/'
+          },
+          {
             title: "Les plantes",
             icon: 'mdi-flower',
             children:
