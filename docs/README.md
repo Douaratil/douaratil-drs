@@ -15,7 +15,8 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 110
-- Ajout d'une nouvelles page sur [les plans](/les-plans) qui présentent les règles sur les mondes psychiques.  
+- Ajout d'une nouvelles page sur [les plans](/les-plans) qui présente les règles sur les mondes psychiques.  
+- Ajout de nouveaux objets magiques et de leur description :
 
  Bon jeu.           
 
@@ -26,9 +27,9 @@ _le 5 juin 2022_
 
 ## Mise à jour 109
 - Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
-Ajout de nouveaux objets magiques et de leur description :
-- Armes à distance légère: [Arc court +1](/liste-objets-magiques/arc-court-1), [Arc court +2](/liste-objets-magiques/arc-court-2), [Arc court +3](/liste-objets-magiques/arc-court-3), [Bolas +1](/liste-objets-magiques/bolas-1), [Fléchettes +1](/liste-objets-magiques/flechettes-1), [Fronde +1](/liste-objets-magiques/fronde-1).  
-- Armes de guerre: [Cimeterre +1](/liste-objets-magiques/cimeterre-1), [Cimeterre +2](/liste-objets-magiques/cimeterre-2), [Cimeterre +3](/liste-objets-magiques/cimeterre-3), [Epée à deux mains +1](/liste-objets-magiques/epee-a-deux-mains-1), [Epée à deux mains +2](/liste-objets-magiques/epee-a-deux-mains-2), [Epée à deux mains +3](/liste-objets-magiques/epee-a-deux-mains-3), [Epée courte  +1](/liste-objets-magiques/epee-courte-1), [Epée courte  +2](/liste-objets-magiques/epee-courte-2), [Epée courte  +3](/liste-objets-magiques/epee-courte-3), [Epée longue +1](/liste-objets-magiques/epee-longue-1), [Epée longue +2](/liste-objets-magiques/epee-longue-2), [Epée longue +3](/liste-objets-magiques/epee-longue-3), [Fléau +1](/liste-objets-magiques/fleau-1), [Fléau +2](/liste-objets-magiques/fleau-2),
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes à distance légère: [Arc court +1](/liste-objets-magiques/arc-court-1), [Arc court +2](/liste-objets-magiques/arc-court-2), [Arc court +3](/liste-objets-magiques/arc-court-3), [Bolas +1](/liste-objets-magiques/bolas-1), [Fléchettes +1](/liste-objets-magiques/flechettes-1), [Fronde +1](/liste-objets-magiques/fronde-1).  
+Armes de guerre: [Cimeterre +1](/liste-objets-magiques/cimeterre-1), [Cimeterre +2](/liste-objets-magiques/cimeterre-2), [Cimeterre +3](/liste-objets-magiques/cimeterre-3), [Epée à deux mains +1](/liste-objets-magiques/epee-a-deux-mains-1), [Epée à deux mains +2](/liste-objets-magiques/epee-a-deux-mains-2), [Epée à deux mains +3](/liste-objets-magiques/epee-a-deux-mains-3), [Epée courte  +1](/liste-objets-magiques/epee-courte-1), [Epée courte  +2](/liste-objets-magiques/epee-courte-2), [Epée courte  +3](/liste-objets-magiques/epee-courte-3), [Epée longue +1](/liste-objets-magiques/epee-longue-1), [Epée longue +2](/liste-objets-magiques/epee-longue-2), [Epée longue +3](/liste-objets-magiques/epee-longue-3), [Fléau +1](/liste-objets-magiques/fleau-1), [Fléau +2](/liste-objets-magiques/fleau-2),
  [Fléau +3](/liste-objets-magiques/fleau-3), [Fouet +1](/liste-objets-magiques/fouet-1),[Hache d'armes à deux mains +1](/liste-objets-magiques/hache-d-armes-a-deux-mains-1), [Hache d'armes à deux mains +2](/liste-objets-magiques/hache-d-armes-a-deux-mains-2), [Hache d'armes à deux mains +3](/liste-objets-magiques/hache-d-armes-a-deux-mains-3)    
 
  Bon jeu.           
@@ -40,8 +41,8 @@ _le 4 juin 2022_
 
 ## Mise à jour 108  
 - Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
-Ajout de nouveaux objets magiques et de leur description :
-- Armes légères: [Bâton +1](/liste-objets-magiques/baton-1),[Dague +1](/liste-objets-magiques/dague-1), [Dague +2](/liste-objets-magiques/dague-2), [Dague +3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes légères: [Bâton +1](/liste-objets-magiques/baton-1),[Dague +1](/liste-objets-magiques/dague-1), [Dague +2](/liste-objets-magiques/dague-2), [Dague +3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
 [Javeline +3](/liste-objets-magiques/javeline-3), [Lance +1](/liste-objets-magiques/lance-1), [Lance +2](/liste-objets-magiques/lance-2), [Lance +3](/liste-objets-magiques/lance-3), [Marteau léger +1](/liste-objets-magiques/marteau-leger-1), [Marteau léger +2](/liste-objets-magiques/marteau-leger-2), [Marteau léger +3](/liste-objets-magiques/marteau-leger-3), [Masse d'arme +1](/liste-objets-magiques/masse-d-arme-1), [Masse d'arme +2](/liste-objets-magiques/masse-d-arme-2), [Masse d'arme +3](/liste-objets-magiques/masse-d-arme-3), [Massue +1](/liste-objets-magiques/massue-1), [Serpe +1](/liste-objets-magiques/serpe-1), [Serpe +2](/liste-objets-magiques/serpe-2),
 [Serpe +3](/liste-objets-magiques/serpe-3)    
 
