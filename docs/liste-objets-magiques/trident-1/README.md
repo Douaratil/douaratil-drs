@@ -1,15 +1,15 @@
 ---
-title: "Epée courte +1"
+title: "Trident +1"
 type: "Arme"
-subtype: "Epée courte"
+subtype: "Trident"
 rarity: "Peu courant"
 attunement: false
 ---
 **Toucher**: +1  
-**Dégâts**:2d6+1 perforant (Finesse, légère)  
+**Dégâts**:2d6+1 perforant (Lancer (portée 6/18), polyvalente (2d6+3))   
 Vous bénéficiez d'un bonus de +1 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
-*Coût estimé*: 200 po  
+*Coût estimé*: 100 po  
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  

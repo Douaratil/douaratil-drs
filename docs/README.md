@@ -16,9 +16,9 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 110
 - Ajout d'une nouvelles page sur [les plans](/les-plans) qui présente les règles sur les mondes psychiques.  
-- Ajout de nouveaux objets magiques et de leur description :
-
- Bon jeu.           
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes de guerre: [Hache d'armes +1](/liste-objets-magiques/hache-d-armes-1), [Hache d'armes +2](/liste-objets-magiques/hache-d-armes-2), [Hache d'armes +3](/liste-objets-magiques/hache-d-armes-3), [Lance d'arçon +1](/liste-objets-magiques/lance-d-arcon-1), [Lance d'arçon +2](/liste-objets-magiques/lance-d-arcon-2), [Lance d'arçon +1](/liste-objets-magiques/lance-d-arcon-3), [Marteau de guerre +1](/liste-objets-magiques/marteau-de-guerre-1), [Marteau de guerre +2](/liste-objets-magiques/marteau-de-guerre-2), [Marteau de guerre +3](/liste-objets-magiques/marteau-de-guerre-3), [Merlin +1](/liste-objets-magiques/merlin-1), [Merlin +2](/liste-objets-magiques/merlin-2), [Merlin +3](/liste-objets-magiques/merlin-3), [Morgenstern +1](/liste-objets-magiques/morgenstern-1), [Morgenstern +2](/liste-objets-magiques/morgenstern-2),[Morgenstern +3](/liste-objets-magiques/morgenstern-3),
+[Pic de guerre +1](/liste-objets-magiques/pic-de-guerre-1), [Pic de guerre +2](/liste-objets-magiques/pic-de-guerre-2), [Pic de guerre +3](/liste-objets-magiques/pic-de-guerre-3), [Pique +1](/liste-objets-magiques/pique-1), [Pique +2](/liste-objets-magiques/pique-2), [Pique +3](/liste-objets-magiques/pique-3), [Rapière +1](/liste-objets-magiques/rapiere-1),[Rapière +2](/liste-objets-magiques/rapiere-2), [Rapière +3](/liste-objets-magiques/rapiere-3), [Trident +1](/liste-objets-magiques/trident-1), [Trident +2](/liste-objets-magiques/trident-2), [Trident +3](/liste-objets-magiques/trident-3).                                              
 
 §§§ .text-right
 _**Olivier**_,  

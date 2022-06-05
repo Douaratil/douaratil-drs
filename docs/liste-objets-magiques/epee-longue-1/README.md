@@ -10,6 +10,6 @@ attunement: false
 Vous bénéficiez d'un bonus de +1 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
-*Coût estimé*: 150 po  
+*Coût estimé*: 300 po  
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  

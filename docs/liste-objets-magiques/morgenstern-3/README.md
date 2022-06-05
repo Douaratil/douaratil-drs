@@ -1,16 +1,16 @@
 ---
-title: "Epée courte +3"
+title: "Morgenstern +3"
 type: "Arme"
-subtype: "Epée courte"
+subtype: "Morgenstern"
 rarity: "Très rare"
 attunement: false
 
 ---
 **Toucher**: +3  
-**Dégâts**:2d6+3 perforant (Finesse, légère)  
+**Dégâts**:2d6+3 contondant  
 Vous bénéficiez d'un bonus de +3 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
-*Coût estimé*: 1000 po  
+*Coût estimé*: 1500 po  
 *Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000  

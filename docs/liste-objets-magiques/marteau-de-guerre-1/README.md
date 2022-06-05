@@ -1,15 +1,15 @@
 ---
-title: "Epée courte +1"
+title: "Marteau de guerre +1"
 type: "Arme"
-subtype: "Epée courte"
+subtype: "Marteau de guerre"
 rarity: "Peu courant"
 attunement: false
 ---
 **Toucher**: +1  
-**Dégâts**:2d6+1 perforant (Finesse, légère)  
+**Dégâts**:2d6+1 contondant (Polyvalente (3d6))  
 Vous bénéficiez d'un bonus de +1 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
-*Coût estimé*: 200 po  
+*Coût estimé*: 300 po  
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  

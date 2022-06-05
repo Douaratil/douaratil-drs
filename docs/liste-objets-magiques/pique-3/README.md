@@ -1,13 +1,13 @@
 ---
-title: "Epée courte +3"
+title: "Pique +3"
 type: "Arme"
-subtype: "Epée courte"
+subtype: "Pique"
 rarity: "Très rare"
 attunement: false
 
 ---
 **Toucher**: +3  
-**Dégâts**:2d6+3 perforant (Finesse, légère)  
+**Dégâts**:3d6+3 perforant (Lourde, allonge, à deux mains)  
 Vous bénéficiez d'un bonus de +3 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  

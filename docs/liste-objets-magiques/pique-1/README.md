@@ -1,12 +1,12 @@
 ---
-title: "Epée courte +1"
+title: "Pique +1"
 type: "Arme"
-subtype: "Epée courte"
+subtype: "Pique"
 rarity: "Peu courant"
 attunement: false
 ---
 **Toucher**: +1  
-**Dégâts**:2d6+1 perforant (Finesse, légère)  
+**Dégâts**:3d6+1 perforant (Lourde, allonge, à deux mains)  
 Vous bénéficiez d'un bonus de +1 aux jets d'attaque et aux dégâts effectués avec cette arme magique.  
 
 **Fabrication**  
