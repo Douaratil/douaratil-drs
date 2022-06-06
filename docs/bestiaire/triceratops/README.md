@@ -22,12 +22,15 @@ senses:
 languages:
   - "—"
 environments:
-  - Plaine / Champs / Prairie / Savane
+  - Plaine
+  - Champs
+  - Prairie
+  - Savane
 
 ---
-## Tabordon
+## Tricératops
 &nbsp;
-[![Tabordon](https://www.douaratil.fr/illustrations/humanoide/guerriersooghaim.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersooghai.jpg)  
+[![Tricératops](https://www.douaratil.fr/illustrations/bete/triceratopsm.png)](https://www.douaratil.fr/illustrations/bete/triceratops.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

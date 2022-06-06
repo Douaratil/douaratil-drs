@@ -21,12 +21,16 @@ senses:
 languages:
   - ""
 environments:
-  - Plaine / Champs / Prairie / Savane
+  - Plaine
+  - Champs
+  - Prairie
+  - Savane
 
 ---
-## Orsondon
+## Orsodon
 &nbsp;
-[![Orsodon(https://www.douaratil.fr/illustrations/bete/orsodonm.png)](https://www.douaratil.fr/illustrations/bete/orsodon.jpg)  
+[![Orsodon](https://www.douaratil.fr/illustrations/bete/orsodonm.png)](https://www.douaratil.fr/illustrations/bete/orsodon.jpg)
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -38,5 +42,5 @@ _Touché_ : 3d6+4 dégâts perforant.
 
 §§§ .hero
 *Dans les savanes de shahia, le troupeau d'animaux avançait paisiblement en mugissant. Ils ressemblaient à des hippopotames à fourrure avec des pattes zebrées. Leur tête, comparable à celle d'un rhinocéros est dépourvue de corne. Je voulais m'approcher plus avant mais mon guide arrêta mon geste et me désigna un troupeau de buffle qui paissaient paisiblement. Un vieux mâle vint d'interposer entre son troupeau et celui des orsodons. Instinctivement, les autres buffles prirent la fuite. Le plus massif des orsodons, celui que j'identifiais comme un vieux mâle ouvrit une large gueule bardées de dents pointues. Les deux mâles s'affrontèrent dans un combat titanesque mais rapidement, le buffle, saisit à la gorge, rendit son dernier souffle. Les orsodons le déchiquetèrent en mugissant de plaisir.*
-**Souvenir de voyage
+**Souvenir de voyage, Yassim le négociant**
 §§§
