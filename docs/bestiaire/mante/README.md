@@ -1,6 +1,6 @@
 ---
 title: "Mante"
-type: "Bête"
+type: "Créature monstrueuse"
 subtype: "Reptile monstrueux"
 size: "M"
 alignment: "non-alignée"

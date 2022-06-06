@@ -25,6 +25,9 @@ environments:
   - Jungle
 
 ---
+## Babouin
+&nbsp;
+[![Babouin](https://www.douaratil.fr/illustrations/bete/babouinm.png)](https://www.douaratil.fr/illustrations/bete/babouin.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 11      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

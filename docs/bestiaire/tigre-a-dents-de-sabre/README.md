@@ -30,6 +30,9 @@ environments:
   - Montagnes
 
 ---
+## Tigre à dents de sabre
+&nbsp;
+[![Tigre à dents de sabre](https://www.douaratil.fr/illustrations/bete/tigreadentsdesabrem.png)](https://www.douaratil.fr/illustrations/bete/tigreadentsdesabre.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

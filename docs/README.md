@@ -16,13 +16,15 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 111
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Agowen Tenva Duenn](/bestiaire/agowen-tenva-duenn), [Aigle](/bestiaire/aigle), [Ame en peine](/bestiaire/ame-en-peine), [Araignée](/bestiaire/araignee), [Archimage](/bestiaire/archimage), [Tricératops](/bestiaire/triceratops)  
+[Agowen Tenva Duenn](/bestiaire/agowen-tenva-duenn), [Aigle](/bestiaire/aigle), [Ame en peine](/bestiaire/ame-en-peine), [Araignée](/bestiaire/araignee), [Archimage](/bestiaire/archimage),[Assassin](/bestiaire/assassin), [Babouin](/bestiaire/babouin), [Baboune](/bestiaire/baboune),[Mandrill des montagnes](/bestiaire/mandrill-des-montagnes), [Sanglier](/bestiaire/sanglier), [Sanglier géant](/bestiaire/sanglier-geant), [Tigre](/bestiaire/tigre), [Tigre à dents de sabre](/bestiaire/tigre-a-dents-de-sabre), [Tricératops](/bestiaire/triceratops), [Tyrannosaure](/bestiaire/tyrannosaure)    
 - Ajout de la [Lampose](/bestiaire/lampose) au bestiaire.  
 - Ajout de la [Mante](/bestiaire/mante) au bestiaire.  
 - Ajout du [Nagocéros](/bestiaire/nagoceros) au bestiaire.  
 - Ajout du [Nandos](/bestiaire/nandos) au bestiaire.  
 - Ajout du [Vers flasque](/bestiaire/vers-flasque) au bestiaire.  
 - Ajout du [Vers mordeur](/bestiaire/vers-mordeur) au bestiaire.  
+- Correction des sorts [Paranoïa](/grimoire/paranoia), [Protection contre les charmes](/grimoire/protection-contre-les-charmes), [Pyromancie](/grimoire/pyromancie)  
+- Ajout du sort [Occultation des sens](/grimoire/occultation-des-sens)  
 Bon jeu.                                         
 
 §§§ .text-right

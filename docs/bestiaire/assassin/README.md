@@ -33,6 +33,9 @@ damageTypeResistances:
 languages:
   - "argot des voleurs plus deux autres langues au choix"
 ---
+## Assassin
+&nbsp;
+[![Assassin](https://www.douaratil.fr/illustrations/humanoide/assassinm.png)](https://www.douaratil.fr/illustrations/humanoide/assassin.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14         
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

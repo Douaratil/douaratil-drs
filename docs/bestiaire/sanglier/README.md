@@ -26,6 +26,9 @@ environments:
   - Jungle
 
 ---
+## Sanglier
+&nbsp;
+[![Sanglier](https://www.douaratil.fr/illustrations/bete/sanglierm.png)](https://www.douaratil.fr/illustrations/bete/sanglier.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
