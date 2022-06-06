@@ -34,6 +34,9 @@ damageTypeResistances:
 languages:
   - "six langues au choix"
 ---
+## Archimage
+&nbsp;
+[![Archimage](https://www.douaratil.fr/illustrations/humanoide/archimagem.png)](https://www.douaratil.fr/illustrations/humanoide/archimage.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

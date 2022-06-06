@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 111
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Tricératops](/bestiaire/triceratops)  
+[Agowen Tenva Duenn](/bestiaire/agowen-tenva-duenn), [Aigle](/bestiaire/aigle), [Ame en peine](/bestiaire/ame-en-peine), [Araignée](/bestiaire/araignee), [Archimage](/bestiaire/archimage), [Tricératops](/bestiaire/triceratops)  
 - Ajout de la [Lampose](/bestiaire/lampose) au bestiaire.  
 - Ajout de la [Mante](/bestiaire/mante) au bestiaire.  
 - Ajout du [Nagocéros](/bestiaire/nagoceros) au bestiaire.  

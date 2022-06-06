@@ -48,6 +48,9 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
 ---
+## Âme-en-peine
+&nbsp;
+[![Âme-en-peine](https://www.douaratil.fr/illustrations/mort-vivant/ameenpeinem.png)](https://www.douaratil.fr/illustrations/mort-vivant/ameenpeine.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

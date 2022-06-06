@@ -35,6 +35,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, l'Alcath/l'Alcane le commun impérial' "
 category: "PNJ"
 ---
+## Agowen Tenva Duenn
+&nbsp;
+[![Agowen Tenva Duenn](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduennm.png)](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduenn.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12    
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
