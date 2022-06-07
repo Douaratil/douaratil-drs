@@ -15,6 +15,7 @@ components:
 ritual: false
 classes:
     - Foi
+source: "Elric"
 ---
 **Coût** : 12 points de Foi   
 Le sorcier allume un petit feu. Tant que la feu reste allumé, une fumée blanche se répandra sur la surface des eaux. La fumée se déplace d’1 mètre par round et ne peut pas s’éloigner à plus de 30 mètres du petit feu. La température à la surface de l’eau peut s’élèver jusqu’à 75°C, ou à une température moins forte selon la volonté du lanceur de sort.   
