@@ -48,6 +48,9 @@ languages:
 telepathy: 36
 
 ---
+## Berdu
+&nbsp;
+[![Berdu](https://www.douaratil.fr/illustrations/fielon/berdum.png)](https://www.douaratil.fr/illustrations/fielon/berdu.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

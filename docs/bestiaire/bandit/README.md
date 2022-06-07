@@ -23,6 +23,9 @@ languages:
   - "une langue au choix (commun le plus souvent)"
 
 ---
+## Bandit
+&nbsp;
+[![Bandit](https://www.douaratil.fr/illustrations/humanoide/banditm.png)](https://www.douaratil.fr/illustrations/humanoide/bandit.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## Actions

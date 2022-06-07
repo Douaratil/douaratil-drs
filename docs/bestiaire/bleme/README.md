@@ -34,6 +34,9 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+## Blême
+&nbsp;
+[![Blême](https://www.douaratil.fr/illustrations/mort-vivant/blemem.png)](https://www.douaratil.fr/illustrations/mort-vivant/bleme.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
