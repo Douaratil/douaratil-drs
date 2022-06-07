@@ -1,6 +1,6 @@
 ---
-title: "Fer béni"
-description: "Malédiction qui agrave les dégâts reçus."
+title: "Fer maudit"
+description: "Malédiction qui aggrave les dégâts reçus."
 school: "Transmutation"
 level: 4
 concentration: false
