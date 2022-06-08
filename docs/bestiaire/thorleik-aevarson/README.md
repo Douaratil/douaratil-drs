@@ -198,8 +198,8 @@ Thorleik Aevarson possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +8**  
-**DD de Sauvegarde: 13**  
+**Bonus d'incantation: +11**  
+**DD de Sauvegarde: 15**  
 **Novice** : [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
