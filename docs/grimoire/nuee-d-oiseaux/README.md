@@ -1,5 +1,5 @@
 ---
-title: "Gardien de la foi"
+title: "Nuée d'oiseaux"
 description: "Le sorcier fait appel aux oiseaux, en les priant de réaliser une tâche."
 school: "Invocation"
 level: 1
