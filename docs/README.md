@@ -16,14 +16,12 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 113
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Capitaine bandit](/bestiaire/capitaine-bandit), [Chacal](/bestiaire/chacal),
-- Ajout du sort [Ombre fantasmagorique](/grimoire/ombre-fantasmagorique)  
-- Ajout du sort [Opprobe passagère](/grimoire/opprobe-passagere)  
+[Capitaine bandit](/bestiaire/capitaine-bandit), [Chacal](/bestiaire/chacal), [Chameau](/bestiaire/chameau), [Charognard des forêts](/bestiaire/charognard-des-forets),
 Bon jeu.                                         
 
 §§§ .text-right
 _**Olivier**_,  
-_le 10 juin 2022_
+_le 11 juin 2022_
 §§§
 
 ## Mise à jour 112
