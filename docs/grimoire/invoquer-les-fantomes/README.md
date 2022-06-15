@@ -29,7 +29,7 @@ Si le lanceur de sort veut se lier un [spectre](/bestiaire/spectre), i peut le f
 Après avoir enchanté la perle, il s'incise une partie de son corps pour y loger la perle. La perle doit être dans le corps mais aussi à l'extérieur pour symboliser le lien entre les deux mondes.   
 Le magicien peut se lier autant de Spectre que son modificateur de Charisme. Il doit cependant faire un rituel par [spectre](/bestiaire/spectre) lié.   
 
-Les [spectres](/bestiaire/spectre) apparaissent à la demande du lanceur de sort lorsqu'il fait nuit ou dans des zones d'ombre comme des souterrains. Si un [spectre](/bestiaire/spectre) est tué, il mettre une lune à se reconstituer.  
+Les [spectres](/bestiaire/spectre) apparaissent à la demande du lanceur de sort lorsqu'il fait nuit ou dans des zones d'ombre comme des souterrains. Si un [spectre](/bestiaire/spectre) est tué, il met une lune à se reconstituer.  
 
 Le lien avec le sorcier est permanent jusqu'à sa mort. L'alignement du sorcier bascule progressivement vers le chaotique mauvais.   
 
