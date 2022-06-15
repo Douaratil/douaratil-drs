@@ -1,5 +1,5 @@
 ---
-title: "Opprobe passagère"
+title: "Opprobre passagère"
 description: "Réduction des points d'honneur."
 school: "Nécromancie"
 level: 1

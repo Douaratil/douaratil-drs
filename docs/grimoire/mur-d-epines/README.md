@@ -21,6 +21,6 @@ Vous créez un mur fait de buissons souples et robustes, enchevêtrés et héris
 
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 9d6 dégâts perforants, les autres la moitié seulement.
 
-Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doit dépenser 1,20 mètre de déplacement pour avancer de 30 centimètres au sein du mur. De plus, quand elle entre dans le mur pour la première fois de son tour ou quand elle y termine son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Elle subit 7d8 dégâts tranchants si elle rate son jet, la moitié si elle le réussit.
+Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doit dépenser 1,20 mètre de déplacement pour avancer de 30 centimètres au sein du mur. De plus, quand elle entre dans le mur pour la première fois de son tour ou quand elle y termine son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Elle subit 6d6 dégâts tranchants si elle rate son jet, la moitié si elle le réussit.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les deux types de dégâts augmentent chacun de 1d6 par niveau au-delà du niveau d'Apprenti.
