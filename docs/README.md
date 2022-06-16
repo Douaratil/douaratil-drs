@@ -16,7 +16,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 114
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd),  
+[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd).
+- Ajout du [Crabass](/bestiaire/crabass) au bestiaire.  
 - Ajout du [Gorgath](/bestiaire/gorgath) au bestiaire.  
 - Ajout du [Khaznoz](/bestiaire/khaznoz) au bestiaire.  
 - Ajout du [Niwele](/bestiaire/niwele) au bestiaire.  

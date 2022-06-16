@@ -26,6 +26,8 @@ senses:
 damageTypeImmunities:
   - "c-p-t-non-argent"
   - "c-p-t-non-magique"
+damageTypeResistances:
+    - "feu"
 languages:
   - "Soogh (le comprends, ne le parle pas)"
 environments:

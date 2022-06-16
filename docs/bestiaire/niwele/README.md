@@ -27,6 +27,8 @@ senses:
 damageTypeImmunities:
   - "c-p-t-non-argent"
   - "c-p-t-non-magique"
+damageTypeResistances:
+  - "feu"
 languages:
   - "Soogh (le comprends, ne le parle pas)"
 environments:
@@ -50,4 +52,4 @@ _**Grimpeur**_. Le Niwele obtient un [_avantage_](/utiliser-les-caracteristiques
 _**Attaques multiples**_. Le Niwele effectue deux attaques avec ses griffes.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 2d6+6 dégâts tranchants.
+_Touché_ : 2d6+1 dégâts tranchants.
