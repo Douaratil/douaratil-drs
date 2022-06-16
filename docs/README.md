@@ -14,10 +14,13 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Pierre [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
-## Mise à jour 113
+## Mise à jour 114
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd),
-- Ajout de lu [Khaznoz](/bestiaire/khaznoz) au bestiaire.  
+[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd),  
+- Ajout du [Gorgath](/bestiaire/gorgath) au bestiaire.  
+- Ajout du [Khaznoz](/bestiaire/khaznoz) au bestiaire.  
+- Ajout du [Niwele](/bestiaire/niwele) au bestiaire.  
+- Ajout de la [Gangrène purulente](/maladies/#gangrene-purulente) dans les maladies.  
 Bon jeu.                                         
 
 §§§ .text-right

@@ -46,6 +46,6 @@ _**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,5
 _Touché_ : 1d6 dégât tranchant.
 
 §§§ .hero
-"*Je terminais mon rituel sous la lumière pâle de la lune lorsque mon attention fut attirée par deux petites billes lumineuses. Un chat me dis-je amusée, ils sont toujours intéressés par les pratiques magiques. Mais je fut surprise de voir un animal d'une grande élégance*"    
+"*Je terminais mon rituel sous la lumière pâle de la lune lorsque mon attention fut attirée par deux petites billes lumineuses. Un chat me dis-je amusée, ils sont toujours intéressés par les pratiques magiques. Mais je fut surprise de voir un animal d'une grande élégance. Il n'était manifestement pas naturel et le charisme qu'il dégageait rappelait son origine des mondes féériques.*"    
 **Souvenirs de Moira la ténébreuse**
 §§§

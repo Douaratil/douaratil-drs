@@ -14,7 +14,7 @@ abilityScores:
   cha: 10
 ac:
   armorType: "custom"
-  value: "19"
+  value: "15 (armure naturelle)"
 skills:
   - name: "discretion"
   - name: "perception"
@@ -25,6 +25,7 @@ customMovement: "9 m (12 m à quatre pattes)"
 senses:
 damageTypeImmunities:
   - "c-p-t-non-argent"
+  - "c-p-t-non-magique"
 languages:
   - "Soogh (le comprends, ne le parle pas)"
 environments:
@@ -42,10 +43,10 @@ environments:
 _**Odorat et ouïe aiguisés**_. Le Gorgath obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 ## Actions
-_**Attaques multiples**_. Le Gorgath effectue deux attaques : une avec sa morsure et une avec ses griffes ou sa lance.
+_**Attaques multiples**_. Le Gorgath effectue deux attaques : une avec sa morsure et une avec ses griffes.
 
-_**Griffes**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  
-_Touché_ : 7 (2d4+2) dégâts tranchants.
+_**Griffes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une créature.  
+_Touché_ : 2d6+6 dégâts tranchants.
 
-_**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 16 pour ne pas contracter la malédiction de la lycanthropie du loup-garou.
+_**Morsure**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+3 dégâts perforants. Si la cible est un humanoïde, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 16 pour ne pas contracter la [Gangrène purulente](/maladies/#gangrene-purulente).
