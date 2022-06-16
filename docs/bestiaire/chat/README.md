@@ -31,6 +31,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Chat
+&nbsp;
+[![Chat](https://www.douaratil.fr/illustrations/bete/chatm.png)](https://www.douaratil.fr/illustrations/bete/chat.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 10    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

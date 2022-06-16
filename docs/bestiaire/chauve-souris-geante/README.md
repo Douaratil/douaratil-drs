@@ -29,6 +29,9 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+## Chauve-souris géante
+&nbsp;
+[![Chauve-souris géante](https://www.douaratil.fr/illustrations/bete/chauvesourisgeantem.png)](https://www.douaratil.fr/illustrations/bete/chauvesourisgeante.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -16,6 +16,17 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 113
 - Ajout de nouvelles illustrations dans le bestiaire:  
+[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd),
+- Ajout de lu [Khaznoz](/bestiaire/khaznoz) au bestiaire.  
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 16 juin 2022_
+§§§
+
+## Mise à jour 113
+- Ajout de nouvelles illustrations dans le bestiaire:  
 [Capitaine bandit](/bestiaire/capitaine-bandit), [Chacal](/bestiaire/chacal), [Chameau](/bestiaire/chameau), [Charognard des forêts](/bestiaire/charognard-des-forets),
 Bon jeu.                                         
 

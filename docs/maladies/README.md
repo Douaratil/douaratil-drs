@@ -5,7 +5,7 @@ title: "Les maladies"
 ## La fièvre rieuse
 Cette maladie touche les humanoïdes, bien que les gnomes soient étonnamment immunisés contre. Une fois en proie à la maladie, la victime éclate souvent d'un rire dément, à l'origine du nom vernaculaire de la maladie et de son morbide surnom, « _la ricanante_ ».
 
-Les symptômes se manifestent 1d4 heures après la contamination et comprennent de la fièvre et un sentiment de désorientation. Le malade gagne un niveau d'épuisement dont il ne peut pas se débarrasser tant qu'il n'est pas guéri.
+Les symptômes se manifestent 1d6 heures après la contamination et comprennent de la fièvre et un sentiment de désorientation. Le malade gagne un niveau d'épuisement dont il ne peut pas se débarrasser tant qu'il n'est pas guéri.
 
 Tout événement qui génère un stress important chez le malade (comme entrer en combat, subir des dégâts, ressentir de la frayeur, faire un cauchemar) l'oblige à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13. S'il échoue, il subit 2d6 dégâts psychiques et il est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) pendant 1 minute tant il rit. Le malade peut refaire le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours. S'il réussit, il maîtrise ses éclats de rire déments et n'est plus [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 

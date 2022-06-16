@@ -24,6 +24,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Cheval de guerre
+&nbsp;
+[![Cheval de guerre](https://www.douaratil.fr/illustrations/bete/chevaldeguerrem.png)](https://www.douaratil.fr/illustrations/bete/chevaldeguerre.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
