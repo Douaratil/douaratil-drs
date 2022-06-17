@@ -14,7 +14,7 @@ abilityScores:
   cha: 3
 ac:
   armorType: "custom"
-  value: "10 (armure naturelle)"
+  value: "14 (armure naturelle)"
 skills:
   - name: "discretion"
 movement:
