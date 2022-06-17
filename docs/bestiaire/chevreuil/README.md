@@ -24,6 +24,9 @@ environments:
   - Bois / Forêt
 
 ---
+## Chevreuil
+&nbsp;
+[![Chevreuil](https://www.douaratil.fr/illustrations/bete/chevreuilm.png)](https://www.douaratil.fr/illustrations/bete/chevreuil.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
 ## Actions

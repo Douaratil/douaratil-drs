@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 115
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Elan](/bestiaire/elan), [Malaak](/bestiaire/malaak),
+[Cheval de selle](/bestiaire/cheval-de-selle), [Cheval de trait](/bestiaire/cheval-de-trait), [Chèvre](/bestiaire/chevre), [Chevreuil](/bestiaire/chevreuil), [Elan](/bestiaire/elan), [Malaak](/bestiaire/malaak),
 - Ajout de l'[Aligosaure](/bestiaire/aligosaure) au bestiaire.  
 - Ajout de l'[Eléon](/bestiaire/eleon) au bestiaire.  
 - Ajout du [Falcor](/bestiaire/falcor) au bestiaire.  

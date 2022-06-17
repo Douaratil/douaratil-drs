@@ -25,6 +25,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Cheval de trait
+&nbsp;
+[![Cheval de trait](https://www.douaratil.fr/illustrations/bete/chevaldetraitm.png)](https://www.douaratil.fr/illustrations/bete/chevaldetrait.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

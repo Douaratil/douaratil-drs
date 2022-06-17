@@ -24,6 +24,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Cheval de selle
+&nbsp;
+[![Cheval de selle](https://www.douaratil.fr/illustrations/bete/chevaldesellem.png)](https://www.douaratil.fr/illustrations/bete/chevaldeselle.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions
