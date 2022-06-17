@@ -2,7 +2,7 @@
 title: "Khaznoz"
 type: "Fée"
 size: "TP"
-alignment: "non-alignée"
+alignment: "Neutre bon"
 challenge: "4"
 customHP: "11"
 abilityScores:
@@ -24,8 +24,10 @@ movement:
   walk: 18
   climb: 12
 senses:
+damageTypeImmunities:
+  - "c-p-t-non-magique"
 languages:
-  - ""
+  - "Comprend toutes les langues mais ne les parles pas"
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
@@ -33,16 +35,16 @@ environments:
 ---
 ## Khaznoz
 &nbsp;
-[![Khaznoz](https://www.douaratil.fr/illustrations/bete/khaznozm.png)](https://www.douaratil.fr/illustrations/bete/khaznoz.jpg)  
+[![Khaznoz](https://www.douaratil.fr/illustrations/fee/khaznozm.png)](https://www.douaratil.fr/illustrations/fee/khaznoz.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15    
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Odorat aiguisé**_. Le chat obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.  
+_**Odorat aiguisé**_. Le Khaznoz obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.  
 
 _**Invisibilité féérique**_. Le Khaznoz peut utiliser à volonté et dans le cadre d'une action bonus sa capacité d'invisibilité qui fonctionne comme le sort [Invisibilité](/grimoire/invisibilite).  
 
 ## Actions
-_**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégât tranchant.
 
 §§§ .hero

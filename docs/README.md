@@ -20,8 +20,12 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout de l'[Aligosaure](/bestiaire/aligosaure) au bestiaire.  
 - Ajout de l'[Eléon](/bestiaire/eleon) au bestiaire.  
 - Ajout du [Falcor](/bestiaire/falcor) au bestiaire.  
+- Ajout de l'[Igualigator](/bestiaire/igualigator) au bestiaire.  
+- Ajout du [Mao-ju](/bestiaire/mao-ju) au bestiaire.  
 - Ajout de l'[Ostonie](/bestiaire/ostonie) au bestiaire.  
+- Ajout du [Phacomochère](/bestiaire/phacomochere) au bestiaire.  
 - Ajout de l'[Udasaur](/bestiaire/udasaur) au bestiaire.  
+- Ajout du [Vulturh](/bestiaire/vulturh) au bestiaire.  
 
 Bon jeu.                                         
 
