@@ -32,6 +32,9 @@ dungeonTypes:
   - Caverne sous-marine
 
 ---
+## Crabe
+&nbsp;
+[![Crabe](https://www.douaratil.fr/illustrations/bete/crabem.png)](https://www.douaratil.fr/illustrations/bete/crabe.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 10     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
