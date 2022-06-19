@@ -29,6 +29,9 @@ environments:
   - Montagnes
 
 ---
+## Grand singe
+&nbsp;
+[![Grand singe](https://www.douaratil.fr/illustrations/bete/grandsingem.png)](https://www.douaratil.fr/illustrations/bete/grandsinge.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## Actions

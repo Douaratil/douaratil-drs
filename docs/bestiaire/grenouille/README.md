@@ -31,6 +31,9 @@ environments:
   - Mangrove / Marécage
 
 ---
+## Grenouille
+&nbsp;
+[![grenouille](https://www.douaratil.fr/illustrations/bete/grenouillem.png)](https://www.douaratil.fr/illustrations/bete/grenouille.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: -      
 ## Capacités

@@ -16,7 +16,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 117
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Delfon](/bestiaire/delfon), [Elémentaire mineur de boue](/bestiaire/elementaire-de-boue), [Eléphant](/bestiaire/elephant), [Epaulard](/bestiaire/epaulard), [Fantôme](/bestiaire/fantome), [Faucon](/bestiaire/faucon), [Faucon de sang](/bestiaire/faucon-de-sang),
+[Delfon](/bestiaire/delfon), [Elémentaire mineur de boue](/bestiaire/elementaire-de-boue), [Eléphant](/bestiaire/elephant), [Epaulard](/bestiaire/epaulard), [Fantôme](/bestiaire/fantome), [Faucon](/bestiaire/faucon), [Faucon de sang](/bestiaire/faucon-de-sang), [Goule darakhule](/bestiaire/goule-darakhule), [Goule de fer](/bestiaire/goule-de-fer), [Goule empereur](/bestiaire/goule-empereur), [Goule impériale](/bestiaire/goule-imperiale), [Goule mendiante](/bestiaire/goule-mendiante), [Grand singe](/bestiaire/grand-singe), [Grenouille](/bestiaire/grenouille), [Hibou](/bestiaire/hibou),
+ [Hyène](/bestiaire/hyene), [Hyène géante](/bestiaire/hyene-geante), [Hyène à tête rouge](/bestiaire/hyene-a-tete-rouge),
 
 - Ajout du [Langrier](/bestiaire/langrier) au bestiaire.
 - Ajout du [Lougre](/bestiaire/langre) au bestiaire.  

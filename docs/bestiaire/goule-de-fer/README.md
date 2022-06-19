@@ -31,6 +31,9 @@ languages:
   - "commun des profondeurs"
 
 ---
+## Goule de fer
+&nbsp;
+[![Goule de fer](https://www.douaratil.fr/illustrations/mort-vivant/gouledeferm.png)](https://www.douaratil.fr/illustrations/mort-vivant/gouledefer.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

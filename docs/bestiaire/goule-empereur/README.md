@@ -45,6 +45,9 @@ languages:
   - "commun des profondeurs"
 
 ---
+## Goule Empereur
+&nbsp;
+[![Goule Empereur](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereurm.png)](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereur.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

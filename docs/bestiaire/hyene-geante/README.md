@@ -27,6 +27,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Hyène géante
+&nbsp;
+[![Hyène géante](https://www.douaratil.fr/illustrations/bete/hyenegeantem.png)](https://www.douaratil.fr/illustrations/bete/hyenegeante.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
