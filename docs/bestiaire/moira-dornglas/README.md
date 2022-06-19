@@ -62,7 +62,7 @@ skills:
   - name: "custom"
     value: "survie +2"
 movement:
-walk: 9
+  walk: 9
 senses:
 languages:
 - "le Weslèdh (3/3), le commun nordique, L'Alcane/Alcath (2/0) le commun impérial, Le Khern (4/3), Mor'vron (3/3), le Mèlde (3/2)"
