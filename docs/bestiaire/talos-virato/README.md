@@ -124,7 +124,7 @@ _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allon
 _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Arc long(••)**_. _Attaque d'arme à distance_ : +17 pour toucher, portée 45/180.  
-_Touché_ : 2d6+2 dégâts perforants .
+_Touché_ : 2d6+7 dégâts perforants .
 
 §§§ .hero
 ### Présentation:  

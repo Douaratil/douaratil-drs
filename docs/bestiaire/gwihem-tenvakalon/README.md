@@ -118,7 +118,7 @@ _**Epée courte(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, a
 _Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).  
 
 **Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).  
+_Touché_ : 2d6+5 dégâts tranchants (Finesse & légère).  
 
 
 

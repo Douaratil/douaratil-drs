@@ -137,7 +137,7 @@ _**Inspirer la bravoure**_. *(Llawenos)* Au niveau 14, sur un champ de bataille,
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).
+_Touché_ : 2d6+3 dégâts tranchants (Finesse & légère).
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
@@ -150,7 +150,7 @@ _Touché_ : 1d6+3 dégâts perforants et la cible doit effectuer un [jet de sauv
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
 **Arc court(••)**_. _Attaque d'arme à distance_ : +13 pour toucher, portée 24/96.  
-_Touché_ : 2d6+2 dégâts perforants .
+_Touché_ : 2d6+5 dégâts perforants .
 
 &nbsp;
 §§§ .hero

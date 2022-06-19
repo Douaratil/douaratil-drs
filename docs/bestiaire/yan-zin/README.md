@@ -119,7 +119,7 @@ _**Dague(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 
 _Touché_ : 1d6+4 dégâts tranchants (Finesse, légère, lancer 6/18).
 
 _**Arc long(••)**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
-_Touché_ : 2d6+6 dégâts perforants .
+_Touché_ : 2d6+4 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  

@@ -159,7 +159,7 @@ _**Hache(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher , allonge
 _Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
 
 _**Pique(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
+_Touché_ : 3d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
