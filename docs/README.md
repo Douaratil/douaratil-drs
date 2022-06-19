@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 117
 - Ajout de nouvelles illustrations dans le bestiaire:  
-[Delfon](/bestiaire/delfon),
+[Delfon](/bestiaire/delfon), [Elémentaire mineur de boue](/bestiaire/elementaire-de-boue), [Eléphant](/bestiaire/elephant), [Epaulard](/bestiaire/epaulard), [Fantôme](/bestiaire/fantome), [Faucon](/bestiaire/faucon), [Faucon de sang](/bestiaire/faucon-de-sang),
 
 - Ajout du [Langrier](/bestiaire/langrier) au bestiaire.
 - Ajout du [Lougre](/bestiaire/langre) au bestiaire.  

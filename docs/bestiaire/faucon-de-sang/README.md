@@ -29,6 +29,9 @@ environments:
   - Littoral
 
 ---
+## Faucon de sang
+&nbsp;
+[![Faucon de sang](https://www.douaratil.fr/illustrations/bete/faucondesangm.png)](https://www.douaratil.fr/illustrations/bete/faucondesang.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -30,6 +30,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Epaulard
+&nbsp;
+[![Epaulard](https://www.douaratil.fr/illustrations/bete/epaulardm.png)](https://www.douaratil.fr/illustrations/bete/epaulard.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

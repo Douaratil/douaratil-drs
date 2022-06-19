@@ -26,6 +26,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Eléphant
+&nbsp;
+[![Eléphant](https://www.douaratil.fr/illustrations/bete/elephantm.png)](https://www.douaratil.fr/illustrations/bete/elephant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

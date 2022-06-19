@@ -47,6 +47,9 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
 ---
+## Fantôme
+&nbsp;
+[![Fantôme](https://www.douaratil.fr/illustrations/mort-vivant/fantomem.png)](https://www.douaratil.fr/illustrations/mort-vivant/fantome.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
