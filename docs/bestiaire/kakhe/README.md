@@ -22,6 +22,7 @@ skills:
 movement:
   walk: 9
   climb: 9
+  fly: 9
 senses:
   darkvision: 36
 languages:
@@ -30,6 +31,9 @@ languages:
   - "infernal"
 
 ---
+## Kakhe
+&nbsp;
+[![Kakhe](https://www.douaratil.fr/illustrations/fielon/kakhem.png)](https://www.douaratil.fr/illustrations/fielon/kakhe.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -40,5 +44,5 @@ _**Détection d'incantation**_. Un kakhe perçoit les incantations dans un rayon
 _**Résistance à la magie**_. Un kakhe est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
-_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+3 dégâts perforants.
