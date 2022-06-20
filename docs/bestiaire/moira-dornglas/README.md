@@ -70,7 +70,7 @@ category: "PJ"
 ---
 ## Moïra Dornglas
 &nbsp;
-[![Moïra Dornglas](https://www.douaratil.fr/illustrations/pj/moïradornglasm.png)](https://www.douaratil.fr/illustrations/pj/moïradornglas.jpg)  
+[![Moïra Dornglas](https://www.douaratil.fr/illustrations/pj/moiradornglasm.png)](https://www.douaratil.fr/illustrations/pj/moiradornglas.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -186,7 +186,7 @@ Moïra Dornglas possède l'équipement suivant :
 **Points de Magie** :70  
 **Points de Foi** :12        
 **Points d'honneur** :38  
-**Voie d'éveil**: Voie de l'ascension     
+**Voie d'éveil**: Voie de médiane     
 §§§
 
 §§§ .hero

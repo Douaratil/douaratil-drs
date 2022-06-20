@@ -4,7 +4,7 @@ description: "Jusqu'à six créatures récupèrent 3d6 + modificateur points d'a
 school: "Évocation"
 level: 1
 concentration: false
-casting_time: "10 minutes"
+casting_time: "1 action"
 duration: "instantanée"
 range: "9 mètres"
 components:
