@@ -44,7 +44,7 @@ _**Indomptable**_. Le pratiquant de la Voie des armes peut relancer un jet de s
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 
 _**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchant (6 à deux mains).  
+_Touché_ : 2d6+6 dégâts tranchant (3d6+4 à deux mains).  
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)

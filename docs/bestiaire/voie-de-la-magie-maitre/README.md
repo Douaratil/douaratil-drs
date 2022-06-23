@@ -58,4 +58,4 @@ La voie de la magie novice connaît des sorts de niveau Maître au maximum et po
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts perforant (finesse, légère, lancer 6/18).  
+_Touché_ : 1d6 dégâts perforant (finesse, légère, lancer 6/18).  
