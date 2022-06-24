@@ -111,7 +111,7 @@ Vhaxrrixz, déesse de la vérité, des rêves et des choix est dépeinte dans de
 Les dieux méprisent leur sœur, incapable de dire la seule chose à laquelle elle est dévouée : dire la vérité. Donc eux aussi se trompent en oubliant que la vérité n’est pas son objectif premier.   
 
 ## Clergé et temples  
-Prêtrise peut répandue en raison du mnque de popularité de la Déesse.  
+Prêtrise peut répandue en raison du manque de popularité de la Déesse.  
 
 ## Avatars  
 Aucun  

@@ -50,7 +50,7 @@ _**Esquive instinctive **_. (*ombre*) À partir du niveau 5, quand un attaquant 
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts perforant (finesse, légère, lancer 6/18).  
+_Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)

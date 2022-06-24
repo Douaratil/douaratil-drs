@@ -61,7 +61,7 @@ _**Esprit impénétrable**_. (*ombre*)  Au niveau 15, votre force mentale s'est 
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts perforant (finesse, légère, lancer 6/18).  
+_Touché_ : 1d6+5 dégâts perforant (finesse, légère, lancer 6/18).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+5 dégâts perforants .(à deux mains, munitions)

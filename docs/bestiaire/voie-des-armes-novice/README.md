@@ -42,7 +42,7 @@ Le pratiquant de la Voie des armes peut repousser ses propres limites pendant qu
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4 dégâts tranchant (6 à deux mains).  
+_Touché_ : 2d6+3 dégâts tranchant (3d6+1 à deux mains).  
 
 **Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
-_Touché_ : 4 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
