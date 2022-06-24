@@ -46,6 +46,9 @@ languages:
 telepathy: 36
 
 ---
+## Kishi
+&nbsp;
+[![Kishi](https://www.douaratil.fr/illustrations/fielon/kishim.png)](https://www.douaratil.fr/illustrations/fielon/kishi.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

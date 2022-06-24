@@ -38,6 +38,9 @@ languages:
 telepathy: 36
 
 ---
+## Kheshou
+&nbsp;
+[![Kheshou](https://www.douaratil.fr/illustrations/fielon/kheshoum.png)](https://www.douaratil.fr/illustrations/fielon/kheshou.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

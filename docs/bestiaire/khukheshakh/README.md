@@ -45,6 +45,9 @@ languages:
 telepathy: 36
 
 ---
+## Khukheshakh
+&nbsp;
+[![Khukheshakh](https://www.douaratil.fr/illustrations/fielon/khukheshakhm.png)](https://www.douaratil.fr/illustrations/fielon/khukheshakh.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

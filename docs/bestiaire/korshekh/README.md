@@ -48,6 +48,9 @@ languages:
 telepathy: 36
 
 ---
+## Korshekh
+&nbsp;
+[![Korshekh](https://www.douaratil.fr/illustrations/fielon/korshekhm.png)](https://www.douaratil.fr/illustrations/fielon/korshekh.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 26        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 26     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
