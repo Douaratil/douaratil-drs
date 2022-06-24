@@ -36,7 +36,7 @@ Ce sort possède 2 variantes. Pour pouvoir invoquer ce sort, le lanceur de sort 
 |Calcaire| 1 mètre de rayon|  
 
 
-L’état de l’ennemi dépend du type de sol frappé et de la distance où se trouve l’ennemi. Les cibles ont le droit à un jet de sauvegarde DD 16 de dextérité. S’il est réussi, l’effet est rétrogradé d’un rang. Un état comme inconscient deviendra à terre, à terre deviendra repoussé et l’effet repoussé sera annulé.  
+L’état de l’ennemi dépend du type de sol frappé et de la distance où se trouve l’ennemi. Les cibles ont le droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le DD du lanceur de sort. S’il est réussi, l’effet est rétrogradé d’un rang. Un état comme inconscient deviendra à terre, à terre deviendra repoussé et l’effet repoussé sera annulé.  
 
 Type de sol frappé                                                                                                                étendue du sort
 

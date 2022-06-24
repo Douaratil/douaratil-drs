@@ -19,7 +19,7 @@ classes:
 
 source: "Elric"
 ---
-**Coût** : 4 points de Magie  
+**Coût** : 4 points de Magie ou de Foi
 **Enchantement** Le lanceur de sort utilise de la sève qu'il a prélevé sur un résineux. Il a pour cela besoin de 5 po de matériel (encens, bougies...). La sève se conditionne en bâtonnet semblable à de la colophane. Un enchantement permet d'obtenir 2d6 doses.
 
-Le lanceurt de sort incante sur de la sève avant de l'appliquer sur un morceau de bois choisi. Le morceau de bois devient alors une vraie torche. Les propriétés magiques de la sève s’annule au bout de deux jours. Le sorcier peut se concentrer sur un maximum de 24 torches, mais alors la durée du sort est divisée par le nombre de torche avec un minimum de 15 minutes.
+Le lanceur  de sort incante sur de la sève avant de l'appliquer sur un morceau de bois choisi. Le morceau de bois devient alors une vraie torche. Les propriétés magiques de la sève s’annule au bout de deux jours. Le sorcier peut se concentrer sur un maximum de 24 torches, mais alors la durée du sort est divisée par le nombre de torche avec un minimum de 15 minutes.

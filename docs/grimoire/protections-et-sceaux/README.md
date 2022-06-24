@@ -28,7 +28,7 @@ _Protections et sceaux_ produit les effets suivants dans la zone protégée.
 
 **Escaliers**. Des toiles d'araignées, comme le sort du même nom, emplissent tous les escaliers de la zone protégée, du sol au plafond. Tant que _protections et sceaux_ persiste, ces fils réapparaissent en 10 minutes si quelqu'un les brûle ou les arrache.
 
-**Portes**. Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un <ST s="verrou-magique"/>. De plus, vous pouvez recouvrir jusqu'à dix portes d'une illusion (comme la fonction d'objet illusoire du sort <ST s="illusion-mineure"/>), afin de les faire passer pour une section de mur ordinaire.
+**Portes**. Toutes les portes de la zone protégée sont fermées par magie, comme scellées avec un <ST s="verrou-magique"/>. De plus, vous pouvez recouvrir jusqu'à dix portes d'une illusion (comme la fonction d'objet illusoire du sort, afin de les faire passer pour une section de mur ordinaire.
 
 **Autres effets de sort**. Vous pouvez placer l'un des effets suivants, au choix, dans la zone protégée par le sort.
 * Placer une <ST s="bouche-magique"/> en deux endroits.

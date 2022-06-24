@@ -29,6 +29,6 @@ Votre forme astrale se déplace librement sur le plan astral et peut traverser l
 
 Le sort se termine pour vous et vos compagnons dès que vous utilisez une action pour y mettre fin. À ce moment, les créatures affectées regagnent leurs corps physiques, qui se réveillent.
 
-Le sort peut se terminer plus tôt pour vous ou pour l'un de vos camarades. Si quelqu'un réussit une _dissipation de la magie_ contre le corps astral ou physique d'une créature affectée, le sort se termine pour elle seule. Il en va de même si la forme astrale ou le corps physique d'une créature affectée tombe à 0 point de vie. Si le sort se termine alors que le cordon argenté est intact, celui-ci ramène la forme astrale dans le corps physique, mettant un terme à l'état d'animation suspendue.  
+Le sort peut se terminer plus tôt pour vous ou pour l'un de vos camarades. Si quelqu'un réussit une _dissipation de la magie_ contre le corps astral ou physique d'une créature affectée, le sort se termine pour elle seule. Il en va de même si la forme astrale ou le corps physique d'une créature affectée tombe à 0 point d'action. Si le sort se termine alors que le cordon argenté est intact, celui-ci ramène la forme astrale dans le corps physique, mettant un terme à l'état d'animation suspendue.  
 
-Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point de vie.   
+Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons restent sous forme astrale et doivent se débrouiller seuls pour regagner leur corps physique, en général en se laissant tomber à 0 point d'action.   
