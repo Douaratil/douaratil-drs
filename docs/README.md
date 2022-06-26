@@ -20,11 +20,13 @@ Poursuite du livre des rituels, actuellement 230 pages et sortilèges jusqu'à l
 - Ajout du sort [Terrain magique](/grimoire/terrain-magique).
 - Ajout du sort [Torche humaine](/grimoire/torche-humaine)
 - Ajout du sort [Torture mentale](/grimoire/torture-mentale).  
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc).    
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin).   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 25 juin 2022_
+_le 26 juin 2022_
 §§§
 
 ## Mise à jour 120
