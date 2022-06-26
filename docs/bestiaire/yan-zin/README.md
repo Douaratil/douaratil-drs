@@ -145,8 +145,8 @@ Yan Zin possède l'équipement suivant :
 - rations (6)
 - sabre oriental
 - Vêtement de bonne qualité
-- 19 700 PA
-- 2 057 PO.    
+- 23900 PA
+- 6597 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -164,8 +164,8 @@ Yan Zin possède l'équipement suivant :
 ### Colonie de Madin'alajnibh
 **Développement faible** La colonie est pauvre.  
 La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po    
-**Colons** : 54
-**Trésor** : 660 PO
+**Colons** : 83
+**Trésor** : 340 PO
 
 §§§
 
@@ -177,7 +177,8 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 **Points de Magie** :10  
 **Points de Foi** :14        
 **Points d'honneur** :31  
-**Voie d'éveil**: Voie de l'ascension     
+**Voie d'éveil**: Voie de l'ascension   
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos.    
 §§§
 
 §§§ .hero

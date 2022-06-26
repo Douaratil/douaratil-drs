@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Neutre"
-challenge: "15"
-customHP: "46"
+challenge: "16"
+customHP: "48"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 20
-  sag: 19
-  cha: 14
-customSavingThrows: "for -1, dex -1, con +3, int(•) +10, sag(••) +14, cha(•) +7 "
+  sag: 20
+  cha: 15
+customSavingThrows: "for -1, dex -1, con +3, int(•) +11 (+1 bonus guilde des Mages), sag(••) +15, cha(•) +7 "
 savingThrows:
   - "int"
   - "sag"
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "16 (Armure de cuir cloutée)"
+  value: "17 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie -1"
@@ -32,7 +32,7 @@ skills:
   - name: "custom"
     value: "discrétion(•) +4"
   - name: "custom"
-    value: "dressage +4"
+    value: "dressage +5"
   - name: "custom"
     value: "escamotage(•) +4"
   - name: "custom"
@@ -42,13 +42,13 @@ skills:
   - name: "custom"
     value: "investigation +5"
   - name: "custom"
-    value: "médecine(•) +9"
+    value: "médecine(•) +10"
   - name: "custom"
     value: "nature +5"
   - name: "custom"
-    value: "perception +4 (désavantage pour les tests visuels)"
+    value: "perception +5 (désavantage pour les tests visuels)"
   - name: "custom"
-    value: "perspicacité +2"
+    value: "perspicacité +5"
   - name: "custom"
     value: "persuasion +2 (désavantage pour les tests)"
   - name: "custom"
@@ -58,7 +58,7 @@ skills:
   - name: "custom"
     value: "supercherie +2"
   - name: "custom"
-    value: "survie +4"
+    value: "survie +5"
 
 movement:
   walk: 9
@@ -187,11 +187,11 @@ Gwion possède l'équipement suivant :
 - sac à dos
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
-- 3862 PC
-- 30 018 PA
+- 3857 PC
+- 29 978 PA
 - 44 PE
-- 10 592 PO
-- 128 PP.  
+- 12 958 PO
+- 132 PP.  
 §§§
 
 §§§ .hero
@@ -215,13 +215,15 @@ Gwion possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +15**
 **DD de Sauvegarde: 20**  
-**Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Aspersion d'acide](/grimoire/aspersion-acide), [Bourrasque](/grimoire/bourrasque), [Boussole mentale](/grimoire/boussole-mentale), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
-[message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
-[Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
-[Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
+**Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Arme magique](/grimoire/arme-magique), [Aspersion d'acide](/grimoire/aspersion-acide), [Baie nourricière](/grimoire/baie-nourriciere), [Balisage](/grimoire/balisage), [Bourrasque](/grimoire/bourrasque), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Boussole mentale](/grimoire/boussole-mentale), [Cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre),   
+[Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification),  
+[invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
+[Mot de guérison](/grimoire/mot-de-guerison), [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [produire une flamme](/grimoire/produire-une-flamme), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
+[Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [Thaumaturgie](/grimoire/thaumaturgie),[vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairvoyance](/grimoire/clairvoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre), [Respiration aquatique](/grimoire/respiration-aquatique),
+[Arme sainte](/grimoire/arme-sainte), [Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairvoyance](/grimoire/clairvoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre),   
+[Prière de soins ](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
@@ -230,14 +232,14 @@ $àçmp
 
 **Sorts possédés à apprendre** :
 
-- Novice : Baie nourricière, druidisme, coup de tonnerre, compagnon animal, bouclier de la foi, lame de feu, flamme sacrée, produire une flamme, thaumaturgie  
-- Disciple : Prière de soin, arme sainte  
-- Apprenti :   
+- Novice :   
+- Disciple :   
+- Apprenti :     
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine important** : Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.
+**Niveau patrimoine important** : Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.   
 **Apoticaire de Caohaydan** : 3d6 po  
 §§§
 
@@ -248,7 +250,7 @@ $àçmp
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
-**Colons** : 46    
+**Colons** : 54    
 **Trésor** : 1000 po  
 
 §§§
@@ -257,14 +259,15 @@ $àçmp
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 185 015    
-**Points de Magie** :80   
-**Points de Foi** :19    
-**Points d'honneur** :49          
+**XP acquis** : 196 265    
+**Points de Magie** :84   
+**Points de Foi** :20      
+**Points d'honneur** :51            
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Guilde des mages** : Disciple 280 po/lune, avantage : réseau de guilde, +1 aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde), train de vie confortable.   
-**Eveil**: Voie médiane
+**Guilde des mages** : Apprenti 420 po/lune, avantage : réseau de guilde, +1 au toucher et aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde : Foudre), +1 aux JS d'INT, train de vie confortable.   
+**Eveil**: Voie médiane  
+Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
 §§§
 
 §§§ .hero

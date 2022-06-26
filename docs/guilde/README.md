@@ -77,8 +77,9 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour 
 
 |Titre|Valeur de l'oeuvre|Difficulé de réalisation|
 |:-:|:-:|:-:|
-|Novice|Prix X2|12|
-|Disciple|Prix X5|16|
+|Novice|Prix X2|8|
+|Disciple|Prix X3|12|
+|Apprenti|Prix X5|16|
 |Adepte|Prix X10|22|
 |Expert|Prix X50|28|
 |Maître|Prix X100|35|
@@ -107,7 +108,8 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 |Titre|Adversaire|ID (Niveau) de l'adversaire|
 |:-:|:-:|:-:|
 |Novice|[Guerrier novice](/bestiaire/voie-des-armes-novice)|3|
-|Disciple|[Guerrier Disciple](/bestiaire/voie-des-armes-disciple)|9|
+|Disciple|[Guerrier Disciple](/bestiaire/voie-des-armes-disciple)|5|
+|Apprenti|[Guerrier Disciple](/bestiaire/voie-des-armes-disciple)|9|
 |Adepte|[Guerrier Adepte](/bestiaire/voie-des-armes-adepte)|13|
 |Expert|[Guerrier Expert](/bestiaire/voie-des-armes-expert)|15|
 |Maître|[Guerrier Maître](/bestiaire/voie-des-armes-maitre)|17|
@@ -155,8 +157,9 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 
 |Titre|Difficulté de la mission|Conséquence de l'échec|
 |:-:|:-:|:-:|
-|Novice|12|1d6 jours de prison, 5 po d'amende / jour de prison|
-|Disciple|16|2d6 jours de prison, 15 po d'amende / jour de prison, fouetté dans la cellule 1d6 jours au lits et fiévreux avec [blessures mineures plaies](/gerer-la-sante-du-personnage/#coups-critiques)|
+|Novice|8|1d6 jours de prison, 5 po d'amende / jour de prison|
+|Disciple|12|1d6 jours de prison, 10 po d'amende / jour de prison, fouetté dans la cellule 1d6 jours au lits et fiévreux avec [blessures mineures plaies](/gerer-la-sante-du-personnage/#coups-critiques)|
+|Apprenti|16|2d6 jours de prison, 15 po d'amende / jour de prison, fouetté dans la cellule 1d6 jours au lits et fiévreux avec [blessures mineures plaies](/gerer-la-sante-du-personnage/#coups-critiques)|
 |Adepte|22|3d6 jours de prison, 30 po d'amende / jour de prison, fouetté en place publique 1d6 jours au lits et fiévreux avec [blessures mineures plaies](/gerer-la-sante-du-personnage/#coups-critiques)|
 |Expert|28|3d6 jours de prison, 100 po d'amende / jour de prison, bastonné en place publique 1d6 jours au lits et fiévreux avec [blessures mineures fractures aux deux bras](/gerer-la-sante-du-personnage/#coups-critiques)|
 |Maître|35|5d6 jours de prison, 150 po d'amende / jour de prison, fouetté dans la cellule 1d6 jours au lits et fiévreux avec [blessures majeures fractures aux quatre membre](/gerer-la-sante-du-personnage/#coups-critiques)|
@@ -205,8 +208,9 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour 
 
 |Titre|Difficulté du spectacle|Conséquence de l'échec|
 |:-:|:-:|:-:|
-|Novice|12|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 10 po de publicité et pots de vin pour annuler l'effet.|
-|Disciple|16|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 20 po de publicité et pots de vin pour annuler l'effet.|
+|Novice|8|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 10 po de publicité et pots de vin pour annuler l'effet.|
+|Disciple|12|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 15 po de publicité et pots de vin pour annuler l'effet.|
+|Apprenti|16|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 20 po de publicité et pots de vin pour annuler l'effet.|
 |Adepte|22|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 50 po de publicité et pots de vin pour annuler l'effet.|
 |Expert|28|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 100 po de publicité et pots de vin pour annuler l'effet.|
 |Maître|35|[_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de compétences utilisant le CHA pendant une lune, 1d6 x 200 po de publicité et pots de vin pour annuler l'effet.|
@@ -217,7 +221,8 @@ Par contre, le membre de la guilde peut faire un spectacle par semaine, qui lui 
 |Titre|Difficulté de la mission|lieux|Revenus bruts attendus|Modificateurs applicables ->|classe sociale visée|Coût du spectacle|Modificateurs revenus|Autre|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Novice|8|lieu-dit|1d6 po/mod CHA|Rien|Gens du peuple|20 po|X1| |
-|Disciple|12|village|2d6 po/mod CHA|+1 palier de difficulté|30|Petits bourgeois|X2| |
+|Disciple|12|village|1d6 po/mod CHA|+1 palier de difficulté|28|Petits bourgeois|X2| |
+|Apprenti|16|village|2d6 po/mod CHA|+1 palier de difficulté|30|Petits bourgeois|X2| |
 |Adepte|16|petite ville|3d6 po/mod CHA|->|+1 palier de difficulté|100|X5|Haut fait d'honneur héroïque|
 |Expert|22|cité|4d6 po/mod CHA|->|+1 palier de difficulté|200|X10|Haut fait d'honneur légendaire|
 |Maître|28|grande cité (capitale régionale)|5d6 po/mod CHA|+1 palier de difficulté|Grands aristocrates|500|X20|Haut fait d'honneur mythique|
@@ -247,7 +252,8 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour 
 |Titre|Adversaire|ID (Niveau) de l'adversaire|Objet magique à fabriquer|
 |:-:|:-:|:-:|:-:|
 |Novice|[Mage novice](/bestiaire/voie-de-la-magie-novice)|3|-|
-|Disciple|[Mage Disciple](/bestiaire/voie-de-la-magie-disciple)|9|Courant|
+|Disciple|[Mage Disciple](/bestiaire/voie-de-la-magie-disciple)|5|Courant|
+|Apprenti|[Mage Disciple](/bestiaire/voie-de-la-magie-disciple)|9|Courant|
 |Adepte|[Mage Adepte](/bestiaire/voie-de-la-magie-adepte)|13|Peu courant|
 |Expert|[Mage Expert](/bestiaire/voie-de-la-magie-expert)|15|Rare|
 |Maître|[Mage Maître](/bestiaire/voie-de-la-magie-maitre)|17|Très rare|
