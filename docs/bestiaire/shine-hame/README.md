@@ -176,4 +176,5 @@ Shin Hame possède l'équipement suivant :
 - hanche gauche (10 cm)  
 - mollet droit (10 cm)
 
+Mise à jour du 27/06/2022
 §§§

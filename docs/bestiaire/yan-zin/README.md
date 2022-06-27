@@ -113,7 +113,7 @@ _**Tir lointain**_. *(Seibahkami)* À partir du niveau 8, en prenant un round de
 _**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
 _**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+4 dégâts tranchants (Finesse, légère).
+_Touché_ : 2d6+5 dégâts tranchants (Finesse, polyvalente 3d6+4).
 
 _**Dague(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+4 dégâts tranchants (Finesse, légère, lancer 6/18).
@@ -185,4 +185,5 @@ Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos.
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 hanche gauche (20cm)
 
+Mise à jour du 27/06/2022
 §§§

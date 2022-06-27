@@ -228,7 +228,7 @@ Gwion possède l'équipement suivant :
 
 **Apprenti** :  
 [Brise os](/grimoire/brise-os), [Cône de froid](/grimoire/cone-de-froid), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire),[Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Restauration supérieure](/grimoire/restauration-superieure), [Scrutation](/grimoire/scrutation)
-$àçmp
+
 
 **Sorts possédés à apprendre** :
 
@@ -275,6 +275,6 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 30/04/2022
+Mise à jour du 27/06/2022
 
 §§§

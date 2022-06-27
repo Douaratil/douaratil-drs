@@ -85,7 +85,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Massue|2 pa|2d6+2 contondant|5 kg|À deux mains|DD16|
 |Serpe|1 po|1d6 tranchant|1 kg|Légère|DD16|
 
-   
+
 
 |Nom|Prix|Dégâts|Poids|Propriétés|DD de négociation|
 |:-|:-:|:-:|:-:|:-:|-:|
@@ -118,6 +118,7 @@ Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-de
 |Pic de guerre|5 po|2d6+2 perforant|1 kg|-|DD16|
 |Pique|5 po|3d6 perforant|9 kg|Lourde, allonge, à deux mains|DD16|
 |Rapière|25 po|2d6+2 perforant|1 kg|Finesse|DD16|
+|Sabre|60 po|2d6+1 tranchant|1,5 kg|Finesse, Polyvalente (3d6)|DD16|
 |Trident|5 po|2d6 perforant|2 kg|Lancer (portée 6/18), polyvalente (2d6+2)|DD16|
 
 
