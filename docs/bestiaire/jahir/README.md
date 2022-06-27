@@ -1,7 +1,7 @@
 ---
 title: "Jahir"
 type: "PJ"
-subtype: "Meldète"
+subtype: "Ashkhémite"
 size: "M"
 alignment: "Neutre"
 challenge: "1"
@@ -69,7 +69,7 @@ category: "PJ"
 ---
 ## Jahir
 &nbsp;
-[![Jahir](https://www.douaratil.fr/illustrations/pj/gwionm.png)](https://www.douaratil.fr/illustrations/pj/gwion.jpg)  
+[![Jahir](https://www.douaratil.fr/illustrations/pj/jahirm.png)](https://www.douaratil.fr/illustrations/pj/jahir.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 0      
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 0    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -134,18 +134,13 @@ _Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
- *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 196 265    
-**Points de Magie** :84   
-**Points de Foi** :20      
-**Points d'honneur** :51            
+**Haut fait de vaillance** :  
+**XP acquis** : 0  
+**Points de Magie** :0   
+**Points de Foi** :0      
+**Points d'honneur** :0            
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
-**Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Guilde des mages** : Apprenti 420 po/lune, avantage : réseau de guilde, +1 au toucher et aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde : Foudre), +1 aux JS d'INT, train de vie confortable.   
-**Eveil**: Voie médiane  
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
-§§§
+
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
