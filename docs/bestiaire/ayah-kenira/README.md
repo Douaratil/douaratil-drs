@@ -69,7 +69,7 @@ category: "PJ"
 ---
 ## Ayah Kenira
 &nbsp;
-[![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayahkenriam.png)](https://www.douaratil.fr/illustrations/pj/ayahkenira.jpg)  
+[![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayahkeniram.png)](https://www.douaratil.fr/illustrations/pj/ayahkenira.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités
