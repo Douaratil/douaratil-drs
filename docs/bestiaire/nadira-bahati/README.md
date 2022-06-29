@@ -1,5 +1,5 @@
 ---
-title: "Malala Soa"
+title: "Nadira Bahati"
 type: "PJ"
 subtype: "Sooghaï"
 size: "M"
