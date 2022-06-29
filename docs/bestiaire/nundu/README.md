@@ -47,7 +47,10 @@ _**Tactique de groupe**_. Le nundu obtient un [_avantage_](/utiliser-les-caracte
 
 ## Actions
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+4 dégâts tranchants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 pour ne pas subir 3d6 dégâts de poison (la moitié en cas de réussite).  
+_Touché_ : 1d6+4 dégâts tranchants.  
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+4 dégâts perforants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 pour ne pas subir 3d6 dégâts de poison (la moitié en cas de réussite).  
+_Touché_ : 2d6+4 dégâts perforants.  
+
+_**Queue épineuse**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+4 dégâts perforants et la cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 pour ne pas subir 4d6 dégâts de poison (la moitié en cas de réussite).  

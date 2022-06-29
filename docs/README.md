@@ -16,7 +16,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 123
 - Ajout d'[Ayah Kenira](/bestiaire/ayah-kenira) au bestiaire.
-- Ajout du [Nundus](/bestiaire/nundus) au bestiaire. 
+- Ajout de [Jahir](/bestiaire/jahir) au bestiaire.
+- Ajout du [Nundu](/bestiaire/nundu) au bestiaire.
 
 Bon jeu.     
 §§§ .text-right
