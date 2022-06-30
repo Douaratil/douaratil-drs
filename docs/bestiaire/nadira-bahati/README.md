@@ -10,10 +10,10 @@ abilityScores:
   for: 10
   dex: 10
   con: 12
-  int: 10
-  sag: 11
+  int: 12
+  sag: 10
   cha: 10
-customSavingThrows: "for +0, dex +0, con +1, int +2, sag +2, cha +0"
+customSavingThrows: "for +0, dex +0, con +1, int(•) +3, sag(•) +2, cha +0"
 savingThrows:
 
   - "int"
@@ -22,14 +22,44 @@ ac:
   armorType: "custom"
   value: "10"
 skills:
-  - name: "arcanes"
-    isExpert: true
-  - name: "athletisme"
-    isExpert: true
-  - name: "religion"
-    isExpert: true
-  - name: "representation"
-    isExpert: true
+  - name: "custom"
+    value: "acrobatie +0"
+  - name: "custom"
+    value: "arcanes +1"
+  - name: "custom"
+    value: "athlétisme +0"
+  - name: "custom"
+    value: "discrétion +0"
+  - name: "custom"
+    value: "dressage +0"
+  - name: "custom"
+    value: "Équitation +0"
+  - name: "custom"
+    value: "escamotage +0"
+  - name: "custom"
+    value: "histoire +1"
+  - name: "custom"
+    value: "intimidation +0"
+  - name: "custom"
+    value: "investigation +1"
+  - name: "custom"
+    value: "médecine +2"
+  - name: "custom"
+    value: "nature +0"
+  - name: "custom"
+    value: "perception +0"
+  - name: "custom"
+    value: "Perspicacité +0"
+  - name: "custom"
+    value: "persuasion +0"
+  - name: "custom"
+    value: "religion(•) +3"
+  - name: "custom"
+    value: "représentation +0"
+  - name: "custom"
+    value: "supercherie +0"
+  - name: "custom"
+    value: "survie +0"
 movement:
   walk: 9
 senses:
@@ -37,18 +67,18 @@ languages:
   - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
-## Malala Soa
+## Nadira Bahati  
 &nbsp;
-[![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalam.png)](https://www.douaratil.fr/illustrations/pj/malala.jpg)  
+[![Nadira Bahati  ](https://www.douaratil.fr/illustrations/pj/nadirabahatim.png)](https://www.douaratil.fr/illustrations/pj/nadirabahati.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités
-_**Historique:**_ Serveur
-**Compétences** : Athlétisme, Représentation.  
-**Outils maîtrisés** : Ustensiles de cuisinier ou un type de jeu au choix.  
-**Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.  
-**Aptitude** : [Histoires de terres lointaines](/personnalite-et-historique/#histoires-de-terres-lointaines)  
+_**Historique:**_ Cuisinier  
+**Compétences** : Discrétion, Perspicacité.    
+**Outils maîtrisés** : Ustensiles de cuisinier.   
+**Langues maîtrisées** : Une langue au choix.    
+**Équipement** : Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.  
+**Aptitude** : [Réconfort du foyer](/personnalite-et-historique/#reconfort-du-foyer)   
 
 _**Maîtrises:**_. Dagues, lance, massue, fronde, bâton, fléchettes.  
 
@@ -74,17 +104,17 @@ _Touché_ : 1d6 dégâts perforant (portée 9/36).
 
 §§§ .hero
 ### Présentation:  
-Malala Soa est une Sooghaï. Ancienne esclave, capturée par des marchands shahims, elle a été vendue au clan Khernaë Moisan. Elle est devenue la servante de Morwenna, princesse Khernaëe. Elles sont devenues amie et Morwenna l'a affranchie aux fêtes de Gohan à Ker-Saozon. Depuis Malala Soa est libre.  
+nadirabahati est une Sooghaï. Ancienne guérisseuse cuisinière, Nadira Bahati  est libre.  
 §§§
 
 §§§ .hero
 ### Description physique:  
-Malala Soa est une Sooghaï de vingt printemps. Elle a la peau très sombre, les cheveux noirs et les yeux de noirs. De stature moyenne mais de grande taille, elle mesure un mètre soixante douze pour cinquante six kilos.
+Nadira Bahati  est une Sooghaï de vingt printemps. Elle a la peau très sombre, les cheveux noirs et les yeux de noirs. De stature moyenne mais de grande taille, elle mesure un mètre soixante treize pour cinquante neuf kilos.
 §§§
 
 §§§ .hero
 ### Equipement:  
-Malala Soa possède l'équipement suivant :
+Nadira Bahati  possède l'équipement suivant :
 - Dague
 - Massue
 - Fronde
@@ -98,6 +128,6 @@ Malala Soa possède l'équipement suivant :
 ### Autres informations:  
 **XP acquis** : 620  
 **Points de Magie** :10  
-**Points de Foi** :19   
+**Points de Foi** :18   
 **Points d'honneur** :15
 §§§
