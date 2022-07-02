@@ -68,7 +68,7 @@ category: "PJ"
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
-## <v-icon>mdi-weight-lifter</v-icon> Capacités
+## <v-icon>mdi-weight-lifter</v-icon> Capacités  
 **Historique** : Militaire  
 **Compétences** : Athlétisme (expert), , Dressage, Intimidation (expert), Perception, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix (dés).     
@@ -76,29 +76,29 @@ category: "PJ"
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)    
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (Double maîtrise pour armes courantes, Hache, haches à deux mains et la pique), boucliers, armure légère, armure intermédiaire, armure lourde.  
-Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+
 _**Voie des Armes & Ior**_. Taron est niveau 9 dans la voie des armes et Archétype Ior.  
 
-_**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.
-Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
-_**Second souffle**_. *(Armes)* Taron jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
+_**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
-_**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
+_**Second souffle**_. *(Armes)* Taron jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
+
+_**Sursaut d'activité**_. *(Armes)* À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.   
 
 _**Rage de Teutès**_. *(Ior)* A partir du niveau 3, quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une férocité animale. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de rage. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
-• Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
-• Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +2.
-Ce bonus augmente en même temps que votre niveau.  
-• Vous devenez résistant aux dégâts contondants, perforants et tranchants.
-Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
-Votre rage dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+• Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.  
+• Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +2.  
+Ce bonus augmente en même temps que votre niveau.    
+• Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
+Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.     
+Votre rage dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.    
 Le Ior possède **deux états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 
 _**Témérité**_. *(Ior)* À partir du niveau 4, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l’énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à- corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.  
 
-_**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
-Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
+_**Attaque supplémentaire**_. *(Armes)* À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
+Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.  
 
 _**Rage aveugle**_. *(Ior)* À partir du niveau 6, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) pendant que vous êtes enragé. Si vous êtes déjà [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) au moment où vous vous mettez en rage, l'effet est suspendu le temps de la rage.  
 
@@ -114,20 +114,20 @@ _**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état d
 _**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'il utilise l'action attaquer.  
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+6 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+4 (+1 attaque supplémentaire du Ior)à deux mains).
+_Touché_ : 2d6+6 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+4 (+1 attaque supplémentaire du Ior)à deux mains).  
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (portée 6/18).  
 
 _**Pique(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).
+_Touché_ : 3d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).  
 
 
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Taron Vecconos est un grand Meldète à la barbe longue et la moustache fournie, 2ème fils de la famille Vecconos, petite mais respectée famille noble de Masyvum.
-Suite aux évènements récents, il a suivi son frère Pywed vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
+Taron Vecconos est un grand Meldète à la barbe longue et la moustache fournie, 2ème fils de la famille Vecconos, petite mais respectée famille noble de Masyvum.  
+Suite aux évènements récents, il a suivi son frère Pywed vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.    
 §§§
 
 §§§ .hero
@@ -137,21 +137,22 @@ Taron Vecconos est un Meldète de vingt huit printemps. Il a la peau blanche les
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
-Taron Vecconos possède l'équipement suivant :
-- Armure de cuir cloutée
-- bourse
-- dague
-- habits de bonne qualité
-- haches(2)
-- pique
-- sac à dos
+Taron Vecconos possède l'équipement suivant :  
+- Armure de cuir cloutée  
+- bourse  
+- dague  
+- habits de bonne qualité  
+- haches(2)  
+- pique  
+- sac à dos  
 - 125 po  
 §§§
 
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** : néant
+**Niveau patrimoine très faible** : néant   
+Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
 §§§
 
 §§§ .hero
@@ -159,37 +160,12 @@ Taron Vecconos possède l'équipement suivant :
 **Bâtiments** : Une bâtisse principale    
 **Serviteurs** : 0    
 **Revenus** : 0    
+-
 ### Colonie de Madin'alajnibh
-|Table des bâtiments & des ressources ddu quartier |||||||||||
-|Type|nombre|Influence|Insécurité| Bien-être|Nourriture|Capacité d'accueil|Revenus|Nombre maximum|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Atelier de poterie|0|-|0|-|-|0|0d6 po|1/10 maisons|
-|Basse-cour|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bergerie|0|0|-|0|0d6|0|0d6 pa|1/5 maisons|
-|Bordel|0|0|0|0|-|0|0d6 pp|1|
-|Caravane commerciale|0|0|-|0|spécial|0|spécial|maximum 4|
-|Caserne|0|0|-0|-|-|0|-|0|
-|Écurie|0|0|0|0|-|0|-|1/10 maisons|
-|Enceinte|0|0|0|-|-|-|-|1 par section (case) limitrophe des maisons extérieures|
-|Entrepôt|0|0|0|0|-|0|0|1/10 maisons (permet de stocker 20 nourritures)|
-|Étable|0|0|-|0|0d6|0|0d6 po|1/10 maisons|
-|Forge|0|0|0|0|-|0|0d6 po|1/10 maisons|
-|Four|0|0|-|-|0d6|0|0d6 pa|1/5 maisons|
-|Maison|1|0|-|-|-|5|1d6 pa|Max=CHA+SAG|
-|Menuiserie|0|0|0|-|-|0|0d6 po|1/10 maisons|
-|Moulin|0|0|0|0|0d6|0|0d6 po|1/10 maisons|
-|Puits|0|+0|-|0|0d6|-|-|1/10 maisons|
-|Salle du conseil|0|0|0|0|-|0|-|1|
-|Taverne|0|0|0|0|0d6|0|0d6 pe|2 (la seconde pas avant 10 maisons)|
-|Temple|0|0|0|0|-|0|0d6 pp|1|
-|**Total**|**1**|**1**|**0**|**0**|**-**|**5**|**1d6 pa**|**-**|
-
-
-### Modificateur d'évènement  
-|Modificateur d'évènement|||||||
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Influence|Bonus d'influence (+) |Insécurité  (-) |Bien-être (+) |Nourriture manquante (-) |Excédent de colons (-) |**TOTAL**|
-|11 --->|0|0|0|-27|-22|**-49**|
+**Développement très faible** La colonie est pauvre.  
+La colonie est très pauvre. La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po.   
+**Colons** : 25  
+**Trésor** : 100 PO  
 
 §§§
 
@@ -203,6 +179,6 @@ Taron Vecconos possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
-Comme un sou neuf
+Comme un sou neuf  
 
 §§§
