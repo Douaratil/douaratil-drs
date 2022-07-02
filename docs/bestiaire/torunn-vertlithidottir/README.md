@@ -64,7 +64,7 @@ languages:
 ---
 ## Torunn Vertlithidottir
 &nbsp;
-[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottirm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir.jpg)  
+[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlitm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlit.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
