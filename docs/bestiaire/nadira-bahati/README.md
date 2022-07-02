@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Sooghaï"
 size: "M"
 alignment: "loyal neutre"
-challenge: "2"
-customHP: "16"
+challenge: "3"
+customHP: "18"
 abilityScores:
   for: 10
   dex: 10
   con: 12
   int: 12
-  sag: 10
+  sag: 11
   cha: 10
 customSavingThrows: "for +0, dex +0, con +1, int(•) +3, sag(•) +2, cha +0"
 savingThrows:
@@ -32,8 +32,6 @@ skills:
     value: "discrétion +0"
   - name: "custom"
     value: "dressage +0"
-  - name: "custom"
-    value: "Équitation +0"
   - name: "custom"
     value: "escamotage +0"
   - name: "custom"
@@ -70,7 +68,7 @@ category: "PJ"
 ## Nadira Bahati  
 &nbsp;
 [![Nadira Bahati  ](https://www.douaratil.fr/illustrations/pj/nadirabahatim.png)](https://www.douaratil.fr/illustrations/pj/nadirabahati.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités
 _**Historique:**_ Cuisinier  
@@ -82,29 +80,30 @@ _**Historique:**_ Cuisinier
 
 _**Maîtrises:**_. Dagues, lance, massue, fronde, bâton, fléchettes.  
 
-_**Voie de la Magie**_. Malala Soa est niveau 2 dans la voie de la Magie.  
+_**Voie de la Magie & Shangharah**_. Nadira Bahati  est niveau 3 dans la voie de la Magie et Shangharah.  
 
-### Restauration magique _*(Voie de la Magie)*_
-Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.
+_**Restauration magique**_.  _*(Voie de la Magie)*_ Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration. Les points récupérés ne peuvent pas excéder la moitié point totaux.  
+
+_**Disciple de la vie**_.  _*(Shangharah)*_ Dès le niveau 3, vos rituels de soins sont plus efficaces. À chaque fois que vous utilisez un rituel de redonner des points d’action à une personne, celle-ci regagne un nombre de points d’action supplémentaires égal à 2 + le coût de base du sort en points de foi (PF). La Shangharah apprend gratuitement le sort [soins des blessures](/grimoire/soin-des-blessures).  
 
 ## Actions  
-_**Dague**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
-_**Massue**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Massue(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts contondant (à deux mains).  
 
-_**Bâton**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Bâton(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6 dégâts contondant (Polyvalent 2d6+2 à deux mains).  
 
-_**Fronde**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Fronde(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts perforant (portée 9/36).  
 
 
 
 §§§ .hero
 ### Présentation:  
-nadirabahati est une Sooghaï. Ancienne guérisseuse cuisinière, Nadira Bahati  est libre.  
+Nadira Bahati  est une Sooghaï. Ancienne guérisseuse cuisinière, Nadira Bahati  est libre.  
 §§§
 
 §§§ .hero
@@ -121,12 +120,13 @@ Nadira Bahati  possède l'équipement suivant :
 - Billes (20)
 - Habits courants
 - outils de cuisine
-- bouteille d'alcool fort, -43 PO.
+- bouteille d'alcool fort,
+- 43 PO.
 §§§
 
 §§§ .hero
 ### Autres informations:  
-**XP acquis** : 620  
+**XP acquis** : 970    
 **Points de Magie** :10  
 **Points de Foi** :18   
 **Points d'honneur** :15
