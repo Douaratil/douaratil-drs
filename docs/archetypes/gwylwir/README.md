@@ -83,7 +83,7 @@ Au niveau 9 , quand vous portez une armure, vous gagnez un bonus de +1 à votre 
 
 ### Vigilance primitive  
 **En Meldète : Fairh’prìomdahl**  
-À partir du niveau 11, vous pouvez prendre 10 minutes pour observer depuis un point haut et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes à votre niveau, vous pouvez déterminer si vos ennemis jurés se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres). Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.  
+À partir du niveau 11, vous pouvez prendre 10 minutes pour observer depuis un point haut et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes égal à votre niveau, vous pouvez déterminer si vos ennemis jurés se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres). Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.  
 
 ### Traversée des terrains  
 **En Meldète : Croesi’daear**  

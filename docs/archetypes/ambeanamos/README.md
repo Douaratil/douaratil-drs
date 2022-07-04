@@ -96,7 +96,7 @@ Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous i
 
 ### Énergie positive  
 **En Meldète : Lùthartach**  
-Au niveau 6, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) tous les jets de sauvegarde contre l'état [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise). Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux.
+Au niveau 6, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) tous les jets de sauvegarde contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux.
 L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la [Métamagie ](#manipulation-de-la-magie-ou-metamagie), vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la [Métamagie ](#manipulation-de-la-magie-ou-metamagie)).
 
 ### Compagnon animal  

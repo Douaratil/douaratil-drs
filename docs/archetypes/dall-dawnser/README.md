@@ -60,7 +60,7 @@ Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type
 ### Force d’âme
 **En Khern : Nerzhkalon**  
 À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie ce qui vous permet de puiser dans votre réserve de point de foi (PF) pour utiliser vos aptitudes de Dall Dawnser.
-Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : Glavtaol [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
+Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : (Glavtaol) [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
 Certaines de vos aptitudes permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi :  
 **DD de sauvegarde contre le Nerzhkalon = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**.  
 
@@ -74,7 +74,7 @@ Vous pouvez dépenser 3 points de Foi pour utiliser l'action [_esquiver_](/comba
 
 ### Déplacement aérien  
 **En Khern : Finvalaer**  
-Vous pouvez dépenser 3 points de Foi pour utiliser l'action se [_se désengager_](/combattre/#se-desengager) ou se [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.  
+Vous pouvez dépenser 3 points de Foi pour utiliser l'action [_se désengager_](/combattre/#se-desengager) ou [_se précipiter_](/combattre/#se-precipiter) en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.  
 
 ### Déplacement sans armure  
 **En Khern : Finval San Harnez**  
@@ -88,7 +88,7 @@ Si les dégâts que vous subissez sont totalement annulés, vous pouvez attraper
 
 ### Griffe du prédateur  
 **En Khern : Skilfpreizher**  
-Vous faites l'acquisition de cette technique au niveau 4. La skilfpreizher vous permet d'infliger des dégâts tranchants pour vos dégâts bonus au lieu de contondants lorsque vous faites une attaque si vous le souhaitez. De plus, en dépensant 3 points de Foi, vous obtenez automatiquement le résultat maximum sur votre d6 bonus de dégâts. Si vous dépensez 6 points, vous obtenez le maximum de dégâts sur vos dégâts bonus à mains nues lors de votre tour entier.  
+Vous faites l'acquisition de cette technique au niveau 4. La skilfpreizher vous permet d'infliger des dégâts tranchants pour vos dégâts  au lieu de contondants lorsque vous faites une attaque si vous le souhaitez. De plus, en dépensant 3 points de Foi, vous obtenez automatiquement le résultat maximum sur votre d6 bonus de dégâts. Si vous dépensez 6 points, vous obtenez le maximum de dégâts sur vos dégâts bonus à mains nues lors de votre tour entier.  
 
 ### Blocage  
 **En Khern : Gwashkan**  
@@ -110,7 +110,7 @@ Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avant
 
 ### Frappe étourdissante  
 **En Khern : Taolskanv**  
-À partir du niveau 8, vous pouvez interférer avec le flux du Nerzhkalon d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de Dall Dawnser , vous pouvez dépenser 2 points pour tenter de réaliser une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou elle sera [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de votre prochain tour.  
+À partir du niveau 8, vous pouvez interférer avec le flux du Nerzhkalon d'un de vos adversaires. Quand vous frappez une autre créature avec une arme de Dall Dawnser , vous pouvez dépenser 2 points de Foi pour tenter de réaliser une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou elle sera [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) jusqu'à la fin de votre prochain tour.  
 
 ### Frappe de Nerzhkalon  
 **En Khern : Taolnerzhkalon**  
@@ -118,11 +118,11 @@ Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avant
 
 ### Morsure empoisonnée  
 **En Khern : Dantapoezon**  
-Au niveau 10, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites vos dégâts bonus si vous le souhaitez. De plus, en dépensant 2 points sur une attaque à mains nues , vous obligez votre cible à faire un jet de sauvegarde de Dextérité. En cas d'échec, elle est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.  
+Au niveau 10, vous apprenez la technique de la morsure du serpent. Elle vous permet d'infliger des dégâts perforants au lieu de contondants lorsque vous faites vos dégâts bonus si vous le souhaitez. De plus, en dépensant 2 points de Foi sur une attaque à mains nues , vous obligez votre cible à faire un jet de sauvegarde de Dextérité. En cas d'échec, elle est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de son prochain tour. Cet effet ne peut être obtenu que lors d'une attaque sur une créature disposant de récepteurs sensoriels externes liés à la vue.  
 
 ### Projection  
 **En Khern : Bannad**  
-Au niveau 11, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 2 points et votre réaction afin de l'obliger à effectuer un jet de sauvegarde de Dextérité. Si la valeur de Force de l’adversaire est supérieure à la vôtre, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). En cas d'échec, la créature se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et vous pouvez en profiter pour lui porter une à mains nues.  
+Au niveau 11, vous apprenez des techniques de projection vous permettant de retourner sa propre force contre votre adversaire. Lorsqu'une créature vous attaque au corps-à-corps et vous rate, vous pouvez dépenser 2 points de Foi et votre réaction afin de l'obliger à effectuer un jet de sauvegarde de Dextérité. Si la valeur de Force de l’adversaire est supérieure à la vôtre, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). En cas d'échec, la créature se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre) et vous pouvez en profiter pour lui porter une attaque à mains nues.  
 
 ### Soins physique  
 **En Khern : Emellkorf**  

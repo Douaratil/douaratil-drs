@@ -59,7 +59,7 @@ Vous connaissez le Drodan, la langue secrète des Drodanos. Vous pouvez parler c
 
 ### Vigueur du printemps  
 **En Meldète : Gwylgwanwyn**  
-Au niveau 3, lorsque vous choisissez ce cercle, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
+Au niveau 3, la vitalité et la jeunesse du printemps parcourent vos veines. Lorsque vous terminez un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous réduisez votre niveau d'épuisement de deux niveaux au lieu d'un seul.
 De plus, lorsque vous utilisez votre aptitude de forme sauvage, vous gagnez un nombre de points d'action temporaire égal au double de votre niveau de drodan. Vous ne conservez pas ces points d'action lorsque vous quittez la connexion avec l'animal.  
 
 

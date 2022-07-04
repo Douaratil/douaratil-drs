@@ -77,7 +77,7 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 
 ### Troisième attaque  
 **En Alcante : Tertio Impetos**  
-À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  
+À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation. 
 
 ### Orateur suprême  
 **En Alcante : Oratori**  

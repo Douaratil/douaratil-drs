@@ -40,7 +40,7 @@ En tant que Bhegelm, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Le druide Khernaë ou Bhegelm fait des divinations, vénère les esprits et consulte les auspices. Il sert aussi de mémoire collective et transmet par oral les traditions.  
 Les détenteurs de la religion, ils sont solitaires ou organisés en confrérie. Ils vivent à l'écart des villages, mais sont souvent consultés. Les Bhegelms édictent des lois orales, les Leznen qui ne sont valables que localement et pour un temps donné se comptant souvent en lunes.  
-Les Bhegelms vénèrent aussi les esprits et les créatures sylvestres, les Jevkouarn ainsi que les Animaux Roi ou Maîtres des Bêtes, les Rek'nèveleth, créatures légendaires.  
+Les Bhegelms vénèrent aussi les esprits et les créatures sylvestres, les Jevkouarns ainsi que les Animaux Roi ou Maîtres des Bêtes, les Rek'nèveleth, créatures légendaires.  
 Le Bhegelm intervient dans tous les rites importants de la vie, la naissance, la mort, le mariage, le passage à l'âge adulte. Les grandes fêtes des saisons sont « les feux de Balt » pour l'arrivée de l'été, « Les Oraisons de Neveza » pour le printemps, « les Danses d'Amzer » pour l'arrivée de l'automne et « la Longue Nuit de Gohan » pour l'entrée dans l'hiver. Chacune de ces fêtes est communautaire. Les saisons sont des géants légendaires. Les Bhegelms qui viennent de la Voie des Armes sont appelés Beleg Kann , c’est à dire littéralement «le prêtre qui combat ». Les Bhegelms qui viennent de la Voie de l’Ombre sont appelés Beleg Sekred, c’est à dire littéralement « Le prêtre secret » . Les Bhegelms qui viennent de la Voie de la Magie sont appelés Beleg Furnez, c’est à dire littéralement « le prêtre qui a la sagesse » .  
 
 ### Langue sacrée  
@@ -106,7 +106,8 @@ La créature est consciente de cet effet avant de vous attaquer.
 
 ### Incantation animale  
 **En Khern : Breou Ioen**  
-À partir du niveau 18, quand vous faites un test de caractéristique, vous pouvez utiliser l'aptitude inspiration bardique. Lancez un dé d'inspiration bardique et ajoutez le résultat à votre test de caractéristique. Vous pouvez choisir d'utiliser cette aptitude après avoir lancé le dé correspondant au test de caractéristique, mais avant que le MJ annonce si le test est un succès ou un échec.  
+À partir du niveau 18, vous pouvez lancer la plupart de vos sorts de druide quelle que soit la forme que vous prenez grâce à l'aptitude forme sauvage. Vous pouvez accomplir les composantes verbales et somatiques d'un sort de druide pendant que vous avez une forme sauvage, mais vous ne pouvez pas utiliser de composantes matérielles.  
+
 
 ### Monture sacrée parfaite  
 **En Khern : Kezeg Helgae**  

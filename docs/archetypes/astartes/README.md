@@ -37,7 +37,7 @@ En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être Alcante, Lacède ou Saramath  
 **Points de Magie** : L’Astartes est un guerrier mystique, le personnage développe les points de Foi(PF).  
 
-Les Astartes sont guerriers mystiques. Ils ont une grande foi dans les dieux qu’ils vénèrent. Ils essaient de les glorifier en ayant une vie exemplaire d’exigences. Les Astartes combattent souvent en temps de paix dans les jeux du cirque mais en temps de guerre, ils accompagnent les légions. Pour autant, les Astartes n’ont pas de pouvoirs spirituels qu’ils pourraient revendiquer dans la société alcante. Les Astartes qui viennent de la Voie des Armes sont appelés Illuminatis, littéralement les illuminés. Ceux qui viennent de la Voie de l’Ombre sont appelés Illustratos, littéralement les éclairés, et enfin ceux qui viennent de la Voie de la Magie sont appelés Professor, c’est à dire ceux qui savent.  
+Les Astartes sont des guerriers mystiques. Ils ont une grande foi dans les dieux qu’ils vénèrent. Ils essaient de les glorifier en ayant une vie exemplaire d’exigences. Les Astartes combattent souvent en temps de paix dans les jeux du cirque mais en temps de guerre, ils accompagnent les légions. Pour autant, les Astartes n’ont pas de pouvoirs spirituels qu’ils pourraient revendiquer dans la société alcante. Les Astartes qui viennent de la Voie des Armes sont appelés Illuminatis, littéralement les illuminés. Ceux qui viennent de la Voie de l’Ombre sont appelés Illustratos, littéralement les éclairés, et enfin ceux qui viennent de la Voie de la Magie sont appelés Professor, c’est à dire ceux qui savent.  
 
 ### Châtiment   
 **En Alcante : Supplicio**  
@@ -67,7 +67,7 @@ Au niveau 18, le rayon de cette aura s'étend à 9 mètres.
 
 ### Aura de courage  
 **En Alcante : Sphaera animo**  
-À partir du niveau 10, vous, ainsi que toute personne amicale qui se trouve à 3 mètres de vous, ne pouvez être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
+À partir du niveau 10, vous, ainsi que toute personne amicale qui se trouve à 3 mètres de vous, ne pouvez être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise). Cette aura persiste tant que vous n'êtes pas [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 
 ### Châtiment amélioré  
 **En Alcante : Supplicio Major**  

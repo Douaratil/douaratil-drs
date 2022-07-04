@@ -35,7 +35,7 @@ En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Jets de sauvegarde** : Variable (voir allégeance bestiale)  
 **Compétences** : choisissez trois compétences parmi : Athlétisme, Acrobatie, Discrétion, Dressage, Intimidation, Nature, Perception et Survie  
 **Conditions d'accessibilité**: Être de culture clanique, c'est à dire Khernaë, Meldète ou Melg  
-**Points de Magie** :  Le Herredyr est un Archétype magique, de ce fait, il développe les points de Foi (PM) s’il emprunte la voie de la Magie.  
+**Points de Magie** :  Le Herredyr est un Archétype mystique, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
 Les Herredyr sont des individus qui gardent les tracent de l'ancienne alliance avec les Seigneurs des Bêtes. Ils sont souvent relativement asociaux car quelque chose en eux n'est pas en accord avec la vie civilisée. Les Herredyrs de la voie des Armes sont appelés Gorach’rughadh, littéralement «La bête rugissante». Les Herredyrs de la voie de l’Ombre sont appelés Gorach’dubh, littéralement «La bête noire». Les Herredyrs de la voie de la Magie sont appelés Gorach’gwybod, littéralement « La bête qui sait».  
 *Règle particulière : il est conseillé de limiter cet Archétype à un seul par groupe de personnage.*   
@@ -113,13 +113,13 @@ L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos lon
 **En Khernaë :Kaz Chatakh**  
 **En Meldète : Fíochmhar'Beithigh**    
 **En Melg :Grymhet Eläimen**  
-Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaque est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 à chaque fois en compensation (+4 au niveau 12) .
+Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaques est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 aux dégâts à chaque fois en compensation (+4 au niveau 12) .
 
 ### Compagnon bestial
 **En Khernaë :Kile Chatakh**  
 **En Meldète : Chompánach'Beithigh**    
 **En Melg :Följeslagare Eläimen**   
-Dès le niveau 8, votre allégeance bestiale vous permet d'avoir un compagnon animal qui sera fidèle en toute chose à l'Herredyr. SI le compagnon devait mourir, l'Herredyr ne pourrait plus en avoir avant le début de la saison suivante.  
+Dès le niveau 8, votre allégeance bestiale vous permet d'avoir un compagnon animal qui sera fidèle en toute chose à l'Herredyr. Si le compagnon devait mourir, l'Herredyr ne pourrait plus en avoir avant le début de la saison suivante.  
 Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20 même si le personnage continue sa progression au delà**.
 
 Progression du compagnon
@@ -136,8 +136,6 @@ Progression du compagnon
 |**Ours**|Grande|6|+5|+6|+7|+8|+9|
 |**Panthère**|Moyenne|4|+4|+5|+6|+7|+8|
 |**Sanglier**|Moyenne|4|+3|+4|+5|+6|+7|
-
-L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
 
 
 ### Sens bestiale

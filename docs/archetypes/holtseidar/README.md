@@ -37,7 +37,7 @@ Les Holtseidars de la voie des Armes sont appelés Rûnya Styrke, littéralement
 ### Peinture sacrée  
 **En Melg : Hellig Maleri**
 Au niveau 3, l'Holtseidar peut broyer différents pigments pour créer un onguent qui lui servira à appliquer des runes sur son corps ou celui d'autrui. Il ne peut pas appliquer plus de runes que le total de son modificateur de sagesse (minimum 1). Il peut révoquer une rune par une simple action, même sur une personne différente et éloignée de lui.   
-La rune donne un bonus sur n'importe quelle compétence ou jet de sauvegarde mais aussi sur n'importe quelle jauge (Action, Magie, Foi ou Honneur) ou encore la VD. Les caractéristiques ne sont pas affectées directement Le bonus octroyé ne peut jamais dépasser le modificateur de Sagesse et le total des points cumulés sur les runes ne peut jamais dépasser son niveau.    
+La rune donne un bonus sur n'importe quelle compétence ou jet de sauvegarde mais aussi sur n'importe quelle jauge (Action, Magie, Foi ou Honneur) ou encore la VD. Les caractéristiques ne sont pas affectées directement. Le bonus octroyé ne peut jamais dépasser le modificateur de Sagesse et le total des points cumulés sur les runes ne peut jamais dépasser son niveau.    
 La rune a aussi la limitation suivante, elle peut donner un bonus mais son maximum reste limité par le niveau du personnage avec le tableau suivant:   
 
 |Niveau|Bonus maximum|
@@ -50,7 +50,7 @@ La rune a aussi la limitation suivante, elle peut donner un bonus mais son maxim
 
 ### Style de combat  
 **En Melg : Kampstil**  
-Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
+Au niveau 5, vous choisissez le style de combat Archerie. Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
 
 ### Attaque supplémentaire  
 **En Melg : Manangreb**  

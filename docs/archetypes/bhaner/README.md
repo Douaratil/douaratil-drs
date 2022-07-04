@@ -55,8 +55,8 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 
 ### Chant reposant  
 **En Khern : Arsavh**  
-À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court). Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) en utilisant un ou plusieurs dés de vie, chacune des créatures concernées gagne 1d6 points de vie supplémentaires.  
-Plus votre niveau de barde est élevé, plus le nombre de points de vie récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
+À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court). Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) en utilisant un ou plusieurs dés de points d'action, chacune des créatures concernées gagne 1d6 points d'action supplémentaires.  
+Plus votre niveau de barde est élevé, plus le nombre de points d'action récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
 
 ### Expertise  
 **En Khern : Prizachan**  
@@ -91,7 +91,7 @@ Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardiqu
 
 ### Sur un champ de bataille  
 **En Khern : Krogad**  
-À partir du niveau 11, vous avez appris à vous battre afin d'accompagner les plus intrépides guerriers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer si vous ne l’avez pas déjà, sinon vous ajoutez +2 aux dégâts de votre arme. Vous obtenez également la maîtrise des armures intermédiaires et de toutes les armes à une main tranchantes.  
+À partir du niveau 11, vous avez appris à vous battre afin d'accompagner les plus intrépides guerriers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer si vous ne l’avez pas déjà, sinon vous ajoutez +2 aux dégâts de votre arme. Vous obtenez également la maîtrise des armures intermédiaires et de toutes les armes tranchantes à une main.  
 
 ### Inspirer la bravoure  
 **En Khern : Awen Kalon**  

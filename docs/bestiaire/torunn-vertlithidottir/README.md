@@ -64,7 +64,7 @@ languages:
 ---
 ## Torunn Vertlithidottir
 &nbsp;
-[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlitm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlit.jpg)  
+[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottirm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -95,7 +95,7 @@ _Touché_ : 2d6+3 dégâts tranchant (3d6+1 à deux mains).
 
 §§§ .hero
 ### Présentation:  
-Torunn Vertlithidottir  est une Melge, guerrière au bouclier.     
+Torunn Vertlithidottir  est une Melge, guerrière au bouclier. Elle possède l'esprit aventurier et souhaite entrer au service d'une personne qui l'emmènera vers la gloire et l'aventure.  
 §§§
 
 §§§ .hero

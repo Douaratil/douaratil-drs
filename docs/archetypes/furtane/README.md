@@ -34,9 +34,9 @@ En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : aucun  
 **Jets de sauvegarde** : Dextérité, Constitution  
 **Compétences** : choisissez trois compétences parmi : Acrobatie, Athlétisme, Discrétion, Dressage, Nature, Perception, Religion et Survie  
-**Conditions d'accessibilité**: Être de culture Khernaë, de sexe féminin et être marqué au fer rouge pour une infamie (le plus souvent viol, répudiation ou crime...)  
+**Conditions d'accessibilité**: Être de culture Khernaëe, de sexe féminin et être marquée au fer rouge pour une infamie (le plus souvent viol, répudiation ou crime...)  
 **Points de Magie** : La Fürtane est un Archétype mystique, de ce fait, elle développe les points de
-Foi (PF) s’il emprunte la voie de la Magie.  
+Foi (PF) si elle emprunte la voie de la Magie.  
 
 Les Fürtanes sont des femmes khernaëes qui ont été bannies et marquées au fer rouge pour signifier leur statut de parias. Elles sont quelques fois bannies alors qu’elles sont victimes, les cas les plus fréquents sont les viols et les enfants hors mariage, mais aussi d’autres crimes. Elles espèrent se racheter en mourant au combat. Ce sont de redoutables guerrières qui sont appréciées sur les champs de bataille.
 Les Fürtanes de la voie des Armes sont appelés Bleizadiwal, littéralement «la louve protectrice». Les Fürtanes de la voie de l’Ombre sont appelés Bleizatenva, littéralement «la louve sombre». Les Fürtanes de la voie de la Magie sont appelés Bleizahncher, littéralement « la louve guide ».  
@@ -56,13 +56,13 @@ Les Fürtanes de la voie des Armes sont appelés Bleizadiwal, littéralement «l
 
 ### Furie
 **En Khern : Fürtakh**  
-A partir du niveau 6, quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
+A partir du niveau 6, quand vous vous retrouvez au cœur de la bataille, vous êtes animée d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragée, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
 • Vous bénéficiez d'un avantage sur les tests de dextérité et les jets de sauvegarde de dextérité.  
 • Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +1.  
 Ce bonus augmente en même temps que votre niveau.  
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
-Votre furie dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Votre furie dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconsciente ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
 La furie possède **deux états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Cercle de la mort   
@@ -79,13 +79,13 @@ Au niveau 10, la Fürtane est redoutable sur le champs de bataille avec ses arme
 
 ### Furie implacable  
 **En Khern : Fürtakh Dizahm**  
-A partir du niveau 11, quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
+A partir du niveau 11, quand vous vous retrouvez au cœur de la bataille, vous êtes animée d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragée, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
 • Vous bénéficiez d'un avantage sur les tests de dextérité et les jets de sauvegarde de dextérité.  
 • Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +2.  
 Ce bonus augmente en même temps que votre niveau.  
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
-Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconsciente ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
 La furie possède **trois états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Insensible à la douleur
@@ -99,12 +99,12 @@ Au niveau 14, vous jouissez d'une nouvelle réserve d'endurance qui s'ajoute à 
 
 ### Furie indomptable  
 **En Khern : Fürtakh Amjestr**  
-A partir du niveau 17, quand vous vous retrouvez au cœur de la bataille, vous êtes animé d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragé, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
+A partir du niveau 17, quand vous vous retrouvez au cœur de la bataille, vous êtes animée d'une furie rédemptrice. Lors de votre tour, vous pouvez utiliser une action bonus pour être pris de furie. Tant que vous êtes enragée, et si vous ne portez pas d'armure lourde, vous obtenez les bénéfices suivants :  
 • Vous bénéficiez d'un avantage sur les tests de dextérité et les jets de sauvegarde de dextérité.  
 • Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +3.  
 • Vous devenez [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
-Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconsciente ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
 La furie possède **quatre états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
 ### Cercle de la mort indomptable  

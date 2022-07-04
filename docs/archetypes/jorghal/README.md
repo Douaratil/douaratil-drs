@@ -46,7 +46,7 @@ Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéraleme
 ### Champion  
 **En Melg : Mästareh**  
 À partir du niveau 5, le Jörghal peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
-Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
+Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil explosif du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
 
 ### Maître des haches
 **En Melg : Mastraë'hackad**  
