@@ -105,7 +105,7 @@ Vous pouvez vous **jeter au sol** sans avoir à utiliser de votre déplacement. 
 
 Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres pour vous relever. Vous ne pouvez pas vous relever si votre jauge de déplacement n'est pas suffisante ou est réduite à 0.
 
-Pour vous déplacer quand vous êtes [_à terre_](/gerer-la-sante-du-personnage/#a-terre), vous devez **ramper** ou utiliser une magie comme la téléportation. Quand vous rampez, chaque mètre parcouru vous coûte 1 mètre supplémentaire. Votre vitesse de déplacement est donc divisée par deux. De plus, si vous rampez sur 1 mètre en terrain difficile, cela vous coûte en réalité 3 mètres de déplacement, votre vitesse est donc divisée par trois.
+Pour vous déplacer quand vous êtes [_à terre_](/gerer-la-sante-du-personnage/#a-terre), vous devez **ramper** ou utiliser une magie. Quand vous rampez, chaque mètre parcouru vous coûte 1 mètre supplémentaire. Votre vitesse de déplacement est donc divisée par deux. De plus, si vous rampez sur 1 mètre en terrain difficile, cela vous coûte en réalité 3 mètres de déplacement, votre vitesse est donc divisée par trois.
 
 ### Se déplacer au milieux d'autres créatures
 Vous pouvez traverser l'emplacement d'une créature qui ne vous est pas hostile. En revanche, vous ne pouvez traverser l'emplacement occupé par une créature hostile que si celle-ci fait deux tailles de plus ou de moins que vous. N'oubliez pas que l'emplacement occupé par une autre créature est considéré comme un terrain difficile.
@@ -187,7 +187,8 @@ Vous devez d'abord décider quelle situation particulière va déclencher votre 
 
 Quand l'événement déclencheur se produit, vous pouvez choisir entre réagir immédiatement après que l'événement s'est produit ou l'ignorer. Gardez en mémoire que vous ne pouvez réagir qu'une fois par round.
 
-De la même manière, quand vous choisissez l'action _se tenir prêt_ avec un sort, vous le lancez normalement mais vous contenez son énergie, que vous ne relâcherez grâce à votre réaction qu'après que le déclencheur se soit produit. Pour pouvoir être lancé de la sorte, un sort doit avoir un temps d'incantation d'une action et il est impératif de rester concentré pour en contenir l'énergie magique jusqu'au moment où il est finalement lancé. Si votre état de concentration est interrompu, le sort se dissipe et n'a aucun effet. Par exemple, si vous vous concentrez pour contenir le sort [_toile d'araignée_](/grimoire/toile-d-araignee/) et que vous préparez ensuite le sort [_projectile magique_](/grimoire/projectile-magique/), le sort [_toile d'araignée_](/grimoire/toile-d-araignee/) se dissipe. Et si vous subissez des dégâts avant d'avoir lancé [_projectile magique_](/grimoire/projectile-magique/) avec votre réaction, cela risque de briser votre concentration.
+De la même manière, quand vous choisissez l'action _se tenir prêt_ avec un sort, vous le lancez normalement mais vous contenez son énergie, que vous ne relâcherez grâce à votre réaction qu'après que le déclencheur se soit produit. Pour pouvoir être lancé de la sorte, un sort doit avoir un temps d'incantation d'une action et il est impératif de rester concentré pour en contenir l'énergie magique jusqu'au moment où il est finalement lancé. Si votre état de concentration est interrompu, le sort se dissipe et n'a aucun effet. Par exemple, si vous vous concentrez pour contenir un sort et que vous préparez ensuite un autre sort, le premier sort se dissipe. Et si vous subissez des dégâts avant d'avoir lancé projectile magique avec votre réaction, cela risque de briser votre concentration.  
+
 
 ### Utiliser un objet
 Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action [_attaquer_](/combattre/#attaquer). Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action _utiliser un objet_. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
@@ -215,16 +216,16 @@ Quand un joueur fait un [jet d'attaque](/combattre/#jets-d-attaque), les deux mo
 
 **Modificateur de caractéristique**. Le modificateur de caractéristique utilisé pour une attaque avec une arme de corps-à-corps est la Force. Pour une attaque avec une arme à distance, il s'agit de la Dextérité. Cette règle ne s'applique pas aux armes qui possèdent la propriété finesse ou lancer.
 
-Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer certains sorts. Le modificateur de caractéristique utilisé pour une attaque magique de ce type dépend de la caractéristique d'incantation du lanceur de sorts.
+Un [jet d'attaque](/combattre/#jets-d-attaque) peut être demandé pour lancer certains sorts. Le modificateur de caractéristique utilisé pour une attaque magique de ce type dépend de la compétence d'incantation du lanceur de sorts.
 
 **Bonus de maîtrise**. Quand vous faites une attaque en utilisant une arme que vous maîtrisez, vous ajoutez votre bonus de maîtrise à votre [jet d'attaque](/combattre/#jets-d-attaque). Il en va de même pour les sorts.  
 
 #### Faire un triple 1 ou un triple 6
 Parfois, le destin se montre particulièrement cruel ou clément envers un combattant. Et donc, un novice va parfois réussir une attaque très improbable et le vétéran confirmé va rater un coup tout fait.
 
-Si les d6 lancés pour un jet d'attaque donne un résultat de trois 6 "naturels" ou plus, l'attaque réussit automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **coup critique**, expliqué plus loin dans ce chapitre.
+Si les d6 lancés pour un jet d'attaque donne un résultat de trois 6 ou plus, l'attaque réussit automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **coup critique** et un jet critique est résolu sur la table correspondant au type de dégâts.
 
-Si les d6 lancés pour un jet d'attaque donne un résultat de trois 1 "naturels" ou plus, l'attaque échoue automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **échec critique**, expliqué plus loin dans ce chapitre.
+Si les d6 lancés pour un jet d'attaque donne un résultat de trois 1 "naturels" ou plus, l'attaque échoue automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **échec critique** et l'attaque échoue.
 
 ### Valeur de Défense
 La Valeur de Défense (VD) est égale à :  
@@ -247,7 +248,7 @@ Quand vous attaquez une cible que vous ne pouvez pas voir, vous subissez un [_d�
 Quand une créature ne peut pas vous voir, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) quand vous faites un [jet d'attaque](/combattre/#jets-d-attaque) la ciblant. Si vous étiez caché (qu'elle ne vous voit pas et ne vous entend pas) et que vous attaquez, quel que soit le résultat de votre attaque, votre position est immédiatement révélée au moment de la résolution de l'attaque.
 
 ### Attaque à distance
-Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une arbalète ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.
+Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une fronde ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.
 
 #### Portée
 Vous ne pouvez faire d'attaque à distance que contre des cibles qui se trouvent à une portée spécifique.

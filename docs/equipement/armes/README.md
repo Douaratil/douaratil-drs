@@ -52,7 +52,7 @@ Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent 
 
 Une arme improvisée ressemble souvent à une arme réelle et elle peut être traitée comme telle. Par exemple, un pied de table ressemble à un gourdin. Le MJ peut décider qu'un personnage qui maîtrise une arme peut utiliser son bonus de maîtrise s'il utilise une arme qui ressemble assez à celle qu'il maîtrise.  
 
-Un objet qui ne ressemble à des dégâts de +1 (le MJ décide d'un type de dégât approprié en fonction de l'objet). Si un personnage utilise une arme à distance pour faire une attaque de corps-à-corps ou lance une arme de corps-à-corps qui ne possède pas la propriété lancer, cette arme inflige aussi +1 dégâts. Une arme de lancer improvisée a une portée normale de 6 mètres et une portée longue de 18 mètres.  
+Un objet qui ne ressemble à aucune arme inflige 1d3 dégâts (le MJ décide d'un type de dégât approprié en fonction de l'objet). Si un personnage utilise une arme à distance pour faire une attaque de corps-à-corps ou lance une arme de corps-à-corps qui ne possède pas la propriété lancer, cette arme inflige aussi +1 dégâts. Une arme de lancer improvisée a une portée normale de 6 mètres et une portée longue de 18 mètres.  
 
 ### Armes en argent
 Certains monstres qui possèdent une immunité ou une résistance aux armes non-magiques sont vulnérables aux armes en argent. Les aventuriers prudents n'hésitent donc pas à dépenser quelques pièces supplémentaires pour plaquer leurs armes avec de l'argent. Un personnage peut plaquer une arme unique ou dix munitions avec de l'argent pour 100 po. Ce tarif prend en compte non seulement le prix de l'argent, mais aussi celui de l'expertise nécessaire pour plaquer l'argent sur une arme sans lui faire perdre en efficacité.

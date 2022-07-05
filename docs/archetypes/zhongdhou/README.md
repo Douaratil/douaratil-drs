@@ -56,7 +56,7 @@ Au niveau 5, le Zhongdhou maîtrise l’outil d’alchimiste.
 
 ### Chimiste amateur
 **En langue Minghour : Huaxu**  
-Au niveau 6, le Zhongdhou peut maintenant fabriquer de la poudre noire ainsi que des engins pyrotechniques
+Au niveau 6, le Zhongdhou peut maintenant fabriquer de la poudre noire ainsi que des engins pyrotechniques.  
 
 ### Spécialité empoisonneur
 **En langue Minghour : Zhongdhouzh**  

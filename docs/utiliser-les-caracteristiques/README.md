@@ -15,7 +15,7 @@ Les trois jets de dés principaux du jeu (le [test de caractéristique](/utilise
 ## Valeurs de caractéristiques et modificateurs
 À chacune des caractéristiques correspond une valeur, qui définit la performance dans cette caractéristique. Une valeur de caractéristique n'est pas seulement un indicateur des caractéristiques innées, mais aussi de son entraînement et de ses compétences dans les activités liées à cette caractéristique.
 
-Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais les aventuriers et de nombreux adversaires en tous genres ont des caractéristiques qui se situent généralement au-dessus de la moyenne. Un individu normal atteint rarement une valeur de plus de 18, mais les aventuriers peuvent atteindre des valeurs de caractéristique de 20 et les monstres et êtres divins peuvent monter jusqu'à 30.
+Une valeur de 10 ou 11 est considérée comme normale pour un humain moyen, mais les aventuriers et de nombreux adversaires en tous genres ont des caractéristiques qui se situent généralement au-dessus de la moyenne. Un individu normal atteint rarement une valeur de plus de 18, mais les aventuriers peuvent atteindre des valeurs de caractéristique de 20, voir 22 et les monstres et êtres divins peuvent monter jusqu'à 30.
 
 À chaque caractéristique correspond un modificateur. Ces modificateurs vont de -5 (pour une valeur de caractéristique de 1) à +10 (pour une valeur de caractéristique de 30). Vous pouvez trouver la liste des modificateurs de caractéristiques en fonction des valeurs (entre 1 et 30) dans le tableau ci-dessous.
 
@@ -278,7 +278,7 @@ Le MJ peut vous demander de faire un test de Constitution quand vous tentez d'ac
 * Vider une chope de bière d'un trait.
 
 #### Points d’Action
-Vos points d’action dépendent en partie de votre de Constitution. Pour déterminer votre nombre de points d’action, vous devez généralement ajouter à votre Constitution vos points d’action de votre Voie de personnage multiplié par votre niveau.
+Vos points d’action dépendent en partie de votre de Constitution. Pour déterminer votre nombre de points d’action, vous devez généralement ajouter à votre Constitution vos points d’action de votre Voie de personnage multipliés par votre niveau.
 Si votre Constitution change, votre maximum de points d’action est lui aussi modifié.
 
 ### Intelligence
@@ -327,13 +327,13 @@ Le MJ peut vous demander de faire un test de Sagesse (Dressage) pour savoir si v
 Un test de Sagesse (Médecine) vous permet de tenter de stabiliser un compagnon à l'agonie (DD 16) ou de diagnostiquer une maladie (DD Variable selon la maladie). Cette compétence permet de stopper des saignements hémorragiques de 1 à 10 points d'action par round (DD 16) ou de 11 et + par round (DD 22).
 
 ##### Perception
-Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détecter d'une manière ou d'une autre une présence. Ce test permet de tester votre attention et votre sensibilité à votre environnement et la finesse de vos sens. Par exemple, vous pouvez tenter d'écouter une conversation à travers une porte fermée ou par une fenêtre entrouverte, ou bien d'entendre des monstres qui se déplacent furtivement dans une forêt. Ou vous pouvez tenter de repérer des choses dissimulées ou difficiles à remarquer, comme des orcs en embuscade le long d'une route, des brigands qui se cachent dans les ombres d'une ruelle ou la lumière d'une bougie visible dans les interstices d'une porte secrète.
+Vous faites un test de Sagesse (Perception) afin de repérer, entendre ou détecter d'une manière ou d'une autre une présence. Ce test permet de tester votre attention et votre sensibilité à votre environnement et la finesse de vos sens. Par exemple, vous pouvez tenter d'écouter une conversation à travers une porte fermée ou par une fenêtre entrouverte, ou bien d'entendre des monstres qui se déplacent furtivement dans une forêt. Ou vous pouvez tenter de repérer des choses dissimulées ou difficiles à remarquer, comme des adversaires en embuscade le long d'une route, des brigands qui se cachent dans les ombres d'une ruelle ou la lumière d'une bougie visible dans les interstices d'une porte secrète.
 
 ##### Perspicacité
 Un test de Sagesse (Perspicacité) permet de déterminer si vous parvenez à discerner les véritables intentions d'une créature, par exemple quand vous cherchez à deviner si une personne ment ou que vous tentez de prédire ce qu'elle va faire. Pour y arriver, vous devez percevoir des indices dans son langage corporel, sa manière de parler et son comportement.
 
 ##### Survie
-Le MJ peut vous demander de faire un test de Sagesse (Survie) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un hibours, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
+Le MJ peut vous demander de faire un test de Sagesse (Survie) si vous tentez de suivre une piste, de chasser du gibier, de guider votre groupe à travers un désert glacé, d'identifier des signes montrant que vous êtes sur le territoire d'un ours charognard, de prévoir le temps qu'il fera ou encore d'éviter des sables mouvants ou d'autres dangers naturels.
 
 ##### Autres tests de Sagesse
 Le MJ peut vous demander de faire un test de Sagesse quand vous tentez d'accomplir des tâches comme celles qui suivent :
@@ -386,15 +386,15 @@ Le MJ peut vous demander de faire un test de Charisme quand vous tentez d'accomp
 Le Charisme est utilisé comme caractéristique de confrontation sociale, les points d'honneur (PH) et afin de déterminer les DD des jets de sauvegarde.
 
 ## Jets de sauvegarde
-Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) – appelé aussi une sauvegarde – représente une tentative de résister à un sort, un piège, un poison, une maladie ou une menace similaire. En général, vous ne décidez pas de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Celui-ci vous est imposé car votre personnage ou votre monstre se trouve en danger.
+Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) – appelé aussi une sauvegarde – représente une tentative de résister à un sort, un piège, un poison, une maladie ou une menace similaire. En général, vous ne décidez pas de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Celui-ci vous est imposé car votre personnage ou un adversaire se trouve en danger.
 
 Pour faire un jet de sauvegarde, lancez un 3d6 et ajoutez le modificateur de caractéristique approprié. Par exemple, vous devez utiliser votre modificateur de Dextérité pour un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité.
 
 Un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) peut être soumis à des bonus ou des malus en fonction d'une situation et il peut aussi être affecté par un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ou un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Ces modifications seront déterminées par le MJ.
 
-Chaque voie accorde la maîtrise d'au moins deux types de jets de sauvegarde et les archétypes apporte des maîtrses suppélmentaires. Par exemple, un adepte de la [Voie de la Magie](/voies/voie-de-la-magie) maîtrise les jets de sauvegarde d'Intelligence et de Sagesse. Comme pour les maîtrises de compétences, maîtriser un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) permet à un personnage d'ajouter son bonus de maîtrise aux jets de sauvegarde qui font appels à des caractéristiques particulières. Certains adversaires et certaines créatures possèdent eux aussi la maîtrise de certains jets de sauvegarde.
+Chaque voie accorde la maîtrise d'au moins deux types de jets de sauvegarde et les archétypes apporte des maîtrises supplémentaires. Par exemple, un adepte de la [Voie de la Magie](/voies/voie-de-la-magie) maîtrise les jets de sauvegarde d'Intelligence et de Sagesse. Comme pour les maîtrises de compétences, maîtriser un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) permet à un personnage d'ajouter son bonus de maîtrise aux jets de sauvegarde qui font appels à des caractéristiques particulières. Certains adversaires et certaines créatures possèdent eux aussi la maîtrise de certains jets de sauvegarde.
 
-Le degré de difficulté d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) dépend de l'effet qui en est la cause. Par exemple, le DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) causé par un sort est déterminé par la caractéristique d'incantation du lanceur de sort et son bonus de maîtrise.
+Le degré de difficulté d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) dépend de l'effet qui en est la cause. Par exemple, le DD d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) causé par un sort est déterminé par la caractéristique du lanceur de sort et son bonus de maîtrise.
 
 Le résultat d'un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi ou raté est indiqué dans la description de l'effet à l'origine du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). D'habitude, un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi signifie qu'une créature n'est pas blessée, ou moins qu'elle aurait dû, par un effet.
 

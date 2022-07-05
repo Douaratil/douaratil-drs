@@ -148,27 +148,27 @@ Ce cadenas est accompagné d'une clef. Si elle n'a pas la clef, une créature qu
 Un carquois peut contenir jusqu'à vingt flèches.
 
 ## Chaîne
-Une chaîne a 10 points d'action. Elle peut être brisée en réussissant un test de Force DD 20.
+Une chaîne a 10 points de structure. Elle peut être brisée en réussissant un test de Force DD 20.
 
 ## Chausse-trappes
-Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une surface de 1,50  mètre de côté. Une créature qui traverse cette surface doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15 ou arrêter de se déplacer jusqu'à la fin de son tour et subir 1 dégât perforant. Si elle subit ce dégât, la vitesse de cette créature est réduite de 3 mètres jusqu'à ce qu'elle regagne au moins 1 point de vie. Une créature peut traverser la zone sans avoir besoin de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle se déplace à la moitié de sa vitesse.
+Vous pouvez utiliser une action pour répandre un sac de chausse-trappes sur une surface de 1,50  mètre de côté. Une créature qui traverse cette surface doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15 ou arrêter de se déplacer jusqu'à la fin de son tour et subir 1 dégât perforant. Si elle subit ce dégât, la vitesse de cette créature est réduite de 3 mètres jusqu'à ce qu'elle regagne au moins 1 point d'action. Une créature peut traverser la zone sans avoir besoin de faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle se déplace à la moitié de sa vitesse.
 
 ## Corde
-Une corde, qu'elle soit faite de chanvre ou de soie, a 2 points d'action et peut être rompue en réussissant un test de Force DD 17.
+Une corde, qu'elle soit faite de chanvre ou de soie, a 2 points de structure et peut être rompue en réussissant un test de Force DD 17.
 
 ## Eau bénite
 Vous pouvez utiliser une action pour asperger d'eau bénite une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, ou lancer la flasque jusqu'à 6 mètres de vous. La flasque se brise à l'impact. Dans les deux cas, il s'agit d'une attaque à distance contre une créature, et l'eau bénite doit être considérée comme une arme improvisée. Si votre cible est un fiélon ou un mort-vivant, elle subit 2d6 dégâts radiants.
 
-Un clerc ou un paladin peut créer de l'eau bénite, de quoi remplir une flasque, en accomplissant un rituel spécifique. Ce rituel dure 1 heure, consomme pour 25 po de poudre d'argent et requiert du lanceur de sort qu'il utilise un emplacement de sort de niveau 1.
+Certains prêtre peuvent créer de l'eau bénite, de quoi remplir une flasque, en accomplissant un rituel spécifique. Ce rituel dure 1 heure, consomme pour 25 po de poudre d'argent et requiert du lanceur de sort qu'il utilise un emplacement de sort de niveau 1.
 
 ## Étui à cartes ou à parchemins
 Cet étui cylindrique de cuir peut contenir jusqu'à dix feuilles de papier roulées ou cinq feuilles de parchemin roulées.
 
 ## Feu grégeois
-Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utiliser une action pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Il s'agit d'une attaque à distance contre une créature ou un objet, et vous devez considérer le feu grégeois comme une arme improvisée. Si vous touchez votre cible, celle-ci subit 1d4 dégâts de feu au début de chacun de ses tours. La cible peut mettre fin à cet effet et tenter d'éteindre les flammes en utilisant son action pour faire un test de Dextérité DD 10.
+Ce liquide gluant et collant s'enflamme au contact de l'air. Vous pouvez utiliser une action pour lancer la flasque jusqu'à une distance de 6 mètres. La flasque se brise à l'impact. Il s'agit d'une attaque à distance contre une créature ou un objet, et vous devez considérer le feu grégeois comme une arme improvisée. Si vous touchez votre cible, celle-ci subit 1d6 dégâts de feu au début de chacun de ses tours. La cible peut mettre fin à cet effet et tenter d'éteindre les flammes en utilisant son action pour faire un test de Dextérité DD 10.
 
 ## Focaliseur arcanique
-Un focaliseur arcanique est un objet spécial – un orbe, un cristal, une baguette, un bâton spécialement construit ou un objet similaire  – conçu pour canaliser la puissance de la magie arcanique. Un ensorceleur, un sorcier ou un magicien peut utiliser de tels objets comme focaliseur d'incantation.
+Un focaliseur arcanique est un objet spécial – un orbe, un cristal, une baguette, un bâton spécialement construit ou un objet similaire  – conçu pour canaliser la puissance de la magie arcanique. Un sorcier ou un magicien peut utiliser de tels objets comme focaliseur d'incantation.
 
 ## Focaliseur druidique
 Un focaliseur druidique peut être une branche de houx, une baguette ou un sceptre en if ou dans un autre bois spécial, un bâton taillé dans un arbre encore vivant ou un totem fait avec les plumes, la fourrure, les os ou les dents d'animaux sacrés. Un druide peut utiliser un tel objet comme focaliseur d'incantation.
@@ -201,7 +201,7 @@ Le matériel de pêche se compose d'une canne de bois, d'un fil de soie, de bouc
 Le matériel d'escalade comprend des pitons spéciaux, des pointes pour chaussures, des gants et un harnais. Vous pouvez utiliser le matériel d'escalade lors d'une action pour vous accrocher à une paroi. Vous ne pouvez alors plus chuter de plus de 7,50 mètres depuis votre point d'ancrage, mais vous devez vous décrocher si vous voulez vous éloigner de plus de 7,50 mètres de ce point.
 
 ## Menottes
-Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points d'action.
+Ces menottes métalliques peuvent être utilisées sur une créature de taille P ou M. Pour s'en échapper, une créature doit réussir un test de Dextérité DD 20. Pour les briser, elle doit réussir un test de Force DD 20. Chaque paire de menotte est accompagnée d'une clef. Une créature qui n'a pas la clef mais qui maîtrise les outils de voleur peut crocheter la serrure des menottes en réussissant un test de Dextérité DD 15. Les menottes ont 15 points de structure.
 
 ## Palan
 Un palan est un système de poulies avec un câble et un crochet qui vous permet de soulever jusqu'à quatre fois le poids que vous pouvez normalement porter.
@@ -234,7 +234,7 @@ Un abri de toile simple et portable, qui peut accueillir deux personnes.
 Une torche brûle pendant 1 heure et dégage une lumière vive dans un rayon de 6 mètres et une lumière faible dans un rayon supplémentaire de 6 mètres. Si vous réussissez une attaque de corps-à-corps avec une torche, celle-ci inflige 1 dégât de feu à votre cible.
 
 ## Trousse de soins
-Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point de vie à l'aide de la trousse de soin sans que cela ne nécessite un test de Sagesse (Médecine).
+Une trousse de soin est une sacoche de cuir contenant des bandages, des onguents et des attelles. La trousse peut être utilisée dix fois. Vous pouvez utiliser une action pour stabiliser une créature qui se trouve à 0 point d'action à l'aide de la trousse de soin sans que cela ne nécessite un test de Sagesse (Médecine).
 
 ## Capacité des récipients
 

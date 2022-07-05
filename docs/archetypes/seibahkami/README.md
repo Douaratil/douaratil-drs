@@ -49,7 +49,7 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 
 ### Empathie équestre
 **En Yotaï : Kyōkan Jōba**  
-À partir du niveau 5, vous êtes tellement à l’aide avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
+À partir du niveau 5, vous êtes tellement à l’aise avec votre monture que vous ajoutez +4 à tout vos test de manœuvre à cheval. Pour cela, il doit s’agir de la monture habituelle du personnage ou alors d’avoir chevauché avec au moins une demi-lune.  
 
 ### Ami équestre  
 **En Yotaï : Yūjō Jōba**  

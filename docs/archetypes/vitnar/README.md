@@ -36,7 +36,7 @@ Les Vitnars forment une caste respectée chez les Melgs. Les Vitnar de la voie d
 
 ### Ecriture sacrée
 **En langue Melg : Holtar**  
-Au niveau 3,  vous connaissez les signes anciens Holtar, la langue magique des Vitnar. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
+Au niveau 3,  vous connaissez les signes anciens Holtar, la langue magique des Vitnars. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
 
 ### Défense sans armure  
 **En langue Melg : Forsv’ustning**  
@@ -66,7 +66,7 @@ Au niveau 7, les animaux qui appartiennent à votre animal totem vous reconnaiss
 
 ### Mixture de soin  
 **En langue Melg : Bland’omsorg**  
-Au niveau 8, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins. Il sait choisir les plantes. La préparation de mixture de soin prend 10 minutes sous réserve qu’un bon feu chauffe sous la marmite. Ce breuvage ou onguents rendent 1d6 point d’action lorsqu’il est consommé ou appliqués pendant un repos recours. Il permet aussi de guérir un empoisonnement. La victime de l’empoisonnement à le droit à un nouveau test avec un bonus de +2.  
+Au niveau 8, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins. Il sait choisir les plantes. La préparation de mixture de soin prend 10 minutes sous réserve qu’un bon feu chauffe sous la marmite. Ce breuvage ou onguents rendent 1d6 point d’action lorsqu’il est consommé ou appliqués pendant un repos court. Il permet aussi de guérir un empoisonnement. La victime de l’empoisonnement à le droit à un nouveau test avec un bonus de +2.  
 Il peut fabriquer 1d6 doses qui se conservent deux jours et deux nuits.   
 
 ### Marcheur spirituel  

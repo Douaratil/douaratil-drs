@@ -8,7 +8,7 @@ Une pièce d'or vaut 10 pièces d'argent, qui est la pièce la plus courante par
 
 Une pièce d'argent vaut 10 pièces de cuivre. Ces dernières sont couramment utilisées dans la population de classe moyenne et chez les mendiants. Avec une pièce de cuivre, il est possible d'acheter une chandelle, une torche ou un morceau de craie.  
 
-En plus de ces pièces courantes, les aventuriers trouvent parfois des pièces rares faites de métaux précieux dans des caches aux trésors. Les **pièces de platine** (PP) et **pièces d’électrum** (PE) sont uniquement frappés dans l’Empire, et il arrive qu'elles éveillent les soupçons et le scepticisme quand elles sont utilisées dans des transactions. Une pièce d'électrum vaut cinq pièces d'argent et une pièce de platine vaut dix pièces d'or.  
+En plus de ces pièces courantes, les aventuriers trouvent parfois des pièces rares faites de métaux précieux dans des caches aux trésors. Les **pièces de platine** (PP) et **pièces d’électrum** (PE) sont uniquement frappées dans l’Empire, et il arrive qu'elles éveillent les soupçons et le scepticisme quand elles sont utilisées dans des transactions. Une pièce d'électrum vaut cinq pièces d'argent et une pièce de platine vaut dix pièces d'or.  
 
 Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500 grammes.
 

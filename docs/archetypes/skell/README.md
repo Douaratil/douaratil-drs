@@ -46,7 +46,7 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 
 ### Oeil du gardien des runes
 **En Melg : Oye Vaktare Runa**  
-À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchants.  
+À partir du niveau 5, vous pouvez lire toutes les formes d'écriture runique des traditions claniques c’est à dire les Bergafs, les Holtars, les Omaths et autres écritures approchantes.  
 
 
 ### Pierre de puissance  
