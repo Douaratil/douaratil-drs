@@ -34,7 +34,7 @@ En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être de culture Sooghaï et de sexe féminin  
 **Points de Magie** : La Shanghara fait partie des voies shamaniques Sooghaï, de ce fait, il développe les points de Foi (PF)  
 
-Dans les divers cultures Sooghaï, les Sangharahs ont une place aussi importante que les guerriers. Ces femmes ont reçu un esprit guide qui leur fournit des connaissances dans les domaines magiques et particulièrement dans les soins. Les Shangharahs de la voie des Armes sont appelés Moa, littéralement «Mère». Les Shangharahs de la voie de l’Ombre sont appelés Loa, littéralement «Soeur». Les Shangharahs de la voie de la Magie sont appelés N’Goa littéralement « fille».  
+Dans les diverses cultures Sooghaï, les Sangharahs ont une place aussi importante que les guerriers. Ces femmes ont reçu un esprit guide qui leur fournit des connaissances dans les domaines magiques et particulièrement dans les soins. Les Shangharahs de la voie des Armes sont appelés Moa, littéralement «Mère». Les Shangharahs de la voie de l’Ombre sont appelés Loa, littéralement «Soeur». Les Shangharahs de la voie de la Magie sont appelés N’Goa littéralement « fille».  
 
 
 ### Disciple de la vie
