@@ -21,6 +21,10 @@ title: heilari
 |**18**|[Guérison suprême](#guerison-supreme)|
 |**20**|[Véritable Heilari](#veritable-heilari)|
 
+## Heilari
+&nbsp;
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilarim.png)](https://www.douaratil.fr/illustrations/archetype/heilari.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Heilari, vous bénéficiez des aptitudes d'Archétype suivantes.
 

@@ -22,6 +22,10 @@ title: Shangharah
 |**19**|[Vison du guide](#vision-du-guide)|
 |**20**|[Véritable Shangharah](#veritable-shangharah)|
 
+## Shangharah
+&nbsp;
+[![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharahm.png)](https://www.douaratil.fr/illustrations/archetype/shangharah.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
 

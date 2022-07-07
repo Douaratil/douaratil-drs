@@ -23,7 +23,7 @@ title: Herredyr
 
 ## Herredyr
 &nbsp;
-[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyrm.png)](https://www.douaratil.fr/illustrations/archetype/herredyr.jpg)
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyrm.png)](https://www.douaratil.fr/illustrations/archetype/herredyr.jpg)  
 
 ## Aptitudes d'Archétype
 En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.

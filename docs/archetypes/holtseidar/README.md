@@ -18,6 +18,10 @@ title:  Holtseidar
 |**19**|[Peinture sacrée (max +5)](#peinture-sacree)|
 |**20**|[Véritable Holtseidar](#veritable-holtseidar)|
 
+## Holtseidar
+&nbsp;
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidarm.png)](https://www.douaratil.fr/illustrations/archetype/holtseidar.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.
 

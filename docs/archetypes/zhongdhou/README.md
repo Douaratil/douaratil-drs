@@ -25,6 +25,10 @@ source: "Elric"
 |19|[Création d'Homoncule](#creation-d-homocule)|
 |20|[Véritable Zhongdhou](#veritable-zhongdhou)|
 
+## Zhongdhou
+&nbsp;
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhoum.png)](https://www.douaratil.fr/illustrations/archetype/zhongdhou.jpg)
+
 ## Aptitudes d'Archétype
 
 En tant que Zhongdhou, vous bénéficiez des aptitudes d'Archétype suivantes.   

@@ -24,7 +24,7 @@ title: Gwylwir
 
 ## Gwylwir
 &nbsp;
-[![Gwylwir](https://www.douaratil.fr/illustrations/archetype/gwylwirm.png)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpg)
+[![Gwylwir](https://www.douaratil.fr/illustrations/archetype/gwylwirm.png)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpg)  
 
 ## Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.

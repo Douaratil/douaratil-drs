@@ -20,6 +20,10 @@ title: Legatos
 |**19**|[Infaillible](#infaillible)|
 |**20**|[Véritable Legatos](#veritable-legatos)|
 
+## Legatos
+&nbsp;
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatosm.png)](https://www.douaratil.fr/illustrations/archetype/legatos.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.
 

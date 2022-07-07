@@ -20,6 +20,10 @@ title: "Sorser"
 |**19** |[Compagnon de l'ombre](#compagnon-de-l-ombre) |
 |**20**|[Véritable Sorser](#veritable-sorser), [Pas brumeux(4)](#pas-brumeux) |
 
+## Sorser
+&nbsp;
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorserm.png)](https://www.douaratil.fr/illustrations/archetype/sorser.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.
 

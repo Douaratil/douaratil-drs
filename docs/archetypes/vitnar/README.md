@@ -20,6 +20,10 @@ title:  Vitnar
 |**18**|[Chef de meute](#chef-de-meute)|
 |**20**|[Véritable Vitnar](#veritable-vitnar)|
 
+## Vitnar
+&nbsp;
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnarm.png)](https://www.douaratil.fr/illustrations/archetype/vitnar.jpg)
+
 ## Aptitudes d'Archétype
 En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.
 

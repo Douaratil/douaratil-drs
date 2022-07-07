@@ -23,6 +23,10 @@ title: Llawenos
 |**19**|[Inspiration supérieure](#inspiration-superieure)|
 |**20**|[Véritable Llawenos](#veritable-llawenos)|
 
+## Llawenos
+&nbsp;
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenosm.png)](https://www.douaratil.fr/illustrations/archetype/llawenos.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Llawenos, vous bénéficiez des aptitudes d'Archétype suivantes.
 

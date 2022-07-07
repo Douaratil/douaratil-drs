@@ -22,6 +22,10 @@ title: Seibahkami
 |**19**|[Frappe divine](#frappe-divine)|
 |**20**|[Coup parfait (+4d6)](#coup-parfait), [Véritable Seibahkami](#veritable-seibahkami)|
 
+## Seibahkami
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkamim.png)](https://www.douaratil.fr/illustrations/archetype/seibahkami.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Seibahkami, vous bénéficiez des aptitudes d'Archétype suivantes.
 

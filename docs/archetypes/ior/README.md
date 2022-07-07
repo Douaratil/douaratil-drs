@@ -19,6 +19,10 @@ title: Ior
 |**16**|[Rage Indomptable de Teutès](#rage-indomptable-de-teutes)|
 |**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Ior](#veritable-ior)|
 
+## Ior
+&nbsp;
+[![Ior](https://www.douaratil.fr/illustrations/archetype/iorm.png)](https://www.douaratil.fr/illustrations/archetype/ior.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
 

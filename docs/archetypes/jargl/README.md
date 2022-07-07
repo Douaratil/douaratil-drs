@@ -20,6 +20,10 @@ title: Jargl
 |**19**|[Champion (Seuil de critique 3)](#champion), [Champion mythique](#champion-mythique)|
 |**20**|[Véritable Jargl](#veritable-jargl)|
 
+## Jargl
+&nbsp;
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/jarglm.png)](https://www.douaratil.fr/illustrations/archetype/jargl.jpg)  
+
 ## Aptitudes d'Archétype  
 En tant que Jargl, vous bénéficiez des aptitudes d'Archétype suivantes.  
 

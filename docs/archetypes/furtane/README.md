@@ -23,7 +23,7 @@ title: Fürtane
 
 ## Fürtane
 &nbsp;
-[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtanem.png)](https://www.douaratil.fr/illustrations/archetype/furtane.jpg)
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtanem.png)](https://www.douaratil.fr/illustrations/archetype/furtane.jpg)  
 
 ## Aptitudes d'Archétype  
 En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.  

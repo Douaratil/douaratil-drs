@@ -19,6 +19,10 @@ title: Sohoten
 |**19**|[Esquive intuitive (4)](#esquive-intuitive)|
 |**20**|[Véritable Sohoten](#veritable-sohoten)|
 
+## Sohoten
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohotenm.png)](https://www.douaratil.fr/illustrations/archetype/sohoten.jpg)
+
 ## Aptitudes d'Archétype
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
 
