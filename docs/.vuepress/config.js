@@ -296,6 +296,11 @@ module.exports = {
               icon: 'mdi-sword',
               path: '/archetypes/gwylwir',
             },
+            {
+                title: "Heilari",
+                icon: 'mdi-heart-pulse',
+                path: '/archetypes/heilari',
+              },
           {
               title: "Herredyr",
               icon: 'mdi-paw',
