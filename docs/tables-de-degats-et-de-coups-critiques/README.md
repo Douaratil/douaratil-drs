@@ -16,7 +16,7 @@ Comment cela fonctionne : Quand un joueur ou un monstre fait un jet d'attaque, i
 Le jet effectué sur la table varie selon l'origine des dégâts.
 Les armes courantes lancent 2d6.  
 Les armes de guerres lancent 3d6.   
-Si trois 1 sont obtenus sur le test de toucher c'est une maladresse (un jet de maladresse peut être aussi demandé dans le cadre des jets critiques).
+Si trois 1 sont obtenus sur le test de toucher c'est une maladresse.
 Si trois 6 sont obtenus sur le test de toucher pour le critique.
 
 | Types | Dés

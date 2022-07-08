@@ -225,7 +225,8 @@ Parfois, le destin se montre particulièrement cruel ou clément envers un comba
 
 Si les d6 lancés pour un jet d'attaque donne un résultat de trois 6 ou plus, l'attaque réussit automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **coup critique** et un jet critique est résolu sur la table correspondant au type de dégâts.
 
-Si les d6 lancés pour un jet d'attaque donne un résultat de trois 1 "naturels" ou plus, l'attaque échoue automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **échec critique** et l'attaque échoue.
+Si les d6 lancés pour un jet d'attaque donne un résultat de trois 1 "naturels" ou plus, l'attaque échoue automatiquement, peu importent les modificateurs ou la VD de la cible. Il s'agit d'un **échec critique** et l'attaque échoue. Un jet de dés sur la table de maladresse correspondante est effectué. Dans le cas d'un jet avec désavantage, il considéré qu'un 1 fictif est déjà tiré. Ainsi seulement deux 1 sont nécessaires pour faire une maladresse.   
+
 
 ### Valeur de Défense
 La Valeur de Défense (VD) est égale à :  
@@ -280,7 +281,7 @@ Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une a
 Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez la lancer au lieu de l'utiliser pour faire une attaque de corps-à-corps.
 
 ### Réaction défensive
-Durant un combat, un personnage à l’opportunité de porter des attaques mais les jets de dés correspondent à celles qui sont censées porter et blesser. Quelqu’un qui subit des attaques peut tenter de s’en soustraire en bloquant ou en esquivant et cela sous forme de réactions (actions gratuites en réponse), pour les différencier des réactions habituelles, elles sont appelées [_réactions défensives_](/combattre/#reaction-defensive). Pour cela, il faut évidemment être conscient de subir une agression. On peut réaliser une réaction défensives par tranche de 5 points de dextérité soit au commencement 2 en général puis 3 à 15 et 4 à 20. Il est possible de faire une seule tentative par attaque. On ne peut pas par exemple tenter de bloquer et si le test est raté tenter d’esquiver. Une attaque subie entraîne au maximum une seule réaction.  
+Durant un combat, un personnage à l’opportunité de porter des attaques mais les jets de dés correspondent à celles qui sont censées porter et blesser. Quelqu’un qui subit des attaques peut tenter de s’en soustraire en bloquant ou en esquivant et cela sous forme de réactions (actions gratuites en réponse), pour les différencier des réactions habituelles, elles sont appelées [_réactions défensives_](/combattre/#reaction-defensive). Pour cela, il faut évidemment être conscient de subir une agression. On peut réaliser une [_réaction défensive_](/combattre/#reaction-defensive) par tranche de 5 points de dextérité soit au commencement 2 en général puis 3 à 15 et 4 à 20. Il est possible de faire une seule tentative par attaque. On ne peut pas par exemple tenter de bloquer et si le test est raté tenter d’esquiver. Une attaque subie entraîne au maximum une seule réaction.  
 #### Réaction blocage
 Le blocage est une [_réaction défensive_](/combattre/#reaction-defensive) désespérées pour éviter un coup. Peu importe la valeur de dextérité par rapport à l’adversaire (contrairement à l’esquive plus bas). Il s’agit d’une parade mais il n’est pas possible de tout parer. Par logique, une attaque à main nue peut être parée à main nue. Si elle est parée avec une arme, les dégâts de base de l’arme s’applique immédiatement.
 Une attaque avec une arme à une main peut être bloquée par une autre arme à une main, une arme à deux mains ou un bouclier.  
@@ -373,12 +374,12 @@ Certaines créatures sont particulièrement difficiles ou faciles à blesser sel
 * Si une créature ou un objet possède une **résistance** à un type de dégâts, les dégâts de ce type qui lui sont infligés sont réduits de moitié.
 * Si une créature ou un objet possède une **vulnérabilité** à un type de dégâts, les dégâts de ce type qui lui sont infligés sont doublés.
 
-La résistance puis la vulnérabilité sont appliqués après tous les autres modificateurs de dégâts. Prenons l'exemple d'une créature résistante aux dégâts contondants. Elle reçoit un coup qui lui inflige 25 dégâts contondants, mais elle se trouve aussi dans l'aire d'effet d'une aura magique qui réduit tous les dégâts de 5. Les dégâts qu'elle reçoit (25) sont donc d'abord réduits de 5 (donc ramenés à 20) puis divisés par deux. La créature subit donc 10 dégâts.
+La résistance puis la vulnérabilité sont appliquées après tous les autres modificateurs de dégâts. Prenons l'exemple d'une créature résistante aux dégâts contondants. Elle reçoit un coup qui lui inflige 25 dégâts contondants, mais elle se trouve aussi dans l'aire d'effet d'une aura magique qui réduit tous les dégâts de 5. Les dégâts qu'elle reçoit (25) sont donc d'abord réduits de 5 (donc ramenés à 20) puis divisés par deux. La créature subit donc 10 dégâts.
 
 Si une créature ou un objet possède plusieurs fois une résistance ou une vulnérabilité à un même type de dégât, cette spécificité n'est prise en compte qu'une seule fois. Par exemple, si une créature possède une résistance aux dégâts de feu ainsi qu'une résistance à tous les dégâts non-magiques, les dégâts qu'elle subit d'un feu non-magique sont réduits de moitié et non de trois quarts.
 
 ### Assommer un adversaire
-Parfois, un attaquant souhaite neutraliser un ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point d'action suite à une attaque de corps-à-corps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. L'adversaire est [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) s'il échoue un JS de CON(stitution) DD 16 et est considérée comme stabilisée.
+Parfois, un attaquant souhaite neutraliser un ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point d'action suite à une attaque de corps-à-corps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. L'adversaire est [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) s'il échoue un JS de CON(stitution) DD 16 et est considéré comme stabilisé.
 
 ## Combat monté
 Une personne qui charge en plein cœur de la bataille sur son cheval de guerre bénéficie de la vitesse et de la mobilité de leur monture.

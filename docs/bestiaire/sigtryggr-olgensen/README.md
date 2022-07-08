@@ -71,7 +71,7 @@ category: "PJ"
 &nbsp;
 [![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensenm.png)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 24     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:**_ Assassin  
 **Compétences** : Discrétion, Investigation ou Perspicacité.   

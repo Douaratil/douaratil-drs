@@ -467,6 +467,11 @@ module.exports = {
             path: '/tables-de-degats-et-de-coups-critiques/'
           },
           {
+            title: "Maladresse",
+            icon: 'mdi-coffin',
+            path: '/tables-des-maladresses/'
+          },
+          {
             title: "Lancer des sorts",
             icon: 'mdi-atom-variant',
             path: '/lancer-des-sorts/'

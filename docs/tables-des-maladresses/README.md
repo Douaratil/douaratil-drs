@@ -1,0 +1,42 @@
+---
+title: "Tables des maladresses"
+
+---
+## Les maladresses
+
+Si trois 1 sont obtenus sur le test initial de toucher c'est une maladresse . Il suffit alors de jeter 3d6 et d'appliquer les résultats. Il est toujours possible de dépenser une inspiration pour minorer les résultats. Dans le cas d'un jet avec désavantage, il considéré qu'un 1 fictif est déjà tiré. Ainsi seulement deux 1 sont nécessaires pour faire une maladresse.
+
+
+### Maladresse d'arme à une main, d'arme à deux mains et lance et arme d'hast.
+|Jet  |Arme à une main |Arme à deux mains|Lance et arme d'hast|
+|:-:|:-:|:-:|:-:|
+|2-4 |Vous perdez votre prise et l'occasion de porter un coup. Vous pourrez ramasser votre arme le prochain rd.|Vous perdez votre prise et l'occasion de porter un coup.|Vous perdez votre prise et l'occasion de porter un coup.|
+|5-8 |Vous lâchez votre arme. Vous pourrez en dégainer une autre au rd suivant ou passer 2 rds à aller la récupérer.|Vous lâchez votre arme. Vous pourrez en dégainer une autre au rd suivant ou passer 3 rds à aller la récupérer.|Maladresse à la conclusion du coup, vous perdez l'occasion de frapper mais pas votre adversaire qui a une attaque gratuite|
+|9-12 | Vous glissez gracieusement mais perdez l'occasion et vous vous infligez 1 PA, plutôt faible|Vous trébuchez sur un obstacle imaginaire, vous perdez 2 rds mais vous avez toujours vos réactions défensives.|Vous perdez votre prise et cafouillez 2 rds avec. Vous avez toujours vos réaction défensives mais votre prochaine attaque se fera à -2|
+|13-14 |Vous glissez sans aucune grâce et perdez 2 rds. Bonne chance!  | Faux mouvement, vous perdez 2 rds. Heureusement vous avez encore vos réaction défensives |Vous glissez et manquez de tomber. Vous êtes étourdi- pas de réaction défensives pendant 2 rds|
+|15-16 |Vous perdez votre prise et jonglez avec votre arme 2 rds. Vous avez toujours vos réactions défensives.|Vous perdez votre prise et jonglez avec votre arme 2 rds. Vous avez toujours vos réactions défensives.|Vous perdez votre prise et jonglez avec votre arme 3 rds. -2 à votre prochain jet.|
+|17-18 |Vous perdez votre prise et jonglez avec votre arme 2 rds. Malheureusement vous perdez vos réactions défensives.|Très mauvais mouvement. Vous êtes étourdi 2 rds, pas de réactions défensives. Pas bon ça!|Maladresse dans l'enchainement, vous perdez 3 rds et êtes étourdis 2 rds.|
+|19-20 |Vous êtes abasourdis par votre manoeuvre qui vous impose 2 rds de réflexion sans pouvoir agir.|Vous perdez votre prise et jonglez avec votre arme 3 rds. Vous avez toujours vos réactions défensives.|Mouvement maladroit, étourdi et pas de réactions défensives pendant 3 rds|
+|21-22 |Le splendide mouvement de l'adversaire vous laisse étourdi 3 rds. Profitez bien de la leçon.|Mouvement maladroit, étourdi et pas de réactions défensives pendant 3 rds|Vous lâchez votre arme; il vous faudra 6 rds pour la récupérer ou 2 rds pour en sortir une autre.|
+|23-24 |Vous trébuchez et cette minable démonstration vous laisse étourdis 3 rds. Avec un peu de chance, vous y survivrez.|Vous trébuchez et manquez même de tomber à ce qui ressemble à une tentative de suicide. Vous êtes étourdis 4 rds.|Vous trébuchez et c'est la chute. Il vous faudra 4 rds pour récupérer pendant lesquels vous serez incapable d'avoir des réaction défensives et combattrez à -5.|
+|25-26 |Dans l'excitation, vous vous mordez la langue. Vous êtes étourdis et pas de réaction défensive pendant 3 rds.|Vous trébuchez et c'est la chute. Il vous faudra 4 rds pour récupérer pendant lesquels vous serez incapable d'avoir des réaction défensives|Vous vous blessez l'épaule. 1d6 PA. Vous êtes étourdis et pas de réaction défensive pendant 3 rds et vous combattrez à -5.|
+|27-29 |De très mauvais goût et très mal exécuté. vous tentez de vous mutiler. Vous vous infligez un coup critique de dégâts de votre arme.|Le plus mauvais mouvement que l'on ait jamais vu. Risque de se retrouver HS 2 jours 4-6 avec un étirement de l'aine. Chance que votre adversaire soit mort de rire 3 rds, 4-6.|Vous jetez votre arme au loin avec dédain. Etourdi et pas de réactions défensives pendant 6 rds.|
+|30+ |Allez on termine sa vie ici. Vous vous infligez un coup critique de dégâts de votre arme. Vous êtes étourdis 10 rds. |Vous vous avachissez après avoir bloqué votre arme dans le sol. Vous vous infligez un coup critique de dégâts de votre arme et vous êtes inconscients 2 heures. |Plongeon intéressant. Vous vous infligez un coup critique de dégâts de votre arme. Inconscient 1d6 heures. |
+
+
+
+### Maladresse arme en selle, arme de jet et arc.   
+|Jet|Arme en selle |Arme de jet|Arc|
+|:-:|:-:|:-:|:-:|
+|2-4|Vous perdez votre prise et l'occasion de porter un coup.|Vous perdez votre prise, et ayant perdu le contrôle de votre arme, vous choisissez de ne pas attaquer.|Vous perdez votre prise, et vous choisissez de ne pas attaquer. C'est une bonne décision|
+|5-8|Maladresse en fin de geste. Vous perdez 2 rds mais vous vous gardez vos réactions défensives.|Maladresse en fin d'action. Vous retenez votre arme. -2 à votre prochaine attaque.|Probablement trop de doigts dans les mains, vous n'y arrivez pas. vous perdez le rd.|
+|9-12| Vous glissez et vous perdez vos appuis sur la selle. Vous perdez 2 rds mais vous bénéficiez de vos réactions défensives.|Vous glissez et vous perdez 2 rds pour vous remettre en position. Vous avez retenu votre arme et vous bénéficiers de vos réactions défensives.|Maladresse au chargement, il vous faut 2 rds pour vous remettre.|
+|13-14|Votre monture se cabre, et cela vous perturbe et vous étourdis 2 rds que nécessite la reprise de contrôle. |Maladresse de l'arme après la perte de votre prise. Vous êtes étourdis 3 rds|Vous brisez votre flèche et perdez votre calme. Vous êtes HS 2 rds.|
+|15-16|Maladresse de l'arme après la perte de votre prise. Vous êtes étourdis 3 rds|Mauvais lancer. Votre arme atterrit innocemment 6m à gauche de votre cible.|Vous lâchez votre flèche. Il vous faudra 2rds pour recharger. La prochaine fois essayez l'épée.|
+|17-18|Votre pauvre monture trébuche. Vous êtes étourdis et pas de réaction défensive pendant 2 rds.|Très mauvais lancer. L'arme part directement sur votre droite. Faites un second jet pour vérifier si quelqu'un se trouve sur la trajectoire de l'arme. Test 1 sur 1d6|Vous lâchez votre arc. Vous perdez 2 rds à le ramasser et à recharger.|
+|19-20|Vous brisez votre arme (ou la lâcher si elle est magique) et perdez 2 rds à en sortir une autre.|Vous glissez et perdez 3 rds pour vous remettre en position. Vous avez retenu votre arme mais vous ne bénéficiez pas de vos réactions défensives. |La corde casse, il vous faudra 6 rds pour ré-encorder l'arc ou 2 rds pour sortir une nouvelle arme.|
+|21_22|Dans l'un de vos moments les plus difficiles, vous lâchez votre arme. Il vous faudra 2 rds pour en sortir une autre|Vous lâchez votre arme, il vous faudra 4 rds pour la récupérer ou 2 rds pour en sortir une autre.|Maladresse avec l'arme, vous êtes étourdis et pas de réactions défensives pendant 3 rds.|
+|23-24|Vous brisez votre arme (ou la lâcher si elle est magique) et perdez 2 rds à en sortir une autre. Vous vous infligez 2d6 de dégâts.|Vous maniez votre arme avec une rare maladresse. Vous êtes étourdis et ||
+|25-26|Votre assise n'est pas adéquate. Vous voilà étourdis et pas de réaction défensive pendant 3 rounds.|Vous lâchez votre arme beaucoup trop tôt, elle tombe à 9 mètres derrières vous.|Vous glissez et vous tombez. Vous êtes tourdits 6 rds, pas de réactions défensives pendant 2 rds. Votre tir s'égare complètement.|
+|27-29|Vous chutez de votre monture en tentant de vous empaler sur votre arme. Vous vous infligez un coup critique de dégâts de votre arme. Vous êtes HS 2d6 rds.|Vous chutez et votre tir s'égare. Vous vous infligez un coup critique de contusion. Vous êtes étourdis 2d6 rds.|L'empennage de la flèche vous raye la cornée de l'oeil. 2d6 dégâts. Désavantage aux tests de perception visuels pendant 1d6 jours.|
+|30+|Vous tombez de votre monture et celle-ci dans la panique vous piétine. Vous subissez un coup critique de contusion. Etourdis 2d6 rds. |Vous vous frappez au moment de lancer votre arme. Vous subissez un coup critique de contusion. Etourdis 2d6 rds.|Erreur de jugement, vous lâcher l'arc et pas la corde. Le retour est violent.Vous subissez un coup critique de contusion. Etourdis 2d6 rds.|
