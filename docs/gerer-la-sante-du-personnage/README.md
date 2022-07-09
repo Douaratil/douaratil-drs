@@ -3,7 +3,7 @@ title: "Gérer la santé du personnage"
 ---
 # Gérer la santé du personnage
 ## Dégâts et guérison
-Dans l'univers fantastique de _**Douaratil le jeu de rôle**_, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d'un dragon, les griffes d'un troll, le poison d'un ennemi, un carreau d'arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
+Dans l'univers fantastique de _**Douaratil le jeu de rôle**_, les risques de se blesser et de mourir sont des compagnons de tous les instants. La morsure d'un loup, les griffes d'un ours, le poison d'un ennemi, une flèche qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
 
 ### points d'action
 Les points d'action représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points d'action, plus elle est difficile à tuer. Les créatures avec peu de points d'action sont plus fragiles.
@@ -16,12 +16,12 @@ Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel 
 Les dégâts ne sont pas permanents, à moins bien sûr qu'ils ne provoquent la mort d'une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points d'action d'une créature, et des méthodes magiques –  comme le sort [soin des blessures](/grimoire/soin-des-blessures/) ou une potion de soins – peuvent soigner les dégâts plus rapidement.
 
 Quand une créature reçoit des soins de quelque sorte qu'ils soient, les points d'action qu'elle regagne viennent s'ajouter à ses points d'action actuels. Le nombre de points d'action d'une créature ne peut pas dépasser son maximum de points d'action. Si elle gagne un nombre de points d'action qui lui permettrait théoriquement de dépasser ce maximum, les points d'action surnuméraires sont perdus.
-Par exemple, un Beghelm permet à un Dall Dawnser de regagner 8 points d'action en le soignant. Le Dall Dawnser a actuellement 14 points d'action et possède un maximum de 20 points d'action. Il ne regagne donc que 6 points d'action, ce qui porte son total à 20, son maximum. 2 des 8 points offerts par les soins du paladin sont donc perdus.  
+Par exemple, un Bhegelm permet à un Dall Dawnser de regagner 8 points d'action en le soignant. Le Dall Dawnser a actuellement 14 points d'action et possède un maximum de 20 points d'action. Il ne regagne donc que 6 points d'action, ce qui porte son total à 20, son maximum. 2 des 8 points offerts par les soins du bheghem sont donc perdus.  
 
 Une créature morte ne peut pas regagner de point d'action.
 
 ### Coups critiques
-Un coup critique ne peut être **paré ou esquivé**. Un coup critique est résolu sur la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). Un coup critique peut entraîner une blessure (fracture, hémorragie, brûlure) qualifiées de mineur ou de majeure. Cette blessure est décrite dans la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action (PA), si le seuil de critique (SC) est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
+Un coup critique ne peut être **paré ou esquivé**. Un coup critique est résolu sur la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). Un coup critique peut entraîner une blessure (fracture, hémorragie, brûlure) qualifiées de mineur ou de majeure. Cette blessure est décrite dans la [table des coups critiques](/tables-de-degats-et-de-coups-critiques/). C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action (PA), si le seuil de critique (SC) est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
 
 
 #### Type de blessure grave et rythme de guérison  

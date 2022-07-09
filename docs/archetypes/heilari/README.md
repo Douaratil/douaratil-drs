@@ -3,7 +3,7 @@ title: heilari
 ---
 # Heilari
 
-## Évolution du Heilari
+## Évolution de la Heilari
 
 |Niveau|Aptitudes|
 |:-:|:-:|
@@ -85,9 +85,9 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 À partir du niveau 17, la Heilari apprend gratuitement le sort [Guérison de groupe](/grimoire/guerison-de-groupe)
 
 ### Guérison suprême  
-**En Sogh : Æðsta lækning**  
+**En Weshlède : Æðsta lækning**  
 À partir du niveau 18, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
 
 ### Véritable Heilari
-**En Sogh : Heilari**  
-Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
+**En Weshlède : Heilari**  
+Au niveau 20, la Heilari est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
