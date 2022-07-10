@@ -67,9 +67,11 @@ Que ce soit le personnage en tant que chef de son armée ou bien l'un des person
 |Unité commandée par un personnage|DD 16|
 |Loup solitaire|DD 22|  
 
+## Modificateurs de bataille  
 ### Le bonus de surnombre   
 Une unité qui est au moins deux fois plus nombreuse que ses adversaire gagne un bonus de +2 de surnombre.  
-Le bonus de rang est un peu différent. L'unité gagne 1d6 par rang de soldats en formation.  
+### Le bonus de rang  
+Le bonus de rang est un peu différent. L'unité gagne 1d6 aux dégâts par rang de soldats en formation.  
 
 ### Bonus de commandement au sein d'une unié  
 Les unités commandées par des personnages reçoivent un bonus de commandement qui leur donne un avantage lors des tests de déroute et un bonus de zèle au combat de +2.  

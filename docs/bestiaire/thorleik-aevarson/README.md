@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "12"
-customHP: "36"
+challenge: "14"
+customHP: "40"
 abilityScores:
-  for: 12
+  for: 13
   dex: 12
   con: 12
   int: 16
-  sag: 16
+  sag: 18
   cha: 10
-customSavingThrows: "for +1, dex +1, con +1, int(••) +11, sag(••) +11, cha +0 "
+customSavingThrows: "for +1, dex +1, con +1, int(••) +13, sag(••) +14, cha +0 "
 savingThrows:
   - "int"
   - "int"
@@ -38,13 +38,13 @@ skills:
   - name: "custom"
     value: "histoire +3"
   - name: "custom"
-    value: "intimidation(••) +8"
+    value: "intimidation(••) +10"
   - name: "custom"
     value: "investigation +3"
   - name: "custom"
-    value: "médecine(•) +7"
+    value: "médecine(•) +9"
   - name: "custom"
-    value: "nature(•) +7"
+    value: "nature(•) +9"
   - name: "custom"
     value: "perception +3 (désavantage en plein jour)"
   - name: "custom"
@@ -52,13 +52,13 @@ skills:
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
-    value: "religion (••) +11"
+    value: "religion(••) +13"
   - name: "custom"
     value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie(•) +7"
+    value: "survie(•) +9"
 
 movement:
   walk: 9
@@ -72,7 +72,7 @@ category: "PJ"
 &nbsp;
 [![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleikm.png)](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17      
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21        
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:** Homme-médecine  
 **Compétences** : Médecine, Nature.  
@@ -83,7 +83,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.  
 
-_**Voie de la Magie & Herredyr**_. Thorleik est niveau 10 dans la voie de la Magie et Archétype Herredyr (Hibou).  
+_**Voie de la Magie & Herredyr**_. Thorleik est niveau 14 dans la voie de la Magie et Archétype Herredyr (Hibou).  
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).  
 
@@ -99,7 +99,7 @@ Toute personne extérieur au duel qui intervient pour l'interrompre encourt de g
 En effet, pour chaque round de duel, la puissance magique se cumule au rythme de 1d6. Cela dure autant de rounds que le duelliste à de niveau. Lorsqu'il ne peut plus investi de d6, il maintient sa charge en attendant que l'autre ait terminé. La charge est ensuite libérée. Les dés sont lancés et celui qui possède le plus gros score gagne le duel. Le perdant se voit vidé de tous ses points de Magie et de Foi alors que le vainqueur bénéficie d'un bonus temporaire de points de magie égal à la différence obtenu. Il le réparti à sa guise entre sa réserve de Magie et de Foi. Cette énergie se dissipe peu à peu au rythme de 1d6 par heure. En attendant, elle peut être utilisée librement pour lancer des sorts.
 Une personne qui intervient ou touche un duelliste durant l'affrontement subit un choque dont les dégâts correspondent à la puissance du duel, soit 1d6 par round d'engagement. D'autre part, une personne frappée par cet effet est soudain submergé de terreur (DD22).  
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (4d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux **(5d6)** du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  
 
 _**Allégeance bestiale**_. *(Herredyr)* Dès le niveau 3, vous découvrez votre allégeance bestiale, de quel origine est le sang qui coule dans vos veines. De cette allégeance dépendra l'évolution du personnage.  
 |Type|Jets de sauvegarde|
@@ -146,19 +146,19 @@ _**Rage bestiale**_. *(Herredyr)* Dès le niveau 12, votre allégeance bestiale 
 
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
+_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher.  
 _Touché_ : 3d6+1 dégâts contondant (polyvalent 3d6+3 à deux mains, rage bestiale)  
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (portée 6/18), rage bestiale.   
 
-_**Epée longue(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
 
-_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher , allonge 1,50 m, une cible.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
 
-_**Pique(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Pique(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
 
 §§§ .hero
@@ -187,9 +187,9 @@ Thorleik Aevarson possède l'équipement suivant :
 - pique
 - Tente
 - 2491 PC
-- 11 042 PA
+- 15 642 PA
 - 13 PE
-- 2999 PO   
+- 4939 PO   
 - 53 PP.
 
 §§§ .hero
@@ -200,17 +200,20 @@ Thorleik Aevarson possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +11**  
 **DD de Sauvegarde: 15**  
-**Novice** : [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
+**Novice** : [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
-[Arme sainte](/grimoire/arme-sainte), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins)
+[Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),
+
+**Apprenti** :  
+[Restauration supérieure](/grimoire/restauration-superieure),
 §§§
 
 **Sorts possédés à apprendre** :
 
-- Novice : Cécité/Surdité, Confort, Détection de la magie   
-- Disciple : Chien de garde, Invoquer des élémentaires mineurs, Respiration aquatique, Jeter une malédiction  
-- Apprenti : Restauration supérieure   
+- Novice :    
+- Disciple :   
+- Apprenti :   
 §§§
 
 
@@ -231,7 +234,7 @@ Thorleik Aevarson possède l'équipement suivant :
 
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
-**Colons** : 22  
+**Colons** : 8  
 **Trésor** : 688po, 360 pa
 
 §§§
@@ -239,11 +242,12 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
-**XP acquis** : 109 313   
+**XP acquis** : 164 604     
 **Points de Magie** :16   
-**Points de Foi** :60    
-**Points d'honneur** :34      
-**Voie d'éveil**: Voie de l'ascension.  
+**Points de Foi** :74      
+**Points d'honneur** :38        
+**Voie d'éveil**: Voie de l'ascension.   
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
 §§§
 
 §§§ .hero
@@ -251,3 +255,5 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 Comme un sou neuf
 
 §§§
+
+Mise à jour le 10/07/2022

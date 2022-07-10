@@ -15,8 +15,6 @@ title: Herredyr
 |**9**|[Défense](#defense)|
 |**10**|[Sens bestiale](#sens-bestiale)|
 |**12**|[Rage bestiale (+1d6)](#rage-bestiale)|
-|**13**|[Camouflage naturel](#camouflage-naturel)|
-|**14**|[Disparition](#disparition)|
 |**15**|[longévité bestiale](#longevite-bestiale)|
 |**16**|[Rage bestiale (+2d6)](#rage-bestiale)|
 |**20**|[Seigneur des bêtes](#seigneur-des-betes),[Rage bestiale (+3d6)](#rage-bestiale)|
