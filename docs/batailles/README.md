@@ -34,14 +34,14 @@ Ainsi, un coup est porté si le chiffre demandé est obtenu. Si le coup est port
 ## Unité de temps  
 L'unité de temps d'une bataille correspond à une dizaine de minutes. Cela permet au personnage peut agir deux fois chaque étape de la bataille. Il peut par contre lui être opposé plusieurs adversaires à chaque tour, s'il se trouve au contact. Au niveau des personnages, les adversaires qui lui sont opposés le sont toujours à son créneau d'initiative et il peut intervenir en premier (c'est un héros après tout).   
 
-|2D6|Adversaire typique|
-|:-:|:-:|
-|2-6|Personne|
-|7-10|Voie des armes (Novice)|
-|11-12|Voie des armes (Disciple)|
-|13-18|Voie des armes (Apprenti)|
-|19-20|Voie des armes (Adepte)|
-|20+|Voie des armes (Expert)|
+|2D6|Adversaire typique|Catégorie|Attaque|Nbr d'attaque|Dégâts|Points d'action|XP de rencontre|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|2-6|Personne|||||||
+|7-10|Voie des armes (Novice)|1|5-6|1|2d6+3|24|40|
+|11-12|Voie des armes (Disciple)|1|5-6|2|2d6+4|34|80|
+|13-18|Voie des armes (Apprenti)|2|4-6|2|2d6+5|52|140|
+|19-20|Voie des armes (Adepte)|2|3-6|3|2d6+6|70|200|
+|20+|Voie des armes (Expert)|3|2-6|3|2d6+6|79|300|
 
 Les mêlées étant furieuses, l'adversaire ne lui est opposé que deux rounds maximum. Si les deux ont survécu, ils se perdent de vue dans la bataille et un nouveau tirage est effectué. Si le personnage survit à l'affrontement, il obtient les points d’expérience correspondants. Si l'adversaire est abattu ou a perdu plus de la moitié de ses PA, il est considéré comme hors de combat et est soustrait de l'armée adverse.      
 
@@ -73,20 +73,22 @@ Une unité qui est au moins deux fois plus nombreuse que ses adversaire gagne un
 ### Le bonus de rang  
 Le bonus de rang est un peu différent. L'unité gagne 1d6 aux dégâts par rang de soldats en formation.  
 
-### Bonus de commandement au sein d'une unié  
+### Bonus de commandement au sein d'une unité  
 Les unités commandées par des personnages reçoivent un bonus de commandement qui leur donne un avantage lors des tests de déroute et un bonus de zèle au combat de +2.  
 
 ### Attaques contre les personnages  
-Les attaques contre les personnages se jouent normalement mais il existe une exception dans le contexte d'une bataille, lorsque le personnage commande une unité. En effet, lorsque le personnage commande une unité, la moitié des dégâts reçus sont transférés à l'unité (cela représente les soldats qui protègent leur chef). Par tranche de 10 points de dégâts, la valeur de défense d'un soldat qui l'accompagne doit être éprouvée.   
+Les attaques contre les personnages se jouent selon des règles simplifiées dans le contexte d'une bataille, lorsque le personnage commande une unité. En effet, lorsque le personnage commande une unité, les dégâts reçus sont transférés à l'unité (cela représente les soldats qui protègent leur chef) à hauteur de la moitié des dégâts encaissées, pour ce faire la valeur de défense d'un soldat qui l'accompagne doit être éprouvée à chaque fois pour chaque tranche de 5 pts encaissés.   
+Un personnage dans une unité peut se mettre en retrait est n'est donc pas attaqué durant la mélée. Il n'offre que son bonus de commandement et ne peut donc faire aucune autre action.      
 
 ### Le loup solitaire  
-Un personnage peut décider de participer à la bataille mais de ne pas commander d'unité. Il joue donc ses tours normalement mais ne bénéficie d'aucun bonus ou malus d'évènement ou de commandement. L'adversaire est défini sur la table des adversaires typiques.
+Un personnage peut décider de participer à la bataille mais de ne pas commander d'unité. Il joue donc ses tours normalement mais ne bénéficie d'aucun bonus ou malus d'évènement ou de commandement. L'adversaire est défini sur la table des adversaires typiques.   
 
 ### Déroute   
 Lorsqu'une unité perd des effectifs, elle peut avoir une baisse de moral. Une unité qui perd des effectifs peut être fixée si elle n'est pas au corps à corps. Une unité qui perd 10% de ses effectifs ou plus, elle doit faire un test de sagesse DD 12. Si elle échoue:  
 - Au contact, elle fuit, elle est taguée en fuite.  
 - A distance, elle s'immobilise. elle est taguée immobilisée.  
 Il est possible de tenter de rallier une unité tous les rounds avec un JS de Sagesse DD16 ou de Charisme DD16 si un personnage est au sein de l'unité, sinon le DD est de 22.   
+**Une unité en déroute 3 tours de suite quitte immédiatement le champ de bataille.**     
 
 ## Expérience d'une Bataille
 En plus de la participation à un évènement qui octroie un montant d'expérience dépendant de l'importance de l'évènement comme il est indiqué dans la section expérience, les personnages se voient attribuer un montant régulier d'expérience lors de leur participation active à la bataille.  

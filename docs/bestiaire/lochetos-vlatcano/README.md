@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 12
   cha: 20
-customSavingThrows: "for +1, dex(••) +13, con +3, int(•) +5, sag +2, cha(•) +10 "
+customSavingThrows: "for +3, dex(••) +13, con +5, int(•) +5, sag +4, cha(•) +10 "
 savingThrows:
   - "dex"
   - "dex"
@@ -24,27 +24,27 @@ ac:
   value: "18 (cuirasse)"
 skills:
   - name: "custom"
-    value: "acrobatie(touche à tout) +5"
+    value: "acrobatie(touche à tout) +6"
   - name: "custom"
-    value: "arcanes(touche à tout) +2"
+    value: "arcanes(touche à tout) +3"
   - name: "custom"
     value: "athlétisme(••) +10"
   - name: "custom"
     value: "discrétion(••) +13"
   - name: "custom"
-    value: "dressage(touche à tout) +3"
+    value: "dressage(touche à tout) +4"
   - name: "custom"
-    value: "escamotage(touche à tout) +5"
+    value: "escamotage(touche à tout) +6"
   - name: "custom"
     value: "histoire(•) +5"
   - name: "custom"
-    value: "intimidation(touche à tout) +7"
+    value: "intimidation(touche à tout) +8"
   - name: "custom"
     value: "investigation(••) +10"
   - name: "custom"
-    value: "médecine(touche à tout) +3"
+    value: "médecine(touche à tout) +4"
   - name: "custom"
-    value: "nature(touche à tout) +2"
+    value: "nature(touche à tout) +3"
   - name: "custom"
     value: "perception(••) +11"
   - name: "custom"
@@ -52,13 +52,13 @@ skills:
   - name: "custom"
     value: "persuasion(••) +15"
   - name: "custom"
-    value: "religion(touche à tout) +2"
+    value: "religion(touche à tout) +3"
   - name: "custom"
     value: "représentation(••) +15"
   - name: "custom"
     value: "supercherie(••) +15"
   - name: "custom"
-    value: "survie(touche à tout) +3"
+    value: "survie(touche à tout) +4"
 movement:
   walk: 9
 senses:
@@ -119,8 +119,6 @@ _**Orateur exceptionnel**_. *(Llawenos)* Également au niveau 8, vous pouvez uti
 
 _**Héraldique**_. *(Llawenos)* Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'Intelligence (Histoire) qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.  
 
-_**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un point proche de la perfection. À chaque fois que vous faites un test de caractéristique qui vous permet d'ajouter votre bonus de maîtrise, si le résultat de votre jet de 3d6 est inférieur ou égal à 9, vous le transformez en 10.
-
 _**Par monts et par vaux**_. *(Llawenos)* Également au niveau 10, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Survie). De plus, vous obtenez le bénéfice au choix d'un style de combat :  
 **Duel**. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 avec cette arme.    
 
@@ -136,7 +134,7 @@ _**Inspirer la bravoure**_. *(Llawenos)* Au niveau 14, sur un champ de bataille,
 
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+3 dégâts tranchants (Finesse & légère).
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
@@ -169,7 +167,7 @@ Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les
 Lôchetos possède l'équipement suivant :
 - accessoire de déguisement
 - [amulette antidote](/liste-objets-magiques/amulette-antidote)  
-- [anneau de légereté](/liste-objets-magiques/anneau-de-legerete)
+- [anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)
 - arc court
 - armure de cuir
 - armure de cuir cloutée
@@ -231,6 +229,7 @@ Lôchetos possède l'équipement suivant :
 **Points d'honneur** : 53      
 **famille** : une amante et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
 §§§
 
 §§§ .hero
@@ -243,3 +242,5 @@ tentes et vêtements adaptés a la vie dans le désert + matos essentiel pour la
 ## Kahina ult Bouhen
 &nbsp;
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
+
+Mise à jour le 12/07/2022

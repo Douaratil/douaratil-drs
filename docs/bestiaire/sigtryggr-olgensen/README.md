@@ -180,3 +180,4 @@ Sigtryggr Olgensen possède l'équipement suivant :
 
 
 §§§
+Mise à jour le 12/07/2022

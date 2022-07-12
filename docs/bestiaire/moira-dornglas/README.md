@@ -131,7 +131,7 @@ _Touché_ : 1d6+2 dégâts perforants .
 **Bonus d'incantation: +15**  
 **DD de Sauvegarde: 19**  
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure de mage](/grimoire/armure-de-mage), [Bourrasque](/grimoire/bourrasque), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
-[message](/grimoire/message), [messager animal](/grimoire/messager-animal),[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/grimoire/restauration-inferieure),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
+[message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Mot de guérison](/grimoire/mot-de-guerison), [Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/grimoire/restauration-inferieure),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
 [suggestion](/grimoire/suggestion).  
 
 **Disciple** :  
@@ -186,10 +186,11 @@ Moïra Dornglas possède l'équipement suivant :
 **Points de Magie** :70  
 **Points de Foi** :12        
 **Points d'honneur** :38  
-**Voie d'éveil**: Voie de médiane     
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 néant
 §§§
+
+Mise à jour le 12/07/2022  

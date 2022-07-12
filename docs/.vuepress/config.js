@@ -871,7 +871,18 @@ module.exports = {
                 path:'/atlas-du-monde/shahia'
               }
             ]
-    }
+          },
+          {title: 'Règles simplifiées',
+            icon: 'mdi-earth',
+            children: [
+              {
+                title: "Règles simplifiée",
+                icon: 'mdi-dice-6-outline',
+                path: '/regles-simplifiees'
+              },
+              ]
+            },
+  
 
         ]
       },

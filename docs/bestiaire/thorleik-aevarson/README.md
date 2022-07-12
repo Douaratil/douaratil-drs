@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "14"
+challenge: "15"
 customHP: "40"
 abilityScores:
   for: 13
   dex: 12
   con: 12
   int: 16
-  sag: 18
+  sag: 19
   cha: 10
 customSavingThrows: "for +1, dex +1, con +1, int(••) +13, sag(••) +14, cha +0 "
 savingThrows:
@@ -200,7 +200,8 @@ Thorleik Aevarson possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +11**  
 **DD de Sauvegarde: 15**  
-**Novice** : [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
+**Novice** : [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),
+[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
 [Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),
@@ -235,25 +236,25 @@ Thorleik Aevarson possède l'équipement suivant :
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
 **Colons** : 8  
-**Trésor** : 688po, 360 pa
+**Trésor** : 1888po, 360 pa
 
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** :  
-**XP acquis** : 164 604     
+**Haut fait de vaillance** :  *héroïque: Bataille des dunes rouges + 5 PH*  
+**XP acquis** : 165 684   
 **Points de Magie** :16   
-**Points de Foi** :74      
-**Points d'honneur** :38        
+**Points de Foi** :79      
+**Points d'honneur** :40        
 **Voie d'éveil**: Voie de l'ascension.   
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
-Comme un sou neuf
+Cicatrice de 20 cm de la tempe gauche au menton.   
 
 §§§
 
-Mise à jour le 10/07/2022
+Mise à jour le 12/07/2022

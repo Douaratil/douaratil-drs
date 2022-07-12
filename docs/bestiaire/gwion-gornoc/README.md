@@ -251,7 +251,7 @@ Gwion possède l'équipement suivant :
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
 **Colons** : 54    
-**Trésor** : 1000 po  
+**Trésor** : 1800 po    
 
 §§§
 
@@ -259,7 +259,7 @@ Gwion possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 196 265    
+**XP acquis** : 213 565      
 **Points de Magie** :84   
 **Points de Foi** :20      
 **Points d'honneur** :51            
@@ -275,6 +275,6 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 27/06/2022
+Mise à jour du 12/07/2022
 
 §§§
