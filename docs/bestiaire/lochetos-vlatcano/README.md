@@ -186,11 +186,11 @@ Lôchetos possède l'équipement suivant :
 - piège à mâchoire
 - torches (2)
 - vêtement discrets
-- 6314 PC
-- 12 722 PA
-- 750 PE
-- 931 PO
-- 93 PP  
+- 63 PC
+- 636 PA
+- 75 PE
+- 18 282 PO
+- 469 PP  
 §§§
 
 §§§ .hero
@@ -213,9 +213,11 @@ Lôchetos possède l'équipement suivant :
 **Revenus** : 0  
 
 ### Colonie de Madin'alajnibh
-**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
-**Colons** : 121       
-**Trésor** : 0  
+**Développement important** La colonie est importante et renommée dans la région.  
+La colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre. Un tel investissement permet d'avoir l'équivalent du haut fait de richesse "héroïque".  
+Revenus : 5D6 PP et 30 x 6d6 po  
+**Colons** : 164       
+**Trésor** :     
 
 §§§
 
@@ -223,11 +225,12 @@ Lôchetos possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
+ **haut fait de richesse**: *héroïque colonie développement important + 5 PH*
 **XP acquis** : 142 486
 **Points de Magie** :10  
 **Points de Foi** :12  
-**Points d'honneur** : 53      
-**famille** : une amante et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
+**Points d'honneur** : 58        
+**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
 §§§
@@ -243,4 +246,4 @@ tentes et vêtements adaptés a la vie dans le désert + matos essentiel pour la
 &nbsp;
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
 
-Mise à jour le 12/07/2022
+Mise à jour le 13/07/2022

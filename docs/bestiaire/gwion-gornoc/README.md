@@ -250,7 +250,7 @@ Gwion possède l'équipement suivant :
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
-**Colons** : 54    
+**Colons** : 68     
 **Trésor** : 1800 po    
 
 §§§

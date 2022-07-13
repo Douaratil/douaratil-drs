@@ -152,7 +152,7 @@ Moïra Dornglas est une Sorseresse qui vit dans les monts du Menezlatar.
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon>Description physique:  
-Moïra Dornglas est une Khernaëe de vingt et trois printemps. Elle a la peau clanche et les cheveux blonds, longs et les yeux bleus. De stature moyenne, elle mesure un mètre soixante deux pour cinquante huit douze kilos.     
+Moïra Dornglas est une Khernaëe de vingt et trois printemps. Elle a la peau blanche et les cheveux blonds, longs et les yeux bleus. De stature moyenne, elle mesure un mètre soixante deux pour cinquante huit douze kilos.     
 §§§
 
 §§§ .hero
@@ -164,8 +164,8 @@ Moïra Dornglas possède l'équipement suivant :
 - rations (6)  
 - épée longue  
 - Vêtement de bonne qualité  
-- 10 700 PA  
-- 1 057 PO.     
+- 17 400 PA  
+- 5 987 PO.     
 §§§
 
 §§§ .hero
@@ -193,4 +193,4 @@ Moïra Dornglas possède l'équipement suivant :
 néant
 §§§
 
-Mise à jour le 12/07/2022  
+Mise à jour le 13/07/2022  
