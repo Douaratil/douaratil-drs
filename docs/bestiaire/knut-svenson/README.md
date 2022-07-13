@@ -165,7 +165,7 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *Rien pour le moment*  
-**XP acquis** : 21 074
+**XP acquis** : 21 074  
 **Points de Magie** :10   
 **Points de Foi** :10    
 **Points d'honneur** :22         

@@ -31,6 +31,18 @@ Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'
 
 Ainsi, un coup est porté si le chiffre demandé est obtenu. Si le coup est porté, la défense est testée. Les tests de défense échoués indiquent le nombre de combattant qui sont tombés (inconscients, blessés ou morts).
 
+§§§ .hero
+### Tour de bataille.   
+La gestion de la bataille se déroule selon les phases suivantes.  
+- Phase 1 : Test des tacticiens.
+- Phase 2 : Prise en compte des ordres par les chefs d'unité.
+- Phase 3 : Ralliement des unités en déroute.
+- Phase 4 : Test de déroulement de la bataille et application des résultats.   
+- Phase 5 : Phase du joueur (Commandant et loups solitaires), 2 rds d'action.   
+- Phase 6 : Événement aléatoire du champ de bataille.
+
+§§§
+
 ## Unité de temps  
 L'unité de temps d'une bataille correspond à une dizaine de minutes. Cela permet au personnage peut agir deux fois chaque étape de la bataille. Il peut par contre lui être opposé plusieurs adversaires à chaque tour, s'il se trouve au contact. Au niveau des personnages, les adversaires qui lui sont opposés le sont toujours à son créneau d'initiative et il peut intervenir en premier (c'est un héros après tout).   
 
@@ -78,17 +90,32 @@ Les unités commandées par des personnages reçoivent un bonus de commandement 
 
 ### Attaques contre les personnages  
 Les attaques contre les personnages se jouent selon des règles simplifiées dans le contexte d'une bataille, lorsque le personnage commande une unité. En effet, lorsque le personnage commande une unité, les dégâts reçus sont transférés à l'unité (cela représente les soldats qui protègent leur chef) à hauteur de la moitié des dégâts encaissées, pour ce faire la valeur de défense d'un soldat qui l'accompagne doit être éprouvée à chaque fois pour chaque tranche de 5 pts encaissés.   
-Un personnage dans une unité peut se mettre en retrait est n'est donc pas attaqué durant la mélée. Il n'offre que son bonus de commandement et ne peut donc faire aucune autre action.      
+Un personnage dans une unité peut se mettre en retrait est n'est donc pas attaqué durant la mêlée. Il n'offre que son bonus de commandement et ne peut donc faire aucune autre action.      
 
 ### Le loup solitaire  
 Un personnage peut décider de participer à la bataille mais de ne pas commander d'unité. Il joue donc ses tours normalement mais ne bénéficie d'aucun bonus ou malus d'évènement ou de commandement. L'adversaire est défini sur la table des adversaires typiques.   
 
 ### Déroute   
-Lorsqu'une unité perd des effectifs, elle peut avoir une baisse de moral. Une unité qui perd des effectifs peut être fixée si elle n'est pas au corps à corps. Une unité qui perd 10% de ses effectifs ou plus, elle doit faire un test de sagesse DD 12. Si elle échoue:  
-- Au contact, elle fuit, elle est taguée en fuite.  
-- A distance, elle s'immobilise. elle est taguée immobilisée.  
+Lorsqu'une unité perd des effectifs, elle peut avoir une baisse de moral. Une unité qui perd des effectifs peut être fixée si elle n'est pas au corps à corps. Une unité qui perd 10% de ses effectifs ou plus, elle doit faire un test de sagesse DD 12. Si elle échoue, elle ne peut pas agir durant le tour.
 Il est possible de tenter de rallier une unité tous les rounds avec un JS de Sagesse DD16 ou de Charisme DD16 si un personnage est au sein de l'unité, sinon le DD est de 22.   
 **Une unité en déroute 3 tours de suite quitte immédiatement le champ de bataille.**     
+
+### Événement aléatoire du champs de bataille.   
+
+|4D6|Résultat|
+|:-:|:-:|
+|4-10|rien|
+|11-12|Volée de projectiles 6d6 d'attaques réussies contre l'unité la plus faible|
+|13-14|Volée de projectiles 6d6 d'attaques réussies contre l'unité la plus forte|  
+|15-16|Charge 7d6 d'attaques réussies contre l'unité la plus faible|  
+|17-18|Charge 7d6 d'attaques réussies contre l'unité la plus forte|  
+|19-20|Un champion adverse se déchaîne 8d6 d'attaques réussies contre l'unité la plus faible|  
+|21-22|Un champion adverse se déchaîne 8d6 d'attaques réussies contre l'unité la plus forte|  
+|23-24|Volée de projectiles 9d6 d'attaques réussies contre l'unité la plus faible|
+|25-26|Volée de projectiles 9d6 d'attaques réussies contre l'unité la plus forte|    
+|27-28|Un champion adverse se déchaîne 10d6 d'attaques réussies contre l'unité la plus forte|  
+|29-30|Coup critique tranchant 2d6 contre un personnage tiré au hasard|
+|31+|Coup critique tranchant 3d6 contre un personnage tiré au hasard|   
 
 ## Expérience d'une Bataille
 En plus de la participation à un évènement qui octroie un montant d'expérience dépendant de l'importance de l'évènement comme il est indiqué dans la section expérience, les personnages se voient attribuer un montant régulier d'expérience lors de leur participation active à la bataille.  
@@ -99,10 +126,3 @@ Ce montant est distribué à chaque tour de bataille tant que le personnage est 
 |Tacticien|50 + 5/niveau|
 |En formation dans une unité|20 + 2/niveau|
 |Loup solitaire|10 + 1/niveau|
-
-
-
-§§§ .hero
-### Illustration : exemples de bataille  
-
-§§§

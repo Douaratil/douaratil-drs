@@ -11,8 +11,8 @@ Une colonie est d'abord un élément narratif du jeu. Il coûtera probablement p
 La gestion de la colonie se déroule au moment des intermèdes.  
 - Phase 1 : Gestion des colons.
 - Phase 2 : Gestions des évènements des colonies
-- Phase 1 : Revenus.
-- Phase 2 : Investissement (permet de développer la colonie et ainsi de générer de nouveau des revenus)
+- Phase 3 : Revenus.
+- Phase 4 : Investissement (permet de développer la colonie et ainsi de générer de nouveau des revenus)
 
 
 ## Le développement de la colonie  
@@ -72,7 +72,7 @@ La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 
 La colonie est importante et renommée dans la région.   
 La colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre.
 Un tel investissement permet d'avoir l'équivalent du **haut fait de richesse "héroïque"**  
-*Revenus : 5D6 PP et 30 x 6d6 po*   
+*Revenus : 5d6 PP et 30 x 6d6 po*   
 
 **Développement Très Important**  
 *Condition: Niveau 15*  
@@ -147,7 +147,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |26|Ville assiégée, perte de 1d6 X 10 po par jour|
 |27|Ville assiégée, perte de 1d6 X 5 po par jour|
 |28|Ville assiégée, perte de 1d6 X 2 po par jour|
-|29|Ville assiégée, Le personnage subit un coup ciritique contondant (résultat mortel ignorée mais transormé blessure grave, blessures prises en compte.)|
+|29|Ville assiégée, Le personnage subit un coup ciritique contondant (résultat mortel ignorée mais transformé blessure grave, blessures prises en compte.)|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **La vie suit son cour**|
 
 ### La vie suit son cour
@@ -164,16 +164,16 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |17|La vie suit son court et c'est bien mieux ainsi|
 |18|Marché local : gain 6d6 X 10 Po|
 |19|Marché important avec événementiel 4d6 X 25 Po|
-|20| activité économique normale 6d6 X 50 PO|
+|20|activité économique normale 6d6 X 50 PO|
 |21|activité économique 6d6 X 100 PO|
 |22|Victoire sur des bandits et des pillards, gain de 500 po, perte de 5d6 (explosifs) colons|
 |23|Le temple ou des fidèles sont suspectés d'hérésie, aucun revenu religieux pour le mois|
 |24|Fête religieuse, la population est joyeuse, gain 600 po|
 |25|Les bandits et les pillards ont refusé l'affrontement et fui en laissant une partie de leur butin, gain de 600 po|
 |26|Baisse des impôts, vous gagnez immédiatement 750 po de votre seigneur|
-|27|-|
-|28|-|
-|29|-|
+|27|Des rois mages passent par là, 800 po de cadeaux|
+|28|Victoire sur un adversaire local, vous gagnez un otage de marque|
+|29|activité économique 7d6 X 100 PO|
 |30|Parce qu'il y a de l'espoir, relancer sur la table **Bonne nouvelle**|
 
 ### Bonne nouvelle
@@ -182,19 +182,19 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |:-:|:-:|
 |4-10|Faux espoir, relancer sur la table **La vie suit son cour**|
 |11|Bonne victoire sur des bandits et des pillards, gain de 1000 po, perte de 6d6 (explosifs) colons|
-|12|-|
-|13|-|
-|14|-|
-|15|-|
-|16|-|
-|17|-|
-|18|-|
-|19|-|
+|12|Victoire sur des bandits et des pillards, gain de 300 po, perte de 1d6 (explosifs) colons|
+|13|Victoire sur des bandits et des pillards, gain de 600 po, perte de 1d6 (explosifs) colons|
+|14|Baisse des impôts, recevez immédiatement 70 po à votre seigneur|
+|15|Attractivité de la colonie, gain de 1d6 (explosif) colons|
+|16|Migration d'oiseaux, la chasse est ouverte, augmentation des réserves de nourriture, gain de 350 po|
+|17|échanges commerciaux profitables gain de 400 po|
+|18|Marchand de drogue de passage, gain de 600 po, perte de 2d6 colons (bagarres et surdoses)|
+|19|Pendaison publique d'un malfrat, moment festif. Gain de 300 po|
 |20|Bonne activité économique 6d6 X 15 PO|
 |21|Bonnes récoltes multipliez par 2 votre gain de  nourriture ce mois-ci|
 |22|Activités économiques bonnes, revenus de la colonie multipliez par 2|
 |23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 1500 po, arrivée 2d6 (explosifs) colons|
-|24|Victoire sur des bandits et des pillards, gain de 1000 po, perte de 5d6 (explosifs) colons|
+|24|Victoire sur des bandits et des pillards, gain de 1500 po, perte de 5d6 (explosifs) colons|
 |25|-|
 |26|Baisse des impôts, vous gagnez immédiatement 1000 po de votre seigneur|
 |27|-|
@@ -220,7 +220,7 @@ Une colonie génère rapidement beaucoup d'activité et des évènements arriven
 |21|Bonnes récoltes multipliez par 3 votre gain de  nourriture ce mois-ci|
 |22|Activités économiques bonnes, revenus de la colonie multipliez par 4|
 |23|Le temple ou des fidèles sont reconnus comme élus ou porteur de miracles, pèlerinage et donations, gain de 3000 po, arrivée 4d6 (explosifs) colons|
-|24|-|
+|24|Victoire sur des bandits et des pillards, gain de 1800 po, perte de 4d6 (explosifs) colons|
 |25|-|
 |26|Baisse des impôts, vous gagnez immédiatement 2000 po de votre seigneur|
 |27|-|
