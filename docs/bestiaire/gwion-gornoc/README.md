@@ -83,7 +83,7 @@ _**Maîtrises:**_. glaive, hache, armes courantes (Double maîtrise pour dague, 
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
-_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 12 dans la voie de la Magie et Archétype Ambeanamos.  
+_**Voie de la Magie & Ambeanamos**_. Gwion est niveau 16 dans la voie de la Magie et Archétype Ambeanamos.  
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybrides" (cf: Sohoten).
 
@@ -214,15 +214,14 @@ Gwion possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +15**
-**DD de Sauvegarde: 20**  
-**Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Arme magique](/grimoire/arme-magique), [Aspersion d'acide](/grimoire/aspersion-acide), [Baie nourricière](/grimoire/baie-nourriciere), [Balisage](/grimoire/balisage), [Bourrasque](/grimoire/bourrasque), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Boussole mentale](/grimoire/boussole-mentale), [Cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre),   
+**DD de Sauvegarde: 18**  
+**Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Arme magique](/grimoire/arme-magique), [Aspersion d'acide](/grimoire/aspersion-acide), [Baie nourricière](/grimoire/baie-nourriciere), [Balisage](/grimoire/balisage), [Bourrasque](/grimoire/bourrasque), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Boussole mentale](/grimoire/boussole-mentale), [Cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre),
 [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification),  
-[invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
-[Mot de guérison](/grimoire/mot-de-guerison), [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [produire une flamme](/grimoire/produire-une-flamme), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
+[invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Mot de guérison](/grimoire/mot-de-guerison), [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [produire une flamme](/grimoire/produire-une-flamme), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),
 [Strangulation](/grimoire/strangulation), [suggestion](/grimoire/suggestion), [Thaumaturgie](/grimoire/thaumaturgie),[vague tonnante](/grimoire/vague-tonnante), [vision dans le noir](/grimoire/vision-dans-le-noir).  
 
 **Disciple** :  
-[Arme sainte](/grimoire/arme-sainte), [Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairvoyance](/grimoire/clairvoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre),   
+[Arme sainte](/grimoire/arme-sainte), [Brume glaciale](/grimoire/brume-glaciale), [Chien de garde](/grimoire/chien-de-garde), [Crainte](/grimoire/crainte), [Clairvoyance](/grimoire/clairvoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Fil de vie](/grimoire/fil-de-vie), [Floraison](/grimoire/floraison), [Hors-saison](/grimoire/hors-saison), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Jeter une malédiction](/grimoire/jeter-une-malediction), [Mur de chaleur](/grimoire/mur-de-chaleur), [Oeil magique](/grimoire/oeil-magique), [Ordre ](/grimoire/ordre),
 [Prière de soins ](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
@@ -249,7 +248,8 @@ Gwion possède l'équipement suivant :
 **Serviteurs** : 0    
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
-**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
+**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
+**Revenus** : 1d6 PP et 20 x 6d6 po.   
 **Colons** : 68     
 **Trésor** : 1800 po    
 
@@ -264,7 +264,7 @@ Gwion possède l'équipement suivant :
 **Points de Foi** :20      
 **Points d'honneur** :51            
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
-**Pedr Pimal**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
+**Pedr Pimalo**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Guilde des mages** : Apprenti 420 po/lune, avantage : réseau de guilde, +1 au toucher et aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde : Foudre), +1 aux JS d'INT, train de vie confortable.   
 **Eveil**: Voie médiane  
 Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   

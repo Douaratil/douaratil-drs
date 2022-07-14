@@ -8,6 +8,251 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## Mise à jour 124
+
+- Ajout de [Nadira Bahati](/bestiaire/nadira-bahati) au bestiaire.
+- Ajout du [Torunn Vertlithidottir](/bestiaire/torunn-vertlithidottir) au bestiaire.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 30 juin 2022_
+§§§
+
+## Mise à jour 123
+- Ajout d'[Ayah Kenira](/bestiaire/ayah-kenira) au bestiaire.
+- Ajout de [Jahir](/bestiaire/jahir) au bestiaire.
+- Ajout du [Nundu](/bestiaire/nundu) au bestiaire.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 29 juin 2022_
+§§§
+
+## Mise à jour 122
+Poursuite du livre des rituels, actuellement 265 pages et sortilèges jusqu'à la fin. Ajout des composantes magiques et du chapitre sur la fabrication des objets magiques.  
+- Correction de nombreux sorts.  
+- Ajout du sort [Unification du Corps et de la Terre](/grimoire/unification-du-corps-et-de-la-terre).  
+- Ajout du sort [Unification du Corps et de l'air](/grimoire/unification-du-corps-et-de-l-air).  
+- Ajout du sort [Unification du Corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau).    
+- Ajout du sort [Yeux de braises](/grimoire/yeux-de-braises).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 27 juin 2022_
+§§§
+
+## Mise à jour 121
+Poursuite du livre des rituels, actuellement 230 pages et sortilèges jusqu'à la lettre **T**.  
+- Correction de nombreux sorts.  
+- Ajout du sort [Terrain magique](/grimoire/terrain-magique).
+- Ajout du sort [Torche humaine](/grimoire/torche-humaine)
+- Ajout du sort [Torture mentale](/grimoire/torture-mentale).  
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc).    
+- Mise à jour de [Yan Zin](/bestiaire/yan-zin).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 26 juin 2022_
+§§§
+
+## Mise à jour 120
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Kishi](/bestiaire/kishi), [Korshekh](/bestiaire/korshekh), [Koshei](/bestiaire/koshei)  
+Poursuite du livre des rituels, actuellement 230 pages et sortilèges jusqu'à la lettre **S**.  
+- Correction de nombreux sorts.  
+- Ajout du sort [Poignards de sang](/grimoire/poignards-de-sang).
+- Ajout du sort [Pourriture](/grimoire/pourriture)
+- Ajout du sort [Présence bienfaitrice](/grimoire/presence-bienfaitrice).         
+- Ajout du sort [Serpents illusoires](/grimoire/serpents-illusoires).      
+- Ajout du sort [Silhouettes dansantes](/grimoire/silhouettes-dansantes).  
+- Ajout du sort [Serpents illusoires](/grimoire/serpents-illusoires).          
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 24 juin 2022_
+§§§
+
+## Mise à jour 119
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Kashokh](/bestiaire/kashokh), [Kesh](/bestiaire/kesh), [Khashik](/bestiaire/khashik), [Kheshou](/bestiaire/kheshou), [Khukheshakh](/bestiaire/khukheshakh).   
+
+
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juin 2022_
+§§§
+
+## Mise à jour 118
+- Travail complémentaire sur l'Eveil.  
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Kashokh](/bestiaire/kashokh), [Kesh](/bestiaire/kesh), [Khashik](/bestiaire/khashik), [Kheshou](/bestiaire/kheshou), [Khukheshakh](/bestiaire/khukheshakh).   
+- Ajout de [Moïra Dornglas](/bestiaire/moira-dornglas) au bestiaire.
+
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 20 juin 2022_
+§§§
+
+## Mise à jour 117
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Delfon](/bestiaire/delfon), [Elémentaire mineur de boue](/bestiaire/elementaire-de-boue), [Eléphant](/bestiaire/elephant), [Epaulard](/bestiaire/epaulard), [Fantôme](/bestiaire/fantome), [Faucon](/bestiaire/faucon), [Faucon de sang](/bestiaire/faucon-de-sang), [Goule darakhule](/bestiaire/goule-darakhule), [Goule de fer](/bestiaire/goule-de-fer), [Goule empereur](/bestiaire/goule-empereur), [Goule impériale](/bestiaire/goule-imperiale), [Goule mendiante](/bestiaire/goule-mendiante), [Grand singe](/bestiaire/grand-singe), [Grenouille](/bestiaire/grenouille), [Hibou](/bestiaire/hibou),
+ [Hyène](/bestiaire/hyene), [Hyène géante](/bestiaire/hyene-geante), [Hyène à tête rouge](/bestiaire/hyene-a-tete-rouge), [Kakhe](/bestiaire/kakhe), [Kashakosh](/bestiaire/kashakosh),
+
+- Ajout du [Langrier](/bestiaire/langrier) au bestiaire.
+- Ajout du [Lougre](/bestiaire/lougre) au bestiaire.  
+
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 19 juin 2022_
+§§§
+
+## Mise à jour 116
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Chouette](/bestiaire/chouette), [Chouette de Mazûl](/bestiaire/chouette-de-mazul), [Corbeau](/bestiaire/corbeau), [Crabe](/bestiaire/crabe), [Crocodile](/bestiaire/crocodile), [Crocodile géant](/bestiaire/crocodile-geant),
+
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 18 juin 2022_
+§§§
+
+## Mise à jour 115
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Cheval de selle](/bestiaire/cheval-de-selle), [Cheval de trait](/bestiaire/cheval-de-trait), [Chèvre](/bestiaire/chevre), [Chevreuil](/bestiaire/chevreuil), [Elan](/bestiaire/elan), [Malaak](/bestiaire/malaak),
+- Ajout de l'[Aligosaure](/bestiaire/aligosaure) au bestiaire.  
+- Ajout de l'[Eléon](/bestiaire/eleon) au bestiaire.  
+- Ajout du [Falcor](/bestiaire/falcor) au bestiaire.  
+- Ajout de l'[Igualigator](/bestiaire/igualigator) au bestiaire.  
+- Ajout du [Mao-ju](/bestiaire/mao-ju) au bestiaire.  
+- Ajout de l'[Ostonie](/bestiaire/ostonie) au bestiaire.  
+- Ajout du [Phacomochère](/bestiaire/phacomochere) au bestiaire.  
+- Ajout de l'[Udasaur](/bestiaire/udasaur) au bestiaire.  
+- Ajout du [Vulturh](/bestiaire/vulturh) au bestiaire.  
+
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 17 juin 2022_
+§§§
+
+## Mise à jour 114
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Chat](/bestiaire/chat), [Chauve-souris](/bestiaire/chauve-souris), [Chauve-souris géante](/bestiaire/chauve-souris-geante), [Cheval de guerre](/bestiaire/cheval-de-guerre), [Cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd).
+- Ajout du [Crabass](/bestiaire/crabass) au bestiaire.  
+- Ajout du [Gorgath](/bestiaire/gorgath) au bestiaire.  
+- Ajout du [Khaznoz](/bestiaire/khaznoz) au bestiaire.  
+- Ajout du [Niwele](/bestiaire/niwele) au bestiaire.  
+- Ajout de la [Gangrène purulente](/maladies/#gangrene-purulente) dans les maladies.  
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 16 juin 2022_
+§§§
+
+## Mise à jour 113
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Capitaine bandit](/bestiaire/capitaine-bandit), [Chacal](/bestiaire/chacal), [Chameau](/bestiaire/chameau), [Charognard des forêts](/bestiaire/charognard-des-forets),
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 11 juin 2022_
+§§§
+
+## Mise à jour 112
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Bandit](/bestiaire/bandit), [Belette](/bestiaire/belette), [Berdu](/bestiaire/berdu), [Berserker](/bestiaire/berserker), [Blaireau](/bestiaire/blaireau), [Blême](/bestiaire/bleme),
+- Ajout du sort [Ombre fantasmagorique](/grimoire/ombre-fantasmagorique)  
+- Ajout du sort [Opprobe passagère](/grimoire/opprobe-passagere)  
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 7 juin 2022_
+§§§
+
+## Mise à jour 111
+- Ajout de nouvelles illustrations dans le bestiaire:  
+[Agowen Tenva Duenn](/bestiaire/agowen-tenva-duenn), [Aigle](/bestiaire/aigle), [Ame en peine](/bestiaire/ame-en-peine), [Araignée](/bestiaire/araignee), [Archimage](/bestiaire/archimage),[Assassin](/bestiaire/assassin), [Babouin](/bestiaire/babouin), [Baboune](/bestiaire/baboune),[Mandrill des montagnes](/bestiaire/mandrill-des-montagnes), [Sanglier](/bestiaire/sanglier), [Sanglier géant](/bestiaire/sanglier-geant), [Tigre](/bestiaire/tigre), [Tigre à dents de sabre](/bestiaire/tigre-a-dents-de-sabre), [Tricératops](/bestiaire/triceratops), [Tyrannosaure](/bestiaire/tyrannosaure)    
+- Ajout de la [Lampose](/bestiaire/lampose) au bestiaire.  
+- Ajout de la [Mante](/bestiaire/mante) au bestiaire.  
+- Ajout du [Nagocéros](/bestiaire/nagoceros) au bestiaire.  
+- Ajout du [Nandos](/bestiaire/nandos) au bestiaire.  
+- Ajout du [Vers flasque](/bestiaire/vers-flasque) au bestiaire.  
+- Ajout du [Vers mordeur](/bestiaire/vers-mordeur) au bestiaire.  
+- Correction des sorts [Paranoïa](/grimoire/paranoia), [Protection contre les charmes](/grimoire/protection-contre-les-charmes), [Pyromancie](/grimoire/pyromancie)  
+- Ajout du sort [Occultation des sens](/grimoire/occultation-des-sens)  
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 6 juin 2022_
+§§§
+
+## Mise à jour 110
+- Ajout d'une nouvelles page sur [les plans](/les-plans) qui présente les règles sur les mondes psychiques.  
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes de guerre: [Hache d'armes +1](/liste-objets-magiques/hache-d-armes-1), [Hache d'armes +2](/liste-objets-magiques/hache-d-armes-2), [Hache d'armes +3](/liste-objets-magiques/hache-d-armes-3), [Lance d'arçon +1](/liste-objets-magiques/lance-d-arcon-1), [Lance d'arçon +2](/liste-objets-magiques/lance-d-arcon-2), [Lance d'arçon +1](/liste-objets-magiques/lance-d-arcon-3), [Marteau de guerre +1](/liste-objets-magiques/marteau-de-guerre-1), [Marteau de guerre +2](/liste-objets-magiques/marteau-de-guerre-2), [Marteau de guerre +3](/liste-objets-magiques/marteau-de-guerre-3), [Merlin +1](/liste-objets-magiques/merlin-1), [Merlin +2](/liste-objets-magiques/merlin-2), [Merlin +3](/liste-objets-magiques/merlin-3), [Morgenstern +1](/liste-objets-magiques/morgenstern-1), [Morgenstern +2](/liste-objets-magiques/morgenstern-2),[Morgenstern +3](/liste-objets-magiques/morgenstern-3),
+[Pic de guerre +1](/liste-objets-magiques/pic-de-guerre-1), [Pic de guerre +2](/liste-objets-magiques/pic-de-guerre-2), [Pic de guerre +3](/liste-objets-magiques/pic-de-guerre-3), [Pique +1](/liste-objets-magiques/pique-1), [Pique +2](/liste-objets-magiques/pique-2), [Pique +3](/liste-objets-magiques/pique-3), [Rapière +1](/liste-objets-magiques/rapiere-1),[Rapière +2](/liste-objets-magiques/rapiere-2), [Rapière +3](/liste-objets-magiques/rapiere-3), [Trident +1](/liste-objets-magiques/trident-1), [Trident +2](/liste-objets-magiques/trident-2), [Trident +3](/liste-objets-magiques/trident-3).       
+- Ajout de l'[Orsodon](/bestiaire/orsodon) au bestiaire.  
+Bon jeu.                                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 5 juin 2022_
+§§§
+
+## Mise à jour 109
+- Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes à distance légère: [Arc court +1](/liste-objets-magiques/arc-court-1), [Arc court +2](/liste-objets-magiques/arc-court-2), [Arc court +3](/liste-objets-magiques/arc-court-3), [Bolas +1](/liste-objets-magiques/bolas-1), [Fléchettes +1](/liste-objets-magiques/flechettes-1), [Fronde +1](/liste-objets-magiques/fronde-1).  
+Armes de guerre: [Cimeterre +1](/liste-objets-magiques/cimeterre-1), [Cimeterre +2](/liste-objets-magiques/cimeterre-2), [Cimeterre +3](/liste-objets-magiques/cimeterre-3), [Epée à deux mains +1](/liste-objets-magiques/epee-a-deux-mains-1), [Epée à deux mains +2](/liste-objets-magiques/epee-a-deux-mains-2), [Epée à deux mains +3](/liste-objets-magiques/epee-a-deux-mains-3), [Epée courte  +1](/liste-objets-magiques/epee-courte-1), [Epée courte  +2](/liste-objets-magiques/epee-courte-2), [Epée courte  +3](/liste-objets-magiques/epee-courte-3), [Epée longue +1](/liste-objets-magiques/epee-longue-1), [Epée longue +2](/liste-objets-magiques/epee-longue-2), [Epée longue +3](/liste-objets-magiques/epee-longue-3), [Fléau +1](/liste-objets-magiques/fleau-1), [Fléau +2](/liste-objets-magiques/fleau-2),
+ [Fléau +3](/liste-objets-magiques/fleau-3), [Fouet +1](/liste-objets-magiques/fouet-1),[Hache d'armes à deux mains +1](/liste-objets-magiques/hache-d-armes-a-deux-mains-1), [Hache d'armes à deux mains +2](/liste-objets-magiques/hache-d-armes-a-deux-mains-2), [Hache d'armes à deux mains +3](/liste-objets-magiques/hache-d-armes-a-deux-mains-3)    
+
+ Bon jeu.           
+
+§§§ .text-right
+_**Olivier**_,  
+_le 4 juin 2022_
+§§§
+
+## Mise à jour 108  
+- Ajout de précisions sur les règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques)  
+- Ajout de nouveaux objets magiques et de leur description :  
+Armes légères: [Bâton +1](/liste-objets-magiques/baton-1),[Dague +1](/liste-objets-magiques/dague-1), [Dague +2](/liste-objets-magiques/dague-2), [Dague +3](/liste-objets-magiques/dague-3), [Gourdin +1](/liste-objets-magiques/gourdin-1), , [Hachette +1](/liste-objets-magiques/hachette-1), [Hachette +2](/liste-objets-magiques/hachette-2), [Hachette +3](/liste-objets-magiques/hachette-3), [Javeline +1](/liste-objets-magiques/javeline-1), [Javeline +2](/liste-objets-magiques/javeline-2),
+[Javeline +3](/liste-objets-magiques/javeline-3), [Lance +1](/liste-objets-magiques/lance-1), [Lance +2](/liste-objets-magiques/lance-2), [Lance +3](/liste-objets-magiques/lance-3), [Marteau léger +1](/liste-objets-magiques/marteau-leger-1), [Marteau léger +2](/liste-objets-magiques/marteau-leger-2), [Marteau léger +3](/liste-objets-magiques/marteau-leger-3), [Masse d'arme +1](/liste-objets-magiques/masse-d-arme-1), [Masse d'arme +2](/liste-objets-magiques/masse-d-arme-2), [Masse d'arme +3](/liste-objets-magiques/masse-d-arme-3), [Massue +1](/liste-objets-magiques/massue-1), [Serpe +1](/liste-objets-magiques/serpe-1), [Serpe +2](/liste-objets-magiques/serpe-2),
+[Serpe +3](/liste-objets-magiques/serpe-3)    
+
+Bon jeu.                         
+
+§§§ .text-right
+_**Olivier**_,  
+_le 3 juin 2022_
+§§§
+
+## Mise à jour 107  
+- Ajout des règles de [fabrication d'objets magiques](/fabrication-d-objets-magiques), avis aux amateurs.  
+- Corrections et précisions pour les objets magiques, ajoutant les coûts de fabrication éventuels pour les artisans amateurs.   
+Bon jeu.                                                                                 
+§§§ .text-right
+_**Olivier**_,  
+_le 2 juin 2022_
+§§§
+
 ## Mise à jour 106  
 - Corrections et précisions pour de nombreux sorts: [Instinct primal](/grimoire/instinct-primal), [Main de l'air](/grimoire/main-de-l-air), [Miroir du Douargwar](/grimoire/miroir-du-douargwar).   
 - Ajout des sorts [Insensibilité](/grimoire/insensibilite), [Invisibilité de la dernière chance](/grimoire/invisibilite-de-la-derniere-chance), [invisibilite-du-dernier-recours](/grimoire/invisibilite-du-dernier-recours), [Larme de glace](/grimoire/larme-de-glace), [Miroir pétrifiant](/grimoire/miroir-petrifiant), [Nuée d'oiseaux](/grimoire/nuee-d-oiseaux), [Nuit limpide](/grimoire/nuit-limpide).                                                                                                
