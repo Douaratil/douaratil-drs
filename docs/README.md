@@ -18,12 +18,13 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 128
 
 - Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
-- Ajout de [Ioen Paetus](/bestiaire/ioen-paetus).   
+- Ajout de [Ioen Paetus](/bestiaire/ioen-paetus).  
+Un crash du système m'a fait perdre un peu de temps sur le déploiement de nouvelles mises à jour. J'espère pouvoir rattraper le retard. Le travail sur le livre de Magie va reprendre ainsi que la création d'écran pour masteriser les parties de Douaratil.    
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 14 juillet 2022_
+_le 15 juillet 2022_
 §§§
 
 ## Mise à jour 127

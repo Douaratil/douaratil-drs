@@ -872,6 +872,36 @@ module.exports = {
               }
             ]
           },
+          {title: "PNJ",
+          icon: 'mdi-account-group-outline',
+           children: [
+              {
+                title: "PNJ Alcantes",
+                icon: 'mdi-pillar',
+                path:'/PNJ/alcantes'
+              },
+              {
+                title: "PNJ Nordiques",
+                icon: 'mdi-axe-battle',
+                path:'/PNJ/nordiques'
+              },
+              {
+                title: "PNJ Minghours",
+                icon: 'mdi-yin-yang',
+                path:'/PNJ/minghours'
+              },
+              {
+                title: "PNJ Shahims",
+                icon: 'mdi-palm-tree',
+                path:'/PNJ/shahims'
+              },
+              {
+                title: "PNJ Sooghaï",
+                icon: 'mdi-snake',
+                path:'/PNJ Sooghaï/shahia'
+              }
+            ]
+          },
           {title: 'Règles simplifiées',
             icon: 'mdi-earth',
             children: [
@@ -882,7 +912,7 @@ module.exports = {
               },
               ]
             },
-  
+
 
         ]
       },
