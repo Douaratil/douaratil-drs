@@ -33,7 +33,6 @@
     "vue": "^2.7.7",
     "vue-js-modal": "^2.0.1",
     "vue-masonry-css": "^1.0.3",
-    "vue-server-renderer": "^2.7.7",
     "vuepress": "^1.4.0",
     "vuepress-plugin-clean-urls": "^1.1.1",
     "vuepress-plugin-dehydrate": "^1.1.3",

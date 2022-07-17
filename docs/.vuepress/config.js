@@ -882,7 +882,7 @@ module.exports = {
               },
               {
                 title: "PNJ Nordiques",
-                icon: 'mdi-axe-battle',
+                icon: 'mdi-axe',
                 path:'/PNJ/nordiques'
               },
               {
@@ -898,7 +898,7 @@ module.exports = {
               {
                 title: "PNJ Sooghaï",
                 icon: 'mdi-snake',
-                path:'/PNJ Sooghaï/shahia'
+                path:'/PNJ/Sooghai'
               }
             ]
           },

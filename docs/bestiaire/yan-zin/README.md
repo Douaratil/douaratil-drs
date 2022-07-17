@@ -146,7 +146,7 @@ Yan Zin possède l'équipement suivant :
 - sabre oriental
 - Vêtement de bonne qualité
 - 23900 PA
-- 6597 PO.    
+- 6417 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -185,5 +185,5 @@ Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos.
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 hanche gauche (20cm)
 
-Mise à jour du 27/06/2022
+Mise à jour du 17/07/2022
 §§§

@@ -47,4 +47,4 @@ _**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allo
 _Touché_ : 2d6+4 dégâts tranchant (3d6+2 à deux mains).  
 
 **Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
-_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  

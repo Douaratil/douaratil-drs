@@ -172,13 +172,13 @@ Tiberius possède l'équipement suivant :
 - poisons (7)(+3d6, DD11)
 - potion de soin (1) (récup 1d6+2 pa).
 - rations (8)
-- silex
-- torches (20)
-- 200 PC
-- 17 971 PA
-- 36 PE
-- 9824 PO
-- 5 PP.   
+- silex  
+- torches (20)  
+- 200 PC  
+- 18 051 PA  
+- 36 PE  
+- 5 409 PO  
+- 6 PP.    
 
 §§§
 
@@ -196,9 +196,10 @@ petite maison à Ker-Saozon.
 **Revenus** : 0  
 
 ### Colonie de Madin'alajnibh
-**Développement** Faible La colonie est pauvre.  
-La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po  
-**Colons** : 75  
+**Développement** Normal  
+La colonie est respectable.
+La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po
+**Colons** : 93    
 **Trésor** : 0   
 
 
@@ -211,7 +212,7 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 146 544
+**XP acquis** : 146 544  
 **Points de Magie** :10   
 **Points de Foi** :10     
 **Points d'honneur** :47    
@@ -232,4 +233,4 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 Comme un sou neuf
 
 §§§
-*Mise à jour le 16 mai 2022*
+*Mise à jour le 17 juillet 2022*

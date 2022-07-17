@@ -102,7 +102,7 @@ Afin de remercier son compagnon Gwion d'avoir sauvé Aberthol, Lôchetos acc
 Les deux Meldètes ayant fixé la date de leur départ pour le premier jour du mois, cela ne laisse plus que quelques jours au jeune meldète du clan Vlatcano pour préparer ce périple.  
 Enrichit des informations récoltés auprès des proches de Gaenor et des cadres des clans les plus importants de Caohaydhan, il se rend auprès de son Genos pour essayer d'en apprendre plus sur la raison de sa décision et ce qu'il comptait faire avec Sawrina. Le Llawenos comprend rapidement que Gaenor est lui aussi pragmatique et qu'il n'a pas fait cela par bonté de coeur. Il souhaite que les forces en présence agissent au grand jour, ce qui lui laissera vraiment le choix de prendre position dans l'échiquier régional.  
 Apprenant le départ de Lôchetos, il le missionne pour lui ramener des nouvelles fraiches de Thaouet.  
-##28 Miz Favros  
+## 28 Miz Favros  
 Pour le voyage vers Thaouet Lôchetosest accompagné de 2 membres du clan Vlatcano et s'équipe de :  
     • 2 paquetages d'explorateurs  
     • 3 mules  

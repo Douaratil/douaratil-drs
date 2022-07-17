@@ -61,8 +61,7 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 **Développement Normal**  
 *Condition: Niveau 9*  
 *Coût d'achat :9000 po*  
-La colonie est respectable.   
-La colonie est pauvre.   
+La colonie est respectable.    
 La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
 *Revenus : 1d6 PP et 20 x 6d6 po*
 
