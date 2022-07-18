@@ -75,7 +75,7 @@ Ils n’ont pas le temps de s’émerveiller car cinq ombres surgissent soudaine
 Les deux bêtes se recroquevillent, leur peau se flétrie, se craquelle puis devient sombre, comme s’ils avaient déjà passé plusieurs années sous le soleil. Mais Auslaug n’est pas en reste. À l’aide d’une acrobatie, elle parvient à se glisser sous le ventre de la bête restante et lui plante ses deux lames dedans, l’ouvrant en deux. Au prix de nombreuses prières de Thorleik, peu à peu le melg semble revenir à lui. Ils pansent leurs blessures, et d’un commun accord, décident de repartir à la colonie pour faire leur compte rendu et y revenir avec plus d’hommes armés.  
 
 **27 Miz Du**  
-**Amastame Ag Beketa, Kahina Ult Bouten**
+**Amastame Ag Beketa, Kahina Ult Bouten**   
 La vie s'écoule presque tranquillement dans la colonie et même le soleil de la journée semble moins fort et plus facile à supporter. [Alf](/bestiaire/alf-swenbjornson) continue de se reposer mais sa bravoure a été repéré et [Thorleik](/bestiaire/thorleik-aevarson) espère qu'il sera vite de nouveau sur ses pieds.  
 Pendant ce temps, les autres compagnons reviennent de leurs voyages, chacun porteur de nouvelles. A leur arrivée, la communauté accourt et fête les voyageurs, avide de nouvelles qui viennent au-delà des dunes et de canyon.  
 [Lôchetos](/bestiaire/lochetos-vlatcano) était parti quelques jours auprès de la tribu des Souverains, à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Durant ce voyage le Meldète a été de plus en plus sensible à la beauté orientale de Kahina et les nuits dans le déserts étaient froides. Loin de la colonie, les coeurs et les corps se rapprochèrent.   

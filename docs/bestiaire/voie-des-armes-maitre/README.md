@@ -21,6 +21,7 @@ ac:
   value: "23 (Armure de plaque)"
 skills:
   - name: "athletisme"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

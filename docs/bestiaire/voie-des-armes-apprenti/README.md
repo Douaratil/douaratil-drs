@@ -21,6 +21,7 @@ ac:
   value: "17 (chemise de maille)"
 skills:
   - name: "athletisme"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

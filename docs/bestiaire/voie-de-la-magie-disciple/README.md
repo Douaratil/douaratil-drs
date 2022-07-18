@@ -20,7 +20,8 @@ ac:
   armorType: "custom"
   value: "13 (armure de cuir)"
 skills:
-  - name: "athletisme"
+  - name: "arcanes"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

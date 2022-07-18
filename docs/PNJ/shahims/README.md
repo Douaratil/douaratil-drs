@@ -15,7 +15,8 @@ _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux**
 _**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchant (3d6+3 à deux mains).  
 _**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
-_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
 Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-à-dire « des souverains ». Il s’inquiétait de voir arriver des étrangers car sa tribu nomade vit du commerce avec les villes avoisinantes et l’oasis de Nyttlandyan est une étape obligatoire pour leurs caravanes. Alors que Tiberius tente de le rassurer sur leurs intentions, un soldat melg avertit le groupe sur l’arrivé d’une deuxième caravane.
 §§§
@@ -84,8 +85,8 @@ Shamreta la rouge est une énigmatique sorcière au service du puissant marchand
 
 §§§ .hero
 **<v-icon>mdi-firebase</v-icon> Sorts connus:**     
-**Bonus d'incantation: +8**  
-**DD de Sauvegarde: 13**  
+**Bonus d'incantation: +15**  
+**DD de Sauvegarde: 19**  
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure de mage](/grimoire/armure-de-mage), [Bourrasque](/grimoire/bourrasque), [cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [identification](/grimoire/identification), [invisibilité](/grimoire/invisibilite), [main du mage](/grimoire/main-du-mage),
 [message](/grimoire/message), [messager animal](/grimoire/messager-animal),  
 [Pas brumeux](/grimoire/pas-brumeux),[Prestidigitation](/grimoire/prestidigitation), [projectile magique](/grimoire/projectile-magique), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),

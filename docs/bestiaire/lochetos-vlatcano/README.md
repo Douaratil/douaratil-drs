@@ -159,7 +159,7 @@ Lôchetos appartient au clan meldète Vlatcano qui a prêté allégeance à Gaen
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Lôchetos est un Meldète d'une vingtaine de printemps. Il a la peau blanche les cheveux noirs et les yeux bleus. Il mesure un mètre soixante quinze pour soixante dix kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la hanche gauche. Il a une cicatrice (trou de flèche) dans la main gauche.  
+Lôchetos est un Meldète de vingt deux de printemps. Il a la peau blanche les cheveux noirs et les yeux bleus. Il mesure un mètre soixante quinze pour soixante dix kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la hanche gauche. Il a une cicatrice (trou de flèche) dans la main gauche.  
 §§§
 
 §§§ .hero
@@ -230,7 +230,7 @@ Revenus : 5D6 PP et 30 x 6d6 po
 **Points de Magie** :10  
 **Points de Foi** :12  
 **Points d'honneur** : 58        
-**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena, une jeune femme shahim Kahina ult Bouhen.
+**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
 §§§

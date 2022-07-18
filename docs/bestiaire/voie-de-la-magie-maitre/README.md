@@ -21,6 +21,7 @@ ac:
   value: "15 (armure de cuir)"
 skills:
   - name: "arcanes"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

@@ -21,6 +21,7 @@ ac:
   value: "19 (cuirasse)"
 skills:
   - name: "athletisme"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

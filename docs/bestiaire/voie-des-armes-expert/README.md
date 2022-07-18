@@ -21,6 +21,7 @@ ac:
   value: "21 (Cotte de maille)"
 skills:
   - name: "athletisme"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:

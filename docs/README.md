@@ -18,7 +18,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 129
 
 - Mise à jour de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
-- Ajout d'une section des [PNJ](/PNJ) pour les retirer du bestiaire et simplifier leur gestion.  
+- Correction de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).
+- Ajout d'une section des [PNJ](/PNJ) pour les retirer du bestiaire et simplifier leur gestion. Libre à vous d'aller visiter (et de faire la part de ce que votre personnage connaît). Cette section s'étoffera rapidement.    
 
 Bon jeu.     
 §§§ .text-right

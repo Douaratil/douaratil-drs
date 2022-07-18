@@ -21,6 +21,7 @@ ac:
   value: "15 (armure de cuir clouté)"
 skills:
   - name: "athletisme"
+    isExpert : true
   - name: "intimidation"
   - name: "survie"
 movement:
