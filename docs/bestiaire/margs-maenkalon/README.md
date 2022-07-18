@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/1), le Khern (3/1), l'Alcath/l'Alcane (2/0), Yezhsakr (1/1)"
+  - "le Weslèdh (3/1), le Khern (3/1), l'Alcath/l'Alcane (2/0), Yezhsakr (1/1), Sogh 2/0)"
 category: "PJ"
 ---
 
@@ -181,7 +181,7 @@ Margs possède l'équipement suivant :
 - 5183 PA
 - 36 PE
 - 6636 PO
-- 1 PP.  
+- 101 PP.  
 §§§
 
 §§§ .hero

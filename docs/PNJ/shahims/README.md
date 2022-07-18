@@ -1,6 +1,26 @@
 ---
 title: "PNJ Shahims"
 ---
+## Allgoui ag Sidi
+&nbsp;
+[![Allgoui ag Sidi](https://www.douaratil.fr/illustrations/pnj/allgouiagsidim.png)](https://www.douaratil.fr/illustrations/pnj/allgouiagsidi.jpg)   
+§§§
+|allgouiagsidi|Shème|
+|:-:|:-:|
+| Profil|[Voie des ombres (Maître)](/bestiaire/voie-des-ombres-maitre)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 67|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague +3**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+8 dégâts perforant (finesse, légère, lancer 6/18).  
+_**Arc court**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
+_Touché_ : 2d6+5 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Allgoui ag Sidi est le Houltane de Luat'albarh. Il règne avec sagesse et stratégie. Il a offert les terres dans le désert pour fonder la colonie de Madin'alajnibh, nommée par les étrangers Nyttlandyan.
+§§§
+
+
 ## Amastame Ag Beketa  
 &nbsp;
 [![Amastame Ag Beketa](https://www.douaratil.fr/illustrations/pnj/amastameagbeketam.png)](https://www.douaratil.fr/illustrations/pnj/amastameagbeketa.jpg)   

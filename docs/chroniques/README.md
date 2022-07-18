@@ -29,7 +29,7 @@ Le site a été créé pour regrouper les règles du jeu et les informations sur
 - [Miz Kerzu Anno 720](/chroniques/miz-kerzu-720/)
 - [Miz Genver Anno 721](/chroniques/miz-genver-721/)
 - [Miz Favros Anno 721](/chroniques/miz-favros-721/)
-- [Miz Moz Anno 721](/chroniques/miz-morz-721/)
+- [Miz Morz Anno 721](/chroniques/miz-morz-721/)
 - [Miz Ebrel Anno 721](/chroniques/miz-ebrel-721/)
 - [Miz Mae Anno 721](/chroniques/miz-mae-721/)
 - [Miz Even Anno 721](/chroniques/miz-even-721/)
@@ -38,3 +38,13 @@ Le site a été créé pour regrouper les règles du jeu et les informations sur
 - [Miz Gwendel Anno 721](/chroniques/miz-gwendel-721/)
 - [Miz Okther Anno 721](/chroniques/miz-okther-721/)
 - [Miz Du Anno 721](/chroniques/miz-du-721/)
+- [Miz Kerzu Anno 721](/chroniques/miz-kerzu-721/)
+
+
+- [Miz Genver Anno 722](/chroniques/miz-genver-722/)
+- [Miz Favros Anno 722](/chroniques/miz-favros-722/)
+- [Miz Morz Anno 722](/chroniques/miz-morz-722/)
+- [Miz Ebrel Anno 722](/chroniques/miz-ebrel-722/)
+- [Miz Mae Anno 722](/chroniques/miz-mae-722/)
+- [Miz Even Anno 722](/chroniques/miz-even-722/)
+- [Miz Khoueré Anno 722](/chroniques/miz-khouere-722/)

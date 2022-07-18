@@ -749,22 +749,27 @@ module.exports = {
                 path: '/peuples/oynours'
               }
               ]
+            },
+          {
+          title: "Les chroniques Anno 720",
+          icon: 'mdi-script',
+          children: [
+            {
+              title: "Miz du 720",
+              icon: 'mdi-script-text-outline',
+              path: '/chroniques/miz-du-720'
+            },
+            {
+              title: "Miz Kerzu 720",
+              icon: 'mdi-script-text-outline',
+              path: '/chroniques/miz-kerzu-720'
+            },
+            ]
               },
             {
-            title: "Les chroniques",
+            title: "Les chroniques Anno 721",
             icon: 'mdi-script',
             children: [
-
-              {
-                title: "Miz du 720",
-                icon: 'mdi-script-text-outline',
-                path: '/chroniques/miz-du-720'
-              },
-              {
-                title: "Miz Kerzu 720",
-                icon: 'mdi-script-text-outline',
-                path: '/chroniques/miz-kerzu-720'
-              },
               {
                 title: "Miz Genver 721",
                 icon: 'mdi-script-text',
@@ -796,7 +801,7 @@ module.exports = {
                 path: '/chroniques/miz-even-721'
               },
               {
-                title: "Miz khouéré 721",
+                title: "Miz Khouéré 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-khouere-721'
               },
@@ -824,7 +829,13 @@ module.exports = {
                 title: "Miz Kerzu 721",
                 icon: 'mdi-script-text',
                 path: '/chroniques/miz-kerzu-721'
-              },
+              }
+            ]
+          },
+            {
+            title: "Les chroniques Anno 722",
+            icon: 'mdi-script',
+            children: [
               {
                 title: "Miz Genver 722",
                 icon: 'mdi-script-text-outline',
@@ -849,6 +860,16 @@ module.exports = {
                 title: "Miz Mae 722",
                 icon: 'mdi-script-text-outline',
                 path: '/chroniques/miz-mae-722'
+              },
+              {
+                title: "Miz Even 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-even-722'
+              },
+              {
+                title: "Miz Khouéré 722",
+                icon: 'mdi-script-text-outline',
+                path: '/chroniques/miz-khouere-722'
               }
             ]
           },
