@@ -5,7 +5,7 @@ subtype: "Classe magique générique"
 size: "M"
 alignment: "n'importe quel alignement"
 challenge: "17"
-customHP: "18"
+customHP: "50"
 abilityScores:
   for: 10
   dex: 10

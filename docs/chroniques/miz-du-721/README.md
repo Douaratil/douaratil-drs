@@ -24,6 +24,7 @@ Telles qu'elles ont été rapportées.
 §§§
 ## Madinalajnibh   
 
+## Madinalajnibh
 **1 Miz Du**  
 [L’ambeanamos](bestiaire/gwion-gornoc) se fait discret ces derniers temps dans la colonie et se concentre sur l’étude du grimoire acheté à Courdoes. Bien qu’absent de la vie active, il prend soin d’être vu plusieurs fois chez les colons pour garder une influence grâce à sa visibilité, d’autant plus que sa place au sein du conseil lui donne un rôle tout particulier à assumer auprès des autres colons.  
 
@@ -44,7 +45,7 @@ A l’oasis les clans de [Gwion](/bestiaire/gwion-gornoc) et [Sawrina](bestiaire
 [Sawrina](bestiaire/sawrina-semiramis) arrive finalement à se faire accepter par son singe.  
 
 **10 Miz Du**  
-[Lôchetos](/bestiaire/lochetos-vlatcano), voyant que la situation se dégrade de toute part décide d’aller à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Ils sont bien reçus et le maitre des lieux ne cache pas son étonnement quand il apprend que le nordique maitrise les bases de sa langue. L’accent du barde amuse les nomades mais, suivant les conseils de Kahina, il se comporte du mieux qu’il peut et noue des liens avec le clan bédouin.  
+[Lôchetos](/bestiaire/lochetos-vlatcano), voyant que la situation se dégrade de toute part décide d’aller à la rencontre d’Amastame Ag Beketa, accompagné de Kuhina. Ils sont bien reçus et le maitre des lieux ne cache pas son étonnement quand il apprend que le nordique maitrise les bases de sa langue. L’accent du barde amuse les nomades mais, suivant les conseils de Kuhina, il se comporte du mieux qu’il peut et noue des liens avec le clan bédouin.  
 Au fil des discussions il apprend que depuis l’attaque des créatures des sables, les populations voisines regardent la colonie d’un mauvais œil et pensent que les étrangers sont venus avec une malédiction, compliquant les relations diplomatiques. Amastame Ag Bekeya ne partage pas cet avis et lui indique que selon lui mal provient de Dif’alquadim, une étrange pyramide à trois jours de marche à l’est de l’oasis. Hormis ce lieux mystérieux la zone ne présente pas de grand point d’intérêt et les trois grandes factions qui se sont présentées évitent de se faire la guerre mais ne se gênent pas pour tuer et rançonner les âmes qui s’égarent dans le désert. Ils n’ont rien tenter il y a quelques jours et ont respecté les clans nordiques car ils étaient nombreux et armés.  
 
 **11 Miz Du**  
@@ -71,41 +72,39 @@ La nuit commence à tomber, et les calculs de [Gwion](/bestiaire/gwion-gornoc) m
 
 **24 Miz Du**  
 La pyramide apparaît à l’horizon et les nordiques découvrent un ouvrage impressionnant Comme surgissant du sable la pointe de l’édifice s’élance vers le ciel à une hauteur qu’aucune construction humaine n’a atteint.  
-Ils n’ont pas le temps de s’émerveiller car cinq ombres surgissent soudainement derrière eux. Aiso, ne se laissant pas surprendre assène deux coups de hache, tranchant la gorge d’une des ombres. [Gwion](/bestiaire/gwion-gornoc) et [Thorleik](/bestiaire/thorleik-aevarson) esquivent les attaques des ombres qu’ils ont identifiés comme des hyènes, mais [Alf](/bestiaire/alf-swenbjornson), sous les crocs précis des bêtes, tombe inconscient. Avec adresse Aiso met hors de combat une autre hyène tandis que [Thorleik](/bestiaire/thorleik-aevarson) s’affaire à stabiliser l’état d’[Alf](/bestiaire/alf-swenbjornson) à l’aide de prières adressées aux dieux. L’ambenamos, se jette dans la mêlée. Il plante sa lame assassyrihm dans le flan d’une des bêtes, et de son autre main il saisit une clochette, et la fait sonner en direction d’une autre hyène ayant le malheur de se trouver près de lui.  
-Les deux bêtes se recroquevillent, leur peau se flétrie, se craquelle puis devient sombre, comme s’ils avaient déjà passé plusieurs années sous le soleil. Mais Auslaug n’est pas en reste. À l’aide d’une acrobatie, elle parvient à se glisser sous le ventre de la bête restante et lui plante ses deux lames dedans, l’ouvrant en deux. Au prix de nombreuses prières de Thorleik, peu à peu le melg semble revenir à lui. Ils pansent leurs blessures, et d’un commun accord, décident de repartir à la colonie pour faire leur compte rendu et y revenir avec plus d’hommes armés.  
+Ils n’ont pas le temps de s’émerveiller car cinq ombres surgissent soudainement derrière eux. Aiso, ne se laissant pas surprendre assène deux coups de hache, tranchant la gorge d’une des ombres. [Gwion](/bestiaire/gwion-gornoc) et [Thorleik](/bestiaire/thorleik-aevarson) esquivent les attaques des ombres qu’ils ont identifiés comme des hyènes, mais [Alf](/bestiaire/alf-swenbjornson), sous les crocs précis des bêtes, tombe inconscient. Avec adresse Aiso met hors de combat une autre hyène tandis que [Thorleik](/bestiaire/thorleik-aevarson) s’affaire à stabiliser l’état d’[Alf](/bestiaire/alf-swenbjornson) à l’aide de prières adressées aux dieux. [L’ambenamos](/bestiaire/gwion-gornoc), se jette dans la mêlée. Il plante sa lame assassyrihm dans le flan d’une des bêtes, et de son autre main il saisit une clochette, et la fait sonner en direction d’une autre hyène ayant le malheur de se trouver près de lui.  
+Les deux bêtes se recroquevillent, leur peau se flétrie, se craquelle puis devient sombre, comme s’ils avaient déjà passé plusieurs années sous le soleil. Mais Auslaug n’est pas en reste. À l’aide d’une acrobatie, elle parvient à se glisser sous le ventre de la bête restante et lui plante ses deux lames dedans, l’ouvrant en deux. Au prix de nombreuses prières de [Thorleik](/bestiaire/thorleik-aevarson), peu à peu le melg semble revenir à lui. Ils pansent leurs blessures, et d’un commun accord, décident de repartir à la colonie pour faire leur compte rendu et y revenir avec plus d’hommes armés.  
 
-**27 Miz Du**  
-**Amastame Ag Beketa, Kahina Ult Bouten**   
-La vie s'écoule presque tranquillement dans la colonie et même le soleil de la journée semble moins fort et plus facile à supporter. [Alf](/bestiaire/alf-swenbjornson) continue de se reposer mais sa bravoure a été repéré et [Thorleik](/bestiaire/thorleik-aevarson) espère qu'il sera vite de nouveau sur ses pieds.  
-Pendant ce temps, les autres compagnons reviennent de leurs voyages, chacun porteur de nouvelles. A leur arrivée, la communauté accourt et fête les voyageurs, avide de nouvelles qui viennent au-delà des dunes et de canyon.  
-[Lôchetos](/bestiaire/lochetos-vlatcano) était parti quelques jours auprès de la tribu des Souverains, à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Durant ce voyage le Meldète a été de plus en plus sensible à la beauté orientale de Kahina et les nuits dans le déserts étaient froides. Loin de la colonie, les coeurs et les corps se rapprochèrent.   
-Arrivant du Sud, [Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) retrouvent aussi leur foyer.  
-[Lôchetos](/bestiaire/lochetos-vlatcano) et Kahina deviennent un peu plus distant l'un envers l'autre, gêné par la présence de la mère de Serena, fille de [Lôchetos](/bestiaire/lochetos-vlatcano).  
-Le soir, un banquet est organisé et quelques chêvres sont sacrifiés et passées à la broche et des jarres de jus de palme fermenté sont ouvertes pour l'occasion.   
-[Lôchetos](/bestiaire/lochetos-vlatcano) raconte avec son savoir faire bien connu pour la narration, sa vie (sans parler de Kahina) chez les Ashkémites. Il raconte la découverte d'un parchemin qu'il a ramené et le montre sous les "oohhh" de l'assemblée et parle de ma mythique et étrange pyramide de Dif’alquadim.  
-[Yan Zin](bestiaire/yan-zin) et [Tibérius](bestiaire/tiberius-don-alonzo) racontent aussi qu'ils ont acheté à un marchand dans le Sud des parchemins parlant aussi de cette étrange pyramide. Ils racontent aussi la visite des terres Sooghaïs, de la découverte d'une jungle appelée Ihlathi Lesihogo avec au nord, une grande cité du nom d'Idolobha Elikhulu qui surplombre le lac Ichibi.   
-Les anecdotes et les récits dés aventure s'enchainent toute la soirée, [Tibérius](bestiaire/tiberius-don-alonzo) enjolive ses exploits sous le regard attendri de son épouse qui porte ses deux enfants endormis.  
+**27 Miz Du**
+La vie s'écoule presque tranquillement dans la colonie et même le soleil de la journée semble moins fort et plus facile à supporter. Alf continue de se reposer mais sa bravoure a été repéré et [Thorleik](/bestiaire/thorleik-aevarson) espère qu'il sera vite de nouveau sur ses pieds.
+Pendant ce temps, les autres compagnons reviennent de leurs voyages, chacun porteur de nouvelles. A leur arrivée, la communauté accourt et fête les voyageurs, avide de nouvelles qui viennent au-delà des dunes et de canyon.
+Lôchetos était parti quelques jours auprès de la tribu des Souverains, à la rencontre d’Amastame Ag Beketa, accompagné de Kahina. Durant ce voyage le Meldète a été de plus en plus sensible à la beauté orientale de Kahina et les nuits dans le désert étaient froides. Loin de la colonie, les coeurs et les corps se rapprochèrent.
+Arrivant du Sud, Yan Zin et [Tiberius](/bestiaire/tiberius-don-alonzo) retrouvent aussi leur foyer.
+[Lôchetos](/bestiaire/lochetos-vlatcano) et Kahina deviennent un peu plus distant l'un envers l'autre, gêné par la présence de [Laépa](/PNJ/nordiques/#laepa-hizino), la mère de Serena, fille de Lôchetos.
+Le soir, un banquet est organisé et quelques chêvres sont sacrifiés et passées à la broche et des jarres de jus de palme fermenté sont ouvertes pour l'occasion. [Lôchetos](/bestiaire/lochetos-vlatcano) raconte avec son savoir-faire bien connu pour la narration, sa vie (sans parler de Kahina) chez les Ashkémites. Il raconte la découverte d'un parchemin qu'il a ramené et le montre sous les interjections de surprise de l'assemblée et parle de la mythique et étrange pyramide de Dif’alquadim. [Yan Zin](bestiaire/yan-zin) et [Tibérius](/bestiaire/tiberius-don-alonzo) racontent à leur tour qu'ils ont acheté à un marchand dans le Sud des parchemins liés à cette étrange pyramide. Ils racontent aussi la visite des terres Sooghaïs, de la découverte d'une jungle appelée Ihlathi Lesihogo avec au nord, une grande cité du nom d'Idolobha Elikhulu qui surplombre le lac Ichibi.
+Les anecdotes et les récits d’aventures s'enchainent toute la soirée, [Tibérius](/bestiaire/tiberius-don-alonzo) enjolive ses exploits sous le regard attendri de son épouse qui porte ses deux enfants endormis.
 
-## Dif’alquadim  
-**28 Miz Du**  
+## Dif’alquadim
+
+**28 Miz Du**
 Le lendemain, les compagnons se réunissent et décident de monter une expédition pour découvrir les mystères de Dif’alquadim.
 
-**30 Miz Du**  
-Après trois jours de voyage harassant sous un soleil brûlant, les compagnons arrivent en vue de l'étrange pyramide de Dif'Alquadim. Ce lieu ancien est marqué par un passé obscur et entouré de légendes, certains disent que cet édifice est construit sur les vestiges d'un temple Selmonite.   
-Au petit matin, l'équipée est prise en embuscade par un groupe de Sooghaï, secte visiblement occupée à interdire l'accès à la Pyramide. Les assaillants qui ont visiblement sous-estimé leurs adversaires se font taillés en pièces en quelques secondes.   
-La voie vers la pyramide est désormais libre.   
-Après avoir résolu une énigme et débloqué les portes, le groupe s'enfonce dans l'antre du bâtiment et se perd dans un méandre de couloir.   
-Arrivés au fond de la pyramide, un glyphe se déclenche et de terribles créatures démoniaques se ruent sur les visiteurs. Une [Kakishikh](/bestiaire/kakishikh) accompagnée de [Diadebaide](/bestiaire/diadebaide)  se lance dans la bataille mais les compétences des guerriers présents et particulièrement de [Tibérius](bestiaire/tiberius-don-alonzo), [Margs](/bestiaire/margs-maenkalon/) et [Sawrina](/bestiaire/sawrina-semiramis/) assaillent les créatures avec l'épée sacrée et les mettent à bas.    
-Celles-ci se dispersent dans une vapeur lourde et nauséabonde.   
-Une étrange écriture se trouve sur la stèle et [Sawrina](/bestiaire/sawrina-semiramis/) arrive à peu près à la traduire car il s'agit du Selm, la langue des Selmonites.  
-*Dif'alquadim est le coeur, car ici tout commence pour celui qui veut emprunter la voie (intraduisible)*  
-*Les dieux dans leur (intradiusible) ont fait le nécessaire pour (intraduisible) accéder à leur puissance*   
-*Les mondes se superposent et s'entrecroisent*   
-*Les Kashas viennent de (intraduisible), les Diabes vivent à (intraduisible) mais les dieux eux-mêmes ne sont pas ceux qu'ils prétendent être*   
-*Nous, les éveillés de (intraduisibles) empruntons le chemin*   
-*Nous, les éveillés de (intraduisibles) démontreront leur duplicité et leur forfaiture*   
-*Le chemin ne débute pas ici*  
-*Au fond de toi se trouve le chemin*  
-*Mais ouvrir la porte demandera la clé et cette clé, nul ne la possède*   
-*Car la clé a été donnée par un dieu trahis (intraduisible)*   
-*La clé se trouve dans le sanctuaire sous la mer dans la terre*   
+**30 Miz Du**
+Après trois jours de voyage harassant sous un soleil brûlant, les compagnons arrivent en vue de l'étrange pyramide de Dif'Alquadim. Ce lieu ancien est marqué par un passé obscur et entouré de légendes, certains disent que cet édifice est construit sur les vestiges d'un temple Selmonite.
+Au petit matin, l'équipée est prise en embuscade par un groupe de Sooghaï, secte visiblement occupée à interdire l'accès à la Pyramide. Les assaillants qui ont visiblement sous-estimé leurs adversaires se font taillés en pièces en quelques secondes.
+La voie vers la pyramide est désormais libre.
+Après avoir résolu une énigme et débloqué les portes, le groupe s'enfonce dans l'antre du bâtiment et se perd dans un méandre de couloir.
+Arrivés au fond de la pyramide, un glyphe se déclenche et de terribles créatures démoniaques se ruent sur les visiteurs. Une Kakishikh accompagnée de Diadebaide se lance dans la bataille mais les compétences des guerriers présents et particulièrement de [Tiberius](/bestiaire/tiberius-don-alonzo), [Margs](/bestiaire/margs-maenkalon) et [Sawrina](bestiaire/sawrina-semiramis) assaillent les créatures avec l'épée sacrée et les mettent à bas.
+Celles-ci se dispersent dans une vapeur lourde et nauséabonde.
+Une étrange écriture se trouve sur la stèle et [Sawrina](bestiaire/sawrina-semiramis) arrive à peu près à la traduire car il s'agit du Selm, la langue des Selmonites.
+*Dif'alquadim est le coeur, car ici tout commence pour celui qui veut emprunter la voie (intraduisible)*
+*Les dieux dans leur (intradiusible) ont fait le nécessaire pour (intraduisible) accéder à leur puissance*
+*Les mondes se superposent et s'entrecroisent*
+*Les Kashas viennent de (intraduisible), les Diabes vivent à (intraduisible) mais les dieux eux-mêmes ne sont pas ceux qu'ils prétendent être*
+*Nous, les éveillés de (intraduisibles) empruntons le chemin*
+*Nous, les éveillés de (intraduisibles) démontreront leur duplicité et leur forfaiture*
+*Le chemin ne débute pas ici*
+*Au fond de toi se trouve le chemin*
+*Mais ouvrir la porte demandera la clé et cette clé, nul ne la possède*
+*Car la clé a été donnée par un dieu trahis (intraduisible)*
+*La clé se trouve dans le sanctuaire sous la mer dans la terre*

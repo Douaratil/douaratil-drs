@@ -1,6 +1,36 @@
 ---
 title: "PNJ Nordiques"
 ---
+## Agowen Tenva Duenn
+&nbsp;
+[![Agowen Tenva Duenn](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduennm.png)](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduenn.jpg)  
+§§§
+|Agowen Tenva Duenn |Khernaëe|
+|:-:|:-:|
+| Profil|[Voie de la magie (Maître)](/bestiaire/voie-de-la-magie-maitre)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 50|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Serpe sacrificielle +3.**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.
+Touché : 1d6+5 dégâts tranchants (légère). (arme enchantée de maître)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Agowen Tenva Duenn est un bhegelm du cercle de la nuit. C'est un dissident de la hiérarchie religieuse khernaëe.  
+§§§
+§§§ .hero
+**<v-icon>mdi-firebase</v-icon> Sorts connus:**     
+**Bonus d'incantation: +12**  
+**DD de Sauvegarde: 20**  
+Agowen Tenva Duenn connait les sorts suivants:  
+**Novice** :  [Aide](/grimoire/aide), [Anathème](/grimoire/anatheme), [Arme magique](/grimoire/arme-magique), [Arme spirituelle](/grimoire/arme-spirituelle), [Confort](/grimoire/confort), [Druidisme](/grimoire/druidisme), [Eclat de bois](/grimoire/eclat-de-bois), [Flamme éternelle](/grimoire/flamme-eternelle), [Infestation](/grimoire/infestation), [Messager animal](/grimoire/messager-animal), [Prière de soin](/grimoire/priere-de-soin), [Rafale de vent](/grimoire/rafale-de-vent), [Soins des blessures](/grimoire/soins-des-blessures), [Vague tonnante](/grimoire/vague-tonnante).
+[Vision dans le noir](/grimoire/vision-dans-le-noir), [Zone de vérité](/grimoire/zone-de-verite)
+**Disciple**:  [Appel de la foudre](/grimoire/appel-de-la-foudre), [Bannissement](/grimoire/bannissement), [Confusion](/grimoire/confusion), [Communication avec les morts](/grimoire/communication-avec-les-morts), [Divination](/grimoire/divination), [Dominer une bête](/grimoire/dominer-une-bête), [Fusion dans la pierre](/grimoire/fusion-dans-la-pierre), [Mur de vent](/grimoire/mur-de-vent), [Nappe de brouillard](/grimoire/nappe-de-brouillard), [Protection contre la mort](/grimoire/protection-contre-la-mort), [Tempête de grèle](/grimoire/tempete-de-grele).  
+**Apprenti**: [Allié planaire](/grimoire/allie-planaire), [Contagion](/grimoire/contagion), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer une fée](/grimoire/invoquer-une-fee), [Mur d'épine](/grimoire/mur-d-epine), [Passage par les arbres](/grimoire/passage-par-les-arbres), [Transport végétal](/grimoire/transport -vegetal).   
+**Adepte**:  [Forme éthérée](/grimoire/forme-etheree), [Symbole](/grimoire/symbole).  
+**Expert**:  [Contrôle du climat](/grimoire/controle-du-climat), [tremblement de terre](/grimoire/tremblement-de-terre).  
+**Maître**: [Prémonition](/grimoire/premonition), [Tempête vengeresse](/grimoire/tempete-vengeresse).  
+§§§
+
 ## Alarig Pinvidic
 &nbsp;
 [![Alarig Pinvidic](https://www.douaratil.fr/illustrations/pnj/alarigpinvidicm.png)](https://www.douaratil.fr/illustrations/pnj/alarigpinvidic.jpg)   
@@ -117,6 +147,15 @@ _Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
 Bryn Tuticanos est le roi de tous les Meldètes. Ce puissant guerrier règne sur la cité de Masyvum et règne sans partage. Il possède une épée +3 "Morlos" et une armure de plaque +3. Il est toujours accompagné par sa garde de quatre Ior de la voie des armes de niveau 13 (Adepte).     
 §§§
 
+## Gaenor Lugeto
+&nbsp;
+[![Gaenor Lugeto](https://www.douaratil.fr/illustrations/pnj/gaenorlugetom.png)](https://www.douaratil.fr/illustrations/pnj/gaenorlugeto.jpg)   
+
+**<v-icon>mdi-skull</v-icon> crucifié à Caohaydhan le 10 Miz Ebrel 721 :**
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Gaenor Lugeto était le souverain de la cité meldète de Cahohaydan. Genos juste et apprécié, terrible guerrier, il a été affaibli par le cercle de la nuit qui a sacrifié sa fille lors d'un rituel sordide. Il s'est laisser vaincre par Britomartos et a été crucifié pour assoir la suprématie du clan Nantono.     
+§§§
 
 ## Goulvenig Moisan
 &nbsp;
@@ -274,4 +313,24 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
 Samos Hizino est l'un des héritié du clan Hizino. Son épouse [Laepa Hizino](/PNJ/nordiques/#laepa-hizino) s'est enfui avec son amant [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano). Samos s'est juré de laver l'affront qui lui a été fait, et cela par tous moyens.  
+§§§
+
+## Siwan Vlatcano  
+&nbsp;
+[![Siwan Vlatcano](https://www.douaratil.fr/illustrations/pnj/siwanvlatcanom.png)](https://www.douaratil.fr/illustrations/pnj/siwanvlatcano.jpg)   
+
+§§§
+|Siwan Vlatcano |Meldète|
+|:-:|:-:|
+| Profil|[Voie de l'ombre (Apprenti)](/bestiaire/voie-de-l-ombre-apprenti)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 39|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+3 dégâts perforant (finesse, légère, lancer 6/18).  
+_**Arc court**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
+_Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirige la guilde des voleur de Cahohaydan.  
 §§§

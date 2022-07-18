@@ -25,12 +25,14 @@ Telles qu'elles ont été rapportées.
 L'état de [Shin Hame](/bestiaire/shin-hame) s'est amélioré et il semble guéri. Son mollet n'est plus purulent et il arrive à marcher. Des louanges à Sheggothlil envahissent la maison des Vlatcano. [Lôchetos](/bestiaire/lochetos-vlatcano) annonce la bonne nouvelle à [Gwion](/bestiaire/gwion-gornoc) croit dans un premier temps à une blague car c'est de coutume en ce jour du 1 Miz Ebrel. Il repart donc sans se rendre compte que son ami lui a fixé un rat mort dans le dos (tué la veille).  [Gwion](/bestiaire/gwion-gornoc) traverse [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan) sous le regard amusé des passants alors que des enfants courrent dans tous les sens en essayant d'accorcher des rats ou des souris dans le dos des passants. L'Ambeanamos se rend sur son bon coin et trouve trente sept églantiannes. Il a gagné sa journée.  
 
 **2 Miz Ebrel**  
+***Pedr Pimalo***
 [Gwion](/bestiaire/gwion-gornoc) mande les services de l’aventurier « Pedr Pimalo » pour qu’il l’informe de ce qu’il se passe à Ker-Saozon. Sa mission consiste à surveiller Morweena et Alarig et de le tenir au courant des intrigues. Tout les 25 du mois, [Gwion](/bestiaire/gwion-gornoc) (ou bien un membre du clan Gornoc) rencontrera Pedr au lieu convenu pour que l’aventurier les informe de ce qu’il a entendu. Le salaire de Pedr s’élève à 9 PO et 9 PA après une négociation peu concluante de la part de Gwion, le tarif est révisable toutes les semaines. Pedr Pimalo est un adepte de la voie des ombres de niveau apprenti (ID9), il est connu pour sa grande compétence.  
 Un membre du clan Gornoc s’est aussi renseigné sur les quêtes proposées à l’enseigne « À la mouette noire » et à découvert un annonce de [Lôchetos](/bestiaire/lochetos-vlatcano).
 De son côté, [Lôchetos](/bestiaire/lochetos-vlatcano), assuré que son compagnon Yokataï soit rétabli et en attendant des nouvelles de [Owain](/bestiaire/owain-macaro) et [Rudolf](/bestiaire/rudolf-fareg), se rend auprès de son Genos qui ne recevait jusque-là aucune visite.
 Il le tient aux nouvelles concernant sa fille et le rassure sur l’avancé des recherches. Il lui fait savoir qu’il serait le moment de se trouver des alliés chez les mages aux vues de l’attaque subit il y a quelques jours. Lui rappelant que le moyen principal de pression étant la pierre, il condamnerait tout son peuple si elle était perdue avant l’alliance, il lui demande donc de permettre qu’on la retrouve s'il venait à disparaitre comme cela aurait malheureusement pu être le cas sans leur intervention de la dernière fois. Gaenor promet de réfléchir à une solution sécurisée avec une chaîne de confiance qui permettait de remonter jusqu'à la cachette mais en gardant un système de secrets morcelés.
 
 **3 Miz Ebrel**  
+***Taron Jaino***  
 [Gwion](/bestiaire/gwion-gornoc) va trouver l’apothicaire du nom de Taron Jaino et lui propose un marché. Il lui propose la protection grâce à son clan, la subvention du matériel nécessaire à ses médicaments, et la garantie d’être aidé financièrement en cas de maladie ou d’incident. Mais aussi, le clan Gornoc assurera ses besoins primaires comme se nourrir, se loger et se chauffer. En échange, chaque premier du mois, Taron devra verser les 25% de ses bénéfices au clan Gornoc. Il devra aussi tenir un cahier où il déclarera toutes les transactions effectuées dans le mois, avec la date inscrite.
 En attendant, [Gwion](/bestiaire/gwion-gornoc) ramasse 60 églantianes.
 De son côté, [Lôchetos](/bestiaire/lochetos-vlatcano) propose à sa tante Siwan d’aller jeter un coup d’œil à son entrepôt à Thaouet et profite de l’occasion pour revendre ses épices et quelques bêtes et se fournir en fer à Caohaydhan.
@@ -54,13 +56,14 @@ De son côté, [Lôchetos](/bestiaire/lochetos-vlatcano) se renseigne sur les dr
 **9 Miz Ebrel**  
 [Gwion](/bestiaire/gwion-gornoc) part chercher des eglantiannes (58) une nouvelle fois.
 
-**10 Miz Ebrel**
-[Rudolf](/bestiaire/rudolf-fareg) revient après presque une lune de recherches dans la forêt de Koaddan avec [Owain](/bestiaire/owain-macaro). Il informe qu'il a suivi avec [Owain](/bestiaire/owain-macaro) un étrange groupe dans les bois qui disparaissait dans la journée et n'apparaissait que la nuit. Le groupe s'est déplacé durant tout ces jours pour revenir vers Kerduenn.Cette zone sacrificielle laisse présager le pire quant au sort de la jeune fille de Gaenor qui a été enlevée.  
+**10 Miz Ebrel**   
+***Britomartos Nantono, Gaenor Lugeto***  
+[Rudolf](/bestiaire/rudolf-fareg) revient après presque une lune de recherches dans la forêt de Koaddan avec [Owain](/bestiaire/owain-macaro). Il informe qu'il a suivi avec [Owain](/bestiaire/owain-macaro) un étrange groupe dans les bois qui disparaissait dans la journée et n'apparaissait que la nuit. Le groupe s'est déplacé durant tout ces jours pour revenir vers Kerduenn. Cette zone sacrificielle laisse présager le pire quant au sort de la jeune fille de Gaenor qui a été enlevée.  
 S'armant de leur courage, les compagnons repartent dans la forêt de Koaddon en direction de Kerduenn. Ils espèrent pouvoir libérer la princesse et redonner à Gaenor la force d'être le chef de la communuaté Meldète car il n'est plus que l'ombre de lui même.  
 Rapidement, grâce à [Rudolf](/bestiaire/rudolf-fareg), ils retrouvent la piste et l'anfractuosité. Ils évitent l'ours charognard, toujours résidant des lieux. Le groupe suit ensuite la rivière et s'enfonce dans un marais. Ils sont assaillis par de grands serpent venimeux. Malgré la virulence des morsures et du venin, les compagnons franchissent les obstacles et atteignent Kerduenn. Ils découvrent une scène maccabre qui préfigure un sacrifice humain. Des hommes en robe cérémonielles psalmodient de sombres incantations. Des femmes dépenaillées chantent en transe. Sur l'autel de pierre se trouve la fille de Gaenor qui est ligotée et inconsciente.  
 Il faut agir vite et les compagnons se lancent à l'assaut pour mettre fin à cette funeste mise en scène. Une mêlée confuse s'engage alors que des diables sont invoqués. Ils affrontent désormais des Dretch et des diables barbus. Le combat est longtemps incertain et la princesse est tuée sur l'autel par un diable. Le sacrifice a été accompli. Tous les adversaires sont tués. Mince consolation face à la honte de ramener la dépouille de la jeune princesse à son père.  
 Ils rentrent la mort dans l'âme et Caohaydhan semble bien calme. Nouveau rebondissement, lorsqu'ils arrivent au palais, ils constatent avec horreur de Gaenor a été crucifié et Britomartos siège à sa place, visiblement conseillé par un membre du cercle de la nuit.  
-Le clan Macaron, Vlatcano et Gornoc sont bannis de Caohaydhan.  
+Le clan Macaro, Vlatcano et Gornoc sont bannis de Caohaydhan.  
 Avant de partir [Gwion](/bestiaire/gwion-gornoc) maudit Britomartos pour sa trahison.  
 Intérieurement accablé par la situation mais ne laissant rien paraître, Lôchetos rassemble les membres de sa famille et les rassure sur le futur en leur promettant de rétablir l'honneur de la famille et de faire payer Britomartos.
 Il effectue un entretien en toute discrétion avec sa tante Siwan  pour lui demander de faire tout ce qu'elle pourra pour retrouver la pierre de Sawrina au plus vite et en profite pour se renseigner sur ce qu'elle comptait faire après ce bannissement. Il apprend avec tristesse qu'elle va devoir laisser sa place de chef de guilde car tous les Vlatcano doivent partir.
@@ -76,6 +79,7 @@ La famille Gornoc est partie avec les familles Vlatcano et Macaro chercher un no
 
 
 **13 Miz Ebrel**  
+***Siwan Vlatcano***  
 [Gwion](/bestiaire/gwion-gornoc) continue d’étudier le sort « Oeil Magique » durant le voyage.  
 [Lôchetos](/bestiaire/lochetos-vlatcano), moins social qu'à son habitude ne se joint que très rarement aux autres membres de la délégation et n'interagit depuis deux jours qu'avec sa tante Siwan avec qui il semble discuter de l'avenir de Caohaydhan et de leur clan.
 

@@ -178,9 +178,9 @@ Margs possède l'équipement suivant :
 - serpe de maître sacrificielle
 - torches (10)
 - 4619 PC
-- 2583 PA
+- 5183 PA
 - 36 PE
-- 5336 PO
+- 6636 PO
 - 1 PP.  
 §§§
 
