@@ -259,7 +259,7 @@ Gwion possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 214 285       
+**XP acquis** : 214 925       
 **Points de Magie** :84   
 **Points de Foi** :20      
 **Points d'honneur** :51            
