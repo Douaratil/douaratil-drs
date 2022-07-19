@@ -1,19 +1,19 @@
 ---
-title: "Jahir"
+title: "Jahir Murad"
 type: "PJ"
 subtype: "Ashkhémite"
 size: "M"
 alignment: "Neutre"
 challenge: "1"
-customHP: ""
+customHP: "12"
 abilityScores:
   for: 10
-  dex: 10
+  dex: 11
   con: 10
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for -0, dex 0, con 0, int(•) +0 , sag(••) +0, cha(•) +0 "
+customSavingThrows: "for -0, dex 0, con 0, int(•) +2 , sag(••) +4, cha(•) +0 "
 savingThrows:
   - "int"
   - "sag"
@@ -21,16 +21,16 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "0 (Armure de cuir cloutée)"
+  value: "12 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie 0"
   - name: "custom"
-    value: "arcanes(••) +0"
+    value: "arcanes(••) +4"
   - name: "custom"
     value: "athlétisme -0"
   - name: "custom"
-    value: "discrétion(•) +0"
+    value: "discrétion(•) +2"
   - name: "custom"
     value: "dressage +0"
   - name: "custom"
@@ -64,10 +64,10 @@ movement:
   walk: 9
 senses:
 languages:
-  - ""
+  - "Shahim/Shahiate (3/3), Ashkhèm/Ashkheth (3/3)"
 category: "PJ"
 ---
-## Jahir
+## Jahir Murad
 &nbsp;
 [![Jahir](https://www.douaratil.fr/illustrations/pj/jahirm.png)](https://www.douaratil.fr/illustrations/pj/jahir.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 0      
@@ -77,31 +77,25 @@ category: "PJ"
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6-1 dégâts tranchants (3d6-1 à deux mains).
-
-_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).  
-
-_**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
-_Touché_ : 2d6-1 dégâts perforants .
-
-
-_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
-_Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 &nbsp;
 §§§ .hero
 ###  <v-icon>mdi-drama-masks</v-icon> Présentation:  
+Jahir Murad est un bâtard issu d’un clan Ashkémite défait par les clans Gornoc et Aevarson de Madinalajnibh. Il a été donné comme esclave à la colonie de Madinalajnibh et sert aujourd’hui le puissant sorcier Gwion.
 §§§
 
 §§§ .hero
 ###  <v-icon>mdi-human-greeting</v-icon> Description physique:  
-
+Jahir est un Ashkémite de vingt et un printemps. Il a la peau mate. Ses cheveux ainsi que ses yeux sont sombres. Il mesure un mètre soixante-huit pour cinquante-sept kilos.
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>  Equipement:  
-
+- armure de cuir
+- Dague
+- vêtements communs
+- gourde
 §§§
 
 §§§ .hero
@@ -136,10 +130,10 @@ _Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  
 **XP acquis** : 0  
-**Points de Magie** :0   
-**Points de Foi** :0      
-**Points d'honneur** :0            
-**Inspirations religieuses** : (culte à Lhaothlastholo)    
+**Points de Magie** :14      
+**Points de Foi** :10         
+**Points d'honneur** :10               
+**Inspirations religieuses** : ()    
 
 
 §§§ .hero

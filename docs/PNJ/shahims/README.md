@@ -41,6 +41,64 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-à-dire « des souverains ». Il s’inquiétait de voir arriver des étrangers car sa tribu nomade vit du commerce avec les villes avoisinantes et l’oasis de Nyttlandyan est une étape obligatoire pour leurs caravanes. Alors que Tiberius tente de le rassurer sur leurs intentions, un soldat melg avertit le groupe sur l’arrivé d’une deuxième caravane.
 §§§
 
+## Ashur Begaya  
+&nbsp;
+[![Ashur Begaya](https://www.douaratil.fr/illustrations/pnj/ashurbegayam.png)](https://www.douaratil.fr/illustrations/pnj/ashurbegaya.jpg)   
+§§§
+|Ashur Begaya|Shème|
+|:-:|:-:|
+| Profil|[Voie des ombres (Novice)](/bestiaire/voie-des-ombres-novice)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 18|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 12|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+1 dégâts perforant (finesse, légère, lancer 6/18).  
+_**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Ashur Begaya est un marchand shahim qui navigue sur la mer d'émeraude mais qui fait aussi du commerce en montant jusqu'à Kerzu. Il connaît [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et a déjà fait affaire avec lui à Kerzu.     
+§§§
+
+## Fahim Ibn Tabit
+&nbsp;
+[![Fahim Ibn Tabit](https://www.douaratil.fr/illustrations/pnj/fahimibntabitm.png)](https://www.douaratil.fr/illustrations/pnj/fahimibntabit.jpg)   
+§§§
+|Fahim Ibn Tabit|Shème|
+|:-:|:-:|
+| Profil|[Voie des armes (Apprenti)](/bestiaire/voie-des-armes-apprenti)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 52|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+5 dégâts tranchant (3d6+3 à deux mains).  
+_**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Fahim Ibn Tabit est le houltane de Baj'hajari sur laquelle il règne sans partage. Il profite de la richesse de cette ville portuaire qui possède une flotte redoutée dans toute la région.   
+§§§
+
+## Hamda Bin Atiq
+&nbsp;
+[![Hamda Bin Atiq](https://www.douaratil.fr/illustrations/pnj/hamdabinatiqm.png)](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq.jpg)   
+§§§
+|Hamda Bin Atiq|Shème|
+|:-:|:-:|
+| Profil|[Voie des ombres (Adepte)](/bestiaire/voie-des-ombres-adepte)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 53|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 16|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague +3 E'adatan**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+7 dégâts perforant (finesse, légère, lancer 6/18) et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+_**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Hamda Bin Atiq est la Muaquar de la ville portuaire de Albawad'aljanub. Elle possède une dague +3 (souvent empoisonnée) prénommée E'adatan.  
+§§§
+
 ## Kahina ult Bouhen
 &nbsp;
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   

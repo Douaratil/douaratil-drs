@@ -29,3 +29,6 @@ Le quartier Vlatcano est toujours plis florissant. Pourtant, Lôchetos est toujo
 
 **18 Miz khouéré**   
 Déjà cinq jours que les troupes sont en mer. Une tempête nocturne a dispersé la flotte mais le rendez-vous est donné à Avelhaden ou Taron Vecconos fera jonction avec les troupes de son clan.  
+
+**20 Miz khouéré**  
+La colonie se développe bien dans le quartier asiatique de Madinalajnibh. Le surplus de colons permet de générer des revenus importants malgré les tentatives de déstabilisation qui accusent Yan Zin d'adultère. Manifestement de mauvaise foi, le plaignant est reparti avec une petite somme en compensation. Il ne faut pas déranger le commerce.  
