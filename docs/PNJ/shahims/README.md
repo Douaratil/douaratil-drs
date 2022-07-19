@@ -99,6 +99,27 @@ _Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
 Hamda Bin Atiq est la Muaquar de la ville portuaire de Albawad'aljanub. Elle possède une dague +3 (souvent empoisonnée) prénommée E'adatan.  
 §§§
 
+## Hamid ibn Sayyid
+&nbsp;
+[![Hamid ibn Sayyid](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyidm.png)](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid.jpg)   
+§§§
+|Hamid ibn Sayyid|Shème|
+|:-:|:-:|
+| Profil|[Voie des armes (Expert)](/bestiaire/expert)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 79|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 24|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
+_**Sabre vorpal +3 Al'manafadh**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+7 dégâts tranchant (3d6+7 à deux mains).  
+Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez un coup critique jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.    
+_**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
+
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie. Il possède une cotte de maille +3 et un sabre vorpal +3 prénommé Al'manafadh (l'exécuteur).
+§§§
+
 ## Kahina ult Bouhen
 &nbsp;
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   

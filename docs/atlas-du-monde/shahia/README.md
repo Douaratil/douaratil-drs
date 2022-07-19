@@ -17,6 +17,9 @@ Les montagnes des dents géantes.
 ## Aljabal'as'gahib
 La montagne en colère
 
+## Al'raya
+La cité portuaire d'Al'raya, dite la magnifique est connue pour ses activité commerciale mais aussi les nombreux bateaux pirates Lassymides. La citée est dirigée par le Houltane [Hamid ibn Sayyid](/PNJ/shahims/#hamid-ibn-sayyid).
+
 ## Asnan'eimlaqa
 Canyon des "dents géantes".   
 

@@ -17,9 +17,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 131
 
 - Mise à jour des [chroniques](/chroniques/).  
-- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Ashur Begaya, Fahim ibn Tabit, Hamda Bin Atiq.  
+- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)
+- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Ashur Begaya, Fahim ibn Tabit, Hamid ibn Sayyid, Hamda Bin Atiq.  
 - Ajout du comagnon de Gwion, [Jahir Murad](/bestiaire/jahir-murad)
-- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Albawad'aljanub, Asnan'eimlaqa, Baj'hajari,
+- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Albawad'aljanub, Al'raya, Asnan'eimlaqa, Baj'hajari.
 
 Bon jeu.     
 §§§ .text-right

@@ -63,7 +63,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "Le Shahim/Shahiate (3/3), Assyrhiote/Assyrhide (5/5), Cyrénide/Assyride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3) "
+  - "Le Shahim/Shahiate (3/3), Assyrhiote/Syride (5/5), Cyrénide/Syride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3), Syrioth/Syride (3/3); Assyrith/Syride(3/3) "
 category: "PJ"
 ---
 ## Sawrina Semramis
@@ -169,9 +169,9 @@ Sawrina possède l'équipement suivant :
 - potion de soin (1) (récup 1d6+2 pa)
 - serpes (2) sacrificielles finement ouvragées (Valeur 100po pièce)
 - 771 PC
-- 25226 PA
+- 7 926 PA
 - 49 PE
-- 2503 PO
+- (-1857) PO
 - 79 PP.  
 §§§
 
@@ -188,8 +188,8 @@ Sawrina possède l'équipement suivant :
 **Revenus** : 0    
 ### Colonie de Madin'alajnibh
 **Développement Faible** La colonie est pauvre. La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po.   
-**Colons** : 60  
-**Trésor** : 720 pa + 500po
+**Colons** : 39    
+**Trésor** : 720 pa + 250 po
 
 §§§
 
@@ -197,10 +197,10 @@ Sawrina possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 177 821  
+**XP acquis** : 178 671  
 **Points de Foi** :17   
 **Points d'honneur** :45
-**Guilde des voleurs** Novice 50po/lune
+**Guilde des voleurs** Apprenti 120 po/lune
 **Voie del'éveil**: Voie médiane
 §§§
 
