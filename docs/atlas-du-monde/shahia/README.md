@@ -38,6 +38,9 @@ Cette grande cité Sooghaï se situe au nord des royaumes Sooghaïs et est tenue
 ## Ihlathi Lesihogo  
 Littéralement la "forêt infernale" en langue Soogh. Jungle impénétrable remplie de dangers innombrables.
 
+## Jazirat'ebkaria
+Ce nom signifie l'île aux génies puisque le sage Shu'ayb al-Gasani y avait été initié, et avait fondé la cité de Samd'ji.
+
 ## Jazirham  
 L'île rouge.
 
@@ -55,6 +58,9 @@ Luat'albarh, la reine blanche comme elle est surnommée, est une grande cité de
 
 ## Madin'alajnibh
 Nyttlandyan est une colonie de peuples du nords exilés à cause des guerres. Le nom de cette ville veut dire "Nouvelle terre" mais les locaux appellent ce lieu Madin'alajnibh qui signifie ville des étrangers.
+
+## Samd'ji
+Cette cité Shahim, Samd'ji qui signifie Céleste est sur l'île de Jazirat'ebkaria. Cette ville se trouve à l'intérieur des terres et possède une forteresse sur un pic rocheux. La cité est alimentée par les marchandises qui viennent du port. Les biens sont transportés à dos d'âne. Le souverain de cette cité est le houlta [Farid ibn Shakir](/PNJ/shahims/#farid-ibn-shakir).
 
 ## Sarha'alkubhan'almlia
 Le grand désert de dune.  

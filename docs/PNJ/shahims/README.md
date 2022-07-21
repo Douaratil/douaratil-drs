@@ -80,6 +80,26 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Fahim Ibn Tabit est le houltane de Baj'hajari sur laquelle il règne sans partage. Il profite de la richesse de cette ville portuaire qui possède une flotte redoutée dans toute la région.   
 §§§
 
+## Farid ibn Shakir
+&nbsp;
+[![Farid ibn Shakir](https://www.douaratil.fr/illustrations/pnj/faridibnshakirm.png)](https://www.douaratil.fr/illustrations/pnj/faridibnshakir.jpg)   
+§§§
+|Farid ibn Shakir|Shème|
+|:-:|:-:|
+| Profil|[Voie des armes (Apprenti)](/bestiaire/voie-des-armes-apprenti)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 52|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+5 dégâts tranchant (3d6+3 à deux mains).  
+_**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Farid ibn Shakir est le souverain de la cité de Samd'ji qui se trouve sur l'île de Jazirat'ebkaria.
+§§§
+
 ## Hamda Bin Atiq
 &nbsp;
 [![Hamda Bin Atiq](https://www.douaratil.fr/illustrations/pnj/hamdabinatiqm.png)](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq.jpg)   

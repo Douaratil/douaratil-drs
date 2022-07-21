@@ -14,12 +14,25 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 132
+
+- Mise à jour des [chroniques](/chroniques/).  
+- Mise à jour de [Shine Hame](/bestiaire/shine-hame) et de [Yan Zin](/bestiaire/yan-zin).
+- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Farid ibn Shakir.  
+- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Samd'ji, Jazirat'ebkaria.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juillet 2022_
+§§§
+
 ## Mise à jour 131
 
 - Mise à jour des [chroniques](/chroniques/).  
 - Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)
 - Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Ashur Begaya, Fahim ibn Tabit, Hamid ibn Sayyid, Hamda Bin Atiq.  
-- Ajout du comagnon de Gwion, [Jahir Murad](/bestiaire/jahir-murad)
+- Ajout du compagnon de Gwion, [Jahir Murad](/bestiaire/jahir-murad)
 - Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Albawad'aljanub, Al'raya, Asnan'eimlaqa, Baj'hajari.
 
 Bon jeu.     
