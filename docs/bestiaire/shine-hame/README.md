@@ -140,7 +140,7 @@ Shin Hame possède l'équipement suivant :
 - matériel de cartographe
 - quelques lettres de correspondance avec un ou plusieurs confrères
 - sabre
-- 1597 po.  
+- 1397 po.  
 §§§
 
 §§§ .hero
@@ -148,6 +148,7 @@ Shin Hame possède l'équipement suivant :
 **Bonus d'incantation: +4**  
 **DD de Sauvegarde: 9**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal) [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures).    
+**Disciple** : [Chien de garde](/grimoire/chien-de-garde)
 §§§
 
 §§§ .hero
@@ -165,7 +166,7 @@ Shin Hame possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 19 140    
+**XP acquis** : 19 660    
 **Points de Magie** :22  
 **Points de Foi** :21   
 **Points d'honneur** :24    
@@ -176,5 +177,5 @@ Shin Hame possède l'équipement suivant :
 - hanche gauche (10 cm)  
 - mollet droit (10 cm)
 
-Mise à jour du 27/06/2022
+Mise à jour du 21/07/2022
 §§§

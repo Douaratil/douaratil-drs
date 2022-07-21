@@ -173,7 +173,7 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 37 797        
+**XP acquis** : 38 317          
 **Points de Magie** :10  
 **Points de Foi** :14        
 **Points d'honneur** :31  
@@ -185,5 +185,5 @@ Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos.
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 hanche gauche (20cm)
 
-Mise à jour du 17/07/2022
+Mise à jour du 21/07/2022
 §§§
