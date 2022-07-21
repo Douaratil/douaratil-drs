@@ -136,10 +136,10 @@ Knut possède l'équipement suivant :
 - pique
 - tente
 - tenue de voyageur
-- 4000 PC
-- 450 PA
+- 2800 PC
+- 0 PA
 - 0 PE
-- 1560 PO
+- (dette 309) PO
 - 0 PP.
 §§§
 
@@ -157,8 +157,8 @@ Knut possède l'équipement suivant :
 ### Colonie de Madin'alajnibh
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
-**Colons** : 21  
-**Trésor** : 1060 pa
+**Colons** : 17    
+**Trésor** : 0 pa
 
 §§§
 
@@ -177,4 +177,4 @@ Comme un sou neuf
 
 §§§
 
-*Mise à jour du 16 mai 2022*
+*Mise à jour du 21/07/2022*
