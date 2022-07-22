@@ -353,5 +353,5 @@ _Touché_ : 2d6+4 dégâts tranchant (3d6+2 à deux mains).
 _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
-Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse d'un riche bijoutier qui l'a délaissée, elle entretien une relation avec secrète avec le jeune [Tiberuis Don Alonzo](/bestiaire/tiberius-don-alonzo).  
+Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khouéré 722 dans sa colonie.  
 §§§
