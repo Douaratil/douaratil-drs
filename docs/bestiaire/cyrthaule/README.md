@@ -1,15 +1,15 @@
 ---
-title: "Shukkushe-Ikhushe"
+title: "Cyrthaüle"
 type: "Fiélon"
 subtype: "métamorphe"
 size: "M"
-alignment: "Neutre Mauvais"
-challenge: "4"
+alignment: "Loyal Mauvais"
+challenge: "16"
 customHP: "29"
 abilityScores:
   for: 8
   dex: 17
-  con: 13
+  con: 20
   int: 15
   sag: 12
   cha: 20
@@ -44,13 +44,17 @@ languages:
 telepathy: 18
 
 ---
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
+## Cyrthaüle
+&nbsp;
+[![Cyrthaüle](https://www.douaratil.fr/illustrations/fielon/cyrthaulem.png)](https://www.douaratil.fr/illustrations/fielon/cyrthaule.jpg)  
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20            
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Lien télépathique**_. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a [_charmée_](/gerer-la-sante-du-personnage/#charme), même s'ils ne sont pas sur le même plan d'existence.
 
 _**Métamorphe**_. Le fiélon peut utiliser son action pour se métamorphoser en humanoïde de taille M ou P, ou pour reprendre sa véritable forme. Ses objets équipés ou transportés ne sont pas transformés. Le fiélon reprend sa forme véritable s'il meurt.
 
+[![Cyrthaüle](https://www.douaratil.fr/illustrations/fielon/cyrthaule2m.png)](https://www.douaratil.fr/illustrations/fielon/cyrthaule2.jpg)    
 ## Actions
 _**Baiser dévitalisant**_. Le fiélon embrasse une créature consentante ou qu'il a préalablement [_charmée_](/gerer-la-sante-du-personnage/#charme). La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 contre cette magie. Elle subit 9d6 dégâts psychiques en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite. Le total maximum de points d'action de la cible est réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la cible termine une période de repos long. La cible meurt si cet effet réduit à 0 son total maximum de points d'action.
 
@@ -58,7 +62,14 @@ _**Charme**_. Un humanoïde situé dans le champ de vision du fiélon et à 9 m�
 Si la cible subit des blessures ou reçoit un ordre suicidaire, elle peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et mettre fin à l'effet en cas de réussite. Si la cible réussit le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'effet ou si l'effet dont elle est victime prend fin, la cible est immunisée au Charme de ce fiélon pendant 24 heures.  
 Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une autre, l'effet sur la précédente prend fin.
 
-_**Forme éthérée**_. Le fiélon entre par magie dans le plan Éthéré depuis le plan Matériel ou vice versa.
+_**Forme éthérée**_. Le fiélon entre par magie dans le plan Éthéré depuis le plan Matériel ou vice versa. Elle a besoin d'une action bonus pour ce faire.  
 
-_**Griffe (forme de fiélon uniquement)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+3 dégâts tranchants.
+[![Cyrthaüle](https://www.douaratil.fr/illustrations/fielon/cyrthaule3m.png)](https://www.douaratil.fr/illustrations/fielon/cyrthaule3.jpg)  
+
+_**Griffe (forme de fiélon uniquement) ou dague**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+3 dégâts tranchants.  
+
+_**Arc long +3 (••)**_. _Attaque d'arme à distance_ : +16 pour toucher, portée 45/180.  
+_Touché_ : 2d6+8 dégâts perforants .
+
+[![Cyrthaüle](https://www.douaratil.fr/illustrations/fielon/cyrthaule4m.png)](https://www.douaratil.fr/illustrations/fielon/cyrthaule4.jpg)  

@@ -181,6 +181,30 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Goulvenig Moisan est un puissant Rek Khernaë. Il vit principalement dans la capitale khernaëe de Lornac. Il porte son glaive enchanté +2 "Furnos" et une cuirasse magique +2.   
 §§§
 
+## Joan Lugeto
+&nbsp;
+[![Joan Lugeto](https://www.douaratil.fr/illustrations/pnj/joanlugetom.png)](https://www.douaratil.fr/illustrations/pnj/joanlugeto.jpg)   
+
+§§§
+|Joan Lugeto |Meldète|
+|:-:|:-:|
+| Profil|[Voie des armes (Apprenti)](/bestiaire/voie-des-armes-apprenti)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 52|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+
+_**Epée +3 (de Gaenor)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+8 dégâts tranchant (3d6+6 à deux mains).  
+
+_**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
+
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Joan Lugeto est la soeur de [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto). Elle avait décidé de rester en retrait mais face aux exactions de [Britomartos Nantono](/PNJ/nordiques/#britomartos-nantono), elle a décidé de réunir son clan et de rejoindre la résistance dans le but de reconquérir le pouvoir perdu par son frère.  
+§§§
+
 ## Korydwen Gourvil
 &nbsp;
 [![Korydwen Gourvil](https://www.douaratil.fr/illustrations/pnj/korydwengourvilm.png)](https://www.douaratil.fr/illustrations/pnj/korydwengourvil.jpg)   
