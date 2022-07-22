@@ -182,3 +182,5 @@ La colonie est très pauvre. La colonie est constituée de cinq bâtiments avec 
 Comme un sou neuf  
 
 §§§
+
+*Mise à jour du 21/07/2022*

@@ -134,7 +134,6 @@ L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos lon
 
 
 _**Sens bestiale**_. *(Herredyr)* Dès le niveau 10, votre allégeance bestiale vous permet développer les sens de votre seigneur animal. Cela se traduit par un avantage permanent aux tests de Perception liés à ce sens.  
-Progression du compagnon  
 |Type|Sens concerné|Spécial|
 |:-:|:-:|:-:|
 |**Hibou**|Vue|Désavantage le jour, mais vision dans le noir à 36 mètres|
@@ -248,7 +247,7 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 **Points de Foi** :79      
 **Points d'honneur** :40        
 **Voie d'éveil**: Voie de l'ascension.   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
 §§§
 
 §§§ .hero

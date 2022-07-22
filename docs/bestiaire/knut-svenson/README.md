@@ -75,7 +75,7 @@ category: "PJ"
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-**Historique:**_ Garde
+**Historique:** Garde
 **Compétences** : Intimidation, Perspicacité.  
 **Outils maîtrisés** : Un type de jeu au choix.  
 **Langues maîtrisées** : Une langue au choix.  

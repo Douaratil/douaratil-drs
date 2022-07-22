@@ -30,7 +30,7 @@ Les pouvoirs octroyés par les Voies ont deux avantages, ils ne nécessitent pas
 |:-|:-:|
 | 1-5 | Avantage JS contre attaques psychique |
 | 6-10 |+1d6 points de Foi et +1d6 points de Magie lors des repos|
-| 11-15 | Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme) |
+| 11-15 | Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricières](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme) |
 | 16-20 | Acquisition des sorts [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal),|
 | 21-28 | Rien car la patience est mère des vertues. |
 | 29 | +1 Sagesse  |

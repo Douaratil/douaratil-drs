@@ -225,14 +225,14 @@ Revenus : 5D6 PP et 30 x 6d6 po
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
- **haut fait de richesse**: *héroïque colonie développement important + 5 PH*
-**XP acquis** : 142 486
-**Points de Magie** :10  
+ **haut fait de richesse**: *héroïque colonie développement important + 5 PH*  
+**XP acquis** : 144 486  
+**Points de Magie** :10   
 **Points de Foi** :12  
 **Points d'honneur** : 58        
 **famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
 §§§
 
 §§§ .hero

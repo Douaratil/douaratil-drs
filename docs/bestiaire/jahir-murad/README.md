@@ -68,10 +68,10 @@ category: "PJ"
 ## Jahir Murad
 &nbsp;
 [![Jahir Murad](https://www.douaratil.fr/illustrations/pj/jahirm.png)](https://www.douaratil.fr/illustrations/pj/jahir.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 0      
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 0    
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 13    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-**HIstorique** : Bâtard
+**HIstorique** : Bâtard  
 **Compétences** : Histoire, Supercherie.  
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
@@ -128,8 +128,8 @@ Jahir est un Ashkémite de vingt et un printemps. Il a la peau mate. Ses cheveux
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +0**
-**DD de Sauvegarde:0**  
+**Bonus d'incantation: +0**  
+**DD de Sauvegarde:8**  
 **Novice** :
 
 **Disciple** :  

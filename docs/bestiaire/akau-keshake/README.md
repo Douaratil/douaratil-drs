@@ -48,7 +48,7 @@ telepathy: 36
 ---
 ## Akau-keshake
 &nbsp;
-[![Akau-keshake](https://www.douaratil.fr/illustrations/fielon/akau-keshakem.png)](https://www.douaratil.fr/illustrations/fielon/akau-keshake.jpg)  
+[![Akau-keshake](https://www.douaratil.fr/illustrations/fielon/akaukeshakem.png)](https://www.douaratil.fr/illustrations/fielon/akaukeshake.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

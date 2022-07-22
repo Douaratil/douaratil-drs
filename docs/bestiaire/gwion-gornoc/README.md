@@ -213,8 +213,8 @@ Gwion possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +15**
-**DD de Sauvegarde: 18**  
+**Bonus d'incantation: +15**  
+**DD de Sauvegarde: 18**   
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Arme magique](/grimoire/arme-magique), [Aspersion d'acide](/grimoire/aspersion-acide), [Baie nourricière](/grimoire/baie-nourriciere), [Balisage](/grimoire/balisage), [Bourrasque](/grimoire/bourrasque), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Boussole mentale](/grimoire/boussole-mentale), [Cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre),
 [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification),  
 [invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Mot de guérison](/grimoire/mot-de-guerison), [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [produire une flamme](/grimoire/produire-une-flamme), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),

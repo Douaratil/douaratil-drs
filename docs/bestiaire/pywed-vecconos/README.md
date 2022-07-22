@@ -44,7 +44,7 @@ skills:
   - name: "custom"
     value: "nature +3"
   - name: "custom"
-    value: "percpetion(•) +4"
+    value: "perception(•) +4"
   - name: "custom"
     value: "perspicacite +1"
   - name: "custom"
@@ -151,7 +151,7 @@ Pywed Vecconos possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +6**  
 **DD de Sauvegarde: 11**  
-**Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Duidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
+**Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
 §§§
 
 §§§ .hero
@@ -179,3 +179,4 @@ Pywed Vecconos possède l'équipement suivant :
 
 
 §§§
+*Mise à jour du 21/07/2022*

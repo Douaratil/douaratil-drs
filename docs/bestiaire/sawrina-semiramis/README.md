@@ -99,7 +99,7 @@ _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant q
 
 _**Equilibre parfait**_. *(Nayane)*  A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se déplacer sur des surfaces de 2 cm de large sans problème. Elle peut marcher sur une corde à sa vitesse normale comme s'il s'agissait d'un terrain normal.  
 
-_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. [[_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long](/gerer-la-sante-du-personnage/#repos).  
+_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. 
 
 _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
 
@@ -111,7 +111,7 @@ _**Intouchable**_. *(Nayane)*  A partir du niveau 7, la Nayane peut entrer dans 
 |**11**|5-6|
 |**15**|4-6|
 |**19**|3-6|
-Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)](/gerer-la-sante-du-personnage/#repos-long).
+Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)].
 
 _**Imparable**_. *(Nayane)*  A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse de la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long)]. Contre les adversaires "standards", le modificateur de Dextérité (DEX) n'est pas pris en compte dans le calcul de la VD.   
 
@@ -199,14 +199,15 @@ Sawrina possède l'équipement suivant :
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
 **XP acquis** : 178 671  
 **Points de Foi** :17   
-**Points d'honneur** :45
-**Guilde des voleurs** Apprenti 120 po/lune
-**Voie del'éveil**: Voie médiane
+**Points d'honneur** :45  
+**Guilde des voleurs** Apprenti 120 po/lune  
+**Voie de l'éveil**: Voie médiane  
+Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts Assistance, Baies nourricières, Druidisme,
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Ne garde pas de cicatrices
 
-Mise à jour du 01/05/2022.  
+Mise à jour du 21/07/2022.  
 §§§

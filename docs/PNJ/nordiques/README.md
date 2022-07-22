@@ -39,7 +39,7 @@ Agowen Tenva Duenn connait les sorts suivants:
 |Alarig Pinvidic |Khernaëe|
 |:-:|:-:|
 | Profil|[Voie des armes (Adepte)](/bestiaire/voie-des-armes-adepte)|
-|**<v-icon>mdi-heart</v-icon>Points d'action**: 70|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 9|   
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 70|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 19|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**  
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
@@ -333,4 +333,25 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
 Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirige la guilde des voleur de Cahohaydan.  
+§§§
+
+## Thorgunna Iridottir
+&nbsp;
+[![Thorgunna Iridottir](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottirm.png)](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir.jpg)   
+
+§§§
+|Thorgunna Iridottir|Melge|
+|:-:|:-:|
+| Profil|[Voie des armes (Disciple)](/bestiaire/voie-des-armes-disciple)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 34|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+4 dégâts tranchant (3d6+2 à deux mains).  
+**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse d'un riche bijoutier qui l'a délaissée, elle entretien une relation avec secrète avec le jeune [Tiberuis Don Alonzo](/bestiaire/tiberius-don-alonzo).  
 §§§
