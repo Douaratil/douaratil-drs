@@ -75,7 +75,7 @@ category: "PJ"
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-**Historique:** Garde
+**Historique:** Garde  
 **Compétences** : Intimidation, Perspicacité.  
 **Outils maîtrisés** : Un type de jeu au choix.  
 **Langues maîtrisées** : Une langue au choix.  
@@ -84,7 +84,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, jeu de dés.  
 
-_**Voie des armes & Jörghal**_. Knut est niveau 5 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Jörghal**_. Knut est niveau 5 dans la voie des armes et Archétype Jörghal.
 
 _**Style de combat Défense**_. *(Armes)* Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.
 

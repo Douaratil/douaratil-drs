@@ -147,7 +147,7 @@ _**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +15 pour 
 _Touché_ : 1d6+3 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-**Arc court(••)**_. _Attaque d'arme à distance_ : +13 pour toucher, portée 24/96.  
+_**Arc court(••)**_. _Attaque d'arme à distance_ : +13 pour toucher, portée 24/96.  
 _Touché_ : 2d6+5 dégâts perforants .
 
 &nbsp;

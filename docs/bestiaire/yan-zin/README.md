@@ -84,7 +84,7 @@ _**Historique Officier:**_.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.
 
-_**Voie des armes & Seibahkami**_. Yan Zin est niveau 6 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
+_**Voie des armes & Seibahkami**_. Yan Zin est niveau 8 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
 
 _**Style de combat Archérie**_. *(Armes)* Yan Zin gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
