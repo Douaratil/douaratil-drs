@@ -5,6 +5,7 @@ title: "Chroniques du loup gris"
 
 §§§ .hero
 Cette section raconte les aventures de :
+- **Alf** l'Holtseidar
 - **Gwion** l'Ambeanamos
 - **Knuth** le Jörghal
 - **Lôchetos** le Llawenos
@@ -12,6 +13,7 @@ Cette section raconte les aventures de :
 - **Margs** le Bhegelm
 - **Owain** le Gwylwir
 - **Pywed** le drodan
+- **Rudolf** le Skell
 - **Sawrina** La Nayane
 - **Shine Hame** Le Sohoten
 - **Taron** Le Ior

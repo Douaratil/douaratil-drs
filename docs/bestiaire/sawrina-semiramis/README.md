@@ -99,7 +99,7 @@ _**Esquive instinctive**_. *(Ombre)* À partir du niveau 5, quand un attaquant q
 
 _**Equilibre parfait**_. *(Nayane)*  A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se déplacer sur des surfaces de 2 cm de large sans problème. Elle peut marcher sur une corde à sa vitesse normale comme s'il s'agissait d'un terrain normal.  
 
-_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales. 
+_**Apnée prolongée**_. *(Nayane)*  A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales.
 
 _**Dérobade**_. *(Ombre)* À partir du niveau 7, votre agilité vous permet d'éviter instinctivement certaines zones d'effet. Si vous subissez un effet qui vous permet de faire un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts en cas de succès, vous subissez à la place la moitié des dégâts sur un échec et aucun dégât sur un succès.   
 
@@ -167,7 +167,9 @@ Sawrina possède l'équipement suivant :
 - menthagiles (6)
 - onguent de soin (1) (récup 1d6 pa, doit être au calme)
 - potion de soin (1) (récup 1d6+2 pa)
-- serpes (2) sacrificielles finement ouvragées (Valeur 100po pièce)
+- serpes (2) sacrificielles finement ouvragées (Valeur 100po pièce)  
+- [Anneau de saut](/liste-objets-magiques/anneau-de-saut) Kha’dafdae (Anneau de la grenouille)   
+- [Anneau de légèreté](/liste-objets-magiques/anneau-de-legerete) Halqat fayarbyrdh (Anneau de l’oiseau de feu)
 - 771 PC
 - 7 926 PA
 - 49 PE
@@ -182,10 +184,13 @@ Sawrina possède l'équipement suivant :
 
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal  
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 X 6d6po      
+
 ### Colonie de Madin'alajnibh
 **Développement Faible** La colonie est pauvre. La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po.   
 **Colons** : 39    
@@ -197,17 +202,20 @@ Sawrina possède l'équipement suivant :
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 178 671  
+**XP acquis** : 226 751
 **Points de Foi** :17   
 **Points d'honneur** :45  
 **Guilde des voleurs** Apprenti 120 po/lune  
 **Voie de l'éveil**: Voie médiane  
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts Assistance, Baies nourricières, Druidisme,
+Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts Assistance, Baies nourricières, Druidisme.  
+
+**Conseillère de Caohaydhan**   
+Rente 1d6 X 50po/lune
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Ne garde pas de cicatrices
 
-Mise à jour du 21/07/2022.  
+Mise à jour du 24/07/2022.  
 §§§
