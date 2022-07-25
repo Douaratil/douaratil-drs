@@ -211,7 +211,7 @@ Margs possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
+**Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH, *Bataille des rois haut fait légendaire +10**  
 **XP acquis** : 155 335  
 **Points de Magie** :8   
 **Points de Foi** :17    
@@ -224,7 +224,7 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - dos (trou omoplates)
-- Cuisse gauche 20 cm 
+- Cuisse gauche 20 cm
 
 §§§
 Mise à jour du 21/07/2022

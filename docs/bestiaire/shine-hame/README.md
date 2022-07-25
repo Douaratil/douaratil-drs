@@ -165,7 +165,7 @@ Shin Hame possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH*  
+**Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
 **XP acquis** : 19 660    
 **Points de Magie** :22  
 **Points de Foi** :21   

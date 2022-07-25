@@ -8,12 +8,12 @@ challenge: "14"
 customHP: "56"
 abilityScores:
   for: 10
-  dex: 16
+  dex: 18
   con: 14
   int: 10
-  sag: 12
+  sag: 11
   cha: 20
-customSavingThrows: "for +3, dex(••) +13, con +5, int(•) +5, sag +4, cha(•) +10 "
+customSavingThrows: "for +3, dex(••) +14, con +5, int(•) +5, sag +4, cha(•) +10 "
 savingThrows:
   - "dex"
   - "dex"
@@ -21,20 +21,20 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "18 (cuirasse)"
+  value: "21 (Cuirasse +2 Rhagfur )"
 skills:
   - name: "custom"
-    value: "acrobatie(touche à tout) +6"
+    value: "acrobatie(touche à tout) +7"
   - name: "custom"
     value: "arcanes(touche à tout) +3"
   - name: "custom"
     value: "athlétisme(••) +10"
   - name: "custom"
-    value: "discrétion(••) +13"
+    value: "discrétion(••) +14"
   - name: "custom"
     value: "dressage(touche à tout) +4"
   - name: "custom"
-    value: "escamotage(touche à tout) +6"
+    value: "escamotage(touche à tout) +7"
   - name: "custom"
     value: "histoire(•) +5"
   - name: "custom"
@@ -134,21 +134,21 @@ _**Inspirer la bravoure**_. *(Llawenos)* Au niveau 14, sur un champ de bataille,
 
 _**Attaques multiples**_. Lôchetos effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Cimeterre**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+3 dégâts tranchants (Finesse & légère).
+_**Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).(Sur un champ de bataille maitrise et +2 dégâts arme à 1 main)
 
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
+_Touché_ : 2d6+3 dégâts tranchants (3d6+2 à deux mains).(Sur un champ de bataille maitrise et +2 dégâts arme à 1 main)
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
+_Touché_ : 2d6+3 dégâts tranchants (3d6+2 à deux mains).(Sur un champ de bataille maitrise et +2 dégâts arme à 1 main)
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher , portée 6/18.  
-_Touché_ : 1d6+3 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
-La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher , portée 6/18.  
+_Touché_ : 1d6+6 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  (Sur un champ de bataille, maitrise et +2 dégâts arme à 1 main)  
 
-_**Arc court(••)**_. _Attaque d'arme à distance_ : +13 pour toucher, portée 24/96.  
-_Touché_ : 2d6+5 dégâts perforants .
+_**Arc court +2 An’ffaelh(••)**_. _Attaque d'arme à distance_ : +16 pour toucher, portée 24/96.  
+_Touché_ : 2d6+7 dégâts perforants .
 
 &nbsp;
 §§§ .hero
@@ -169,6 +169,7 @@ Lôchetos possède l'équipement suivant :
 - [amulette antidote](/liste-objets-magiques/amulette-antidote)  
 - [anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)
 - arc court
+- Arc court +2 An’ffaelh (infaillible)
 - armure de cuir
 - armure de cuir cloutée
 - cadenas
@@ -176,6 +177,7 @@ Lôchetos possède l'équipement suivant :
 - chausse trappe
 - Cimeterres (2) finement ouvragés (Valeur 50po pièce)
 - cuirasse
+- Cuirasse +2 Rhagfur (rempart)
 - épée courte
 - flèches (20)
 - glaive
@@ -189,7 +191,7 @@ Lôchetos possède l'équipement suivant :
 - 63 PC
 - 636 PA
 - 75 PE
-- 18 282 PO
+- 8 282 PO
 - 469 PP  
 §§§
 
@@ -208,9 +210,12 @@ Lôchetos possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale  
-**Serviteurs** : 0  
-**Revenus** : 0  
+**Prestige Normal**
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 x 6d6 po   
 
 ### Colonie de Madin'alajnibh
 **Développement important** La colonie est importante et renommée dans la région.  
@@ -224,21 +229,25 @@ Revenus : 5D6 PP et 30 x 6d6 po
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*   
- *héroïque: Bataille de Ker-Saozon + 5 PH*  
+ *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
  **haut fait de richesse**: *héroïque colonie développement important + 5 PH*  
-**XP acquis** : 144 486  
-**Points de Magie** :10   
-**Points de Foi** :12  
-**Points d'honneur** : 58        
+**XP acquis** : 202 776   
+**Points de Magie** :10    
+**Points de Foi** :13    
+**Points d'honneur** : 62          
 **famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)  
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [soin des blessures](/grimoire/soin-des-blessures).     
+**Maison à Ker-Saozon et titre de noblesse Khernaë**  
+**conseiller et responsable du renseignement auprès de Dame Joan Lugeto** (1d6*5PP/lune)   
+
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-weight</v-icon> Commerce
-Achat de quatre grandes barques
-tentes et vêtements adaptés a la vie dans le désert + matos essentiel pour la récolte d’eau
+**Comptoir commercial faible**  
+Risque maximum : Faible  
+Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point. Le comptoir compte un bâtiment principal et un bâtiment secondaire qui sert d’entrepôt, une écurie et deux pontons sur la rivière. quatre personnes tiennent les lieux, deux autres s'occupent des deux chevaux et de deux charrettes et quatre autres sont sur deux bateaux à voile.  
 
 §§§
 

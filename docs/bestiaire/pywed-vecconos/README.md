@@ -168,6 +168,7 @@ Pywed Vecconos possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
+**Hauts faits de vaillance**: *Bataille des rois haut fait légendaire +10*  
 **XP acquis** : 6750     
 **Points de Magie** :16  
 **Points de Foi** :32  

@@ -172,7 +172,7 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
- *héroïque: Bataille de Ker-Saozon + 5 PH*  
+ *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
 **XP acquis** : 38 317          
 **Points de Magie** :10  
 **Points de Foi** :14        

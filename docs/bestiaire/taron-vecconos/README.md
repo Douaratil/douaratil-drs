@@ -171,6 +171,7 @@ La colonie est très pauvre. La colonie est constituée de cinq bâtiments avec 
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
+**Hauts faits de vaillance**:  *Bataille des rois haut fait légendaire +10*  
 **XP acquis** : 48 000     
 **Points de Magie** :10  
 **Points de Foi** :10  

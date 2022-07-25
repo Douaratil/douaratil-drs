@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal mauvais"
-challenge: "11"
-customHP: "45"
+challenge: "13"
+customHP: "51"
 abilityScores:
-  for: 16
-  dex: 16
+  for: 17
+  dex: 18
   con: 12
   int: 10
   sag: 10
   cha: 12
-customSavingThrows: "for +3, dex(••) +11, con +1, int(•) +4, sag +0, cha(•) +5"
+customSavingThrows: "for +3, dex(••) +17 (Pierre +3), con +1, int(•) +5, sag +0, cha(•) +6"
 savingThrows:
   - "for"
   - "dex"
@@ -21,36 +21,36 @@ savingThrows:
   - "int"
 ac:
   armorType: "custom"
-  value: "16 (cuir clouté)"
+  value: "17 (cuir clouté)"
 skills:
   - name: "custom"
-    value: "acrobatie(••) +11"
+    value: "acrobatie(••) +14"
   - name: "custom"
-    value: "arcanes(•) +4"
+    value: "arcanes(•) +5"
   - name: "custom"
-    value: "athlétisme(••) +11"
+    value: "athlétisme(••) +13"
   - name: "custom"
-    value: "discrétion(••) +11"
+    value: "discrétion(••) +14"
   - name: "custom"
     value: "dressage +0"
   - name: "custom"
-    value: "escamotage +3"
+    value: "escamotage +4"
   - name: "custom"
     value: "histoire +0"
   - name: "custom"
     value: "intimidation +1"
   - name: "custom"
-    value: "investigation(•) +4"
+    value: "investigation(•) +5"
   - name: "custom"
     value: "médecine +0"
   - name: "custom"
     value: "nature +0"
   - name: "custom"
-    value: "perception(••) +8"
+    value: "perception(••) +10"
   - name: "custom"
     value: "perspicacité(••) +11"
   - name: "custom"
-    value: "persuasion(•) +5"
+    value: "persuasion(•) +6"
   - name: "custom"
     value: "religion +0"
   - name: "custom"
@@ -58,7 +58,7 @@ skills:
   - name: "custom"
     value: "supercherie +1"
   - name: "custom"
-    value: "survie(••) +8"
+    value: "survie(••) +10"
 
 movement:
   walk: 9
@@ -82,7 +82,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armes courantes, épée longue, rapière, épée courte, hache, pique (Double Maîtrise armes courantes, épée longue, hached e bataille), outils de voleur, flûte, tambourin.  
 
-_**Voie des armes & Skell**_. Rudolf est niveau 11 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Skell**_. Rudolf est niveau 13 dans la voie des armes et Archétype Skell.
 
 _**Expertise**_.  *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.  
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **acrobatie, athlétisme, perception, survie**       
@@ -116,18 +116,20 @@ _**Talent**_.  *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un 
 
 _**Compagnon animal loup**_.  *(Skell)*  À partir du niveau 11, le Skell s’attache les services d’un loup. L’animal ne s’éloigne jamais plus de 40 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.    
 
+_**Pierre de puissance suprême**_.  *(Skell)*  À partir du niveau 12, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +3 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 600po.  
+
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sigtryggr Olgensen effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+4 dégâts tranchant (polyvalente 3d6+3).
+_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+5 dégâts tranchant (polyvalente 3d6+4).
 
-_**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
-_Touché_ : 2d6+3 dégâts perforants .  
+_**Arc court(••)**_. _Attaque d'arme à distance_ : +14 pour toucher, portée 24/96.  
+_Touché_ : 2d6+4 dégâts perforants .  
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+3 dégâts perforante (légère,lancer 6/18)      
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+4 dégâts perforante (légère,lancer 6/18)      
 
 
 §§§ .hero
@@ -154,7 +156,7 @@ Sigtryggr Olgensen possède l'équipement suivant :
 - flûte
 - sac
 - onguent de soin (2) (récup 1d6 pa, doit être au calme)
-- opaline (val 300po enchantée pour la DEX +2)
+- opaline (val 600po enchantée pour la DEX +3)
 - tambourin
 - tente
 - tenue de voyageur
@@ -167,11 +169,11 @@ Sigtryggr Olgensen possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** : **  
-**XP acquis** : 95 595   
+**Haut fait de vaillance** : *Bataille des rois haut fait légendaire +10*   
+**XP acquis** : 120 595    
 **Points de Magie** :10    
 **Points de Foi** :10    
-**Points d'honneur** :33      
+**Points d'honneur** :48         
 
 §§§
 

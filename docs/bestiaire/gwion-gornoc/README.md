@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Neutre"
-challenge: "16"
-customHP: "48"
+challenge: "18"
+customHP: "54"
 abilityScores:
   for: 8
   dex: 8
   con: 16
   int: 20
   sag: 20
-  cha: 15
-customSavingThrows: "for -1, dex -1, con +3, int(•) +11 (+1 bonus guilde des Mages), sag(••) +15, cha(•) +7 "
+  cha: 18
+customSavingThrows: "for -1, dex -1, con +3, int(•) +12 (+1 bonus guilde des Mages), sag(••) +16, cha(•) +10 "
 savingThrows:
   - "int"
   - "sag"
@@ -26,19 +26,19 @@ skills:
   - name: "custom"
     value: "acrobatie -1"
   - name: "custom"
-    value: "arcanes(••) +15"
+    value: "arcanes(••) +17"
   - name: "custom"
     value: "athlétisme -1"
   - name: "custom"
-    value: "discrétion(•) +4"
+    value: "discrétion(•) +5"
   - name: "custom"
     value: "dressage +5"
   - name: "custom"
-    value: "escamotage(•) +4"
+    value: "escamotage(•) +5"
   - name: "custom"
     value: "histoire +5"
   - name: "custom"
-    value: "intimidation(••) +12"
+    value: "intimidation(••) +16"
   - name: "custom"
     value: "investigation +5"
   - name: "custom"
@@ -50,13 +50,13 @@ skills:
   - name: "custom"
     value: "perspicacité +5"
   - name: "custom"
-    value: "persuasion +2 (désavantage pour les tests)"
+    value: "persuasion +4 (désavantage pour les tests)"
   - name: "custom"
     value: "religion +5"
   - name: "custom"
-    value: "représentation +2"
+    value: "représentation +4"
   - name: "custom"
-    value: "supercherie +2"
+    value: "supercherie +4"
   - name: "custom"
     value: "survie +5"
 
@@ -71,7 +71,7 @@ category: "PJ"
 &nbsp;
 [![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwionm.png)](https://www.douaratil.fr/illustrations/pj/gwion.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 17     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique rebouteux:**_.    
 **Compétences**. Médecine, Nature ou Religion.  
@@ -110,38 +110,48 @@ Quand vous lancez un sort dont le temps d'incantation est d'une action, vous pou
 Quand vous lancez un sort qui force une créature à faire un jet de sauvegarde pour résister à ses effets, vous pouvez infliger un désavantage à la cible lors de son premier jet de sauvegarde contre le sort.    
 *Sort subtil*   
 Quand vous lancez un sort, vous pouvez le lancer sans utiliser de composante verbale ni somatique.   
+*Sort puissant*  
+Quand vous lancez un sort qui cause des dégâts, vous pouvez annuler les résultats d'un nombre de dés inférieur ou égal à votre modificateur d’Intelligence (avec un minimum de un) et les relancer. Vous devez utiliser les résultats du nouveau lancer.
+Vous pouvez utiliser sort puissant même si vous avez déjà utilisé une autre option de métamagie pour modifier ce sort mais le coût total du sort est le triple de point de magie (PM).  
 
 _**Malédiction de l’ombre**_.  *(Ambeanamos)* Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.   
 
 _**Affinité ancestrale**_.  *(Ambeanamos)* Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.  
 
- _**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).   
+_**Énergie positive**_.  *(Ambeanamos)* Au niveau 6, bénéficiez d'un avantage tous les jets de sauvegarde contre l'état terrorisée. Lorsque vous êtes terrorisé, vous divisez la durée de l'effet par deux. L'utilisation de la magie produit un flux d'énergie positive dans votre corps. À chaque fois que vous dépensez des points de magie en utilisant de la Métamagie , vous récupérez le montant de points de d’action (PA) que de points de magie (PM) utilisés normalement pour le sort (C’est à dire avant la majoration liée à l’usage de la Métamagie ).   
 
- _**Compagnon animal**_.  *(Ambeanamos)* À partir du niveau 8, l’Ambeanamos se lie avec une chouette. Il doit s’agir d’un animal qui vit dans les contrées où réside l’Ambeanamos. Si la chouette devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en chuintant. La chouette peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson, tous les jours à l’Ambeanamos.   
+_**Compagnon animal**_.  *(Ambeanamos)* À partir du niveau 8, l’Ambeanamos se lie avec une chouette. Il doit s’agir d’un animal qui vit dans les contrées où réside l’Ambeanamos. Si la chouette devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en chuintant. La chouette peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson, tous les jours à l’Ambeanamos.   
  Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau de l’Ambeanamos.    
 
- _**Magie du sang**_.  *(Ambeanamos)* À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux [_repos court_](/gerer-la-sante-du-personnage/#repos-court)s ou longs.
+_**Magie du sang**_.  *(Ambeanamos)* À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux [_repos court_](/gerer-la-sante-du-personnage/#repos-court)s ou longs.
  Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.     
 
-  _**Charme intense**_.  *(Ambeanamos)* Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1d6 point de magie (PM) que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
+_**Charme intense**_.  *(Ambeanamos)* Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1d6 point de magie (PM) que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.
  De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux jets de sauvegarde contre tous les sorts et les pouvoirs de charme ou d'enchantement.   
+
+_**Second compagnon animal**_.  *(Ambeanamos)*  partir du niveau 16, l’Ambeanamos se lie une seconde chouette qui vient ainsi former un couple au service du mage.   
+
+_**Présence puissante**_.  *(Ambeanamos)* À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures. Vous ne pouvez utiliser ce pouvoir un nombre de fois maximum égal à votre bonus d’Intelligence entre deux [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)s].    
+
+_**Maîtrise des sorts**_. *(Magie)* Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté (**invisibilité**, **projectile magique**).  
+Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.   
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6-1 dégâts tranchants (3d6-1 à deux mains).
 
-_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : -1 pour toucher, portée 24/96.  
 _Touché_ : 2d6-1 dégâts perforants .
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, portée 6/18.  
 _Touché_ : 1d6-1 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher.  
+_**Bâton (••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher.  
 _Touché_ : 2d6-1 dégâts contondant (polyvalent 2d6+1 à deux mains)
 &nbsp;
 §§§ .hero
@@ -158,6 +168,7 @@ Gwion est un Meldète de vingt six printemps. Il a la peau blanche les cheveux b
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>  Equipement:  
 Gwion possède l'équipement suivant :
+- [Anneau de régénération](/liste-objets-magiques/anneau-de-regeneration) An’farwol (immortel)
 - [anneau de stockage de sorts](/liste-objets-magiques/anneau-de-stockage-de-sorts)
 - arc court
 - armure (belle) de cuir cloutée (Val 90po)
@@ -190,7 +201,7 @@ Gwion possède l'équipement suivant :
 - 3857 PC
 - 29 978 PA
 - 44 PE
-- 23 636 PO
+- 17 136 PO
 - 223 PP.  
 §§§
 
@@ -205,9 +216,6 @@ Gwion possède l'équipement suivant :
 - perle (100 po)
 - petit fil de cuivre enchanté.
 - opale noire (rare)
-
-
-
 
 §§§
 
@@ -243,10 +251,14 @@ Gwion possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+### <v-icon>mdi-home-flood</v-icon> Domaine régiond e Caohaydhan  
+**Prestige Normal**
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 x 6d6 po   
+
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
 **Revenus** : 1d6 PP et 20 x 6d6 po.   
@@ -258,16 +270,18 @@ Gwion possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
- *héroïque: Bataille de Ker-Saozon + 5 PH*  
-**XP acquis** : 214 925       
-**Points de Magie** :84   
+ *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
+**XP acquis** : 279 645         
+**Points de Magie** :92     
 **Points de Foi** :20      
-**Points d'honneur** :51            
+**Points d'honneur** :64               
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimalo**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Guilde des mages** : Apprenti 420 po/lune, avantage : réseau de guilde, +1 au toucher et aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde : Foudre), +1 aux JS d'INT, train de vie confortable.   
 **Eveil**: Voie médiane  
 Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
+**conseiller auprès de Dame Joan Lugeto** (1d6*5PP/lune)  
+**Maison à Ker-Saozon et titre de noblesse Khernaë**   
 §§§
 
 §§§ .hero
@@ -275,6 +289,6 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 18/07/2022
+Mise à jour du 25/07/2022
 
 §§§

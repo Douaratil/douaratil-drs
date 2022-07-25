@@ -18,7 +18,7 @@ Les pouvoirs octroyés par les Voies ont deux avantages, ils ne nécessitent pas
 |:-|:-:|
 | 1-5 | Avantage JS contre attaques Nécrotiques |
 | 6-10 |+2d6 points de Foi lors des repos|
-| 11-15 | Acquisition des sorts [Aide](/grimoire/aide), Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie) |
+| 11-15 | Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie) |
 | 16-20 | Acquisition des sort [Soin des blessures](/grimoire/soin-des-blessures) |
 | 21-22|  Acquisition des sorts [Prière de soins](/grimoire/priere-de-soins)|
 | 23-28| Acquisition des sorts [Soin des blessures de groupe](/grimoire/soin-des-blessures-de-groupe) |

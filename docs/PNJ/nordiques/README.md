@@ -127,19 +127,7 @@ Britomartos Nantono est le souverain de la cité meldète de Cahohaydan. Après 
 [![Bryn Tuticanos](https://www.douaratil.fr/illustrations/pnj/bryntuticanosm.png)](https://www.douaratil.fr/illustrations/pnj/bryntuticanos.jpg)   
 
 §§§
-|Bryn Tuticanos |Meldète|
-|:-:|:-:|
-| Profil|[Voie des armes (Maître)](/bestiaire/voie-des-armes-maitre)|
-|**<v-icon>mdi-heart</v-icon>Points d'action**: 88|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 24|   
-|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23|  
-**<v-icon>mdi-sword-cross</v-icon> Actions**  
-_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
-
-_**Epée +3 "Morlos"**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+10 dégâts tranchant (3d6+8 à deux mains).  
-
-_**Arc court**_.  _Attaque d'arme à distance_ : +10 pour toucher, portée 24/96.  
-_Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
+**<v-icon>mdi-skull</v-icon> Tué à la bataille des rois près de Kerzu le 23 Miz Khouéré 722 par Tiberius Don Alonzo :**  
 
 
 §§§ .hero

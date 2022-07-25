@@ -241,7 +241,7 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**Haut fait de vaillance** :  *héroïque: Bataille des dunes rouges + 5 PH*  
+**Haut fait de vaillance** :  *héroïque: Bataille des dunes rouges + 5 PH, *Bataille des rois haut fait légendaire +10**  
 **XP acquis** : 165 684   
 **Points de Magie** :16   
 **Points de Foi** :79      

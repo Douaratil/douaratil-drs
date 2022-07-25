@@ -4,14 +4,14 @@ type: "PJ"
 subtype: "Khernaëe"
 size: "M"
 alignment: "Loyal mauvais"
-challenge: "14"
+challenge: "16"
 customHP: "42"
 abilityScores:
   for: 10
   dex: 14
-  con: 14
+  con: 15
   int: 20
-  sag: 14
+  sag: 16
   cha: 10
 customSavingThrows: "(Prise en compte de l'anneau de protection for +1, dex +3, con +3, int(••) +16, sag(•) +8, cha(•) +6"
 savingThrows:
@@ -21,7 +21,7 @@ savingThrows:
   - "cha"
 ac:
   armorType: "custom"
-  value: "15 (Armure de cuir cloutée + anneau de protection)"
+  value: "19 (Armure de cuir cloutée + anneau de protection)"
 skills:
   - name: "custom"
     value: "acrobatie +2"
@@ -71,7 +71,7 @@ category: "PJ"
 ## Moïra Dornglas
 &nbsp;
 [![Moïra Dornglas](https://www.douaratil.fr/illustrations/pj/moiradornglasm.png)](https://www.douaratil.fr/illustrations/pj/moiradornglas.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique:**_ Homme médecine.   
@@ -181,11 +181,11 @@ Moïra Dornglas possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:    
-**Haut fait de vaillance** :  
-**XP acquis** : 148 000        
-**Points de Magie** :70  
-**Points de Foi** :12        
-**Points d'honneur** :38  
+**Haut fait de vaillance** :*Bataille des rois haut fait légendaire +10*  
+**XP acquis** : 198 000        
+**Points de Magie** :84    
+**Points de Foi** :16        
+**Points d'honneur** :52    
 §§§
 
 §§§ .hero
@@ -193,4 +193,4 @@ Moïra Dornglas possède l'équipement suivant :
 néant
 §§§
 
-Mise à jour le 13/07/2022  
+Mise à jour le 25/07/2022  

@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "16"
-customHP: "40"
+challenge: "17"
+customHP: "42"
 abilityScores:
   for: 16
   dex: 20
   con: 8
   int: 20
-  sag: 12
+  sag: 13
   cha: 9
-customSavingThrows: "for +3, dex +5, con -1, int(••) +15, sag(•) +6, cha(•) +4"
+customSavingThrows: "for +3, dex +5, con -1, int(••) +17, sag(•) +7, cha(•) +5"
 savingThrows:
   - "int"
   - "int"
@@ -26,33 +26,33 @@ skills:
   - name: "custom"
     value: "acrobatie +5"
   - name: "custom"
-    value: "arcanes(••) +15"
+    value: "arcanes(••) +17"
   - name: "custom"
     value: "athlétisme +3"
   - name: "custom"
-    value: "discrétion(••) +15"
+    value: "discrétion(••) +17"
   - name: "custom"
     value: "dressage +1"
   - name: "custom"
-    value: "escamotage(•) +10"
+    value: "escamotage(•) +11"
   - name: "custom"
-    value: "histoire(•) +10"
+    value: "histoire(•) +11"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
-    value: "investigation(•) +10"
+    value: "investigation(•) +11"
   - name: "custom"
     value: "médecine +1"
   - name: "custom"
-    value: "nature(•) +10"
+    value: "nature(•) +11"
   - name: "custom"
     value: "perception +1"
   - name: "custom"
     value: "perspicacité +1"
   - name: "custom"
-    value: "persuasion(•) +4"
+    value: "persuasion(•) +5"
   - name: "custom"
-    value: "religion(•) +10"
+    value: "religion(•) +11"
   - name: "custom"
     value: "représentation -1"
   - name: "custom"
@@ -70,7 +70,7 @@ category: "PJ"
 &nbsp;
 [![Ioen Paetus](https://www.douaratil.fr/illustrations/pj/ioenpaetusm.png)](https://www.douaratil.fr/illustrations/pj/ioenpaetus.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 8          
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 26      
 ## <v-icon>mdi-weight-lifter</v-icon>Capacités
 **Historique** :Orphelin  
 **Compétences** : Acrobaties ou Discrétion, Escamotage.  
@@ -124,16 +124,16 @@ _**Discret**_. *(Magios)* Au niveau 11, vous maîtrisez la compétence Discréti
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Ioen Paetus effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants .
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+5 dégâts tranchants (portée 6/18).   
 
-_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+3)  
 
-_**Arc court(••)**_. _Attaque d'arme à distance_ : +10 pour toucher, portée 24/96.  
+_**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
 _Touché_ : 2d6+5 dégâts perforants .
 
 
@@ -214,8 +214,8 @@ La population se compose de la famille du seigneur, de deux servantes, d'un cuis
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
-**XP acquis** : 195 001     
-**Points de Magie** :84     
+**XP acquis** : 258 601       
+**Points de Magie** :88       
 **Points de Foi** :12     
 **Points d'honneur** :46    
 
