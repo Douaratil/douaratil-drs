@@ -5,7 +5,7 @@ subtype: "Khernaëe"
 size: "M"
 alignment: "Loyal mauvais"
 challenge: "16"
-customHP: "42"
+customHP: "47"
 abilityScores:
   for: 10
   dex: 14
@@ -141,7 +141,7 @@ _Touché_ : 1d6+2 dégâts perforants .
 [Brise os](/grimoire/brise-os), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire).
 
 **Adepte** :
-[Cage de force](/grimoire/cage-de-force), [Doigt de mort](/grimoire/doigt-de-mort), [Esclave](/grimoire/esclave), [Symbole](/grimoire/symbole).
+[Cage de force](/grimoire/cage-de-force), [Doigt de mort](/grimoire/doigt-de-mort), [Esclave](/grimoire/esclave), [Formé éthérée](/grimoire/forme-etheree),  [Symbole](/grimoire/symbole).
 
 
 §§§ .hero
@@ -185,7 +185,8 @@ Moïra Dornglas possède l'équipement suivant :
 **XP acquis** : 198 000        
 **Points de Magie** :84    
 **Points de Foi** :16        
-**Points d'honneur** :52    
+**Points d'honneur** :52   
+**Conseil de Ker-Saozon** 1d6 x 50 po/ lune
 §§§
 
 §§§ .hero

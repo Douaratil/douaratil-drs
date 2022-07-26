@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Khernaë"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "14"
-customHP: "68"
+challenge: "16"
+customHP: "78"
 abilityScores:
   for: 12
   dex: 20
-  con: 12
+  con: 14
   int: 8
-  sag: 17
+  sag: 18
   cha: 8
-customSavingThrows: "for(•) +6, dex +5, con(•) +6, int(•) +4, sag(•) +8, cha -1"
+customSavingThrows: "for(•) +6, dex +5, con(•) +7, int(•) +4, sag(•) +9, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "21 (Armure de cuir cloutée)"
+  value: "22 (Cotte de maille de Mithral)"
 skills:
   - name: "custom"
     value: "acrobatie +5"
@@ -32,7 +32,7 @@ skills:
   - name: "custom"
     value: "discrétion +5"
   - name: "custom"
-    value: "dressage +3"  
+    value: "dressage +4"  
   - name: "custom"
     value: "escamotage +5"
   - name: "custom"
@@ -42,23 +42,23 @@ skills:
   - name: "custom"
     value: "investigation -1"
   - name: "custom"
-    value: "médecine +3"
+    value: "médecine +4"
   - name: "custom"
     value: "nature -1"
   - name: "custom"
-    value: "perception +3"
+    value: "perception +4"
   - name: "custom"
-    value: "perspicacité(•) +4"
+    value: "perspicacité(•) +8"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
-    value: "religion(••) +13"
+    value: "religion(••) +9"
   - name: "custom"
     value: "représentation -1"
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
-    value: "survie +3"
+    value: "survie +4"
 movement:
   walk: 9
 senses:
@@ -71,7 +71,7 @@ category: "PJ"
 &nbsp;
 [![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margsm.png)](https://www.douaratil.fr/illustrations/pj/margs.jpg)  
 
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique**. Inquisiteur.   
@@ -123,23 +123,28 @@ _**Enfant de la nature**_. *(Bhegelm)*  Quand vous atteignez le niveau 10, vous 
 
 _**Monture sacrée supérieure**_. *(Bhegelm)*  À partir du niveau 13, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace à 2 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
 
+_**Sanctuaire de la nature**_. *(Bhegelm)*  Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sorts. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement. Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.  
+La créature est consciente de cet effet avant de vous attaquer.  
+
+_**Compagnon animal corneille blanche**_. *(Bhegelm)*  À partir du niveau 16, une corneille blanche vient au service du Bhegelm. Elle peut s’éloigner à 150 mètres par niveau. La corneille blanche voit le monde de l’invisible, les esprits et peut avertir le Bhegelm de leur présence.  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Attaques multiples**_. Margs effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+3 dégâts tranchants (3d6+1 à deux mains).  
 
-_**[Epée sacrée](/liste-objets-magiques/arme-sacree) Quateur(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**[Epée sacrée](/liste-objets-magiques/arme-sacree) Quateur(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+3 dégâts tranchants (3d6+1 à deux mains).
 
-_**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).  
 
-_**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse & légère).  
 &nbsp;
 §§§ .hero
@@ -180,7 +185,7 @@ Margs possède l'équipement suivant :
 - 4619 PC
 - 5183 PA
 - 36 PE
-- 6636 PO
+- 1636 PO
 - 101 PP.  
 §§§
 
@@ -198,10 +203,13 @@ Margs possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+### <v-icon>mdi-home-flood</v-icon> Domaine à Koadtymenezatil
+**Prestige Normal**
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 x 6d6 po   
 
 ### Colonie de Madin'alajnibh
 **Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
@@ -212,13 +220,16 @@ Margs possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 155 335  
+**XP acquis** : 202 675 XP    
 **Points de Magie** :8   
-**Points de Foi** :17    
+**Points de Foi** :18    
 **Points d'honneur** :41    
 **Guilde des guerrier** Novice 50po/lune, Réseau de guilde, train de vie modeste.    
 **Voie d'éveil**:Voie médiane  
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts Assistance, Baies nourricières, Druidisme.  
+Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
+**Place au siège du cercle druidique de Kernac**: 1d6X10pp/lune  
+**Direction du cercle druidique du cercle de la nuit**: 1d6X 10pp/lune  
+**Allié**: [Cyrthaüle](/bestiaire/cyrthaule)  
 §§§
 
 §§§ .hero
@@ -227,4 +238,4 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Cuisse gauche 20 cm
 
 §§§
-Mise à jour du 21/07/2022
+Mise à jour du 26/07/2022
