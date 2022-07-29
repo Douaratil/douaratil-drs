@@ -70,7 +70,7 @@ category: "PJ"
 &nbsp;
 [![Lôchetos Vlatcano](https://www.douaratil.fr/illustrations/pj/lochetosm.png)](https://www.douaratil.fr/illustrations/pj/lochetos.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique:**_ Limier.    
 **Compétences**. Investigation ou Perspicacité, Supercherie.  
@@ -80,7 +80,7 @@ _**Historique:**_ Limier.
 
 _**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
-_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 13 dans la voie des Ombres et Archétype Llawenos.  
+_**Voie des Ombres & Llawenos**_. Lôchetos est niveau 16 dans la voie des Ombres et Archétype Llawenos.  
 
 _**Expertise**_. : *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
 (Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.  **Choix : Athlétisme & Représentation**  (me rappeler les deux premières)  
@@ -233,8 +233,8 @@ Revenus : 5D6 PP et 30 x 6d6 po
  **haut fait de richesse**: *héroïque colonie développement important + 5 PH*  
 **XP acquis** : 202 776   
 **Points de Magie** :10    
-**Points de Foi** :13    
-**Points d'honneur** : 62          
+**Points de Foi** :11    
+**Points d'honneur** : 67          
 **famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.
 **Voie d'éveil**: Ascension   
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [soin des blessures](/grimoire/soin-des-blessures).     
