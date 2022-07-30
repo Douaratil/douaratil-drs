@@ -228,8 +228,8 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Voie d'éveil**:Voie médiane  
 Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
 **Place au siège du cercle druidique de Kernac**: 1d6X10pp/lune  
-**Direction du cercle druidique du cercle de la nuit**: 1d6X 10pp/lune  
-**Allié**: [Cyrthaüle](/bestiaire/cyrthaule)  
+**Direction du cercle druidique**: 1d6X 10pp/lune  
+
 §§§
 
 §§§ .hero
@@ -239,3 +239,4 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 
 §§§
 Mise à jour du 26/07/2022
+[.](/bestiaire/cyrthaule)  
