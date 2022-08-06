@@ -115,7 +115,7 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 ## Cambrioleur
 **Compétences** : Acrobaties ou Athlétisme, Discrétion.  
 **Outils maîtrisés** : Outils de voleur, accessoires de déguisement.  
-**Équipement** : Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.
+**Équipement** : Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.  
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
 
 ## Chasseur
