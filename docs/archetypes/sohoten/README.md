@@ -73,7 +73,7 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 
 ### Mille mains  
 **En Yotaï : Sen Te**  
-A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'attaque qu'il a d'adversaire. Il peut porter une attaque en lieu et place de l'action [_attaquer_](/combattre/#attaquer) et donc des éventuelles attaques multiples. Attaquer un Sohoten en surnombre n'est donc pas forcément une bonne tactique que ses adversaires apprenent souvent à leurs dépends.  
+A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'attaque qu'il a d'adversaire. Il peut porter une attaque en lieu et place de l'action [_attaquer_](/combattre/#attaquer) et donc des éventuelles attaques multiples. Attaquer un Sohoten en surnombre n'est donc pas forcément une bonne tactique que ses adversaires apprennent souvent à leurs dépends.  
 
 ### Feu intérieur  
 **En Yotaï : Hi Ni**  

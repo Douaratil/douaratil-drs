@@ -376,6 +376,11 @@ module.exports = {
               icon: 'mdi-auto-fix',
               path: '/archetypes/sorser',
             },
+            {
+                title: "Totsuzenshi",
+                icon: 'mdi-shuriken',
+                path: '/archetypes/totsuzenshi',
+              },
           {
               title: "Vitnar",
               icon: 'mdi-celtic-cross',

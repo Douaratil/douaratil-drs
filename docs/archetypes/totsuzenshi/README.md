@@ -11,14 +11,16 @@ title: Totsuzenshi
 |**4**|[Acrobatie aérienne](#acrobatue-aerienne)|
 |**5**|[Domination martiale](#domination-martiale)|
 |**6**|[Seconde attaque](#seconde-attaque)|
-|**7**|[Coup distant (portée doublée)](#coup-distant)|
+|**7**|[Main de l'ombre](#main-de-l-ombre)|
+|**8**|[Nuit étoilée](#nuit-etoilee)|
 |**9**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
-|**10**|[Esquive intuitive (2)](#esquive-intuitive)|
+|**10**|[Vol du rapace](#vol-du-rapace)|
+|**12**|[Troisième attaque](#troisieme-attaque)|
 |**13**|[Feu intérieur](#feu-interieur)|
 |**14**|[Coup distant (portée triplée)](#coup-distant)|
 |**15**|[Esquive intuitive (3)](#esquive-intuitive)|
 |**19**|[Esquive intuitive (4)](#esquive-intuitive)|
-|**20**|[Véritable Sohoten](#veritable-sohoten)|
+|**20**|[Véritable Totsuzenshi](#veritable-totsuzenshi)|
 
 ## Totsuzenshi
 &nbsp;
@@ -37,7 +39,8 @@ En tant que Totsuzenshi, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : Le Totsuzenshi emprunte la voie de la magie et développent les points de Magie (PM).  
 
 Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Parmi les Archétype existant, le Totsuzenshi est un exemple de cette recherche de la perfection dans l'art de tuer.  
-Le Totsuzenshi, littéralement "mort soudaine", est issu de guildes organisées en communautés familiales et claniques qui entretiennent des relations ambigües avec le pouvoir en place. Les familles, Buzoku, servent aussi leurs propres intérêts. Elles récupèrent des enfants orphélins qui sont ensuite entraînés pour servir le Buzoku jusqu'à la mort.     
+Le Totsuzenshi, littéralement "mort soudaine", est issu de guildes organisées en communautés familiales et claniques qui entretiennent des relations ambigües avec le pouvoir en place. Les familles, Buzoku, servent aussi leurs propres intérêts. Elles récupèrent des enfants orphélins qui sont ensuite entraînés pour servir le Buzoku jusqu'à la mort.  
+Les Totsuzenshis de la voie des armes sont nommés, littéralement . Les Totsuzenshis de la voie de l'ombre sont nommés, littéralement . Les Totsuzenshis de la voie de la magie sont nommés, littéralement .        
 
 ### Voie de la main nue  
 **En Yotaï : Sude do**  
@@ -54,6 +57,9 @@ Le Totsuzenshi, littéralement "mort soudaine", est issu de guildes organisées 
 ### Domination martiale  
 **En Yotaï: Buryoku shihai**
 À partir du niveau 5, le Totsuzenshi est tellement agile et rapide qu'il est très difficile à toucher. Il peut, au prix de votre action bonus, imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet d'[_attaque_](/combattre/#attaquer) de votre adversaire pendant un nombre de round égal à 1 + votre bonus de Sagesse.  
+
+&nbsp;
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi1m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi1.jpg)
 
 ### Seconde attaque  
 **En Yotaï : Sekandoatakku**  
@@ -74,18 +80,37 @@ Le nombre de coups portés est représenté par 1d6 de dégâts contondants. Ils
 |**19-20**|4d6|
 |**21+**|5d6|
 
+### Nuit étoilée  
+**En Yotaï : Hoshi ga kagayakuyoru**  
+À partir du niveau 8, le Totsuzenshi peut lancer une poignée d'étoiles affûtées nommées shaken (à considérer comme des fléchettes). Il peut envoyer un nombre de fléchette par action [_attaquer_](/combattre/#attaquer) ou en action bonus qui varie suivant le niveau.
+
+|Niveau|nbr de fléchettes (shaken)|Portée|
+|:-:|:-:|:-:|
+|**8-10**|1d6|8/20|
+|**11-14**|2d6|10/22|
+|**15-18**|3d6|12/24|
+|**19-20**|4d6|14/26|
+|**21+**|5d6|16/28|
+
 ### Maîtrise de la concentration    
 **En Yotaï : Shūjuku Nōdo**  
-À partir du niveau 9, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
+À partir du niveau 9, le Totsuzenshi peut méditer au lieu de dormir. Le temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Il n'est cependant pas possible de bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
-### Mille mains  
-**En Yotaï : Sen Te**  
-A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'attaque qu'il a d'adversaire. Il peut porter une attaque en lieu et place de l'action [_attaquer_](/combattre/#attaquer) et donc des éventuelles attaques multiples. Attaquer un Sohoten en surnombre n'est donc pas forcément une bonne tactique que ses adversaires apprenent souvent à leurs dépends.  
+### Vol du rapace
+**En Yotaï : Raputā no hikō**  
+A partir du niveau 10, la maîtrise des mouvements permet de porter d'utiliser la capacité [Saut](/grimoire/saut) comme le sortilège mais sans test de magie ni de dépense de point de Magie ou de Foi. Il peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (minimum 1) et doit ensuite attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.     
+
+### Troisième attaque  
+**En Yotaï : Kai-me no kōgeki**  
+À partir du niveau 12, le Totsuzenshi peut attaquer trois fois au lieu d'une à chaque fois qu'il choisit l'action [_attaquer_](/combattre/#attaquer) pendant son tour. Si vous avez déjà une troisième attaque, vous ajoutez +4 aux dégâts en compensation.  
 
 ### Feu intérieur  
 **En Yotaï : Hi Ni**  
 A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), le Sohoten le considère comme un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il s'agit uniquement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les autres sont considérés normalement.
 
-### Véritable Sohoten  
-**En Yotaï : Sohoten**  
-Au niveau 20, le Sohoten est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
+&nbsp;
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3.jpg)
+
+### Véritable Totsuzenshi  
+**En Yotaï : Totsuzenshi**  
+Au niveau 20, le Totsuzenshi est accompli et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
