@@ -90,14 +90,14 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Compétences** : Discrétion, Investigation ou Perspicacité.  
 **Outils maîtrisés** : Matériel d'empoisonneur.  
 **Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.
+**Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.  
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#marque-de-la-mort)
 
 ## Bandit de grand chemin
 **Compétences** : Intimidation, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres).  
 **Langues maîtrisées** : Une langue au choix.  
-**Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.
+**Équipement** : Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)
 
 ## Bâtard
@@ -109,7 +109,7 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 ## Brigand
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
-**Équipement** : Couverture, vêtements de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.
+**Équipement** : Couverture, vêtements de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.  
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)  
 
 ## Cambrioleur
@@ -212,7 +212,7 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 ## Gardien tribal
 **Compétences** : Perspicacité, Survie.  
 **Outils maîtrisés** : Véhicules (terrestres), un instrument de musique au choix.  
-**Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.
+**Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyage grossiers, instrument de musique de votre tribu, amulette à l'effigie de votre gardien spirituel, sacoche contenant des pierres précieuses ou des fragments d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Esprit protecteur](/personnalite-et-historique/#esprit-protecteur)  
 
 ## Gens du voyage

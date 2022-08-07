@@ -72,7 +72,7 @@ Les Sermazloth sont organisées en sororités d'adoratrices.
 
 ### Attaque supplémentaire  
 **En Khernaë: Argad Adh**   
-À partir du niveau 9, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
+À partir du niveau 9, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.  
 
 ### Immunité infernale
 **En Khernaë: Dive'cg Ifern**  
