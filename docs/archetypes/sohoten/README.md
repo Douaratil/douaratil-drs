@@ -77,7 +77,10 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'att
 
 ### Feu intérieur  
 **En Yotaï : Hi Ni**  
-A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), le Sohoten le considère comme un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il s'agit uniquement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les autres sont considérés normalement.
+A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), le Sohoten le considère comme un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il s'agit uniquement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les autres sont considérés normalement.  
+
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten2m.png)](https://www.douaratil.fr/illustrations/archetype/sohoten2.jpg)
 
 ### Véritable Sohoten  
 **En Yotaï : Sohoten**  

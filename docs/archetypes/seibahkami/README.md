@@ -49,7 +49,7 @@ Cette capacité lorsqu’elle est utilisée, nécessite un [_repos long_](/gerer
 ### Préserver la vie
 **En Yotaï : Chebh N’do**  
 À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
-Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que cinq fois votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
+Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que **cinq fois** votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
 
 ### Empathie équestre
 **En Yotaï : Kyōkan Jōba**  
