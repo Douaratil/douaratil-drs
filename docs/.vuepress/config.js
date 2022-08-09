@@ -281,6 +281,11 @@ module.exports = {
               icon: 'mdi-sword',
               path: '/archetypes/dall-dawnser',
             },
+            {
+                title: "Dorshaïre",
+                icon: 'mdi-water',
+                path: '/archetypes/doshaire',
+              },
           {
               title: "Drodan",
               icon: 'mdi-celtic-cross',
