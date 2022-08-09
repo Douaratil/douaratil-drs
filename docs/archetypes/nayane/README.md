@@ -35,7 +35,7 @@ En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : Un instrument de musique de votre choix    
 **Jets de sauvegarde** : Dextérité, Sagesse  
 **Compétences** : choisissez trois compétences au choix parmi : acrobatie, athlétisme, discrétion, investigation, perception, persuasion, religion ou représentation  
-**Conditions d'accessibilité**: Être de culture une jeune femme de n'importe quelle ethnie et avoir été vendue très jeune à un mystérieux marchand Shahim.  
+**Conditions d'accessibilité**: Être une jeune femme de n'importe quelle ethnie et avoir été vendue très jeune à un mystérieux marchand Shahim.  
 **Points de Magie** : La Nayane est un Archétype mystique, de ce fait, elle développe les points de Foi (PF) si elle emprunte la voie de la Magie.  
 
 Les Nayanes de la voie des Armes sont appelés Serssos Sorssos, littéralement «La morsure du serpent». Les Nayanes de la voie de l’Ombre sont appelés Serssos Sessessos, littéralement «Le venin du serpent». Les Nayanes de la voie de la Magie sont appelés Serssos Syssossos, littéralement « Le regard du serpent». La Nayane est un assassin fabriqué par la magie Selmonite. Une Nayane est stérile.

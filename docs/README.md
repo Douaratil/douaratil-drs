@@ -1,4 +1,4 @@
----
+n---
 title: DOUARATIL
 notEditable: true
 toc: false
@@ -13,6 +13,20 @@ toc: false
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+
+## Mise à jour 137
+- Ajout d'un nouvel archétype, la [Doshaïre](/archetypes/doshaire), prêtresse khernaëe de l'eau.  
+- Ajout du sort [Bénédiction de l'eau](/grimoire/benediction-de-l-eau)   
+- Ajout du sort [Marche sur l'eau](/grimoire/marche-sur-l-eau)  
+- Ajout du sort [Eau réparatrice](/grimoire/eau-reparatrice)  
+- Ajout du sort [Eau maudite](/grimoire/eau-maudite)  
+- Ajout du sort [Incarnation de l'eau](/grimoire/incarnation-de-l-eau)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 9 Août 2022_
+§§§
 
 ## Mise à jour 136
 - Ajout d'un nouvel archétype, le [Totsuzenshi](/archetypes/totsuzenshi).   
