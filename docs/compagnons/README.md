@@ -37,3 +37,6 @@ Ils peuvent agir en fonction de leur niveau et de leur voie. Ils peuvent utilise
 |16-20+|Voie des armes|2-6|3-6|4-6|3-6|
 |16-20+|Voie de la magie|5-6|5-6|2-6|3-6|
 |16-20+|Voie des ombres|3-6|2-6|4-6|2-6|
+
+&nbsp;
+[![Compagnons](https://www.douaratil.fr/illustrations/regles/compagnons2m.png)](https://www.douaratil.fr/illustrations/regles/compagnons2.jpg)  

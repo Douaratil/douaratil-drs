@@ -24,8 +24,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout illustration de l'Archétype [Fürtane](/archetypes/furtane)
 - Ajout illustration de l'Archétype [Heilari](/archetypes/heilari)
 - Ajout illustration de l'Archétype [Legatos](/archetypes/legatos)
+- Ajout illustration de la section [combattre](/combattre)
 - Ajout illustration de la section [compagnons](/compagnons)
 - Ajout illustration de la section [voies](/voies)
+- Ajout illustration de la section [personnalités](/personnalites-et-historique)
 
 Bon jeu.     
 §§§ .text-right

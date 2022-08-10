@@ -28,6 +28,8 @@ C'est l'alignement des créatures qui font ce qu'elles veulent tant qu'elles peu
 ### Chaotique Mauvais (CM)  
 Ces personnes n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang.
 
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/personnalitesm.png)](https://www.douaratil.fr/illustrations/regles/personnalites.jpg)
 
 ## Inspiration
 L'inspiration est une règle que le Narrateur peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.  
@@ -481,6 +483,9 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix entre des outils de forgeron, de cordonnier, de tanneur, de menuisier, de maçon, de potier, de bricoleur, de brasseur ou de charpentier.  
 **Équipement** : Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.  
 **Aptitude** : [Solidarité populaire](/personnalite-et-historique/#solidarite-populaire)  
+
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/personnalites2m.png)](https://www.douaratil.fr/illustrations/regles/personnalites2.jpg)
 
 ## Voleur à la tire
 **Compétences** : Escamotage, Supercherie.  

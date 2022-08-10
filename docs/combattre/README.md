@@ -22,7 +22,10 @@ Les actions les plus courantes que vous pouvez accomplir sont décrites dans la 
 
 La section [_Déplacement et position_](#deplacement-et-position) vous explique les règles de déplacement.
 
-Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions [_esquiver_](#esquiver) ou [_se tenir prêt_](#se-tenir-pret), décrites dans la section [_Actions en combat_](#actions-en-combat).
+Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions [_esquiver_](#esquiver) ou [_se tenir prêt_](#se-tenir-pret), décrites dans la section [_Actions en combat_](#actions-en-combat).   
+
+&nbsp;
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattrem.png)](https://www.douaratil.fr/illustrations/regles/combattre.jpg)
 
 ### Action bonus
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.
@@ -81,6 +84,9 @@ Au cours d'un combat, les héros et leurs adversaires sont constamment en mouvem
 Lors de votre tour, vous pouvez vous déplacer d'une distance inférieure ou égale à votre vitesse. Dans les limites de votre vitesse, vous pouvez parcourir la distance que vous souhaitez pendant votre tour en suivant les règles présentées ici.
 
 Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces différents modes de déplacement peuvent être combinés avec la marche ou constituer l'ensemble de votre déplacement. Quelle que soit la manière dont vous vous déplacez, vous devez déduire de votre vitesse la distance utilisée par chacun de vos modes de déplacement jusqu'à ce que vous ayez épuisé votre jauge de déplacement ou que vous ayez décidé de vous arrêter.
+
+&nbsp;
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre2m.png)](https://www.douaratil.fr/illustrations/regles/combattre2.jpg)
 
 ### Fragmenter votre mouvement
 Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une partie de votre déplacement avant votre action et le reste après celle-ci. Par exemple, si votre vitesse est de 9 mètres, vous pouvez vous déplacer de 3 mètres, faire une action, puis parcourir les 6 mètres restant.

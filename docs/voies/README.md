@@ -5,6 +5,9 @@ title: Les trois voies
 Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à partir du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
+&nbsp;
+[![Voies](https://www.douaratil.fr/illustrations/regles/voies2m.png)](https://www.douaratil.fr/illustrations/regles/voies2.jpg)
+
 # Voie des armes
 ## Évolution de la voie des Armes
 &nbsp;
@@ -209,6 +212,3 @@ Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous 
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.
 ### Sorts de prédilection
 Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
-
-&nbsp;
-[![Voies](https://www.douaratil.fr/illustrations/regles/voies2m.png)](https://www.douaratil.fr/illustrations/regles/voies2.jpg)
