@@ -102,7 +102,7 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 
 ### Connaissances océaniques    
 **En Khern : Anaoudegezh'meurvor**  
-À partir du niveau 14, la Dorshaïre apprend et peut lancer de manière innée un sort de niveau Adepte en lien avec l'élément eau parmi la liste suivante: [Aiguilles glaciales](/grimoire/aiguilles-glaciales), [Bénédiction de l'eau](/grimoire/benediction-de-l-eau),[Embruns prismatiques](/grimoire/embruns-prismatiques), [Larme de glace](/grimoire/larme-de-glace), [Marche sur l'eau](/grimoire/marche-sur-l-eau),[Mur de glace](/grimoire/mur-de-glace), [Tentacules noires](/grimoire/tentacules-noires) et  [Unification du corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau). Le sort est considéré comme appartenant à la Foi.    
+À partir du niveau 14, la Dorshaïre apprend et peut lancer de manière innée un sort de niveau Adepte en lien avec l'élément eau parmi la liste suivante: [Aiguilles glaciales](/grimoire/aiguilles-glaciales), [Bénédiction de l'eau](/grimoire/benediction-de-l-eau),[Embruns prismatiques](/grimoire/embruns-prismatiques), [Larme de glace](/grimoire/larme-de-glace) et [Marche sur l'eau](/grimoire/marche-sur-l-eau). Le sort est considéré comme appartenant à la Foi.    
 D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
 
 ### langue primordiale

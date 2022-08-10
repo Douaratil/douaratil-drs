@@ -208,4 +208,7 @@ Au niveau 3, vous choisissez un archétype .
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.
 ### Sorts de prédilection
-Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
+Quand vous atteignez le niveau 20, vous maîtrisez deux puissants rituels que vous pouvez lancer très facilement. Choisissez deux rituels de niveau disciple que vous connaissez, qui deviendront vos sorts de prédilection. Vous pouvez lancer chacun d'eux une fois sans dépenser de point de magie ou de foi. Une fois que vous avez lancé un de ces sorts ou les deux, vous ne pouvez pas les relancer gratuitement tant que vous n'avez pas terminé un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
+
+&nbsp;
+[![Voies](https://www.douaratil.fr/illustrations/regles/voies2m.png)](https://www.douaratil.fr/illustrations/regles/voies2.jpg)

@@ -17,6 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
+**Réservé Sorser**  
+
 Vous inspirez une peur que vous pouvez contrôler:  
 
 - *inquiétude* Chaque créature située dans un cône de 9 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pendant toute la durée du sort à tous les tests d'interaction sociale.

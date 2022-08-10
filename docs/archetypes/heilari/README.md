@@ -54,7 +54,10 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 
 ### Guérisseur béni
 **En Weshlède : Blessaður græðari**  
-À partir du niveau 6, les sorts de soins que vous lancez sur d'autres créatures vous soignent aussi. Quand vous lancez un rituel qui redonne des points d’action à une personne différente de vous, vous regagnez un nombre de points de d’action égal à 2 + le coût de base du sort en points de foi (PF).
+À partir du niveau 6, les sorts de soins que vous lancez sur d'autres créatures vous soignent aussi. Quand vous lancez un rituel qui redonne des points d’action à une personne différente de vous, vous regagnez un nombre de points de d’action égal à 2 + le coût de base du sort en points de foi (PF).  
+
+&nbsp;
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilarisoinsm.png)](https://www.douaratil.fr/illustrations/archetype/heilarisoins.jpg)  
 
 ### Vitalisation  
 **En Weshlède : Lífsþróttur**  

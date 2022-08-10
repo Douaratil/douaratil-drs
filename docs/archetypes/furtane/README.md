@@ -119,3 +119,6 @@ Elle ne peut plus être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise
 ### Véritable Fürtane  
 **En Khern : Fürtane**  
 Au niveau 20, la Fürtane est accomplie et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
+
+&nbsp;
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane2m.png)](https://www.douaratil.fr/illustrations/archetype/furtane2.jpg)  

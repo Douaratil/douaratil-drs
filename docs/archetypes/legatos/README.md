@@ -52,7 +52,10 @@ Au niveau 4, Le legatos sait imposer son autorité et maîtrise les compétences
 
 ### Influence  
 **En Alcante : Potentiam**  
-À partir du niveau 6, quand vous parlez devant une assemblée, vous asseyez votre autorité naturelle. Vous avez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos tests d'[intimidation](/utiliser-les-caracteristiques/intimidation) et de [Persuasion](/utiliser-les-caracteristiques/persuasion).
+À partir du niveau 6, quand vous parlez devant une assemblée, vous asseyez votre autorité naturelle. Vous avez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos tests d'[intimidation](/utiliser-les-caracteristiques/intimidation) et de [Persuasion](/utiliser-les-caracteristiques/persuasion).  
+
+&nbsp;
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos2m.png)](https://www.douaratil.fr/illustrations/archetype/legatos2.jpg)  
 
 ### Lacération égotique  
 **En Alcante : Lacera Egos**  

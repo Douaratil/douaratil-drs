@@ -21,6 +21,11 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout du sort [Eau réparatrice](/grimoire/eau-reparatrice)  
 - Ajout du sort [Eau maudite](/grimoire/eau-maudite)  
 - Ajout du sort [Incarnation de l'eau](/grimoire/incarnation-de-l-eau)
+- Ajout illustration de l'Archétype [Fürtane](/archetypes/furtane)
+- Ajout illustration de l'Archétype [Heilari](/archetypes/heilari)
+- Ajout illustration de l'Archétype [Legatos](/archetypes/legatos)
+- Ajout illustration de la section [compagnons](/compagnons)
+- Ajout illustration de la section [voies](/voies)
 
 Bon jeu.     
 §§§ .text-right
