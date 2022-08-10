@@ -14,11 +14,11 @@ title: Dorshaïre
 |**7**|[Connaissances ondines](#connaissances-ondines)|
 |**8**|[Soins aquatiques (2d6+2)](#soins-aquatiques) |
 |**9**|[Aide aquatiques](#aide-aquatique) |
-|**10**|-|
+|**10**|[Connaissances maritimes](#connaissances-maritimes)|
 |**12**|[Soins aquatiques (3d6+3)](#soins-aquatiques)|
-|**13**|-|
-|**14**|-|
-|**15**|-|
+|**13**|[Sourcière](#sourciere)|
+|**14**|[Connaissances océaniques](#connaissances-oceaniques)|
+|**15**|[Langue primordiale](#langue-primordiale)|
 |**16**|[Soins aquatiques (4d6+4)](#soins-aquatiques)|
 |**18**|-|
 |**20**|[Soins aquatiques (5d6+5)](#soins-aquatiques), [Véritable Dorshaïre](#veritable-dorshaire)|
@@ -48,7 +48,7 @@ Les Doshaïres de la voie des Armes sont appelés Karpenn Emober, littéralement
 
 ### Connaissances lacustres    
 **En Khern : Anaoudegezh'lenn**  
-À partir du niveau 4, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau novice en lien avec l'élément eau parmi la liste suivante: [Déperlance](/grimoire/deperlance), [Dessication](/grimoire/dessication), [Façonnage de l'eau](/grimoire/faconnage-de-l-eau), [Purification de la nourriture et de l'eau](/grimoire/purification-de-la-nourriture-et-de-l-eau), [Vague tonnante](/grimoire/vague-tonnante), [Bénédiction de l'eau](/grimoire/benediction-de-l-eau). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
+À partir du niveau 4, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau Novice en lien avec l'élément eau parmi la liste suivante: [Déperlance](/grimoire/deperlance), [Dessication](/grimoire/dessication), [Façonnage de l'eau](/grimoire/faconnage-de-l-eau), [Purification de la nourriture et de l'eau](/grimoire/purification-de-la-nourriture-et-de-l-eau), [Vague tonnante](/grimoire/vague-tonnante), [Bénédiction de l'eau](/grimoire/benediction-de-l-eau). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
 D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 ### Soins aquatiques
@@ -74,7 +74,7 @@ La Dorshaïre peut utiliser cette capacité un nombre de fois égal à son bonus
 
 ### Connaissances ondines    
 **En Khern : Anaoudegezh'ondina**  
-À partir du niveau 4, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau novice en lien avec l'élément eau parmi la liste suivante: [Contrôle de l'eau](/grimoire/controle-de-l-eau), [Création de nourriture et d'eau](/grimoire/creation-de-nourriture-et-d-eau), [Etanchéité](/grimoire/etancheite), [Hydromancie](/grimoire/hydromancie), [Murmure aquatique](/grimoire/murmure-aquatique), [Respiration aquatique](/grimoire/respiration-aquatique), [Tempête de grêle](/grimoire/tempete-de-grele) et [Tempete de neige](/grimoire/tempete-de-neige). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
+À partir du niveau 4, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau Disciple en lien avec l'élément eau parmi la liste suivante: [Contrôle de l'eau](/grimoire/controle-de-l-eau), [Création de nourriture et d'eau](/grimoire/creation-de-nourriture-et-d-eau), [Etanchéité](/grimoire/etancheite), [Hydromancie](/grimoire/hydromancie), [Murmure aquatique](/grimoire/murmure-aquatique), [Respiration aquatique](/grimoire/respiration-aquatique), [Tempête de grêle](/grimoire/tempete-de-grele) et [Tempete de neige](/grimoire/tempete-de-neige). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
 D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
 ### Aide aquatique    
@@ -84,13 +84,30 @@ D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres a
 |ID|Eau douce|Eau salée|
 |:-:|:-:|:-:|
 |**1/2**|[Crocodile](/bestiaire/crocodile)|-|
-|**1**|Nuée de piranhas|Pieuvre géante|
-|**2**|Crabass|Plésiosaure, requin chasseur|
-|**3**|-|Epaulard|
-|**5+**|Crocodile géant, Igualigator|Requin géant|
+|**1**|[Nuée de piranhas](/bestiaire/nuee-de-piranahs)|[Pieuvre géante](/bestiaire/pieuvre-geante)|
+|**2**|[Crabass](/bestiaire/crabass)|[Plésiosaure](/bestiaire/plesiosaure), [requin chasseur](/bestiaire/requin-chasseur)|
+|**3**|-|[Epaulard](/bestiaire/epaulard)|
+|**5+**|[Crocodile géant](/bestiaire/crocodile-geant), [Igualigator](/bestiaire/igualigator)|[Requin géant](/bestiaire/requin-geant)|
 
 La ou les créatures mettent 1d6 rounds à arriver. Elles arrivent par la voie de l'eau. Si la créature "n'existe pas" dans le bestiaire compte tenu de la région d'invocation, le profil est simplement utilisé et décrit par une autre créature locale (ex: Crabas-écrevisse géante, Nuée de piranahs- nuée de petits brochets).   
 
+### Connaissances martimes    
+**En Khern : Anaoudegezh'arvor**  
+À partir du niveau 10, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau Apprenti en lien avec l'élément eau parmi la liste suivante: [Allié planaire](/grimoire/allie-planaire), [Brume d'antre](/grimoire/brume-d-antre), [Cône de froid](/grimoire/cone-de-froid), [Mur de glace](/grimoire/mur-de-glace), [Tentacules noires](/grimoire/tentacules-noires) et  [Unification du corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
+D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
+
+### Sourcière
+**En Khern : Sourser**  
+À partir du niveau 13, la Dorshaïre peut localiser une source d'eau potable dans un rayon de 1 lieue (4 km) par point de bonus de Sagesse (Minimum 1).   
+
+### Connaissances océaniques    
+**En Khern : Anaoudegezh'meurvor**  
+À partir du niveau 14, la Dorshaïre apprend et peut lancer de manière innée deux sorts de niveau Adepte en lien avec l'élément eau parmi la liste suivante: [Aiguilles glaciales](/grimoire/aiguiles-glaciales), [Embruns prismatiques](/grimoire/embruns-prismatiques), [Larme de glace](/grimoire/larme-de-glace), [Mur de glace](/grimoire/mur-de-glace), [Tentacules noires](/grimoire/tentacules-noires) et  [Unification du corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau). Les sorts choisis ne nécessitent jamais d'élément matériel autre que de l'eau et sont considérés comme appartenant à la Foi.    
+D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
+
+### langue primordiale
+**En Khern : Yezh'orin**  
+À partir du niveau 15, la Dorshaïre connait la langue primordiale, celle de tous les élémentaires et peut ainsi communiquer avec les créatures aquatiques.    
 
 ### Véritable Dorshaïre  
 **En Khern : Dorshaïre**  
