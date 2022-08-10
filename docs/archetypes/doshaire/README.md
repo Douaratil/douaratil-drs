@@ -107,7 +107,7 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 
 ### langue primordiale
 **En Khern : Yezh'orin**  
-À partir du niveau 15, la Dorshaïre connait la langue primordiale, celle de tous les élémentaires et peut ainsi communiquer avec les créatures aquatiques.   
+À partir du niveau 15, la Dorshaïre connait la langue aquatique, la version eau de la langue primordiale, celle de tous les élémentaires et peut ainsi communiquer avec les créatures aquatiques.   
 
 ### Connaissances panocéaniques    
 **En Khern : Anaoudegezh'panmeurvor**  
