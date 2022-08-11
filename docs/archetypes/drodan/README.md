@@ -17,6 +17,10 @@ title: Drodan
 |**19**|[Compagnon animal Aigle](#compagnon-animal-aigle)|
 |**20**|[Archidruide](#archidruide), [Véritable Drodan](#veritable-drodan)
 
+## Drodan
+&nbsp;
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodanm.png)](https://www.douaratil.fr/illustrations/archetype/drodan.jpg)  
+
 ## Aptitudes d'Archétype
 En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -113,7 +117,10 @@ L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour rési
 ### Archidruide  
 **En Meldète : Archesgobaeth**  
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.  
-De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de Drodan ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.
+De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de Drodan ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
+
+&nbsp;
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan2m.png)](https://www.douaratil.fr/illustrations/archetype/drodan2.jpg)  
 
 ### Véritable Drodan  
 **En Meldète : Drodan**  

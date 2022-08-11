@@ -21,7 +21,7 @@ title: Ior
 
 ## Ior
 &nbsp;
-[![Ior](https://www.douaratil.fr/illustrations/archetype/iorm.png)](https://www.douaratil.fr/illustrations/archetype/ior.jpg)  
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior1m.png)](https://www.douaratil.fr/illustrations/archetype/ior1.jpg)  
 
 ## Aptitudes d'Archétype
 En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -71,6 +71,9 @@ De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au d�
 ### Toujours debout  
 **En Meldète : An-còmhnaidh’seffyl**  
 A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.  
+
+&nbsp;
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior2m.png)](https://www.douaratil.fr/illustrations/archetype/ior2.jpg)  
 
 ### Cri sauvage  
 **En Meldète : Eigh’Gwyllt**  

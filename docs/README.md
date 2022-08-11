@@ -15,6 +15,13 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 ## Mise à jour 138
+- Ajout illustration de l'Archétype [Dall Dawnser](/archetypes/dall-dawnser)
+- Changement de l'illustration de l'Archétype [Bhegelm](/archetypes/bhegelm)
+- Changement de l'illustration de l'Archétype [Drodan](/archetypes/drodan)
+- Ajout illustration de l'Archétype [Ior](/archetypes/ior)
+- Ajout illustration de l'Archétype [Jargl](/archetypes/jargl)
+- Ajout illustration de l'Archétype [Jörghal](/archetypes/jorghal)
+- Ajout illustration de l'Archétype [Legatos](/archetypes/legatos)
 - Ajout illustration de la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage)
 - Ajout illustration de la section [lancer des sorts](/lancer-des-sorts)
 - Ajout illustration de la section [personnalités](/personnalite-et-historique)

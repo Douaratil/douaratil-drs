@@ -31,9 +31,9 @@ Int (Valeur de la Dorshaïre) Sag (Valeur de la Dorshaïre) Cha (Valeur de la Do
 **Immunité contre les états** À terre Empoigné, Empoisonné, Entravé, Épuisé, Inconscient Paralysé et Pétrifié  
 **Sens** vision dans le noir 18 m, Perception passive 10  
 **Langues** aquatique    
-**Dangerosité** 18
-Environnements : Mer / Océan, Plans élémentaires  
-Types de donjons : Caverne sous-marine  
+**Dangerosité** 18  
+**Environnements** : Mer / Océan, Plans élémentaires  
+**Types de donjons** : Caverne sous-marine  
 
 
 &nbsp;

@@ -52,6 +52,9 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 **En Melg : Mastraë'hackad**  
 À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)
 
+&nbsp;
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal2m.png)](https://www.douaratil.fr/illustrations/archetype/jorghal2.jpg)  
+
 ### Attaque supplémentaire  
 **En Melg : Yttelgatk**  
 À partir du niveau 7, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
@@ -80,6 +83,9 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 **En Melg : Maout'Mojenn**  
 Au niveau 19, vos incarnez le champion mythique.  
 Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
+
+&nbsp;
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal3m.png)](https://www.douaratil.fr/illustrations/archetype/jorghal3.jpg)  
 
 ### Véritable Jörghal
 **En Melg : Melg**  

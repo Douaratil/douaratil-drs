@@ -26,6 +26,10 @@ title: Dall Dawnser
 |**19**|[étreinte mortelle](#etreinte-mortelle)|
 |**20**|[Perfection](#perfection), [Véritable Dall Dawnser](#veritable-dall-dawnser)|
 
+## Dall Dawnser
+&nbsp;
+[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnserm.png)](https://www.douaratil.fr/illustrations/archetype/dalldawnser.jpg)  
+
 ## Aptitudes d'Archétype  
 En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
