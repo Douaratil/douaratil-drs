@@ -18,7 +18,10 @@ Les personnages de la voie de la magie, contrairement aux autres voies **ajouten
 
 ### Apprendre des rituels de niveau supérieur
 Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
-Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**
+Pour chaque sort, le processus d’apprentissage vous prend du temps et coûte de l’argent **(le coût d’apprentissage en or et en temps pour une personne qui n’emprunte pas la voie de la magie est plus important. Il est doublé pour la voie de l'ombre et est triplé pour la voie des Armes).**  
+
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/parchemin01m.png)](https://www.douaratil.fr/illustrations/regles/parchemin01.jpg)
 
 
 ### Coût des Sorts
@@ -59,6 +62,9 @@ Certains sorts, comme [_projectile magique_](/grimoire/projectile-magique/) et [
 ## Les rituels
 Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. **Cette version du sort demande 10 minutes de plus et utilise la moitié du pouvoir normalement requis. Le sort ne peut être lancée à plus haut niveau.**
 
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/grimoire04m.png)](https://www.douaratil.fr/illustrations/regles/grimoire04.jpg)
+
 ## Enchantement des composantes matérielles.
 Certains sorts font appel à des composantes matérielles qui sont réutilisées à chaque lancement de sort. Ces composantes doivent être enchantées pour permettre au sort d'agir. Le processus d'enchantement est plus long et plus difficile qu'un simple [lancer de sort](/lancer-des-sorts/lancer-un-sort).Cela demande un investissement en temps et en pouvoir plus important qui nécessite un nombre de test (la plus part du temps d'Arcanes, de Religion ou de Nature) dépendant du niveau du sort.  
 La règle commune permet de se référer au tableau ci-dessous. Le coût par test dépend du coût du sort.
@@ -74,6 +80,9 @@ La règle commune permet de se référer au tableau ci-dessous. Le coût par tes
 |Maître|18|12 heures|6|35|
 
 Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF). Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
+
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/pilon01m.png)](https://www.douaratil.fr/illustrations/regles/pilon01.jpg)
 
 
 ## Lancer un sort
@@ -94,6 +103,9 @@ Lancer un sort n'engage pas une réussite automatique. La magie est un art diffi
 Il est possible d'autre part de moduler la difficulté en doublant le nombre de points de pouvoir (PM ou PF) comme pour l'enchantement des composantes matérielles. Cela a pour effet de diminuer la difficulté d'un palier (passer d'Apprenti à Disciple par exemple).
 
 Chaque description de sort présenté dans le chapitre [_Grimoire_](/grimoire/) commence par un bloc d'information : le nom du sort, son niveau, son école, son temps d'incantation, sa portée, ses composantes et sa zone d'effet. Le reste de la section décrit les effets particuliers du sort.
+
+&nbsp;
+[![Personnalités](https://www.douaratil.fr/illustrations/regles/mage02m.png)](https://www.douaratil.fr/illustrations/regles/mage02.jpg)
 
 ### Utiliser la Magie sans en posséder les prérequis.  
 
