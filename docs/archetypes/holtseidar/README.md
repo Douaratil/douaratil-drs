@@ -27,7 +27,7 @@ En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires  
-**Armes** : armes courantes, épée longue, arc long, arc composite  
+**Armes** : Gourdin, marteau léger, masse d'arme, épée longue, arc long, arc composite  
 **Outils** : aucun  
 **Jets de sauvegarde** : Dextérité, sagesse  
 **Compétences** : choisissez trois compétences au choix  

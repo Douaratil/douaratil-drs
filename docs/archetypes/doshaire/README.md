@@ -32,7 +32,7 @@ En tant que Doshaïre, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises  
 **Armures** :  armures légères  
-**Armes** : armes courantes  
+**Armes** : bâton, dague, gourdin, javeline, masse d'arme, serpe, bolas, fronde.    
 **Outils** : aucun   
 **Jets de sauvegarde** : Intelligence, Sagesse  
 **Compétences** : choisissez trois compétences parmi : Arcane, Médecine, Nature, Perspicacité, Religion, Survie  

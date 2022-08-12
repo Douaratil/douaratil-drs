@@ -8,6 +8,165 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## Mise à jour 135
+**Nouvelles**:  
+Trêve estivale oblige, bonnes vacances et bon jeu.  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 29 juillet 2022_
+§§§
+
+
+## Mise à jour 134
+**Modifications**:  
+- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc).  
+- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon).   
+- Avancement du livre des rituels
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 26 juillet 2022_
+§§§
+
+## Mise à jour 133
+**Modifications**:  
+- Mise à jour de [Knut Svenson](/bestiaire/knut-svenson).  
+- Mise à jour de [Jahir Murad](/bestiaire/jahir-murad).  
+- Mise à jour de [Ioen Paetus](/bestiaire/ioen-paetus).  
+- Mise à jour de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen).
+- Mise à jour de [Moira Dornglas](/bestiaire/moira-dornglas).  
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).    
+- Fin de la campagne des chroniques du loup gris, merci à tous et à toutes!    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 25 juillet 2022_
+§§§
+
+## Mise à jour 132
+**Modifications**:  
+- Mise à jour des [chroniques](/chroniques/).  
+- Mise à jour de [Shine Hame](/bestiaire/shine-hame) et de [Yan Zin](/bestiaire/yan-zin).
+
+**PNJ**:  
+- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Farid ibn Shakir.  
+
+**Atlas**:   
+- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Samd'ji, Jazirat'ebkaria.
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juillet 2022_
+§§§
+
+## Mise à jour 131
+**Chroniques**:   
+- Mise à jour des [chroniques](/chroniques/).  
+
+**Modifications**:  
+- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)
+
+**PNJ**:  
+- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Ashur Begaya, Fahim ibn Tabit, Hamid ibn Sayyid, Hamda Bin Atiq.  
+
+**Compagnons:**  
+- Ajout du compagnon de Gwion, [Jahir Murad](/bestiaire/jahir-murad)
+
+**Atlas**:  
+- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Albawad'aljanub, Al'raya, Asnan'eimlaqa, Baj'hajari.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 19 juillet 2022_
+§§§
+
+## Mise à jour 130
+**Chroniques**:   
+- Mise à jour des [chroniques](/chroniques/).  
+
+**PNJ**:  
+- Ajout de divers [PNJ](/PNJ) dans la section "nordique".  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 juillet 2022_
+§§§
+
+## Mise à jour 129
+**Modifications**:  
+- Mise à jour de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
+- Correction de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).
+
+**PNJ**:  
+- Ajout d'une section des [PNJ](/PNJ) pour les retirer du bestiaire et simplifier leur gestion. Libre à vous d'aller visiter (et de faire la part de ce que votre personnage connaît). Cette section s'étoffera rapidement.    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 17 juillet 2022_
+§§§
+
+
+## Mise à jour 128
+**Modifications**:  
+- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
+
+**Bestiaire/PJ**:  
+- Ajout de [Ioen Paetus](/bestiaire/ioen-paetus).  
+
+**Nouvelles**:   
+Un crash du système m'a fait perdre un peu de temps sur le déploiement de nouvelles mises à jour. J'espère pouvoir rattraper le retard. Le travail sur le livre de Magie va reprendre ainsi que la création d'écran pour masteriser les parties de Douaratil.    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 juillet 2022_
+§§§
+
+## Mise à jour 127
+**Modifications**:  
+- Mise à jour et test des règles de [bataille](/batailles).  
+- Nombreuses corrections du site.    
+- Mise à jour des personnages en vue de la partie du 23/07.  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 12 juillet 2022_
+§§§
+
+## Mise à jour 126
+**Modifications**:  
+- Ajout des [Tables de maladresses](/tables-des-maladresses).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 8 juillet 2022_
+§§§
+
+## Mise à jour 125
+**Bestiaire/PJ**:  
+- Ajout de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) au bestiaire.
+
+**Archétype**:  
+- Ajout d'un nouvel archétype, la [Heilari](/archetypes/heilari).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 juillet 2022_
+§§§
+
 ## Mise à jour 124
 
 - Ajout de [Nadira Bahati](/bestiaire/nadira-bahati) au bestiaire.

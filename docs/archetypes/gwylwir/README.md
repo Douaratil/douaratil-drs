@@ -31,7 +31,7 @@ En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires, boucliers  
-**Armes** : armes courantes, arc long, arc composite  
+**Armes** : Dague, hachette, javeline, arc court, arc long, arc composite  
 **Outils** : aucun  
 **Jets de sauvegarde** : Force, Dextérité  
 **Compétences** : choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie  

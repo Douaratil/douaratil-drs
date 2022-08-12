@@ -79,7 +79,7 @@ _**Historique rebouteux:**_.
 **Équipement**. Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.  
 **Aptitude**. [Aimé et Détesté](/personnalite-et-historique/#aime-et-deteste)     
 
-_**Maîtrises:**_. glaive, hache, armes courantes (Double maîtrise pour dague, fléchette, frondes, bâtons), armure légères, accessoire de déguisement, jeu de dés, outils d'alchimie, outils d'herboristerie.  
+_**Maîtrises:**_. glaive, hache, Bâton, dague, javeline, serpe, fronde (Double maîtrise pour dague, fronde, bâton), armure légères, accessoire de déguisement, jeu de dés, outils d'alchimie, outils d'herboristerie.  
 
 _**Marques de l'Ambeanamos:**_.  *(Ambeanamos)* Tâche de vin sur la clavicule droite, cheveux blancs, yeux blancs, doigts crochuts, bossu,Joue marquée au fer rouge, scarification sur le front étoile à 6 branches. **Gwion a un désavantage pour les compétences suivantes : acrobatie, athlétisme, escamotage, perception, persuasion. Et un avantage pour la compétence Intimidation**   
 
@@ -289,6 +289,6 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 25/07/2022
+Mise à jour du 12/08/2022
 
 §§§

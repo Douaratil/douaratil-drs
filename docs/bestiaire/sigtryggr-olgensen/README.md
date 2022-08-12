@@ -80,9 +80,9 @@ category: "PJ"
 **Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.  
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#marque-de-la-mort)  
 
-_**Maîtrises:**_. armures légères, armes courantes, épée longue, rapière, épée courte, hache, pique (Double Maîtrise armes courantes, épée longue, hached e bataille), outils de voleur, flûte, tambourin.  
+_**Maîtrises:**_. armures légères, armes courantes, épée longue, rapière, épée courte, hache, pique (Double Maîtrise Dague, hachette, javeline marteau léger, masse d'armes, arc court, épée longue, hache de bataille), outils de voleur, flûte, tambourin.  
 
-_**Voie des armes & Skell**_. Rudolf est niveau 13 dans la voie des armes et Archétype Skell.
+_**Voie des armes & Skell**_. Sigtryggr est niveau 13 dans la voie des armes et Archétype Skell.
 
 _**Expertise**_.  *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.  
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **acrobatie, athlétisme, perception, survie**       

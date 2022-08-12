@@ -28,8 +28,8 @@ title: Legatos
 En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
-**Armures** :  armures légères  
-**Armes** : armes courantes  
+**Armures** :  armures légères, armures intermédiaires  
+**Armes** : Dagues, javeline, épée courte, épée longue, fouet, trident, filet.    
 **Outils** :Outils de Calligraphie    
 **Jets de sauvegarde** : Sagesse, Charisme  
 **Compétences** : choisissez trois compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Médecine, Religion et Supercherie  

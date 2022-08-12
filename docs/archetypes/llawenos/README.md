@@ -32,7 +32,7 @@ En tant que Llawenos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires  
-**Armes** : armes courantes, épée longue, Hache de bataille  
+**Armes** : Dague, hachette, javelines, arc court, fronde, épée longue, Hache de bataille  
 **Outils** : Deux instruments de musique de votre choix    
 **Jets de sauvegarde** : Dextérité, Charisme  
 **Compétences** : choisissez trois compétences au choix  

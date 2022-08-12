@@ -34,7 +34,7 @@ source: "Elric"
 En tant que Zhongdhou, vous bénéficiez des aptitudes d'Archétype suivantes.   
 ## Maîtrises   
 **Armures** : armures légères  
-**Armes** : armes courantes  
+**Armes** : Dague, serpe, fléchettes  
 **Outils** : au choix : outil d’empoisonneur, outil d’alchimiste ou outil d’herboriste  
 **Jets de sauvegarde** : Constitution, Sagesse  
 **Compétences** : choisissez deux compétences au choix parmi : arcane, discrétion, médecine, nature, perception, survie, perspicacité  

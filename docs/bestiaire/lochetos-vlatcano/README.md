@@ -78,7 +78,7 @@ _**Historique:**_ Limier.
 **Équipement**. Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
 **Aptitude**. [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
 
-_**Maîtrises:**_. épée longue, rapière, épée courte, hache de bataille, glaive, hache, Armes courantes & épée longue (Double maîtrise), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
+_**Maîtrises:**_. Armes courantes, Hache de bataille  & épée longue (Double maîtrise : Dague, hachette, javelines, arc court, fronde, épée longue et hache de bataille), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 
 _**Voie des Ombres & Llawenos**_. Lôchetos est niveau 16 dans la voie des Ombres et Archétype Llawenos.  
 
@@ -255,4 +255,4 @@ Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce
 &nbsp;
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
 
-Mise à jour le 13/07/2022
+Mise à jour le 12/08/2022

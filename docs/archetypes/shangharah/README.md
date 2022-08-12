@@ -31,7 +31,7 @@ En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères  
-**Armes** : armes courantes  
+**Armes** : Bâton, gourdin, masse d'armes, massue, fronde   
 **Outils** : aucun  
 **Jets de sauvegarde** : Sagesse, Charisme  
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Médecine, Nature, Religion et Supercherie  

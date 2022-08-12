@@ -28,7 +28,7 @@ En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires, boucliers  
-**Armes** : armes courantes, épée courte, épée longue  
+**Armes** : Gourdin, hachette marteau léger, masse d'armes, bolas, épée courte, épée longue  
 **Outils** : aucun  
 **Jets de sauvegarde** : Variable (voir allégeance bestiale)  
 **Compétences** : choisissez trois compétences parmi : Athlétisme, Acrobatie, Discrétion, Dressage, Intimidation, Nature, Perception et Survie  

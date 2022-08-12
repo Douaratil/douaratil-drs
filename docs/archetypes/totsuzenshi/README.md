@@ -35,7 +35,7 @@ En tant que Totsuzenshi, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères, armures intermédiaires.     
-**Armes** : Armes courantes, sabre.      
+**Armes** : Bâton, dague, arc court, arc composite, arc long, filet, fléchettes, fronde, sabre.      
 **Outils** : Outil d'empoisonneur.    
 **Jets de sauvegarde** : Dextérité, Constitution.  
 **Compétences** : choisissez trois compétences parmi les suivantes : Acrobatie, Athlétisme, Escamotage, Investigation, Perception et Représentation.  

@@ -30,7 +30,7 @@ En tant que Heilari, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères  
-**Armes** : armes courantes  
+**Armes** : Dague, gourdin, serpe, fronde    
 **Outils** : outil d'herboristerie    
 **Jets de sauvegarde** : Sagesse, Charisme  
 **Compétences** : choisissez trois compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Médecine, Nature, Religion et Supercherie  

@@ -29,7 +29,7 @@ En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères  
-**Armes** : armes courantes  
+**Armes** : Bâton, gourdin, marteau léger, masse d'arme, massue, fronde, marteau de guerre  
 **Outils** : aucun  
 **Jets de sauvegarde** : Sagesse, Constitution  
 **Compétences** : choisissez deux compétences parmi Athlétisme, Dressage, Intimidation, Nature, Perception, Religion et Survie  

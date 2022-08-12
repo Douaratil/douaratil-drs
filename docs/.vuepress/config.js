@@ -386,6 +386,11 @@ module.exports = {
                 icon: 'mdi-shuriken',
                 path: '/archetypes/totsuzenshi',
               },
+            {
+                title: "Vestaline",
+                icon: 'mdi-owl',
+                path: '/archetypes/vestaline',
+              },
           {
               title: "Vitnar",
               icon: 'mdi-celtic-cross',

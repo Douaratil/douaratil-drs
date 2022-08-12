@@ -14,7 +14,39 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 139
+**Modifications**:  
+Ajustement des archétypes concernant leur maîtrise des armes:
+- Modification archétype, l' [Alka'him](/archetypes/alkahim)  
+- Modification archétype, l' [Ambeanamos](/archetypes/ambeanamos)  
+- Modification archétype, le [Bhaner](/archetypes/bhaner)  
+- Modification archétype, le [Dall-Dawnser](/archetypes/dall-dawnser)  
+- Modification archétype, la [Doshaïre](/archetypes/doshaire)  
+- Modification archétype, la [Fürtane](/archetypes/furtane)  
+- Modification archétype, le [Gwylwir](/archetypes/gwylvir)  
+- Modification archétype, la [Heilari](/archetypes/heilari)  
+- Modification archétype, le [Herredyr](/archetypes/herredyr)
+- Modification archétype, le [Holtseidar](/archetypes/holtseidar)
+- Modification archétype, le [Legatos](/archetypes/legatos)
+- Modification archétype, le [Lawenos](/archetypes/lawenos)
+- Modification archétype, le [Magios](/archetypes/magios)
+- Modification archétype, la [Shangharah](/archetypes/shangharah)
+- Modification archétype, le [Skell](/archetypes/skell)
+- Modification archétype, le [Totsuzenshi](/archetypes/totsuzenshi)
+- Modification archétype, le [Vitnar](/archetypes/vitnar)  
+- Modification archétype, le [Zhongdhou](/archetypes/zhongdhou)
+
+**Archétype**:  
+- Ajout d'un nouvel archétype, la [Vestaline](/archetypes/vestaline)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 12 Août 2022_
+§§§
+
 ## Mise à jour 138
+**Modifications**:  
 - Ajout illustration de l'Archétype [Dall Dawnser](/archetypes/dall-dawnser)
 - Changement de l'illustration de l'Archétype [Bhegelm](/archetypes/bhegelm)
 - Changement de l'illustration de l'Archétype [Drodan](/archetypes/drodan)
@@ -33,12 +65,17 @@ _le 11 Août 2022_
 §§§
 
 ## Mise à jour 137
+**Archétype**:  
 - Ajout d'un nouvel archétype, la [Doshaïre](/archetypes/doshaire), prêtresse khernaëe de l'eau.  
+
+**Sorts**:   
 - Ajout du sort [Bénédiction de l'eau](/grimoire/benediction-de-l-eau)   
 - Ajout du sort [Marche sur l'eau](/grimoire/marche-sur-l-eau)  
 - Ajout du sort [Eau réparatrice](/grimoire/eau-reparatrice)  
 - Ajout du sort [Eau maudite](/grimoire/eau-maudite)  
-- Ajout du sort [Incarnation de l'eau](/grimoire/incarnation-de-l-eau)
+- Ajout du sort [Incarnation de l'eau](/grimoire/incarnation-de-l-eau)  
+
+**Modifications**:  
 - Ajout illustration de l'Archétype [Fürtane](/archetypes/furtane)
 - Ajout illustration de l'Archétype [Heilari](/archetypes/heilari)
 - Ajout illustration de l'Archétype [Legatos](/archetypes/legatos)
@@ -54,8 +91,13 @@ _le 10 Août 2022_
 §§§
 
 ## Mise à jour 136
+**Archétype**:  
 - Ajout d'un nouvel archétype, le [Totsuzenshi](/archetypes/totsuzenshi).   
+
+**Modifications**:  
 - Ajout d'illustration à l'archétype du [Sohoten](/archetypes/sohoten).  
+
+**Nouvelles**:  
 De nombreuses corrections ont aussi été effectuées sur le site. Enfin, Elric s'essaie à la discipline de Narrateur pour Douaratil.    
 
 Bon jeu.     
@@ -64,139 +106,7 @@ _**Olivier**_,
 _le 8 Août 2022_
 §§§
 
-## Mise à jour 135
-Trêve estivale oblige, bonnes vacances et bon jeu.  
 
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 29 juillet 2022_
-§§§
-
-
-## Mise à jour 134
-
-- Mise à jour de [Gwion Gornoc](/bestiaire/gwion-gornoc).  
-- Mise à jour de [Margs Maenkalon](/bestiaire/margs-maenkalon).   
-- Avancement du livre des rituels
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 26 juillet 2022_
-§§§
-
-## Mise à jour 133
-
-- Mise à jour de [Knut Svenson](/bestiaire/knut-svenson).  
-- Mise à jour de [Jahir Murad](/bestiaire/jahir-murad).  
-- Mise à jour de [Ioen Paetus](/bestiaire/ioen-paetus).  
-- Mise à jour de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen).
-- Mise à jour de [Moira Dornglas](/bestiaire/moira-dornglas).  
-- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).    
-- Fin de la campagne des chroniques du loup gris, merci à tous et à toutes!    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 25 juillet 2022_
-§§§
-
-## Mise à jour 132
-
-- Mise à jour des [chroniques](/chroniques/).  
-- Mise à jour de [Shine Hame](/bestiaire/shine-hame) et de [Yan Zin](/bestiaire/yan-zin).
-- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Farid ibn Shakir.  
-- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Samd'ji, Jazirat'ebkaria.
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 21 juillet 2022_
-§§§
-
-## Mise à jour 131
-
-- Mise à jour des [chroniques](/chroniques/).  
-- Mise à jour de [Sawrina Semiramis](/bestiaire/sawrina-semiramis)
-- Ajout de divers [PNJ](/PNJ/shahims) dans la section "shahim": Ashur Begaya, Fahim ibn Tabit, Hamid ibn Sayyid, Hamda Bin Atiq.  
-- Ajout du compagnon de Gwion, [Jahir Murad](/bestiaire/jahir-murad)
-- Développement de l'atlas de Douaratil dans la section [Shahia](/atlas-du-monde/shahia) avec l'ajout des toponymes Albawad'aljanub, Al'raya, Asnan'eimlaqa, Baj'hajari.
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 19 juillet 2022_
-§§§
-
-## Mise à jour 130
-
-- Mise à jour des [chroniques](/chroniques/).  
-- Ajout de divers [PNJ](/PNJ) dans la section "nordique".  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 18 juillet 2022_
-§§§
-
-## Mise à jour 129
-
-- Mise à jour de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
-- Correction de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).
-- Ajout d'une section des [PNJ](/PNJ) pour les retirer du bestiaire et simplifier leur gestion. Libre à vous d'aller visiter (et de faire la part de ce que votre personnage connaît). Cette section s'étoffera rapidement.    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 17 juillet 2022_
-§§§
-
-
-## Mise à jour 128
-
-- Mise à jour de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
-- Ajout de [Ioen Paetus](/bestiaire/ioen-paetus).  
-Un crash du système m'a fait perdre un peu de temps sur le déploiement de nouvelles mises à jour. J'espère pouvoir rattraper le retard. Le travail sur le livre de Magie va reprendre ainsi que la création d'écran pour masteriser les parties de Douaratil.    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 15 juillet 2022_
-§§§
-
-## Mise à jour 127
-
-- Mise à jour et test des règles de [bataille](/batailles).  
-- Nombreuses corrections du site.    
-- Mise à jour des personnages en vue de la partie du 23/07.  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 12 juillet 2022_
-§§§
-
-## Mise à jour 126
-
-- Ajout des [Tables de maladresses](/tables-des-maladresses).
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 8 juillet 2022_
-§§§
-
-## Mise à jour 125
-
-- Ajout de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) au bestiaire.
-- Ajout d'un nouvel archétype, la [Heilari](/archetypes/heilari).
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 7 juillet 2022_
-§§§
 
 
 

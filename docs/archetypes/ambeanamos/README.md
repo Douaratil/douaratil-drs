@@ -26,7 +26,7 @@ En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** : armures légères  
-**Armes** : armes courantes  
+**Armes** : Bâton, dague, javeline, serpe, fronde   
 **Outils** : aucun  
 **Jets de sauvegarde** : Sagesse, Charisme  
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Intimidation, Investigation, Nature, Religion et Supercherie  

@@ -30,7 +30,7 @@ En tant que Magios, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  toutes les armures, boucliers  
-**Armes** : armes courantes, épée courte, glaive (épée longue)  
+**Armes** : Dague, javeline, arc court, épée courte, glaive (épée longue)  
 **Outils** :Outils d'alchimie  
 **Jets de sauvegarde** : Intelligence, Charisme  
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion  
@@ -77,7 +77,7 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 
 ### Troisième attaque  
 **En Alcante : Tertio Impetos**  
-À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation. 
+À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
 
 ### Orateur suprême  
 **En Alcante : Oratori**  

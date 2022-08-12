@@ -30,7 +30,7 @@ En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises  
 **Armures** :  armures légères  
-**Armes** : armes courantes, épée courte  
+**Armes** : Dague, hachette, serpe, épée courte  
 **Outils** : aucun  
 **Jets de sauvegarde** : Dextérité, Constitution  
 **Compétences** : choisissez trois compétences parmi : Acrobatie, Athlétisme, Discrétion, Dressage, Nature, Perception, Religion et Survie  

@@ -79,7 +79,7 @@ category: "PJ"
 **Aptitude** : [Mouches des rues](/personnalite-et-historique/#mouches-des-rues)    
 
 
-_**Maîtrises:**_. Armes courantes, (Double maîtrise pour le bâton, la dague, flechettes, fronde, l'épée courte, l'épée longue), armure légère, armure intermédiaire, armure lourde, déguisement, jeu de dés.  
+_**Maîtrises:**_. Dague, javeline, arc court, (Double maîtrise pour la dague, l'épée courte, l'épée longue), armure légère, armure intermédiaire, armure lourde, déguisement, jeu de dés.  
 
 _**Voie de la Magie & Magios**_. Ioen Paetus est niveau 16 dans la voie de la Magie et Archétype Magios.  
 
@@ -130,10 +130,10 @@ _Touché_ : 2d6+5 dégâts tranchants .
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+5 dégâts tranchants (portée 6/18).   
 
-_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +16 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+3)  
 
-_**Arc court(••)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
+_**Arc court(•)**_. _Attaque d'arme à distance_ : +11 pour toucher, portée 24/96.  
 _Touché_ : 2d6+5 dégâts perforants .
 
 

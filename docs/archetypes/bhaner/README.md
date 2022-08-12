@@ -32,7 +32,7 @@ En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  armures légères  
-**Armes** : armes courantes, épée longue, épée courte, arc long
+**Armes** : Bâton, dague, hachette, javeline, arc court, épée longue, épée courte, arc long
 **Outils** : trois instruments de musique de votre choix  
 **Jets de sauvegarde** : Dextérité, Charisme  
 **Compétences** : choisissez trois compétences au choix
