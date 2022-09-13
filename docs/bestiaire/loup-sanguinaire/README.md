@@ -28,6 +28,9 @@ environments:
   - Montagnes
 
 ---
+## Loup sanguinaire
+&nbsp;
+[![Loup sanguinaire](https://www.douaratil.fr/illustrations/bete/loupsanguinairem.png)](https://www.douaratil.fr/illustrations/bete/loupsanguinaire.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

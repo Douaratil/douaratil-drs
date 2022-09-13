@@ -29,6 +29,9 @@ environments:
   - Montagnes
 
 ---
+## Loup
+&nbsp;
+[![Loup](https://www.douaratil.fr/illustrations/bete/loupm.png)](https://www.douaratil.fr/illustrations/bete/loup.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

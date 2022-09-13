@@ -14,6 +14,25 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 140
+**Nouvelles**:  
+Après une période de congés qui a été tout de même productive, nous reprenons cette nouvelle rentrée avec entrain. Je suis sûr que nos projets se réaliseront avec entre autre les versions papiers, mais aussi beaucoup de créativité avec de nouveaux Archétypes, de nouvelles créatures et de nouveaux sortilèges. Ce sera aussi l'occasion de continuer à explorer des aspects inconnus de Douaratil.  
+
+**Modifications**  
+- Ajout illustration du [lézard](/bestiaire/lezard)  
+- Ajout illustration du [lion](/bestiaire/lion)  
+- Ajout illustration du [loup](/bestiaire/loup)  
+- Ajout illustration du [loup des monts du Menezlatar](/bestiaire/loup-des-monts-du-menezlatar)  
+- Ajout illustration du [loup des plaines de Thyria](/bestiaire/loup-des-plaines-de-thyria)
+- Ajout illustration du [loup sanguinaire](/bestiaire/loup-sanguinaire)    
+  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 12 septembre 2022_
+§§§
+
 ## Mise à jour 139
 **Modifications**:  
 Ajustement des archétypes concernant leur maîtrise des armes:
