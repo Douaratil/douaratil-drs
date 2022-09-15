@@ -27,6 +27,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Mastiff
+&nbsp;
+[![Mastiff](https://www.douaratil.fr/illustrations/bete/mastiffm.png)](https://www.douaratil.fr/illustrations/bete/mastiff.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

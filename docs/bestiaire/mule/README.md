@@ -26,6 +26,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Mule
+&nbsp;
+[![Mule](https://www.douaratil.fr/illustrations/bete/mulem.png)](https://www.douaratil.fr/illustrations/bete/mule.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

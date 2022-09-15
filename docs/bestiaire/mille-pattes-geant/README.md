@@ -29,6 +29,9 @@ dungeonTypes:
   - Caverne naturelle
 
 ---
+## Mille pattes géant
+&nbsp;
+[![Mille pattes géant](https://www.douaratil.fr/illustrations/bete/millepattesgeantm.png)](https://www.douaratil.fr/illustrations/bete/millepattesgeant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions

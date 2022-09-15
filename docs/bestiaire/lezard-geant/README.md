@@ -29,6 +29,9 @@ dungeonTypes:
   - Caverne sous-marine
 
 ---
+## Lézard géant  
+&nbsp;
+[![lézard géant](https://www.douaratil.fr/illustrations/bete/lezardgeantm.png)](https://www.douaratil.fr/illustrations/bete/lezardgeant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14  
 ## Actions
