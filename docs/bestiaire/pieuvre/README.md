@@ -33,6 +33,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Pieuvre
+&nbsp;
+[![Pieuvre](https://www.douaratil.fr/illustrations/bete/pieuvrem.png)](https://www.douaratil.fr/illustrations/bete/pieuvre.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

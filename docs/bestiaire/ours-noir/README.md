@@ -25,6 +25,9 @@ languages:
   - ""
 
 ---
+## Ours noir
+&nbsp;
+[![Ours noir](https://www.douaratil.fr/illustrations/bete/oursnoirm.png)](https://www.douaratil.fr/illustrations/bete/oursnoir.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

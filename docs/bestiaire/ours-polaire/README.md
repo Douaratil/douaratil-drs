@@ -28,6 +28,9 @@ environments:
   - Bois / Forêt
 
 ---
+## Ours polaire
+&nbsp;
+[![Ours polaire](https://www.douaratil.fr/illustrations/bete/ourspolairem.png)](https://www.douaratil.fr/illustrations/bete/ourspolaire.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

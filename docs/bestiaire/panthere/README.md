@@ -31,6 +31,9 @@ environments:
   - Mangrove / Marécage
 
 ---
+## Panthère
+&nbsp;
+[![Panthère](https://www.douaratil.fr/illustrations/bete/pantherem.png)](https://www.douaratil.fr/illustrations/bete/panthere.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
