@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Plésiosaure
+&nbsp;
+[![Plésiosaure](https://www.douaratil.fr/illustrations/bete/plesiosaurem.png)](https://www.douaratil.fr/illustrations/bete/plesiosaure.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

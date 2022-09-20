@@ -25,6 +25,9 @@ dungeonTypes:
   - Caverne aménagée
 
 ---
+## Rat géant
+&nbsp;
+[![Rat géant](https://www.douaratil.fr/illustrations/bete/ratgeantm.png)](https://www.douaratil.fr/illustrations/bete/ratgeant.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
