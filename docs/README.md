@@ -16,7 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 143
 **Modifications**  
-- Ajout illustration de la [pieuvre géante](/bestiaire/piuvre-geante)  
+- Ajout illustration de la [pieuvre géante](/bestiaire/pieuvre-geante)  
 - Ajout illustration du [piranha](/bestiaire/piranha)  
 - Ajout illustration du [plésiosaure](/bestiaire/plesiosaure)  
 - Ajout illustration du [poney](/bestiaire/poney)  
