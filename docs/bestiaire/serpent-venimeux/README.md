@@ -28,6 +28,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Serpent venimeux
+&nbsp;
+[![Serpent venimeux](https://www.douaratil.fr/illustrations/bete/serpentvenimeuxm.png)](https://www.douaratil.fr/illustrations/bete/serpentvenimeux.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## Actions

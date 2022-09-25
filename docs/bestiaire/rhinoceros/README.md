@@ -24,6 +24,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Rhinocéros
+&nbsp;
+[![Rhinocéros](https://www.douaratil.fr/illustrations/bete/rhinocerosm.png)](https://www.douaratil.fr/illustrations/bete/rhinoceros.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

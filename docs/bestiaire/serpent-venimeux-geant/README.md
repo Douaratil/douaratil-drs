@@ -30,6 +30,9 @@ dungeonTypes:
   - Caverne sous-marine
 
 ---
+## Serpent venimeux géant
+&nbsp;
+[![Serpent venimeux géant](https://www.douaratil.fr/illustrations/bete/serpentvenimeuxgeantm.png)](https://www.douaratil.fr/illustrations/bete/serpentvenimeuxgeant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

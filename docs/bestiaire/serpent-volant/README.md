@@ -27,6 +27,9 @@ environments:
   - Montagnes
 
 ---
+## Serpent volant
+&nbsp;
+[![Serpent volant](https://www.douaratil.fr/illustrations/bete/serpentvolantm.png)](https://www.douaratil.fr/illustrations/bete/serpentvolant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

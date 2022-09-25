@@ -30,6 +30,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Requin géant
+&nbsp;
+[![Requin géant](https://www.douaratil.fr/illustrations/bete/requingeantm.png)](https://www.douaratil.fr/illustrations/bete/requingeant.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

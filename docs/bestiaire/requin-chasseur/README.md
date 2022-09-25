@@ -30,6 +30,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Requin chasseur
+&nbsp;
+[![Requin chasseur](https://www.douaratil.fr/illustrations/bete/requinchasseurm.png)](https://www.douaratil.fr/illustrations/bete/requinchasseur.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

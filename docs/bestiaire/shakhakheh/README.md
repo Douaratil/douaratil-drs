@@ -41,6 +41,9 @@ languages:
 telepathy: 36
 
 ---
+## Shakhakheh
+&nbsp;
+[![Shakhakheh](https://www.douaratil.fr/illustrations/fielon/shakhakhehm.png)](https://www.douaratil.fr/illustrations/fielon/shakhakheh.jpg)
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
