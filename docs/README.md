@@ -32,7 +32,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 24 septembre 2022_
+_le 26 septembre 2022_
 §§§
 
 ## Mise à jour 143

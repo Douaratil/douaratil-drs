@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines sous-marines
 
 ---
+## Serpent de mer
+&nbsp;
+[![Serpent de mer](https://www.douaratil.fr/illustrations/bete/serpentdemerm.png)](https://www.douaratil.fr/illustrations/bete/serpentdemer.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
