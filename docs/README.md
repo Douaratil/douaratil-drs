@@ -27,7 +27,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout illustration du [serpent venimeux géant](/bestiaire/serpent-geant)
 - Ajout illustration du [serpent volant](/bestiaire/serpent-volant)
 - Ajout illustration du [Shakhakheh](/bestiaire/shakhakheh)
-- Ajout illustration du [Shakor](/bestiaire/shakor)
+- Ajout illustration du [Shakhor](/bestiaire/shakhor)
 
 
 Bon jeu.     
