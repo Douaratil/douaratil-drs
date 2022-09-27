@@ -19,7 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout illustration du [requin de récif](/bestiaire/requin-de-recif)  
 - Ajout illustration du [requin chasseur](/bestiaire/requin-chasseur)  
 - Ajout illustration du [requin géant](/bestiaire/requin-geant)  
-- Ajout illustration du [rhinoceros](/bestiaire/rhinoceros)  
+- Ajout illustration du [rhinocéros](/bestiaire/rhinoceros)  
 - Ajout illustration du [serpent constricteur](/bestiaire/serpent-constricteur)
 - Ajout illustration du [serpent constricteur géant](/bestiaire/serpent-constricteur-geant)
 - Ajout illustration du [serpent  de mer](/bestiaire/serpent-de-mer)
@@ -33,7 +33,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 26 septembre 2022_
+_le 27 septembre 2022_
 §§§
 
 ## Mise à jour 143
