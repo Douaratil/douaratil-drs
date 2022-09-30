@@ -39,6 +39,9 @@ languages:
 telepathy: 36
 
 ---
+## Shokh
+&nbsp;
+[![Shokh](https://www.douaratil.fr/illustrations/fielon/shokhm.png)](https://www.douaratil.fr/illustrations/fielon/shokh.jpg) 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

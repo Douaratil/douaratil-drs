@@ -19,6 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Ajout illustration du [Shakhu](/bestiaire/shakhu)  
 - Ajout illustration du [Shasheskie](/bestiaire/shasheskie)  
 - Ajout illustration du [Shekhuii](/bestiaire/shekhuii)  
+- Ajout illustration du [Shokh](/bestiaire/shokh)  
 
 Bon jeu.     
 §§§ .text-right
