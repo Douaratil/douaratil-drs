@@ -53,6 +53,9 @@ languages:
 telepathy: 90
 
 ---
+## Shekhuii
+&nbsp;
+[![Shekhuii](https://www.douaratil.fr/illustrations/fielon/shekhuiim.png)](https://www.douaratil.fr/illustrations/fielon/shekhuii.jpg) 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 27            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 27      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
