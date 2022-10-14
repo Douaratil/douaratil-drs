@@ -47,6 +47,9 @@ languages:
 telepathy: 18
 
 ---
+## Shookash
+&nbsp;
+[![Shookash](https://www.douaratil.fr/illustrations/fielon/shookashm.png)](https://www.douaratil.fr/illustrations/fielon/shookash.jpg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
