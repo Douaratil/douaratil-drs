@@ -29,6 +29,9 @@ environments:
   - Mangrove / Marécage
 
 ---
+## Spinosaure
+&nbsp;
+[![Spinosaure](https://www.douaratil.fr/illustrations/bete/spinosaurem.png)](https://www.douaratil.fr/illustrations/bete/spinosaure.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

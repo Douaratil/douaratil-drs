@@ -129,7 +129,7 @@ Il faut attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) po
 
 ### Célérité du serpent
 **En Yotaï : Nousagi**  
-À partir du niveau 18, le Totsuzenshi augmente utiliser une capacité comparable au sort de [hâte](/grimoire/hate) sans test de magie ni dépense de points de Magie (PM).  
+À partir du niveau 18, le Totsuzenshi peut utiliser une capacité comparable au sort de [hâte](/grimoire/hate) sans test de magie ni dépense de points de Magie (PM).  
 Il peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (minimum 1) et doit ensuite attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 
 &nbsp;

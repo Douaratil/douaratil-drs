@@ -88,7 +88,7 @@ Au niveau 17, la Vestaline peut relancer n'importe quel type de [jet de sauvegar
 
 ### Imbattable    
 **En Alcante : Invicta**  
-Au niveau 18, la Vestaline a la réputation d'être imbattable. Elle devient [_résistante_](/combattre/# resistance-et-vulnerabilite-aux-degats) à tous les types de dégâts pendant une durée de 1d6 + bonus de Charisme.  
+Au niveau 18, la Vestaline a la réputation d'être imbattable. Elle devient [_résistante_](/combattre/#resistance-et-vulnerabilite-aux-degats) à tous les types de dégâts pendant une durée de 1d6 + bonus de Charisme.  
 
 ### Véritable Vestaline  
 **En Alcante : Vestaline**  
