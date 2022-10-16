@@ -18,16 +18,13 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 **Modifications**  
 - Modification archétype, le [Totsuzenshi](/archetypes/totsuzenshi)
 - Modification archétype, la [Vestaline](/archetypes/vestaline)
-- Ajout illustration du [Shookash](/bestiaire/shookash)  
-- Ajout illustration du [Shukhakh](/bestiaire/shukhakh)  
-- Ajout illustration de la [Shukkushe-Ikhushe](/bestiaire/shukkushe-ikhushe)  
-- Ajout illustration du [Singe géant](/bestiaire/singe-geant)  
-- Ajout illustration du [Spectre](/bestiaire/spectre)  
+- Ajout illustration du [Spinosaure](/bestiaire/spinosaure)  
+- Ajout illustration du [Spinosaure jeune](/bestiaire/spinosaure-jeune)
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 15 octobre 2022_
+_le 16 octobre 2022_
 §§§
 
 ## Mise à jour 146
