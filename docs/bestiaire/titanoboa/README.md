@@ -32,6 +32,9 @@ environments:
   - Jungle
 
 ---
+## Titanoboa
+&nbsp;
+[![Titanoboa](https://www.douaratil.fr/illustrations/bete/titanoboam.png)](https://www.douaratil.fr/illustrations/bete/titanoboa.jpg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
