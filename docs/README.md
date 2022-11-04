@@ -14,6 +14,19 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 148
+**Modifications**  
+Mise en ligne des nouveaux personnages joueurs de la campagne d'Elric.  
+- Ajout de [Dehus Dreanos](/bestiaire/dehus-dreanos)    
+- Ajout de [Namusa Koulouarn](/bestiaire/namusa-koulouarn)  
+- Ajout de [Samia Tiercelin](/bestiaire/samia-tiercelin)  
+- Ajout de [Sedida Kerbrat](/bestiaire/sedida-kerbrat)  
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 novembre 2022_
+§§§
+
 ## Mise à jour 147
 **Modifications**  
 - Modification archétype, le [Totsuzenshi](/archetypes/totsuzenshi)
