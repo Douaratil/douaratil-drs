@@ -16,6 +16,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 149
 **Sorts**:   
+- Ajout du sort [Foulure](/grimoire/foulure)  
 - Ajout du sort [Larmoiement](/grimoire/larmoiement)   
 - Ajout du sort [Mord langue](/grimoire/mord-langue)   
 - Ajout du sort [Rire irrésistible](/grimoire/rire-irresistible)   

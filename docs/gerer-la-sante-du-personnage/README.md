@@ -42,7 +42,7 @@ Le type de blessure est décrit dans la table de [coup critique](/tables-de-dega
 |hémorragie|10 jours| Mouvements réduits au minimum ou risque d'ouverture de la plaie avec hémorragie (2d6/rd) (JS CON DD 16)|22|
 |fracture|20 jours|Usage du membre impossible ou risque d'aggravation|28|
 
-Une personne blessée doit passer un nombre de[_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
+Une personne blessée doit passer un nombre de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 
 Certaines herbes et certains sorts ont des effets sur le rythme ou les conditions de guérison.  
 
