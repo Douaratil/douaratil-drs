@@ -25,6 +25,9 @@ movement:
 languages:
   - "Wesledh, Khern"
 ---
+## Sermazloth novice
+&nbsp;
+[![Sermazloth novice](https://www.douaratil.fr/illustrations/humanoide/sermazlothnovicem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothnovice.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

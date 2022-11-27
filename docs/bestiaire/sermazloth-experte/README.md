@@ -30,6 +30,9 @@ damageTypeImmunities:
 languages:
   - "Wesledh, Khern"
 ---
+## Sermazloth experte
+&nbsp;
+[![Sermazloth experte](https://www.douaratil.fr/illustrations/humanoide/sermazlothexpertem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothexperte.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -27,6 +27,9 @@ damageTypeResistances:
 languages:
   - "Wesledh, Khern"
 ---
+## Sermazloth disciple
+&nbsp;
+[![Sermazloth disciple](https://www.douaratil.fr/illustrations/humanoide/sermazlothdisciplem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothdisciple.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -27,6 +27,9 @@ damageTypeResistances:
 languages:
   - "Wesledh, Khern"
 ---
+## Sermazloth apprentie
+&nbsp;
+[![Sermazloth apprentie](https://www.douaratil.fr/illustrations/humanoide/sermazlothapprentiem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothapprentie.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

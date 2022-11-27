@@ -33,6 +33,9 @@ damageTypeImmunities:
 languages:
   - "Wesledh, Khern"
 ---
+## Sermazloth maîtresse
+&nbsp;
+[![Sermazloth maîtresse](https://www.douaratil.fr/illustrations/humanoide/sermazlothmaitressem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothmaitresse.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
