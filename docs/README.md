@@ -14,6 +14,21 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 151
+**Bestiaire**:  
+- Ajout du [Foragh](/bestiaire/foragh)  
+- Ajout de la [Heks miroir](/bestiaire/heks-miroir)  
+- Ajout de la [Heks sanglante](/bestiaire/heks-sanglante)   
+- Ajout du [Osgorth](/bestiaire/osgorth)  
+- Ajout du [Sasquatch](/bestiaire/sasquatch)  
+- Ajout du [Tormogrundth](/bestiaire/tormogrundth)  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 28 novembre 2022_
+§§§
+
 ## Mise à jour 150
 **Bestiaire**:  
 - Ajout de la [Heks rouge](/bestiaire/heks-rouge)   
@@ -29,7 +44,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 **Sorts**:   
 - Ajout du sort [Diarrhée](/grimoire/diarrhee)  
-- Ajout du sort [Eternurments](/grimoire/eternuements)  
+- Ajout du sort [Eternuements](/grimoire/eternuements)  
 - Ajout du sort [Fouet épineux](/grimoire/fouet-epineux)  
 - Ajout du sort [Fausse route](/grimoire/fausse-route)  
 - Ajout du sort [Somnambulisme](/grimoire/somnambulisme)   
