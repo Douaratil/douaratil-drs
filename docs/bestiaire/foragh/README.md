@@ -2,7 +2,7 @@
 title: "Foragh"
 type: "Géant"
 size: "TG"
-alignment: "Chaotique Bon"
+alignment: "Neutre Mauvais"
 challenge: "13"
 customHP: "255"
 abilityScores:
