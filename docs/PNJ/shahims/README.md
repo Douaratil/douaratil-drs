@@ -129,7 +129,7 @@ Hamda Bin Atiq est la Muaquar de la ville portuaire de Albawad'aljanub. Elle pos
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 79|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 24|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**   
-**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 _**Sabre vorpal +3 Al'manafadh**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+7 dégâts tranchant (3d6+7 à deux mains).  
 Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez un coup critique jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.    
