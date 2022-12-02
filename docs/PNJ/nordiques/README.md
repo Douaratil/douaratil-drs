@@ -25,7 +25,7 @@ Agowen Tenva Duenn connait les sorts suivants:
 **Novice** :  [Aide](/grimoire/aide), [Anathème](/grimoire/anatheme), [Arme magique](/grimoire/arme-magique), [Arme spirituelle](/grimoire/arme-spirituelle), [Confort](/grimoire/confort), [Druidisme](/grimoire/druidisme), [Eclat de bois](/grimoire/eclat-de-bois), [Flamme éternelle](/grimoire/flamme-eternelle), [Infestation](/grimoire/infestation), [Messager animal](/grimoire/messager-animal), [Prière de soin](/grimoire/priere-de-soin), [Rafale de vent](/grimoire/rafale-de-vent), [Soins des blessures](/grimoire/soins-des-blessures), [Vague tonnante](/grimoire/vague-tonnante).
 [Vision dans le noir](/grimoire/vision-dans-le-noir), [Zone de vérité](/grimoire/zone-de-verite)
 **Disciple**:  [Appel de la foudre](/grimoire/appel-de-la-foudre), [Bannissement](/grimoire/bannissement), [Confusion](/grimoire/confusion), [Communication avec les morts](/grimoire/communication-avec-les-morts), [Divination](/grimoire/divination), [Dominer une bête](/grimoire/dominer-une-bête), [Fusion dans la pierre](/grimoire/fusion-dans-la-pierre), [Mur de vent](/grimoire/mur-de-vent), [Nappe de brouillard](/grimoire/nappe-de-brouillard), [Protection contre la mort](/grimoire/protection-contre-la-mort), [Tempête de grèle](/grimoire/tempete-de-grele).  
-**Apprenti**: [Allié planaire](/grimoire/allie-planaire), [Contagion](/grimoire/contagion), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer une fée](/grimoire/invoquer-une-fee), [Mur d'épine](/grimoire/mur-d-epine), [Passage par les arbres](/grimoire/passage-par-les-arbres), [Transport végétal](/grimoire/transport -vegetal).   
+**Apprenti**: [Allié planaire](/grimoire/allie-planaire), [Contagion](/grimoire/contagion), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer une fée](/grimoire/invoquer-une-fee), [Mur d'épine](/grimoire/mur-d-epine), [Passage par les arbres](/grimoire/passage-par-les-arbres), [Transport végétal](/grimoire/transport-vegetal).   
 **Adepte**:  [Forme éthérée](/grimoire/forme-etheree), [Symbole](/grimoire/symbole).  
 **Expert**:  [Contrôle du climat](/grimoire/controle-du-climat), [tremblement de terre](/grimoire/tremblement-de-terre).  
 **Maître**: [Prémonition](/grimoire/premonition), [Tempête vengeresse](/grimoire/tempete-vengeresse).  
@@ -345,6 +345,54 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
 Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirige la guilde des voleur de Cahohaydan.  
+§§§
+
+## Skuld Gyrdsson
+&nbsp;
+[![Skuld Gyrdsson](https://www.douaratil.fr/illustrations/pnj/skuldgyrdssonm.png)](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson.jpg)   
+
+§§§
+|Skuld Gyrdsson|Melg|
+|:-:|:-:|
+| Profil|[Voie des armes (Disciple)](/bestiaire/voie-des-armes-disciple)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 34|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+4 dégâts tranchant (3d6+2 à deux mains).  
+**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Skuld Gyrdsson est un gros Melg.
+§§§
+
+## Swein Koigrimsson
+&nbsp;
+[![Swein Koigrimsson](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimssonm.png)](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimsson.jpg)   
+
+§§§
+|Swein Koigrimsson |Melg|
+|:-:|:-:|
+| Profil|[Voie des armes (Adepte)](/bestiaire/voie-des-armes-adepte)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 70|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 19|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
+
+_**Epée longue & Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+6 dégâts tranchant (3d6+4 à deux mains).  
+
+_**Epée longue +2 ardente**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+8 dégâts tranchant (3d6+6 à deux mains) et 2d6 de dégâts de feu supplémentaire.  
+
+_**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)  
+
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Swein Koigrimsson est un un vieil aventurier Melg qui a décidé de s'installer ??? à après avoir arpenté les royaumes du Nord et même franchi la mer pour visiter les terribles terres de ???. Il s'est fait forgé une épée ardente qui porte le nom de    
 §§§
 
 ## Thorgunna Iridottir
