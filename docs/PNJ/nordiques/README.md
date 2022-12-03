@@ -99,6 +99,29 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Beda Mordiern est le bâtard de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moisan) et le demi frère de [Morwenna Moisan](/PNJ/nordiques/#morwenna-moisan). Assez râleur et colérique, il soutient cependant sa soeur contre le renversement qu'elle a subit.  
 §§§
 
+## Boe Osparksson
+&nbsp;
+[![Boe Osparksson](https://www.douaratil.fr/illustrations/pnj/boeospakssonm.png)](https://www.douaratil.fr/illustrations/pnj/boeospaksson.jpg)   
+
+§§§
+|Boe Osparksson |Melg|
+|:-:|:-:|
+| Profil|[Voie de l'ombre (Adepte)](/bestiaire/voie-de-l-ombre-adepte)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 53|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 16|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Dague**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+4 dégâts perforant (finesse, légère, lancer 6/18).  
+_**Epée courte +2 de Fer gelé**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+6 dégâts perforant (finesse, légère) et quand vous touchez une créature suite à une attaque avec cette arme magique, votre cible subit 1d6 dégâts de froid supplémentaire. De plus, vous êtes résistant aux dégâts de feu tant que vous tenez cette épée.
+Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-magiques situées dans un rayon de 9 mètres autour de vous. Ce pouvoir s'utilise seulement une fois par heure.  
+_**Arc court**_. _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Boe Osparksson est un roublard aventurier mais aussi un barde et conteur renommé dans les royaumes du Nord. Il possède un [anneau de saut](/liste-objets-magiques/anneau-de-saut/) et une [épée courte +2](/liste-objets-magiques/epee-courte-2/) de [Fer gelé](/liste-objets-magiques/fer-gele/).
+§§§
+
 ## Britomartos Nantono
 &nbsp;
 [![Britomartos Nantono](https://www.douaratil.fr/illustrations/pnj/britomartosnantonom.png)](https://www.douaratil.fr/illustrations/pnj/britomartosnantono.jpg)   

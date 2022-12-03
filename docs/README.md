@@ -19,15 +19,21 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 **Cartographie**:  
 - Mise à jour de la [carte de Douaratil et des royaumes du Nord](/atlas-du-monde/carte-du-monde/#douaratil-et-les-royaumes-du-nord)
 - Ajout d'une page pour l'[Empire Alcante](/atlas-dumonde/empire-alcante)  
-- Ajout d'une page pour les [Royaumes Melgs](/atlas-dumonde/royaumes-melgs)  
+- Ajout d'une page pour les [Royaumes Melgs](/atlas-dumonde/royaumes-melgs)
+
 **PNJ**:  
+Les historiques des PNJ seront affinés ultérieurement
+- Ajout du PNJ [Boe Osparkson](/PNJ/nordiques/#boe-ospaksson).
 - Ajout du PNJ [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).
-- Ajout du PNJ [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).
+- Ajout du PNJ [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
+
+**Objets magiques**
+- Modification de l'[épée vorpale](/liste-objets-magiques/epee-vorpale/).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 2 décembre 2022_
+_le 3 décembre 2022_
 §§§
 
 ## Mise à jour 152
