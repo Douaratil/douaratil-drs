@@ -18,8 +18,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 153
 **Cartographie**:  
 - Mise à jour de la [carte de Douaratil et des royaumes du Nord](/atlas-du-monde/carte-du-monde/#douaratil-et-les-royaumes-du-nord)
-- Ajout d'une page pour l'[Empire Alcante](/atlas-dumonde/empire-alcante)  
-- Ajout d'une page pour les [Royaumes Melgs](/atlas-dumonde/royaumes-melgs)
+- Ajout d'une page pour l'[Empire Alcante](/atlas-du-monde/empire-alcante)  
+- Ajout d'une page pour les [Royaumes Melgs](/atlas-du-monde/royaumes-melgs)
 
 **PNJ**:  
 Les historiques des PNJ seront affinés ultérieurement
@@ -115,46 +115,6 @@ Bon jeu.
 _**Olivier**_,  
 _le 1 novembre 2022_
 §§§
-
-## Mise à jour 147
-**Modifications**  
-- Modification archétype, le [Totsuzenshi](/archetypes/totsuzenshi)
-- Modification archétype, la [Vestaline](/archetypes/vestaline)
-- Ajout illustration du [Spinosaure](/bestiaire/spinosaure)  
-- Ajout illustration du [Spinosaure jeune](/bestiaire/spinosaure-jeune)
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 16 octobre 2022_
-§§§
-
-## Mise à jour 146
-**Modifications**  
-- Ajout illustration du [Shookash](/bestiaire/shookash)  
-- Ajout illustration du [Shukhakh](/bestiaire/shukhakh)  
-- Ajout illustration de la [Shukkushe-Ikhushe](/bestiaire/shukkushe-ikhushe)  
-- Ajout illustration du [Singe géant](/bestiaire/singe-geant)  
-- Ajout illustration du [Spectre](/bestiaire/spectre)  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 14 octobre 2022_
-§§§
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 L'historique de l'avancement est disponible dans les [archives](/archives/)
