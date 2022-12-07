@@ -23,7 +23,7 @@ Agowen Tenva Duenn est un bhegelm du cercle de la nuit. C'est un dissident de la
 **DD de Sauvegarde: 20**  
 Agowen Tenva Duenn connait les sorts suivants:  
 **Novice** :  [Aide](/grimoire/aide), [Anathème](/grimoire/anatheme), [Arme magique](/grimoire/arme-magique), [Arme spirituelle](/grimoire/arme-spirituelle), [Confort](/grimoire/confort), [Druidisme](/grimoire/druidisme), [Eclat de bois](/grimoire/eclat-de-bois), [Flamme éternelle](/grimoire/flamme-eternelle), [Infestation](/grimoire/infestation), [Messager animal](/grimoire/messager-animal), [Prière de soin](/grimoire/priere-de-soin), [Rafale de vent](/grimoire/rafale-de-vent), [Soins des blessures](/grimoire/soins-des-blessures), [Vague tonnante](/grimoire/vague-tonnante).
-[Vision dans le noir](/grimoire/vision-dans-le-noir), [Zone de vérité](/grimoire/zone-de-verite)
+[Vision dans le noir](/grimoire/vision-dans-le-noir), [Zone de vérité](/grimoire/zone-de-verite)  
 **Disciple**:  [Appel de la foudre](/grimoire/appel-de-la-foudre), [Bannissement](/grimoire/bannissement), [Confusion](/grimoire/confusion), [Communication avec les morts](/grimoire/communication-avec-les-morts), [Divination](/grimoire/divination), [Dominer une bête](/grimoire/dominer-une-bête), [Fusion dans la pierre](/grimoire/fusion-dans-la-pierre), [Mur de vent](/grimoire/mur-de-vent), [Nappe de brouillard](/grimoire/nappe-de-brouillard), [Protection contre la mort](/grimoire/protection-contre-la-mort), [Tempête de grèle](/grimoire/tempete-de-grele).  
 **Apprenti**: [Allié planaire](/grimoire/allie-planaire), [Contagion](/grimoire/contagion), [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer une fée](/grimoire/invoquer-une-fee), [Mur d'épine](/grimoire/mur-d-epine), [Passage par les arbres](/grimoire/passage-par-les-arbres), [Transport végétal](/grimoire/transport-vegetal).   
 **Adepte**:  [Forme éthérée](/grimoire/forme-etheree), [Symbole](/grimoire/symbole).  
@@ -437,4 +437,60 @@ _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
 Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khouéré 722 dans sa colonie.  
+§§§
+
+## Thororm Audgisilsson
+&nbsp;
+[![Thororm Audgisilsson](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilssonm.png)](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilsson.jpg)   
+
+§§§
+|Thororm Audgisilsson |Melg|
+|:-:|:-:|
+| Profil|[Voie des armes (Adepte)](/bestiaire/voie-des-armes-adepte)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 70|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 22|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 11|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
+
+_**Epée longue +2**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+8 dégâts tranchant (3d6+6 à deux mains).  
+
+_**Epée longue & Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+6 dégâts tranchant (3d6+4 à deux mains).  
+
+_**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)  
+
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Thororm Audgisilsson est le souverain de la petite ville de Notteilift. Il possède une épée longue +2 et une cuisrasse +3.   
+§§§
+
+## Ubbein Stigandisson
+&nbsp;
+[![Ubbein Stigandisson](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandissonm.png)](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandisson.jpg)  
+§§§
+|Ubbein Stigandisson |Melg|
+|:-:|:-:|
+| Profil|[Voie de la magie (Adepte)](/bestiaire/voie-de-la-magie-adepte)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 40|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 12|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Serpe sacrificielle +3.**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.
+Touché : 1d6 dégâts perforant (finesse, légère, lancer 6/18).  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Ubbein Stigandisson est un puissant Vitnar melg.  
+§§§
+§§§ .hero
+**<v-icon>mdi-firebase</v-icon> Sorts connus:**     
+**Bonus d'incantation: +9**  
+**DD de Sauvegarde: 17**  
+Ubbein Stigandisson connait les sorts suivants:  
+**Novice** :  [Aide](/grimoire/aide), [Anathème](/grimoire/anatheme), [Arme magique](/grimoire/arme-magique), [Arme spirituelle](/grimoire/arme-spirituelle), [Confort](/grimoire/confort), [Druidisme](/grimoire/druidisme), [Eclat de bois](/grimoire/eclat-de-bois), [Flamme éternelle](/grimoire/flamme-eternelle), [Messager animal](/grimoire/messager-animal), [Prière de soin](/grimoire/priere-de-soin), [Rafale de vent](/grimoire/rafale-de-vent), [Soins des blessures](/grimoire/soins-des-blessures).
+[Vision dans le noir](/grimoire/vision-dans-le-noir), [Zone de vérité](/grimoire/zone-de-verite)  
+**Disciple**:  [Bannissement](/grimoire/bannissement), [Confusion](/grimoire/confusion), [Communication avec les morts](/grimoire/communication-avec-les-morts), [Divination](/grimoire/divination), [Dominer une bête](/grimoire/dominer-une-bête), [Fusion dans la pierre](/grimoire/fusion-dans-la-pierre), [Mur de vent](/grimoire/mur-de-vent), [Nappe de brouillard](/grimoire/nappe-de-brouillard), [Protection contre la mort](/grimoire/protection-contre-la-mort), [Tempête de grèle](/grimoire/tempete-de-grele).  
+**Apprenti**: [Fléau d'insectes](/grimoire/fleau-d-insectes), [Invoquer une fée](/grimoire/invoquer-une-fee), [Mur d'épine](/grimoire/mur-d-epine), [Passage par les arbres](/grimoire/passage-par-les-arbres), [Transport végétal](/grimoire/transport-vegetal).   
+**Adepte**:  [Forme éthérée](/grimoire/forme-etheree), [Symbole](/grimoire/symbole).  
+
 §§§
