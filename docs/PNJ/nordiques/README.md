@@ -370,6 +370,34 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirige la guilde des voleur de Cahohaydan.  
 §§§
 
+## Skjol Dolafsson
+&nbsp;
+[![Skjol Dolafsson](https://www.douaratil.fr/illustrations/pnj/skjoldolafssonm.png)](https://www.douaratil.fr/illustrations/pnj/skjoldolafsson.jpg)   
+
+§§§
+|Skjol Dolafsson |Melg|
+|:-:|:-:|
+| Profil|[Voie des armes (Expert)](/bestiaire/voie-des-armes-expert)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 79|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 23|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**  
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
+
+_**Epée longue +1**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+7 dégâts tranchant (3d6+5 à deux mains).  
+
+_**Hache +3**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+9 dégâts tranchant (3d6+7 à deux mains).  
+
+_**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
+_Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)  
+
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon> Présentation:**  
+Skjol Dolafsson est un grand guerrier melg. Il possède une épée +1, une hache +3 et une cotte de maille +2.       
+§§§
+
+
 ## Skuld Gyrdsson
 &nbsp;
 [![Skuld Gyrdsson](https://www.douaratil.fr/illustrations/pnj/skuldgyrdssonm.png)](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson.jpg)   
@@ -448,7 +476,7 @@ Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khou
 |:-:|:-:|
 | Profil|[Voie des armes (Adepte)](/bestiaire/voie-des-armes-adepte)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 70|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 22|   
-|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 11|  
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**  
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 

@@ -17,6 +17,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 154
 **PNJ**:  
 Les historiques des PNJ seront affinés ultérieurement
+- Ajout du PNJ [Skjol Dolafsson](/PNJ/nordiques/#skjol-dolafsson).
 - Ajout du PNJ [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson).
 - Ajout du PNJ [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).
 
