@@ -24,7 +24,7 @@ Les historiques des PNJ seront affinés ultérieurement
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 7 décembre 2022_
+_le 9 décembre 2022_
 §§§
 
 
@@ -36,7 +36,7 @@ _le 7 décembre 2022_
 
 **PNJ**:  
 Les historiques des PNJ seront affinés ultérieurement
-- Ajout du PNJ [Boe Osparkson](/PNJ/nordiques/#boe-ospaksson).
+- Ajout du PNJ [Boe Osparkson](/PNJ/nordiques/#boe-osparksson).
 - Ajout du PNJ [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).
 - Ajout du PNJ [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
 
