@@ -54,7 +54,7 @@ _**Restauration magique**_.
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.   
 
 _**Sorts connus et points de magie**_.   
-La voie de la magie novice connaît des sorts de niveau Expert au maximum et possède 80 PM.  
+La voie de la magie expert connaît des sorts de niveau Expert au maximum et possède 80 PM.  
 
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
