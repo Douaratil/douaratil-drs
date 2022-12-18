@@ -17,6 +17,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 155
 **Bestiaire**:  
 - Corrections de petites erreurs sur les voies de la magie.  
+
 **Atlas**   
 - Description de la ville melge de [Notteilift](atlas-du-monde/royaumes-melgs/notteilift).   
 Viendront ultérieurement la carte et des descriptions supplémentaire.   
