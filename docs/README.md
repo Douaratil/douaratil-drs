@@ -14,6 +14,42 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+
+## Mise à jour 157
+**Bestiaire**  
+- Ajout du [Forradamadur](/bestiaire/forradamadur), gardien des portes de Naheim.   
+
+**Corrections**:  
+- Correction de la section [les langues](/langues).  
+
+**Inspiration musique**:   
+- Ajout de morceaux de musiques et réorganisation de la page.
+
+Merci à mes joueurs de continuer de m'accompagner dans cette aventure de création.   
+Bonnes et joyeuses fêtes de Noël.     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 24 décembre 2022_
+§§§
+
+## Mise à jour 156
+**Corrections**:  
+- Corrections dans le menu du site car des icônes avaient disparu.  
+
+**Inspiration musique**:   
+- Ajout de l'artiste [Daemonia Nymphe](/inspimusic/#daemonia-nymphe) pour l'inspiration Lacenondès.   
+- Ajout de l'artiste [Gealdýr](/inspimusic/#gealdyr) pour l'inspiration nordique.   
+
+Bon solstice d'hiver et bonne fête de Yule.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 décembre 2022_
+§§§
+
 ## Mise à jour 155
 **Bestiaire**:  
 - Corrections de petites erreurs sur les voies de la magie.  

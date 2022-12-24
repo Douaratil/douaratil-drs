@@ -69,13 +69,13 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Ptolémique** | Peuple Ptolème | Ptolh
 
 &nbsp;
-[![Langues](https://www.douaratil.fr/illustrations/regles/languesm2.png)](https://www.douaratil.fr/illustrations/regles/langues2.jpg) 
+[![Langues](https://www.douaratil.fr/illustrations/regles/languesm2.png)](https://www.douaratil.fr/illustrations/regles/langues2.jpg)
 
 ### Langues sacrées, anciennes et secrètes
 
 | Langue | Parlée par... | Alphabet |
 |:-|:-|:-|
-|Yezhsakr| Bhegelm | Omath |
+|**Yezhsakr**| Bhegelm | Omath |
 | **-** | Drodan | Oghen |
 | **-** | Peuple Melg | Holtar |
 | **-** | Mages, Sorcer | Magus |

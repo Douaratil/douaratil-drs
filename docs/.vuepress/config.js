@@ -775,7 +775,7 @@ module.exports = {
               },
               {
                 title: "Douaratil",
-                icon: 'mdi-cross-celtic',
+                icon: 'mdi-brightness-3',
                 path:'/atlas-du-monde/douaratil'
               },
               {
@@ -790,7 +790,7 @@ module.exports = {
               },
               {
                 title: "Shahia",
-                icon: 'mdi-mosque',
+                icon: 'mdi-brightness-5',
                 path:'/atlas-du-monde/shahia'
               }
             ]
