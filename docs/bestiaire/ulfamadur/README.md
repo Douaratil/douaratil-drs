@@ -4,8 +4,8 @@ type: "Humanoïde"
 subtype: "Berserker Melg"
 size: "M"
 alignment: "n'importe quel alignement chaotique"
-challenge: "14"
-customHP: "76"
+challenge: "15"
+customHP: "80"
 abilityScores:
   for: 18
   dex: 16
@@ -27,12 +27,15 @@ skills:
 movement:
   walk: 9
 languages:
-  - "Dépend de l'ethnie"
+  - "Mèlde"
+conditionImmunities:
+    - "etourdi"
+    - "terrorise"  
 ---
 ## Ulfamadur
 &nbsp;
 [![Ulfamadur](https://www.douaratil.fr/illustrations/humanoide/ulfamadurm.png)](https://www.douaratil.fr/illustrations/humanoide/ulfamadur.jpg)  
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18        
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
@@ -45,6 +48,14 @@ _**Sursaut d'activité désespéré**_. L'Ulfamadur peut repousser ses propres l
 _**Indomptable**_ L'Ulfamadur peut relancer un jet de sauvegarde raté. Si il choisit d'utiliser cette aptitude, il doit utiliser le résultat du second jet de dé. Il peut réutiliser utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s. Une fois cette aptitude utilisée , il doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.   
 
 _**Critique brutal**_ Quand l'Ulfamadur blesse un adversaire et qu'il lui cause un coup critique, il lancez 2d6 de dégâts additionnel quand vous déterminez les dégâts sur la table des coups critiques.  
+
+_**Rage Implacable**_ Quand l'Ulfamadur se retrouve en rage il obtient les bénéfices suivants :
+• l'Ulfamadur bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
+• Quand l'Ulfamadur utilise une arme de corps-à-corps, l'Ulfamadur gagne un bonus aux jet de dégâts +3.
+• l'Ulfamadur devient [_résistant_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
+Par contre, tant que l'Ulfamadur est enragé, l'Ulfamadur ne peut pas lancer de sort ou se concentrer sur des sorts, même si il en a normalement la capacité.  
+La rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si l'Ulfamadur est inconscient ou si le tour de l'Ulfamadur se termine et que l'Ulfamadur n'a pas attaqué de créature hostile ou subi de dégât depuis la fin de son dernier tour. L'Ulfamadur peut aussi utiliser une action bonus pour mettre fin à cet état pendant son tour.  
+L'Ulfamadurpossède **quatre états de rage**, une fois que l'Ulfamadur est entrés en état de rage le nombre de fois permis, il doit terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Attaque multiple**_.L'Ulfamadur peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
