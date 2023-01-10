@@ -9,6 +9,171 @@ toc: false
 
 <v-col cols="12" md="6">
 
+
+## Mise à jour 157
+**Bestiaire**  
+- Ajout du [Forradamadur](/bestiaire/forradamadur), gardien des portes de Naheim.   
+
+**Corrections**:  
+- Correction de la section [les langues](/langues).  
+
+**Inspiration musique**:   
+- Ajout de morceaux de musiques et réorganisation de la page.
+
+Merci à mes joueurs de continuer de m'accompagner dans cette aventure de création.   
+Bonnes et joyeuses fêtes de Noël.     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 24 décembre 2022_
+§§§
+
+## Mise à jour 156
+**Corrections**:  
+- Corrections dans le menu du site car des icônes avaient disparu.  
+
+**Inspiration musique**:   
+- Ajout de l'artiste [Daemonia Nymphe](/inspimusic/#daemonia-nymphe) pour l'inspiration Lacenondès.   
+- Ajout de l'artiste [Gealdýr](/inspimusic/#gealdyr) pour l'inspiration nordique.   
+
+Bon solstice d'hiver et bonne fête de Yule.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 décembre 2022_
+§§§
+
+## Mise à jour 155
+**Bestiaire**:  
+- Corrections de petites erreurs sur les voies de la magie.  
+
+**Atlas**   
+- Description de la ville melge de [Notteilift](atlas-du-monde/royaumes-melgs/notteilift).   
+Viendront ultérieurement la carte et des descriptions supplémentaire.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 décembre 2022_
+§§§
+
+## Mise à jour 154
+**PNJ**:  
+Les historiques des PNJ seront affinés ultérieurement
+- Ajout du PNJ [Skjol Dolafsson](/PNJ/nordiques/#skjol-dolafsson).
+- Ajout du PNJ [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson).
+- Ajout du PNJ [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 9 décembre 2022_
+§§§
+
+
+## Mise à jour 153
+**Cartographie**:  
+- Mise à jour de la [carte de Douaratil et des royaumes du Nord](/atlas-du-monde/carte-du-monde/#douaratil-et-les-royaumes-du-nord)
+- Ajout d'une page pour l'[Empire Alcante](/atlas-du-monde/empire-alcante)  
+- Ajout d'une page pour les [Royaumes Melgs](/atlas-du-monde/royaumes-melgs)
+
+**PNJ**:  
+Les historiques des PNJ seront affinés ultérieurement
+- Ajout du PNJ [Boe Osparkson](/PNJ/nordiques/#boe-osparksson).
+- Ajout du PNJ [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).
+- Ajout du PNJ [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
+
+**Objets magiques**
+- Modification de l'[épée vorpale](/liste-objets-magiques/epee-vorpale/).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 3 décembre 2022_
+§§§
+
+## Mise à jour 152
+**Bestiaire**:  
+- Ajout de la [Gelée ocre](/bestiaire/gelee-ocre)  
+- Ajout de la [Pouding noir](/bestiaire/pouding-noir)  
+- Ajout de la [Vase corruptrice](/bestiaire/vase-corruptrice)   
+- Ajout de la [Vase grise](/bestiaire/vase-grise)  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 30 novembre 2022_
+§§§
+
+## Mise à jour 151
+**Bestiaire**:  
+- Ajout du [Foragh](/bestiaire/foragh)  
+- Ajout de la [Heks miroir](/bestiaire/heks-miroir)  
+- Ajout de la [Heks sanglante](/bestiaire/heks-sanglante)   
+- Ajout du [Osgorth](/bestiaire/osgorth)  
+- Ajout du [Sasquatch](/bestiaire/sasquatch)  
+- Ajout du [Tormogrundth](/bestiaire/tormogrundth)  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 29 novembre 2022_
+§§§
+
+## Mise à jour 150
+**Bestiaire**:  
+- Ajout de la [Heks rouge](/bestiaire/heks-rouge)   
+
+**Modifications**:    
+- Ajout illustration de la [Sermazloth novice](/bestiaire/sermazloth-novice)  
+- Ajout illustration de la [Sermazloth disciple](/bestiaire/sermazloth-disciple)  
+- Ajout illustration de la [Sermazloth apprentie](/bestiaire/sermazloth-apprentie)  
+- Ajout illustration de la [Sermazloth adepte](/bestiaire/sermazloth-adepte)  
+- Ajout illustration de la [Sermazloth experte](/bestiaire/sermazloth-experte)  
+- Ajout illustration de la [Sermazloth maîtresse](/bestiaire/sermazloth-maitresse)  
+- Ajout illustration du [Uh'r](/bestiaire/urh)  
+
+**Sorts**:   
+- Ajout du sort [Diarrhée](/grimoire/diarrhee)  
+- Ajout du sort [Eternuements](/grimoire/eternuements)  
+- Ajout du sort [Fouet épineux](/grimoire/fouet-epineux)  
+- Ajout du sort [Fausse route](/grimoire/fausse-route)  
+- Ajout du sort [Somnambulisme](/grimoire/somnambulisme)   
+- Ajout du sort [Vomissement](/grimoire/vomissements)   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 27 novembre 2022_
+§§§
+
+## Mise à jour 149
+**Sorts**:   
+- Ajout du sort [Foulure](/grimoire/foulure)  
+- Ajout du sort [Larmoiement](/grimoire/larmoiement)   
+- Ajout du sort [Mord langue](/grimoire/mord-langue)   
+- Ajout du sort [Rire irrésistible](/grimoire/rire-irresistible)   
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 novembre 2022_
+§§§
+
+## Mise à jour 148
+**Bestiaire**  
+Mise en ligne des nouveaux personnages joueurs de la campagne d'Elric.  
+- Ajout de [Dehus Dreanos](/bestiaire/dehus-dreanos)    
+- Ajout de [Namusa Koulouarn](/bestiaire/namusa-koulouarn)  
+- Ajout de [Samia Tiercelin](/bestiaire/samia-tiercelin)  
+- Ajout de [Sedida Kerbrat](/bestiaire/sedida-kerbrat)  
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 novembre 2022_
+§§§
+
 ## Mise à jour 147
 **Modifications**  
 - Modification archétype, le [Totsuzenshi](/archetypes/totsuzenshi)
@@ -1813,7 +1978,6 @@ Bon jeu.
 _**Olivier**_,  
 _le 27 mars 2021_
 §§§
-
 
 ## Mise à jour 19
 Une nouvelle page est en cours de construction et proposera des règles pour gérer les [batailles](/batailles). Parmi les ajouts, un nouvel Archétype de la culture alcante est désormais disponible : le [Legatos](/archetypes/legatos). Ce type de personnage aura une grande influence et parlera avec autorité.  
