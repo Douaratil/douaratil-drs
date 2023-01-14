@@ -44,6 +44,9 @@ Personne originaire d'Alicantys et par extension, originaire de l'Empire. Alican
 **Compétences maîtrisées**. Vous maîtrisez l’épée courte.  
 Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycantis, l’*Alcante*, et parler, lire et écrire une langue supplémentaire de votre choix.   
 
+&nbsp;
+[![Alcante](https://www.douaratil.fr/illustrations/regles/ethniealcante2m.png)](https://www.douaratil.fr/illustrations/regles/ethniealcante2.jpg)
+
 ### Peuple Avalin
 
 **Augmentation de caractéristiques**. Votre valeur charisme augmente de 1.    
@@ -69,6 +72,8 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Compétences maîtrisées**. Vous maîtrisez sabre.  
 **Langues supplémentaires**.Vous parlez et écrivez le *Saramath*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+&nbsp;
+[![Saramath](https://www.douaratil.fr/illustrations/regles/ethniesaramathm.png)](https://www.douaratil.fr/illustrations/regles/ethniesaramath.jpg)
 
 # Les Clans Nordiques
 ## Traits communs  
@@ -119,7 +124,8 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 **Augmentation de caractéristiques**. Votre valeur sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez épée.  
 **Langues supplémentaires**. Vous parlez l’*Ygouthy* et écrivez l’*Ygh*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
-
+&nbsp;
+[![Asiatique](https://www.douaratil.fr/illustrations/regles/ethnieygouthm.png)](https://www.douaratil.fr/illustrations/regles/ethnieygouth.jpg) 
 ### Minghour Yotakaïs
 **Augmentation de caractéristiques**. Votre valeur sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez sabre.  

@@ -14,6 +14,28 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 159
+**Règles**  
+- Changement des illustrations dans la section [Création du personnage](/creation-du-personnage).
+- Changement des illustrations dans la section [Ethnies](/ethnies).
+
+**Bestiaire**  
+- Ajout d'[Ylohane](/bestiaire/ylohane) la déesse Khernaée.
+- Changement d'illustration de la déesse [Darthentrhui](/bestiaire/darthentrhui).
+- Changement d'illustration du dieu [Emhyhruigdrux](/bestiaire/emhyhruigdrux).
+- Changement d'illustration de la déesse [Khoulggotateelle](/bestiaire/khoulggotateelle).
+- Changement d'illustration du dieu [Lhaothlastholo](/bestiaire/lhaothlastholo).
+- Changement d'illustration de la déesse [Shandoth](/bestiaire/shandoth).
+- Changement d'illustration de la déesse [Sheggothlil](/bestiaire/sheggothlil).
+- Changement d'illustration du personnage [Gwion Gornoc](/bestiaire/gwiongornoc).
+- Changement d'illustration du personnage [Moira Dornglas](/bestiaire/moira-dornglas).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 14 janvier 2023_
+§§§
+
 ## Mise à jour 158
 
 Tous mes voeux pour cette nouvelle année 2023.
