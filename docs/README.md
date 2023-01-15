@@ -14,6 +14,25 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Frédéric [Rudolf Bernsen](/bestiaire/rudolf-bernsen), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Melyssandre [Malala Soa](/bestiaire/malala-soa), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+
+## Mise à jour 160
+**Règles**  
+- Changement des illustrations dans la section [Les trois voies](/voies).
+- Changement des illustrations dans l'archétype de l'[Adoshaï](/archetypes/adoshai).
+- Changement des illustrations dans l'archétype de l'[Alka'him](/archetypes/alkahim).
+- Changement des illustrations dans l'archétype de l'[Ambeanamos](/archetypes/ambeanamos).
+- Changement des illustrations dans la section [Ethnies](/ethnies).
+- Changement des illustrations dans la section [Langues](/langues).
+
+**Bestiaire**  
+- Changement d'illustration de la déesse [Sathyakurm’de](/bestiaire/sathyakurm-de).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 janvier 2023_
+§§§
+
 ## Mise à jour 159
 **Règles**  
 - Changement des illustrations dans la section [Création du personnage](/creation-du-personnage).
@@ -28,7 +47,13 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 - Changement d'illustration de la déesse [Shandoth](/bestiaire/shandoth).
 - Changement d'illustration de la déesse [Sheggothlil](/bestiaire/sheggothlil).
 - Changement d'illustration du personnage [Gwion Gornoc](/bestiaire/gwiongornoc).
+- Changement d'illustration du personnage [Lochetos vlatcano](/bestiaire/lochetos-vlatcano).
+- Changement d'illustration du personnage [Mrags Maenkalon](/bestiaire/margs-maenkalon).
 - Changement d'illustration du personnage [Moira Dornglas](/bestiaire/moira-dornglas).
+- Changement d'illustration du personnage [Sawrina Semiramis](/bestiaire/sawrina-semiramis).
+- Changement d'illustration du personnage [Shine Hame](/bestiaire/shine-hame).
+- Changement d'illustration du personnage [Tiberius Don ALonzo](/bestiaire/tiberius-don-alonzo).
+- Changement d'illustration du personnage [Yan Zin](/bestiaire/yan-zin).
 
 Bon jeu.     
 §§§ .text-right

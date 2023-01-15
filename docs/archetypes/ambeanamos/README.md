@@ -109,6 +109,9 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 À partir du niveau 8, vous avez découvert que votre propre sang avait des propriétés magiques et que vous pouvez le sacrifier pour augmenter votre pouvoir. Vous pouvez utiliser une action bonus pour faire couler votre sang à l'aide d'une arme tranchante ou perforante, vous perdez 1d6 points d’action (PA) et vous gagnez immédiatement 1d6 point de magie (PM) que vous devez utiliser dans le même round. Vous pouvez sacrifier 1d6 points de d’actions supplémentaires pour chaque d6 de point de magie supplémentaire que vous souhaitez obtenir. Vous pouvez sacrifier de cette façon un nombre total de d6 égal au maximum à votre bonus de maîtrise entre deux [_repos court_](/gerer-la-sante-du-personnage/#repos-court)s ou longs.
 Cette utilisation est dangereuse car les dés sont explosifs et il est arrivé qu’un Ambeanamos perde la vie lors de cet usage de la magie.
 
+&nbsp;
+[![Astartes](https://www.douaratil.fr/illustrations/archetype/ambeanamos2m.png)](https://www.douaratil.fr/illustrations/archetype/ambeanamo2s.jpg)  
+
 ### Charme intense  
 **En Meldète : Seundian**  
 Au niveau 14, lorsque vous lancez un sort de l'école d'enchantement, vous pouvez utiliser votre réaction pour obtenir 1d6 point de magie (PM) que vous devez obligatoirement dépenser sur ce sort. Vous pouvez y ajouter d'autres points de sorcellerie que vous dépensez de façon ordinaire par une action bonus.

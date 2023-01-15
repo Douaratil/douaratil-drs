@@ -23,6 +23,9 @@ source: "Elric"
 |**19**|[Maître chimiste](#maitre-chimiste)|
 |**20**|[Véritable Alka'him](#veritable-alka-him)|
 
+&nbsp;
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahimm.png)](https://www.douaratil.fr/illustrations/archetype/alkahim.jpg)  
+
 En tant qu'Alka'him', vous bénéficiez des aptitudes d'Archétype suivantes.   
 ### Maîtrises
 **Armures** : armures légères  
@@ -102,6 +105,9 @@ Au niveau 15, l'Alka'him subit plusieurs mutations causées par ses fabrications
 |5|Brûlure, jeter 1d6 :(1- Mains, 2- Jambes, 3- Torse, 4- Cou-clavicule, 5- Dos, 6- Tête), Résistance aux dégâts de feu et d’acide. Désavantage aux jets de persuasion.Avantage aux jets d’intimidation.|
 |6|Pupille fendue (voit beaucoup plus nettement lorsqu’il se concentre sur un détail, peut voir 4 fois plus loin que la portée humaine, avantage à tout les jets de perception visuelle)|
 
+&nbsp;
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim3m.png)](https://www.douaratil.fr/illustrations/archetype/alkahim3.jpg)  
+
 ### herboriste confirmé
 **En Shahim: Alshebab Tam'takid**  
 Au niveau 15, l'Alka'him est un herboriste qui n’a plus besoin de prouver sa valeur. Les crans de difficulté pour trouver les plantes baisse d’un cran une nouvelle fois, le héros pour prouver sa valeur, crée sa propre recette de décoction et en invente les effets en accord avec le narrateur.
@@ -139,6 +145,9 @@ Au niveau 17, l'Alka'him  a très bien compris ce principe élémentaire : rien
 ### Laboratoire mental
 **En Shahim: Mukh'tabar Eh'alkhali**  
 Au niveau 18, l'Alka'him  n’est plus obligé de se trouver dans un laboratoire pour pouvoir travailler, désormais il est capable de s’imaginer dans un laboratoire et ne subit plus de malus. Il a cependant toujours besoin de ses outils et autres matériels.
+
+&nbsp;
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim2m.png)](https://www.douaratil.fr/illustrations/archetype/alkahim2.jpg)  
 
 
 ### Maître chimiste
