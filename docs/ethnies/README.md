@@ -125,12 +125,13 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 **Entraînement aux armes**. Vous maîtrisez épée.  
 **Langues supplémentaires**. Vous parlez l’*Ygouthy* et écrivez l’*Ygh*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 &nbsp;
-[![Asiatique](https://www.douaratil.fr/illustrations/regles/ethnieygouthm.png)](https://www.douaratil.fr/illustrations/regles/ethnieygouth.jpg) 
+[![Ygouth](https://www.douaratil.fr/illustrations/regles/ethnieygouthm.png)](https://www.douaratil.fr/illustrations/regles/ethnieygouth.jpg)
 ### Minghour Yotakaïs
 **Augmentation de caractéristiques**. Votre valeur sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez sabre.  
 **Langues supplémentaires**. Vous pouvez parler le *Yotaï* et écrire le *Yohaï*, votre langue maternelle. Vous pouvez choisir un dialect local entre le *Yoth* (Nord) et le *Athaï* (Sud) Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
-
+&nbsp;
+[![Yotakaï](https://www.douaratil.fr/illustrations/regles/ethnieyotakaim.png)](https://www.douaratil.fr/illustrations/regles/ethnieyotakai.jpg) 
 # Race ancienne
 ## Traits du Selmonite
 ### Selmonite.
