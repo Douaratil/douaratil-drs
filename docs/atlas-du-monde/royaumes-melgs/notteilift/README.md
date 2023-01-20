@@ -3,6 +3,8 @@ title: Notteilift
 ---
 ## Notteilift
 
+[![Notteilift](https://www.douaratil.fr/cartes/notteilift.png)](https://www.douaratil.fr/cartes/notteilift.jpg)
+
 Notteilift est un bourg (petite ville) composé de plus ou moins 376 maisons et autres bâtiments. Au dernier recensement, la population comptait 1355 individus.   
 Notteilift  est une société isolée et repliée sur elle-même de ce fait les ethnies s'y retrouvent sensiblement concentrées et réparties plus exactement en 1301 Melgs, 27 Khernaës, 14 Alcantes, 13 citoyens d'autres ethnies.  
 ### Commerces, guildes et aventuriers, héros

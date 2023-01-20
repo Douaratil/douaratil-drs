@@ -7,7 +7,7 @@ Le marais gelé.
 ## Miry'solu
 Le marais venté
 
-## [Notteilift](atlas-du-monde/royaumes-melgs/notteilift)
+## [Notteilift](/atlas-du-monde/royaumes-melgs/notteilift)
 La nuit éternelle.
 
 ## Skogubengladur
