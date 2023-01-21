@@ -1,0 +1,60 @@
+---
+title: Alicantys
+---
+## Alicantys
+
+[![Alicantys](https://www.douaratil.fr/cartes/alicantys.png)](https://www.douaratil.fr/cartes/alicantys.jpg)
+
+Alicantys est une cité antique située sur les rives du fleuve Aricius. Elle est réputée pour son architecture imposante, avec des bâtiments en marbre blanc et des statues grandioses dédiées aux divinités Alcantes. Les habitants d'Alicantys sont fiers de leur forum, où se tient des débats et des discours publics, ainsi que de leur théâtre, où se produisent les meilleurs acteurs de la région. La cité abrite également un grand temple dédié à Alyca, le déesse suprême de la religion Alcante, ainsi qu'un cirque où se déroulent des courses de chars et des combats de gladiateurs. Les aqueducs d'Alicantys sont également célèbres pour leur ingéniosité technique, permettant à la ville d'avoir un approvisionnement en eau constant.
+
+Alicantys est également un important centre commercial et économique de la région. Les marchands y viennent de toutes les provinces pour échanger leurs marchandises et les artisans locaux sont réputés pour leur savoir-faire dans la fabrication de poteries, de verreries et de bijoux en or. Les habitants d'Alicantys sont également fiers de leur armée puissante et de leur histoire de conquêtes. Les murailles de la ville sont imposantes et les fortifications sont régulièrement mises à jour pour protéger les citoyens contre les invasions ennemies des peuples nordiques ou depuis le sud, ceux des royaumes de Shaia. Malgré cela, la cité est également ouverte aux étrangers et accueille de nombreux voyageurs et pèlerins venus de toutes les parties de l'Empire alicante pour admirer ses merveilles architecturales et culturelles.
+
+Alicantys est une cité animée et cosmopolite, où coexistent différentes cultures et religions. Les habitants sont fiers de leur héritage alicante, mais ils accueillent également les croyances et les traditions des peuples qu'ils ont conquis au fil des siècles. On peut y voir des temples dédiés à des divinités shahimas, lacèdes et même des cultes orientaux. La ville est également réputée pour son savoir et sa culture, avec de nombreux philosophes, poètes et artistes locaux.
+Enfin, l'éducation est très importante pour les citoyens d'Alicantys. Il y a de nombreux établissements scolaires pour les enfants, ainsi que des bibliothèques et des académies pour les adultes. Les citoyens d'Alicantys sont fiers de leur patrimoine culturel et historique et font tout pour le préserver et le transmettre aux générations futures.
+
+### Les légions d'Alicantys
+Les légions d'Alicantys sont réputées pour leur courage et leur discipline. Elles sont composées de citoyens alcanes volontaires et professionnels qui se sont engagés pour une période de 25 ans. Les soldats sont entraînés dans les meilleures techniques de combat de l'époque, y compris la marche en formation, le maniement des armes et la stratégie militaire. Les légions sont également équipées des meilleures armes et armures disponibles, telles que les glaives, les boucliers et les armures à lamelle, les pectoraux métalliques et des casques qui couvrent une grande partie du visage.
+Les légions d'Alicantys sont également connues pour leur esprit de camaraderie et leur solidarité. Les soldats forment une véritable fraternité, qui les aide à surmonter les épreuves les plus difficiles. Les légions d'Alicantys sont souvent déployées dans les campagnes de conquête de l'Empire romain, mais elles sont également chargées de maintenir l'ordre et la sécurité à l'intérieur de l'Empire. Les légions sont également souvent utilisées pour protéger les frontières de l'Empire contre les invasions barbares qui viennent du nord.
+
+#### La Légion Feroxis (féroce)
+La Légion Feroxis est une des plus anciennes légions d'Alicantys, créée il y a plus de deux siècles pour protéger la cité contre les invasions des royaumes de Shaia. Les soldats de Feroxis ont rapidement acquis une réputation de férocité et de courage sur le champ de bataille, grâce à leur habileté au combat et leur détermination à protéger leur cité.
+La légion Feroxis a remporté de nombreuses victoires contre les armées shahimas, en repoussant les invasions et en prenant d'assaut les forteresses ennemies. Les soldats de Feroxis étaient particulièrement redoutés pour leur capacité à combattre avec une férocité impitoyable, sans craindre la mort.
+L'une des victoires les plus célèbres de la légion Feroxis a eu lieu lors de la bataille de la colline de d’Alise, littéralement la dent en shaiate, où une petite force de soldats Feroxis a réussi à tenir tête à une armée shamas beaucoup plus nombreuse, permettant aux troupes d'Alicantys de prendre d'assaut les forces shahimas à revers et de remporter la victoire.
+Au fil des ans, la légion Feroxis a continué à servir avec distinction, prenant part à de nombreuses campagnes et batailles pour protéger la cité contre les ennemis de l'Empire alicante. Les soldats de Feroxis sont considérés comme les meilleurs combattants d'Alicantys par certains et leur nom est synonyme de courage et de détermination pour les citoyens de la cité.
+
+Ultimex La Légion ultime  
+Mantis La Légion des Mantes  
+Lyonnes La Légion féline  
+Scorpio La Légion scorpion  
+
+### Le Consejys
+Le Consejys d'Alicantys est le corps législatif de la cité, composé de sénateurs élus parmi les citoyens les plus riches et les plus influents de la ville. Les sénateurs sont chargés de prendre des décisions importantes pour la cité, telles que les lois fiscales, les projets d'infrastructure, les relations diplomatiques, ainsi que les stratégies militaires et les nominations aux postes publics.
+Le Consejys est présidé par le magistrat suprême de la cité, le Praetus, qui est élu pour une durée de un an. Le Praetus a un pouvoir exécutif et judiciaire, il préside les séances du Consejys et représente la cité dans les relations diplomatiques avec les autres cités de l'Empire Courdoès et Avalina.
+Le Consejys est également assisté par un groupe d'experts appelé les Quaestus, qui sont responsables de la gestion financière de la cité, de la collecte des impôts et de la gestion des finances publiques. Les Quaestuss sont nommés par le Praetus et sont soumis à son autorité.
+Enfin, le Consejys est composé de différentes commissions, qui se consacrent à des domaines spécifiques tels que l'agriculture, les affaires étrangères, les relations commerciales, les finances, la religion, l'armée, etc. Les sénateurs sont divisés en différentes factions, qui se distinguent par leurs convictions politiques, leur origine sociale et leur vision de l'avenir de la cité.
+
+### Les courses de chars
+Les courses de chars d'Alicantys sont très réputées dans tout l'Empire alicante. Elles se déroulent dans le grand cirque de la ville, qui peut accueillir des milliers de spectateurs. Les courses de chars sont organisées régulièrement, généralement en l'honneur de divinités ou pour célébrer des événements importants.
+Les chars sont tirés par des chevaux et sont conduit par des conducteurs appelés auriguss. Les aurigus sont des professionnels expérimentés, qui sont souvent des esclaves ou des affranchis. Les auriguss sont très respectés pour leur habileté et leur courage. Les courses de chars sont très dangereuses et il est fréquent que les aurigus soient blessés ou tués.
+Les chars sont décorés avec des peintures et des statues, et chacun est associé à une écurie ou une faction. Les courses de chars sont un véritable spectacle, accompagnées de musique, de chants et de danses. Les spectateurs peuvent parier sur leur écurie favorite et crier leur nom pour les encourager. Les courses de chars sont un véritable rituel social, qui rassemble les habitants d'Alicantys et leur permettent de se distraire et de célébrer leur cité.
+
+### Les quartiers de la ville
+#### Le quartier Conciatorus
+Le quartier Conciatorus est un quartier populaire d'Alicantys, situéaucentre de la ville. Il est connu pour ses activités économiques difficiles et pour sa population pauvre.
+Les rues de Conciatorus sont étroites et encombrées, bordées de bâtiments en pierre et en bois délabrés, avec peu de décorations. Les bâtiments sont souvent surpeuplés, avec des immeubles à plusieurs étages et des maisons en rangée. Les rues sont souvent sales, avec des déchets et des eaux usées coulant dans les caniveaux.
+Les activités économiques de Conciatorus sont principalement axées sur l'industrie les métiers manuels, comme les tanneries, les boucheries, les brasseries et les textile. Les odeurs désagréables et les émanations de fumée sont fréquentes dans ces quartiers. Les citoyens de Conciatorus travaillent dur pour subvenir à leurs besoins, mais ils sont souvent mal payés et peu qualifiés.
+Il existe également des commerces de base dans le quartier, comme des épiceries, des boulangeries et des boutiques d'habillement, mais ils sont souvent peu fréquentés et peu variés en terme de produits proposés. Le quartier ne possède pas non plus beaucoup d'infrastructures sociales, comme des écoles, des bibliothèques ou des centres de santé, les habitants doivent se rendre dans d'autres quartiers pour bénéficier de ces services.
+Malgré ces difficultés, les habitants de Conciatorus sont solidaires et forment une communauté unie. Ils se soutiennent mutuellement et sont fiers de leur quartier. Les activités culturelles sont rares mais les habitants se réunissent pour des fêtes et des célébrations, comme des fêtes religieuses ou des fêtes de la ville.
+
+#### Le quartier Phoverys
+Le quartier Phoverys est l'un des quartiers les plus pauvres d'Alicantys, situé au nord-est de la ville, le long des rives du fleuve Aricius. Il est connu pour sa population ouvrière, ses conditions de vie difficiles et pour les soulèvements populaires réguliers qui y ont lieu.
+Les rues de Phoverys sont étroites et mal entretenues, bordées de bâtiments  souvent surpeuplés, avec des bâtisses à plusieurs étages. Les rues sont sales, avec des déchets et des eaux usées coulant dans les caniveaux.
+Les activités économiques de Phoverys sont principalement axées sur les métiers manuels et les petits commerces, comme les ateliers de réparation, les échoppes de marchands ambulants et les petites manufactures. Les citoyens de Phoverys travaillent dur pour subvenir à leurs besoins, mais ils sont souvent mal payés et peu qualifiés.
+Il y a peu d'infrastructures sociales dans le quartier, comme des écoles, des bibliothèques ou des centres de santé, les habitants doivent se rendre dans d'autres quartiers pour bénéficier de ces services. Les logements sont souvent insalubres et les conditions d'hygiène déplorables, les maladies courantes dans ce quartier.
+Les soulèvements populaires sont fréquents dans Phoverys, en raison de la frustration et de l'exaspération face aux conditions de vie difficiles. Les légions d'Alicantys sont souvent appelées pour réprimer ces soulèvements, et les citoyens de Phoverys ont une relation tendue avec les autorités de la ville. Malgré cela, les habitants de Phoverys sont solidaires et forment une communauté unie, qui lutte pour des conditions de vie plus décentes et pour une meilleure justice sociale.
+
+#### Le Palatius
+Le Palatius est le palais des élus de la cité d'Alicantys. Il est situé au cœur de la ville, sur une colline surplombant les autres quartiers. Il est entouré de hauts murs et de gardes armés, séparant les élus du reste de la population.
+Le palais est connu pour sa richesse et son luxe, avec des bâtiments en marbre blanc, des statues grandioses et des jardins luxuriants. Il abrite également des salles de réception, des salles de banquet, des bibliothèques et des salles de réunion pour les élus.
+Les habitants du Palatius sont les adorateurs d'un dieu unique, qui croient que leur foi leur donne l'immortalité. Ils pratiquent des rituels secrets et des pratiques mystiques pour prolonger leur vie, et certains d'entre eux peuvent vivre jusqu'à 200 ans.
+Le Palatius est également connu pour son autonomie.

@@ -754,6 +754,11 @@ module.exports = {
             icon: 'mdi-script',
             children: [
               {
+                title: "Les Alcantes",
+                icon: 'mdi-dna',
+                path: '/peuples/alcantes'
+              },
+              {
                 title: "Les Khernaës",
                 icon: 'mdi-dna',
                 path: '/peuples/khernaes'
