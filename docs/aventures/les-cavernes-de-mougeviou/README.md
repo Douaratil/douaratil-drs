@@ -196,7 +196,7 @@ Une odeur nauséabonde emplit la pièce et un casque écrasé gît au centre de 
 
 ### Chambre n° 34
 **Caractéristiques de la pièce**   
-Une tapisserie de monstres légendaires est suspendue au mur sud, et quelqu'un a griffonné "Mind the gap" sur le mur nord.
+Une tapisserie de monstres légendaires est suspendue au mur sud, et quelqu'un a griffonné "pense à la direction" sur le mur nord.
 
 ### Pièce n° 35
 Vide	 
