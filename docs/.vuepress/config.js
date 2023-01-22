@@ -622,6 +622,11 @@ module.exports = {
             ]
           },
           {
+            title: "Les aventures",
+            icon: 'mdi-treasure-chest',
+            path: '/aventures/'
+          },
+          {
             title: "Les batailles",
             icon: 'mdi-shield',
             path: '/batailles/'
@@ -839,10 +844,8 @@ module.exports = {
                 path: '/regles-simplifiees'
               },
               ]
-            },
-
-
-        ]
+            }
+            ]
       },
       {type: 'divider'},
       {

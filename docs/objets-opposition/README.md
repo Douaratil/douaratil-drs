@@ -26,7 +26,7 @@ Quand le facteur temps a son importance, vous pouvez attribuer une **Valeur de d
 ### points de structure des objets
 | Taille | Fragile | Résilient |
 |:-|:-:|:-:|
-| **TP (bouteille, serrure)** | 4) | 8) |
+| **TP (bouteille, serrure)** | 4 | 8 |
 | **P (coffre, luth)** | 6 | 18 |
 | **M (tonneau, lustre)** | 8 | 32) |
 | **G (chariot, fenêtre de 3 × 3 m)** | 10 | 50 |
