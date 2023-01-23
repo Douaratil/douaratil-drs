@@ -16,6 +16,9 @@ Les collines pelées
 ## Solisrubrum
 Soleil rouge
 
+## [Courdoès](/atlas-du-monde/empire-alcante/courdoes)
+Courdoès est l'une des trois plus grandes cités de l'empire alcante qui se situe à l'ouest de l'empire.
+
 ## Silvadensa
 La forêt dense
 
