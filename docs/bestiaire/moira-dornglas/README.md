@@ -69,8 +69,13 @@ languages:
 category: "PJ"
 ---
 ## Moïra Dornglas
-&nbsp;
-[![Moïra Dornglas](https://www.douaratil.fr/illustrations/pj/moiradornglasm.png)](https://www.douaratil.fr/illustrations/pj/moiradornglas.jpg)  
+§§§ .hero
+*Moïra avait vingt-trois ans et une peau claire qui contrastait avec ses cheveux blonds longs et épais. Ses yeux bleus étincelaient de beauté naturelle et sa silhouette élancée et de taille moyenne attirait les regards.*   
+*Moïra était une sorcière talentueuse, connue pour ses connaissances en herboristerie et ses sortilèges. Elle vivait dans les montagnes du Menezlatar et était respectée dans les vallées environnantes pour sa réputation. Cependant, son caractère difficile et colérique pouvait parfois causer des problèmes. Malgré cela, elle était courageuse, séduisante et déterminée, ce qui compensait ses défauts et renforçait son aura mystique et fascinante.*   
+*En tant que femme celtique, Moïra avait probablement grandi dans une culture forte et traditionnelle. Elle était peut-être en harmonie avec la nature et avait une croyance en une spiritualité magique. Tout cela ajoutait à son mystère et à son charme en tant que personnage fascinant.*  
+**Souvenirs de Brycham l'Aventureux**   
+§§§   
+
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -152,7 +157,7 @@ Moïra Dornglas est une Sorseresse qui vit dans les monts du Menezlatar.
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon>Description physique:  
-Moïra Dornglas est une Khernaëe de vingt et trois printemps. Elle a la peau blanche et les cheveux blonds, longs et les yeux bleus. De stature moyenne, elle mesure un mètre soixante deux pour cinquante huit douze kilos.     
+Moïra Dornglas est une Khernaëe de vingt et trois printemps. Elle a la peau blanche et les cheveux blonds, longs et les yeux bleus. De stature moyenne, elle mesure un mètre soixante deux pour cinquante huit kilos.     
 §§§
 
 §§§ .hero
@@ -192,7 +197,7 @@ Moïra Dornglas possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
-néant
+cicatrice épaule gauche
 §§§
 
-Mise à jour le 25/07/2022  
+Mise à jour le 29/01/2023  
