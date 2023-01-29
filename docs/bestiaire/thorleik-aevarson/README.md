@@ -211,9 +211,9 @@ Thorleik Aevarson possède l'équipement suivant :
 
 **Sorts possédés à apprendre** :
 
-- Novice :    
-- Disciple :   
-- Apprenti :   
+- Novice : [Brûlure du juste](/grimoire/brulure-du-juste/), [Mains brûlantes](/grimoire/mains-brulantes/),   
+- Disciple : [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe/),   
+- Apprenti : [Colonne de flamme](/grimoire/colonne-de-flamme/),   
 §§§
 
 

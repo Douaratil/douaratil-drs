@@ -241,7 +241,8 @@ Gwion possède l'équipement suivant :
 
 - Novice :   
 - Disciple :   
-- Apprenti :     
+- Apprenti : [Invisibilité de la dernière chance](/grimoire/invisibilite-de-la-derniere-chance/), [Tentacules noires](/grimoire/tentacules-noires/),    
+- Adepte :   [Invisibilité du dernier recours](/grimoire/invisibilite-du-dernier-recours/),
 §§§
 
 §§§ .hero

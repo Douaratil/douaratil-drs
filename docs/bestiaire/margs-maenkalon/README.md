@@ -183,17 +183,22 @@ Margs possède l'équipement suivant :
 - serpe de maître sacrificielle
 - torches (10)
 - 4619 PC
-- 5183 PA
+- 6083 PA
 - 36 PE
-- 1636 PO
-- 101 PP.  
+- 2444 PO
+- 151 PP.  
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +13**  
-**DD de Sauvegarde: 11**  
+**Bonus d'incantation: +9**  
+**DD de Sauvegarde: 12**  
 **Novice** : [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [mot de guérison](/grimoire/mot-de-guerison).  
+
+**Sorts accessibles à apprendre**:   
+**Novice**: [Amélioration de caractéristique](/grimoire//grimoire/amelioration-de-caracteristique/), [Choc des titans](/grimoire/choc-des-titans/), [Épargner les mourants](/grimoire/epargner-les-mourants/), [Vision dans le noir](/grimoire/vision-dans-le-noir/),   
+**Disciple**:[Communication avec les morts](/grimoire/communication-avec-les-morts/), [Jeter une malédiction](r/grimoire/jeter-une-malediction/),   
+**Apprenti**:  [Allié planaire](/grimoire/allie-planaire/),  [Passage par les arbres](/grimoire/passage-par-les-arbres/), [Transport végétal](/grimoire/transport-vegetal/),   
 §§§
 
 §§§ .hero
@@ -238,5 +243,5 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Cuisse gauche 20 cm
 
 §§§
-Mise à jour du 26/07/2022
+Mise à jour du 31/07/2022
 [.](/bestiaire/cyrthaule)  
