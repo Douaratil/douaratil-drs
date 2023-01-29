@@ -122,7 +122,7 @@ _Touché_ : 2d6+2 dégâts tranchants (Finesse & légère).
 _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
-**Fronde(•)**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
+_**Fronde(•)**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
 _Touché_ : 1d6+2 dégâts perforants .
 
 &nbsp;
@@ -164,13 +164,14 @@ Moïra Dornglas possède l'équipement suivant :
 - rations (6)  
 - épée longue  
 - Vêtement de bonne qualité  
-- 17 400 PA  
-- 5 987 PO.     
+- 0 PA  
+- 3 107 PO  
+- 40 PP     
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces d'argent, 2D6 X 50 pièces d'or.  
+**Niveau patrimoine important** : Le personnage reçoit 4D6 X 200 pièces d'or, 1D6 X 10 pièces de platine.  
 §§§
 
 §§§ .hero
