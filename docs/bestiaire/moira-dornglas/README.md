@@ -68,11 +68,11 @@ languages:
 - "le Weslèdh (3/3), le commun nordique, L'Alcane/Alcath (2/0) le commun impérial, Le Khern (4/3), Mor'vron (3/3), le Mèlde (3/2)"
 category: "PJ"
 ---
-## Moïra Dornglas
+## <v-icon>mdi-human-greeting</v-icon> Moïra Dornglas
 §§§ .hero
-*Moïra avait vingt-trois ans et une peau claire qui contrastait avec ses cheveux blonds longs et épais. Ses yeux bleus étincelaient de beauté naturelle et sa silhouette élancée et de taille moyenne attirait les regards.*   
-*Moïra était une sorcière talentueuse, connue pour ses connaissances en herboristerie et ses sortilèges. Elle vivait dans les montagnes du Menezlatar et était respectée dans les vallées environnantes pour sa réputation. Cependant, son caractère difficile et colérique pouvait parfois causer des problèmes. Malgré cela, elle était courageuse, séduisante et déterminée, ce qui compensait ses défauts et renforçait son aura mystique et fascinante.*   
-*En tant que femme celtique, Moïra avait probablement grandi dans une culture forte et traditionnelle. Elle était peut-être en harmonie avec la nature et avait une croyance en une spiritualité magique. Tout cela ajoutait à son mystère et à son charme en tant que personnage fascinant.*  
+*Moïra devait avoir vingt-cinq ans. Elle avait une peau claire qui contrastait avec ses cheveux blonds longs et épais. Ses yeux bleus profond étincelaient de beauté naturelle et avec sa silhouette élancée et sa taille moyenne attirait les regards.*   
+*Moïra était connue pour être une sorcière, réputée pour ses connaissances en herboristerie et ses sortilèges. Elle vivait dans les montagnes du Menezlatar et était respectée dans les vallées environnantes car nombreux étaient ceux qui faisaient appel à ses services. Elle était aussi connue pour son caractère difficile et quelquefois colérique pouvait causer des problèmes. Mais elle était courageuse, séduisante et déterminée, ce qui compensait ses défauts et renforçait son aura mystique et fascinante aux yeux de ses observateurs.*   
+*En tant que femme khernaëe, Moïra avait grandi dans une culture forte et traditionnelle. Elle essayait d'être en harmonie avec la nature et avait une profonde croyance en sa spiritualité magique. Tout cela ajoutait à son mystère et à son charme et sa réussite faisait l'envie de nombreux de ses détracteurs qui prétendaient qu'elle avait obtenu ses biens par ses sortilèges, ceux qui n'était pas complètement faux, mais pas dans le sens où l'entendaient ses censeurs.*    
 **Souvenirs de Brycham l'Aventureux**   
 §§§   
 
@@ -148,18 +148,6 @@ _Touché_ : 1d6+2 dégâts perforants .
 **Adepte** :
 [Cage de force](/grimoire/cage-de-force), [Doigt de mort](/grimoire/doigt-de-mort), [Esclave](/grimoire/esclave), [Formé éthérée](/grimoire/forme-etheree),  [Symbole](/grimoire/symbole).
 
-
-§§§ .hero
-### Présentation:  
-Moïra Dornglas est une Sorseresse qui vit dans les monts du Menezlatar.
-§§§
-
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon>Description physique:  
-Moïra Dornglas est une Khernaëe de vingt et trois printemps. Elle a la peau blanche et les cheveux blonds, longs et les yeux bleus. De stature moyenne, elle mesure un mètre soixante deux pour cinquante huit kilos.     
-§§§
-
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>Equipement:  
 Moïra Dornglas possède l'équipement suivant :
@@ -170,7 +158,7 @@ Moïra Dornglas possède l'équipement suivant :
 - épée longue  
 - Vêtement de bonne qualité  
 - 0 PA  
-- 3 107 PO  
+- 498 PO  
 - 40 PP     
 §§§
 
@@ -181,9 +169,13 @@ Moïra Dornglas possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+**Prestige Faible**   
+Le domaine est pauvre.   
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine et d'une chambre. Le bâtit est un mélange de bois et de torchis, le toit est un mélange de chaume et de torchis.   
+Une petite palissade de bois de deux mètres ne dissuade pas grand monde. Dans le bourg, six fermes se sont installées avec basse cours.
+La population se compose de la famille du seigneur, de deux servantes, d'un cuisinier, de deux gardes et de six familles de paysans.   
+Revenus : 7 X 6d6 po   
+§§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:    

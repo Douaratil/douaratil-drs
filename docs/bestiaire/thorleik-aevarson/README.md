@@ -68,9 +68,16 @@ languages:
 category: "PJ"
 ---
 
-## Thorleik Aevarson
-&nbsp;
-[![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleikm.png)](https://www.douaratil.fr/illustrations/pj/thorleik.jpg)  
+## <v-icon>mdi-human-greeting</v-icon> Thorleik Aevarson  
+§§§ .hero
+*Thorleik Aevarson était un homme grand et imposant, avec une stature de sept pieds et une peau blanche. Il avait des cheveux blonds et des yeux bleus, avec une longue cicatrice qui descendait de sa tempe gauche jusqu'au menton qui se terminait par une barbe tressée. En tant que prêtre du feu, il était respecté et vénéré par les Melgs de son clan Aevearson, installés aux pieds des Monts du Menezlatar.*    
+*Les déesses du feu Frith et Sreina étaient adorées par les Melgs, et Thorleik en était un prêtre, dirigeant des cérémonies religieuses avec gravité. Les déesses étaient considérées comme protectrices et sources de courage pour les guerriers Melgs. Les rituels religieux étaient centrés sur l'allumage de feux sacrificiels et les offrandes de biens matériels. Thorleik était un représentant de l'alliance des Melgs du Menezlatar.*    
+*Freydis et Thorleik se sont rencontrés pour la première fois lors d'un rassemblement de leur clan après la bataille des rois. Freydis, qui attirait les regards de tous avec sa beauté, a immédiatement attiré l'attention de Thorleik. Il a été fasciné par sa chevelure longue et blonde tressée et ses yeux bleus. Il s'est approché d'elle pour lui parler et a découvert qu'elle était aussi intelligente qu'elle était belle.*   
+*Ils ont commencé à se fréquenter et à passer du temps ensemble, se promenant dans les montagnes et discutant de toutes sortes de choses. Au fil du temps, leur amour s'est développé et ils ont décidé de se marier. Leur union a été bénie par leurs divinités du feu en se marquant l'intérieur du poignet au fer rouge, et ils sont devenus l'un des couples les plus respectés de leur clan.*   
+*Peu de temps après leur mariage, Freydis a donné naissance à une fille nommée Hild, qui est devenue la joie de leur vie. Le couple était heureux et prospère, et leur amour ne faisait que grandir avec le temps.*    
+*Aujourd'hui, Thorleik a 25 an*      
+**Souvenirs d'Ailynn la voyageuse**   
+§§§    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21        
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -186,9 +193,9 @@ Thorleik Aevarson possède l'équipement suivant :
 - pique
 - Tente
 - 2491 PC
-- 15 642 PA
+- 26 942 PA
 - 13 PE
-- 4939 PO   
+- 8950 PO   
 - 53 PP.
 
 §§§ .hero
@@ -199,27 +206,27 @@ Thorleik Aevarson possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +11**  
 **DD de Sauvegarde: 15**  
-**Novice** : [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),
-[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
+**Novice** : [Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
+[Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
-[Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),
+[Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Lever une malédiction](/grimoire/lever-une-malediction/), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe/), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),   
 
 **Apprenti** :  
-[Restauration supérieure](/grimoire/restauration-superieure),
+[Colonne de flamme](/grimoire/colonne-de-flamme/), [Restauration supérieure](/grimoire/restauration-superieure),   
 §§§
 
 **Sorts possédés à apprendre** :
 
-- Novice : [Brûlure du juste](/grimoire/brulure-du-juste/), [Mains brûlantes](/grimoire/mains-brulantes/),   
-- Disciple : [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs/), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe/),   
-- Apprenti : [Colonne de flamme](/grimoire/colonne-de-flamme/),   
+- Novice :  
+- Disciple :    
+- Apprenti :
 §§§
 
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine** : Faible Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.  
+**Niveau patrimoine normale** :  Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
 §§§
 
 §§§ .hero
@@ -227,7 +234,6 @@ Thorleik Aevarson possède l'équipement suivant :
 **Bâtiments** : Une bâtisse principale    
 **Serviteurs** : 0    
 **Revenus** : 0    
-§§§
 
 
 ### Colonie de Madin'alajnibh
@@ -236,7 +242,6 @@ Thorleik Aevarson possède l'équipement suivant :
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
 **Colons** : 8  
 **Trésor** : 1888po, 360 pa
-
 §§§
 
 §§§ .hero
@@ -246,6 +251,7 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 **Points de Magie** :16   
 **Points de Foi** :79      
 **Points d'honneur** :40        
+**Représentant de l'alliance des Melg du Menezlatar** : 1d6X50 po /lune    
 **Voie d'éveil**: Voie de l'ascension.   
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
 §§§
@@ -256,4 +262,4 @@ Cicatrice de 20 cm de la tempe gauche au menton.
 
 §§§
 
-Mise à jour le 12/07/2022
+Mise à jour le 30/01/2023

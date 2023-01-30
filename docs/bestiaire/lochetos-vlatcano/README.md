@@ -66,9 +66,17 @@ languages:
   - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (3/2), Shahim/Shahiate (1/0), Sogh (1/0)"
 category: "PJ"
 ---
-## Lochetos Vlatcano
-&nbsp;
-[![Lôchetos Vlatcano](https://www.douaratil.fr/illustrations/pj/lochetosm.png)](https://www.douaratil.fr/illustrations/pj/lochetos.jpg)  
+## <v-icon>mdi-human-greeting</v-icon>  Lochetos Vlatcano
+§§§ .hero
+*Le jeune Meldète nommé Lôchetos était originaire de la famille prestigieuse Vlatcano de Caohaydhan. Son père Taranos était garde de la maison de Gaernor Lugeto, tandis que sa mère Qwyya lui avait transmis sa passion pour la musique, qui lui avait ouvert la voie de respectueuse de la caste des Llawe nos. Lôchetos avait un oncle Aberthol vivant dans le même quartier, ainsi qu'une soeur, Sedelia, et un frère, Larixos.*   
+*Lôchetos appartenait au clan Meldète Vlatcano qui avait prêté allégeance à Gaenor Lugeto, maître des marais de Geunddon. En tant que membre de ce clan, il servait également d'espion pour le clan Lugeto.*   
+*Physiquement, c'était un homme à la peau claire et aux cheveux noirs, avec des yeux bleus perçants qui semblait percer les pensées profondes de ses interlocuteurs. Il mesurait six pieds et avait un corps athlétique. Une grosse cicatrice sur sa hanche gauche marquait le souvenir d'une morsure de loup reçue durant un hiver particulièrement rigoureux, tandis qu'une cicatrice en forme de trou de flèche dans sa main gauche témoignait de ses aventures passées.*   
+*Lôchetos était un homme robuste et capable, formé pour être un espion pour son clan et pour le protéger. Cependant, il était également un homme profondément passionné par la musique, héritage de sa mère et de son enfance. Cette combinaison de force physique et de sensibilité artistique le rendait unique et intrigant aux yeux des autres. Les femmes se retournaient régulièrement sur son passage et visiblement, il faisait forte impression. Lorsqu'il parlait, il était écouté.*   
+*Lôchetos a connu une vie amoureuse mouvementée. Il avait été profondément affecté par la mort de son amante Laepa, qui a été assassinée à Madin'alajnibh en Miz Even 722 par son mari légitime et jaloux. Cependant, Le réconforté de sa petite fille Serena, née le Miz Khouéré 721 lui a permis de tenir. Il l'a élevée seul au début et a fait de son mieux pour lui donner une vie stable et aimante malgré les tribulations qui secouaient Douaratil.*    
+*En plus de son rôle au sein du clan Vlatcano, Lôchetos était également un homme influent dans la ville de Caohaydhan. Il avait aussi une Maison à Ker-Saozon et un titre de noblesse Khernaë reconnu dans cette ville. Il était également conseiller et responsable du renseignement pour Dame Joan Lugeto dans la ville de Caohaydhan, renforçant encore son influence et son prestige. tout cela était le remerciement des Meldètes et des Khernaës pour sa participation à la bataille des rois.*   
+*Aujourd'hui, Lôchetos a vingt quatre an et est en couple avec une jeune femme shahim Kahina ult Bouhen. Elle est d'une nature douce et compréhensive, et d'une grande beauté et a apporté une nouvelle stabilité dans la vie de Lôchetos. Ensemble, ils forment une famille heureuse et aimante, et sont reconnaissants pour les bénédictions qu'ils ont reçues dans leur vie.*       
+**Souvenirs d'Ailynn la voyageuse**   
+§§§   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -235,8 +243,8 @@ Revenus : 5D6 PP et 30 x 6d6 po
 **Points de Magie** :10    
 **Points de Foi** :11    
 **Points d'honneur** : 67          
-**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.
-**Voie d'éveil**: Ascension   
+**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.    
+**Voie d'éveil**: Ascension      
 Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [soin des blessures](/grimoire/soin-des-blessures).     
 **Maison à Ker-Saozon et titre de noblesse Khernaë**  
 **conseiller et responsable du renseignement auprès de Dame Joan Lugeto** (1d6*5PP/lune)   

@@ -68,9 +68,17 @@ languages:
   - "le Weslèdh (3/0), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0)"
 category: "PJ"
 ---
-## Knut Svenson
-&nbsp;
-[![Knut Svenson](https://www.douaratil.fr/illustrations/pj/knutm.png)](https://www.douaratil.fr/illustrations/pj/knut.jpg)  
+## <v-icon>mdi-human-greeting</v-icon>  Knut Svenson  
+§§§ .hero
+*Knut Swenson était un jeune homme de vingt et un printemps, originaire des familles Melg installées aux pieds des Monts du Menezlatar. Il avait la peau blanche et des cheveux blonds qui brillaient sous les rayons du soleil. Ses yeux bleus reflétaient son courage et son détermination. Il mesurait un mètre quatre vingt huit pour quatre vingt huit kilos, et sa carrure massive laissait entrevoir sa force physique. Il était connu pour être un Jörghal, un guerrier d'élite Melg en charge de protéger Thorleik Aevarson, prêtre du dieu du feu.*   
+*Knut était marié à Thorgunna Iridottir, qu'il avait épousée à Miz Khouéré 722 dans sa colonie. Le couple avait un fils du nom de Swnut, qui était la source de leur fierté et de leur joie. Knut était aimé et respecté par tous ceux qui le connaissaient pour sa détermination et son sens du devoir envers sa famille et sa communauté.*   
+*Knut Swenson était un jeune homme de vingt et un printemps, originaire des familles Melg installées aux pieds des Monts du Menezlatar. Il avait la peau blanche et des cheveux blonds qui brillaient sous les rayons du soleil. Ses yeux bleus reflétaient son courage et son détermination. Il mesurait un mètre quatre vingt huit pour quatre vingt huit kilos, et sa carrure massive laissait entrevoir sa force physique. Il était connu pour être un Jörghal, un guerrier d'élite Melg en charge de protéger Thorleik Aevarson, prêtre du dieu du feu.*   
+*Knut était marié à Thorgunna Iridottir, qu'il avait épousée à Miz Khouéré 722 dans sa colonie. Le couple avait un fils du nom de Swnut, qui était la source de leur fierté et de leur joie.*   
+*Thorgunna Iridottir était décrite comme une jeune femme melge discrète par les gens qui la connaissait, avec une peau extrêmement blanche, une chevelure rousse flamboyante tressée et des yeux d'émeraude. Cependant, malgré son apparence calme, elle est en réalité dotée d'un caractère enjoué et est une mère attentionnée pour son petit Swnut.*     
+*Knut était aimé et respecté par tous ceux qui le connaissaient pour sa détermination et son sens du devoir envers sa famille et sa communauté.*   
+*Thorgunna Iridottir était décrite comme une jeune femme melge discrète par les gens qui la connaissait, avec une peau extrêmement blanche, une chevelure rousse flamboyante tressée et des yeux d'émeraude. Cependant, malgré son apparence calme, elle est en réalité dotée d'un caractère enjoué et est une mère attentionnée pour son petit Swnut.*    
+**Souvenirs d'Ailynn la voyageuse**   
+§§§    
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
@@ -99,7 +107,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 _**Maître des haches**_. *(Jörghal)* À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)
 
-_**Attaque supplémentaire** _. *(Jörghal)* À partir du niveau 7, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
+_**Attaque supplémentaire**_. *(Jörghal)* À partir du niveau 7, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
 
 _**Champion**_. *(Jörghal)* À partir du niveau 5, le Jörghal peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
 Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
@@ -128,21 +136,11 @@ _Touché_ : 3d6+7 dégâts tranchants (lourde, à deux mains)(+2 dégâts Attaqu
 
 
 §§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Knut Swenson est un jeune Melg qui est installé aux pieds des Monts du Menezlatar. Il fait parti des familles qui ont fait le choix de rester à l'Ouest.
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Knut est un jeune Melg de dix neuf printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. Il mesure un mètre quatre vingt huit pour quatre vingt huit kilos.
-§§§
-
-§§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
 Knut possède l'équipement suivant :
 - armure de cuir cloutée
-- Armure de cuir cloutée +1 Am’ddiffyn (mur épais)
-- Hache +1 Syväpurenta (morsure profonde)
+- [Armure de cuir cloutée +1 Am’ddiffyn (mur épais)](/liste-objets-magiques/armure-1/)
+- [Hache +1 Syväpurenta (morsure profonde)](/liste-objets-magiques/arme-1/)
 - Parchemins de mur de feu (2)
 - Potion d'invisibilité (1)
 - bourse
@@ -154,16 +152,16 @@ Knut possède l'équipement suivant :
 - pique
 - tente
 - tenue de voyageur
-- 2792 PC
-- 0 PA
+- 3692 PC
+- 2400 PA
 - 0 PE
-- 0 PO
+- 1604 PO
 - 0 PP.
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** :  Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
+**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.   
 §§§
 
 §§§ .hero
@@ -178,9 +176,8 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 ### Colonie de Madin'alajnibh
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
-**Colons** : 17    
-**Trésor** : 0 pa
-
+**Colons** : 30    
+**Trésor** : 0 pa  
 §§§
 
 §§§ .hero
@@ -189,14 +186,10 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 **XP acquis** : 95 954  
 **Points de Magie** :12   
 **Points de Foi** :11    
-**Points d'honneur** :44
+**Points d'honneur** :44  
 **Représentant de l'alliance des Melg du Menezlatar** : 1d6X50 po /lune      
 §§§
 
-## Thorgunna Iridottir
-&nbsp;
-[![Thorgunna Iridottir](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottirm.png)](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir.jpg)   
-Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khouéré 722 dans sa colonie.        
 
 
 §§§ .hero
@@ -205,4 +198,4 @@ Comme un sou neuf
 
 §§§
 
-*Mise à jour du 21/07/2022*
+*Mise à jour du 30/01/2023*

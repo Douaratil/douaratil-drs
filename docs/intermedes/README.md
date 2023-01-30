@@ -104,7 +104,7 @@ Les évènements familiaux se jettent sur une première table qui indique ensuit
 |7-10|Maladie (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
 |11-15|Blessure (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
 |16-19|Naissance (1 bâtard,- 2-3 épouse, 4-6 parent) (1 mort né, 2-5 normal, 6 jumeaux)|
-|20-23|Assassinant (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
+|20-23|Assassinat (1 personnage, 2 épouse, 3 enfants, 4-6 parents)|
 |24|Relancer deux fois avec un bonus de +2|
 
 * Les dés ne sont pas explosifs
