@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "5"
+challenge: "8"
 customHP: "22"
 abilityScores:
   for: 10
   dex: 10
   con: 12
-  int: 16
-  sag: 12
+  int: 18
+  sag: 15
   cha: 8
-customSavingThrows: "for +0, dex +0, con +1, int(••) +9, sag(••) +7, cha -1 "
+customSavingThrows: "for +0, dex +0, con +1, int(••) +10, sag(••) +8, cha -1 "
 savingThrows:
   - "int"
   - "int"
@@ -21,40 +21,40 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "16 (armure de cuir cloutée + bouclier en bois)"
+  value: "17 (armure de cuir cloutée + bouclier en bois)"
 skills:
   - name: "custom"
     value: "acrobatie +0"
   - name: "custom"
-    value: "arcanes +3"
+    value: "arcanes +4"
   - name: "custom"
     value: "athletisme +0"
   - name: "custom"
-    value: "dressage +1"
+    value: "dressage +2"
   - name: "custom"
     value: "escamotage +0"
   - name: "custom"
-    value: "histoire(•) +6"
+    value: "histoire(•) +7"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
-    value: "investigation +3"
+    value: "investigation +4"
   - name: "custom"
-    value: "médecine +1"
+    value: "médecine +2"
   - name: "custom"
-    value: "nature +3"
+    value: "nature +4"
   - name: "custom"
-    value: "perception(•) +4"
+    value: "perception(•) +5"
   - name: "custom"
-    value: "perspicacite +1"
+    value: "perspicacite +2"
   - name: "custom"
     value: "representation -1"
   - name: "custom"
-    value: "religion(•) +6"
+    value: "religion(•) +7"
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
-    value: "survie(•) +4"
+    value: "survie(•) +5"
 movement:
   walk: 9
 senses:
@@ -62,9 +62,12 @@ languages:
   - "le Weslèdh (3/3), le Mèlde (3/3), le mèldon (3/3) et le Drods (3/3) et l'Alcath (2/0)"
 category: "PJ"
 ---
-## Pywed Vecconos
-&nbsp;
-[![Pywed Vecconos](https://www.douaratil.fr/illustrations/pj/pywedm.png)](https://www.douaratil.fr/illustrations/pj/pywed.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Pywed Vecconos
+§§§ .hero
+*Pywed Vecconos était un Meldète de vingt-huit printemps, avec une peau blanche, des cheveux bruns et des yeux verts. Il était de grande taille pour cent quatre vingt livres. Il était le troisième fils d'une famille noble respectée de Masyvum, connue sous le nom de Vecconos. À l'âge de 7 ans, il a été envoyé en otage à Alicantys suite à un incident diplomatique. Pendant son séjour, il a appris la philosophie et la littérature, ce qui a attiré l'attention de sa famille sur ses capacités de raisonnement. C'est ainsi qu'il a été proposé à l'Ordre des Drodanos pour représenter sa famille dans les cercles intellectuels Meldètes.*
+*Après plusieurs années d'apprentissage avec son maître Divivacos le Rocailleux, Pywed a voyagé à travers tout Douaratil. Finalement, son maître a considéré que Pywed était prêt et l'a envoyé vers Ker-Saozon pour rencontrer Margs, dont le nom était sur toutes les lèvres ces derniers temps.*    
+**Souvenirs d'Ailynn la voyageuse**   
+§§§  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14     
@@ -78,7 +81,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , gourdins, javelines, massues, cimeterres, serpes, lances, glaive, hache, matériel d'herboriste, matériel d'alchimiste, Tympanion.
 
-_**Voie de la Magie & Drodan**_. Pywed est niveau 5 dans la voie de la Magie et Archétype Dordan.  
+_**Voie de la Magie & Drodan**_. Pywed est niveau 8 dans la voie de la Magie et Archétype Dordan.  
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.  armures légères, armures intermédiaires, boucliers (les drodans n'utilisent pas d'armure ou de bouclier faits en métal).  
 
@@ -117,20 +120,6 @@ _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
-
-
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Pywed Vecconos est un grand Meldète à la barbe longue, 3ème fils de la famille Vecconos, petite mais respectée famille noble mais de Masyvum. Il a été envoyé à Alicantys en otage à l’âge de ses 7 ans suite à un incident diplomatique qui engendrera le bannissement à Dinas Môr-Leidr de son cousin Cenocantos Vecconos. Pywed a plutôt bien vécu ce passage en terre impériale et garde en tête quelques leçon de philosophie et de littératures, souvenirs qu’il aime bien se ressasser. De retour en Douaratil, sa famille remarque sa capacité à raisonner et le proposent donc à l’ordre des Drodanos pour qu’il fasse rayonner leur nom dans les cercles intellectuels Meldètes   
-Après plusieurs années d’apprentissage il est prit sous l’aile de son maitre Divivacos le rocailleux avec qui il voyage dans tout Douaratil.   
-Suite aux évènements récents, son maître met fin de façon anticipé à son apprentissage, considèrent que Pywed est prêt. Il l’envoie donc vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.  
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Pywed Vecconos est un Meldète de vingt six printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt quinze pour quatre vingt dix kilos.
-§§§
-
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
 Pywed Vecconos possède l'équipement suivant :
@@ -144,13 +133,15 @@ Pywed Vecconos possède l'équipement suivant :
 - Habits de bonne qualité
 - hache
 - instrument de musique
-- 700 pc, 200 pa, 125 po  
+- 700 pc
+- 200 pa
+- 125 po  
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +6**  
-**DD de Sauvegarde: 11**  
+**Bonus d'incantation: +7**  
+**DD de Sauvegarde: 13**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).    
 §§§
 
@@ -169,10 +160,10 @@ Pywed Vecconos possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Hauts faits de vaillance**: *Bataille des rois haut fait légendaire +10*  
-**XP acquis** : 6750     
-**Points de Magie** :16  
-**Points de Foi** :32  
-**Points d'honneur** :18  
+**XP acquis** : 38 890     
+**Points de Magie** :18  
+**Points de Foi** :47  
+**Points d'honneur** :34  
 §§§
 
 §§§ .hero
@@ -180,4 +171,4 @@ Pywed Vecconos possède l'équipement suivant :
 
 
 §§§
-*Mise à jour du 21/07/2022*
+*Mise à jour du 31/01/2023*

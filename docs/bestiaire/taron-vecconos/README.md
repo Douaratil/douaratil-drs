@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Meldète"
 size: "M"
 alignment: "Loyal neutre"
-challenge: "9"
-customHP: "54"
+challenge: "12"
+customHP: "67"
 abilityScores:
-  for: 16
+  for: 20
   dex: 10
-  con: 18
+  con: 19
   int: 10
   sag: 10
   cha: 10
-customSavingThrows: "for(•) +11, dex +0, con(•) +12, int +0, sag +0, cha 0 "
+customSavingThrows: "for(••) +13, dex +0, con(••) +12, int +0, sag +0, cha 0 "
 savingThrows:
   - "for"
   - "for"
@@ -28,7 +28,7 @@ skills:
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
-    value: "athlétisme(••) +11"
+    value: "athlétisme(••) +13"
   - name: "custom"
     value: "dressage(•) +4"
   - name: "custom"
@@ -62,12 +62,14 @@ languages:
   - "le Weslèdh (3/1), le Mèlde (3/1), le mèldon (3/1) et l'Alcath (2/0) "
 category: "PJ"
 ---
-## Taron Vecconos
-&nbsp;
-[![Taron Vecconos](https://www.douaratil.fr/illustrations/pj/taronm.png)](https://www.douaratil.fr/illustrations/pj/taron.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Taron Vecconos
+§§§ .hero
+*Taron Vecconos était un grand Meldète, doté d'une barbe longue et d'une moustache fournie. Il était le deuxième fils d'une petite mais respectée famille noble de Masyvum. Récemment, il avait suivi son frère Pywed jusqu'à Ker-Saozon pour rencontrer une personne connue sous le nom de Margs, dont la réputation avait commencé à se répandre. Taron avait la peau blanche, les cheveux bruns et les yeux verts. Il mesurait six pieds et pesait environ cent quinze livres. Il était également tatoué, avec les yeux de Teutès, le dieu de la guerre, sur son front. Il dégageait une aura de force et de détermination.*   
+**Souvenirs d'Ailynn la voyageuse**   
+§§§  
 
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18          
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19          
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités  
 **Historique** : Militaire  
 **Compétences** : Athlétisme (expert), , Dressage, Intimidation (expert), Perception, Survie.  
@@ -77,7 +79,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (Double maîtrise pour armes courantes, Hache, haches à deux mains et la pique), boucliers, armure légère, armure intermédiaire, armure lourde.  
 
-_**Voie des Armes & Ior**_. Taron est niveau 9 dans la voie des armes et Archétype Ior.  
+_**Voie des Armes & Ior**_. Taron est niveau 13 dans la voie des armes et Archétype Ior.  
 
 _**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
@@ -107,63 +109,74 @@ De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au d�
 
 _**Attaque supplémentaire**_. *(Ior)* À partir du niveau 8, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour. Si vous possédez déjà une attaque supplémentaire, vous ajoutez +1 aux dégâts de l’arme.  
 
-_**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.   
+_**Toujours debout**_. *(Ior)* A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.    
+
+_**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.   
+
+_**Cri sauvage**_. *(Ior)* Le cri sauvage est à la fois un cri de guerre et de joie sauvage que vous poussez lorsque vous frappez un ennemi de toutes vos forces. À partir du niveau 10, lorsque vous choisissez d'utiliser votre aptitude témérité, vous pouvez dépenser une action bonus pour pousser un cri sauvage et obtenir un bonus de 1d6 aux dégâts infligés par une attaque au corps-à-corps à votre tour. Si vous êtes à ce moment-là en rage, vous ajoutez 2d6 aux dégâts de l'attaque au lieu de 1d6.  
+
+_**Rage Implacable de Teutès**_. *(Ior)* A partir du niveau 11, quand vous vous retrouvez en rage dans les mêmes conditions que la capacité de niveau 3 **Cyndared’Teutès** , vous obtenez les bénéfices suivants :
+• Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Force et les jets de sauvegarde de Force.
+• Quand vous utilisez une arme de corps-à-corps, vous gagnez un bonus aux jet de dégâts +3.
+Ce bonus augmente en même temps que votre niveau.  
+• Vous devenez [_résistant_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
+Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
+Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
+Le Ior possède **quatre états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.
 
 ## <v-icon>mdi-sword-cross</v-icon>  Actions
 
 _**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'il utilise l'action attaquer.  
 
-_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**[Hache +2  Fang’dhour (croc d’acier)](/liste-objets-magiques/arme-2/)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+8 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+6 (+1 attaque supplémentaire du Ior)à deux mains).
+
+_**Hache(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+6 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+4 (+1 attaque supplémentaire du Ior)à deux mains).  
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (portée 6/18).  
 
-_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
+_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).  
-
-
-
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Taron Vecconos est un grand Meldète à la barbe longue et la moustache fournie, 2ème fils de la famille Vecconos, petite mais respectée famille noble de Masyvum.  
-Suite aux évènements récents, il a suivi son frère Pywed vers Ker-Saozon pour rencontrer Margs dont le nom résonne ces derniers temps.    
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Taron Vecconos est un Meldète de vingt huit printemps. Il a la peau blanche les cheveux bruns et les yeux verts. Il mesure un mètre quatre vingt seiez pour quatre vingt quinze kilos. Il est tatoué, dont les yeux de Teutès sur le front.  
-§§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
 Taron Vecconos possède l'équipement suivant :  
-- Armure de cuir cloutée  
+- Armure de cuir cloutée
+- [Armure de cuir +1 Paksuseinä (Mur épais)](/liste-objets-magiques/armure-1/)
+- [Hache +2  Fang’dhour (croc d’acier)](/liste-objets-magiques/arme-2/)
 - bourse  
 - dague  
 - habits de bonne qualité  
 - haches(2)  
 - pique  
 - sac à dos  
-- 125 po  
+- 4200 PC
+- 2000 PA
+- 5999 po  
 §§§
 
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine très faible** : néant   
-Le personnage reçoit 2D6 X 100 pièces de cuivre, 1D6 X 50 pièces de d'argent et 1D6 X 10 pièces d'or.  
+**Niveau patrimoine faible** : néant   
+Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.    
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+**Prestige Faible**
+Le domaine est pauvre.   
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine et d'une chambre. Le bâtit est un mélange de bois et de torchis, le toit est un mélange de chaume et de torchis.   
+Une petite palissade de bois de deux mètres ne dissuade pas grand monde. Dans le bourg, six fermes se sont installées avec basse cours.
+La population se compose de la famille du seigneur, de deux servantes, d'un cuisinier, de deux gardes et de six familles de paysans.   
+Revenus : 7 X 6d6 po   
 -
 ### Colonie de Madin'alajnibh
-**Développement très faible** La colonie est pauvre.  
-La colonie est très pauvre. La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po.   
+**Développement faible** La colonie est pauvre.
+La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po   
 **Colons** : 25  
 **Trésor** : 100 PO  
 
@@ -172,10 +185,11 @@ La colonie est très pauvre. La colonie est constituée de cinq bâtiments avec 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Hauts faits de vaillance**:  *Bataille des rois haut fait légendaire +10*  
-**XP acquis** : 48 000     
+**XP acquis** : 112 280     
 **Points de Magie** :10  
 **Points de Foi** :10  
-**Points d'honneur** :28  
+**Points d'honneur** :44  
+**Représentant de l'alliance des Meldètes** : 1d6X50 po /lune   
 §§§
 
 §§§ .hero
@@ -184,4 +198,4 @@ Comme un sou neuf
 
 §§§
 
-*Mise à jour du 21/07/2022*
+*Mise à jour du 31/01/2023*
