@@ -4,8 +4,8 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "8"
-customHP: "30"
+challenge: "9"
+customHP: "32"
 abilityScores:
   for: 10
   dex: 13
@@ -13,7 +13,7 @@ abilityScores:
   int: 16
   sag: 14
   cha: 9
-customSavingThrows: "for +0, dex(•) +4, con(•) +5, int(•) +6, sag(•) +5, cha +0"
+customSavingThrows: "for +0, dex(•) +5, con(•) +6, int(•) +7, sag(•) +6, cha +0"
 savingThrows:
   - "dex"
   - "con"
@@ -24,11 +24,11 @@ ac:
   value: "17 (armure de cuir clourée+ esquive intuitive) "
 skills:
   - name: "custom"
-    value: "acrobatie(•) +4"
+    value: "acrobatie(•) +5"
   - name: "custom"
-    value: "arcanes(••) +9"
+    value: "arcanes(••) +11"
   - name: "custom"
-    value: "athlétisme(•) +0"
+    value: "athlétisme(•) +4"
   - name: "custom"
     value: "discretion +1"
   - name: "custom"
@@ -36,7 +36,7 @@ skills:
   - name: "custom"
     value: "escamotage +1"
   - name: "custom"
-    value: "histoire(•) +6"
+    value: "histoire(•) +7"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
@@ -48,13 +48,13 @@ skills:
   - name: "custom"
     value: "perception +2"
   - name: "custom"
-    value: "Perspicacité(••) +8"
+    value: "Perspicacité(••) +10"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
     value: "religion +3"
   - name: "custom"
-    value: "representation(•) +2"
+    value: "representation(•) +3"
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
@@ -112,16 +112,16 @@ _**Maîtrise de la concentration**_. *(Sohoten)* À partir du niveau 9, vous pou
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).  
 
-_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
+_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6 dégâts tranchants (Polyvalent 2d6+2 à deux mains).   
 
-_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+2 dégâts tranchants (Finesse, légère, lancer 6/18).   
 
-_**Fronde(•)**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 9/36.  
+_**Fronde(•)**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 9/36.  
 _Touché_ : 1d6+2 dégâts perforants.   
 
 
