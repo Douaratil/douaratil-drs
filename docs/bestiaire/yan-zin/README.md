@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Loyal bon"
-challenge: "8"
-customHP: "42"
+challenge: "12"
+customHP: "60"
 abilityScores:
   for: 13
-  dex: 18
-  con: 10
+  dex: 20
+  con: 12
   int: 10
-  sag: 14
+  sag: 16
   cha: 10
-customSavingThrows: "for(•) +4, dex(•) +7, con(•) +3, int +0, sag(•) +5, cha +0"
+customSavingThrows: "for(•) +5, dex(•) +9, con(•) +5, int +0, sag(•) +7, cha +0"
 savingThrows:
   - "for"
   - "dex"
@@ -21,22 +21,22 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "17 (Armure de cuir cloutée)"
+  value: "24 (Kirin no sukēru cuirasse +2)"
 skills:
   - name: "custom"
-    value: "acrobatie +4"
+    value: "acrobatie +5"
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
-    value: "athlétisme(•) +4"
+    value: "athlétisme(•) +5"
   - name: "custom"
-    value: "discretion +4"
+    value: "discretion +5"
   - name: "custom"
-    value: "dressage(••) +8"
+    value: "dressage(••) +11"
   - name: "custom"
-    value: "Equitation(••) (dressage + empathie équestre) +9"
+    value: "Equitation(••) (dressage + empathie équestre) +15"
   - name: "custom"
-    value: "escamotage +4"
+    value: "escamotage +5"
   - name: "custom"
     value: "histoire +0"
   - name: "custom"
@@ -44,23 +44,23 @@ skills:
   - name: "custom"
     value: "investigation +0"
   - name: "custom"
-    value: "medecine +2"
+    value: "medecine +3"
   - name: "custom"
     value: "nature +0"
   - name: "custom"
-    value: "perception(••) +8"
+    value: "perception(••) +11"
   - name: "custom"
-    value: "Perspicacité +2"
+    value: "Perspicacité +3"
   - name: "custom"
-    value: "persuasion(•) +3"
+    value: "persuasion(•) +4"
   - name: "custom"
-    value: "religion +1"
+    value: "religion +0"
   - name: "custom"
     value: "representation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie +2"
+    value: "survie +3"
 movement:
   walk: 9
 senses:
@@ -68,12 +68,15 @@ languages:
   - "le Weslèdh (2/0), le commun nordique, L'Alcane/Alcath (2/0 le commun impérial, le Minghour/Mingath (3/1) le commun oriental, le Yotaï/Tohaï (3/1) la langue des Yotakaï, le Yoth (3/1) un dialecte Yotakaï, Sogh (2/0) "
 category: "PJ"
 ---
-## Yan Zin
-&nbsp;
-[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzinm.png)](https://www.douaratil.fr/illustrations/pj/yanzin.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Yan Zin   
+§§§ .hero
+*Yan Zin était un Yotakaï de vingt et trois printemps à la peau mate et aux cheveux noirs longs. Il avait des yeux noirs et une stature moyenne. Il portait une cicatrice sur sa hanche gauche, percée par une lance trace de sa vie guerrière et aventureuse. Il appartenait au clan de Ran'Kaze Taiya Rebana, les coureurs sur le vent du soleil levant, et était le fils du seigneur Tatsuba Zin.*  
+*Yan Zin était à la cour de Goulvening pour apprendre les coutumes et les langues claniques de l'Ouest et pour ouvrir une ligne commerciale vers l'Est. En réalité, il était une sorte "d'otage" mais il était très bien traité. Il était également un ami de Goulvening. Pendant son séjour à la cour, Yan Zin apprenait les us et coutumes locaux, se familiarisait avec les langues et préparait la voie pour une collaboration commerciale fructueuse entre l'Est et l'Ouest.*      
+**Souvenirs d'Ailynn la voyageuse**   
+§§§     
 
-**<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 10             
-**<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 20      
+**<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 12             
+**<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 25      
 ## <v-icon>mdi-weight-lifter</v-icon>  Capacités
 _**Historique Officier:**_.  
 **Compétences**.Athlétisme ou Dressage, Persuasion.  
@@ -84,7 +87,7 @@ _**Historique Officier:**_.
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.
 
-_**Voie des armes & Seibahkami**_. Yan Zin est niveau 8 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
+_**Voie des armes & Seibahkami**_. Yan Zin est niveau 12 dans la voie des armes et Archétype Seibahkami : c'est un Shibōshaï.
 
 _**Style de combat Archérie**_. *(Armes)* Yan Zin gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.
 
@@ -108,28 +111,33 @@ _**Ami équestre**_. *(Seibahkami)* À partir du niveau 7, vous avez une relatio
 
 _**Tir lointain**_. *(Seibahkami)* À partir du niveau 8, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche au double de sa portée.  
 
+_**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.   
+
+_**Coup parfait**_. *(Seibahkami)* À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts sur la table des coups critiques lors d'une attaque de corps-à-corps.  
+À partir du niveau 13, vous lancez deux dés additionnels (+2d6), trois dés (+3d6) à partir du niveau 17 et quatre dés (+4d6) au niveau 20.  
+
+_**Frappe majestueuse**_. *(Seibahkami)* A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire de taille moyenne maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD10 + modificateur de charisme ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de combat jusqu'à réussir le JS.     
+
+_**Calligraphie**_. *(Seibahkami)* A partir du niveau 11, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez toujours un avantage pour vos tests de calligraphie.  
+
+_**Tir puissant**_. *(Seibahkami)* À partir du niveau 12, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche beaucoup plus puissante. Si le tir touche et blesse l’adversaire, les dégâts sont majorés de +1d6. La puissance augmente avec le niveau : +2d6 au niveau 15 et +3d6 au niveau 18.  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Attaques multiples**_. Yan Zin effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
+_**Attaques multiples**_. Yan Zin effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+5 dégâts tranchants (Finesse, polyvalente 3d6+4).
+_**[sabre +2 Sukaiburēdo (lame du ciel)](/liste-objets-magiques/arme-2/)(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+9 dégâts tranchants (Finesse, polyvalente 3d6+4).
 
-_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+4 dégâts tranchants (Finesse, légère, lancer 6/18).
+_**Sabre(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+7 dégâts tranchants (Finesse, polyvalente 3d6+4).
 
-_**Arc long(••)**_. _Attaque d'arme à distance_ : +12 pour toucher, portée 45/180.  
-_Touché_ : 2d6+4 dégâts perforants .
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+5 dégâts tranchants (Finesse, légère, lancer 6/18).
 
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Yan Zin est à la cour de Goulvening car il est du clan de Ran'Kaze Taiya Rebana (Les coureurs sur le vent du soleil levant) fils du seigneur Tatsuba Zin et ami de Goulvening. Il y est pour apprendre les coutumes et les langues claniques de l’Ouest et ouvrir une ligne commerciale vers l’Est. En fait, il est une sorte « d’otage » très bien traité.
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon>Description physique:  
-Yan Zin est un Yotakaï de vingt et un printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante quinze pour soixante douze kilos. Cicatrice hanche gauche (percée par une lance).   
-§§§
+_**Arc long(••)(style de combat archerie)**_. _Attaque d'arme à distance_ : +15 pour toucher, portée 45/180.  
+_Touché_ : 2d6+5 dégâts perforants .
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon>Equipement:  
@@ -137,16 +145,17 @@ Yan Zin possède l'équipement suivant :
 - arc long
 - armure de cuir
 - armure de cuir cloutée   
+- [Kirin no sukēru (armure Yotakaï familiale en écaille de Kirin)](//liste-objets-magiques/armure-2/)
 - [broche de protection](/liste-objets-magiques/broche-de-protection)
 - cheval
 - dague
-- flèches (7)
+- flèches (20)
 - insigne de cavalerie (officier en formation)
 - rations (6)
 - sabre oriental
 - Vêtement de bonne qualité
-- 23900 PA
-- 7807 PO.    
+- 3900 PA
+- 807 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -156,16 +165,25 @@ Yan Zin possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal  
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 X 6d6po    
 
-### Colonie de Madin'alajnibh
-**Développement faible** La colonie est pauvre.  
-La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po    
-**Colons** : 99
+### Colonie de Douaratil
+**Développement normal** La colonie est respectable.
+La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po  
+**Colons** : 120
 **Trésor** : 340 PO
+§§§
+
+§§§ .hero
+### <v-icon>mdi-weight</v-icon> Commerce
+**Comptoir commercial faible**  
+Risque maximum : Faible  
+Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point. Le comptoir compte un bâtiment principal et un bâtiment secondaire qui sert d’entrepôt, une écurie et deux pontons sur la rivière. quatre personnes tiennent les lieux, deux autres s'occupent des deux chevaux et de deux charrettes et quatre autres sont sur deux bateaux à voile.  
 
 §§§
 
@@ -173,17 +191,19 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 38 317          
+**XP acquis** : 111 957           
 **Points de Magie** :10  
 **Points de Foi** :14        
-**Points d'honneur** :31  
+**Points d'honneur** :49     
 **Voie d'éveil**: Voie de l'ascension   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos.    
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos. Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)     
+**Conseil de Kerzu** 1d6 X 50po/ lune   
+**Titre " Ami de Ker-Saozon"**
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 hanche gauche (20cm)
 
-Mise à jour du 21/07/2022
+Mise à jour du 31/01/2023
 §§§

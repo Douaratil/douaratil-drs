@@ -130,16 +130,16 @@ Le Ior possède **quatre états de rage**, une fois que vous êtes entrés en é
 _**Attaques multiples**_. Taron effectue 2 attaques par round lorsqu'il utilise l'action attaquer.  
 
 _**[Hache +2  Fang’dhour (croc d’acier)](/liste-objets-magiques/arme-2/)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+8 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+6 (+1 attaque supplémentaire du Ior)à deux mains).
+_Touché_ : 2d6+11 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+6 (+1 attaque supplémentaire du Ior)à deux mains).
 
 _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+6 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+4 (+1 attaque supplémentaire du Ior)à deux mains).  
+_Touché_ : 2d6+9 dégâts tranchants (+1 attaque supplémentaire du Ior)(3d6+4 (+1 attaque supplémentaire du Ior)à deux mains).  
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (portée 6/18).  
+_Touché_ : 1d6+5 dégâts tranchants (+1 attaque supplémentaire du Ior) (portée 6/18).  
 
 _**Pique(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+4 dégâts tranchants (+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).  
+_Touché_ : 3d6+5 dégâts tranchants (+1 attaque supplémentaire du Ior) (lourde, allonge, à deux mains).  
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -166,13 +166,12 @@ Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Prestige Faible**
-Le domaine est pauvre.   
-Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine et d'une chambre. Le bâtit est un mélange de bois et de torchis, le toit est un mélange de chaume et de torchis.   
-Une petite palissade de bois de deux mètres ne dissuade pas grand monde. Dans le bourg, six fermes se sont installées avec basse cours.
-La population se compose de la famille du seigneur, de deux servantes, d'un cuisinier, de deux gardes et de six familles de paysans.   
-Revenus : 7 X 6d6 po   
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 X 6d6po      
 -
 ### Colonie de Madin'alajnibh
 **Développement faible** La colonie est pauvre.
@@ -189,7 +188,7 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 **Points de Magie** :10  
 **Points de Foi** :10  
 **Points d'honneur** :44  
-**Représentant de l'alliance des Meldètes** : 1d6X50 po /lune   
+**Conseiller à Caohaydhan** : 1d6X50 po /lune   
 §§§
 
 §§§ .hero

@@ -199,10 +199,10 @@ Gwion possède l'équipement suivant :
 - serpe (2) sacrificielle finement ouvragées (Valeur 100po pièce)
 - torche (1)
 - 3857 PC
-- 29 978 PA
+- 14 978 PA
 - 44 PE
-- 17 136 PO
-- 223 PP.  
+- 0 PO
+- 0 PP.  
 §§§
 
 §§§ .hero
@@ -247,8 +247,7 @@ Gwion possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine important** : Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.   
-**Apoticaire de Caohaydan** : 3d6 po  
+**Niveau patrimoine très important** : Le personnage a un patrimoine très important et est reconnu par tous pour cela. Ce niveau n'a pas de limite, il correspond à un niveau de vie très aisé qui permet de vivre et de fréquenter les classes dirigeantes. Cela correspond au minimum à un corps de ferme fortifié. La famille peut posséder des terres, des lieux religieux ou des secteurs commerciaux. Un tel investissement permet d'avoir l'équivalent du haut fait de richesse "légendaire" avec les avantages de points d'honneur qu'il en découle. Il reçoit régulièrement des subsides importants 2D6 X 1000 pièces d'or et 2D6 X 50 pièces de platine.   
 §§§
 
 §§§ .hero
@@ -272,13 +271,13 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 279 645         
+**XP acquis** : 289 645         
 **Points de Magie** :92     
 **Points de Foi** :20      
 **Points d'honneur** :64               
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimalo**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
-**Guilde des mages** : Apprenti 420 po/lune, avantage : réseau de guilde, +1 au toucher et aux dégâts avec un élément de prédilection* (l'élément est symbolique de la guilde : Foudre), +1 aux JS d'INT, train de vie confortable.   
+**Guilde des mages** : Adepte 560 po/lune, avantage : réseau de guilde, +1 au toucher et +2 aux dégâts avec un élément de prédilection (foudre), +2 aux JS d'INT, train de vie riche.   
 **Eveil**: Voie médiane  
 Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
 **conseiller auprès de Dame Joan Lugeto** (1d6*5PP/lune)  

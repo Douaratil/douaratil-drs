@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Assyrhim"
 size: "M"
 alignment: "loyal neutre"
-challenge: "15"
-customHP: "61"
+challenge: "17"
+customHP: "67"
 abilityScores:
   for: 10
   dex: 20
   con: 16
   int: 10
-  sag: 17
+  sag: 20
   cha: 10
-customSavingThrows: "for +0, dex(••) +15, con +3, int(•) +5, sag(•) +8, cha +0"
+customSavingThrows: "for +0, dex(••) +17, con +3, int(•) +6, sag(•) +11, cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -24,15 +24,15 @@ ac:
   value: "20 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
-    value: "acrobatie(••) +15"
+    value: "acrobatie(••) +17"
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
-    value: "athlétisme(••) +10"
+    value: "athlétisme(••) +12"
   - name: "custom"
-    value: "discrétion(••) +15"
+    value: "discrétion(••) +17"
   - name: "custom"
-    value: "dressage +3"
+    value: "dressage +5"
   - name: "custom"
     value: "escamotage +5"
   - name: "custom"
@@ -42,23 +42,23 @@ skills:
   - name: "custom"
     value: "investigation +0"
   - name: "custom"
-    value: "médecine(•) +8"
+    value: "médecine(•) +11"
   - name: "custom"
-    value: "nature(•) +8"
+    value: "nature(•) +11"
   - name: "custom"
-    value: "perception(••) +13"
+    value: "perception(••) +17"
   - name: "custom"
-    value: "perspicacité +3"
+    value: "perspicacité +5"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
     value: "religion +0"
   - name: "custom"
-    value: "représentation(••) +10"
+    value: "représentation(••) +12"
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie(••) +13"
+    value: "survie(••) +17"
 movement:
   walk: 9
 senses:
@@ -66,12 +66,15 @@ languages:
   - "Le Shahim/Shahiate (3/3), Assyrhiote/Syride (5/5), Cyrénide/Syride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3), Syrioth/Syride (3/3); Assyrith/Syride(3/3) "
 category: "PJ"
 ---
-## Sawrina Semramis
-&nbsp;
-[![Sawrina Semramis](https://www.douaratil.fr/illustrations/pj/sawrinam.png)](https://www.douaratil.fr/illustrations/pj/sawrina.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Sawrina Semramis   
+§§§ .hero
+*Sawrina était une jeune Assyrhim, issue d'une famille aisée de Shahia. Elle avait choisi de suivre les études pour devenir guérisseuse. Cependant, sa vie a pris un tournant dramatique lorsqu'elle a été enlevée par des Assyr'hims et entraînée pendant des mois avant d'être vendue comme esclave assassin à un mystérieux client. Elle a été retrouvée enfermée dans un sarcophage métallique, mais a été libérée par de nouveaux compagnons. Maintenant, Sawrina savait qu'elle serait pourchassée pour le reste de sa vie.*  
+*De petite stature, elle avait la peau sombre, des cheveux bruns foncés et des yeux de nacre. Sawrina était une jeune femme mystérieuse, ayant connu la souffrance et la peur, mais aussi une certaine force intérieure pour poursuivre son chemin malgré tout. Elle avait vingt et un printemps*    
+**Souvenirs d'Ailynn la voyageuse**   
+§§§   
 
-**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 23     
+**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 27     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Historique  Médecin:**_.   
 **Compétences**. Médecine, Nature.  
@@ -85,7 +88,7 @@ _**Voie des ombres & Nayane**_. Sawrina est niveau 15 dans la voie des ombres et
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation, survie, perception**  
 
-_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
+_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez **+9d6 au niveau 17** et +10d6 au niveau 19.  
 
 _**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
 
@@ -124,22 +127,24 @@ _**Talent**_. *(Ombre)* Au niveau 11, vous avez affiné vos compétences à un p
 
 _**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.  
 
-_**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.
+_**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.  
+
+_**Sang empoisonné**_. *(Nayane)*  A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de contact ou d'ingestion. Ce poison a un DD égal à sa valeur de constitution et inflige 2d6 + 1d6 par point de bonus de Sagesse. Pour cela, la Nayane doit s'inciser et subir 1d6 points d'action de dégât. Le poison est à usage unique et ne peux pas être stocké ou conservé.  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
-_**Attaques multiples**_. Sawrina effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
+_**Attaques multiples**_. Sawrina effectue 3 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+5 dégâts tranchants (portée 6/18).  
 
-_**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, portée 6/18.  
 _Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
 
-_**Serpe sacrificielle(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_**Serpe sacrificielle(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (légère).
 &nbsp;
 §§§ .hero
@@ -202,12 +207,13 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 226 751
-**Points de Foi** :17   
-**Points d'honneur** :45  
-**Guilde des voleurs** Apprenti 120 po/lune  
-**Voie de l'éveil**: Voie médiane  
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts Assistance, Baies nourricières, Druidisme.  
+**XP acquis** : 226 751  
+**Points de Magie** :10  
+**Points de Foi** :20   
+**Points d'honneur** :59     
+**Guilde des voleurs** Apprenti 120 po/lune   
+**Voie de l'éveil**: Voie médiane   
+Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricières](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme).  
 
 **Conseillère de Caohaydhan**   
 Rente 1d6 X 50po/lune
@@ -217,5 +223,5 @@ Rente 1d6 X 50po/lune
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Ne garde pas de cicatrices
 
-Mise à jour du 24/07/2022.  
+Mise à jour du 31/01/2023.  
 §§§

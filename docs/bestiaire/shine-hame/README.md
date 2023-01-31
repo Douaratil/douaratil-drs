@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Yotakaï"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "6"
-customHP: "25"
+challenge: "8"
+customHP: "30"
 abilityScores:
   for: 10
   dex: 13
-  con: 13
-  int: 14
-  sag: 11
+  con: 14
+  int: 16
+  sag: 14
   cha: 9
-customSavingThrows: "for +0, dex(•) +4, con(•) +4, int(•) +5, sag(•) +3, cha +0"
+customSavingThrows: "for +0, dex(•) +4, con(•) +5, int(•) +6, sag(•) +5, cha +0"
 savingThrows:
   - "dex"
   - "con"
@@ -21,44 +21,44 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "15 (armure de cuir clourée + esquive instinctive) "
+  value: "17 (armure de cuir clourée+ esquive intuitive) "
 skills:
   - name: "custom"
     value: "acrobatie(•) +4"
   - name: "custom"
-    value: "arcanes(••) +8"
+    value: "arcanes(••) +9"
   - name: "custom"
     value: "athlétisme(•) +0"
   - name: "custom"
     value: "discretion +1"
   - name: "custom"
-    value: "dressage +0"
+    value: "dressage +2"
   - name: "custom"
     value: "escamotage +1"
   - name: "custom"
-    value: "histoire(•) +5"
+    value: "histoire(•) +6"
   - name: "custom"
     value: "intimidation -1"
   - name: "custom"
-    value: "investigation +2"
+    value: "investigation +3"
   - name: "custom"
-    value: "medecine +0"
+    value: "medecine +2"
   - name: "custom"
-    value: "nature +1"
+    value: "nature +3"
   - name: "custom"
-    value: "perception +0"
+    value: "perception +2"
   - name: "custom"
-    value: "Perspicacité(••) +7"
+    value: "Perspicacité(••) +8"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
-    value: "religion +2"
+    value: "religion +3"
   - name: "custom"
     value: "representation(•) +2"
   - name: "custom"
     value: "supercherie -1"
   - name: "custom"
-    value: "survie +0"
+    value: "survie +2"
 movement:
   walk: 9
 senses:
@@ -83,7 +83,7 @@ _**Historique**_ : Érudit
 
 **Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  
 
-_**Voie de la magie & sohoten**_. Shin Hame est niveau 5 dans la voie la Magie et Archétype Sohoten.
+_**Voie de la magie & sohoten**_. Shin Hame est niveau 8 dans la voie la Magie et Archétype Sohoten: un Sohomaindus.
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
@@ -103,29 +103,24 @@ _**Esquive Intuitive**_. *(Sohoten)* À partir du niveau 5, vous êtes tellement
 |**15**|3|
 |**19**|4|
 
+_**Coup distant**_. *(Sohoten)* À partir du niveau 7, vous avez pouvez porter une attaque, pour une action bonus, à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.   
+
+_**Maîtrise de la concentration**_. *(Sohoten)* À partir du niveau 9, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+1 dégâts tranchants (Finesse, légère).  
+_Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).  
 
 _**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6 dégâts tranchants (Polyvalent 2d6+2 à deux mains).   
 
 _**Dague(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+1 dégâts tranchants (Finesse, légère, lancer 6/18).   
+_Touché_ : 1d6+2 dégâts tranchants (Finesse, légère, lancer 6/18).   
 
 _**Fronde(•)**_. _Attaque d'arme à distance_ : +4 pour toucher, portée 9/36.  
-_Touché_ : 1d6+1 dégâts perforants.   
+_Touché_ : 1d6+2 dégâts perforants.   
 
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Shin Hame est un serviteur du clan Yotakaï de Yan Zin et est l'un de ses compagnons d'aventures. Il le remplace pendant le voyage de son maître en orient et reste a Douaratil pour le représenter.  
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Shin Hame est un Yotakaï de vingt printemps. Il a la peau matte les cheveux noirs, longs et les yeux noirs. De stature moyenne, il mesure un mètre soixante dix pour soixante cinq kilos. Cicatrices de petites griffures et morsures à la hanche gauche et au mollet droit.  
-§§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -145,8 +140,8 @@ Shin Hame possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +4**  
-**DD de Sauvegarde: 9**  
+**Bonus d'incantation: +9 Magie et +3 Foi**  
+**DD de Sauvegarde: 16 Magie et 15 Foi**  
 **Novice** : [Baie nourricière](/grimoire/baie-nourriciere), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Compagnon animal](/grimoire/compagnon-animal) [Projectile magique](/grimoire/projectile-magique), [Restauration inférieure](/grimoire/restauration-inferieure), [soin des blessures](/grimoire/soin-des-blessures).    
 **Disciple** : [Chien de garde](/grimoire/chien-de-garde)
 §§§
@@ -166,7 +161,7 @@ Shin Hame possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 19 660    
+**XP acquis** : 56 480    
 **Points de Magie** :22  
 **Points de Foi** :21   
 **Points d'honneur** :24    
@@ -177,5 +172,5 @@ Shin Hame possède l'équipement suivant :
 - hanche gauche (10 cm)  
 - mollet droit (10 cm)
 
-Mise à jour du 21/07/2022
+Mise à jour du 31/01/2023
 §§§
