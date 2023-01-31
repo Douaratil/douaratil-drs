@@ -81,7 +81,7 @@ category: "PJ"
 §§§    
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique:** Garde  
 **Compétences** : Intimidation, Perspicacité.  
@@ -122,17 +122,17 @@ _**Survivant**_. *(Jörghal)* À partir du niveau 10, vous obtenez un avantage p
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Knut effectue **3 attaques** par round lorsqu'il utilise l'action attaquer.
 
-_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
+_**Pique(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 3d6+5 dégâts tranchants (lourde, allonge, à deux mains)(+2 dégâts Attaque supplémentaire Jörghal).  
 
-_**Hache +1 Syväpurenta (••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+8 dégâts tranchants (3d6+6 à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Champion, arme deuxième main sans pénalité).
+_**[Hache +1 Syväpurenta (morsure profonde)](/liste-objets-magiques/arme-1/) (••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+8 dégâts tranchants (3d6+6 à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Maître des haches, arme deuxième main sans pénalité).
 
-_**Hache deuxième main(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+7 dégâts tranchants (3d6+5 à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Champion arme deuxième main sans pénalité).
+_**Hache deuxième main(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+7 dégâts tranchants (3d6+5 à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Maître des haches arme deuxième main sans pénalité).
 
-_**Hache de bataille(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+7 dégâts tranchants (lourde, à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Champion +2 dégâts).
+_**Hache de bataille(••)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 3d6+7 dégâts tranchants (lourde, à deux mains)(+2 dégâts Attaque supplémentaire Jörghal & Maître des haches +2 dégâts).
 
 
 §§§ .hero
