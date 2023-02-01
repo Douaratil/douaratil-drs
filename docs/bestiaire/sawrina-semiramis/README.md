@@ -198,7 +198,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 
 ### Colonie de Madin'alajnibh
 **Développement Faible** La colonie est pauvre. La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po.   
-**Colons** : 39    
+**Colons** : 70    
 **Trésor** : 720 pa + 250 po
 
 §§§

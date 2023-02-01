@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Alcante"
 size: "M"
 alignment: "Chaotique neutre"
-challenge: "14"
-customHP: "56"
+challenge: "17"
+customHP: "65"
 abilityScores:
-  for: 14
+  for: 16
   dex: 20
   con: 14
   int: 10
-  sag: 10
+  sag: 11
   cha: 12
-customSavingThrows: "for(•) +7, dex(••) +15, con +1, int(•) +5, sag +0, cha +1"
+customSavingThrows: "for(•) +9, dex(••) +17, con +1, int(•) +6, sag +0, cha +1"
 savingThrows:
   - "for"
   - "dex"
@@ -28,15 +28,15 @@ skills:
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
-    value: "athlétisme +2"
+    value: "athlétisme +3"
   - name: "custom"
-    value: "discrétion(•) +10"
+    value: "discrétion(•) +11"
   - name: "custom"
     value: "dressage +0"
   - name: "custom"
-    value: "escamotage(••) +15"
+    value: "escamotage(••) +17"
   - name: "custom"
-    value: "histoire(•) +5"
+    value: "histoire(•) +6"
   - name: "custom"
     value: "intimidation(•) +6"
   - name: "custom"
@@ -46,17 +46,17 @@ skills:
   - name: "custom"
     value: "nature +0"
   - name: "custom"
-    value: "perception(••) +10 "
+    value: "perception(••) +12 "
   - name: "custom"
-    value: "perspicacité(•) +5"
+    value: "perspicacité(•) +6"
   - name: "custom"
-    value: "persuasion(••) +10"
+    value: "persuasion(••) +13"
   - name: "custom"
     value: "religion +0"
   - name: "custom"
     value: "représentation +1"
   - name: "custom"
-    value: "supercherie(•) +6"
+    value: "supercherie(•) +7"
   - name: "custom"
     value: "survie +0"
 movement:
@@ -66,11 +66,17 @@ languages:
   - "l'Alcath (3/2), le Courdote (3/2), le Khern (2/0), Soogh (2/0) "
 category: "PJ"
 ---
-## Tiberius Don Alonzo
-&nbsp;
-[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberiusm.png)](https://www.douaratil.fr/illustrations/pj/tiberius.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Tiberius Don Alonzo
+§§§ .hero
+*Tiberius Don Alonzo était un jeune homme appartenant à une riche et renommée famille Alcante de Courdoes. Il avait la peau foncée, les cheveux bruns et des yeux gris frappants qui ajoutaient à son apparence charmante. Il était de taille moyenne, mesurant environ 1 m75 et pesant environ cent vingt livres.*  
+*En raison d'une vendetta potentielle, Tiberius avait été envoyé à Goulvening Moisan, une relation éloignée de son père. Sa famille avait fait une fortune considérable dans le commerce des pierres précieuses et semi-précieuses.*  
+*Tiberius avait une histoire d'amour avec Avidia Collatinus, une noble de Courdoès, âgée de vingt-deux ans, aux longs cheveux noirs et aux yeux gris. De leur relation était nés deux faux jumeaux, ce qui ajoutait de lourdes responsabilités dans cette période incertaine.*   
+*En plus d'Avidia, Tiberius avait également eu une histoire d'amour avec Dame Azenor le Moal, une noble Khernaëe de Ker-Saozon. Dame Azenor était une belle femme d'une trentaine d'années, aux cheveux bruns et aux yeux bleus captivants. Malgré sa beauté, elle n'avait jamais eu d'enfants.*    
+*Tiberius Don Alonzo vivait une vie pleine de romance et d'intrigues, entouré par les complexités de multiples histoires d'amour et de vendettas familiales. Depuis la bataille des rois, il s’était installé depuis deux ans dans les terres khernaëes. Il y avait reçu un domaine confortable, qui était bienvenu pour accueillir sa famille. Et après ses hauts faits, il avait une place de conseiller à Caohaydhan qui lui assurer une rente confortable.*         
+**Souvenirs d'Ailynn la voyageuse**   
+§§§  
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 14          
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29      
 ## <v-icon>mdi-weight-lifter</v-icon>Capacités
 **Historique** :Bâtard.    
 **Compétences**. Histoire, Supercherie.  
@@ -84,7 +90,7 @@ _**Voie des ombres & Astartes**_. Tiberius est niveau 12 dans la voie des ombres
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur, perception et persuasion**  
 
-_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
+_**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez **+9d6 au niveau 17** et +10d6 au niveau 19.  
 
 _**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 
@@ -119,35 +125,31 @@ _**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendr
 _**Contact purifiant**_. *(Astartes)* À partir du niveau 14, vous pouvez utiliser votre action pour mettre fin à un sort qui vous affecte ou qui affecte une créature consentante que vous touchez.  
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum d'une fois) entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 
+_**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.  
+
+_**Chevalier prestigieux**_. *(Astartes)* À partir du niveau 15, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son action pour attaquer.  
+
+_**Troisième attaque**_. *(Astartes)* À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  Si vous avez déjà une troisième attaque, vous ajoutez +3 aux dégâts en compensation.   
+
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
-_**Attaques multiples**_. Tiberius effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
+_**Attaques multiples**_. Tiberius effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Epée courte +2(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte +2(••)**_. _Attaque d'arme au corps à corps_ : +19 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+7 dégâts tranchants .
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+5 dégâts tranchants (portée 6/18).  
 
-_**Dague(••) seconde main**_. _Attaque d'arme au corps à corps_ : +8 pour toucher , allonge 1,50 m, une cible.  
+_**Dague(••) seconde main**_. _Attaque d'arme au corps à corps_ : +12 pour toucher , allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (portée 6/18).  
 
-_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+4 dégâts tranchants.(Polyvalente 3d6+2)  
+_**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+2)  
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, portée 6/18.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, portée 6/18.  
 _Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
-
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon>  Présentation:  
-Tiberius Don Alonzo appartient à l'illustre famille alcante de Courdoes. Pour éviter une vendetta, il a été envoyé dans le nord chez Goulvening Moisan, une relation de son père. La famille Don Alonzo a fait fortune dans le commerce des pierres précieuses et semi-précieuses.
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Tiberius est un Alcante de vingt un printemps. Il a la peau sombre, les cheveux bruns et les yeux gris. De  stature moyenne, il mesure un mètre soixante treize pour soixante kilos.
-§§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -164,6 +166,7 @@ Tiberius possède l'équipement suivant :
 - [dague assassyr'him](/liste-objets-magiques/dague-assassyrhim)
 - épée courte
 - [épée courte +2](/liste-objets-magiques/epee-courte-2)
+- [Furto tabernus (bottes furtives)](/liste-objets-magiques/bottes-de-discretion/)
 - une épée longue
 - habits de bonne qualité
 - heurtoir
@@ -175,11 +178,17 @@ Tiberius possède l'équipement suivant :
 - silex  
 - torches (20)  
 - 200 PC  
-- 18 051 PA  
+- 27 151 PA  
 - 36 PE  
-- 5 409 PO  
+- 11 316 PO  
 - 6 PP.    
 
+§§§
+
+§§§ .hero
+### <v-icon>mdi-firebase</v-icon> Sorts connus:  
+**Bonus d'incantation: +0**  
+**DD de Sauvegarde: 8**  
 §§§
 
 §§§ .hero
@@ -190,16 +199,19 @@ petite maison à Ker-Saozon.
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale  
-**Serviteurs** : 0  
-**Revenus** : 0  
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal (Kerzu)
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 X 6d6po      
+
 
 ### Colonie de Madin'alajnibh
 **Développement** Normal  
 La colonie est respectable.
 La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po
-**Colons** : 93    
+**Colons** : 120    
 **Trésor** : 0   
 
 
@@ -212,25 +224,18 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 146 544  
+**XP acquis** : 221 068     
 **Points de Magie** :10   
-**Points de Foi** :10     
-**Points d'honneur** :47    
+**Points de Foi** :11     
+**Points d'honneur** :61    
 **famille** : une amante et deux faux jumeaux   
 **Guilde des voleurs**: Novice 50po/lune   
-**Voie d'éveil**: Voie médiane  
-## Avidia Collatinus
-&nbsp;
-[![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidiam.png)](https://www.douaratil.fr/illustrations/pnj/avidia.jpg)   
-
-## Azenor
-&nbsp;
-[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenorm.png)](https://www.douaratil.fr/illustrations/pnj/azenor.jpg)   
-§§§
+**Voie d'éveil**: Voie médiane : Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricières](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).
+**Conseiller à Ker-Saozon**: 1d6 X 50 po/lunes
 
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Comme un sou neuf
 
 §§§
-*Mise à jour le 17 juillet 2022*
+*Mise à jour le 01/02/2022*
