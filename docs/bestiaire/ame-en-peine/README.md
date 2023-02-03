@@ -49,8 +49,10 @@ dungeonTypes:
   - Ruines souterraines
 ---
 ## Âme-en-peine
-&nbsp;
-[![Âme-en-peine](https://www.douaratil.fr/illustrations/mort-vivant/ameenpeinem.png)](https://www.douaratil.fr/illustrations/mort-vivant/ameenpeine.jpg)  
+"*L'âme-en-peine défendait l'entrée de la catacombe qui nous avait été indiquée, c'était une silhouette lugubre et effrayante. Elle brandissait une arme imaginaire, prête à attaquer tout intrus qui oserait approcher. Ses yeux brillaient dans l'obscurité, comme des braises ardentes, tandis que sa silhouette éthérée semblait se fondre dans les ténèbres. Elle poussait des hurlements lugubres, résonnant dans les couloirs sinistres de la catacombe. Mes compagnons qui allaient se risquer à s'aventurer dans les lieux frémissaient de peur, sachant que l'âme-en-peine ne les laisserait pas passer sans combattre..*"  
+**Souvenir des aventures de Gwion Gornoc l'Ambeanamos.**
+§§§
+_**Perte de santé mentale (SAM)**_. DD 21, réussite 5, échec 3d6+2.    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

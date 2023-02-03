@@ -4,16 +4,16 @@ type: "PJ"
 subtype: "Melg"
 size: "M"
 alignment: "Loyal bon"
-challenge: "15"
-customHP: "40"
+challenge: "16"
+customHP: "44"
 abilityScores:
-  for: 13
+  for: 14
   dex: 12
   con: 12
   int: 16
-  sag: 19
+  sag: 20
   cha: 10
-customSavingThrows: "for +1, dex +1, con +1, int(••) +13, sag(••) +14, cha +0 "
+customSavingThrows: "for +1, dex +1, con +1, int(••) +13, sag(••) +15, cha +0 "
 savingThrows:
   - "int"
   - "int"
@@ -28,11 +28,11 @@ skills:
   - name: "custom"
     value: "arcanes +3"
   - name: "custom"
-    value: "athlétisme +1"
+    value: "athlétisme +2"
   - name: "custom"
     value: "discrétion +1"
   - name: "custom"
-    value: "dressage +3"
+    value: "dressage +5"
   - name: "custom"
     value: "escamotage +1"
   - name: "custom"
@@ -42,9 +42,9 @@ skills:
   - name: "custom"
     value: "investigation +3"
   - name: "custom"
-    value: "médecine(•) +9"
+    value: "médecine(•) +10"
   - name: "custom"
-    value: "nature(•) +9"
+    value: "nature(•) +8"
   - name: "custom"
     value: "perception +3 (désavantage en plein jour)"
   - name: "custom"
@@ -52,13 +52,13 @@ skills:
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
-    value: "religion(••) +13"
+    value: "religion(••) +15"
   - name: "custom"
     value: "représentation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie(•) +9"
+    value: "survie(•) +10"
 
 movement:
   walk: 9
@@ -147,35 +147,30 @@ _**Sens bestiale**_. *(Herredyr)* Dès le niveau 10, votre allégeance bestiale 
 
 _**Rage bestiale**_. *(Herredyr)* Dès le niveau 12, votre allégeance bestiale vous permet développer la rage bestiale qui représente votre capacité de survie et combat. Vos dégâts sont augmenté de 1d6. Au niveau 16, les dégâts passent à 2d6 et enfin 3d6 au niveau 20.   
 
+_**longévité bestiale**_. *(Herredyr)* Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre durée de vie. Vous gagnez 25 ans par point de bonus de constitution. Durant cette période, l'Herredyr se stabilise à un âge mûr. Il ne vieillit que les 10 dernières années de sa vie.   
+
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
 
-_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher.  
-_Touché_ : 3d6+1 dégâts contondant (polyvalent 3d6+3 à deux mains, rage bestiale)  
+_**Bâton(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher.  
+_Touché_ : 4d6+2 dégâts contondant (polyvalent 4d6+4 à deux mains, rage bestiale)  
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+1 dégâts tranchants (portée 6/18), rage bestiale.   
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 3d6+2 dégâts tranchants (portée 6/18), rage bestiale.   
 
-_**Epée longue(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
+_**[Edentounga (langue de feu)](/liste-objets-magiques/epee-ardente/)(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4d6+4 dégâts tranchants + 2d6 dégâts de feu (5d6+2 à deux mains + 2d6 dégâts de feu ), rage bestiale.  
 
-_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher , allonge 1,50 m, une cible.  
-_Touché_ : 3d6+3 dégâts tranchants (4d6+1 à deux mains), rage bestiale.  
+_**Epée longue(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4d6+3 dégâts tranchants (5d6+1 à deux mains), rage bestiale.  
 
-_**Pique(•)**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 3d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
+_**Hache(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher , allonge 1,50 m, une cible.  
+_Touché_ : 4d6+3 dégâts tranchants (5d6+1 à deux mains), rage bestiale.  
 
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Thorleik Aevarson est un Melg issu du clan Aevearson qui est installé aux pieds des Monts du Menezlatar. Il exerce la fonction de prêtre du feu.
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Thorleik Aevarson est un Melg de vingt trois printemps. Il a la peau blanche les cheveux blonds et les yeux bleus. Il mesure un mètre quatre vingt dix pour quatre vingt cinq kilos.
-§§§
+_**Pique(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -186,11 +181,14 @@ Thorleik Aevarson possède l'équipement suivant :
 - bourse
 - couverture
 - dague (3)
+- [Edentounga (langue de feu)](/liste-objets-magiques/epee-ardente/)
 - hache d'arme
 - Rations (15)
 - tenue de voyageur
 - matériel d'herboriste
 - pique
+- parchemin de mur de chaleur (3)
+- potion d'invisibilité (1)
 - Tente
 - 2491 PC
 - 26 942 PA
@@ -204,8 +202,8 @@ Thorleik Aevarson possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +11**  
-**DD de Sauvegarde: 15**  
+**Bonus d'incantation: +11 en Magie +23 en Foi**  
+**DD de Sauvegarde: 16 en Magie et 18 en Foi**  
 **Novice** : [Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
 [Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
@@ -230,30 +228,32 @@ Thorleik Aevarson possède l'équipement suivant :
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine
-**Bâtiments** : Une bâtisse principale    
-**Serviteurs** : 0    
-**Revenus** : 0    
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal
+Le domaine est respectable.  
+Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
+Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
+La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
+**Revenus** : 14 X 6d6po      
 
 
 ### Colonie de Madin'alajnibh
 
 **Développement Très faible** La colonie est très pauvre.
 La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30 colons. La colonie comprends un point d'eau. La colonie n'a pas de palissade. Revenus : 5 X 6d6 po  
-**Colons** : 8  
+**Colons** : 30  
 **Trésor** : 1888po, 360 pa
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** :  *héroïque: Bataille des dunes rouges + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 165 684   
+**XP acquis** : 213 319
 **Points de Magie** :16   
-**Points de Foi** :79      
-**Points d'honneur** :40        
+**Points de Foi** :84      
+**Points d'honneur** :57        
 **Représentant de l'alliance des Melg du Menezlatar** : 1d6X50 po /lune    
 **Voie d'éveil**: Voie de l'ascension.   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)   
+Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [Soin des blessures](/grimoire/soin-des-blessures).      
 §§§
 
 §§§ .hero
@@ -262,4 +262,4 @@ Cicatrice de 20 cm de la tempe gauche au menton.
 
 §§§
 
-Mise à jour le 30/01/2023
+Mise à jour le 02/02/2023

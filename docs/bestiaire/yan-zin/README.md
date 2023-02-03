@@ -154,8 +154,8 @@ Yan Zin possède l'équipement suivant :
 - rations (6)
 - sabre oriental
 - Vêtement de bonne qualité
-- 3900 PA
-- 807 PO.    
+- 20800 PA
+- 17565 PO.    
 - 200 PO de marchandises pour son clan.  
 §§§
 
@@ -176,7 +176,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Développement normal** La colonie est respectable.
 La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po  
 **Colons** : 120
-**Trésor** : 340 PO
+**Trésor** : 3295 PO
 §§§
 
 §§§ .hero
