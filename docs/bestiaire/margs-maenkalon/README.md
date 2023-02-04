@@ -67,9 +67,12 @@ languages:
 category: "PJ"
 ---
 
-## Margs Maenkalon
-&nbsp;
-[![Margs Maenkalon](https://www.douaratil.fr/illustrations/pj/margsm.png)](https://www.douaratil.fr/illustrations/pj/margs.jpg)  
+## <v-icon>mdi-drama-masks</v-icon> Margs Maenkalon
+§§§ .hero
+*Margs Maenkalon était un guerrier bhegelm et en tant que tel garant de la loi religieuse khernaëe. Il veillait à faire appliquer les leznens, les lois orales. Les Khernaës pouvaient être décrits comme farouches, et Margs en était le parfait exemple. Il avait la peau mate, des cheveux bruns et une tête rasée sur le côté, ce qui lui donnait un regard insondable. De stature moyenne mais musculeuse, il pesait cent quatre vingt livres et portait une barbe fournie longue et une chevelure graissée, rasée sur le côté du crâne. Une cicatrice entre ses omoplates lui rappelait le trait d'un archer alcante.*   
+*Margs était connu pour habileté à l'épée. Margs était respecté et craint parmi les Khernaës pour sa détermination à protéger la loi religieuse de son peuple. Il était un guerrier fier et intrépide, qui n'hésitait pas à défendre ses convictions.*   
+**Souvenirs d'Ailynn la voyageuse**   
+§§§  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
@@ -154,7 +157,7 @@ Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Margs est un Khernaë de trente deux printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse. Il a une cicatrice (trou de flèche) entre les omoplates.
+Margs est un Khernaë de trente quatre printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse. Il a une cicatrice (trou de flèche) entre les omoplates.
 §§§
 
 §§§ .hero

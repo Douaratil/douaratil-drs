@@ -57,6 +57,7 @@ telepathy: 36
 ## Arbedab
 &nbsp;
 [![Arbedab](https://www.douaratil.fr/illustrations/fielon/arbedabm.png)](https://www.douaratil.fr/illustrations/fielon/arbedab.jpg)  
+_**Perte de santé mentale (SAM)**_. DD 37, réussite 7, échec 3d6+4.
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

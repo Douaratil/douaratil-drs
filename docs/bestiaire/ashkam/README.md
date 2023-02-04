@@ -49,6 +49,7 @@ telepathy: 36
 ## Ashkam
 &nbsp;
 [![Ashkam](https://www.douaratil.fr/illustrations/fielon/ashkamm.png)](https://www.douaratil.fr/illustrations/fielon/ashkam.jpg)  
+_**Perte de santé mentale (SAM)**_. DD 37, réussite 5, échec 3d6+2.
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 23        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
