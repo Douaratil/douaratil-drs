@@ -33,8 +33,8 @@ environments:
 §§§ .hero
 ""*Alors que je me promenais dans les montagnes, j'ai aperçu un aigle majestueux planant dans les airs. Il semblait presque flotter dans les airs, ses ailes déployées en un éventail parfait. Je m'arrêtais pour le regarder, fasciné par sa grâce et sa puissance.*
 *Soudain, l'aigle piqua vers le bas, plongeant vers une proie invisible pour moi. Il réapparut quelques instants plus tard, tenant un lapin dans ses serres. Je pouvais ressentir la force dans ses pattes alors qu'il serrait sa prise.*
-*Je le suivait des yeux alors qu'il volait vers son nid perché sur une falaise, où je suppose qu'il déposait sa proie pour ses petits. J'étais fasciné par par la majesté cet animal magnifique et je comprenais l'intérêt que portait les bhegelms aux rapaces et aux anciennes alliances qui avaient été passées avec eux.*"  
-**Traités sur les rapaces et les bhegelms par Margs Maenkalon.**
+*Je le suivait des yeux alors qu'il volait vers son nid perché sur une falaise, où je suppose qu'il déposait sa proie pour ses petits. J'étais fasciné par par la majesté cet animal magnifique et je comprenais l'intérêt que portait les drodanos aux rapaces et aux anciennes alliances qui avaient été passées avec eux.*"  
+**Traités sur les rapaces et les drodanos par Pywed Vecconos.**
 §§§  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     

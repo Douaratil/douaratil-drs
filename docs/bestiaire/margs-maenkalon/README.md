@@ -122,6 +122,9 @@ _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des
 
 _**Compagnon animal corneille à tête blanche**_. *(Bhegelm)*  À partir du niveau 8, le Bhegelm s’allie désormais avec une corneille à tête blanche. L’animal à une portée de 100 mètres par niveau.  
 
+_**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet de sauvegarde raté. Si vous choisissez d'utiliser cette aptitude, vous devez utiliser le résultat du second jet de dé. Vous ne pourrez pas réutiliser cette aptitude avant d'avoir terminé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+À partir du niveau 13, vous pouvez utiliser cette aptitude deux fois entre deux [_repos long_](/gerer-la-sante-du-personnage/#repos-long)s et trois fois à partir du niveau 17.   
+
 _**Enfant de la nature**_. *(Bhegelm)*  Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) par les élémentaires ou les fées, et vous êtes immunisé contre les poisons et les maladies.  
 
 _**Monture sacrée supérieure**_. *(Bhegelm)*  À partir du niveau 13, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace à 2 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
@@ -150,15 +153,6 @@ _Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).
 _**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse & légère).  
 &nbsp;
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Margs Maenkalon est un bhegelm guerrier du cercle de Kernac. Il est garant de la loi religieuse khernaëe.  
-§§§
-
-§§§ .hero
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Margs est un Khernaë de trente quatre printemps. Il a la peau mate, les cheveux foncés et les yeux marrons. De stature moyenne mais musculeuse, il mesure un mètre soixante dix pour quatre vingt dix kilos. Il porte une barbe fournie et dresse sa chevelure avec de la graisse. Il a une cicatrice (trou de flèche) entre les omoplates.
-§§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -246,5 +240,5 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Cuisse gauche 20 cm
 
 §§§
-Mise à jour du 31/07/2022
+Mise à jour du 04/02/2023
 [.](/bestiaire/cyrthaule)  

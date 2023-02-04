@@ -36,6 +36,7 @@ environments:
 ## Khaznoz
 &nbsp;
 [![Khaznoz](https://www.douaratil.fr/illustrations/fee/khaznozm.png)](https://www.douaratil.fr/illustrations/fee/khaznoz.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 20, réussite 3, échec 1d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

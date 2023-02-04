@@ -63,6 +63,7 @@ languages:
 ## Inéxorable supérieur
 &nbsp;
 [![Inéxorable supérieur](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 41, réussite 4, échec 3d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

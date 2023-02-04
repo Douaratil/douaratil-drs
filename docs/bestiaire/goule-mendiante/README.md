@@ -34,6 +34,7 @@ dungeonTypes:
 ## Goule mendiante
 &nbsp;
 [![Goule mendiante](https://www.douaratil.fr/illustrations/mort-vivant/goulemendiantem.png)](https://www.douaratil.fr/illustrations/mort-vivant/goulemendiante.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 5, échec 3d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -46,7 +46,8 @@ dungeonTypes:
 ---
 ## Foragh
 &nbsp;
-[![Foragh](https://www.douaratil.fr/illustrations/geant/foraghm.png)](https://www.douaratil.fr/illustrations/geant/foragh.jpg)    
+[![Foragh](https://www.douaratil.fr/illustrations/geant/foraghm.png)](https://www.douaratil.fr/illustrations/geant/foragh.jpg)   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 29, réussite 4, échec 1d6+3.    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19
 ## Capacités

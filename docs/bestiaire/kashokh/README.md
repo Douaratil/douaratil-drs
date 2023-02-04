@@ -48,6 +48,7 @@ telepathy: 36
 ## Kashokh
 &nbsp;
 [![Kashokh](https://www.douaratil.fr/illustrations/fielon/kashokhm.png)](https://www.douaratil.fr/illustrations/fielon/kashokh.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 41, réussite 7, échec 3d6+4.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24       
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

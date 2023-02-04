@@ -49,6 +49,7 @@ languages:
 ## Koshei
 &nbsp;
 [![Koshei](https://www.douaratil.fr/illustrations/fielon/kosheim.png)](https://www.douaratil.fr/illustrations/fielon/koshei.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 33, réussite 6, échec 3d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

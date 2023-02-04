@@ -201,8 +201,8 @@ Gwion possède l'équipement suivant :
 - 3857 PC
 - 14 978 PA
 - 44 PE
-- 0 PO
-- 0 PP.  
+- 38 062 PO
+- 2 678 PP.  
 §§§
 
 §§§ .hero
@@ -234,15 +234,17 @@ Gwion possède l'équipement suivant :
 [Sanctuaire privé](/grimoire/sanctuaire-prive),                 
 
 **Apprenti** :  
-[Brise os](/grimoire/brise-os), [Cône de froid](/grimoire/cone-de-froid), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire),[Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Restauration supérieure](/grimoire/restauration-superieure), [Scrutation](/grimoire/scrutation)
+[Brise os](/grimoire/brise-os), [Cône de froid](/grimoire/cone-de-froid),[Invisibilité de la dernière chance](/grimoire/invisibilite-de-la-derniere-chance/), [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire),[Modification de mémoire](/grimoire/modification-de-memoire),[Passage dimensionnel](/grimoire/passage-dimensionnel), [Réservoir arcanique](/grimoire/reservoir-arcanique), [Restauration supérieure](/grimoire/restauration-superieure), [Scrutation](/grimoire/scrutation), [Tentacules noires](/grimoire/tentacules-noires/),  
+
+**Adepte** : [Invisibilité du dernier recours](/grimoire/invisibilite-du-dernier-recours/),
 
 
 **Sorts possédés à apprendre** :
 
 - Novice :   
 - Disciple :   
-- Apprenti : [Invisibilité de la dernière chance](/grimoire/invisibilite-de-la-derniere-chance/), [Tentacules noires](/grimoire/tentacules-noires/),    
-- Adepte :   [Invisibilité du dernier recours](/grimoire/invisibilite-du-dernier-recours/),
+- Apprenti :   
+- Adepte :  
 §§§
 
 §§§ .hero
@@ -270,11 +272,12 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
- *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
+ *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10*      
+**Haut fait de richesse** :  *Patrimoine très important, haut fait légendaire +10*    
 **XP acquis** : 289 645         
 **Points de Magie** :92     
 **Points de Foi** :20      
-**Points d'honneur** :64               
+**Points d'honneur** :74               
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimalo**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Guilde des mages** : Adepte 560 po/lune, avantage : réseau de guilde, +1 au toucher et +2 aux dégâts avec un élément de prédilection (foudre), +2 aux JS d'INT, train de vie riche.   
@@ -289,6 +292,6 @@ Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magi
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 12/08/2022
+Mise à jour du 04/02/2023
 
 §§§

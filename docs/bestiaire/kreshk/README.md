@@ -33,6 +33,7 @@ languages:
 telepathy: 18
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 3, échec 3d6.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
 ## Actions

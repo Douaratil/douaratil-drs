@@ -1,7 +1,7 @@
 ---
 title: "La santé mentale"
 ---
-# La santé mentale (SAM)
+# La santé mentale (SAM) <v-icon>mdi-head-sync</v-icon>
 La santé mentale représente l'équilibre mental du personnage qui l'empêche de sombrer dans la folie. Les points de santé mentale représentent cette capacité de résilience que possède le personnage à l'épreuve de sa raison.   
 Beaucoup de choses peuvent affecter la santé mentale d'une personne comme la peur, la terreur, l'horreur et la cruauté mais aussi certaines créatures comme les aberrations, les célestes, les créatures artificielles, les créatures monstrueuses, les dragons, les élémentaires, les fées, les fiélons, les géants, les morts vivants et les vases. Les bêtes et les humanoïdes ne font pas perdre de points de santé mentale par leur présence.   
 L'utilisation de la magie est aussi risquée pour la santé mentale, et certaines forment sont très dangereuse pour l'équilibre psychique.

@@ -42,6 +42,7 @@ environments:
 ## <v-icon>mdi-weight-lifter</v-icon> Esprit du feu
 &nbsp;
 [![Esprit du feu](https://www.douaratil.fr/illustrations/elementaire/espritdufeum.png)](https://www.douaratil.fr/illustrations/elementaire/espritdufeu.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 18, réussite 2, échec 1d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10         
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
