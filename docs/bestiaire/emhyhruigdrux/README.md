@@ -70,6 +70,7 @@ telepathy: 72
 ## Emhyhruigdrux
 &nbsp;
 [![Emhyhruigdrux](https://www.douaratil.fr/illustrations/aberration/emhyhruigdruxm.png)](https://www.douaratil.fr/illustrations/aberration/emhyhruigdrux.jpg)   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 46, réussite 8, échec 4d6+4.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 30     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

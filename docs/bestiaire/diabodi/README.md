@@ -42,7 +42,7 @@ languages:
 ## Diabodi
 &nbsp;
 [![Diabodi](https://www.douaratil.fr/illustrations/fielon/diabodim.png)](https://www.douaratil.fr/illustrations/fielon/diabodi.jpg)
-_**Perte de santé mentale (SAM)**_. DD 17, réussite 5, échec 3d6+2.  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 17, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

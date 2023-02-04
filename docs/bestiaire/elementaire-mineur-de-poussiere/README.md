@@ -42,6 +42,7 @@ dungeonTypes:
 ## Elémentaire mineur de poussière
 &nbsp;
 [![Elémentaire mineur de poussière](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdepoussierem.png)](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdepoussiere.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 2, échec 1d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

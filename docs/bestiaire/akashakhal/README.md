@@ -58,6 +58,7 @@ telepathy: 18
 "*Lorsque la fumée se dissipa, je découvrais une grande silhouette presque haute comme deux hommes. Je distinguais ses formes bien que son aspect ne semblait pas stable mais cela était dû au fait qu'elle venait des plans infernaux. Bien que difficile à décrire, son apparence aurait pu s'apparenter à une mante religieuse gigantesque, pourvue de quatre bras préhensiles et barbelés. Quand je senti que la créature tentait de s'introduire dans mon esprit, je m'enfuyais par la fenêtre de la cabane, abandonnant mon rituel. Le lendemain, revenant sur les lieux, je ne pu que constater que ma petite demeure dans les bois avait été détruite, maigre consolation mais je pouvais me satisfaire d'être vivant.*"  
 **Souvenir de convocation d'un démon par Ioen l'invocateur.**
 §§§
+**<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 28, réussite 7, échec 3d6+4.    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités  

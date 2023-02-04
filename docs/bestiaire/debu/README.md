@@ -36,7 +36,7 @@ languages:
 ## Debu
 &nbsp;
 [![Debu](https://www.douaratil.fr/illustrations/fielon/debum.png)](https://www.douaratil.fr/illustrations/fielon/debu.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 16, réussite 3, échec 3d6.
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 16, réussite 3, échec 3d6.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

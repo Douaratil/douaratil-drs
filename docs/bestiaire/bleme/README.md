@@ -37,7 +37,7 @@ dungeonTypes:
 ## Blême
 &nbsp;
 [![Blême](https://www.douaratil.fr/illustrations/mort-vivant/blemem.png)](https://www.douaratil.fr/illustrations/mort-vivant/bleme.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 18, réussite 4, échec 3d6+1.
+**<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**_. DD 18, réussite 4, échec 3d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

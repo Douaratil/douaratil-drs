@@ -49,7 +49,7 @@ telepathy: 36
 ## Diabede
 &nbsp;
 [![Diabede](https://www.douaratil.fr/illustrations/fielon/diabedem.png)](https://www.douaratil.fr/illustrations/fielon/diabede.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 18, réussite 6, échec 3d6+3.
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 18, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

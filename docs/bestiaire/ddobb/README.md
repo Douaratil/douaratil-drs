@@ -50,7 +50,7 @@ telepathy: 36
 ## Ddobb
 &nbsp;
 [![Ddobb](https://www.douaratil.fr/illustrations/fielon/ddobbm.png)](https://www.douaratil.fr/illustrations/fielon/ddobb.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 28, réussite 6, échec 3d6+3.
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 28, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 26        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

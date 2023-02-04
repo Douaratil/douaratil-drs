@@ -46,7 +46,7 @@ telepathy: 36
 ## Diadeel
 &nbsp;
 [![Diadeel](https://www.douaratil.fr/illustrations/fielon/diadeelm.png)](https://www.douaratil.fr/illustrations/fielon/diadeel.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 22, réussite 6, échec 3d6+3. 
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 22, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

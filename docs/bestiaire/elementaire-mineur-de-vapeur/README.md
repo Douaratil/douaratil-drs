@@ -37,6 +37,7 @@ dungeonTypes:
 ## Elémentaire mineur de vapeur
 &nbsp;
 [![Elémentaire mineur de vapeur](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdevapeurm.png)](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdevapeur.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 3, échec 1d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

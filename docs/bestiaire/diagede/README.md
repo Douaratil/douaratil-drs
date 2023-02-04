@@ -41,7 +41,8 @@ telepathy: 36
 ---
 ## Diagede
 &nbsp;
-[![Diagede](https://www.douaratil.fr/illustrations/fielon/diagedem.png)](https://www.douaratil.fr/illustrations/fielon/diagede.jpg)  
+[![Diagede](https://www.douaratil.fr/illustrations/fielon/diagedem.png)](https://www.douaratil.fr/illustrations/fielon/diagede.jpg)
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 30, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

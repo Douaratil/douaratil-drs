@@ -54,7 +54,7 @@ telepathy: 36
 ## Diabdo
 &nbsp;
 [![Diabdo](https://www.douaratil.fr/illustrations/fielon/diabdom.png)](https://www.douaratil.fr/illustrations/fielon/diabdo.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 23, réussite 5, échec 3d6+2.
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 23, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

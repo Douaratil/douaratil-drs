@@ -40,7 +40,7 @@ telepathy: 36
 ## Diabarbuth
 &nbsp;
 [![Diabarbuth](https://www.douaratil.fr/illustrations/fielon/diabarbuthm.png)](https://www.douaratil.fr/illustrations/fielon/diabarbuth.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 19, réussite 4, échec 3d6+1. 
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 19, réussite 4, échec 3d6+1.
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

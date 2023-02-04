@@ -46,7 +46,7 @@ telepathy: 36
 ## Diabbarbede
 &nbsp;
 [![Diabbarbede](https://www.douaratil.fr/illustrations/fielon/diabbarbedem.png)](https://www.douaratil.fr/illustrations/fielon/diabbarbede.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 21, réussite 5, échec 3d6+2.
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 21, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -42,6 +42,7 @@ telepathy: 36
 ## Eidyde
 &nbsp;
 [![Eidyde](https://www.douaratil.fr/illustrations/fielon/eidydem.png)](https://www.douaratil.fr/illustrations/fielon/eidyde.jpg)    
+**Perte de santé mentale (SAM)**_. DD 28, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

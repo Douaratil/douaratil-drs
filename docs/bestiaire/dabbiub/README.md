@@ -50,7 +50,7 @@ dungeonTypes:
 ## Dabbiub
 &nbsp;
 [![Dabbiub](https://www.douaratil.fr/illustrations/fielon/dabbiubm.png)](https://www.douaratil.fr/illustrations/fielon/dabbiub.jpg)  
-_**Perte de santé mentale (SAM)**_. DD 30, réussite 6, échec 3d6+3.
+**<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 30, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 23      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

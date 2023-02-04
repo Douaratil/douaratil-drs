@@ -32,6 +32,7 @@ languages:
 ## Dibbeda
 &nbsp;
 [![Dibbeda](https://www.douaratil.fr/illustrations/fielon/dibbedam.png)](https://www.douaratil.fr/illustrations/fielon/dibbeda.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 19, réussite 4, échec 3d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

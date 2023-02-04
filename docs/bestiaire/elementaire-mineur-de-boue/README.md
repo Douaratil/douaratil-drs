@@ -40,6 +40,7 @@ source: "Elric"
 ## Elémentaire mineur de boue
 &nbsp;
 [![Elémentaire mineur de boue](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdebouem.png)](https://www.douaratil.fr/illustrations/elementaire/elementairemineurdeboue.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 16, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
