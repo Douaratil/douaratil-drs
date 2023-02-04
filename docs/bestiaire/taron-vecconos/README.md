@@ -67,7 +67,7 @@ category: "PJ"
 *Taron Vecconos était un grand Meldète, doté d'une barbe longue et d'une moustache fournie. Il était le deuxième fils d'une petite mais respectée famille noble de Masyvum. Récemment, il avait suivi son frère Pywed jusqu'à Ker-Saozon pour rencontrer une personne connue sous le nom de Margs, dont la réputation avait commencé à se répandre. Taron avait la peau blanche, les cheveux bruns et les yeux verts. Il mesurait six pieds et pesait environ cent quinze livres. Il était également tatoué, avec les yeux de Teutès, le dieu de la guerre, sur son front. Il dégageait une aura de force et de détermination.*   
 **Souvenirs d'Ailynn la voyageuse**   
 §§§  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 32       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités  

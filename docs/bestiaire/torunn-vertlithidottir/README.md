@@ -65,6 +65,7 @@ languages:
 ## Torunn Vertlithidottir
 &nbsp;
 [![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottirm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir.jpg)  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 25    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -65,6 +65,7 @@ category: "PJ"
 ## Talos Virato
 &nbsp;
 [![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](https://www.douaratil.fr/illustrations/pj/talosvirato.jpg)  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 30         
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 27     
 ## Capacités

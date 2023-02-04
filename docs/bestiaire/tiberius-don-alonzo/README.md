@@ -75,6 +75,7 @@ category: "PJ"
 *Tiberius Don Alonzo vivait une vie pleine de romance et d'intrigues, entouré par les complexités de multiples histoires d'amour et de vendettas familiales. Depuis la bataille des rois, il s’était installé depuis deux ans dans les terres khernaëes. Il y avait reçu un domaine confortable, qui était bienvenu pour accueillir sa famille. Et après ses hauts faits, il avait une place de conseiller à Caohaydhan qui lui assurer une rente confortable.*         
 **Souvenirs d'Ailynn la voyageuse**   
 §§§  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 44        
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29      
 ## <v-icon>mdi-weight-lifter</v-icon>Capacités

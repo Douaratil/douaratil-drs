@@ -67,6 +67,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 43    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

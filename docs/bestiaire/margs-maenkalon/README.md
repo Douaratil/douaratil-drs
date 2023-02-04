@@ -73,7 +73,7 @@ category: "PJ"
 *Margs était connu pour habileté à l'épée. Margs était respecté et craint parmi les Khernaës pour sa détermination à protéger la loi religieuse de son peuple. Il était un guerrier fier et intrépide, qui n'hésitait pas à défendre ses convictions.*   
 **Souvenirs d'Ailynn la voyageuse**   
 §§§  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 50       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

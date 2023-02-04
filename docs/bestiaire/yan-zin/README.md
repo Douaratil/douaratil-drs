@@ -74,7 +74,7 @@ category: "PJ"
 *Yan Zin était à la cour de Goulvening pour apprendre les coutumes et les langues claniques de l'Ouest et pour ouvrir une ligne commerciale vers l'Est. En réalité, il était une sorte "d'otage" mais il était très bien traité. Il était également un ami de Goulvening. Pendant son séjour à la cour, Yan Zin apprenait les us et coutumes locaux, se familiarisait avec les langues et préparait la voie pour une collaboration commerciale fructueuse entre l'Est et l'Ouest.*      
 **Souvenirs d'Ailynn la voyageuse**   
 §§§     
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 41       
 **<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 12             
 **<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 25      
 ## <v-icon>mdi-weight-lifter</v-icon>  Capacités

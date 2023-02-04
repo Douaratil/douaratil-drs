@@ -78,6 +78,7 @@ category: "PJ"
 *Aujourd'hui, Thorleik a 25 an*      
 **Souvenirs d'Ailynn la voyageuse**   
 §§§    
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 55    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21        
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

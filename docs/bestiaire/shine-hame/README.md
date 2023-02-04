@@ -73,7 +73,7 @@ category: "PJ"
 *Shin Hame était un serviteur du clan Yotakaï et l'un des compagnons d'aventures de Yan Zin. Lorsque son maître avait entrepris un voyage en orient, Shin Hame avait été choisi pour le remplacer et rester à Douaratil pour le représenter. C'était un homme déterminé et loyal, qui travaillait dur pour remplir sa mission envers son clan et son ami Yan Zin.*      
 **Souvenirs d'Ailynn la voyageuse**   
 §§§  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 49        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

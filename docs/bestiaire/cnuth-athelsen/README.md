@@ -63,6 +63,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg,l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 26    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21   
 

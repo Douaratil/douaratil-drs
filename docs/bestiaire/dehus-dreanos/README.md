@@ -68,7 +68,7 @@ category: "PJ"
 ## Dehus Dreanos
 &nbsp;
 [![Dehus Dreanos](https://www.douaratil.fr/illustrations/pj/dehusm.png)](https://www.douaratil.fr/illustrations/pj/dehus.jpg)  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 32        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

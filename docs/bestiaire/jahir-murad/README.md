@@ -70,6 +70,7 @@ category: "PJ"
 ## Jahir Murad
 &nbsp;
 [![Jahir Murad](https://www.douaratil.fr/illustrations/pj/jahirm.png)](https://www.douaratil.fr/illustrations/pj/jahir.jpg)  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 29    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

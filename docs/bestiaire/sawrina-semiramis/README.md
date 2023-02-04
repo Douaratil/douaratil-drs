@@ -72,7 +72,7 @@ category: "PJ"
 *De petite stature, elle avait la peau sombre, des cheveux bruns foncés et des yeux de nacre. Sawrina était une jeune femme mystérieuse, ayant connu la souffrance et la peur, mais aussi une certaine force intérieure pour poursuivre son chemin malgré tout. Elle avait vingt et un printemps*    
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 52       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 27     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

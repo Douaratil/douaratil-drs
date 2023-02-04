@@ -68,7 +68,7 @@ category: "PJ"
 *Après plusieurs années d'apprentissage avec son maître Divivacos le Rocailleux, Pywed a voyagé à travers tout Douaratil. Finalement, son maître a considéré que Pywed était prêt et l'a envoyé vers Ker-Saozon pour rencontrer Margs, dont le nom était sur toutes les lèvres ces derniers temps.*    
 **Souvenirs d'Ailynn la voyageuse**   
 §§§  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 43        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

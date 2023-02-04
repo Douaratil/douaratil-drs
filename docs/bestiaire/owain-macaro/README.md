@@ -66,7 +66,7 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/0), le Khern (3/0), le Bredète (3/0), le Mèlde (3/0) "  
+  - "le Weslèdh (3/1), le Khern (3/1), le Bredète (3/1), le Mèlde (3/1) "  
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon> Owain Macaro
