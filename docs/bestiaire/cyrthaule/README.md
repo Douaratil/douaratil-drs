@@ -47,6 +47,7 @@ telepathy: 18
 ## Cyrthaüle
 &nbsp;
 [![Cyrthaüle](https://www.douaratil.fr/illustrations/fielon/cyrthaulem.png)](https://www.douaratil.fr/illustrations/fielon/cyrthaule.jpg)  
+_**Perte de santé mentale (SAM)**_. DD 32, réussite 6, échec 3d6+3. 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

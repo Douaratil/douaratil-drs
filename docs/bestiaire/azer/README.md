@@ -35,7 +35,8 @@ dungeonTypes:
 ---
 ## Azer
 &nbsp;
-[![Azer](https://www.douaratil.fr/illustrations/elementaire/azerm.png)](https://www.douaratil.fr/illustrations/elementaire/azer.jpg)  
+[![Azer](https://www.douaratil.fr/illustrations/elementaire/azerm.png)](https://www.douaratil.fr/illustrations/elementaire/azer.jpg)
+_**Perte de santé mentale (SAM)**_. DD 18, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15         
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

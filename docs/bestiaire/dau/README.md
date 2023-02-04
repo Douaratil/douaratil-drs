@@ -37,6 +37,7 @@ environments:
 ## Dau
 &nbsp;
 [![Dau](https://www.douaratil.fr/illustrations/fee/daum.png)](https://www.douaratil.fr/illustrations/fee/dau.jpg)  
+_**Perte de santé mentale (SAM)**_. DD 20, réussite 3, échec 1d6+2. 
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
