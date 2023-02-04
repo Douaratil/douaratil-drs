@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "22 (Cotte de maille de Mithral)"
+  value: "24 (Cotte de maille de Mithral)"
 skills:
   - name: "custom"
     value: "acrobatie +5"
