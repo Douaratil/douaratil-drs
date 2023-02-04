@@ -79,7 +79,7 @@ category: "PJ"
 *Thorgunna Iridottir était décrite comme une jeune femme melge discrète par les gens qui la connaissait, avec une peau extrêmement blanche, une chevelure rousse flamboyante tressée et des yeux d'émeraude. Cependant, malgré son apparence calme, elle est en réalité dotée d'un caractère enjoué et est une mère attentionnée pour son petit Swnut.*    
 **Souvenirs d'Ailynn la voyageuse**   
 §§§    
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 35    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

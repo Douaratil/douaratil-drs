@@ -31,6 +31,7 @@ dungeonTypes:
   - Ruines extérieures
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 18, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## Actions

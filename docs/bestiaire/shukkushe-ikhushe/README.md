@@ -47,6 +47,7 @@ telepathy: 18
 ## Shukkushe-Ikhushe
 &nbsp;
 [![Shukkushe-Ikhushe](https://www.douaratil.fr/illustrations/fielon/shukkusheikhushem.png)](https://www.douaratil.fr/illustrations/fielon/shukkusheikhushe.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 45, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

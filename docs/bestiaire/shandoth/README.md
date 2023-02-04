@@ -69,6 +69,7 @@ source: "Elric"
 ## Shandoth
 &nbsp;
 [![Shandoth](https://www.douaratil.fr/illustrations/aberration/shandothm.png)](https://www.douaratil.fr/illustrations/aberration/shandoth.jpg)   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 39, réussite 7, échec 3d6+4.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

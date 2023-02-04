@@ -23,18 +23,50 @@ ac:
   armorType: "custom"
   value: "13 (Armure de cuir + défense Gwylwir)"
 skills:
-  - name: "intimidation"
-  - name: "dressage"
-    isExpert: true
-  - name: "perception"
-    isExpert: true
-  - name: "survie"
-    isExpert: true
+  - name: "custom"
+    value: "acrobatie +2"
+  - name: "custom"
+    value: "arcanes +15"
+  - name: "custom"
+    value: "athlétisme +0"
+  - name: "custom"
+    value: "discretion +2"
+  - name: "custom"
+    value: "dressage(••) +2"
+  - name: "custom"
+    value: "Equitation +2"
+  - name: "custom"
+    value: "escamotage +2"
+  - name: "custom"
+    value: "histoire +5"
+  - name: "custom"
+    value: "intimidation(•) +5"
+  - name: "custom"
+    value: "investigation +5"
+  - name: "custom"
+    value: "medecine +7"
+  - name: "custom"
+    value: "nature +10"
+  - name: "custom"
+    value: "perception(••) +2"
+  - name: "custom"
+    value: "Perspicacité +2"  
+  - name: "custom"
+    value: "persuasion +0"
+  - name: "custom"
+    value: "religion  +10"
+  - name: "custom"
+    value: "representation +0"
+  - name: "custom"
+    value: "supercherie +0"
+  - name: "custom"
+    value: "survie(••) +2"
+
 movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh, le commun nordique, le Khern langue khernaëe, le Bredète dialecte meldète, le Mèlde langue meldète "  
+  - "le Weslèdh (3/0), le Khern (3/0), le Bredète (3/0), le Mèlde (3/0) "  
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon> Owain Macaro
@@ -46,6 +78,7 @@ category: "PJ"
 *Owain était un expert en la matière de la chasse et de la traque. Il était un tireur d'élite avec un arc, capable de viser et de toucher sa cible avec une précision mortelle. Il avait développé ces compétences au fil des années passées en tant que bandit, traquant les voyageurs et les caravanes pour survivre.*
 *En tant que membre de la résistance, Owain avait tiré parti de ses compétences de tireur pour mener des actions de sabotage contre les troupes de Britomartos Nantono, contribuant ainsi à la victoire de Joan Lugeto à la bataille des rois.*   
 **Souvenirs d'Ailynn la voyageuse**   
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 31  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## Capacités

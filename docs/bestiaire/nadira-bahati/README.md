@@ -68,6 +68,7 @@ category: "PJ"
 ## Nadira Bahati  
 &nbsp;
 [![Nadira Bahati  ](https://www.douaratil.fr/illustrations/pj/nadirabahatim.png)](https://www.douaratil.fr/illustrations/pj/nadirabahati.jpg)  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 26  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités

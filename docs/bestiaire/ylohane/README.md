@@ -68,6 +68,7 @@ telepathy: 72
 ## Ylohane
 &nbsp;
 [![Ylohane](https://www.douaratil.fr/illustrations/aberration/ylohanem.png)](https://www.douaratil.fr/illustrations/aberration/ylohane.jpg)   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 39, réussite 8, échec 4d6+4.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

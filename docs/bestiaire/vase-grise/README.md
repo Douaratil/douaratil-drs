@@ -41,6 +41,7 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 1, échec 1d6.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: -           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13
 ## Capacités

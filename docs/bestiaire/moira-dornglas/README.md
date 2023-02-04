@@ -75,7 +75,7 @@ category: "PJ"
 *En tant que femme khernaëe, Moïra avait grandi dans une culture forte et traditionnelle. Elle essayait d'être en harmonie avec la nature et avait une profonde croyance en sa spiritualité magique. Tout cela ajoutait à son mystère et à son charme et sa réussite faisait l'envie de nombreux de ses détracteurs qui prétendaient qu'elle avait obtenu ses biens par ses sortilèges, ceux qui n'était pas complètement faux, mais pas dans le sens où l'entendaient ses censeurs.*    
 **Souvenirs de Brycham l'Aventureux**   
 §§§   
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 54    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

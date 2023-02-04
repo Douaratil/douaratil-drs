@@ -71,6 +71,7 @@ source: "Elric"
 ## Lhaothlastholo
 &nbsp;
 [![Lhaothlastholo](https://www.douaratil.fr/illustrations/aberration/lhaothlastholom.png)](https://www.douaratil.fr/illustrations/aberration/lhaothlastholo.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 45, réussite 7, échec 4d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

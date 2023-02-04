@@ -53,6 +53,7 @@ telepathy: 30
 ## Odoba
 &nbsp;
 [![Odoba](https://www.douaratil.fr/illustrations/fielon/odobam.png)](https://www.douaratil.fr/illustrations/fielon/odoba.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 30, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 28            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

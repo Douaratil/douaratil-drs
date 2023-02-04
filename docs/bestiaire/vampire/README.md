@@ -36,6 +36,7 @@ dungeonTypes:
   - Donjon maçonné
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 29, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

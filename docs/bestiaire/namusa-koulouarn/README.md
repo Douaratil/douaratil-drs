@@ -68,7 +68,7 @@ category: "PJ"
 ## Namusa Koulouarn
 &nbsp;
 [![Namusa Koulouarn](https://www.douaratil.fr/illustrations/pj/namusam.png)](https://www.douaratil.fr/illustrations/pj/namusa.jpg)  
-
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 24     
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

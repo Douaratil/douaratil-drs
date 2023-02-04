@@ -35,6 +35,7 @@ languages:
   - "Ur'h"
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 23, réussite 3, échec 1d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

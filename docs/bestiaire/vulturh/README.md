@@ -37,6 +37,7 @@ environments:
 ## Vulturh
 &nbsp;
 [![Vulturh](https://www.douaratil.fr/illustrations/creature-monstrueuse/vulturhm.png)](https://www.douaratil.fr/illustrations/creature-monstrueuse/vulturh.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 20, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15              
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

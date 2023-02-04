@@ -77,6 +77,7 @@ category: "PJ"
 *Aujourd'hui, Lôchetos a vingt quatre an et est en couple avec une jeune femme shahim Kahina ult Bouhen. Elle est d'une nature douce et compréhensive, et d'une grande beauté et a apporté une nouvelle stabilité dans la vie de Lôchetos. Ensemble, ils forment une famille heureuse et aimante, et sont reconnaissants pour les bénédictions qu'ils ont reçues dans leur vie.*       
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 41   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 22   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -1,6 +1,6 @@
 ---
 title: "Udasaur"
-type: "Neutre mauvaise"
+type: "Bête"
 size: "G"
 alignment: "non-alignée"
 challenge: "10"

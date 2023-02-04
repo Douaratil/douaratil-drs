@@ -70,6 +70,7 @@ category: "PJ"
 ## Gwion Gornoc
 &nbsp;
 [![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwiongornocm.png)](https://www.douaratil.fr/illustrations/pj/gwiongornoc.jpg)  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 63  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

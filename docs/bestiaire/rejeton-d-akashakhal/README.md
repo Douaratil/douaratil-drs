@@ -32,6 +32,7 @@ languages:
   - "rejeton d'Akyishigal"
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 21, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

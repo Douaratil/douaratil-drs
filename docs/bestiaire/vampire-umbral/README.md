@@ -51,6 +51,7 @@ languages:
   - "umbral"
 
 ---
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 23, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

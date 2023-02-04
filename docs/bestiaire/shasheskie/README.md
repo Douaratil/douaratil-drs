@@ -43,6 +43,7 @@ telepathy: 36
 ## Shasheskie
 &nbsp;
 [![Shasheskie](https://www.douaratil.fr/illustrations/fielon/shasheskiem.png)](https://www.douaratil.fr/illustrations/fielon/shasheskie.jpg)
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 29, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

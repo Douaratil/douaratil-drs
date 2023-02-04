@@ -65,6 +65,7 @@ source: "Elric"
 ## Sheggothlil
 &nbsp;
 [![Sheggothlil](https://www.douaratil.fr/illustrations/aberration/sheggothlilm.png)](https://www.douaratil.fr/illustrations/aberration/sheggothlil.jpg)   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 44, réussite 8, échec 4d6+4.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

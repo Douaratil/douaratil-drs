@@ -41,7 +41,8 @@ telepathy: 36
 ---
 ## Shakhu
 &nbsp;
-[![Shakhu](https://www.douaratil.fr/illustrations/fielon/shakhum.png)](https://www.douaratil.fr/illustrations/fielon/shakhu.jpg) 
+[![Shakhu](https://www.douaratil.fr/illustrations/fielon/shakhum.png)](https://www.douaratil.fr/illustrations/fielon/shakhu.jpg)
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 25, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

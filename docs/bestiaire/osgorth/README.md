@@ -36,6 +36,7 @@ environments:
 ## Osgorth
 &nbsp;
 [![Osgorth](https://www.douaratil.fr/illustrations/geant/osgorthm.png)](https://www.douaratil.fr/illustrations/geant/osgorth.jpg)    
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 24, réussite 3, échec 1d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19
 ## Actions

@@ -48,6 +48,7 @@ dungeonTypes:
 ## Spectre
 &nbsp;
 [![Spectre](https://www.douaratil.fr/illustrations/mort-vivant/spectrem.png)](https://www.douaratil.fr/illustrations/mort-vivant/spectre.jpg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 17, réussite 4, échec 3d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
