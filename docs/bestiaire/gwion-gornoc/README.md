@@ -3,7 +3,7 @@ title: "Gwion Gornoc"
 type: "PJ"
 subtype: "Meldète"
 size: "M"
-alignment: "Neutre"
+alignment: "Chaotique Neutre"
 challenge: "18"
 customHP: "54"
 abilityScores:
