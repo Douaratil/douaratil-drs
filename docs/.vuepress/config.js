@@ -590,11 +590,6 @@ module.exports = {
             icon: 'mdi-castle',
             children: [
               {
-                title: "L'éveil",
-                icon: 'mdi-debian',
-                path: '/eveil'
-              },
-              {
                 title: "Gestion de l'honneur",
                 icon: 'mdi-crown',
                 path: '/passion-honneur-et-interactions-sociales/'
