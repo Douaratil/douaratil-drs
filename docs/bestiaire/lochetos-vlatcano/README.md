@@ -244,9 +244,7 @@ Revenus : 5D6 PP et 30 x 6d6 po
 **Points de Magie** :10    
 **Points de Foi** :11    
 **Points d'honneur** : 67          
-**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.    
-**Voie d'éveil**: Ascension      
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [soin des blessures](/grimoire/soin-des-blessures).     
+**famille** : une amante Laepa (assassinée à Madin'alajnibh en Miz Even 722) et une fille Serena(née le Miz Khouéré 721), une jeune femme shahim Kahina ult Bouhen.     
 **Maison à Ker-Saozon et titre de noblesse Khernaë**  
 **conseiller et responsable du renseignement auprès de Dame Joan Lugeto** (1d6*5PP/lune)   
 

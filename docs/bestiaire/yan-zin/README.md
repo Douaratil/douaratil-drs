@@ -195,8 +195,6 @@ Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce
 **Points de Magie** :10  
 **Points de Foi** :14        
 **Points d'honneur** :49     
-**Voie d'éveil**: Voie de l'ascension   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos. Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie)     
 **Conseil de Kerzu** 1d6 X 50po/ lune   
 **Titre " Ami de Ker-Saozon"**
 §§§

@@ -231,7 +231,6 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 **Points d'honneur** :61    
 **famille** : une amante et deux faux jumeaux   
 **Guilde des voleurs**: Novice 50po/lune   
-**Voie d'éveil**: Voie médiane : Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricières](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).
 **Conseiller à Ker-Saozon**: 1d6 X 50 po/lunes
 
 §§§ .hero

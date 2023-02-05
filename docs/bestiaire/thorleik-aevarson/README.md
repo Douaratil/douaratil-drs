@@ -252,9 +252,7 @@ La colonie est constituée de cinq bâtiments avec une capacité d'accueil de 30
 **Points de Magie** :16   
 **Points de Foi** :84      
 **Points d'honneur** :57        
-**Représentant de l'alliance des Melg du Menezlatar** : 1d6X50 po /lune    
-**Voie d'éveil**: Voie de l'ascension.   
-Avantage JS contre attaques Nécrotiques, +2d6 points de Foi lors des repos, Acquisition des sorts [Aide](/grimoire/aide), [Bénédiction](/grimoire/benediction), [Thaumaturgie](/grimoire/thaumaturgie), [Soin des blessures](/grimoire/soin-des-blessures).      
+**Représentant de l'alliance des Melg du Menezlatar** : 1d6X50 po /lune     
 §§§
 
 §§§ .hero

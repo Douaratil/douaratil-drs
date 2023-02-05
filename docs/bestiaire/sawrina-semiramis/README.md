@@ -212,8 +212,6 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Points de Foi** :20   
 **Points d'honneur** :59     
 **Guilde des voleurs** Apprenti 120 po/lune   
-**Voie de l'éveil**: Voie médiane   
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, Acquisition des sorts [Assistance](/grimoire/assistance), [Baies nourricières](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme).  
 
 **Conseillère de Caohaydhan**   
 Rente 1d6 X 50po/lune

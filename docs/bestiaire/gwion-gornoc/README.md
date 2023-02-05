@@ -282,8 +282,6 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Inspirations religieuses** : (culte à Lhaothlastholo)    
 **Pedr Pimalo**: Possibilité de demander au MJ un renseignement "gratuit" dans une zone urbaine et de faire appel une fois par partie à 1d6 hommes de mains de Pedr Pimal.  
 **Guilde des mages** : Adepte 560 po/lune, avantage : réseau de guilde, +1 au toucher et +2 aux dégâts avec un élément de prédilection (foudre), +2 aux JS d'INT, train de vie riche.   
-**Eveil**: Voie médiane  
-Avantage JS contre attaques psychique, +1d6 points de Foi et +1d6 points de Magie lors des repos, [Assistance](/grimoire/assistance), [Baies nourricères](/grimoire/baies-nourricieres), [Druidisme](/grimoire/druidisme), [Soin animaliers](/grimoire/soin-animalier), [Compagnon animal](/grimoire/compagnon-animal).   
 **conseiller auprès de Dame Joan Lugeto** (1d6*5PP/lune)  
 **Maison à Ker-Saozon et titre de noblesse Khernaë**   
 §§§
