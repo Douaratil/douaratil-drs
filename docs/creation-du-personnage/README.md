@@ -6,9 +6,10 @@ description: Règles de création de personnage
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
 
-&nbsp;
-[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage.jpg)  
-
+§§§ .hero
+*L'homme était appuyé contre un mur. Il avait les bras croisés et me portait un regard sans intérêt. C'était un nordique de toute évidence. Il avait les cheveux clairs, la peau blanche et les yeux gris. Il était peu habillé malgré la saison et des peintures bleues rituelles étaient visibles sur ses bras et une partie de son visage. Il s'agissait d'un Khernaë.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 ## 1. Choisir une ethnie
 
 Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque ethnie et chaque variante.
@@ -49,8 +50,10 @@ Le **Charisme** traduit les aptitudes sociales du personnage et sa personnalité
 
 Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
 
-&nbsp;
-[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem2.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage2.jpg)  
+§§§ .hero
+*La jeune femme me faisait forte impression. Certe je n'étais pas insensible à son charme avec ses cheveux noirs attachés qui retombaient sur ses épaules. Son regard noir était insondable. Elle portait une armure de cuir légère sombre et une dague. Je la trouvais charismatique.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ### Répartition des points de caractéristiques
 Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustées par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
@@ -109,12 +112,14 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
-&nbsp;
-[![Création de personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnagem3.png)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage3.jpg)  
+§§§ .hero
+*La jeune femme à la cehvelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne mais bien une jeune femme d'expérience aux talent exceptionnels.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ## Évolution des personnages
 
-| Points d'expérience | Niveau | Bonus de maîtrise | Points de caractéristique par niveau | Points de caractéristiques cumulés |Voie des armes (PA)|Voie de l'ombre (PA)|Voie de la magie|
+| Points d'expérience | Niveau | Bonus de maîtrise | Points de caractéristique par niveau | Points de caractéristiques cumulés |Voie des armes (PA)|Voie de l'ombre (PA)|Voie de la magie (PA)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **0** | 1 | +2 | 0 | 0 |+4|+3|+2|
 | **600** | 2 | +2 |+2 | +2 |+8|+6|+4|
