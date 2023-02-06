@@ -3,7 +3,7 @@ title: "Tiberius Don Alonzo"
 type: "PJ"
 subtype: "Alcante"
 size: "M"
-alignment: "Chaotique neutre"
+alignment: "Chaotique bon"
 challenge: "17"
 customHP: "65"
 abilityScores:

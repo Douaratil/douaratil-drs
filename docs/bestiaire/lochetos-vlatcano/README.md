@@ -3,7 +3,7 @@ title: "Lôchetos Vlatcano"
 type: "PJ"
 subtype: "Meldète"
 size: "M"
-alignment: "Loyal bon"
+alignment: "Chaotique bon"
 challenge: "14"
 customHP: "56"
 abilityScores:

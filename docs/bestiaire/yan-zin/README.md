@@ -3,7 +3,7 @@ title: "Yan Zin"
 type: "PJ"
 subtype: "Yotakaï"
 size: "M"
-alignment: "Loyal bon"
+alignment: "Loyal neutre"
 challenge: "12"
 customHP: "60"
 abilityScores:
