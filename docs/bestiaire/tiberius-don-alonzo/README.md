@@ -66,11 +66,12 @@ languages:
   - "l'Alcath (3/2), le Courdote (3/2), le Khern (2/0), Soogh (2/0) "
 category: "PJ"
 ---
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Tiberius Don Alonzo V3 20230206.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Tiberius Don Alonzo PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Tiberius Don Alonzo
 §§§ .hero
 *Tiberius Don Alonzo était un jeune homme appartenant à une riche et renommée famille Alcante de Courdoes. Il avait la peau foncée, les cheveux bruns et des yeux gris frappants qui ajoutaient à son apparence charmante. Il était de taille moyenne, mesurant environ 1 m75 et pesant environ cent vingt livres.*  
 *En raison d'une vendetta potentielle, Tiberius avait été envoyé à Goulvening Moisan, une relation éloignée de son père. Sa famille avait fait une fortune considérable dans le commerce des pierres précieuses et semi-précieuses.*  
-*Tiberius avait une histoire d'amour avec Avidia Collatinus, une noble de Courdoès, âgée de vingt-deux ans, aux longs cheveux noirs et aux yeux gris. De leur relation était nés deux faux jumeaux, ce qui ajoutait de lourdes responsabilités dans cette période incertaine.*   
+*Tiberius avait une histoire d'amour avec Avidia Collatinus, une noble de Courdoès, âgée de vingt-deuxt ans, aux longs cheveux noirs et aux yeux gris. De leur relation était nés deux faux jumeaux, ce qui ajoutait de lourdes responsabilités dans cette période incertaine.*   
 *En plus d'Avidia, Tiberius avait également eu une histoire d'amour avec Dame Azenor le Moal, une noble Khernaëe de Ker-Saozon. Dame Azenor était une belle femme d'une trentaine d'années, aux cheveux bruns et aux yeux bleus captivants. Malgré sa beauté, elle n'avait jamais eu d'enfants.*    
 *Tiberius Don Alonzo vivait une vie pleine de romance et d'intrigues, entouré par les complexités de multiples histoires d'amour et de vendettas familiales. Depuis la bataille des rois, il s’était installé depuis deux ans dans les terres khernaëes. Il y avait reçu un domaine confortable, qui était bienvenu pour accueillir sa famille. Et après ses hauts faits, il avait une place de conseiller à Caohaydhan qui lui assurer une rente confortable.*         
 **Souvenirs d'Ailynn la voyageuse**   
@@ -140,13 +141,13 @@ _**Epée courte +2(••)**_. _Attaque d'arme au corps à corps_ : +19 pour tou
 _Touché_ : 2d6+7 dégâts tranchants .
 
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+5 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6+5 dégâts perforant (portée 6/18).  
 
 _**Dague(••) seconde main**_. _Attaque d'arme au corps à corps_ : +12 pour toucher , allonge 1,50 m, une cible.  
-_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
+_Touché_ : 1d6 dégâts perforant (portée 6/18).  
 
 _**Epée longue(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+2)  
+_Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+3)  
 
 _**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, portée 6/18.  
 _Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  

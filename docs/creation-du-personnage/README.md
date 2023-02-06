@@ -113,7 +113,7 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
 §§§ .hero
-*La jeune femme à la cehvelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne mais bien une jeune femme d'expérience aux talent exceptionnels.*       
+*La jeune femme à la chevelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne mais bien une jeune femme d'expérience aux talent exceptionnels.*       
 **Souvenirs de Brycham l'aventureux**   
 §§§   
 
