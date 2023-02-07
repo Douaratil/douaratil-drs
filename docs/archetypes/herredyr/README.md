@@ -75,7 +75,7 @@ Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la comp�
 |**Aigle**|Persuasion|
 |**Cerf**|Athlétisme|
 |**Chouette**|Perspicacité|
-|**Hibou**|Arcanes|
+|**Hibou**|Religion|
 |**Loup**|Survie|
 |**Lynx**|Discrétion|
 |**Ours**|Intimidation|
@@ -118,7 +118,7 @@ Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter d
 **En Meldète : Chompánach'Beithigh**    
 **En Melg :Följeslagare Eläimen**   
 Dès le niveau 8, votre allégeance bestiale vous permet d'avoir un compagnon animal qui sera fidèle en toute chose à l'Herredyr. Si le compagnon devait mourir, l'Herredyr ne pourrait plus en avoir avant le début de la saison suivante.  
-Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20 même si le personnage continue sa progression au delà**.
+Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20*.
 
 Progression du compagnon
 

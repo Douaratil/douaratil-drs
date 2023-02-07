@@ -3,7 +3,7 @@ title: "Thorleik Aevarson"
 type: "PJ"
 subtype: "Melg"
 size: "M"
-alignment: "Loyal bon"
+alignment: "Chaotique bon"
 challenge: "16"
 customHP: "44"
 abilityScores:
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "17 (armure de cuir cloutée & bouclier)"
+  value: "21 (armure de cuir cloutée & bouclier)"
 skills:
   - name: "custom"
     value: "acrobatie +1"
@@ -46,13 +46,13 @@ skills:
   - name: "custom"
     value: "nature(•) +8"
   - name: "custom"
-    value: "perception +3 (désavantage en plein jour)"
+    value: "perception +5 (désavantage en plein jour)"
   - name: "custom"
-    value: "perspicacité +3"
+    value: "perspicacité +5"
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
-    value: "religion(••) +15"
+    value: "religion(••) +13"
   - name: "custom"
     value: "représentation +0"
   - name: "custom"
@@ -67,7 +67,7 @@ languages:
   - "le Weslèdh (3/0), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (0/1), Ashkhèm (3/3), Ashkham (2/3)"
 category: "PJ"
 ---
-
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Thorleik Aevarson V3 20230207.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Thorleik Aevarson PDF</v-btn>
 ## <v-icon>mdi-human-greeting</v-icon> Thorleik Aevarson  
 §§§ .hero
 *Thorleik Aevarson était un homme grand et imposant, avec une stature de sept pieds et une peau blanche. Il avait des cheveux blonds et des yeux bleus, avec une longue cicatrice qui descendait de sa tempe gauche jusqu'au menton qui se terminait par une barbe tressée. En tant que prêtre du feu, il était respecté et vénéré par les Melgs de son clan Aevearson, installés aux pieds des Monts du Menezlatar.*    
@@ -91,7 +91,7 @@ category: "PJ"
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.  
 
-_**Voie de la Magie & Herredyr**_. Thorleik est niveau 14 dans la voie de la Magie et Archétype Herredyr (Hibou).  
+_**Voie de la Magie & Herredyr**_. Thorleik est niveau 16 dans la voie de la Magie et Archétype Herredyr (Hibou).  
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybides" (cf: Sohoten).  
 
@@ -119,7 +119,7 @@ L'Herredyr a toujours des rapports amicaux avec l'animal issue de son allégeanc
 _**Compétence bestiale**_. *(Herredyr)* Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la compétence suivante:    
 |Type|Compétence maîtrisée|
 |:-:|:-:|
-|**Hibou**|Arcanes|
+|**Hibou**|Religion|
 
 _**Sursaut bestial**_. *(Herredyr)* Dès le niveau 5, votre allégeance bestiale vous donne la capacité de puiser dans vos ressources profondes pour changer le cour d'une situation et obtenir un avantage à vos jets de dés. Votre nombre d'avantage dépend de votre bonus de caractéristique selon le tableau suivant.  
 |Type|Caractéristique liée|
@@ -131,7 +131,7 @@ L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos lon
 _**Férocité bestiale**_. *(Herredyr)* Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaque est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 à chaque fois en compensation (+4 au niveau 12).  
 
 _**Compagnon bestial**_. *(Herredyr)* Dès le niveau 8, votre allégeance bestiale vous permet d'avoir un compagnon animal qui sera fidèle en toute chose à l'Herredyr. SI le compagnon devait mourir, l'Herredyr ne pourrait plus en avoir avant le début de la saison suivante.  
-Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20 même si le personnage continue sa progression au delà**.  
+Le compagnon est particulièrement puissant car il a le même indice de dangerosité (ID) que l'Herredyr, ce qui modifie ses PA et sa VO, **avec une limitation, celle de ne pas dépasser l'ID20**.  
 
 Progression du compagnon  
 |Type|Taille|PA/niveau|VO jusqu'au niv 4|VO jusqu'au niv 8|VO jusqu'au niv 12|VO jusqu'au niv 16|VO jusqu'au niv 20|
@@ -171,7 +171,7 @@ _**Hache(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher , allonge
 _Touché_ : 4d6+3 dégâts tranchants (5d6+1 à deux mains), rage bestiale.  
 
 _**Pique(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+1 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
+_Touché_ : 5d6+2 dégâts tranchants (lourde, allonge, à deux mains), rage bestiale.  
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -205,7 +205,7 @@ Thorleik Aevarson possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +11 en Magie +23 en Foi**  
 **DD de Sauvegarde: 16 en Magie et 18 en Foi**  
-**Novice** : [Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Baie nourricière](/grimoire/baie-nourriciere), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
+**Novice** : [Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
 [Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
@@ -225,7 +225,7 @@ Thorleik Aevarson possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine normale** :  Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
+**Niveau patrimoine normal** :  Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
 §§§
 
 §§§ .hero
