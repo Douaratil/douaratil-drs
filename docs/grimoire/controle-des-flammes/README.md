@@ -16,7 +16,8 @@ classes:
   - Magie
 ---
 **Coût** : 1 points de Magie  
-Le mage peut au prix d’une action, utiliser sa poudre de piment enchantée en trempant son index dans le produit et en l’étalant sur sa langue. Vous choisissez un feu non magique visible dans la portée du sort de 1,50 mètre d'arête maximum. Vous pouvez l'affecter de l'une des façons suivantes :  	  
+**Incantation** : 
+**Description** : Le mage peut au prix d’une action, utiliser sa poudre de piment enchantée en trempant son index dans le produit et en l’étalant sur sa langue. Vous choisissez un feu non magique visible dans la portée du sort de 1,50 mètre d'arête maximum. Vous pouvez l'affecter de l'une des façons suivantes :  	  
 
 • Vous pouvez faire grossir instantanément le feu de 1,50 mètre dans une direction, à condition que du bois ou un autre combustible soit présent dans cette nouvelle zone.    	 	
 • Vous pouvez éteindre instantanément les flammes à l'intérieur du cube. 	  

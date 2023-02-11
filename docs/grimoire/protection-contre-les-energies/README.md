@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie ou de Foi  
-Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.
+**Incantation** : 
+**Description** : Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.

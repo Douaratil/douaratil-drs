@@ -20,5 +20,6 @@ classes:
 
 ---
 **Coût** : 1 points de Foi ou de Magie
-Ce petit sort permet au magicien de définir une coiffure pour la journée.
+**Incantation** : 
+**Description** : Ce petit sort permet au magicien de définir une coiffure pour la journée.
 Il doit toucher la chevelure en question et la coiffer entre ses doigts en fredonnant un petit air. Il peut ainsi donner des formes ondulées, des boucles, tresser les cheveux automatiquement, friser les cheveux ou bien les rendre lisses. Ce sort est aussi efficace sur la barbe.

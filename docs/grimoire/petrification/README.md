@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Magie   
-Vous tentez de paralyser une créature comme si elle était changée en pierre. La créature doit être située à portée et dans votre champ de vision. Si le corps de la cible est fait de chair, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se retrouver [_entravée_](/gerer-la-sante-du-personnage/#entrave), car elle a l'impression que sa chair se met à durcir.
+**Incantation** : 
+**Description** : Vous tentez de paralyser une créature comme si elle était changée en pierre. La créature doit être située à portée et dans votre champ de vision. Si le corps de la cible est fait de chair, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se retrouver [_entravée_](/gerer-la-sante-du-personnage/#entrave), car elle a l'impression que sa chair se met à durcir.
 
 Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par ce sort doit effectuer un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine. Si elle en rate trois, elle se change en pierre et se retrouve [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) pendant toute la durée du sort. Il est inutile que les succès et les échecs soient consécutifs, notez juste leur nombre jusqu'à ce que la cible arrive à en accumuler trois d'une sorte ou de l'autre.
 

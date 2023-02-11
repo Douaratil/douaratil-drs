@@ -20,7 +20,8 @@ source: "Elric"
 ---
 **Coût** : 12 points de Magie ou de Foi  
 **Enchantement**. Le ritualise enchante un petit onyx au fond d’un cratère ou d’un gouffre, avec l’aide de deux assistants pendant 1 heure. Le sorcier garde cet onyx sur lui et le conserve jusqu’à ce que le sort soit jeté.  
-Ce sort permet d’obtenir de nombreuses informations en touchant la  parois d'une grotte ou d'une falaise ou encore la surface d’un sol, etc.   
+**Incantation** : 
+**Description** : Ce sort permet d’obtenir de nombreuses informations en touchant la  parois d'une grotte ou d'une falaise ou encore la surface d’un sol, etc.   
 Le sorcier entre en symbiose avec la pierre ou la terre elle même.  
 Il peut obtenir les informations suivantes dans un rayon de 1 lieue de rayon par point de modificateur d’Intelligence:  
 - âge de la pierre.  

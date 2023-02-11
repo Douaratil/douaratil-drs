@@ -18,8 +18,11 @@ classes:
 
 ---
 **Coût** : 6 points de Foi
+**Incantation** : *Sous le ciel noir et l'éclair qui brille, je déchaîne la foudre qui dévaste tout !*   
+*Par ma foi, je m'adresse à l'énergie divine, et je fais appel à la foudre pour brûler mes ennemis !*   
+*Que la lumière aveuglante et les dégâts assourdissants frappent ceux qui se dressent sur ma route ! Appel de la foudre !*   
 
-Un nuage orageux apparaît sous forme d'un cylindre de 3 mètres de haut pour 18 mètres de rayon, centré sur un point situé dans votre champ de vision et à 30 mètres directement au-dessus de vous. Le sort échoue si vous ne pouvez voir le point situé à cette hauteur, là où le nuage doit se former (si vous vous trouvez dans une pièce trop petite pour accueillir le nuage, par exemple).
+**Description** Un nuage orageux apparaît sous forme d'un cylindre de 3 mètres de haut pour 18 mètres de rayon, centré sur un point situé dans votre champ de vision et à 30 mètres directement au-dessus de vous. Le sort échoue si vous ne pouvez voir le point situé à cette hauteur, là où le nuage doit se former (si vous vous trouvez dans une pièce trop petite pour accueillir le nuage, par exemple).
 
 Quand vous lancez le sort, vous devez choisir un point situé à portée et dans votre champ de vision. Un éclair jaillit du nuage et vient frapper ce point. Chaque créature située dans un rayon de 1,50 mètre autour de ce point doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 5d6 dégâts de foudre, les autres la moitié seulement. À chacun de vos tours jusqu'à la fin du sort, vous pouvez dépenser votre action pour appeler ainsi la foudre, en visant le même point ou un autre.
 

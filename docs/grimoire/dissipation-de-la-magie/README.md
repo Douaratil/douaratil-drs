@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Foi ou de Magie
-Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
+**Incantation** : 
+**Description** : Choisissez une créature, un objet ou un effet magique à portée. Tout sort de niveau 3 ou inférieur qui l'affecte se termine. Si la cible est affectée par un sort de niveau 4 ou plus, faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) en utilisant votre caractéristique d'incantation. Le DD est de 10 + niveau du sort. Ce dernier se termine si vous réussissez votre test.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau d'Apprenti ou supérieur, vous mettez automatiquement un terme à un sort affectant la cible quand le niveau de ce sort est égal ou inférieur au niveau du sort que vous utilisez.

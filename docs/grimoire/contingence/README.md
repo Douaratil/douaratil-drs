@@ -18,7 +18,8 @@ classes:
 ---
 **Coût** : 12 points de Magie  
 **Enchantement** : Le mage doit enchanter une statuette de vous taillée dans l'ivoire et ornée de gemmes d'une valeur minimum de 1500 po et dépenser 60 po de matériel pour le rituel.  
-Choisissez un sort de niveau Apprenti ou moins que vous êtes en mesure de lancer, qui possède un temps d'incantation d'une action, et qui peut vous prendre pour cible. Vous lancez ce sort (que l'on appelle le sort contingent) lors de l'incantation de la contingence. Vous dépensez donc les points des deux sorts, mais le contingent ne fait pas effet immédiatement. Il s'active lorsque certaines conditions sont remplies. Vous devez décrire ces dernières au moment où vous lancez les deux sorts. Par exemple, lors d'une contingence associée à une <ST s="respiration-aquatique"/>, vous pouvez stipuler que la <ST s="respiration-aquatique"/> doit se déclencher quand vous vous trouvez immergé dans l'eau ou dans un liquide similaire.
+**Incantation** : 
+**Description** : Choisissez un sort de niveau Apprenti ou moins que vous êtes en mesure de lancer, qui possède un temps d'incantation d'une action, et qui peut vous prendre pour cible. Vous lancez ce sort (que l'on appelle le sort contingent) lors de l'incantation de la contingence. Vous dépensez donc les points des deux sorts, mais le contingent ne fait pas effet immédiatement. Il s'active lorsque certaines conditions sont remplies. Vous devez décrire ces dernières au moment où vous lancez les deux sorts. Par exemple, lors d'une contingence associée à une <ST s="respiration-aquatique"/>, vous pouvez stipuler que la <ST s="respiration-aquatique"/> doit se déclencher quand vous vous trouvez immergé dans l'eau ou dans un liquide similaire.
 
 Le sort contingent prend effet dès que les circonstances sont remplies pour la première fois, que vous le vouliez ou non, ce qui met un terme à la contingence.
 

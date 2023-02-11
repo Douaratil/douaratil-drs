@@ -16,7 +16,8 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
-Le sorcier lance un crie qui crée une onde de choc visible dans l'air par un effet « rond dans l'eau » en forme de cône de 18 mètres de long et 9 mètres de large en bout de course. Toutes les matières comme le verre, les pierres, le bois et les céramiques explosent, créant pour les cibles à proximité 1D6 dégâts de force. Si l'onde de choc contient beaucoup fragments et de débris, les dégâts peuvent être tranchants ou perforant (au désavantage de la cible)
+**Incantation** : 
+**Description** : Le sorcier lance un crie qui crée une onde de choc visible dans l'air par un effet « rond dans l'eau » en forme de cône de 18 mètres de long et 9 mètres de large en bout de course. Toutes les matières comme le verre, les pierres, le bois et les céramiques explosent, créant pour les cibles à proximité 1D6 dégâts de force. Si l'onde de choc contient beaucoup fragments et de débris, les dégâts peuvent être tranchants ou perforant (au désavantage de la cible)
 
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant des niveaux de surcharge, le sort cause 1d6 de dégâts supplémentaire au-delà du niveau de Disciple.  

@@ -16,4 +16,5 @@ classes:
     - Foi
 ---
 **Coût** : 6 point de Foi  
-Vous créez 25 kilogrammes de nourriture (moisissure) et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Le processus prend une nuit complète. Cela suffit à nourrir et abreuver un maximum de quinze personnes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.
+**Incantation** : 
+**Description** : Vous créez 25 kilogrammes de nourriture (moisissure) et 120 litres d'eau, soit par terre, soit dans des récipients installés à portée. Le processus prend une nuit complète. Cela suffit à nourrir et abreuver un maximum de quinze personnes ou de cinq montures pendant 24 heures. Les vivres sont fades mais nourrissants. Ils se gâtent si personne ne les a mangés dans les 24 heures suivant leur création. L'eau est claire et ne croupit pas.

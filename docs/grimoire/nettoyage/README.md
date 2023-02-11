@@ -20,4 +20,5 @@ classes:
 
 ---
 **Coût** : 1 points de Foi ou de Magie
-Lorsque le magicien fait son ménage et qu'il se concentre après avoir lancé ce sort, ses produits nettoyants sont très efficaces : les vitres sont translucides, les fers redeviennent brillants, le parquet et les bois sont superbement cirés. Ce sort ne remplace pas le nettoyage mais en améliore l'efficacité, épargnant ainsi d'une grande part, les tâches pénibles. Le nettoyage est permanent mais la zone se salit de nouveau normalement.
+**Incantation** : 
+**Description** : Lorsque le magicien fait son ménage et qu'il se concentre après avoir lancé ce sort, ses produits nettoyants sont très efficaces : les vitres sont translucides, les fers redeviennent brillants, le parquet et les bois sont superbement cirés. Ce sort ne remplace pas le nettoyage mais en améliore l'efficacité, épargnant ainsi d'une grande part, les tâches pénibles. Le nettoyage est permanent mais la zone se salit de nouveau normalement.

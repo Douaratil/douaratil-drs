@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 4 points de Foi  
-Vous tentez de convaincre une bête à portée et dans votre champ de vision de devenir votre compagnon de route et d'aventure. L'animal ne doit pas être hostile au moment où vous lancez le sort et vous l'amadouez avec un peu de nourriture pendant l'incantation. Le succès du sort est automatique si l'indice de dangerosité de la bête ne dépasse pas 1/2 et que sa valeur d'intelligence est inférieure ou égal à 4. Dans le cas contraire, la bête n'est pas affectée par le sort.
+**Incantation** : 
+**Description** : Vous tentez de convaincre une bête à portée et dans votre champ de vision de devenir votre compagnon de route et d'aventure. L'animal ne doit pas être hostile au moment où vous lancez le sort et vous l'amadouez avec un peu de nourriture pendant l'incantation. Le succès du sort est automatique si l'indice de dangerosité de la bête ne dépasse pas 1/2 et que sa valeur d'intelligence est inférieure ou égal à 4. Dans le cas contraire, la bête n'est pas affectée par le sort.
 
 Si le sort est un succès, vous pouvez communiquer de façon rudimentaire avec votre compagnon et lui donner des ordres simples comme attaquer une cible ou la suivre, rapporter un objet en vue, garder un lieu ou une créature, etc. Cela ne vous demande pas de dépenser une action. De plus, vous pouvez entendre et voir par l'intermédiaire des oreilles et des yeux de votre compagnon, comme si vous occupiez son emplacement. À votre tour, vous pouvez dépenser une action bonus pour passer de l'utilisation de ses sens à celle des vôtres et inversement. Tant que vous utilisez ses sens, vous êtes aveugle et sourd à votre propre environnement.
 

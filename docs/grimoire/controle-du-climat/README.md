@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 16 point de Foi ou de Magie  
-Vous prenez le contrôle de la météo dans un rayon de 7,5  kilomètres autour de vous pendant toute la durée du sort. Vous devez être en extérieur au moment de l'incantation. Si vous vous rendez dans un endroit d'où vous ne voyez pas directement le ciel, le sort se termine prématurément.
+**Incantation** : 
+**Description** : Vous prenez le contrôle de la météo dans un rayon de 7,5  kilomètres autour de vous pendant toute la durée du sort. Vous devez être en extérieur au moment de l'incantation. Si vous vous rendez dans un endroit d'où vous ne voyez pas directement le ciel, le sort se termine prématurément.
 
 Au moment de l'incantation, vous changez les conditions météorologiques actuelles déterminées par le MJ en fonction du climat et de la saison. Vous pouvez modifier les précipitations, la température et le vent. Il faut 1d6×10 minutes pour que les nouvelles conditions s'installent. Vous pouvez ensuite les modifier à nouveau. Le temps retourne progressivement à la normale une fois le sort terminé.
 

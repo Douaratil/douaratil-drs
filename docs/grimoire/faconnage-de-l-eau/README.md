@@ -18,8 +18,8 @@ classes:
 
 ---
 **Coût** : 1 point de Magie  
-
-Avec ce rituel, le mage peut enchanter une pierre particulière. Lorsqu’il la tient dans sa main gauche, il peut tremper l’index de sa main droite dans l’eau. Choisissez un cube d'eau visible de 1,50 mètre d'arête dans la portée du sort. Vous pouvez alors le manipuler d'une des façons suivantes :	  
+**Incantation** : 
+**Description** : Avec ce rituel, le mage peut enchanter une pierre particulière. Lorsqu’il la tient dans sa main gauche, il peut tremper l’index de sa main droite dans l’eau. Choisissez un cube d'eau visible de 1,50 mètre d'arête dans la portée du sort. Vous pouvez alors le manipuler d'une des façons suivantes :	  
 
 • Vous déplacez instantanément ou modifiez le sens du courant selon vos directives jusqu'à 1,50 mètre dans n'importe quelle direction. Ce mouvement n'a pas assez de force pour causer des dégâts.  
 • Vous pouvez faire apparaitre des formes simples dans l'eau (rond dans l’eau, effleurement du vent) et les animer selon vos instructions. Ce changement dure 1 heure.	 

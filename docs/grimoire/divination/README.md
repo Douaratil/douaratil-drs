@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 8 points de Foi  
-Grâce à votre magie et à une offrande, vous entrez en contact avec un dieu ou l'un de ses serviteurs. Vous lui posez une unique question à propos d'un objectif, d'un événement ou d'une activité qui doit se dérouler dans les 7 jours à venir. Le MJ vous donne une réponse sincère, pouvant être une courte phrase, des vers cryptiques ou un présage.
+**Incantation** : 
+**Description** : Grâce à votre magie et à une offrande, vous entrez en contact avec un dieu ou l'un de ses serviteurs. Vous lui posez une unique question à propos d'un objectif, d'un événement ou d'une activité qui doit se dérouler dans les 7 jours à venir. Le MJ vous donne une réponse sincère, pouvant être une courte phrase, des vers cryptiques ou un présage.
 
 Le sort ne tient pas compte d'une éventuelle modification des circonstances susceptible de bouleverser l'issue des événements, comme l'incantation de sorts supplémentaires ou la perte ou l'arrivée d'un compagnon.
 

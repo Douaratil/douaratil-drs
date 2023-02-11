@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie ou de Foi  
-Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
+**Incantation** : 
+**Description** : Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.

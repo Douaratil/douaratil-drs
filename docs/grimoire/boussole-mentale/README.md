@@ -20,5 +20,5 @@ classes:
 source: "Elric"
 ---
 **Coût** : 2 points de Magie ou de Foi  
-
-Le sorcier se concentre pour connaître la position des quatre points cardinaux. Il connaît aussi précisément la température, ainsi que l’altitude du lieu par rapport au niveau de la mer.
+**Incantation** : 
+**Description** : Le sorcier se concentre pour connaître la position des quatre points cardinaux. Il connaît aussi précisément la température, ainsi que l’altitude du lieu par rapport au niveau de la mer.

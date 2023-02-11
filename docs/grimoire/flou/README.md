@@ -19,5 +19,5 @@ classes:
 
 ---
 **Coût** : 4 points de Magie  
-
-Votre corps semble devenir flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un _désavantage_ lorsqu'elles font un [jet d'attaque](/combattre/#jets-d-attaque) contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.
+**Incantation** : 
+**Description** : Votre corps semble devenir flou, il ondule et vacille comme une flamme aux yeux d'autrui. Pendant toute la durée du sort, les créatures subissent un _désavantage_ lorsqu'elles font un [jet d'attaque](/combattre/#jets-d-attaque) contre vous. Un attaquant est immunisé contre cet effet s'il ne se repose pas sur sa vue, s'il dispose de vision aveugle, par exemple, ou s'il peut percer les illusions à jour avec vision parfaite.

@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie  
-La cible qui subit ce sort reçoit un tel sentiment de désespoir qu'elle tente immédiatement de se suicider par tous les moyens possibles durant toute la durée du sort. Il est possible de résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.  
+**Incantation** : 
+**Description** : La cible qui subit ce sort reçoit un tel sentiment de désespoir qu'elle tente immédiatement de se suicider par tous les moyens possibles durant toute la durée du sort. Il est possible de résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.  

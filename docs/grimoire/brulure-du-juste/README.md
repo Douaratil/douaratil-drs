@@ -18,8 +18,8 @@ classes:
 
 ---
 **Coût** : 2 points de Foi  
-
-Votre arme se met à se charger de pure radiance. Elle s'enflamme et émet une lumière équivalente à une torche dans un rayon de 4,50 mètres et une lumière faible sur 4,50 mètres supplémentaires.
+**Incantation** : 
+**Description** : Votre arme se met à se charger de pure radiance. Elle s'enflamme et émet une lumière équivalente à une torche dans un rayon de 4,50 mètres et une lumière faible sur 4,50 mètres supplémentaires.
 
 À chaque fois que vous blessez une créature avec cette arme pendant la durée du sort, vous infligez 1d6 dégâts radiants à tous vos adversaires dans un rayon de 1,50 mètre autour de vous et double momentanément le rayon d'illumination de l'arme. Les créatures affectées peuvent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution pour ignorer les dégâts. Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) réussi.
 

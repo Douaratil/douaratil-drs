@@ -18,6 +18,7 @@ classes:
 source: "Elric"    
 ---
 **Coût** : 14 points de Foi puis 1d6 points de Foi par round.    
-Tous les alliés dans un rayon de 36 mètres autour du lanceur de sort sont soignés de 5 PA à chaque début de round du sorcier, sans pour autant dépasser le maximum de leurs jauges de PA.
+**Incantation** : 
+**Description** : Tous les alliés dans un rayon de 36 mètres autour du lanceur de sort sont soignés de 5 PA à chaque début de round du sorcier, sans pour autant dépasser le maximum de leurs jauges de PA.
 
 **À plus haut niveau**. Pour chaque emplacement de surcharge supplémentaire, les PA soignés par round augmentent de 5 PA.

@@ -20,4 +20,5 @@ classes:
 **Coût** : 1 point de Magie
 
 **Enchantement**
- En passant la paume de sa main sur une étoffe ou un vêtement préalablement disposé sur une planche, l'enchanteur repasse, enlève les plis des vêtements froissés tout comme le ferait un fer à repasser. Il peut repasser tant qu'il maintient sa concentration.   
+**Incantation** : 
+**Description** : En passant la paume de sa main sur une étoffe ou un vêtement préalablement disposé sur une planche, l'enchanteur repasse, enlève les plis des vêtements froissés tout comme le ferait un fer à repasser. Il peut repasser tant qu'il maintient sa concentration.   

@@ -20,5 +20,6 @@ source: "Elric"
 ---
 **Coût** : 8 points de Magie  
 **Enchantement** Le lanceur de sort enchante un quartz. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
-Ce sort permet de voir un événement présent en lien avec une personne. Le sorcier doit placer un morceau de quartz dans un feu en pensant à une personne. Des images se formeront parmi les flammes durant 2 secondes avant de disparaître. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 15 l’image est difficilement compréhensible, entre 16 et +, l’image est explicite.   
+**Incantation** : 
+**Description** : Ce sort permet de voir un événement présent en lien avec une personne. Le sorcier doit placer un morceau de quartz dans un feu en pensant à une personne. Des images se formeront parmi les flammes durant 2 secondes avant de disparaître. Le sorcier doit jeter 3d6 explosif. Si le résultat est entre 3 et 15 l’image est difficilement compréhensible, entre 16 et +, l’image est explicite.   
 **À plus haut niveau**. Chaque emplacement de surcharge ajoute un bonus de +2 au jet.  

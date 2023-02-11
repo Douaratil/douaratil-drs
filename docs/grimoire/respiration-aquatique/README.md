@@ -19,4 +19,5 @@ classes:
 ---
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un petit roseau ou un brin de paille. Il a pour cela besoin de 30 po de matériel (encens, bougies...).   
-Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.
+**Incantation** : 
+**Description** : Grâce à ce sort, un maximum de dix créatures situées à portée et dans votre champ de vision deviennent capables de respirer sous l'eau jusqu'à la fin du sort. Les créatures affectées conservent en plus leur mode de respiration normal.

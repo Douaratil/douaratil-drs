@@ -18,7 +18,8 @@ classes:
 
 ---
 **Coût** : 14 points de Magie  
-Une prison immobile et invisible, en forme de cube et faite de force magique, se forme soudain autour d'une zone de votre choix située à portée. Ce peut être une cage ou une boîte hermétique, à votre guise.
+**Incantation** : 
+**Description** : Une prison immobile et invisible, en forme de cube et faite de force magique, se forme soudain autour d'une zone de votre choix située à portée. Ce peut être une cage ou une boîte hermétique, à votre guise.
 * Une prison en forme de cage peut faire un maximum de 6 mètres d'arête et dispose de barreaux de 1 centimètre d'épaisseur placés à 1 centimètre d'intervalle.
 * Une prison en forme de boîte peut faire un maximum de 3 mètres d'arête et forme une barrière pleine qui empêche la matière de passer. Elle bloque aussi le passage des sorts lancés vers l'intérieur ou l'extérieur.
 

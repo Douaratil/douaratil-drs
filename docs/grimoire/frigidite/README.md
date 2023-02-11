@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi    
-Ce sort annihile toute possibilité d'avoir des plaisirs sexuels. Elle peut même déclencher chez la cible un rejet et un dégoût de tout rapport sexuel.   
+**Incantation** : 
+**Description** : Ce sort annihile toute possibilité d'avoir des plaisirs sexuels. Elle peut même déclencher chez la cible un rejet et un dégoût de tout rapport sexuel.   

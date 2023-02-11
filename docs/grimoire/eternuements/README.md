@@ -17,6 +17,6 @@ classes:
     - Magie  
 ---
 **Coût** : 8 points de Magie  
-
-Votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution ou se mettre éternuer abondamment.
+**Incantation** : 
+**Description** : Votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution ou se mettre éternuer abondamment.
 Durant la durée de l'effet, la cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toute utilisation d'une compétence sociale ou de discrétion.   

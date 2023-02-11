@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie   
-Par ce sort, l'enchanteur peut allumer tout ou partie de ses bougies et lampes à volonté, seulement d'une parole ou d'un claquement de main.
+**Incantation** : 
+**Description** : Par ce sort, l'enchanteur peut allumer tout ou partie de ses bougies et lampes à volonté, seulement d'une parole ou d'un claquement de main.

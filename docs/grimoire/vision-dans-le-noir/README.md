@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie ou de Foi  
-Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.
+**Incantation** : 
+**Description** : Vous touchez une créature consentante pour lui permettre de voir dans le noir. Pendant toute la durée du sort, elle bénéficie de la vision dans le noir à une distance de 18 mètres.

@@ -18,8 +18,8 @@ classes:
 ---
 **Coût** : 18 points de Magie  
 **Enchantement** : Le mage enchante un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible et dépense 90 po de matériel pour le rituel.  
-
-Vous créez des entraves magiques pour immobiliser une créature située à portée et dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se retrouver emprisonnée par le sort. Si elle réussit, elle est immunisée contre ce sort si vous le lancez de nouveau. Tant que la créature est affectée par le sort, elle n'a pas besoin de respirer, de manger, ni de boire et ne vieillit plus. Les sorts de divination ne parviennent plus à la localiser ni à la percevoir.
+**Incantation** : 
+**Description** : Vous créez des entraves magiques pour immobiliser une créature située à portée et dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se retrouver emprisonnée par le sort. Si elle réussit, elle est immunisée contre ce sort si vous le lancez de nouveau. Tant que la créature est affectée par le sort, elle n'a pas besoin de respirer, de manger, ni de boire et ne vieillit plus. Les sorts de divination ne parviennent plus à la localiser ni à la percevoir.
 
 Vous devez opter pour l'une des formes d'emprisonnement suivantes quand vous lancez le sort.
 

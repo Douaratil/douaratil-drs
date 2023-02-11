@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie  
-Pendant toute la durée du sort, vous voyez les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.
+**Incantation** : 
+**Description** : Pendant toute la durée du sort, vous voyez les créatures et les objets [_invisibles_](/gerer-la-sante-du-personnage/#invisible) comme s'ils étaient bien visibles et vous pouvez aussi observer le plan éthéré. Les créatures et les objets éthérés vous apparaissent comme des silhouettes translucides et fantomatiques.

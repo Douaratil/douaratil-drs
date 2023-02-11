@@ -19,5 +19,6 @@ classes:
 
 ---
 **Coût** : 1 points de Foi ou de Magie
-En passant sa main sur la zone concernée et en se concentrant, le magicien fait tomber les poils et toutes les zones de pilosité, laissant une peau douce et propre.
+**Incantation** : 
+**Description** : En passant sa main sur la zone concernée et en se concentrant, le magicien fait tomber les poils et toutes les zones de pilosité, laissant une peau douce et propre.
 Outre des applications esthétiques, ce sortilège a des applications médicales s'il est utilisé en conjonction avec des chirurgies.  

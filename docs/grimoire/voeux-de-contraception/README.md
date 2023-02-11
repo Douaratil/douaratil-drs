@@ -20,5 +20,5 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 point de Magie ou de Foi  
-
-Le sorcier enchante temporairement un petit bracelet de cuivre oxydé que quelqu’un porte au poignet. La personne qui porte le bracelet ne doit pas enlever le bracelet durant tout le sort sous risque de le briser. Ce sort permet d’éviter d’engrosser ou de se faire engrosser durant une période de 12 heures.  
+**Incantation** : 
+**Description** : Le sorcier enchante temporairement un petit bracelet de cuivre oxydé que quelqu’un porte au poignet. La personne qui porte le bracelet ne doit pas enlever le bracelet durant tout le sort sous risque de le briser. Ce sort permet d’éviter d’engrosser ou de se faire engrosser durant une période de 12 heures.  

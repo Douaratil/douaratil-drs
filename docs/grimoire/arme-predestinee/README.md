@@ -21,8 +21,8 @@ source: "Elric"
 ---
 **Coût** : 12 points de Magie ou de Foi  
 **Enchantement** : Le sorcier invoque un esprit, un démon ou encore une fée en murmurant le nom du futur porteur de l’arme. Le sorcier explique le contrat à l’entité, en désignant le nom de l’ennemi et en indiquant son possesseur en versant son sang sur le fil de la lame.  
-
-L’arme infligera alors plus de dégâts à l’ennemi porteur du nom donné. L’arme doit être une arme de très belle facture, finement ciselée, d’une valeur minimum de 50 fois le prix de base de l’arme. Cependant, selon l’alignement de l’esprit invoqué, les dégâts peuvent varier :  
+**Incantation** : 
+**Description** : L’arme infligera alors plus de dégâts à l’ennemi porteur du nom donné. L’arme doit être une arme de très belle facture, finement ciselée, d’une valeur minimum de 50 fois le prix de base de l’arme. Cependant, selon l’alignement de l’esprit invoqué, les dégâts peuvent varier :  
 
 | 3d6 non explosifs | Chaotique | Loyal |
 |:-:|:-:|:-:|

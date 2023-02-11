@@ -19,8 +19,10 @@ ritual: false
 
 ---
 **Coût** : 4 points de Foi ou de Magie.  
-
-Vous touchez une créature pour lui accorder une amélioration magique. Choisissez l'un des effets suivants, dont la cible bénéficiera jusqu'à la fin du sort.
+**Incantation** : *Au nom de la nature, je donne vie à son essence.*    
+*Je confère à (nom de la cible) (au choix : la force de l'ours, la grâce du chat, la splendeur de l'aigle, la ruse du renard, la sagesse du hibou).*    
+*Que la transmutation s'opère, que (nom de la cible) soit renforcé(e) jusqu'à ce que le temps soit venu. Que la magie soit faite !*   
+**Description** : Vous touchez une créature pour lui accorder une amélioration magique. Choisissez l'un des effets suivants, dont la cible bénéficiera jusqu'à la fin du sort.
 
 **Endurance de l'ours**. La cible a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Constitution. Elle gagne aussi 2d6 points d'action temporaires qui disparaissent quand le sort se termine.
 

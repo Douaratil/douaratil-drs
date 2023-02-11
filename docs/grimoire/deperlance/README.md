@@ -19,5 +19,5 @@ classes:
 source: "Elric"
 ---
 **Coût** : 1 points de Magie  
-
-Le magicien incante durant 1 minute sur une surface. L’objet enchanté devient alors déperlant pendant 1d6 heure au niveau 1, 3d6 heures au niveau 3, 1d6 jour au niveau 6, 2d6 jours au niveau 9, 1d6 semaine au niveau 12, 3d6 semaines au niveau 15, 1d6 mois au niveau 18 et jusqu’à ce que le sort soit dissipé au niveau 20.   
+**Incantation** : 
+**Description** : Le magicien incante durant 1 minute sur une surface. L’objet enchanté devient alors déperlant pendant 1d6 heure au niveau 1, 3d6 heures au niveau 3, 1d6 jour au niveau 6, 2d6 jours au niveau 9, 1d6 semaine au niveau 12, 3d6 semaines au niveau 15, 1d6 mois au niveau 18 et jusqu’à ce que le sort soit dissipé au niveau 20.   

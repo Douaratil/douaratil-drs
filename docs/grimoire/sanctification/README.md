@@ -18,8 +18,8 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 **Enchantement** Le lanceur de sort enchante des herbes, huiles et encens d'une valeur minimale de 1000 po, que le sort consume. Il a pour cela besoin de 50 po de matériel (encens, bougies...).   
-
-Vous touchez un point et imprégnez la zone qui l'entoure de puissance bénie (ou impie). Cette zone possède un rayon maximal de 18 mètres, sachant que le sort échoue si cette zone chevauche une autre zone déjà sous l'effet d'un sort de _sanctification_. La zone affectée est soumise aux effets suivants.
+**Incantation** : 
+**Description** : Vous touchez un point et imprégnez la zone qui l'entoure de puissance bénie (ou impie). Cette zone possède un rayon maximal de 18 mètres, sachant que le sort échoue si cette zone chevauche une autre zone déjà sous l'effet d'un sort de _sanctification_. La zone affectée est soumise aux effets suivants.
 
 Premièrement, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants ne peuvent entrer dans la zone. Les créatures qui se trouvent dans la zone ne peuvent être <RT l="charmées" t="charme"/>, <RT l="terrorisées" t="terrorise"/> ou possédées par l'une de ces créatures. Une créature déjà [_charmée_](/gerer-la-sante-du-personnage/#charme), [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) ou possédée par l'une de ces créatures ne l'est plus dès qu'elle pénètre dans la zone. Vous pouvez décider qu'un ou plusieurs des types de créatures mentionnés ne seront pas affectés par cet effet.
 

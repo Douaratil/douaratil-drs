@@ -17,6 +17,6 @@ classes:
     - Magie  
 ---
 **Coût** : 8 points de Magie  
-
-Votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se mettre à larmoyer abondamment.
+**Incantation** : 
+**Description** : Votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se mettre à larmoyer abondamment.
 Durant la durée de l'effet, la cible subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toute utilisation d'une compétence de perception lorsqu'elle sollicite la vue mais aussi pour toutes les compétences de combat de type "lancer" et "tir".  

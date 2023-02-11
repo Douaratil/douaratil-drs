@@ -19,4 +19,5 @@ source: "Elric"
 ---
 **Coût** : 18 points de Magie  
 **Enchantement** Le lanceur de sort enchante une Hirondelle/Blé/chrysanthèmes/crâne humain et animal (Voir description détaillée ci-dessous). Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
-Ce sort est semblable au sort « Hors-saison » si ce n’est qu’il permet de dérégler tout un ensemble de système d’organisme comme une forêt ou une plaine sur une durée totale d’une année. L’organisme prend 1 mois pour se dérégler et 1 mois pour se régler à nouveau.  
+**Incantation** : 
+**Description** : Ce sort est semblable au sort « Hors-saison » si ce n’est qu’il permet de dérégler tout un ensemble de système d’organisme comme une forêt ou une plaine sur une durée totale d’une année. L’organisme prend 1 mois pour se dérégler et 1 mois pour se régler à nouveau.  

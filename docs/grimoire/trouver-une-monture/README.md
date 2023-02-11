@@ -17,7 +17,8 @@ classes:
     - Foi  
 ---
 **Coût** : 4 points de Foi  
-Vous invoquez un esprit qui prend la forme d'une monture dotée d'une intelligence, d'une puissance et d'une loyauté hors du commun, et créez un lien durable avec lui. La monture arrive en 1d6 x 10 minutes si elle a la possibilité de rejoindre le lanceur de sort. La monture possède le profil technique de la forme choisie mais, au lieu d'être de type normal, elle est céleste, féerique ou fiélone (à vous de choisir). De plus, si elle a d'ordinaire une Intelligence de 5 ou moins, cette caractéristique passe à 6 et elle comprend un langage de votre choix que vous maîtrisez.
+**Incantation** : 
+**Description** : Vous invoquez un esprit qui prend la forme d'une monture dotée d'une intelligence, d'une puissance et d'une loyauté hors du commun, et créez un lien durable avec lui. La monture arrive en 1d6 x 10 minutes si elle a la possibilité de rejoindre le lanceur de sort. La monture possède le profil technique de la forme choisie mais, au lieu d'être de type normal, elle est céleste, féerique ou fiélone (à vous de choisir). De plus, si elle a d'ordinaire une Intelligence de 5 ou moins, cette caractéristique passe à 6 et elle comprend un langage de votre choix que vous maîtrisez.
 
 Vous pouvez chevaucher votre monture au combat ou en dehors des affrontements, et le lien instinctif que vous partagez avec elle vous permet de vous battre ensemble comme si vous étiez une seule et même entité. Tant que vous la chevauchez, les sorts qui vous visent exclusivement l'affectent aussi si vous le désirez.
 

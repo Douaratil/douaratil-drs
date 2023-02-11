@@ -18,8 +18,8 @@ classes:
 
 ---
 **Coût** : 4 points de Magie  
-
-Vous implantez un message dans un objet situé à portée. On entend le message dès que les conditions qui le déclenchent sont remplies. Choisissez un objet situé dans votre champ de vision qui n'est ni porté ni transporté par une autre créature. Prononcez ensuite le message, qui doit comprendre au maximum vingt-cinq mots, mais peut se répéter pendant un maximum de 10 minutes. Enfin, déterminez les circonstances dans lesquelles le message s'active.
+**Incantation** : 
+**Description** : Vous implantez un message dans un objet situé à portée. On entend le message dès que les conditions qui le déclenchent sont remplies. Choisissez un objet situé dans votre champ de vision qui n'est ni porté ni transporté par une autre créature. Prononcez ensuite le message, qui doit comprendre au maximum vingt-cinq mots, mais peut se répéter pendant un maximum de 10 minutes. Enfin, déterminez les circonstances dans lesquelles le message s'active.
 
 Quand les conditions de déclenchement sont remplies, le message est énoncé avec la même voix que vous et au volume où vous l'avez prononcé mais en fait les personnes l'entendent dans leur tête. Lors de l'incantation, vous pouvez décider que le sort se termine une fois le message transmis ou qu'il reste actif et répète le message chaque fois que les conditions de déclenchement sont remplies.
 

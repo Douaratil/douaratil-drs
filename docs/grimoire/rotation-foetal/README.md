@@ -16,4 +16,5 @@ classes:
     - Foi
 ---
 **Coût** : 8 points de Foi  
-En cas de mauvais positionnement du Foetus, le guérisseur peut le replacer en posant simplement sa main sur le ventre de la femme enceinte.   
+**Incantation** : 
+**Description** : En cas de mauvais positionnement du Foetus, le guérisseur peut le replacer en posant simplement sa main sur le ventre de la femme enceinte.   

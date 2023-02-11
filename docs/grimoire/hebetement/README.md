@@ -17,5 +17,5 @@ classes:
 
 ---
 **Coût** : 1 point de Magie  
-
-Le mage par un mot de pouvoir susurré et un geste hypnotique brouille les idées d’une personne, ce qui l’empêche d’entreprendre la moindre action. Cet enchantement ne peut pas être utilisé deux fois sur une même personne dans un même temps donné (ex un combat). La cible peut éviter cet effet en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le DD du lanceur de sort.  
+**Incantation** : 
+**Description** : Le mage par un mot de pouvoir susurré et un geste hypnotique brouille les idées d’une personne, ce qui l’empêche d’entreprendre la moindre action. Cet enchantement ne peut pas être utilisé deux fois sur une même personne dans un même temps donné (ex un combat). La cible peut éviter cet effet en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le DD du lanceur de sort.  

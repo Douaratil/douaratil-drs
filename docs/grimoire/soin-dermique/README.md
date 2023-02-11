@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 12 point de Foi  
-Ce sort permet de réparer des imperfections de la peau comme les grains de beauté ou toute autre excroissance plus ou moins disgracieuse. Il suffit au Magicien de passer la main devant pour avoir de l'effet. Ce sort permet aussi de traiter les verrues et de nombreuses affections de la peau comme certaines mycoses.   
+**Incantation** : 
+**Description** : Ce sort permet de réparer des imperfections de la peau comme les grains de beauté ou toute autre excroissance plus ou moins disgracieuse. Il suffit au Magicien de passer la main devant pour avoir de l'effet. Ce sort permet aussi de traiter les verrues et de nombreuses affections de la peau comme certaines mycoses.   

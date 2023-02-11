@@ -20,5 +20,6 @@ classes:
 
 ---
 **Coût** : 1 point de Foi ou de Magie  
-En utilisant ce sort, si rien visuellement ne se passe, l'environnement se modifie cependant.
+**Incantation** : 
+**Description** : En utilisant ce sort, si rien visuellement ne se passe, l'environnement se modifie cependant.
 Une petite brise chaude et sèche se déplace sur la zone, améliorant l'efficacité de séchage de tous les objets et êtres vivants dans la zone.

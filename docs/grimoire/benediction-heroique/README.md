@@ -16,5 +16,5 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-
-Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque) sur la première attaque de chacun de vos tours pour toute la durée du sort.
+**Incantation** : 
+**Description** : Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cibles et vous-même bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au [jet d'attaque](/combattre/#jets-d-attaque) sur la première attaque de chacun de vos tours pour toute la durée du sort.

@@ -19,4 +19,5 @@ classes:
 
 ---
 **Coût** : 6 points de Foi ou de Magie  
-Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend. De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit. Le niveau de compréhension ne peut pas dépasser le niveau 3 de [langues](/langues).
+**Incantation** : 
+**Description** : Ce sort permet à la créature que vous touchez de comprendre toutes les langues parlées qu'elle entend. De plus, quand elle parle, toute créature qui maîtrise au moins une langue et l'entend comprend ce qu'elle dit. Le niveau de compréhension ne peut pas dépasser le niveau 3 de [langues](/langues).

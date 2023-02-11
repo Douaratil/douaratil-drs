@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie ou de Foi
-Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un cylindre de 6 mètres de haut pour un rayon de 12 mètres centré sur un point de votre choix situé à portée. Dans la zone, la visibilité est nulle et les flammes à nu s'éteignent.
+**Incantation** : 
+**Description** : Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un cylindre de 6 mètres de haut pour un rayon de 12 mètres centré sur un point de votre choix situé à portée. Dans la zone, la visibilité est nulle et les flammes à nu s'éteignent.
 
 Le sol de la zone est couvert d'une couche de verglas si glissante que le terrain devient difficile. Quand une créature entre dans la zone d'effet pour la première fois de son tour ou y débute son tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 

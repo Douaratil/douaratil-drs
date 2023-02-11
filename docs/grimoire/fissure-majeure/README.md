@@ -17,6 +17,6 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie  
-
-Ce puissant sortilège est capable de créer une profonde fissure dans les roches, le sol ou les montagnes. Il permet de créer une fissure pouvant aller de 300 m de long sur 10 m de large. La fissure se crée en 1D6 jours. Le sorcier perd 3 niveaux de fatigue en lançant ce sort.
+**Incantation** : 
+**Description** : Ce puissant sortilège est capable de créer une profonde fissure dans les roches, le sol ou les montagnes. Il permet de créer une fissure pouvant aller de 300 m de long sur 10 m de large. La fissure se crée en 1D6 jours. Le sorcier perd 3 niveaux de fatigue en lançant ce sort.
 Cela se passe lentement dans des craquements et des fracassements de roches. Le sorcier perd 3 niveaux de fatigue en lançant ce sort.

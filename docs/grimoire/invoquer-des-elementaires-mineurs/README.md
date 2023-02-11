@@ -20,7 +20,8 @@ classes:
 
 ---
 **Coût** : 8 points de Foi ou de Magie
-Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
+**Incantation** : 
+**Description** : Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Un élémentaire dont l'indice de dangerosité est inférieur ou égal à 2.
 * Deux élémentaires dont l'indice de dangerosité est inférieur ou égal à 1.
 * Quatre élémentaires dont l'indice de dangerosité est inférieur ou égal à 1⁄2.

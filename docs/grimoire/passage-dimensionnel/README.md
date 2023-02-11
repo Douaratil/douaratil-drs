@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Magie   
-Vous désignez un point sur une surface à portée dans votre champ de vision et créez une ouverture circulaire de 1,50 mètre de diamètre entourée de runes rayonnantes. Avant la fin du sort, par une action bonus, vous désignez un deuxième point sur une autre surface située à 150 mètres ou moins de la première pour créer une seconde ouverture faisant le lien avec la première et formant un passage extra-dimensionnelle bidirectionnel. Les surfaces ne doivent pas forcément avoir la même inclinaison mais doivent être planes et solides (ex: sol, mur ou plafond) et ne pas comporter de métal.
+**Incantation** : 
+**Description** : Vous désignez un point sur une surface à portée dans votre champ de vision et créez une ouverture circulaire de 1,50 mètre de diamètre entourée de runes rayonnantes. Avant la fin du sort, par une action bonus, vous désignez un deuxième point sur une autre surface située à 150 mètres ou moins de la première pour créer une seconde ouverture faisant le lien avec la première et formant un passage extra-dimensionnelle bidirectionnel. Les surfaces ne doivent pas forcément avoir la même inclinaison mais doivent être planes et solides (ex: sol, mur ou plafond) et ne pas comporter de métal.
 
 Toute créature ou objet solide entrant par une ouverture ressort instantanément par l'autre, perpendiculairement à l'ouverture et en conservant sa vitesse. Il est ainsi possible de lancer un objet ou de tirer un projectile par l'ouverture, de ramasser un objet de l'autre côté, de laisser tomber un objet lourd par une ouverture dans le sol pour qu'il retombe de l'autre côté, de sauter au travers pour accéder de l'autre côté sur un passage en hauteur, etc.
 

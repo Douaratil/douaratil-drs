@@ -16,7 +16,8 @@ classes:
     - Foi
 ---
 **Coût** : 14 point de Foi   
-Une barrière scintillante se déploie depuis votre personne, jusqu'à englober une zone d'un rayon de 3  mètres. Elle se déplace avec vous, reste centrée sur vous et repousse les créatures autres que les morts-vivants et les créatures artificielles. Cette barrière persiste pendant toute la durée du sort.
+**Incantation** : 
+**Description** : Une barrière scintillante se déploie depuis votre personne, jusqu'à englober une zone d'un rayon de 3  mètres. Elle se déplace avec vous, reste centrée sur vous et repousse les créatures autres que les morts-vivants et les créatures artificielles. Cette barrière persiste pendant toute la durée du sort.
 
 La barrière empêche les créatures affectées de la franchir ou de passer un membre au travers. Une créature affectée peut lancer des sorts ou porter des attaques à distance ou via une arme à allonge, tout cela franchissant la barrière.
 

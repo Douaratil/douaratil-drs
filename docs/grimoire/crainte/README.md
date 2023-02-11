@@ -17,8 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
-
-Le sorcier cause la crainte à tous ceux qui le regardent. Toute action contre le sorcier se fait dans le doute et impose un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Il est très difficile de tenir le regard du sorcier.
+**Incantation** : 
+**Description** : Le sorcier cause la crainte à tous ceux qui le regardent. Toute action contre le sorcier se fait dans le doute et impose un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage). Il est très difficile de tenir le regard du sorcier.
 Pour cela, il faut réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.   
 
 §§§ .hero

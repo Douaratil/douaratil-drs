@@ -19,8 +19,8 @@ classes:
 
 ---
 **Coût** : 4 points de Foi  
-
-Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames de tarot ornementées ou utilisez une autre méthode de divination pour recevoir un présage de la part d'une entité d'un autre monde. Ce présage concerne les résultats de la conduite que vous comptez tenir dans les 30 prochaines minutes. C'est au MJ de choisir l'un des présages suivants :
+**Incantation** : 
+**Description** : Vous lancez des bâtonnets ornés de gemmes ou des os de dragon, tirez des lames de tarot ornementées ou utilisez une autre méthode de divination pour recevoir un présage de la part d'une entité d'un autre monde. Ce présage concerne les résultats de la conduite que vous comptez tenir dans les 30 prochaines minutes. C'est au MJ de choisir l'un des présages suivants :
 * Bonheur pour un résultat positif
 * Malheur pour un résultat négatif
 * Bonheur et malheur pour un résultat comportant du positif et du négatif

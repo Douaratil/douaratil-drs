@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 12 points de Foi  
-Vous créez un mur fait de buissons souples et robustes, enchevêtrés et hérissés d'épines acérées. Il apparaît à portée sur une surface solide et persiste pendant toute la durée du sort. Vous pouvez créer un mur de 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur, ou le disposer en un cercle de 6 mètres de diamètre pour une hauteur maximum de 6 mètres et une épaisseur de 1,50 mètre. Le mur bloque le champ de vision.
+**Incantation** : 
+**Description** : Vous créez un mur fait de buissons souples et robustes, enchevêtrés et hérissés d'épines acérées. Il apparaît à portée sur une surface solide et persiste pendant toute la durée du sort. Vous pouvez créer un mur de 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur, ou le disposer en un cercle de 6 mètres de diamètre pour une hauteur maximum de 6 mètres et une épaisseur de 1,50 mètre. Le mur bloque le champ de vision.
 
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 9d6 dégâts perforants, les autres la moitié seulement.
 

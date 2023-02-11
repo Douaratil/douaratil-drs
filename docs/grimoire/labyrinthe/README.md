@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie    
-Vous bannissez une créature située à portée et dans votre champ de vision dans un demi-plan labyrinthique. La cible y reste pendant toute la durée du sort, ou jusqu'à ce qu'elle s'échappe du dédale.
+**Incantation** : 
+**Description** : Vous bannissez une créature située à portée et dans votre champ de vision dans un demi-plan labyrinthique. La cible y reste pendant toute la durée du sort, ou jusqu'à ce qu'elle s'échappe du dédale.
 
 Elle peut utiliser une action pour tenter de s'évader. Pour cela, elle effectue un test d'Intelligence DD 20. Si elle le réussit, elle s'échappe et le sort se termine.
 

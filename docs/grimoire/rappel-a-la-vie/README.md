@@ -19,8 +19,8 @@ classes:
 **Coût** : 10 points de Foi  
 
 **Enchantement** Le lanceur de sort enchante un diamant d'une valeur minimale de 500 po, que le sort consume. Il a pour cela besoin de 50 po de matériel (encens, bougies...).  
-
-Vous touchez une créature décédée et la ramenez à la vie, à condition que son trépas ne remonte pas à plus de une journée. Si l'âme de la créature est désireuse de rejoindre son corps et libre de le faire, le défunt revient à la vie avec 1 point d'action.
+**Incantation** : 
+**Description** : Vous touchez une créature décédée et la ramenez à la vie, à condition que son trépas ne remonte pas à plus de une journée. Si l'âme de la créature est désireuse de rejoindre son corps et libre de le faire, le défunt revient à la vie avec 1 point d'action.
 
 Ce sort neutralise également les poisons et soigne les maladies non-magiques qui affectaient la créature au moment de sa mort. En revanche, il ne la débarrasse pas des maladies magiques, des malédictions et des effets similaires. Si on ne supprime pas ces effets sur le cadavre avant de lancer le sort, ils affectent de nouveau la créature ramenée à la vie. Ce sort est incapable de ramener un mort-vivant à la vie.
 

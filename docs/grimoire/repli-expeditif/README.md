@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie   
-Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.
+**Incantation** : 
+**Description** : Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez utiliser l'action [_se précipiter_](/combattre/#se-precipiter) quand vous le lancez, puis par une action bonus à chacun de vos tours jusqu'à ce que le sort se termine.

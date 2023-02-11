@@ -18,5 +18,6 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Magie  
-Le lanceur de sort blasphème les dieux devant la cible. La foi de la victime est ébranlée et celle-ci doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le lanceur de sort ou voit ses points de foi (PF) réduits à 0.
+**Incantation** : 
+**Description** : Le lanceur de sort blasphème les dieux devant la cible. La foi de la victime est ébranlée et celle-ci doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le lanceur de sort ou voit ses points de foi (PF) réduits à 0.
 Si le nécromancien use trop de fois ce sortilège, il n’est pas improbable que le sorcier tombe dans les disgrâces des dieux.  

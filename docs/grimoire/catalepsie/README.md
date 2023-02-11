@@ -19,7 +19,8 @@ classes:
 
 ---
 **Coût** : 6 points de Foi ou de Magie  
-Vous placez une créature vivante consentante en état cataleptique qu'il est impossible de distinguer d'un véritable état de mort par des moyens normaux.
+**Incantation** : 
+**Description** : Vous placez une créature vivante consentante en état cataleptique qu'il est impossible de distinguer d'un véritable état de mort par des moyens normaux.
 
 Le sujet est [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient), incapable de bouger. Il ne ressent aucune blessure ou autre mauvais traitement et aucune réaction corporelle ne se produit, comme si le sujet était réellement mort. Toutefois, les dégâts sont encaissés normalement. Si la cible était malade ou [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) au moment de l'incantation, ou si un poison est introduit dans son corps durant l'action du sort, le poison est retardé pour la durée du sort. Le poison ou la maladie fera à nouveau pleinement effet à la fin du sort.
 

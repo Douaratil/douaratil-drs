@@ -16,4 +16,5 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
-Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre première attaque à chacun de vos tours.
+**Incantation** : 
+**Description** : Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre première attaque à chacun de vos tours.

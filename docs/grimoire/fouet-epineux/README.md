@@ -20,7 +20,7 @@ classes:
 
 ---
 **Coût** : 4 points de Foi ou de Magie  
-
-Vous touchez une tige de ronce d'une longueur minimum de 1,5m que vous pouvez cueillir sur un roncier sans difficulté. Jusqu'à la fin du sort, la ronce prends les caractéristiques d'un fouet +1. Le fouet cause ainsi 1d6+1 de dégâts tranchants magiques. Le fouet possède les propriétés [allonge](/equipement/armes/#proprietes-des-armes) et [finesse](/equipement/armes/proprietes-des-armes)
+**Incantation** : 
+**Description** : Vous touchez une tige de ronce d'une longueur minimum de 1,5m que vous pouvez cueillir sur un roncier sans difficulté. Jusqu'à la fin du sort, la ronce prends les caractéristiques d'un fouet +1. Le fouet cause ainsi 1d6+1 de dégâts tranchants magiques. Le fouet possède les propriétés [allonge](/equipement/armes/#proprietes-des-armes) et [finesse](/equipement/armes/proprietes-des-armes)
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de disciple, le bonus passe à +2 et dure 2d6 rounds, et à +3 si vous utilisez un niveau d'apprenti ou plus et dure 3d6 rounds.

@@ -18,8 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Foi ou de Magie  
-
-Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui, soit sur une surface quelconque comme une table, le sol ou un mur, soit dans un objet que l'on peut refermer pour dissimuler l'inscription, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
+**Incantation** : 
+**Description** : Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui, soit sur une surface quelconque comme une table, le sol ou un mur, soit dans un objet que l'on peut refermer pour dissimuler l'inscription, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
 Le glyphe est presque invisible. Pour le discerner, il faut réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort.
 

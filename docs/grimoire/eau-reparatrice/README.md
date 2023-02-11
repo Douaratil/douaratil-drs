@@ -18,8 +18,8 @@ classes:
 source: "Elric"
 ---
 **Coût** : 16 points de Foi  
-
-La Dorshaïre immerge la victime dans la source d'une eau pure où le saphir est trempé et se dissout. Ce sort répare instantanément toutes les contusions, plaies, hémorragies ainsi que tous les écrasements et déchirements causés par des coups critiques. Le sort fait disparaître toutes les cicatrices. Le sort peut aussi réparer une fracture unique instantanément.  
+**Incantation** : 
+**Description** : La Dorshaïre immerge la victime dans la source d'une eau pure où le saphir est trempé et se dissout. Ce sort répare instantanément toutes les contusions, plaies, hémorragies ainsi que tous les écrasements et déchirements causés par des coups critiques. Le sort fait disparaître toutes les cicatrices. Le sort peut aussi réparer une fracture unique instantanément.  
 §§§ .hero
 "*Nous nous apprêtions à honorer notre compagnon Wulf dans son dernier voyage vers les dieux. Son corps était transpercé en plusieurs endroits et il était désormais livide. La Dorshaïre nous demanda de l'emporter jusqu'à la rivière où une cascade se jetait depuis les hauteurs. Nous apportâmes la dépouille de Wulf et la laissâmes dans l'eau. La Dorshaïre s'enfonça jusqu'à la taille dans l'eau et soutint Wulf. Elle commença à chanter. A notre grande joie, au petit matin, Wulf était parmi nous et partageait notre repas.*."  
 **Souvenirs d'Anestas, guerriers & aventuriers**   

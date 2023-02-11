@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-Un maximum de six créatures de votre choix, situées à portée et dans votre champ de vision, récupèrent chacune un nombre de points d'action égal à 3d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
+**Incantation** : 
+**Description** : Un maximum de six créatures de votre choix, situées à portée et dans votre champ de vision, récupèrent chacune un nombre de points d'action égal à 3d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les soins augmentent de 1d6 par niveau au-delà du niveau de Novice.

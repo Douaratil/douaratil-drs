@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie ou de Foi  
-Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) ou [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).
+**Incantation** : 
+**Description** : Vous touchez une créature et mettez fin à une maladie ou à un état spécial qui l'affectait, parmi [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) ou [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne).

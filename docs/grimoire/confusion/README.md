@@ -19,7 +19,8 @@ classes:
 
 ---
 **Coût** : 8 points de Foi et de Magie  
-Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinations et provoque des réactions incontrôlées. Toutes les créatures situées dans une sphère de 3 mètres de rayon autour d'un point de votre choix situé à portée doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être affectées par ce sort.
+**Incantation** : 
+**Description** : Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinations et provoque des réactions incontrôlées. Toutes les créatures situées dans une sphère de 3 mètres de rayon autour d'un point de votre choix situé à portée doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être affectées par ce sort.
 
 Une cible affectée ne peut pas utiliser de réaction et doit lancer 2d6 au début de chacun de ses tours pour déterminer comment elle se comporte pendant le tour.
 

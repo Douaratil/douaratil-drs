@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie
-Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle commence à souffrir comme si elle se trouvait dans des flammes infernales. Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 3d6 dégâts de feu, sinon la moitié seulement.
+**Incantation** : 
+**Description** : Il vous suffit de pointer le doigt vers la créature qui vient de vous blesser pour qu'elle commence à souffrir comme si elle se trouvait dans des flammes infernales. Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 3d6 dégâts de feu, sinon la moitié seulement.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les dégâts augmentent de 1d6 par emplacement de sort au-dessus de Novice.

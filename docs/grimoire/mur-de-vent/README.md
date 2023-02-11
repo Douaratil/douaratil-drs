@@ -18,8 +18,8 @@ classes:
 ---
 **Coût** : 6 point de Foi    
 **Enchantement** Le lanceur de sort enchante un petit éventail ou une plume exotique pendant une journée de grand vent. Il a pour cela besoin de 30 po de matériel (encens, bougies...).    
-
-Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à portée. Vous pouvez lui faire couvrir jusqu'à 15 mètres de long, 4,50 mètres de haut et 30 centimètres d'épaisseur. Vous pouvez lui donner la forme que vous voulez tant qu'il dessine un chemin continu au sol. Ce mur persiste pendant toute la durée du sort.  
+**Incantation** : 
+**Description** : Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à portée. Vous pouvez lui faire couvrir jusqu'à 15 mètres de long, 4,50 mètres de haut et 30 centimètres d'épaisseur. Vous pouvez lui donner la forme que vous voulez tant qu'il dessine un chemin continu au sol. Ce mur persiste pendant toute la durée du sort.  
 
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.  
 

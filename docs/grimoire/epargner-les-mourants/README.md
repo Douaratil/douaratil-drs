@@ -18,4 +18,5 @@ classes:
 
 ---
 **Coût** : 1 point de Foi  
-Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.
+**Incantation** : 
+**Description** : Vous touchez une créature vivante à 0 point de vie, ce qui la stabilise. Ce sort n'a aucun effet sur les morts-vivants et les créatures artificielles.

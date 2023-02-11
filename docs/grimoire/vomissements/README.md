@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Foi ou de Magie  
-La cible doit résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Consitution ou vomir. La cible qui vomit ne peut plus faire aucune action à part fuir ou se défendre avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)
+**Incantation** : 
+**Description** : La cible doit résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Consitution ou vomir. La cible qui vomit ne peut plus faire aucune action à part fuir ou se défendre avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)
 
 **À plus haut niveau**.  
 Si vous lancez ce sort en utilisant des niveaux de surcharge, le sort dure un round supplémentaire au-delà du niveau Novice.  

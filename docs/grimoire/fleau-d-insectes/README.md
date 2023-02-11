@@ -18,8 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Foi ou de Magie  
-
-Un essaim d'insecte carnivores forme une sphère de 6 mètres de rayon centrée sur un point de votre choix situé à portée. La sphère s'étend en contournant les angles et persiste pendant toute la durée du sort. La visibilité est réduite dans la zone affectée. L'intérieur de la sphère devient un terrain difficile.
+**Incantation** : 
+**Description** : Un essaim d'insecte carnivores forme une sphère de 6 mètres de rayon centrée sur un point de votre choix situé à portée. La sphère s'étend en contournant les angles et persiste pendant toute la durée du sort. La visibilité est réduite dans la zone affectée. L'intérieur de la sphère devient un terrain difficile.
 
 Quand la sphère d'insectes apparaît, chaque créature prise à l'intérieur doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Une créature subit 7d6 dégâts perforants si elle rate son jet, la moitié seulement si elle le réussit. Une créature doit effectuer le même jet quand elle entre dans la sphère pour la première fois de son tour ou quand elle y termine son tour.
 

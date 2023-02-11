@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 4 points de Foi  
-Vous enflammez la lame d'une épée.  Si vous lâchez l'épée, les flammes disparaissent, mais vous pouvez les invoquer de nouveau par une action bonus.
+**Incantation** : 
+**Description** : Vous enflammez la lame d'une épée.  Si vous lâchez l'épée, les flammes disparaissent, mais vous pouvez les invoquer de nouveau par une action bonus.
 
 Vous pouvez utiliser votre action pour faire une attaque de sort au corps-à-corps avec la lame enflammée. Si vous touchez la cible, cette dernière subit 3d6 dégâts de feu en plus des dégâts normaux.
 

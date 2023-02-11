@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-Vous concentrez l'énergie dans votre lance. Vous devez réussir une _attaque au corps-à-corps_ pour frapper la cible. La lance de lumière inflige 4d6 dégâts radiants. De plus, la créature touchée se retrouve [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle). Elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à chacun de ses tours suivants jusqu'à réussite pour ne plus être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
+**Incantation** : 
+**Description** : Vous concentrez l'énergie dans votre lance. Vous devez réussir une _attaque au corps-à-corps_ pour frapper la cible. La lance de lumière inflige 4d6 dégâts radiants. De plus, la créature touchée se retrouve [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle). Elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à chacun de ses tours suivants jusqu'à réussite pour ne plus être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).

@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 2 point de Foi  
-Vous créez ou détruisez de l'eau.
+**Incantation** : 
+**Description** : Vous créez ou détruisez de l'eau.
 
 **Création d'eau**. Vous créez jusqu'à 40 litres d'eau potable qui apparaissent à portée, dans un récipient ouvert en une heure pour chaque dizaine de litre. Sinon, l'eau peut tomber en pluie si il y a des nuages dans un cube de 9 mètres d'arête à portée, éteignant toutes les flammes à nu dans la zone.
 

@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
-Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.
+**Incantation** : 
+**Description** : Toute la nourriture et les boissons non magiques présentes dans une sphère d'un rayon de 1,50 mètre centrée autour d'un point de votre choix situé à portée sont purifiées et débarrassées de tout poison et maladie.

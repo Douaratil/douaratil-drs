@@ -20,4 +20,5 @@ classes:
 
 ---
 **Coût** : 1 point de Foi ou de Magie
- Ce petit sort invoque un courant d'air qui permet d'aérer rapidement une zone, une maison ou une caverne, tout dépend de la taille et du volume concernés. Une odeur d'air frais reste dans la zone. Cela peut permettre aussi de supprimer des zones dangereuses comme les poches de monoxyde et les gaz qui restent au ras du sol dans les grottes.
+**Incantation** : 
+**Description** : Ce petit sort invoque un courant d'air qui permet d'aérer rapidement une zone, une maison ou une caverne, tout dépend de la taille et du volume concernés. Une odeur d'air frais reste dans la zone. Cela peut permettre aussi de supprimer des zones dangereuses comme les poches de monoxyde et les gaz qui restent au ras du sol dans les grottes.

@@ -19,7 +19,8 @@ classes:
 source: "Elric"
 ---
 **Coût** : Spécial
-Lorsque le sorcier court un péril imminent et qu’il n’a plus d’autres options, il peut alors utiliser ce sort même s'il n'a plus de point de magie, et devenir invisible. Dans ce cas, il puise dans n'importe quelle de ses ressources (Points de Magie, de Foi, d'Action ou d'Honneur). Le coût est de 20 points. Il doit tout puiser au même endroit et ne peut pas répartir. S'il n'a pas assez, il peut lancer le sort gratuitement mais effectue alors un jet de sauvegarde contre la mort (Voir après).  
+**Incantation** : 
+**Description** : Lorsque le sorcier court un péril imminent et qu’il n’a plus d’autres options, il peut alors utiliser ce sort même s'il n'a plus de point de magie, et devenir invisible. Dans ce cas, il puise dans n'importe quelle de ses ressources (Points de Magie, de Foi, d'Action ou d'Honneur). Le coût est de 20 points. Il doit tout puiser au même endroit et ne peut pas répartir. S'il n'a pas assez, il peut lancer le sort gratuitement mais effectue alors un jet de sauvegarde contre la mort (Voir après).  
 Ce sort possède alors 2 variantes.  
 **Invisibilité véloce**. Le sortilège permet au lanceur de sort de doubler sa vitesse de déplacement de franchir des obstacles en hauteur ou en longueur égaux à sa distance normale de déplacement et enfin de devenir invisible.   
 **Invisibilité curative**. Le sortilège rend invisible et soigne deux fois le montant de sa constitution par round jusqu’à la fin du sort ou une blessure mineure par round ou encore une blessure majeure en deux rounds.  

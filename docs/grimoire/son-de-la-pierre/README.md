@@ -21,8 +21,8 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un Bâton gravé (ou arme en métal gravé) de symboles magiques ou bénis. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
-
-Ce sort possède 2 variantes. Pour pouvoir invoquer ce sort, le lanceur de sort doit posséder un bâton gravé de symboles magiques pour les sorciers ou bien de symboles bénis pour les druides. Le sort ne fonctionne que si un sol rocheux est frappé par l’arme gravée. Le sol rocheux peut être de la pierre, des graviers, du calcaire, etc. La variante de ce sort est basée sur le sable.  
+**Incantation** : 
+**Description** : Ce sort possède 2 variantes. Pour pouvoir invoquer ce sort, le lanceur de sort doit posséder un bâton gravé de symboles magiques pour les sorciers ou bien de symboles bénis pour les druides. Le sort ne fonctionne que si un sol rocheux est frappé par l’arme gravée. Le sol rocheux peut être de la pierre, des graviers, du calcaire, etc. La variante de ce sort est basée sur le sable.  
 
 **Détonation rocheuse.** Cette variante, permet au lanceur de sort de repousser, de faire tomber ou même d’assommer les cibles du sort. Le sorcier doit frapper une surface rocheuse avec son bâton gravé, ce qui produira un son qui déstabilisera l’ennemi. La puissance et l’étendue du sort dépend de la surface frappé.  
 

@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 1 point de Foi  
-En passant son index sur une dent, le magicien peut guérir une carie, adoucir les contours d'une dent cassée ou tout autre soin de "confort". Cela permet aussi de blanchir les dents.    
+**Incantation** : 
+**Description** : En passant son index sur une dent, le magicien peut guérir une carie, adoucir les contours d'une dent cassée ou tout autre soin de "confort". Cela permet aussi de blanchir les dents.    

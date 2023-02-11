@@ -18,8 +18,8 @@ classes:
 ---
 **Coût** : 14 points de Magie
 **Enchantement** Le lanceur de sort enchante une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5000 po, que le sort consume. Il a pour cela besoin de 70 po de matériel (encens, bougies...).   
-
-Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet qui sera invisible à tout moyen de détection pendant toute la durée du sort. Quand vous lancez le sort et touchez la cible, elle devient invisible et ne peut plus être la cible de sorts de divination. De plus, les organes sensoriels de scrutation issus d'un sort de divination ne la perçoivent plus.
+**Incantation** : 
+**Description** : Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet qui sera invisible à tout moyen de détection pendant toute la durée du sort. Quand vous lancez le sort et touchez la cible, elle devient invisible et ne peut plus être la cible de sorts de divination. De plus, les organes sensoriels de scrutation issus d'un sort de divination ne la perçoivent plus.
 
 Si la cible est une créature, elle entre en état d'animation suspendue. Le temps ne s'écoule plus pour elle et elle ne vieillit plus.
 

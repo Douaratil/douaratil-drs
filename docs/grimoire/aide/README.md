@@ -19,6 +19,9 @@ ritual: false
 ---
 **Coût** : 4 points de Foi  
 
-Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Choisissez jusqu'à trois créatures à portée. Le maximum de points d'action et les points d'action actuels de chacune d'entre elles augmentent de 5 pendant toute la durée du sort.
+**Incantation** : *Que la force de l'univers vous soutienne, mes alliés.*    
+*Que votre courage et votre détermination soient renforcés, et que vous puissiez surmonter tous les obstacles qui se dressent sur votre chemin*.   
+
+**Description** : Ce sortilège d'abjuration a pour effet de renforcer la force physique et morale de vos alliés. Vous pouvez cibler jusqu'à trois créatures à une portée de 9 mètres et augmenter leur maximum de points d'action ainsi que leurs points d'action actuels de 5 points pour une durée de 8 heures.   
 
 **À plus haut niveau**. Quand vous lancez ce sort en utilisant des niveaux de surcharge, les points d'action de chaque cible augmentent de 5 points supplémentaires pour chaque niveau au-delà du niveau de Novice.

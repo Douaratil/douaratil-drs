@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 2 point de Magie  
-Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez 10d6. Le total représente le nombre de points d'action de créatures que le sort affecte. Les créatures situées dans un cône de 4,50 mètres, prenant votre personne comme point d'origine, sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures <RT l="inconscientes" t="inconscient"/> et les créatures <RT l="aveuglées" t="aveugle"/>).
+**Incantation** : 
+**Description** : Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez 10d6. Le total représente le nombre de points d'action de créatures que le sort affecte. Les créatures situées dans un cône de 4,50 mètres, prenant votre personne comme point d'origine, sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures <RT l="inconscientes" t="inconscient"/> et les créatures <RT l="aveuglées" t="aveugle"/>).
 
 Chaque créature affectée, en commençant par celle qui possède actuellement le moins de points d'action, est <RT l="aveuglée" t="aveugle"/> jusqu'à la fin du sort. Soustrayez du total obtenu le nombre de points de vie actuel de chaque créature affectée avant de passer à la suivante, en choisissant chaque fois celle qui possède le moins de points d'action. Pour qu'une créature soit affectée, elle doit posséder un nombre de points d'action actuels inférieur ou égal au total restant.
 

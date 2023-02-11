@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 12 points de Foi  
-Ce sort permet à un guérisseur de redonner la fertilité à une femme ou un homme qui est encore en âge de procréer, à la condition que la cible du sort ait encore ses organes de reproduction utilisables. Une personne castrée ou ayant subi une opération chirurgicale d'ablation ne pourra pas retrouver sa fertilité.  
+**Incantation** : 
+**Description** : Ce sort permet à un guérisseur de redonner la fertilité à une femme ou un homme qui est encore en âge de procréer, à la condition que la cible du sort ait encore ses organes de reproduction utilisables. Une personne castrée ou ayant subi une opération chirurgicale d'ablation ne pourra pas retrouver sa fertilité.  

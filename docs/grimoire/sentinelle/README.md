@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-L'enchanteur désigne un animal, le plus souvent natif de l'écosystème présent, afin de lui garantir des chances de survie. Pour la durée du sort, celui-ci se promène dans une zone de 200 mètres autour de la demeure de l'enchanteur et vient le prévenir de toute intrusion.
+**Incantation** : 
+**Description** : L'enchanteur désigne un animal, le plus souvent natif de l'écosystème présent, afin de lui garantir des chances de survie. Pour la durée du sort, celui-ci se promène dans une zone de 200 mètres autour de la demeure de l'enchanteur et vient le prévenir de toute intrusion.

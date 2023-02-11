@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Magie  
-Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner. Vous l'utilisez pour créer à portée l'un des effets magiques suivants :
+**Incantation** : 
+**Description** : Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner. Vous l'utilisez pour créer à portée l'un des effets magiques suivants :
 * Le sort crée instantanément un effet sensoriel inoffensif, comme une pluie d'étincelles, un bouffée d'air, ou une étrange odeur.
 * Le sort allume ou éteint instantanément une bougie, torche ou un petit feu de camp.
 * Le sort nettoie ou souille un objet en 1d6 minutes pas plus volumineux qu'un cube de 30 cm d'arête.

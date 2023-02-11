@@ -16,4 +16,5 @@ classes:
     - Foi
 ---
 **Coût** : 8 points de Foi  
-En posant sa main sur le ventre, le guérisseur peut diagnostiquer l'état de santé d'un foetus, son positionnement et savoir s'il est normal.  
+**Incantation** : 
+**Description** : En posant sa main sur le ventre, le guérisseur peut diagnostiquer l'état de santé d'un foetus, son positionnement et savoir s'il est normal.  

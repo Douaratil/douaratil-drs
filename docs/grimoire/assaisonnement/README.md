@@ -18,6 +18,6 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-
-L'enchanteur peut, avec ce petit sort, mimer saupoudrer un plat avec du sable et effectivement l'assaisonner à son goût.
+**Incantation** : 
+**Description** : L'enchanteur peut, avec ce petit sort, mimer saupoudrer un plat avec du sable et effectivement l'assaisonner à son goût.
 Cet assaisonnement est une forme d'illusion, il évite ainsi de manger trop gras ou trop salé.

@@ -19,7 +19,8 @@ source: "Elric"
 ---
 **Coût** : 30 + 3d6 points de Foi  
 **Réservé Dorshaïre**  
-La Dorshaïre trempe le saphir qu'il tient dans sa main, dans une source d'eau. L'eau et le sorcier viennent ne former plus qu'un. Elle ne peut prendre sa forme élémentaire que sur la surface de l'eau. La Dorshaïre peut alterner entre sa forme physique et sa forme élémentaire au prix d'une action bonus. Dans sa forme élémentaire, la Dorshaïre obtient les caractéristiques d'un [Elémentaire de l'eau](/bestiaire/elementaire-de-l-eau) majeur d'un ID de 18 soit :  
+**Incantation** : 
+**Description** : La Dorshaïre trempe le saphir qu'il tient dans sa main, dans une source d'eau. L'eau et le sorcier viennent ne former plus qu'un. Elle ne peut prendre sa forme élémentaire que sur la surface de l'eau. La Dorshaïre peut alterner entre sa forme physique et sa forme élémentaire au prix d'une action bonus. Dans sa forme élémentaire, la Dorshaïre obtient les caractéristiques d'un [Elémentaire de l'eau](/bestiaire/elementaire-de-l-eau) majeur d'un ID de 18 soit :  
 
 **Valeur de défense** 14 (armure naturelle)  
 **points d'action** 180  

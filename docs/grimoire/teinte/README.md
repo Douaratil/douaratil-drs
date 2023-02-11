@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-L'enchanteur peut teindre des objets ou des zones et parties de corps comme les cheveux, les yeux, la peau, (pour les ongles, voir [Manucure](/grimoire/manucure) etc... Les teintes doivent exister dans la nature (pas de cheveux bleus ou rouges vifs). Ce sort permet de faire des tatouages temporaire sur le magicien à des talents d'artistes.   
+**Incantation** : 
+**Description** : L'enchanteur peut teindre des objets ou des zones et parties de corps comme les cheveux, les yeux, la peau, (pour les ongles, voir [Manucure](/grimoire/manucure) etc... Les teintes doivent exister dans la nature (pas de cheveux bleus ou rouges vifs). Ce sort permet de faire des tatouages temporaire sur le magicien à des talents d'artistes.   

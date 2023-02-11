@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie  
-Vous forgez un lien télépathique entre un maximum de huit créatures consentantes situées à portée. Elles sont alors psychiquement liées les unes aux autres pendant la durée du sort. Ce sort n'affecte pas les créatures dotées d'une Intelligence de 2 ou moins.
+**Incantation** : 
+**Description** : Vous forgez un lien télépathique entre un maximum de huit créatures consentantes situées à portée. Elles sont alors psychiquement liées les unes aux autres pendant la durée du sort. Ce sort n'affecte pas les créatures dotées d'une Intelligence de 2 ou moins.
 
 Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépathie via le lien créé, qu'elles partagent un même langage ou non. Cette communication fonctionne quelle que soit la distance qui les sépare, mais ne s'étend pas aux autres plans d'existence.
 

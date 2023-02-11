@@ -20,7 +20,8 @@ classes:
 **Coût** : 14 points de Magie ou de Foi  
 
 **Enchantement** Le lanceur de sort enchante du mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1000 po, que le sort consume. Il a pour cela besoin de 70 po de matériel (encens, bougies...).   
-Quand vous lancez ce sort, vous inscrivez un glyphe néfaste sur une surface (comme une partie du sol, un pan de mur ou une table) ou dans un objet que l'on peut refermer pour le dissimuler, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
+**Incantation** : 
+**Description** : Quand vous lancez ce sort, vous inscrivez un glyphe néfaste sur une surface (comme une partie du sol, un pan de mur ou une table) ou dans un objet que l'on peut refermer pour le dissimuler, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
 Le glyphe est presque invisible. Pour le discerner, il faut réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort.
 

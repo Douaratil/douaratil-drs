@@ -19,8 +19,8 @@ classes:
 
 ---
 **Coût** : 1 point de Foi    
-
-Vous créez une manifestation merveilleuse mineure ou un signe de puissance surnaturelle à portée, ce qui génère l'un des effets magiques suivants à portée.
+**Incantation** : 
+**Description** : Vous créez une manifestation merveilleuse mineure ou un signe de puissance surnaturelle à portée, ce qui génère l'un des effets magiques suivants à portée.
 * Votre voix retentit jusqu'à trois fois plus fort que la normale pendant 1 minute.
 * Les flammes vacillent, se ravivent, se réduisent ou changent de couleur pendant une minute.
 * Vous provoquez des secousses inoffensives qui agitent le sol pendant 1 minute.

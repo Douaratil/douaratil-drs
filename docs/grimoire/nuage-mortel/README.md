@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie  
-Vous créez une sphère de 6 mètres de rayon faite d'un brouillard verdâtre toxique. Il est centré sur un point de votre choix situé à portée. Le brouillard s'étend en contournant les coins au besoin. Il persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort le disperse et mette un terme au sort. La visibilité est nulle dans sa zone d'effet.
+**Incantation** : 
+**Description** : Vous créez une sphère de 6 mètres de rayon faite d'un brouillard verdâtre toxique. Il est centré sur un point de votre choix situé à portée. Le brouillard s'étend en contournant les coins au besoin. Il persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort le disperse et mette un terme au sort. La visibilité est nulle dans sa zone d'effet.
 
 Quand une créature entre dans la zone du sort pour la première fois de son tour ou qu'elle y débute son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Elle subit 7d6 dégâts de poison si elle rate son jet et seulement la moitié si elle le réussit. Le brouillard affecte même les créatures qui retiennent leur souffle ou qui n'ont pas besoin de respirer.
 

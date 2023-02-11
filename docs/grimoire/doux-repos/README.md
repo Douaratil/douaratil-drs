@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Foi ou de Magie  
-Vous touchez un cadavre ou des restes. La cible ne peut pas se transformer en mort-vivant.  
+**Incantation** : 
+**Description** : Vous touchez un cadavre ou des restes. La cible ne peut pas se transformer en mort-vivant.  

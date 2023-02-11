@@ -18,4 +18,5 @@ classes:
   - Foi
 ---
 **Coût** : 2 points de Magie ou de Foi  
-Ce sort permet de supporter les températures extrêmes (la chaleur d'un désert ou le froid de l’hiver) de - 10 C° à 35 C° comme s'il s'agissait d'une température ambiante de 18 C°. Pour les températures supérieures ou inférieures, il suffit de faire la différence. Ainsi une température de 42 C° est ressentie 25 C° et une de -20C° comme une température de 8C°.
+**Incantation** : 
+**Description** : Ce sort permet de supporter les températures extrêmes (la chaleur d'un désert ou le froid de l’hiver) de - 10 C° à 35 C° comme s'il s'agissait d'une température ambiante de 18 C°. Pour les températures supérieures ou inférieures, il suffit de faire la différence. Ainsi une température de 42 C° est ressentie 25 C° et une de -20C° comme une température de 8C°.

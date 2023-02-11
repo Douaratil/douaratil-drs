@@ -17,7 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 10 points de Foi  
-Une énergie vous entoure et vous protège contre les fées, les morts-vivants et les créatures originaires d'un autre plan que le plan matériel. Pendant toute la durée du sort, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs attaques contre vous.
+**Incantation** : 
+**Description** : Une énergie vous entoure et vous protège contre les fées, les morts-vivants et les créatures originaires d'un autre plan que le plan matériel. Pendant toute la durée du sort, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs attaques contre vous.
 
 Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spéciales suivantes.
 

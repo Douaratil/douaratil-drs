@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie ou de Foi  
-Vous créez une perturbation sismique en un point situé au niveau du sol, dans votre champ de vision et à portée. Pendant toute la durée du sort, d'intenses secousses agitent le sol dans un cercle de 30 mètres de rayon centré sur le point choisi. Elles ébranlent toutes les créatures et structures en contact avec le sol de cette zone.
+**Incantation** : 
+**Description** : Vous créez une perturbation sismique en un point situé au niveau du sol, dans votre champ de vision et à portée. Pendant toute la durée du sort, d'intenses secousses agitent le sol dans un cercle de 30 mètres de rayon centré sur le point choisi. Elles ébranlent toutes les créatures et structures en contact avec le sol de cette zone.
 
 Le sol affecté devient un terrain difficile. Toute créature qui se trouve en contact avec le sol et en pleine concentration doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution sous peine de voir sa concentration brisée.
 

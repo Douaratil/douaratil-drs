@@ -19,5 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 points de Magie  
+**Incantation** : *Je fais appel à l'eau cachée dans les cieux, je la fais descendre pour qu'elle apaise la terre assoiffée.*   
+*Par mes mots et ma volonté, je convoque la pluie. Pluie, viens à moi!*  
 
-Ce sort permet au sorcier de condenser l’humidité de l’air sur une très large surface pour créer une fine bruine ou alors une légère pluie. Le sort se rompt si le lanceur de sort est tué. Le sort recouvre une zone d’1 km de rayon dont le centre est le sorcier. La pluie ne peut pas rendre une surface glissante, ni faire pleuvoir à l’intérieur d’une maison. Il est impossible de créer une pluie dans une zone aride.  
+**Description** : Ce sort permet au sorcier de condenser l’humidité de l’air sur une très large surface pour créer une fine bruine ou alors une légère pluie. Le sort se rompt si le lanceur de sort est tué. Le sort recouvre une zone d’1 km de rayon dont le centre est le sorcier. La pluie ne peut pas rendre une surface glissante, ni faire pleuvoir à l’intérieur d’une maison. Il est impossible de créer une pluie dans une zone aride.  

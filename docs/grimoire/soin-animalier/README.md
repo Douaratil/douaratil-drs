@@ -17,4 +17,5 @@ classes:
     - Foi
 ---
 **Coût** : 1 point de Foi  
-Ce sort permet de traiter la plupart des petites affections liées à l'animal, comme les parasites, les irritations, les pertes de poils ou de plumes, les problèmes d'alimentation, etc... Il ne s'agit pas d'un sort à application médicale avec des effets miracles.  
+**Incantation** : 
+**Description** : Ce sort permet de traiter la plupart des petites affections liées à l'animal, comme les parasites, les irritations, les pertes de poils ou de plumes, les problèmes d'alimentation, etc... Il ne s'agit pas d'un sort à application médicale avec des effets miracles.  

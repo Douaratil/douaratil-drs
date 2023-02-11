@@ -16,7 +16,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie    
-Vous tentez d'envoûter un individu situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi il est [_charmé_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Il dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si vous ou des créatures amicales envers vous êtes en train de le combattre.
+**Incantation** : 
+**Description** : Vous tentez d'envoûter un individu situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi il est [_charmé_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Il dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si vous ou des créatures amicales envers vous êtes en train de le combattre.
 
 Tant que l'individu est [_charmé_](/gerer-la-sante-du-personnage/#charme), vous entretenez un lien télépathique avec lui qui persiste tant que vous vous trouvez sur le même plan d'existence. Vous pouvez utiliser ce lien télépathique pour donner des ordres à cette créature tant que vous êtes conscient (ce qui ne vous demande pas d'action). Elle fait de son mieux pour vous obéir. Vous pouvez lui donner un ordre simple et générique, comme «  _attaque cette créature_  », «  _cours jusque là-bas_  » ou «  _va chercher cet objet_  ». Si elle ne reçoit pas de nouvelle instruction de votre part une fois l'ordre exécuté, elle se contente de se défendre et de se préserver au mieux.
 

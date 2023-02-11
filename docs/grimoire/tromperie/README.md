@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie   
-Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) à l'instant même où un double illusoire de votre personne apparaît là où vous vous trouvez. Ce double persiste pendant toute la durée du sort, mais votre invisibilité se termine dès que vous lancez un sort ou attaquez. Par contre si une quelconque personne s'approche de moins de 15 m, l'illusion disparait.  
+**Incantation** : 
+**Description** : Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) à l'instant même où un double illusoire de votre personne apparaît là où vous vous trouvez. Ce double persiste pendant toute la durée du sort, mais votre invisibilité se termine dès que vous lancez un sort ou attaquez. Par contre si une quelconque personne s'approche de moins de 15 m, l'illusion disparait.  
 
 Vous pouvez utiliser votre action pour déplacer votre double d'un maximum de deux fois votre vitesse et le faire bouger, parler et se comporter comme bon vous semble.
 

@@ -18,7 +18,8 @@ classes:
 
 ---
 **Coût** : 8 points de Foi  
-Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
+**Incantation** : 
+**Description** : Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Une créature féerique dont l'indice de dangerosité est inférieur ou égal à 2.
 * Deux créatures féeriques dont l'indice de dangerosité est inférieur ou égal à 1.
 * Quatre créatures féeriques dont l'indice de dangerosité est inférieur ou égal à 1⁄2.

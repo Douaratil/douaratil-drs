@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 32 points de Foi ou de Magie  
-Par le sort de Malédiction, le sorcier peut maudire une personne, une population ou un lieu ou un mélange de tout cela. Il doit voir sa cible pour la maudire ou être sur un lieu spécifique.  
+**Incantation** : 
+**Description** : Par le sort de Malédiction, le sorcier peut maudire une personne, une population ou un lieu ou un mélange de tout cela. Il doit voir sa cible pour la maudire ou être sur un lieu spécifique.  
 La malédiction funeste est très coûteuse pour le sorcier car il faut considérer qu'il s'agit d'un sort continuellement actif et prend la place d'un sort de concentration. Elle dure toute la vie du sorcier.  
 La malédiction funeste a une portée dépendant des caractéristiques du sorcier selon le calcul suivant : 1 km de rayon par point de modificateur de caractéristique d'Intelligence et de Sagesse.  
 A la discrétion du narrateur mais mais les effets peuvent entraîner des problèmes de récolte, de fertilité du bétail, de fertilité des hommes ou des femmes, des morts nés, des maladies congénitales, une corruption progressive de la zone, etc.  

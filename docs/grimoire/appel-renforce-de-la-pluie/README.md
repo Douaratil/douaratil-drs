@@ -19,4 +19,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 18 points de Magie  
-Ce sort est identique au sort « appel de la pluie », si ce n’est qu’il permet de créer de la pluie dans un désert. Du fait de l’absence d’humidité dans les déserts, le lanceur de sort doit condenser toute l’humidité sur plusieurs lieues aux alentours. Le lanceur de sort peut créer une fine bruine ou bien une légère pluie qui s’évapore au contact du sol. La pluie permet cependant d’hydrater la peau du sorcier, de faire chuter la température ambiante et de protéger du Soleil.  
+**Incantation** : *Voix de l'eau, je t'implore*  
+*Viens à moi, porteur d'abondance*   
+*Que ta pluie soit ma défense*  
+*Contre le désert, la chaleur et la soif*  
+*Je t'appelle !*   
+
+**Description** : Ce sort est identique au sort « appel de la pluie », si ce n’est qu’il permet de créer de la pluie dans un désert. Du fait de l’absence d’humidité dans les déserts, le lanceur de sort doit condenser toute l’humidité sur plusieurs lieues aux alentours. Le lanceur de sort peut créer une fine bruine ou bien une légère pluie qui s’évapore au contact du sol. La pluie permet cependant d’hydrater la peau du sorcier, de faire chuter la température ambiante et de protéger du Soleil.  

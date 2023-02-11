@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Foi ou de Magie  
-En contact charnel, le Magicien est capable de déclencher un orgasme chez sa cible. Lui-même ne ressent pas cet orgasme et ne peut pas s'auto appliquer le sort. Cet orgasme a les effets naturels de fatigue qui en découle. Il est dangereux d'en abuser.
+**Incantation** : 
+**Description** : En contact charnel, le Magicien est capable de déclencher un orgasme chez sa cible. Lui-même ne ressent pas cet orgasme et ne peut pas s'auto appliquer le sort. Cet orgasme a les effets naturels de fatigue qui en découle. Il est dangereux d'en abuser.

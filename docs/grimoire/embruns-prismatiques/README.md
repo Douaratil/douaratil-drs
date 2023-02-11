@@ -17,7 +17,8 @@ classes:
 
 ---
 **Coût** : 14 points de Magie    
-Huit traits d'énergie jaillissent de votre main. Chacun possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 2d6 par cible pour savoir quelle couleur l'affecte.  
+**Incantation** : 
+**Description** : Huit traits d'énergie jaillissent de votre main. Chacun possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 2d6 par cible pour savoir quelle couleur l'affecte.  
 
 2-3  **_Feu_**. La cible subit 10d6 dégâts de feu si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.  
 4  **_Acide_**. La cible subit 10d6 dégâts d'acide si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.  

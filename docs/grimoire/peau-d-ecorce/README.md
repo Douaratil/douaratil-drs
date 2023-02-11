@@ -18,4 +18,5 @@ classes:
 
 ---
 **Coût** : 4 points de Foi       
-Vous touchez une créature consentante. Pendant toute la durée du sort, sa Valeur de Défense ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.  
+**Incantation** : 
+**Description** : Vous touchez une créature consentante. Pendant toute la durée du sort, sa Valeur de Défense ne peut pas descendre au-dessous de 16, quelle que soit l'armure qu'elle porte.  

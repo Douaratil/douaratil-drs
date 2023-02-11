@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie   
-Vous êtes brièvement entouré d'un nuage de poussière et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.
+**Incantation** : 
+**Description** : Vous êtes brièvement entouré d'un nuage de poussière et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.

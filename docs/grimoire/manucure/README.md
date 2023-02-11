@@ -18,4 +18,5 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
- Le magicien peut créer l'effet d'une manucure sur des ongles en les touchant avec un de ses index. Il peut en changer l'aspect et la longueur (un petit peu).
+**Incantation** : 
+**Description** : Le magicien peut créer l'effet d'une manucure sur des ongles en les touchant avec un de ses index. Il peut en changer l'aspect et la longueur (un petit peu).

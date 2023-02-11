@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Magie   
-Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
+**Incantation** : 
+**Description** : Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).

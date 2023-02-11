@@ -18,7 +18,6 @@ classes:
 
 ---
 **Coût** : 1 point de Magie
-
-**enchantement**
-En passant la paume de sa main, l'enchanteur peut polir et rendre brillante comme un miroir, une surface métallique. Avec ce sort, il est possible d'entretenir des armures par exemple.
+**Incantation** : 
+**Description** : En passant la paume de sa main, l'enchanteur peut polir et rendre brillante comme un miroir, une surface métallique. Avec ce sort, il est possible d'entretenir des armures par exemple.
 Ce sort a aussi des applications sur les ustensiles de cuisine.

@@ -17,7 +17,8 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Magie   
-Vous sécurisez par magie une zone à portée. Il s'agit d'un cube de 1,50 mètre à 30 mètres d'arête. Le sort persiste pendant toute sa durée ou jusqu'à ce que vous utilisiez une action pour le révoquer.
+**Incantation** : 
+**Description** : Vous sécurisez par magie une zone à portée. Il s'agit d'un cube de 1,50 mètre à 30 mètres d'arête. Le sort persiste pendant toute sa durée ou jusqu'à ce que vous utilisiez une action pour le révoquer.
 
 Vous décidez de la sécurité offerte par le sort au moment de l'incantation en choisissant une ou plusieurs propriétés parmi les suivantes.
 * Les sons ne peuvent pas franchir la barrière qui délimite la zone protégée.

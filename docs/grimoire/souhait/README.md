@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : Spécial : 90 points de Magie
-Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.
+**Incantation** : 
+**Description** : Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.
 
 L'utilisation basique de ce sort consiste à dupliquer les effets de n'importe quel sort de niveau Expert ou moins. Vous n'avez alors pas besoin de remplir les conditions requises, pas même de fournir les composantes matérielles onéreuses, le sort fait tout simplement effet.
 

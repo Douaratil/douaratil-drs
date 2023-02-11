@@ -17,4 +17,5 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie  
-Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute reste normale mais la hauteur est ignorée jusqu'à 18 mètres.
+**Incantation** : 
+**Description** : Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute reste normale mais la hauteur est ignorée jusqu'à 18 mètres.
