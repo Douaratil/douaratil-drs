@@ -19,7 +19,7 @@ classes:
 
 ---
 **Coût** : 4 points de Foi ou de Magie  
-**Incantation** : 
+**Incantation** : *Arme de pouvoir et de force, je te conjure, deviens magique en ce jour.*    
 **Description** : Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de disciple, le bonus passe à +2, et à +3 si vous utilisez un niveau d'apprenti ou plus.
