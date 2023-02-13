@@ -19,7 +19,7 @@ classes:
 
 ---
 **Coût** : 4 points de Magie  
-**Incantation** : 
+**Incantation** : *Par l'illusion, par la soie, je masque ta véritable aura magique!*    
 **Description** : Vous enveloppez la créature ou l'objet touché d'une illusion, afin que les sorts de divination révèlent des informations erronées à son propos. La cible du sort doit être une créature consentante ou un objet qui n'est ni porté ni transporté par une autre créature.
 
 Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les deux, qui persistent pendant toute la durée du sort. Si vous lancez ce sort sur la même créature ou le même objet chaque jour pendant 30 jours, en lui attribuant le même effet à chaque fois, l'illusion persiste jusqu'à ce que quelqu'un la dissipe.

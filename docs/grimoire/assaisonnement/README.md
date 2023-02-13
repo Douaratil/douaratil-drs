@@ -18,6 +18,9 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-**Incantation** : 
+**Incantation** : *Sable du désert, poussière des cieux,*   
+*Fais que ce plat soit doux et plaisant,*   
+*Avec une touche de saveur que je veux,*   
+*Qu'il soit pour moi une agréable enchant.*    
 **Description** : L'enchanteur peut, avec ce petit sort, mimer saupoudrer un plat avec du sable et effectivement l'assaisonner à son goût.
 Cet assaisonnement est une forme d'illusion, il évite ainsi de manger trop gras ou trop salé.
