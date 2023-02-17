@@ -16,7 +16,13 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-**Incantation** : 
+**Incantation** : *Des feuilles aux racines,*   
+*Du sol jusqu'au sommet,*   
+*Ensemble nous sommes un,*   
+*Ouvrez vos yeux et entendez-moi.*   
+*Plantes de la terre, je vous appelle,*   
+*Donnez-moi accès à votre sagesse.*   
+
 **Description** : Vous imprégnez la végétation située dans un rayon de 9 mètres autour de vous d'une conscience et d'une mobilité limitées, ce qui permet aux plantes de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les végétaux sur les événements qui se sont déroulés la veille dans la zone du sort et ainsi obtenir des informations sur les créatures qui sont passées, sur les conditions météorologiques et autres.
 
 Vous pouvez également transformer un terrain rendu difficile à cause de la végétation (comme des buissons ou d'épais taillis) en terrain ordinaire pendant toute la durée du sort. Vous pouvez également transformer un terrain ordinaire où poussent des plantes en terrain difficile pendant toute la durée du sort, par exemple de manière à ce que des plantes grimpantes et des branches gênent vos poursuivants.

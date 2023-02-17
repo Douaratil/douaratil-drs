@@ -19,5 +19,9 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 points de Magie  
-**Incantation** : 
+**Incantation** : *Que cette arme de métal devienne redoutable,*    
+*Enveloppée de l'encens enflammé de mes mains,*    
+*Que chaque coup porté soit mémorable,*    
+*Et chargé de l'énergie de la sorcellerie qui l'entraîne.*    
+
 **Description** : Le sorcier enchante une arme avec de l’encens. Cette arme, à chaque fois qu’elle fendra l’air dans le vide ou se cognera à un bouclier ou à une autre surface, se chargera en énergie. Pour chaque charge, l’arme distribue 1 points de dégâts supplémentaires. L’arme peut être chargée en total 3 fois maximum. Cette puissance accumulée rend l'arme instable. Si une attaque rate sa cible d'une marge supérieure ou égale à 10, un JS DD12 doit être fait. En cas d'échec, l'arme explose en plusieurs milliers de fragments infligeant 1d6 de dégâts perforants par charge dans un rayon de deux mètres, y compris pour le porteur. L'arme est dans ce cas détruite.

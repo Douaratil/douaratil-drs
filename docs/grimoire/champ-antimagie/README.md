@@ -19,7 +19,7 @@ classes:
 ---
 **Coût** : 16 points de Foi ou de Magie  
 Une sphère d'antimagie invisible de 3 mètres de rayon vous entoure. La zone qu'elle englobe est coupée de l'énergie magique qui imprègne le multivers. En son sein, il est impossible de lancer un sort, les créatures invoquées disparaissent et même les objets magiques deviennent ordinaires. La sphère reste centrée sur vous et se déplace avec vous jusqu'à la fin du sort.
-**Incantation** : 
+**Incantation** : *Que la magie se brise et que la zone qui m'entoure soit dépourvue de son pouvoir.*    
 **Description** : Les sorts et autres effets magiques, en dehors de ceux émanant d'un artefact ou d'une divinité, sont supprimés au sein de la sphère et ne peuvent pénétrer son espace. Un emplacement utilisé pour lancer un sort ainsi supprimé est tout de même consommé. L'effet ne fonctionne pas tant qu'il est supprimé, mais le temps passé sous suppression est tout de même décompté de sa durée d'efficacité.
 
 **Effets visant une cible**. Les sorts et autres effets magiques visant une créature ou un objet situé dans la sphère, comme <ST s="projectile-magique"/> ou <ST s="charme-personne"/>, n'ont aucun effet sur cette cible.

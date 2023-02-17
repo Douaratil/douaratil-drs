@@ -20,7 +20,10 @@ classes:
 
 ---
 **Coût** : 4 point de Foi ou de Magie  
-**Incantation** : 
+**Incantation** : *Vent impétueux, souffle fort et rapide,*    
+*Viens chasser mes ennemis, les repousser sans espoir,*   
+*Disperse les flammes, brise les foyers,*    
+*Par le pouvoir de cette graine, le vent se lève !*   
 **Description** : Une zone de fort vent de 18 mètres de long sur 3 mètres de large souffle depuis votre position dans la direction de votre choix pendant toute la durée du sort. Chaque créature qui débute son tour dans la zone doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force, sans quoi elle est rejetée de 4,50 mètres à l'opposé de vous, dans la direction du vent.
 
 Une créature qui se trouve dans la zone doit dépenser 60 centimètres de mouvement pour se rapprocher de vous de 30 centimètres.

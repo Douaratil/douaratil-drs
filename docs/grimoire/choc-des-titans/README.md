@@ -16,5 +16,7 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
-**Incantation** : 
+**Incantation** : *Je lève mon bras vers toi, ennemi juré.*    
+*Tu ne peux échapper à ma volonté.*    
+*Que ce sort t'atteigne et te rende vulnérable !*    
 **Description** : Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversaire, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à votre première attaque à chacun de vos tours.

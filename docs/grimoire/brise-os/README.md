@@ -17,7 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie  
-**Incantation** : 
+**Incantation** : *Os brisés, membre fracturé, [nom de la cible] va bien souffrir. Brise os!*    
 **Description** : Le lanceur de sort indique une partie du corps de son adversaire. Celui-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. En cas d'échec, il subit 3d6 points d'action de dégâts et reçoit une [blessure grave](/gerer-la-sante-du-personnage/#blessure-grave) tirée aléatoirement sur la table. A ce moment, le craquement d'un os se fait entendre.   
 Si le JS est réussi, la cible subit tout de même les 3d6 points d'action de dégâts.   
 

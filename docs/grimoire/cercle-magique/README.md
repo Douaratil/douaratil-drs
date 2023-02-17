@@ -19,7 +19,11 @@ classes:
 
 ---
 **Coût** : 6 points de Foi ou de Magie  
-**Incantation** : 
+**Incantation** : *Cercle de magie, cercle de pouvoir, en ce lieu, en ce jour, je te crée.*   
+*Protège-nous contre [type de créature], empêche-les d'entrer, de nous charmer ou nous terroriser.*    
+*Que ce cercle de magie nous préserve et nous défende.*    
+*Ainsi soit-il.*   
+
 **Description** : Vous créez un cylindre d'énergie magique de 3 mètres de rayon pour 6 mètres de haut, centré sur un point au sol situé à portée et dans votre champ de vision. Des runes luisantes apparaissent là où le cylindre touche le sol ou une autre surface.
 
 Choisissez l'un des types de créatures suivants : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte une créature du type choisi de la manière suivante :

@@ -20,7 +20,18 @@ classes:
 source: "Elric"
 ---
 **Coût** : 10 points de Foi ou de Magie  
-**Incantation** : 
+**Incantation** : *Par la grâce des dieux et des forces occultes,*    
+*Je convoque la chance et ses miracles.*      
+*Que cet objet fétiche soit béni,*    
+*Et que son pouvoir soit en moi infini.*   
+*Que la fortune me sourie et m'accompagne,*   
+*Dans les jeux de hasard et les aventures les plus étranges.*   
+*Que mes ennemis soient touchés par la faiblesse,*    
+*Et que mes alliés soient baignés de tendresse.*    
+*Que la chance soit à jamais en moi,*    
+*Et que mon porte-bonheur soit toujours près de moi.*    
+
+
 **Description** : Ce sort permet d’influencer légèrement certains hasards comme dans les jeux de dés ou bien le choix d’une équipe pour savoir quel passage prendre dans un donjon. Les personnes influencées par ce sort ont le droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. S’ils réussissent le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), la tentative d’influencer échoue mais les cibles ne se rendent pas compte qu’elles ont été victimes d’un sort. Contrairement au sort prémonition ce sort ne permet pas d’éviter le danger. Pour utiliser le sort, le sorcier doit tenir un objet porte bonheur comme une pierre, une amulette, un osselet, etc,… qu’il doit garder sur lui pour toujours une fois le sort lancé. S’il perd ou se fait voler son objet fétiche alors il subit des événements malheureux proportionnels au nombre de fois où il a été chanceux (voir la table ci-dessous). Cette malchance atteint sa limite lorsqu’elle compense la chance que le joueur a eu.  
 
 Chanceux permet d'obtenir un bonus de +2 à un test. Invoquer la chance est risqué. Lancer 1d6 + le nombre de fois ou la chance à été invoquée durant la séance. Sur un résultat de 7 et +, reportez vous à la table ci-dessous.  

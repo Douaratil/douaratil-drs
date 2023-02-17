@@ -46,37 +46,45 @@ Plusieurs compétences peuvent être utilisées dans le cadre d'interactions soc
 ## Honneur & interactions sociales
 L'honneur représente deux facteurs du personnage. Son maximum correspond à sa reconnaissance sociale alors que son encours correspond à son égo.  
 Un affrontement social peut prendre plusieurs tours de jeu, jusqu'à ce qu'un des deux soit obligé d'arrêter. Les points d'honneur correspondent ainsi à une quantité de "blessures psychiques" que peut encaisser une personne.  
-Ainsi, la difficulté des affrontements sociaux est toujours la résistance de la personne qui se trouve en face.  
-Se retrouver avec 0 point d'honneur n'a pas d'autre effet que d'accorder un désavantage à toutes les compétences sociales et les jets de sauvegarde psychiques (Intelligence, Sagesse & Charisme) jusqu'à ce que le personnage retrouve la totalité de ses points d'honneur.  
-Ainsi, un personnage peut perdre des points d'honneur en tentant de convaincre, corrompre, séduire, marchander etc... Dans toute interaction sociale. Cela a pour effet de limiter le nombre de tentatives lors des interactions sociales.  
+Se retrouver avec 0 point d'honneur a pas pour effet que d'accorder un désavantage à toutes les compétences sociales et les jets de sauvegarde psychiques (Intelligence, Sagesse & Charisme) jusqu'à ce que le personnage retrouve la totalité de ses points d'honneur.  
+Aussi, un personnage peut perdre des points d'honneur en tentant de convaincre, corrompre, séduire, marchander etc... Dans toute interaction sociale. Cela a pour effet de limiter le nombre de tentatives lors des interactions sociales. Un échec d'intération sociale simple entraîne la perte d'1d6 points d'honneur.      
 
 **Règle spéciale : affronter une personne en public ou duel social**  
 Cette règle se prête a bien des situations : procès, diplomatie, honte publique etc... Un personnage peut engager un duel social contre une autre personne si et seulement si possède au moins la moitié de ses points d'honneur (PH). Ce combat se déroule jusqu'a ce que l'un des deux protagonistes ne tombe à 0 point d'honneur (PH). la pénalité du désavantage s'applique pour toute interaction contre son adversaire et cela pendant une période d'une lune.   
 
 La règle des affrontements d'honneur est le suivant (reportez vous au tableau plus bas pour plus de détail) :  
 
-**Acteur/Attaquant - DD du défenseur = montant de la perte de PH**  
+- Les affrontements sociaux se déroulent comme des utilisation de compétence (Voir la table des affrontements sociaux ci-dessous).   
+- Les affrontements sociaux ont une durée limitée. Chaque partie lance 1d6 explosif. Ce sera la durée en round de l'affrontement. La durée maximale de l'affrontement sera le résultat le plus important. La durée minimale sera définie par un consensus entre les deux parties pour s'arrêter.    
+- Une fois le temps minimal dépassé (c'est à dire celui qui a eu le résultat le plus faible), l'autre partie (celui qui a eu le meilleur résultat), obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses tests jusqu'à la fin de l'affrontement.   
+- L'affrontement social affecte l'honneur de chaque partie. Lorsque le test de compétence ou de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) est réussi, la cible subit _*1d6 points d'honneur +1/6 obtenu au test*_ (sur le même principe que les règles de combat).    
+- Une action d'affrontement ne peut pas être utilisée deux fois d'affilée, il faut donc varier les techniques. De même, une action ne peut pas être contrée par la partie adverse par le mêùe type d'action. Par exemple, une personne qui "menace" ne peut pas se voir retourner une "menace", il pourra par exemple contrer en "se moquant" ou en se "vantant".   
+- A la fin de l'affrontement, le compte des points d'honneurs infligés est effectué et celui qui a été le plus incisif gagne le duel. Une personne qui tombe à 0 points d'honneur arrête immédiatement l'affrontement, frappé par la honte et la désapprobation publique.   
+- Celui qui gagne l'affrontement voit sa réputation augmenter auprès des témoins des faits et baisser auprès de son adversaire (et ceux de son camps).     
+Ainsi, la réputation peut affecter une personne ou un ensemble d'individus.   
 
-Un modificateur peut être appliqué au JS si l'argumentaire est "trop gros à avaler". En effet une personne ne peut se laisser convaincre que quelque chose de manifestement impossible ou incroyable.
+La difficulté est ajusté pour le test si l'argumentaire suivant la plausibilité des éléments avancés. Si cela est "trop gros à avaler", la difficulté en sera augmentée. En effet une personne ne peut se laisser convaincre que quelque chose de manifestement impossible ou incroyable. La difficulté est à l'appréciation du Narrateur.   
+
+En terme de jeu, cette séance peut être l'occasion d'un grand moment de "roleplaying". A minima, il faut que le personnage décrive ses arguments : " Je dis ça..."
 
 
-||Bonus au JS||
-|Véracité|Compétence ou Caractéristique|
+||Difficulté du test||
+|Véracité|DD du test|
 |:-:|:-:|
-|Plausible|0|
-|Improbable|+1|
-|Très improbable|+2|
-|Impossible| +4|
+|Plausible|16|
+|Improbable|22|
+|Très improbable|28|
+|Impossible| 35|
 
 
 | |Table des affrontements sociaux| |
 |Action|Compétence ou Caractéristique| |
 |:-:|:-:|:-:|
-|Convaincre|Persuasion / Charisme  |JS Intelligence|
-|Flatter|Supercherie / Charisme|JS Sagesse|
-|Menacer|Intimidation ou représentation/ Charisme ou Constitution ou Force|Js Sagesse ou Js Charisme|
-|Mentir| Supercherie / Intelligence|Js Intelligenceou Js Sagesse|
-|Séduire|Charisme |Js Sagesse ou Js Charisme|
-|Se moquer| Intimidation / Charisme|Js Sagesse|
-|Se vanter| Intimidation, représentation ou Supercherie / Charisme ou Intelligence|Js Sagesse|
-|Supplier| Perspicacité / Sagesse|Js Sagesse|
+|Convaincre|Persuasion / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme  |
+|Flatter|Supercherie / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme|
+|Menacer|Intimidation ou représentation/ [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme ou [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Constitution ou [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Force|
+|Mentir| Supercherie / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Intelligence|
+|Séduire|[jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme |
+|Se moquer| Intimidation / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme|
+|Se vanter| Intimidation, représentation ou Supercherie / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Charisme ou [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Intelligence|
+|Supplier| Perspicacité / [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) Sagesse|

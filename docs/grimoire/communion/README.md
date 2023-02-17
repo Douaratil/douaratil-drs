@@ -17,7 +17,10 @@ classes:
     - Foi
 ---
 **Coût** : 10 points de Foi  
-**Incantation** : 
+**Incantation** : *Ô grand [nom de la divinité], je t'implore de répondre à mes questions.*    
+*Par l'encens et l'eau bénite/maudite, je te fais appel.*    
+*Viens à moi et réponds à mes interrogations.*    
+
 **Description** : Vous entrez en contact avec votre divinité ou l'un de ses représentants et lui posez jusqu'à trois questions fermées auxquelles la réponse est soit oui, soit non. Vous devez les poser avant la fin du sort et vous recevez une réponse correcte à chacune d'entre elles.
 
 Les êtres divins ne sont pas forcément omniscients, il se peut donc que vous obteniez « _incertain_ » comme réponse si votre question porte sur des informations sortant du champ des connaissances de votre divinité. Si une réponse d'un seul mot risque de se révéler trompeuse ou contraire aux intérêts de la divinité, le MJ peut lui substituer une courte phrase.

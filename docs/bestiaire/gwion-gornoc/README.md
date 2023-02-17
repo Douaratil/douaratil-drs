@@ -64,17 +64,20 @@ movement:
   walk: 9
 senses:
 languages:
-  - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Bergaf (0/1), Magus (1/1)"
+  - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Oghen (0/1), Magus (1/1)"
 category: "PJ"
 ---
-## Gwion Gornoc
-&nbsp;
-[![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwiongornocm.png)](https://www.douaratil.fr/illustrations/pj/gwiongornoc.jpg)  
+## <v-icon>mdi-human-greeting</v-icon>  Gwion Gornoc    
+§§§ .hero
+*Gwion était un sorcier meldète redouté et redoutable, éduqué par l’ambeanamos Siarl Dylluan. Bien que la nature ne l’ait pas épargné étant accablé par une dépigmentation de la peau, par une vue abîmée avec ses yeux blancs, par des doigts crochus qui ne lui permettaient pas d’être très adroit, par des problèmes de claudication et par une légère bosse au dos qui l’empêchaient de se mouvoir avec aisance, il put s’élever à un haut rang de puissance par sa ruse et son ambition et grâce une légère félonie qui lui attirèrent de nombreux ennuis. Il gardait cependant le souhait d’œuvrer pour la volonté générale même si les moyens utilisés n’étaient pas les meilleurs. Le destin lui permit de se lier d’amitié avec de nombreuses puissantes personnes comme Thorleik ou Margs.*     
+*N’étant encore qu’assez jeune, 28 printemps seulement, son avenir ne pouvait être que prometteur s’il était assez avisé pour ne pas se faire tuer par un ennemi inconnu.*          
+**Souvenirs d'Ailynn la voyageuse**   
+§§§   
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 63  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Historique rebouteux:**_.    
+_**Historique:**_ rebouteux.    
 **Compétences**. Médecine, Nature ou Religion.  
 **Outils maîtrisés**. Deux au choix parmi matériel d'herboriste, d'empoisonneur et d'alchimiste.  
 **Équipement**. Habits courants, bâton, des grisgris ou des fioles contenant d'étranges décoctions, bourse contenant 10 po.  
@@ -100,7 +103,7 @@ Toute personne extérieur au duel qui intervient pour l'interrompre encourt de g
 En effet, pour chaque round de duel, la puissance magique se cumule au rythme de 1d6. Cela dure autant de rounds que le duelliste à de niveau. Lorsqu'il ne peut plus investi de d6, il maintient sa charge en attendant que l'autre ait terminé. La charge est ensuite libérée. Les dés sont lancés et celui qui possède le plus gros score gagne le duel. Le perdant se voit vidé de tous ses points de Magie et de Foi alors que le vainqueur bénéficie d'un bonus temporaire de points de magie égal à la différence obtenu. Il le réparti à sa guise entre sa réserve de Magie et de Foi. Cette énergie se dissipe peu à peu au rythme de 1d6 par heure. En attendant, elle peut être utilisée librement pour lancer des sorts.
 Une personne qui intervient ou touche un duelliste durant l'affrontement subit un choque dont les dégâts correspondent à la puissance du duel, soit 1d6 par round d'engagement. D'autre part, une personne frappée par cet effet est soudain submergé de terreur (DD22).
 
-_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (4d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+_**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (6d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
 _**Manipulation de la magie ou métamagie**_. *(Ambeanamos)* Au niveau 3, vous gagnez la capacité de modifier vos sorts pour les adapter à vos besoins en dépensant le double de points de magie (PM). Vous gagnez une de métamagie de votre choix parmi les suivantes. Vous en gagnerez une nouvelle au niveau 7, une au niveau 10 et une dernière au niveau 17.  
 Vous ne pouvez appliquer qu'une seule option de métamagie à un sort quand vous le lancez, sauf mention contraire.  
@@ -140,7 +143,7 @@ Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Glaive(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6-1 dégâts tranchants (3d6-1 à deux mains).
+_Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).
 
 _**Hache(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (3d6-1 à deux mains).  
@@ -222,8 +225,8 @@ Gwion possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
-**Bonus d'incantation: +15**  
-**DD de Sauvegarde: 18**   
+**Bonus d'incantation: +17 Magie et +5 Foi**  
+**DD de Sauvegarde: 19**   
 **Novice** : [Alarme](/grimoire/alarme), [Appel de familier](/grimoire/appel-de-familier), [Armure du mage](/grimoire/armure-du-mage), [Arme magique](/grimoire/arme-magique), [Aspersion d'acide](/grimoire/aspersion-acide), [Baie nourricière](/grimoire/baie-nourriciere), [Balisage](/grimoire/balisage), [Bourrasque](/grimoire/bourrasque), [Bouclier de la foi](/grimoire/bouclier-de-la-foi), [Boussole mentale](/grimoire/boussole-mentale), [Cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Compagnon animal](/grimoire/compagnon-animal), [Coup de tonnerre](/grimoire/coup-de-tonnerre),
 [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Glas funèbre](/grimoire/glas-funebre), [identification](/grimoire/identification),  
 [invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [main du mage](/grimoire/main-du-mage), [message](/grimoire/message), [messager animal](/grimoire/messager-animal), [Mot de guérison](/grimoire/mot-de-guerison), [Pas brumeux](/grimoire/pas-brumeux), [Prestidigitation](/grimoire/prestidigitation), [produire une flamme](/grimoire/produire-une-flamme), [projectile magique](/grimoire/projectile-magique), [réparation](/grimoire/reparation), [restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin des blessures](/grimoire/soin-des-blessures),

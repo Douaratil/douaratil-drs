@@ -28,7 +28,7 @@ Les affrontements sont toujours des expériences qui permettent progresser dans 
 
 - **L'affrontement physique** : l'expérience d'un affrontement physique est calculé selon l'**ID de l'adversaire**, appelé aussi [Dangerosité](/comprendre-le-profil-technique-des-monstres/#dangerosite). Il suffit de le mettre à bas, de le faire plier et pas uniquement de le tuer. Ainsi, gracier un adversaire vaincu n'empêche pas de bénéficier de l'expérience qu'il procure. [L'expérience](/comprendre-le-profil-technique-des-monstres/#points-d-experience) peut-être partagée entre tous les protagonistes d'une rencontre (cela permet d'ailleurs de favoriser la coopération au dépend de l'égoïsme).
 
-- **L'affrontement social** : l'expérience d'un affrontement social fonctionne de la même manière que pour l'affrontement physique à une exception près. Un adversaire qui a été précédemment vaincu ne rapporte plus que la moitié de sa valeur de **Dangerosité** lors des affrontements suivants. Une personne ne peut-être affrontée de cette manière plus de deux fois par lune (la rancune est tenace et la défaite amère, longue à oublier). Comme, il est évoqué plus haut, un affrontement social peut-être le fait de séduire une personne qui se refuse à cette relation. Cette approche a pour but de privilégier les conquêtes sentimentales car "aimer et être aimé"" est l'un des principaux but de l'existence.  
+- **L'affrontement social** : l'expérience d'un affrontement social fonctionne comme la réalisation d'un évènement. Comme, il est évoqué plus haut, un affrontement social peut-être le fait de séduire une personne qui se refuse à cette relation. Cette approche a pour but de privilégier les conquêtes sentimentales car "aimer et être aimé"" est l'un des principaux but de l'existence.  
 
 ### Réussite d'une épreuve
 Réussir une action difficile et/ou dangereuse peut amener de l'expérience. Ainsi, les pièges qui sont désamorcés (ou détectés et contournés) amènent de l'expérience en fonction de sa **Dangerosité**. Certains évènements auxquels participent les personnages peuvent amener de l'expérience (souvent dans une moindre mesure). Par exemple, participer à un tournois peut engendrer de l'expérience (à la discrétion du Narrateur) même si le personnage est éliminé au premier tour. Celui qui par contre, franchit les étapes du tournois, cumulera l'expérience de l'évènement et des combats. Des exemples seront donnés ci-après. **Pour obtenir l'expérience, il faut être acteur de l'évènement et pas seulement spectateur**.  
@@ -85,8 +85,7 @@ Prier les dieux permet d'obtenir certains avantages outre le fait d'obtenir de l
 |:-:|:-:|
 |**Affrontements**||
 |Affrontements physiques|Défini par la dangerosité|
-|Affrontements social|Défini par la dangerosité|
-|Affrontements social (après le premier)|Défini par la dangerosité / 2|
+|Affrontements social|Défini comme un évènement (voir plus bas)|
 |||
 |**Réussite d'épreuve**||
 |Pièges|Défini par la dangerosité|
