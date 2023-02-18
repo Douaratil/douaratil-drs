@@ -18,7 +18,27 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Enchantée soit la nature,*   
+*Lumière des étoiles, douceur des murmures,*   
+*Que se lèvent les vents, que brillent les cieux,*   
+*Avec la magie des anciens et la force des dieux.*    
+
+*Que l'esprit s'élève, que la terre résonne,*   
+*Dans un tourbillon de poussière et de roches,*   
+*Que la vie s'épanouisse, que les âmes frissonnent,*   
+*Dans une symphonie de couleurs et de touches.*   
+
+*Que ce sort soit un don de l'univers,*   
+*Un cadeau pour ceux qui ont su le mériter,*   
+*Qu'il apporte la joie, le bonheur et la paix,*   
+*Et que jamais sa puissance ne soit altérée.*    
+
+*Ainsi soit fait, selon la loi des éléments,*    
+*Dans un équilibre parfait, en tout temps et tout lieu,*   
+*Que la magie nous protège et nous enchante,*    
+*Et que jamais elle ne nous quitte, même dans les cieux.*    
+
 **Description** : Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui, soit sur une surface quelconque comme une table, le sol ou un mur, soit dans un objet que l'on peut refermer pour dissimuler l'inscription, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
 Le glyphe est presque invisible. Pour le discerner, il faut réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort.

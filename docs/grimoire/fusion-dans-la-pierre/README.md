@@ -19,7 +19,12 @@ classes:
 
 ---
 **Coût** : 6 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Tel le rocher immuable,*   
+*Je me fonds dans ta chair sans fard,*   
+*Invisible et invulnérable,*   
+*Je deviens un avec ton regard.*    
+
 **Description** : Vous entrez dans un objet ou une surface de pierre assez grande pour contenir entièrement votre corps, votre personne et votre équipement fusionnant avec la pierre pendant toute la durée du sort. Vous utilisez votre déplacement pour entrer dans la pierre en un point que vous êtes en mesure de toucher. Il ne reste alors rien de visible ni de détectable indiquant votre présence pour des sens non-magiques.
 
 Tant que vous êtes fusionné avec la pierre, vous ne voyez pas ce qui se passe à l'extérieur et vous êtes affecté par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) destinés à entendre les sons qui retentissent à l'extérieur de la pierre. Vous restez conscient du temps qui passe et vous pouvez lancer des sorts à portée personnelle. Vous pouvez utiliser votre déplacement pour quitter la pierre par l'endroit par où vous y êtes entré, ce qui met fin au sort. En dehors de cela, vous êtes dans l'incapacité de vous déplacer.

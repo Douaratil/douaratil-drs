@@ -17,7 +17,10 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Des ténèbres de mon âme, je fais jaillir la flamme funeste.*     
+*Que l'obscurité s'abatte sur mes ennemis et les brûle jusqu'à leur chair.*    *Que la nuit les aveugle et leur fasse sentir l'horreur de leur destin.*    
+
 **Description** : Une explosion d'énergie noires que seul vous voyez jaillit de votre corps et blesse les créatures située à moins de 1,50 mètre de vous. Chaque créature dans la zone doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, ou subir 2d6 dégâts nécrotiques et être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à votre prochain tour. En cas de réussite, elle ne subit que la moitié des dégâts et n'est pas [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
 
 **À plus haut niveau**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau Disciple, les dégâts augmentent de 1d6 pour chaque emplacement au-delà du niveau de Novice.

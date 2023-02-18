@@ -16,6 +16,9 @@ classes:
   - Magie
 ---
 **Coût** : 2 points de Magie  
+
 **Enchantement** Le sorcier enchante un petit bracelet de cuivre. Il a pour cela besoin d'un bracelet de cuivre, de 5 po de matériel (encens, bougies...) et d'une journée ensoleillée.
-**Incantation** : 
+
+**Incantation** : *Par la puissance des éléments, je brise et fracasse, objets et céramiques, pour semer le chaos et la ruine !*    
+
 **Description** : Le sorcier est capable de fracasser de petits objets comme des verres, des poteries mais aussi de petites statues ou des pieds de table ou de chaise. Une personne placée juste à côté de l'objet (dans un rayon de 1 m) peut être blessée par les éclats pour 1d6 de dégâts et réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) ou être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) pendant le round suivant.    

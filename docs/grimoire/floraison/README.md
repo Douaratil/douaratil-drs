@@ -18,5 +18,7 @@ classes:
   - Foi
 ---
 **Coût** : 6 points de Magie ou de Foi  
-**Incantation** : 
+
+**Incantation** : *Que la sève des plantes s'épanouisse, que leurs pétales s'ouvrent en corolle, que leur couleur vive à nouveau.*    
+
 **Description** : Ce sort redonne leur vigueur aux plantes présentes dans un rayon de 1 mètre par niveau du lanceur de sort. Ainsi les fleurs fanées ou desséchées se redressent et reprennent leur couleur en quelques minutes. Le lanceur de sort peut sélectionner les plantes qui bénéficient de cet effet mais pour cela il doit se concentrer. L’effet est centré sur le mage et est permanent. Le lanceur de sort ne peut pas se déplacer plus vite que la vitesse de la marche. Grâce à ce sort, certains mages ont la réputation de porter bonheur.

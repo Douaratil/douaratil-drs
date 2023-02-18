@@ -18,5 +18,15 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie ou de Foi
-**Incantation** : 
+
+**Incantation** : *Flamme éternelle,*    
+*Poussière de rubis que je consume,*    
+*Dans la nuit, ta lumière perpétuelle*    
+*Pour chasser l'obscurité qui nous consume.*   
+*Brûle sans consommer,*    
+*Éclaire sans chauffer,*    
+*Que la flamme éternelle*   
+*Jamais ne cesse de briller,*   
+*Jusqu'à la fin des temps*    
+
 **Description** : Une flamme à la luminosité égale à celle d'une torche embrase soudain l'objet que vous touchez. L'effet du sort ressemble à une flamme ordinaire, mais ne dégage pas de chaleur et ne consomme pas d'oxygène. On peut couvrir ou cacher la flamme éternelle, mais pas l'étouffer ni l'éteindre avec de l'eau.  

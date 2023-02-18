@@ -19,8 +19,14 @@ classes:
 source: "Elric"
 ---
 **Coût** : 8 points de Magie ou de Foi, puis 3 points de Magie ou de Foi
+
 **Enchantement**: Le sorcier ensorcelle une paire de chausses. 
-**Incantation** : 
+
+**Incantation** : *Lueur ardente, flammes de mes veines,*    
+*Dans ces chausses, prends ton haleine,*   
+*Écume ardente, enveloppe mes pas,*    
+*Et que ma course se transforme en brasier!*    
+
 **Description** : Lorsqu’il en est chaussé, il peut se précipiter sur une distance de 3 mètres minimum en laissant derrière lui une traînée de flamme qui se dissipe à la fin du round suivant. Cette manoeuvre se fait au prix d’une action ou d’une action bonus ou d’un réaction. Cette manoeuvre permet de finir sa course 3 mètres plus loin que le déplacement maximum du sorcier.  
 Les flammes infligent 2d6 dégâts de feu si quelqu’un passe dessus. Une fois que les chausses sont enchantées et que les 8 points de Magie ou PF sont dépensées, le prix du sort est réduit à 3 points de Magie pour chaque précipitation.  
 Le sorcier doit réussir un test d'[Acrobaties](/utiliser-les-caractéristiques/#acrobaties) DD16 ou se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).  

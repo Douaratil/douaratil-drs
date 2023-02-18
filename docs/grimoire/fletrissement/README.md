@@ -18,7 +18,12 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Je te flétris, ô vie, ô chair et ô feuillage,*   
+*Que tes racines se dessèchent, que tes feuilles se fanent,*   
+*Et que ton âme s'éteigne dans les abysses de la mort.*    
+*Que le néant t'engloutisse, telle est ma volonté.*    
+
 **Description** : L'énergie nécromantique inonde une créature de votre choix située à portée et dans votre champ de vision, et draine ses fluides corporels et sa vitalité. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle reçoit 11d6 dégâts nécrotiques, la moitié seulement si elle réussit son jet. Ce sort n'a aucun effet sur les morts-vivants ou les créatures artificielles.
 
 Si vous visez une créature végétale ou une plante magique, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et le sort lui inflige le maximum de dégâts possible. Si vous visez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle n'a pas droit au moindre jet de sauvegarde, mais se flétrit et meurt.

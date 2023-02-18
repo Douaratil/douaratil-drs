@@ -18,7 +18,13 @@ classes:
   - Foi
 ---
 **Coût** : 6 points de Magie ou de Foi  
+
 **enchantement** : Le lanceur de sort enchante un tas de branches de coudrier.  
-**Incantation** : 
+
+**Incantation** : *Par les forces de la nature,*   
+*Je transforme ces branches en armes.*   
+*Que leur pointe devienne meurtrière,*    
+*Pour les ennemis qui s'opposent à moi.*    
+
 **Description** : Ce sort permet de transformer de manière permanente une plante ou une branche d'arbre en une flèche.  
 Cette flèche inflige seulement 3 points de dégâts car la pointe n'est pas métallique. En lançant ce sort, l'enchanteur peut transformer 1d6+ bonus d'Intelligence ou de Sagesse de flèches.

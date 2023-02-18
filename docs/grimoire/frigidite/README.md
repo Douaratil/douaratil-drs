@@ -17,5 +17,9 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi    
-**Incantation** : 
+
+**Incantation** : *De la nuit noire et froide, s'élèvent les ombres de l'hiver éternel.*    
+*Que cette magie funeste enveloppe ta chair, que tes sens s'étiolent et que ton corps se glace.*    
+*Que le désir te fuie, que l'amour te répugne, que la frigidité t'emporte dans les ténèbres glacées.*    
+
 **Description** : Ce sort annihile toute possibilité d'avoir des plaisirs sexuels. Elle peut même déclencher chez la cible un rejet et un dégoût de tout rapport sexuel.   

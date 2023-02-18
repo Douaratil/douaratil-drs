@@ -17,7 +17,9 @@ classes:
     - Magie  
 ---
 **Coût** : 10 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Torsion d'herbe, déforme la chair, et que la douleur se fasse claire.*    
+
 **Description** : Votre cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se mettre à se fouler un membre au choix du lanceur.  
 La cible subit immédiatement 2d6 points de dégâts de contusion, appliqué uniquement au membre désigné en cas de coup critique.     
 Durant la durée de l'effet, la cible peut subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toute utilisation d'une compétence ou action liée.  
