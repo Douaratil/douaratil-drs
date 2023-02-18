@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 points de Magie  
+
 **Incantation** : *Je fais appel à l'eau cachée dans les cieux, je la fais descendre pour qu'elle apaise la terre assoiffée.*   
 *Par mes mots et ma volonté, je convoque la pluie. Pluie, viens à moi!*  
 

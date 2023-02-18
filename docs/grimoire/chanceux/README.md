@@ -20,6 +20,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 10 points de Foi ou de Magie  
+
 **Incantation** : *Par la grâce des dieux et des forces occultes,*    
 *Je convoque la chance et ses miracles.*      
 *Que cet objet fétiche soit béni,*    

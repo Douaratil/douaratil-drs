@@ -19,7 +19,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 16 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Les eaux qui nourrissent la vie, je les maudis en ce jour.*    
+*Qu'elles se fassent sombres et mortelles pour quiconque ose y plonger !*   
+
 **Description** : Le sorcier place dans l'eau qu'il souhaite maudire le saphir noir. Une zone d'eau de 36 mètres de rayon dont le sorcier est le centre, s'assombrit. Dans cette zone des racines et des algues enchevêtrent les membres des victimes pour les noyer.  
 Les cibles doivent faire [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 16 ou être entrainées sous l'eau.  
 Elles peuvent faire un test tous les 3 rounds pour se libérer. Les règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) s'appliquent comme suit :  

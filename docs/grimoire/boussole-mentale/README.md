@@ -20,8 +20,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 2 points de Magie ou de Foi  
+
 **Incantation** : *Esprit de la nature, guide-moi,*    
 *Vers les quatre points cardinaux, révèle-moi.*    
 *La température, l'altitude, donne-moi.*    
 *Mon orientation, jusqu'au levé du soleil, montre-moi.*    
+
 **Description** : Le sorcier se concentre pour connaître la position des quatre points cardinaux. Il connaît aussi précisément la température, ainsi que l’altitude du lieu par rapport au niveau de la mer.

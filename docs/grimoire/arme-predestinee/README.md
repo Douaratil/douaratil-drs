@@ -20,8 +20,16 @@ classes:
 source: "Elric"
 ---
 **Coût** : 12 points de Magie ou de Foi  
+
 **Enchantement** : Le sorcier invoque un esprit, un démon ou encore une fée en murmurant le nom du futur porteur de l’arme. Le sorcier explique le contrat à l’entité, en désignant le nom de l’ennemi et en indiquant son possesseur en versant son sang sur le fil de la lame.  
-**Incantation** : *Par le sang, par la foi, je te convoque [nom de l'entité]. Que cette lame s'enflamme, que sa puissance atteigne son destin. Par les forces, je t'appelle à nous,[nom de l'entité] ! Au nom de [nom du porteur], je t'implore de te joindre à notre combat. Que ta lame puissante inflige le plus de dégâts possible à [nom de l'ennemi)]. Que ta mission soit accomplie, jusqu'à ce que tu retournes d'où tu viens [nom de l'entité] !
+
+**Incantation** : *Par le sang, par la foi, je te convoque [nom de l'entité].*    
+*Que cette lame s'enflamme, que sa puissance atteigne son destin.*   
+*Par les forces, je t'appelle à nous,[nom de l'entité] !*   
+*Au nom de [nom du porteur], je t'implore de te joindre à notre combat.*    
+*Que ta lame puissante inflige le plus de dégâts possible à [nom de l'ennemi)].*   
+*Que ta mission soit accomplie, jusqu'à ce que tu retournes d'où tu viens [nom de l'entité] !*    
+
 **Description** : L’arme infligera alors plus de dégâts à l’ennemi porteur du nom donné. L’arme doit être une arme de très belle facture, finement ciselée, d’une valeur minimum de 50 fois le prix de base de l’arme. Cependant, selon l’alignement de l’esprit invoqué, les dégâts peuvent varier :  
 
 | 3d6 non explosifs | Chaotique | Loyal |

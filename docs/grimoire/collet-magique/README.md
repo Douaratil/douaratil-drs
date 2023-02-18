@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 4 points de Foi  
+
 **Incantation** : *J'invoque les forces de la nature pour créer un piège à la traîtrise,*   
 *Une ficelle enroulée autour de la cible, un piège qui la fera choir et l'entravera.*   
 *Qu'elle soit prise au piège, immobilisée ou à terre,*    

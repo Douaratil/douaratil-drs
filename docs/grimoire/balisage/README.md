@@ -19,7 +19,9 @@ classes:
 ---
 
 **Coût** : 2 points de Foi  
+
 **Incantation** : *Brille, lumière de [dieu tutélaire], marque la cible pour le triomphe de [dieu tutélaire].
+
 **Description** : Un rayon de lumière frappe une créature de votre choix située à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre elle. Si vous le réussissez, elle subit 4d6 dégâts radiants. D'ici là, le prochain [jet d'attaque](/combattre/#jets-d-attaque) effectué contre elle bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un niveau de surcharge, les dégâts augmentent de 1d6 par niveau au-delà de Novice.

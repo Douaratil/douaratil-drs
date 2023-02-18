@@ -18,6 +18,7 @@ classes:
 
 ---
 **Coût** : 10 points de Foi  
+
 **Incantation** : *Que les flammes divines tombent sur toi, ô créature impie !*   
 *Par le pouvoir de la Foi, je t'inflige la colère des cieux !*    
 *Que le feu purificateur consume ta chair, et la lumière céleste brûle ton âme !*    

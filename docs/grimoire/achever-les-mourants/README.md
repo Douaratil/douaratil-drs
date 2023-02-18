@@ -21,6 +21,8 @@ source: "Elric"
 
 ---
 **Coût** : 14 points de Magie ou de Foi.  
+
 **Incantation**: *Je libère votre âme pour en absorber la force.*   
 *Au nom de la Nécromancie, je vous acheve pour mon propre pouvoir.*   
+
 **Description**: Le sorcier entaille légèrement le front d’une personne mourante de haut en bas jusqu’au nez, à l’aide d’une petite lame ou d’un morceau de verre, afin d’absorber le reste de son énergie. Cette mise à mort redonne la moitié des PA du personnage, ainsi qu’un bonus de +1 en FOR, de +1 en CON et de +1 en INT pendant une lune.   

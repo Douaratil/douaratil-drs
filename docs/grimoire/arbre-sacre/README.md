@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 18 points de Magie  
+
 **Incantation** : *Aux Felspeärs, gardiens de la nature,*  
 *Nous implorons votre grâce divine,*  
 *Pour bénir cette terre et planter ces branches,*  

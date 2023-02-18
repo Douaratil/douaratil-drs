@@ -19,7 +19,27 @@ classes:
 
 ---
 **Coût** : 12 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *De la poussière des morts, des eaux putrides,*    
+*Et d'un onyx noir, pierre sinistre et vide,*    
+*Je crée mes goules, mes êtres infernaux,*   
+*En les animant de mon pouvoir nécromant.*    
+
+*De ces cadavres jadis humains,*   
+*Je fais naître des êtres inhumains,*   
+*Au service de ma volonté,*   
+*Pour accomplir ma destinée.*   
+
+*Par mon commandement, ils se lèvent,*   
+*De ma main, ils obéissent,*   
+*Et de leur corps, je fais mon armée,*   
+*Pour triompher en ce monde corrompu.*    
+
+*Mais leur loyauté a une fin,*   
+*Après une nuit et un jour, s'évanouit leur lien,*   
+*A moins que je ne renouvelle mon sort,*   
+*Et rallonge ainsi leur funeste sort.*     
+
 **Description** : Ce sort se lance uniquement de nuit. Choisissez jusqu'à trois cadavres de créatures humanoïdes de taille M ou P situés à portée. Chacun se change en goule placée sous votre contrôle. (Le MJ dispose du profil technique de ces créatures).
 
 À chacun de vos tours, vous pouvez utiliser une action bonus pour contrôler mentalement les créatures que vous avez animées avec ce sort si elles se trouvent dans un rayon de 36 mètres (si vous en contrôlez plusieurs, vous pouvez en commander une ou plusieurs à la fois, à condition de donner le même ordre à toutes). Vous pouvez décider de l'action que la créature va entreprendre et de l'endroit où elle va se rendre lors de son prochain tour, ou donner des consignes plus génériques, comme de garder une salle ou un couloir. En l'absence d'ordre de votre part, la créature se contente de se défendre contre les créatures hostiles. Dès qu'une créature a reçu un ordre, elle s'y conforme jusqu'à avoir accompli sa tâche.

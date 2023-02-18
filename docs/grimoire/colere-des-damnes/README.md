@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
+
 **Incantation** : *Flammes ardentes, vents soufflants, j'appelle les damnés à se venger, que leur colère s'abatte sur mes ennemis !*    
 
 **Description** : Vous invoquez la puissance des enfers dans une zone de 6 mètres de rayon autour d'un point situé à portée et dans votre champ de vision. La zone est considérée comme un terrain difficile et toute créature qui y termine son déplacement subit 3d6 dégâts de feu. Une créature qui entre dans la zone ou s'y déplace doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou être immédiatement [_entravée_](/gerer-la-sante-du-personnage/#entrave) jusqu'à son prochain tour.

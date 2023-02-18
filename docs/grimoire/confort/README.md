@@ -18,5 +18,8 @@ classes:
   - Foi
 ---
 **Coût** : 2 points de Magie ou de Foi  
-**Incantation** : 
+
+**Incantation** : *Confort, que ton pouvoir vienne en aide à mon corps, que je puisse supporter les températures extrêmes qui m'entourent.*     
+*Que la chaleur brûlante ou le froid mordant ne m'affectent point, que je sois à l'aise où que j'aille.*    
+
 **Description** : Ce sort permet de supporter les températures extrêmes (la chaleur d'un désert ou le froid de l’hiver) de - 10 C° à 35 C° comme s'il s'agissait d'une température ambiante de 18 C°. Pour les températures supérieures ou inférieures, il suffit de faire la différence. Ainsi une température de 42 C° est ressentie 25 C° et une de -20C° comme une température de 8C°.

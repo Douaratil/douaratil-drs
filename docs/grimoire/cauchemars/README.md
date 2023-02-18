@@ -18,6 +18,7 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Magie  
+
 **Incantation** : *Par mes mots, tes rêves deviendront des cauchemars,*   
 *Ton sommeil sera troublé, tes nuits seront hantées,*    
 *Objet de toi en ma possession,*   

@@ -16,5 +16,14 @@ classes:
     - Foi
 ---
 **Coût** : 8 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Dans la paume de ma main,*   
+*Je ressens la vie en gestation,*   
+*Par la grâce de [dieu tutélaire],*   
+*Je révèle l'enfant en formation.*   
+*Santé et position,*   
+*Tout se révèle par ma vision.*   
+*Que la lumière guide mes pas,*   
+*Et que la vie s'épanouisse en cet endroit.*   
+
 **Description** : En posant sa main sur le ventre, le guérisseur peut diagnostiquer l'état de santé d'un foetus, son positionnement et savoir s'il est normal.  

@@ -20,6 +20,8 @@ classes:
 
 ---
 **Coût** : 2 points de Foi ou de Magie  
+
 **Incantation** : *Par le pouvoir de lavande, je tue la vermine qui s'agrippe.*    
 *Que les parasites soient éliminés, pour toujours!*   
+
 **Description** : Ce sort permet de détruire tous les petits parasites dans une zone donnée, sur les personnes et les objets. Il affecte tout ce qui est tique, puce, morpion, pou...Ils sont instantanément tués.   

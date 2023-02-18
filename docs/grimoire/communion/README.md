@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 10 points de Foi  
+
 **Incantation** : *Ô grand [nom de la divinité], je t'implore de répondre à mes questions.*    
 *Par l'encens et l'eau bénite/maudite, je te fais appel.*    
 *Viens à moi et réponds à mes interrogations.*    

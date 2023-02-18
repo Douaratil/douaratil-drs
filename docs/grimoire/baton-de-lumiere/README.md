@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 16 points de Foi ou de Magie  
+
 **Enchantement** L’héliolite doit rester exposé au soleil pendant toute une journée pour pouvoir lancer le sort. Il faut dépenser 100 PO d'encens et de bougies pour le matériel d'enchantement. La pierre est ensuite certie sur un bâton.  
 **Incantation** : *Par la puissance du soleil, je convoque la lumière à travers mon bâton serti d'héliolite.*     
 *Que la lumière émane de son centre et éclaire les chemins pour moi et ceux que je choisirai.*    

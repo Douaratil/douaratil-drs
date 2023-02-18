@@ -19,6 +19,7 @@ source: "Elric"
 
 ---
 **Coût** : 10 points de Magie    
+
 **Incantation** : *Esprits de la brume, écoutez mon appel,*    
 *Entourez cet antre de votre étreinte fatale,*    
 *Créez une couche de brouillard dense et opaque,*    

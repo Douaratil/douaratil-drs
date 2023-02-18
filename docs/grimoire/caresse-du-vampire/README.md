@@ -16,6 +16,7 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
+
 **Incantation** : *A travers les ombres je puise la vie,*   
 *Et par le contact je soigne mes plaies,*    
 *Je vole ta force pour renforcer ma vie,*   

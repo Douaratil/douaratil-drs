@@ -20,6 +20,7 @@ classes:
 
 ---
 **Coût** : 1 points de Foi ou de Magie
+
 **Incantation** : *Par l'eau de pluie et la magie de mes doigts,*   
 *Je modèle ta chevelure comme un bloc de glaise,*   
 *Ondes, boucles, tresses, frisures ou cheveux lisses,*   

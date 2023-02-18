@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 18 points de Magie  
+
 **Incantation** : *Voix de l'eau, je t'implore*  
 *Viens à moi, porteur d'abondance*   
 *Que ta pluie soit ma défense*  

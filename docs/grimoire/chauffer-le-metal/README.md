@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 4 points de Foi  
+
 **Incantation** : *Gloire au feu, embrase le fer*  
 *Flamme, embrase cette arme*    
 *Brûler, consumer, enflammer*   

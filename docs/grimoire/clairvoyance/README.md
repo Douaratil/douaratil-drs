@@ -19,7 +19,9 @@ classes:
 
 ---
 **Coût** : 6 points de Foi ou de Magie  
+
 **Enchantement** : Le sorcier doit enchanter différents objets suivant les sens qu'il souhaite utiliser. Il choisit un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un œil de verre pour la vue. Il doit dépenser 30 po pour effectuer son rituel et effectuer un rituel pour chaque objet.  
+
 **Incantation** : *Yeux et oreilles de l'invisible,*  
 *Ecoutez ma voix et répondez à mon appel.*   
 *Créez un sens pour moi, pour que je puisse voir et entendre*   

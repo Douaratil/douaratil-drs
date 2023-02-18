@@ -19,6 +19,7 @@ classes:
 
 ---
 **Coût** : 12 points de Foi ou de Magie  
+
 **Incantation** : *Je convoque l'énergie sombre, de laquelle émerge un cercle funeste.*    
 *Les morts réclament leur tribut, que les âmes en vie paient de leur chair.*     
 *Que cette sphère impie déchaîne son pouvoir, et que les malheureux qui s'y trouvent soient submergés par les ténèbres éternelles !*    

@@ -19,6 +19,7 @@ classes:
 
 ---
 **Coût** : 6 points de Foi ou de Magie  
+
 **Incantation** : *Cercle de magie, cercle de pouvoir, en ce lieu, en ce jour, je te crée.*   
 *Protège-nous contre [type de créature], empêche-les d'entrer, de nous charmer ou nous terroriser.*    
 *Que ce cercle de magie nous préserve et nous défende.*    

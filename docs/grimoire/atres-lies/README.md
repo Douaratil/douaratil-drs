@@ -18,6 +18,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Magie
+
 **Incantation** : *Feu éternel, flammes ardentes, liez nos étincelles à travers les distances.*    
 *Avec cendre et encens, je fais le lien, entre ce feu et celui-ci.*    
 *Paroles secrètes ou arcanes puissantes, notre communication sera constante.*     

@@ -16,6 +16,7 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
+
 **Incantation** : *Des feuilles aux racines,*   
 *Du sol jusqu'au sommet,*   
 *Ensemble nous sommes un,*   

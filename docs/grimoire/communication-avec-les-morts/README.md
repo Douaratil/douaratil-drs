@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
+
 **Incantation** : *Esprits de l'au-delà, je vous appelle à répondre à mes questions.*     *Réveillez l'esprit de ce corps et accordez-lui la parole.*    
 *Que ses réponses soient justes et claires, dans le respect de la vie et de la mort.*    
 

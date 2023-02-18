@@ -17,7 +17,9 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Foi ou de Magie  
+
 **Enchantement** : Le mage doit enchanter un un petit sifflet en argent et dépenser 40 po de matériel pour effectuer son rituel.  
+
 **Incantation** : *Par la puissance des plans, je fais appel à un gardien canin.*   
 *Invisible et immobile, il est mon vigilant protecteur.*   
 *Avec cet argent et cet os, je le lie à ce sifflet argenté.*   

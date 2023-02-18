@@ -22,7 +22,9 @@ source: "Elric"
 
 ---
 **Coût** : 2 points de Foi ou de Magie  
+
 **Incantation** : *Par la puissance de l'obscurité, je retire ton nez ou ta langue*  
+
 **Description** : Le sorcier désigne une cible dans son champ de vision et lui supprime l'odorat ou le goût pendant 1 minute l’odorat ou le goût.  
 
 **À plus haut niveau**:   Pour chaque emplacement de surcharge, la durée du sort, double, triple, quadruple, etc...  

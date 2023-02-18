@@ -18,6 +18,7 @@ ritual: false
 
 ---
 **Coût** : 1 point de Foi  
+
 **Incantation** : *Je convie l'amitié de la bête, avec cette nourriture en offrande.*   
 *Que son cœur soit rempli de confiance et de paix en ma présence.*    
 *Que l'Amitié des animaux soit sur nous.*   

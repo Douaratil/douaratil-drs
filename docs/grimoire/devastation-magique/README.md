@@ -18,5 +18,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Magie  
-**Incantation** : 
+
+**Incantation** : *En cet instant, je renie la vie en toi. Que ta puissance s'évapore dans les limbes de la mort.*   
+
 **Description** : Le lanceur de sort ingurgite une substance de la cible comme du sang ou un morceau de peau. La cible effectue un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse contre le lanceur de sort ou voit ses points de magie (PM) réduits à 0.

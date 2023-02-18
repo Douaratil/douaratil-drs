@@ -17,6 +17,7 @@ classes:
 
 ---
 **Coût** : 6 points de Magie  
+
 **Incantation** : *Entre les plans je vais passer, en un clignement de paupière.*    
 *Du matériel à l'éthéré, pour échapper à la galère.*    
 *Puis je reviendrai bien vite, dans un lieu sûr et précis.*    

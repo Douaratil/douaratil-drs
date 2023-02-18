@@ -17,5 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
+
 **Incantation** : *Que la foi en [dieu tutélaire] protège ta chair, par le pouvoir de ces mots, je t'octroie le Bouclier de [dieu tutélaire].*   
+
 **Description** : Un champ scintillant apparaît autour d'une créature de votre choix située à portée et lui confère un bonus de +2 à la VD pendant toute la durée du sort.

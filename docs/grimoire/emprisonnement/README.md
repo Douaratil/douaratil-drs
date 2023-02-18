@@ -17,8 +17,44 @@ classes:
     - Magie
 ---
 **Coût** : 18 points de Magie  
+
 **Enchantement** : Le mage enchante un portrait sur un vélin ou une statuette sculptée à l'effigie de la cible et une composante spéciale qui varie en fonction de la version du sort choisie et vaut au moins 500 po par dé de vie de la cible et dépense 90 po de matériel pour le rituel.  
-**Incantation** : 
+
+**Incantation** : *Du fond de l'âme la plus profonde,*   
+*Des abysses du temps et de l'espace,*   
+*J'invoque les forces de l'univers,*  
+*Et réclame leur pouvoir immense.*   
+ 
+*Que les étoiles scintillantes,*   
+*S'unissent en une danse céleste,*   
+*Et que la lueur de leur éclat,*   
+*Fasse briller l'objet en quête.*   
+
+*Que les éléments s'alignent,*   
+*Et forment une symphonie,*  
+*Pour que le sortilège s'élève,*  
+*Et remplisse le cœur de magie.*   
+
+*Que le vent s'élève en tourbillon,*  
+*Et transporte ma volonté,*   
+*Que la terre frémisse et gronde,*   
+*Et que l'eau s'anime de fluidité.*   
+
+*Que la lumière la plus vive,*   
+*Brille de mille feux ardents,*   
+*Pour que l'ombre s'estompe et dérive,*   
+*Et que la magie agisse en temps.*   
+
+*Que mon esprit soit la clé,*   
+*Qui ouvre les portes de l'au-delà,*  
+*Et que le sortilège soit tissé,*  
+*D'un fil de lumière pure et vraie.*   
+
+*Que mon chant s'élève en prière,*   
+*Et réveille les forces endormies,*   
+*Que le sortilège soit une offrande,*   
+*Et un hommage à la vie infinie.*     
+
 **Description** : Vous créez des entraves magiques pour immobiliser une créature située à portée et dans votre champ de vision. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se retrouver emprisonnée par le sort. Si elle réussit, elle est immunisée contre ce sort si vous le lancez de nouveau. Tant que la créature est affectée par le sort, elle n'a pas besoin de respirer, de manger, ni de boire et ne vieillit plus. Les sorts de divination ne parviennent plus à la localiser ni à la percevoir.
 
 Vous devez opter pour l'une des formes d'emprisonnement suivantes quand vous lancez le sort.

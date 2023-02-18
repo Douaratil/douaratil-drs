@@ -19,7 +19,9 @@ classes:
 source: "Elric"
 ---
 **Coût** : 8 points de Magie  
+
 **Enchantement** Le lanceur de sort enchante une dose d'Hellébore. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
+
 **Incantation** : *Gelées du passé et du présent,*    
 *Dans les profondeurs de la terre enfouies,*    
 *Viens et lève-toi pour former*   

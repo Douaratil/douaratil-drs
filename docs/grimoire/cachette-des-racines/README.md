@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 6 points de Magie  
+
 **Incantation** : *Par les racines de la Terre,*   
 *Par les veines de l'Arbre,*    
 *J'appelle et j'éveille le pouvoir de la nature.*   

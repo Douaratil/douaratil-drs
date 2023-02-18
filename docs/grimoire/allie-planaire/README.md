@@ -17,6 +17,7 @@ classes:
 
 ---
 **Coût** : 12 points de Foi    
+
 **Incantation** : *A travers les limites de l'espace et du temps,*   
 *Je fais appel à toi, être puissant et divin.*  
 *Je te supplie de répondre à ma requête,*   

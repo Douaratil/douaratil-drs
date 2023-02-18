@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Foi ou de Magie  
+
 **Incantation** : *Par la puissance de l'enchantement divin, je t'ordonne d'obéir à mes moindres désirs.*     
 *Que ta volonté se soumette à la mienne pendant trente jours, et que chaque acte de désobéissance te coûte cher.*     
 

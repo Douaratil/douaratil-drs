@@ -19,6 +19,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 points de Magie  
+
 **Incantation** : *Que cette arme de métal devienne redoutable,*    
 *Enveloppée de l'encens enflammé de mes mains,*    
 *Que chaque coup porté soit mémorable,*    

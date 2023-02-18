@@ -18,5 +18,10 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Défunts du passé, reposez en paix,*   
+*Que vos âmes soient libérées,*   
+*Que vos corps restent en paix,*   
+*Et ne succombent pas à la Nécromancie.*   
+
 **Description** : Vous touchez un cadavre ou des restes. La cible ne peut pas se transformer en mort-vivant.  

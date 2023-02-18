@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Foi ou de Magie  
+
 **Réservé Sorser**  
 **Incantation** : *Par la force de ma volonté, j'impose ma domination sur toi. Que mes ordres soient tes seuls désirs, et que ta volonté s'aligne sur la mienne.*    
  

@@ -18,6 +18,7 @@ classes:
 
 ---
 **Coût** : 4 points de Foi ou de Magie  
+
 **Incantation** : *Obscurcir ou assourdir, que mes mots soient entendus,*   
 *Je vous prive de la vue ou du son, créature malvenue,*    
 *Que la malédiction vous enveloppe, impie être des ténèbres,*    

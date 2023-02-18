@@ -17,7 +17,11 @@ classes:
     - Foi
 ---
 **Coût** : 2 point de Foi  
-**Incantation** : 
+
+**Incantation** : Pour la création d'eau : *Que l'eau de la vie jaillisse de mes mains, pour apaiser la soif et désaltérer les corps.*      
+
+Pour la destruction d'eau : *Que le feu de la vie embrase mes mains, pour purifier l'eau et la faire s'évaporer.*    
+
 **Description** : Vous créez ou détruisez de l'eau.
 
 **Création d'eau**. Vous créez jusqu'à 40 litres d'eau potable qui apparaissent à portée, dans un récipient ouvert en une heure pour chaque dizaine de litre. Sinon, l'eau peut tomber en pluie si il y a des nuages dans un cube de 9 mètres d'arête à portée, éteignant toutes les flammes à nu dans la zone.

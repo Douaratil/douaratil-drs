@@ -22,6 +22,8 @@ source: "Elric"
 **Coût** : 4 points de Magie ou de Foi  
 
 **Enchantement**. Le sorcier répand la cendre d’airelle dans la zone afin de l’enchanter. 
+
 **Incantation** : *Que l'air s'électrise et que la guerre soit déclarée !*    
 *Par les cendres d'airelle, je crée une atmosphère explosive et combative !*    
+
 **Description** : Le sorcier qui lance ce sort crée une atmosphère lourde et électrique de 18 mètres de rayon qui enlève 1 point d’action, de magie, de foi ou d'honneur tous les rounds aussi bien aux alliés qu’aux ennemis se trouvant dans la zone. Tout le monde dans la zone du sortilège est plus enclin au combat. Si une provocation est faite, toute personne se trouvant dans la zone doit réussir un JS de Sagesse ou entamer un combat. Ce sort annule et remplace le sortilège « Atmosphère vertueuse ».  

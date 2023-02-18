@@ -17,9 +17,11 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Magie  
+
 **Incantation** : *La peau que tu couvres de tes vêtements,*    
 *Je vais la faire rougir avec ce sort puissant.*     
 *Que ces flammes la brûlent jusqu'à l'os,*     
 *Et que tes cloques soient l'objet de ton chaos.*    
+
 **Description** : Le lanceur de sort désigne sa cible dans les limites de la portée du sort. Celle-ci doit réussi un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 2d6 de dégâts de feu sou forme de brûlure. Les cloques apparaissent sur toutes les parties nues du corps. Elles guérissent normalement mais entraînent de vives douleurs qui donnent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les actions d'athlétisme et d'acrobatie mais aussi de persuasion.   
 Le [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) ne s'applique plus après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   

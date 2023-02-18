@@ -19,6 +19,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Par les artifices de l'esprit, je crée une destination trompeuse.*    
+*Que celui qui cherche la vérité soit égaré, que celui qui suit la trace se perde.*    
+*Que le leurre prenne vie, et que la vérité reste cachée.*   
+
 **Description** : Le sorcier enchante une zone de 10 mètres de rayon en y versant l’eau camouflée en huile.  
 En cas de tentative magique de localisation par scrutation ou tout autre sort de localisation, ce rituel fera apparaître un lieu se trouvant un maximum de 20 km de la véritable location. Le sort est rompu si la zone réelle est atteinte malgré l’enchantement.   

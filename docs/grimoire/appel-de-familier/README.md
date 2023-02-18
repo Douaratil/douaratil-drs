@@ -18,6 +18,7 @@ classes:
 
 ---
 **Coût** : 4 points de Magie  
+
 **Incantation** : *Par les puissances de la terre et de l'air,*  
 *Que les esprits vénérables soient ici.*  
 *Que les forces du ciel et de la mer,*  

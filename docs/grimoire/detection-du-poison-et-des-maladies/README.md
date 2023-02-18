@@ -18,7 +18,11 @@ classes:
   - Foi
 ---
 **Coût** : 2 points de Magie ou de Foi  
-**Incantation** : 
+
+**Incantation** : *Par le pouvoir de la divination, que mes yeux voient l'invisible.*    
+*Que ce brin d'if devienne ma clé, pour déceler poisons et maladies.*    
+*Révèle-toi à moi, ô dangers cachés !*   
+
 **Description** : Pendant toute la durée du sort, vous percevez la présence de poisons, de créatures venimeuses et de maladies dans un rayon de 9 mètres autour de vous. Vous déterminez également leur emplacement et identifiez à chaque fois le type de poison, de créature ou de maladie concerné.  
 
 Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centimètres de pierre, 2,5 centimètres de métal ordinaire, une mince feuille de plomb, ni 1 mètre de bois ou de terre.  

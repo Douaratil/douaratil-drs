@@ -18,7 +18,9 @@ classes:
 
 ---
 **Coût** : 10 points de Foi  
+
 **Incantation** : * : "Aura de puissance, je t'invoque !*    
 *Que ta force protège les âmes choisies.*    
 *Que l'acide, le feu, la foudre, le froid et la mort ne puissent les atteindre. Que leur bras soit fort, leur corps invincible.*     
+
 **Description** : Vous désignez jusqu'à cinq créatures à portée que vous pouvez voir. Vous et les cibles du sort acquérez la résistance aux dégâts d'acide, de foudre, de feu, de froid et nécrotiques pendant toute la durée du sort. Les créatures ciblées et vous-même bénéficiez également d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests et les jets de sauvegarde de Force.

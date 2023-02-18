@@ -17,7 +17,10 @@ classes:
 
 ---
 **Coût** : 14 points de Magie    
-**Incantation** : 
+
+**Incantation** : *Que les éléments s'entremêlent, que la lumière se brise en huit.*    
+*Éclatez en une myriade de couleurs et emplissez l'espace de votre pouvoir !*    
+
 **Description** : Huit traits d'énergie jaillissent de votre main. Chacun possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 2d6 par cible pour savoir quelle couleur l'affecte.  
 
 2-3  **_Feu_**. La cible subit 10d6 dégâts de feu si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.  

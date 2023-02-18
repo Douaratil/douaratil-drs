@@ -18,6 +18,7 @@ classes:
     - Magie
 ---
 **Coût** : 12 points de Magie  
+
 **Incantation** : *Au pouvoir des esprits qui gouvernent les cœurs et les pensées, je demande que ces chaînes invisibles soient tissées.*     
 *Avec cet objet et cette partie organique (nommez les objets), je lie l'esprit de (nommez la cible).*     
 *Qu'elle soit captive de ce lieu précis et qu'elle ne puisse en sortir contre sa volonté.*     

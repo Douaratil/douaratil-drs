@@ -18,6 +18,7 @@ classes:
 
 ---
 **Coût** : 6 points de Foi
+
 **Incantation** : *Sous le ciel noir et l'éclair qui brille, je déchaîne la foudre qui dévaste tout !*   
 *Par ma foi, je m'adresse à l'énergie divine, et je fais appel à la foudre pour brûler mes ennemis !*   
 *Que la lumière aveuglante et les dégâts assourdissants frappent ceux qui se dressent sur ma route ! Appel de la foudre !*   

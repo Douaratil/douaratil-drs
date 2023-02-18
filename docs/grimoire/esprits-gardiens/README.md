@@ -16,7 +16,23 @@ ritual: false
 classes:
     - Foi
 ---
-**Coût** : 6 points de Foi   **Incantation** : 
+**Coût** : 6 points de Foi   
+
+**Incantation** : *Esprits du vent et des cieux,*   
+*Venez à moi, suivez mes vœux.*    
+*Protégez mon âme des ennemis,*    
+*Déchaînez votre colère sur leur visage rougi.*    
+
+*Que leur témérité soit leur chute,*    
+*Qu'ils subissent votre jugement sans aucun but.*   
+*Que votre puissance soit ma défense,*   
+*Et que votre courroux soit leur sentence.*    
+
+*Esprits gardiens, volez à mes côtés,*    
+*Faites tomber les fous qui osent m'affronter.*    
+*Que votre présence soit mon bouclier,*    
+*Et que votre force fasse fuir les plus acharnés.*    
+
 **Description** : Vous appelez des esprits que seul vous pouvez voir et qui vous protègent. Vous semblez entouré de bourrasques de vent. Ils volettent autour de vous dans un rayon de 4,50 mètres pendant toute la durée du sort. Si vous êtes Bon ou Neutre, ils ont une apparence angélique ou féerique (à vous de choisir). Si vous êtes Mauvais, ils ont une apparence fiélone.
 
 Quand vous lancez le sort, vous pouvez désigner autant de créatures que vous le voulez afin qu'il ne les affecte pas. Une créature affectée voit sa vitesse réduite de moitié dans la zone et, quand elle y entre pour la première fois de son tour ou quand elle y commence son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle échoue, elle subit 4d6 dégâts radiants (si vous êtes Bon ou Neutre) ou 4d6 dégâts nécrotiques (si vous êtes Mauvais). Si elle réussit son jet de sauvegarde, elle subit seulement la moitié de ces dégâts.

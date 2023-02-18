@@ -16,7 +16,10 @@ classes:
     - Foi
 ---
 **Coût** : 6 point de Foi  
-**Incantation** : 
+
+**Incantation** : *Que les plantes s'épanouissent, que leur verdure se déploie. Que les bourgeons éclosent et les racines s'ancrent profondément.*    
+*Que la vie jaillisse et se répande en abondance.*     
+
 **Description** : Ce sort décuple la vitalité des plantes d'une zone donnée. Le sort a deux modes d'utilisation, l'un apportant des bénéfices immédiats, l'autre sur le long terme.
 
 **Si vous lancez ce sort en une action, choisissez un point à portée**. Toutes les plantes ordinaires situées dans un rayon de 30 mètres autour de ce point deviennent particulièrement touffues et la végétation s'épaissit. Une créature qui se déplace dans cette zone doit dépenser 1,20 mètre de déplacement pour parcourir 30 centimètres.

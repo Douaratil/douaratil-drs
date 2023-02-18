@@ -20,7 +20,16 @@ classes:
 source: "Elric"
 ---
 **Coût** : 4 points de Magie ou de Foi
-**Incantation** : 
+
+**Incantation** : *De l'obscurité des âmes ensorcelées,*  
+*J'appelle les forces de la mort,*   
+*Que les esprits maléfiques s'emparent des pouvoirs,*   
+*Et dérobent la magie en son fort.*   
+*Que cette boîte dorée scelle leur sort,*   
+*Et fasse taire leur voix,*   
+*Qu'ils ne puissent lancer leur sort,*   
+*Qu'ils perdent leur pouvoir en désarroi.*   
+
 **Description** : Pendant l’incantation, le sorcier ouvre une petite boîte plaquée de feuilles d’or puis referme pendant toute la durée du sort. Pour briser le sortilège, le sorcier ouvre la boîte. La cible est empêchée de jeter les sorts de niveau maître pendant toute la durée du sort.   
 
 

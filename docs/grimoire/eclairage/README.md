@@ -17,5 +17,10 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie   
-**Incantation** : 
+
+**Incantation** : *Lumière en mon cœur, brillance en mes mains,*   
+*Par ma volonté, que l'éclairage vienne,*   
+*Que les ténèbres fuient et que la lumière règne,*    
+*Pour éclairer mon chemin et mes desseins.*  
+
 **Description** : Par ce sort, l'enchanteur peut allumer tout ou partie de ses bougies et lampes à volonté, seulement d'une parole ou d'un claquement de main.

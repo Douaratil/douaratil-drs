@@ -16,7 +16,9 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
+
 **Incantation** : *Sous mon toucher, la chair se putréfie, par la volonté de [dieu tutélaire], que la Blessure soit infligée!*    
+
 **Description** : L’adepte de la Foi qui fait ce sort utilise un puissant sigil mémorisé qu'il trace sur sa main. Lors d’un combat, il doit faire  une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous la touchez, elle subit 3d6 dégâts nécrotiques.  
 
 **À plus haut niveau**.  

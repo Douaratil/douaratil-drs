@@ -18,7 +18,12 @@ classes:
     - Magie
 ---
 **Coût** : 8 point de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Au nom des flots et des rivières, que les eaux obéissent à ma volonté.*    
+*Que ce sort contrôle toute étendue d'eau dans la zone choisie.*     
+*Que mes actions modifient son cours, l'élèvent en une vague, la dévient ou la font tourbillonner.*     
+*Que le pouvoir des eaux soit mien avec ce sort.*    
+
 **Description** : Jusqu'à la fin du sort, vous contrôlez toute étendue d'eau indépendante située dans la zone de votre choix, cette dernière devant tenir dans un cube d'au maximum 30 mètres d'arête. Quand vous lancez ce sort, vous pouvez choisir l'un des effets suivants. À votre tour, vous pouvez utiliser une action pour répéter l'effet ou en appliquer un nouveau.
 
 **Écarter les eaux**. Vous écartez les eaux de la zone pour y créer un passage. Il traverse toute la zone, les eaux formant une muraille de chaque côté. Le passage demeure jusqu'à la fin du sort ou jusqu'à ce que vous optiez pour un effet différent. Dans ces deux cas, l'eau remplit alors progressivement le passage, au fil du round suivant, jusqu'à ce que le niveau de l'eau revienne à la normale.

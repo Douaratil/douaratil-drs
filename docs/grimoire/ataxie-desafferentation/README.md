@@ -21,7 +21,9 @@ source: "Elric"
 
 ---
 **Coût** : 10 points de Foi ou de Magie  
+
 **Incantation** : *Je désigne cette cible, et que ses membres soient pris d'ataxie [ou de désafférentation]!*   
+
 **Description** : Le sorcier désigne une cible dans son champ de vision et lui provoque pendant 1 minute l’ataxie ou la désafférentation.  
     • L’ataxie est un symptôme qui consiste en la perte de coordination des muscles des bras et des jambes lors de mouvements volontaires tels que la marche ou la préhension d’objets. L’ataxie peut aussi affecter la parole, les mouvements des yeux et l’habileté à avaler.  
 Si l’ataxie est provoquée et que le cible ne bouge pas pendant le round, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) DD 22 ou être à terre, et réussir le même test pour se relever.  
