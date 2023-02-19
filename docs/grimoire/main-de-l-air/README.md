@@ -18,5 +18,7 @@ classes:
 source: "Elric"
 ---
 **Coût** : 2 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Vent et souffle, dans mes mains j'apporte, de l'air frais qui jaillit, entre mes doigts se déploie cette énergie infinie.*    
+
 **Description** : Le sorcier se concentre un court instant avant de souffler dans ses mains. Ce sort permet de faire sortir de l’air de ses mains. Ce sort peut être un simple tour pour amuser les enfants ( en plongeant les mains dans l’eau et invoquer le sort ), ou bien une vraie aubaine pour créer une poche d’air dans une cavité sous l’eau.  

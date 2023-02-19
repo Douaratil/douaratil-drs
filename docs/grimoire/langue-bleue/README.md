@@ -18,9 +18,10 @@ classes:
 
 ---
 **Coût** : 10 points de Foi ou de Magie  
-**Incantation** : 
-**Description** : Le sorcier désigne une cible dans son champs de vision qui se trouve jusqu'à 9 mètres.  
 
+**Incantation** : *Que ta langue soit paralysée, que tes paroles soient empêchées*   
+
+**Description** : Le sorcier désigne une cible dans son champs de vision qui se trouve jusqu'à 9 mètres.  
 La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution contre le DD du sort annule immédiatement les effets. En cas d'échec, la cible voit sa langue devenir douloureuse. Elle gonfle et bleuie. Dés qu'elle parle, elle subit 1d6 de dégâts de contusion. Les compétences sociales, les lancements de sorts qui nécessitent des composantes verbales et les compétences athlétiques subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à leur test.
 
 **À plus haut niveau**. Pour chaque emplacement de surcharge, la durée du sort, double, triple, quadruple, etc...  

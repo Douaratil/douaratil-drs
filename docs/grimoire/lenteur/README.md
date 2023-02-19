@@ -17,8 +17,13 @@ classes:
 
     - Magie
 ---
-**Coût** : 6 points de Magie    
-**Incantation** : 
+**Coût** : 6 points de Magie   
+
+**Incantation** : *Temps entravé, les cibles seront,*   
+*Déjà vues, mais plus lentes,*   
+*De la mélasse, l'ingrédient clé,*    
+*D'un geste et d'une parole, leur destin est scellé.*   
+
 **Description** : Vous modifiez le cours du temps autour d'un maximum de six créatures de votre choix situées dans un cube de 12 mètres d'arête situé à portée. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi le sort l'affecte pendant toute sa durée.
 
 Une cible affectée voit sa vitesse réduite de moitié. De plus, elle subit un malus de -2 à la VD et aux jets de sauvegarde de Dextérité et ne peut plus utiliser de réaction. À son tour, elle peut utiliser une action ou une action bonus, mais pas les deux. Elle ne peut pas faire plus d'une attaque au corps-à-corps ou à distance à son tour, quels que soient ses aptitudes et ses objets magiques.

@@ -584,6 +584,11 @@ module.exports = {
                 path: '/poisons/'
               },
               {
+                title: "La santé mentale (SAM)",
+                icon: 'mdi-head-snowflake',
+                path: '/sante-mentale/'
+              },
+              {
                 title: "La folie",
                 icon: 'mdi-freebsd',
                 path: '/folie/'

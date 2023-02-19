@@ -17,5 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Que les âmes blessées soient baignées de lumière, que leur corps soit protégé de la mort, et que la guérison vienne plus vite.*    
+
 **Description** : Ce sort offre espoir et robustesse. Choisissez autant de créatures consentantes à portée que vous le désirez. Pendant toute la durée du sort, elles bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde de Sagesse et des jets de sauvegarde contre la mort. De plus, elles récupèrent le maximum de points d'action possible dès qu'elles reçoivent des soins.

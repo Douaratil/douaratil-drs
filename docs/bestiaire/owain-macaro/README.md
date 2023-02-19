@@ -5,15 +5,15 @@ subtype: "Meldète"
 size: "M"
 alignment: "Chaotique neutre"
 challenge: "11"
-customHP: "33"
+customHP: "57"
 abilityScores:
   for: 10
-  dex: 14
+  dex: 20
   con: 13
   int: 10
-  sag: 10
+  sag: 14
   cha: 10
-customSavingThrows: "for(••) +4, dex(•) +4, con(•) +3, int +0, sag +0, cha +0"
+customSavingThrows: "for(••) +8, dex(•) +9, con(•) +5, int +0, sag +2, cha +0"
 savingThrows:
   - "for"
   - "for"
@@ -21,46 +21,44 @@ savingThrows:
   - "con"
 ac:
   armorType: "custom"
-  value: "13 (Armure de cuir + défense Gwylwir)"
+  value: "21 (Armure de cuir cloutée + défense Gwylwir)"
 skills:
   - name: "custom"
-    value: "acrobatie +2"
+    value: "acrobatie +25"
   - name: "custom"
-    value: "arcanes +15"
+    value: "arcanes +150"
   - name: "custom"
     value: "athlétisme +0"
   - name: "custom"
-    value: "discretion +2"
+    value: "discretion +5"
   - name: "custom"
-    value: "dressage(••) +2"
+    value: "dressage(••) +10"
   - name: "custom"
-    value: "Equitation +2"
+    value: "escamotage +5"
   - name: "custom"
-    value: "escamotage +2"
+    value: "histoire +0"
   - name: "custom"
-    value: "histoire +5"
+    value: "intimidation(•) +4"
   - name: "custom"
-    value: "intimidation(•) +5"
+    value: "investigation +0"
   - name: "custom"
-    value: "investigation +5"
+    value: "medecine +2"
   - name: "custom"
-    value: "medecine +7"
+    value: "nature +0"
   - name: "custom"
-    value: "nature +10"
-  - name: "custom"
-    value: "perception(••) +2"
+    value: "perception(••) +10"
   - name: "custom"
     value: "Perspicacité +2"  
   - name: "custom"
     value: "persuasion +0"
   - name: "custom"
-    value: "religion  +10"
+    value: "religion  +0"
   - name: "custom"
     value: "representation +0"
   - name: "custom"
     value: "supercherie +0"
   - name: "custom"
-    value: "survie(••) +2"
+    value: "survie(••) +10"
 
 movement:
   walk: 9
@@ -79,7 +77,7 @@ category: "PJ"
 *En tant que membre de la résistance, Owain avait tiré parti de ses compétences de tireur pour mener des actions de sabotage contre les troupes de Britomartos Nantono, contribuant ainsi à la victoire de Joan Lugeto à la bataille des rois.*   
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
-**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 31  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 35  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## Capacités
@@ -104,7 +102,7 @@ _**Ennemi juré**_. *(Gwylwir)* Dès le niveau 3, Owain a une expérience signif
 Tous ses tests sociaux excepté intimidation subiront désormais un désavantage.
 Il obtient par contre un avantage sur les tests de Sagesse (Survie) pour traquer vos ennemis jurés, ainsi que sur les tests d'Intelligence permettant de se rappeler d'informations les concernant. Quand il gagne cette aptitude, vous apprenez également une langue de son choix qui est parlée par l'un de ses ennemis jurés.  
 
-_**Explorateur-né**_. *(Gwylwir)* A partir du niveau 4, vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, **forêt**, plaine, montagne ou marais. Ce choix doit être dicté par l’expérience du personnage. Quand vous faites un test d'Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.  
+_**Explorateur-né**_. *(Gwylwir)* A partir du niveau 4, vous êtes particulièrement familier d'un certain type d'environnement naturel et vous avez des facilités à voyager et survivre dans ce type de régions. Choisissez un terrain de prédilection parmi : arctique, littoral, désert, **forêt**, plaine, **montagne** ou **marais**. Ce choix doit être dicté par l’expérience du personnage. Quand vous faites un test d'Intelligence ou de Sagesse lié à votre terrain de prédilection, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.  
 Lorsque vous voyagez une heure ou plus sur votre terrain de prédilection, vous obtenez les bénéfices suivants :  
 • Les terrains difficiles ne ralentissent pas le déplacement de votre groupe.  
 • Votre groupe ne peut pas se perdre, sauf s'il est soumis à un effet magique.  
@@ -145,7 +143,7 @@ _**Hache(••)**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allon
 _Touché_ : 2d6+4 dégâts tranchants (3d6+2 à deux mains). (bonus dégâts attaque supplémentaire Gwylwir n°6 +2)
 
 _**Arc long(••)**_. _Attaque d'arme à distance_ : +17 pour toucher, portée 45/180.  
-_Touché_ : 2d6+9 dégâts perforants .(Style de combat archerie voie des armes + Gwylwir +4), (bonus dégâts attaque supplémentaire Gwylwir n°6 +2)
+_Touché_ : 2d6+9 dégâts perforants .(Style de combat archerie voie des armes + Gwylwir: +4), (bonus dégâts attaque supplémentaire Gwylwir n°6 +2)
 
 _**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+7 dégâts tranchants (Finesse, légère). (bonus dégâts attaque supplémentaire Gwylwir n°6 +2), style de combat à deux armes.   
@@ -190,6 +188,6 @@ Owain possède l'équipement suivant :
 ### Autres informations:  
 **XP acquis** : 87 200    
 **Points de Magie** :10  
-**Points de Foi** :10   
-**Points d'honneur** :20  
+**Points de Foi** :14   
+**Points d'honneur** :32  
 §§§

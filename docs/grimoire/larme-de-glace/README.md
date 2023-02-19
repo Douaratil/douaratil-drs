@@ -19,8 +19,16 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Magie  
+
 **Enchantement** : Le sorcier gèle la larme d’une vierge sur un sommet d’une montagne enneigée, puis la conserve dans une fiole.   
-**Incantation** : 
+
+**Incantation** : *Gèle la larme d'une vierge sur la montagne,*   
+*Dans une fiole elle sera emprisonnée.*   
+*Pour geler tes ennemis, laisse-la tomber,*   
+*Le sol se recouvrira d'un givre froid et glacé.*   
+*Paralysie ou échec, leurs mouvements seront ralentis,*   
+*Gare à ceux qui restent dans la zone, ils seront engourdis.*   
+
 **Description** : Le lanceur de sort laisse tomber la larme au sol qui se recouvre d’un givre extrêmement froid et glissant sur un rayon de 20 mètres. Tout le monde dans la zone effectue un JS de DEX ou subit 1 dégât de froid tous les rounds. Si les cibles souhaitent rester immobiles, elles doivent effectuer un JS de DEX DD 12 ou être à terre. Pour se relever, elles effectuent un JS de DEX DD 8. Pour se déplacer, elles doivent effectuer un JS de DEX DD 22 ou être à terre. Quitter la zone nécessite un JS de CON. De plus, tant que les cibles sont dans la zone, leurs mouvements sont réduits de moitié. Si les cibles n’arrivent pas à quitter la zone de froid en moins de 4 rounds, alors elles sont momentanément paralysée de froid. Ce sort ne peut être lancé qu’à condition que la température ambiante soit déjà inférieure à 0 ou du moins en être proche.  
 
 **À plus haut niveau**. Chaque emplacement de surcharge augmente la durée du sort de 5 rounds.

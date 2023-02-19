@@ -26,7 +26,7 @@ title: Eolide
 *Dès que je l'avais aperçu, j'avais su qu'il était différent des autres utilisateurs de la voie de la magie que j'avais déjà rencontrés. Il avait une longue chevelure argentée mais qui devaient être autrefois d'un noir de jais, qui battait dans le vent et son regard noir me perçait. Il portait une cape grise qui semblait se mouvoir avec l'air, comme s'il était lui-même un élément de la nature.*    
 *Une tempête s'était levé, comme il en existait dans ce pays du sud, toujours courtes et violentes. Pourtant, malgré cette force dévastatrice, Eolide était toujours debout, sa cape flottant autour de lui alors qu'il semblait canaliser la magie de la tempête. Il semblait être en parfaite harmonie avec les éléments, comme s'il était lui-même une extension de la nature.*   
 *Il me fit signe de m'avancer et m'indiqua une maison de pierre sur la colline que j'aperçus entre deux éclairs.*  
-**Souvenir des aventures de Gwion Gornoc l'Ambeanamos.**
+**Des terres et des hommes de Xeophon d’Avalina .**
 §§§
 
 ## Aptitudes d'Archétype

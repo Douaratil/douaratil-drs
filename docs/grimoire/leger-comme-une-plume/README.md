@@ -17,5 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Léger comme l'air, douce comme la plume, que la chute soit ralentie, en cet instant présent.*    
+
 **Description** : Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de chute reste normale mais la hauteur est ignorée jusqu'à 18 mètres.

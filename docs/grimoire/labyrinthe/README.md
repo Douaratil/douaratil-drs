@@ -17,7 +17,10 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie    
-**Incantation** : 
+
+**Incantation** : *Par les chemins sinueux de l'esprit, je te bannis dans un labyrinthe en dehors de tout temps et de tout lieu.*    
+*Que la trame du dédale t'ensorcèle et t'ensorcèle encore, jusqu'à ce que ta volonté brise les murs de l'illusion.*    
+
 **Description** : Vous bannissez une créature située à portée et dans votre champ de vision dans un demi-plan labyrinthique. La cible y reste pendant toute la durée du sort, ou jusqu'à ce qu'elle s'échappe du dédale.
 
 Elle peut utiliser une action pour tenter de s'évader. Pour cela, elle effectue un test d'Intelligence DD 20. Si elle le réussit, elle s'échappe et le sort se termine.

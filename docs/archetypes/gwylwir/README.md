@@ -23,8 +23,10 @@ title: Gwylwir
 |**20**|[Tueur d'ennemis](#tueur-d-'-ennemis),  [Véritable Gwylvir](#veritable-gwylvir)|
 
 ## Gwylwir
-&nbsp;
-[![Gwylwir](https://www.douaratil.fr/illustrations/archetype/gwylwirm.png)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpg)  
+§§§ .hero
+"*En voyageant au nord de l'empire, en terres meldètes, celles qu'ils appellent Douaratil, je rencontrai un nouveau personnage emblématique de la culture sauvage et mystérieuse des Meldètes: le Gwylvir.*   
+*L'homme était de bonne taille et ne portait pas de vêtements raffinés. Sa cape de couleur vert de gris se fondait sensiblement avec l'environnement. Il portait sur son épaule un carquois rempli de flèches. Il portait deux épées courtes et une dague à la ceinture. Sa min droite tenait fermement un arc long. Je demandais s'il s'agissait d'un éclaireeur ou d'un forestier mais mion interlocuteur me sourit. Il me répondit qu'il s'agissait d'un Gwylvir, un archer sans nul autre pareil.*   
+**Des terres et des hommes de Xeophon d’Avalina.**
 
 ## Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
