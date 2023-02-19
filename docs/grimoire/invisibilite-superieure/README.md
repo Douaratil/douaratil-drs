@@ -18,5 +18,7 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Magie    
-**Incantation** : 
+
+**Incantation** : *Le monde se tait, les yeux se ferment, à mon commandement*    
+
 **Description** : Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) jusqu'à ce que le sort se termine, ou vous pouvez accorder cet effet à une créature consentante que vous touchez. Tout ce que porte la cible devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) tant que les objets restent sur sa personne.

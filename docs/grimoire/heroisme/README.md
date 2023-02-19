@@ -18,7 +18,10 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Foi ou de Magie   
-**Incantation** : 
+
+**Incantation** : *De l'ombre à la lumière, ton courage brille désormais.*    
+*Sois fort, sois intrépide, que ta bravoure ne faiblisse jamais.*   
+
 **Description** : Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à la fin du sort, elle est immunisée contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) et, au début de chacun de ses tours, elle gagne un nombre de points d'Action temporaires égal à votre modificateur de caractéristique d'incantation. Quand le sort se termine, la cible perd les éventuels points de vie temporaires restants issus de ce sort.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau de Disciple ou supérieur, vous pouvez affecter une créature de plus par niveau au-delà du niveau de Novice.   

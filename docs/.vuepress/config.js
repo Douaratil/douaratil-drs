@@ -291,6 +291,11 @@ module.exports = {
               icon: 'mdi-celtic-cross',
               path: '/archetypes/drodan',
             },
+            {
+              title: "Eolide",
+              icon: 'mdi-lightning-bolt-outline',
+              path: '/archetypes/eolide',
+            },
           {
               title: "Fürtane",
               icon: 'mdi-sword',

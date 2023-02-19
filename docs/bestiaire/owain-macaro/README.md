@@ -78,6 +78,7 @@ category: "PJ"
 *Owain était un expert en la matière de la chasse et de la traque. Il était un tireur d'élite avec un arc, capable de viser et de toucher sa cible avec une précision mortelle. Il avait développé ces compétences au fil des années passées en tant que bandit, traquant les voyageurs et les caravanes pour survivre.*
 *En tant que membre de la résistance, Owain avait tiré parti de ses compétences de tireur pour mener des actions de sabotage contre les troupes de Britomartos Nantono, contribuant ainsi à la victoire de Joan Lugeto à la bataille des rois.*   
 **Souvenirs d'Ailynn la voyageuse**   
+§§§   
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 31  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     

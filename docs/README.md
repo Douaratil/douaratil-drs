@@ -19,7 +19,10 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 **Règles**
 - Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [éclairage](/grimoire/eclairage).   
 - Refonte des règles d'[affrontement social](/passion-honneur-et-interactions-sociales/#honneur-&-interactions-sociales).    
-Des règles de réputation viendront s'ajouter prochainement.    
+Des règles de réputation viendront s'ajouter prochainement.   
+
+**Archétype**
+- Arrivée d'un nouvel Archétype de mage, un sorcier des tempêtes, l'[Eolide](/archetypes/eolide)
 
 Bon jeu.     
 §§§ .text-right

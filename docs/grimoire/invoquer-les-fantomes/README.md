@@ -17,7 +17,12 @@ classes:
     - Magie
 ---
 **Coût** : 14 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Esprits errants de l'au-delà, je vous appelle à moi.*    
+*De la terre d'un cimetière hanté, je vous donne vie.*    
+*Ombres oubliées, prenez forme et obéissez à mes ordres.*    
+*Venez à moi, mes fantômes, et devenez mes alliés.*    
+
 **Description** : Vous invoquez un fantôme qui à les caractéristique d'un [spectre](/bestiaire/spectre). Choisissez une zone de terre occupant un cube de 3 mètres d'arête situé à portée. Un spectre apparaît dans un espace inoccupé situé dans un rayon de 3 mètres autour d'elle.
 
 Le spectre se montre obéissant envers vous et neutre envers vos compagnons. Déterminez son initiative, sachant qu'il dispose de ses propres tours de jeu. Il obéit aux ordres verbaux que vous lui donnez (sans que cela vous demande d'utiliser une action). En l'absence d'ordre, il se défend contre les créatures hostiles, mais n'entreprend pas d'autre action.

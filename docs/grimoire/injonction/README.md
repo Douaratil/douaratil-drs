@@ -19,7 +19,9 @@ classes:
 
 ---
 **Coût** : 2 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Obéïs !*   
+
 **Description** : Vous lancez un ordre d'un mot à une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle exécute votre ordre à son prochain tour. Le sort reste sans effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si votre ordre la met directement en danger.
 
 Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre différent de ceux présentés ici mais, dans ce cas, c'est au MJ de décider comment la victime se comporte. Le sort se termine si elle se trouve dans l'incapacité d'obéir à l'ordre reçu.

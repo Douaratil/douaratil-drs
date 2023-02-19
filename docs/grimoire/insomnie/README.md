@@ -18,6 +18,11 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *De l'obscurité de la nuit jusqu'à la lumière du jour,*   
+*Je chasse le sommeil et la paix de ton âme.*   
+*Des rêves insondables te tiendront éveillé,*   
+*Et le sommeil qui t'échappe, tu ne pourras retrouver.*    
+
 **Description** : Ce sort est un peu différent de cauchemars. La victime de ce sort a beaucoup de mal à récupérer de ses nuits de sommeil. Elle ne récupère que la moitié de ses [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Le sorcier doit connaître sa cible ou posséder un de ses objets, la distance n'entre pas en ligne de compte pour ce type de sortilège.  
 Il n'est pas possible de résister à ce sortilège, à moins d'aller en tuer la source ou que le sorcier arrête de lancer son sort.   

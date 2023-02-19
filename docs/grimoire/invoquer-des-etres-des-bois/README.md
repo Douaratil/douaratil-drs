@@ -15,17 +15,23 @@ components:
 ritual: false
 classes:
     - Foi
+  
 
 ---
 **Coût** : 8 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Par les bois sacrés et la magie des fées, j'invoque les esprits de la forêt.*    
+*Entendez mon appel et venez à moi, ô gardiens des arbres et des plantes.*    
+*Avec cette baie de houx, je vous offre mon amitié et vous demande votre aide.*    
+*Venez à moi, êtres des bois !*    
+
 **Description** : Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Une créature féerique dont l'indice de dangerosité est inférieur ou égal à 2.
 * Deux créatures féeriques dont l'indice de dangerosité est inférieur ou égal à 1.
 * Quatre créatures féeriques dont l'indice de dangerosité est inférieur ou égal à 1⁄2.
 * Huit créatures féeriques dont l'indice de dangerosité est inférieur ou égal à 1⁄4.
 
-Une créature invoquée disparaît dès qu'elle tombe à 0 point de vie ou quand le sort se termine.
+Une créature invoquée disparaît dès qu'elle tombe à 0 point d'action ou quand le sort se termine.
 
 Les créatures invoquées se montrent amicales envers vous et vos compagnons. Déterminez une initiative pour les créatures invoquées, elles forment un groupe qui dispose de ses propres tours de jeu.. Les créatures féeriques obéissent aux ordres verbaux que vous leur donnez (sans que cela vous demande d'utiliser une action). En l'absence d'ordre, elles se défendent contre les créatures hostiles, mais n'entreprennent pas d'autre action.
 

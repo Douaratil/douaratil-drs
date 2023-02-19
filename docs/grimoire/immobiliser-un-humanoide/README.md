@@ -20,7 +20,12 @@ classes:
 
 ---
 **Coût** : 4 points de Foi ou de Magie
-**Incantation** : 
+
+**Incantation** : *Immobiles vous serez, entravés par le fer.*   
+*Votre corps ne bougera pas, votre esprit ne fera que se taire.*   
+*Par ce sort, vous êtes paralysé.*    
+*Que votre esprit s'en souvienne jusqu'à la fin de sa durée.*    
+
 **Description** : Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi il est [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) pour toute la durée du sort. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, vous pouvez viser un humanoïde de plus par niveau au-delà du niveau de Novice. Les humanoïdes visés doivent se trouver à 9 mètres ou moins les uns des autres au moment où vous lancez le sort.

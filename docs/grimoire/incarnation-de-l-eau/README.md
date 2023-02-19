@@ -18,8 +18,13 @@ classes:
 source: "Elric"
 ---
 **Coût** : 30 + 3d6 points de Foi  
+
 **Réservé Dorshaïre**  
-**Incantation** : 
+
+**Incantation** : *Ô élément de l'eau, accepte cette offrande, ce saphir d'une valeur inestimable, pour que je puisse me fondre en toi et devenir ton avatar.*     
+*Que la surface de l'eau devienne mon corps, que je puisse nager librement et que ta force soit mienne.*    
+*Que cette transformation ne soit pas sans coût, car je suis prêt à donner ma vie et ma foi pour te servir.*     
+
 **Description** : La Dorshaïre trempe le saphir qu'il tient dans sa main, dans une source d'eau. L'eau et le sorcier viennent ne former plus qu'un. Elle ne peut prendre sa forme élémentaire que sur la surface de l'eau. La Dorshaïre peut alterner entre sa forme physique et sa forme élémentaire au prix d'une action bonus. Dans sa forme élémentaire, la Dorshaïre obtient les caractéristiques d'un [Elémentaire de l'eau](/bestiaire/elementaire-de-l-eau) majeur d'un ID de 18 soit :  
 
 **Valeur de défense** 14 (armure naturelle)  

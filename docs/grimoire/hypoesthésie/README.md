@@ -17,7 +17,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 6 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Sans douleur, ni frisson, ni sensation,
+Ta peau devient impénétrable à la douleur et la sensation.*    
+
 **Description** : Le sorcier touche une cible provoquant une hypoesthésie chez sa victime, c’est à dire une insensibilité au toucher ainsi qu’à la chaleur et au froid. Cette condition peut dispenser une personne de test de volonté en cas de douleur ou d'effort mais l'organisme reste normalement sensible (dégâts, épuisement).  
 Une cible non consentante à droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).  
 La perte de l'information de la douleur est très dangereuse.   

@@ -17,9 +17,13 @@ classes:
     - Magie
 ---
 **Coût** : 12 point de Magie  
+
 **Enchantement** : Le mage prend une quantité choisie de magnétite de bonne qualité. Il magnétise le produit en se concentrant dessus et en l'exposant soit à un soleil à son zenith par une journée sans nuage ou aux rayons d'une pleine lune.  
 Il peut ainsi enchanter 10 gr par heure de concentration. La magnétite s'agrège en petites boules. Un aimant peut détruire cette construction par simple contact. Une boule de magnétite survie dans cette forme pendant un an.   
-**Incantation** : 
+
+**Incantation** : *Par le pouvoir de la magnétite et de la poussière, je fais appel à l'énergie des étoiles.*    
+*Que ce rayon invisible consume ma cible et la réduise en poussière !*    
+
 **Description** : Vous pointez le doigt vers une cible située dans votre champ de vision et à portée. La cible peut être une créature, un objet ou une création de force magique, comme une barrière issue d'un <ST s="mur-de-force"/>.
 
 Une créature visée par ce sort doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle le rate, elle subit 10d6+40 dégâts de force. Si ces dégâts la réduisent à 0 point d'action, elle meurt en 1d6 rounds d'irradiation.

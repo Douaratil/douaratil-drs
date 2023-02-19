@@ -20,7 +20,11 @@ classes:
 
 ---
 **Coût** : 8 points de Foi ou de Magie
-**Incantation** : 
+
+**Incantation** : *Esprits des éléments, je vous invoque en ces lieux.*    
+*Venez à moi et répondez à mon appel.*     
+*Obéissez à mes ordres et combattez pour moi. Que votre pouvoir se manifeste !*    
+
 **Description** : Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Un élémentaire dont l'indice de dangerosité est inférieur ou égal à 2.
 * Deux élémentaires dont l'indice de dangerosité est inférieur ou égal à 1.
