@@ -18,5 +18,10 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *De mes doigts experts, je façonne les ongles avec art,*   
+*La couleur et la forme, à ma guise, je crée de toutes parts.*    
+*Une goutte d'huile pour activer le sort,*    
+*Et pour sept jours, la manucure sera belle et forte.*   
+
 **Description** : Le magicien peut créer l'effet d'une manucure sur des ongles en les touchant avec un de ses index. Il peut en changer l'aspect et la longueur (un petit peu).

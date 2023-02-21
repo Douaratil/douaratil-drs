@@ -20,7 +20,12 @@ classes:
 
 ---
 **Coût** : 2 points de Magie ou de Foi  
-**Incantation** : 
+
+**Incantation** : *Les blessures sont nombreuses,*   
+*Le souffle court, le corps exsangue,*   
+*Mais par la magie de ma voix,*    
+*Que la force en toi se ravive !*   
+
 **Description** : Une créature de votre choix située à portée et dans votre champ de vision récupère un nombre de points d'action égal à 1d6 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Disciple ou supérieur, les soins augmentent de 1d6 par niveau au-delà du niveau de Novice.

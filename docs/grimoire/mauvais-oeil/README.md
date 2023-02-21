@@ -18,7 +18,9 @@ classes:
     - Magie
 ---
 **Coût** : 12 point de Magie  
-**Incantation** : 
+
+**Incantation** : *Par le pouvoir des ténèbres, que ce regard maudit inflige des tourments !*   
+
 **Description** : Pendant la durée du sort, vos yeux semblent devenir deux trous noirs regorgeant d'un pouvoir terrifiant. Une créature de votre choix, située dans votre champ de vision et dans un rayon de 18 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se voir affectée par l'un des effets suivants, choisi par vos soins, pendant toute la durée du sort. À chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour viser une autre créature, mais vous ne pouvez pas reprendre pour cible une créature ayant déjà réussi un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'incantation de mauvais œil en cours.
 
 **Nauséeux**. La cible est affectée par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). Elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse à la fin de chacun de ses tours. L'effet se termine si elle le réussit.

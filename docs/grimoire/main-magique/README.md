@@ -17,8 +17,19 @@ classes:
     - Magie
 ---
 **Coût** : 10 point de Magie  
+
 **Enchantement** Le sorcier enchante un gant en peau de serpent pendant une nuit complète. Il a pour cela besoin d'un gants, de 50 po de matériel (encens, bougies...) et d'une nuit sans lune ou d'une éclipse lunaire.
-**Incantation** : 
+
+**Incantation** : *Main de force, immense et puissante,*   
+*À moi désormais obéissante.*   
+*Avec ce gant et coquille d'œuf,*   
+*Je crée un bras magique, aussi robuste que veuf.*   
+
+*Qu'elle saisisse, broie ou protège,*   
+*Elle ne fléchira jamais, tel un noble siège.*   
+*Je commande, elle agit,*    
+*Telle est la loi qui la lie à moi pour toute la durée du rite.*    
+
 **Description** : Vous créez une main de force luisante et translucide, de taille G, dans un espace inoccupé situé à portée et dans votre champ de vision. La main existe pendant toute la durée du sort, se déplace sur votre ordre et imite les mouvements de votre propre main.
 
 La main est un objet doté d'une VD de 20 et d'un nombre de points d'action égal à votre maximum de points d'action. Si elle tombe à 0 point d'action, le sort se dissipe. La main possède une Force de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.

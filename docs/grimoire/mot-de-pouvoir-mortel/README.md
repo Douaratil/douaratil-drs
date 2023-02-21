@@ -17,5 +17,12 @@ classes:
     - Magie
 ---
 **Coût** : 18 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Des abysses glacées de la mort,*    
+*un mot de pouvoir surgit,*    
+*impitoyable,*   
+*Sa cible, frêle et vulnérable,*     
+*plie et s'effondre,*    
+*inévitable.*    
+
 **Description** : Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points d'action ou moins, elle meurt, sinon le sort n'a aucun effet.

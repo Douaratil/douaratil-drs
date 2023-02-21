@@ -18,7 +18,31 @@ classes:
     - Magie
 ---
 **Coût** : 32 points de Foi ou de Magie  
-**Incantation** : 
+
+**Incantation** : *Esprits des ténèbres, entendez mon appel,*   
+*En ces nuits de lune noire, je vous offre mon sang,*    
+*Et cette onyx noire de mille ombres,*   
+*Pour maudire cette terre qui a suscité mon ire.*    
+
+*Que cette malédiction funeste s'abatte sur ce lieu,*   
+*Que les âmes des défunts hurlent en chœur,*   
+*Que les rivières deviennent des lacs de sang,*   
+*Que les arbres se dessèchent, que les champs ne produisent rien.*    
+
+*Que les êtres qui foulent cette terre soient maudits,*   
+*Que leurs souffrances soient insupportables, que leur vie soit en peine,*    
+*Qu'ils n'aient plus aucun espoir, que leur âme soit en peine,*    
+*Jusqu'à ce que la quête épique les libère de leur malédiction.*    
+
+*Que cette malédiction funeste soit mon fardeau,*    
+*Et que le poids de ma souffrance soit leur lot,*   
+*Qu'ils sachent que leur douleur est ma jouissance,*    
+*Et que leur fin sera ma victoire.*    
+
+*Esprits des ténèbres, vous avez entendu mon appel,*    
+*Que ma malédiction funeste soit gravée dans cette terre,*    
+*Et que ma volonté soit faite.*    
+
 **Description** : Par le sort de Malédiction, le sorcier peut maudire une personne, une population ou un lieu ou un mélange de tout cela. Il doit voir sa cible pour la maudire ou être sur un lieu spécifique.  
 La malédiction funeste est très coûteuse pour le sorcier car il faut considérer qu'il s'agit d'un sort continuellement actif et prend la place d'un sort de concentration. Elle dure toute la vie du sorcier.  
 La malédiction funeste a une portée dépendant des caractéristiques du sorcier selon le calcul suivant : 1 km de rayon par point de modificateur de caractéristique d'Intelligence et de Sagesse.  

@@ -19,8 +19,14 @@ classes:
 source: "Elric"
 ---
 **Coût** : 14 points de Foi    
-**Incantation** : 
+
+**Incantation** : *Sur les flots cristallins, nos pas iront,*   
+*Au-delà des limites de l'horizon.*    
+*Les eaux nous porteront, sans un bruit,*   
+*En grâce et en paix, pour notre plus grand plaisir.*   
+
 **Description** : Ce sort permet de donner jusqu'à 4 personnes, la possibilité de marcher sur l'eau. Tant que le bénéficiaire du sort reste à la surface de l'eau, le sort fait effet. Cependant, il est très dur pour une personne non entrainée donc autre qu'une personne qui emprunte la Voie de la Magie de croire à ce miracle. Ainsi, un adepte de la Voie de l'ombre doit réussir chaque round un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 12 et un adepte de la Voie des armes un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD16 à chaque round ou mettre fin au sort.  
+
 §§§ .hero
 "*Plouf!*."    
 "*- Je n'arrive pas y croire!*."  
