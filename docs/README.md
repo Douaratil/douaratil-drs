@@ -17,7 +17,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 ## Mise à jour 173
 **Règles**
-- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [éclairage](/grimoire/eclairage).   
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie).   
 - Refonte des règles d'[affrontement social](/passion-honneur-et-interactions-sociales/#honneur-&-interactions-sociales).    
 Des règles de réputation viendront s'ajouter prochainement.   
 
@@ -27,7 +27,7 @@ Des règles de réputation viendront s'ajouter prochainement.
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 17 février 2023_
+_le 21 février 2023_
 §§§
 
 ## Mise à jour 172

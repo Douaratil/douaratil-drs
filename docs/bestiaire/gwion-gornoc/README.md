@@ -67,6 +67,7 @@ languages:
   - "le Weslèdh (3/3), le Mèlde (3/3), le Nordhème (3/3) et écrit le Oghen (0/1), Magus (1/1)"
 category: "PJ"
 ---
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Gwion Gornoc V3.1 20230214.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Gwion Gornoc PDF</v-btn>
 ## <v-icon>mdi-human-greeting</v-icon>  Gwion Gornoc    
 §§§ .hero
 *Gwion était un sorcier meldète redouté et redoutable, éduqué par l’ambeanamos Siarl Dylluan. Bien que la nature ne l’ait pas épargné étant accablé par une dépigmentation de la peau, par une vue abîmée avec ses yeux blancs, par des doigts crochus qui ne lui permettaient pas d’être très adroit, par des problèmes de claudication et par une légère bosse au dos qui l’empêchaient de se mouvoir avec aisance, il put s’élever à un haut rang de puissance par sa ruse et son ambition et grâce une légère félonie qui lui attirèrent de nombreux ennuis. Il gardait cependant le souhait d’œuvrer pour la volonté générale même si les moyens utilisés n’étaient pas les meilleurs. Le destin lui permit de se lier d’amitié avec de nombreuses puissantes personnes comme Thorleik ou Margs.*     
@@ -294,6 +295,6 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 
-Mise à jour du 04/02/2023
+Mise à jour du 14/02/2023
 
 §§§

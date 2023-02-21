@@ -48,7 +48,7 @@ skills:
   - name: "custom"
     value: "perception +4"
   - name: "custom"
-    value: "perspicacité(•) +8"
+    value: "perspicacité(•) +9"
   - name: "custom"
     value: "persuasion -1"
   - name: "custom"
@@ -66,7 +66,7 @@ languages:
   - "le Weslèdh (3/1), le Khern (3/1), l'Alcath/l'Alcane (2/0), Yezhsakr (1/1), Sogh 2/0)"
 category: "PJ"
 ---
-
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Margs Maenkalon V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Margs Maenkalon PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Margs Maenkalon
 §§§ .hero
 *Margs Maenkalon était un guerrier bhegelm et en tant que tel garant de la loi religieuse khernaëe. Il veillait à faire appliquer les leznens, les lois orales. Les Khernaës pouvaient être décrits comme farouches, et Margs en était le parfait exemple. Il avait la peau mate, des cheveux bruns et une tête rasée sur le côté, ce qui lui donnait un regard insondable. De stature moyenne mais musculeuse, il pesait cent quatre vingt livres et portait une barbe fournie longue et une chevelure graissée, rasée sur le côté du crâne. Une cicatrice entre ses omoplates lui rappelait le trait d'un archer alcante.*   
@@ -75,7 +75,7 @@ category: "PJ"
 §§§  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 50       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 25     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique**. Inquisiteur.   
 **Compétences**. Intimidation, Religion.  
@@ -86,7 +86,7 @@ category: "PJ"
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
 
-_**Voie des armes & Bhegelm**_. Margs est niveau 7 dans la voie des armes et Archétype Bhegelm.
+_**Voie des armes & Bhegelm**_. Margs est niveau 16 dans la voie des armes et Archétype Bhegelm.
 
 _**Style de Combat à deux armes**_. *(Armes)* Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
@@ -147,7 +147,7 @@ _Touché_ : 2d6+3 dégâts tranchants (3d6+1 à deux mains).
 _**Hachette(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+1 dégâts tranchants (légère, portée 6/18).
 
-_**Epée courte(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
+_**Epée courte(•)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).  
 
 _**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
@@ -190,12 +190,16 @@ Margs possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +9**  
 **DD de Sauvegarde: 12**  
-**Novice** : [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [mot de guérison](/grimoire/mot-de-guerison).  
+**Novice** : [Amélioration de caractéristique](/grimoire//grimoire/amelioration-de-caracteristique/), [arme magique](/grimoire/arme-magique), [Balisage](/grimoire/balisage), [Choc des titans](/grimoire/choc-des-titans/), [Épargner les mourants](/grimoire/epargner-les-mourants/), [mot de guérison](/grimoire/mot-de-guerison), [Vision dans le noir](/grimoire/vision-dans-le-noir/).  
+
+**Disciple**:[Communication avec les morts](/grimoire/communication-avec-les-morts/), [Jeter une malédiction](r/grimoire/jeter-une-malediction/),   
+
+**Apprenti**:  [Allié planaire](/grimoire/allie-planaire/),  [Passage par les arbres](/grimoire/passage-par-les-arbres/), [Transport végétal](/grimoire/transport-vegetal/),
 
 **Sorts accessibles à apprendre**:   
-**Novice**: [Amélioration de caractéristique](/grimoire//grimoire/amelioration-de-caracteristique/), [Choc des titans](/grimoire/choc-des-titans/), [Épargner les mourants](/grimoire/epargner-les-mourants/), [Vision dans le noir](/grimoire/vision-dans-le-noir/),   
-**Disciple**:[Communication avec les morts](/grimoire/communication-avec-les-morts/), [Jeter une malédiction](r/grimoire/jeter-une-malediction/),   
-**Apprenti**:  [Allié planaire](/grimoire/allie-planaire/),  [Passage par les arbres](/grimoire/passage-par-les-arbres/), [Transport végétal](/grimoire/transport-vegetal/),   
+**Novice**:   
+**Disciple**:
+**Apprenti**:  [Transport végétal](/grimoire/transport-vegetal/),   
 §§§
 
 §§§ .hero
@@ -222,10 +226,10 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH, *Bataille des rois haut fait légendaire +10**  
-**XP acquis** : 202 675 XP    
+**XP acquis** : 239 185 XP    
 **Points de Magie** :8   
 **Points de Foi** :18    
-**Points d'honneur** :41    
+**Points d'honneur** :55    
 **Guilde des guerrier** Novice 50po/lune, Réseau de guilde, train de vie modeste.    
 **Place au siège du cercle druidique de Kernac**: 1d6X10pp/lune  
 **Direction du cercle druidique**: 1d6X 10pp/lune  

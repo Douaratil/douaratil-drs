@@ -66,6 +66,7 @@ languages:
   - "Le Shahim/Shahiate (3/3), Assyrhiote/Syride (5/5), Cyrénide/Syride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3), Syrioth/Syride (3/3); Assyrith/Syride(3/3) "
 category: "PJ"
 ---
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Sawrina Semiramis V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Sawrina Semiramis PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Sawrina Semramis   
 §§§ .hero
 *Sawrina était une jeune Assyrhim, issue d'une famille aisée de Shahia. Elle avait choisi de suivre les études pour devenir guérisseuse. Cependant, sa vie a pris un tournant dramatique lorsqu'elle a été enlevée par des Assyr'hims et entraînée pendant des mois avant d'être vendue comme esclave assassin à un mystérieux client. Elle a été retrouvée enfermée dans un sarcophage métallique, mais a été libérée par de nouveaux compagnons. Maintenant, Sawrina savait qu'elle serait pourchassée pour le reste de sa vie.*  
@@ -84,7 +85,7 @@ _**Historique  Médecin:**_.
 
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 
-_**Voie des ombres & Nayane**_. Sawrina est niveau 15 dans la voie des ombres et Archétype Nayane.  
+_**Voie des ombres & Nayane**_. Sawrina est niveau 17 dans la voie des ombres et Archétype Nayane.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : Acrobatie & Représentation, survie, perception**  
 

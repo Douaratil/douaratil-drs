@@ -70,14 +70,14 @@ category: "PJ"
 ## <v-icon>mdi-human-greeting</v-icon> Owain Macaro
 §§§ .hero
 *Owain était un Meldète de vingt quatre printemps. Il avait la peau blanche, les cheveux blonds qui retombaient sur ses épaules et des yeux très bleus. De grande stature, il mesure six pieds pour cent soixante livres. Mordu par un loup durant l'hiver, il arborait une grosse cicatrice au niveau la clavicule gauche.*   
-*Owain était autrefois un bandit qui vivait dans les marais de Geunddon. Cependant, après avoir juré allégeance à Gaenor Lugeto, le maître des marais, et pour expier ses crimes, il avait commencé à se racheter en servant son Genos en tant qu'éclaireur et pisteur. Sa haine envers les Khernaës était née de la guerre contre Rek Goulvening Moisan. Cependant, après la chute de Gaenor Lugeto, Owain s'était temporairement allié à l'usurpateur Britomartos Nantono pour des raisons politiques.*   
+*Owain était autrefois un bandit qui vivait dans les marais de Geunddon. Cependant, après avoir juré allégeance à Gaenor Lugeto, le maître des marais, et pour expier ses crimes, il avait commencé à se racheter en servant son Genos en tant qu'éclaireur et pisteur. Sa haine envers les Khernaës était née de la guerre contre Rek Goulvening Moisan. Cependant, après la chute de Gaenor Lugeto, Owain s'était temporairement allié à l'usurpateur Britomartos Nantono pour des raisons politiques.*    
 *Cependant, les politiques répressives de Britomartos et de ses alliés Meldètes et Khernaës avait fini par détourner Owain de son soutien. Il était ainsi devenu l'un des meneurs de la résistance et avait rallié les forces du clan Macaro à la cause de Joan Lugeto, la légitime héritière du trône de Caohaydhan. Ensemble, ils avaient remporté la bataille des rois et Joan avait repris son trône.*  
 *Depuis, Owain a continué à servir Joan en tant qu'éclaireur et pisteur, mettant à profit ses compétences acquises au cours de son passé trouble pour protéger le royaume et sa reine. Malgré son passé, il est profondément dévoué à Joan et est prêt à tout pour défendre son honneur et celui de son clan.*       
 *Owain était un expert en la matière de la chasse et de la traque. Il était un tireur d'élite avec un arc, capable de viser et de toucher sa cible avec une précision mortelle. Il avait développé ces compétences au fil des années passées en tant que bandit, traquant les voyageurs et les caravanes pour survivre.*
 *En tant que membre de la résistance, Owain avait tiré parti de ses compétences de tireur pour mener des actions de sabotage contre les troupes de Britomartos Nantono, contribuant ainsi à la victoire de Joan Lugeto à la bataille des rois.*   
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
-**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 35  
+**<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 37  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## Capacités
@@ -190,4 +190,12 @@ Owain possède l'équipement suivant :
 **Points de Magie** :10  
 **Points de Foi** :14   
 **Points d'honneur** :32  
+§§§
+
+§§§ .hero
+### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
+- grosse cicatrice au niveau la clavicule gauche (20 cm).
+
+Mise à jour du 21/02/2023
+
 §§§
