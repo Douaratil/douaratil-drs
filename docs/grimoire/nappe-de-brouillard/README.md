@@ -20,7 +20,7 @@ classes:
 ---
 **Coût** : 2 points de Magie ou de Foi  
 
-**Incantation** : 
+**Incantation** : *Brouillard dense, obscurité totale, enveloppe-nous de ton voile sépulcral !*
 
 **Description** : Vous créez une sphère de brouillard de 6 mètres de rayon centrée sur un point à portée. La sphère s'étend en contournant les angles et, dans la zone qu'elle occupe, la visibilité est nulle. Le brouillard persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent modéré ou plus violent (soufflant au moins à 15 kilomètres par heure) le disperse.
 
