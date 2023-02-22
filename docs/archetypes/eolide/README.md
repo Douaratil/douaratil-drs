@@ -8,7 +8,7 @@ title: Eolide
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Noviciat élolien](#noviciat-elolien)|
-|**4**|[Discipline élolienne](#discipline-elolienne)||
+|**4**|[Discipline élolienne](#discipline-elolienne)|
 |**5**|[Foudre intérieure inférieure](#foudre-interieure-inferieure)|
 |**6**|[Discipline élolienne avancée](#discipline-elolienne-avancee)|
 |**7**|[Résistance à la foudre ](#resistance-a-la-foudre )|
