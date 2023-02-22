@@ -26,6 +26,6 @@ classes:
 
 Quand une créature entre dans la zone du sort pour la première fois de son tour ou qu'elle y débute son tour, elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Elle subit 7d6 dégâts de poison si elle rate son jet et seulement la moitié si elle le réussit. Le brouillard affecte même les créatures qui retiennent leur souffle ou qui n'ont pas besoin de respirer.
 
-Le brouillard s'éloigne de vous sur une distance de 3  mètres au début de chacun de vos tours, rampant à la surface du sol. Comme ses vapeurs sont plus lourdes que l'air, il s'enfonce dans les replis du terrain et s'infiltre même dans les ouvertures.
+Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chacun de vos tours, rampant à la surface du sol. Comme ses vapeurs sont plus lourdes que l'air, il s'enfonce dans les replis du terrain et s'infiltre même dans les ouvertures.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, les dégâts augmentent de 1d6 par niveau au-delà du niveau d'Apprenti.  
