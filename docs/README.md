@@ -15,6 +15,19 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 
+## Mise à jour 174
+**Règles**
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie).   
+  
+**Archétype**
+- Arrivée d'un nouvel Archétype Selmonite, un invocateur, le [Kaïshan](/archetypes/kaishan)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 22 février 2023_
+§§§
+
 ## Mise à jour 173
 **Règles**
 - Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie).   
