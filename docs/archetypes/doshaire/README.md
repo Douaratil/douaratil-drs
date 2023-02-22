@@ -36,11 +36,12 @@ En tant que Doshaïre, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : aucun   
 **Jets de sauvegarde** : Intelligence, Sagesse  
 **Compétences** : choisissez trois compétences parmi : Arcane, Médecine, Nature, Perspicacité, Religion, Survie  
-**Conditions d'accessibilité**: Être de culture Khernaëe et de sexe féminin.  
+**Conditions d'accessibilité**: Être de culture Khernaëe et de sexe féminin. Ne pas utiliser de magie du feu.     
 **Points de Magie** : La Doshaïre est un Archétype mystique, de ce fait, elle développe les points de Foi (PF) si elle emprunte la voie de la Magie.  
 
 Les Doshaïres sont des femmes khernaëes qui ont accès à la prêtrise et vénèrent les forces et les puissances de l'eau.  
 Les Doshaïres de la voie des Armes sont appelés Karpenn Emober, littéralement «carpe réfléchie». Les Doshaïres de la voie de l’Ombre sont appelés Silienn Avizet, littéralement «anguille avisée». Les Doshaïre de la voie de la Magie sont appelés Dluzhenn Avizded, littéralement « truite sage ».  
+Par essence les Dorshaïres n'utilisent pas la magie liée au feu.   
 
 ### Fille des eaux    
 **En Khern : Merc'h dour**  
