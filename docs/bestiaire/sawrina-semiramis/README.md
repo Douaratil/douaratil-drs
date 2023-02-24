@@ -13,7 +13,7 @@ abilityScores:
   int: 10
   sag: 20
   cha: 10
-customSavingThrows: "for +0, dex(••) +17, con +3, int(•) +6, sag(•) +11, cha +0"
+customSavingThrows: "for +0, dex(••) +19 (Guilde +2), con +3, int(•) +6, sag(••) +17(esprit impénétrable), cha +0"
 savingThrows:
   - "dex"
   - "dex"
@@ -21,7 +21,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "20 (Armure de cuir cloutée)"
+  value: "23 (Armure de cuir cloutée)"
 skills:
   - name: "custom"
     value: "acrobatie(••) +17"
@@ -75,9 +75,9 @@ category: "PJ"
 §§§   
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 52       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 27     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 28     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Historique  Médecin:**_.   
+_**Historique:**_. Médecin     
 **Compétences**. Médecine, Nature.  
 **Outils maîtrisés**. Matériel d'herboriste, matériel d'empoisonneur.  
 **Équipement**. Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
@@ -135,28 +135,18 @@ _**Sang empoisonné**_. *(Nayane)*  A partir du niveau 17, la Nayane peut utilis
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 3 attaques par round lorsqu'elle utilise l'action attaquer.
 
-_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+5 dégâts tranchants (portée 6/18).  
+_**Dague(••)**_. _Attaque d'arme au corps à corps_ : +18 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+7 dégâts tranchants (portée 6/18). (Arme de prédilection guilde +1 toucher/+2 dégâts)
 
-_**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6 dégâts tranchants (portée 6/18).  
+_**Dague (seconde main)(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+2 dégâts tranchants (portée 6/18).(Arme de prédilection guilde +1 toucher/+2 dégâts)  
 
-_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, portée 6/18.  
-_Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
-La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
+_**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, portée 6/18.  
+_Touché_ : 1d6+7 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
+La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune. (Arme de prédilection guilde +1 toucher/+2 dégâts)  
 
 _**Serpe sacrificielle(••)**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts tranchants (légère).
-&nbsp;
-§§§ .hero
-### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Sawrina est une jeune assyrhim, issue d'une famille riche de Shahia qui se destinait aux études de guérisseuse. Elle a été enlevée et entraînée par des Assssyr'hims qui l'ont entrainé pendant plusieurs mois avant de lui faire boire l'eau de lune Selmontite et d'être vendue comme esclave assassin à un mystérieux commanditaire. Elle a été retrouvée dans un sarcophage métallique et libéré. Depuis, elle suit ses nouveaux compagnons en sachant qu'elle sera désormais pourchassée.  
-§§§
-
-§§§ .hero  
-### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Sawrina est une Assyrhim de dix neuf printemps. Elle a la peau sombre, les cheveux châtains fonçés et les yeux de nâcre. De petite stature, elle mesure un mètre soixante pour quarante huit kilos.
-§§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -185,7 +175,7 @@ Sawrina possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.  
+**Niveau patrimoine important** : Le personnage perçoit 4D6 X 200 pièces d'or et 1D6 X 10 pièces de platine.    
 §§§
 
 

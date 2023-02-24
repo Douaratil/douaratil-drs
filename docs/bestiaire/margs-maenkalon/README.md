@@ -179,11 +179,11 @@ Margs possède l'équipement suivant :
 - rations (8) de nourriture
 - serpe de maître sacrificielle
 - torches (10)
-- 4619 PC
-- 6083 PA
+- 1379 PC
+- 1183 PA
 - 36 PE
-- -1666 PO
-- 151 PP.  
+- 1635 PO
+- 56 PP.  
 §§§
 
 §§§ .hero
@@ -204,7 +204,7 @@ Margs possède l'équipement suivant :
 
 §§§ .hero
 ### <v-icon>mdi-castle</v-icon> Patrimoine  
-**Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
+**Niveau patrimoine normal** : Le personnage reçoit 4D6 X 100 pièces d'argent, 3D6 X 100 pièces d'or.   
 **Dépôt auprès de la famille** : 500 po  
 §§§
 
@@ -218,7 +218,10 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Revenus** : 14 x 6d6 po   
 
 ### Colonie de Madin'alajnibh
-**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois. Revenus : 1d6 PP et 20 x 6d6 po.   
+**Développement Important**
+La colonie est importante et renommée dans la région.    
+La colonie est constituée de vingts cinq bâtiments avec une capacité d'accueil de 200 colons. La colonie comprends cinq points d'eau, marché, basses cours, bergerie, étables, artisanats de base et avancée, auberges et tavernes. La colonie a une muraille de pierre. Un tel investissement permet d'avoir l'équivalent du haut fait de richesse "héroïque"   
+Revenus : 5d6 PP et 30 x 6d6 po     
 **Colons** : 63  
 **Trésor** : 880 pa  
 §§§
@@ -226,10 +229,11 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH, *Bataille des rois haut fait légendaire +10**  
+**Haut fait de richesse** : Colonie développement important +5
 **XP acquis** : 239 185 XP    
 **Points de Magie** :8   
 **Points de Foi** :18    
-**Points d'honneur** :55    
+**Points d'honneur** :60    
 **Guilde des guerrier** Adepter 80po/lune, Réseau de guilde, +2 au toucher et +2 aux dégâts avec une arme de prédilection (cimeterre), +1 aux JS de FOR, train de vie confortable   
 **Place au siège du cercle druidique de Kernac**: 1d6X10pp/lune  
 **Direction du cercle druidique**: 1d6X 10pp/lune  
