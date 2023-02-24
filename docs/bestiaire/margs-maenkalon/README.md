@@ -13,7 +13,7 @@ abilityScores:
   int: 8
   sag: 18
   cha: 8
-customSavingThrows: "for(•) +6, dex +5, con(•) +7, int(•) +4, sag(•) +9, cha -1"
+customSavingThrows: "for(•) +7 (+1 guilde), dex +5, con(•) +7, int(•) +4, sag(•) +9, cha -1"
 savingThrows:
   - "for"
   - "con"
@@ -66,7 +66,7 @@ languages:
   - "le Weslèdh (3/1), le Khern (3/1), l'Alcath/l'Alcane (2/0), Yezhsakr (1/1), Sogh 2/0)"
 category: "PJ"
 ---
-<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Margs Maenkalon V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Margs Maenkalon PDF</v-btn>
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Margs Maenkalon V3.1 20230224.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Margs Maenkalon PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Margs Maenkalon
 §§§ .hero
 *Margs Maenkalon était un guerrier bhegelm et en tant que tel garant de la loi religieuse khernaëe. Il veillait à faire appliquer les leznens, les lois orales. Les Khernaës pouvaient être décrits comme farouches, et Margs en était le parfait exemple. Il avait la peau mate, des cheveux bruns et une tête rasée sur le côté, ce qui lui donnait un regard insondable. De stature moyenne mais musculeuse, il pesait cent quatre vingt livres et portait une barbe fournie longue et une chevelure graissée, rasée sur le côté du crâne. Une cicatrice entre ses omoplates lui rappelait le trait d'un archer alcante.*   
@@ -75,7 +75,7 @@ category: "PJ"
 §§§  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 50       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
-**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 25     
+**<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 27     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 **Historique**. Inquisiteur.   
 **Compétences**. Intimidation, Religion.  
@@ -150,8 +150,8 @@ _Touché_ : 2d6+1 dégâts tranchants (légère, portée 6/18).
 _**Epée courte(•)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).  
 
-_**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +15 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6+5 dégâts tranchants (Finesse & légère).  
+_**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+7 dégâts tranchants (Finesse & légère)(arme de prédilection guilde des guerrier +2 au toucher et aux dégâts).  
 &nbsp;
 
 §§§ .hero
@@ -182,7 +182,7 @@ Margs possède l'équipement suivant :
 - 4619 PC
 - 6083 PA
 - 36 PE
-- 2444 PO
+- -1666 PO
 - 151 PP.  
 §§§
 
@@ -199,7 +199,7 @@ Margs possède l'équipement suivant :
 **Sorts accessibles à apprendre**:   
 **Novice**:   
 **Disciple**:
-**Apprenti**:  [Transport végétal](/grimoire/transport-vegetal/),   
+**Apprenti**:    
 §§§
 
 §§§ .hero
@@ -230,7 +230,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Points de Magie** :8   
 **Points de Foi** :18    
 **Points d'honneur** :55    
-**Guilde des guerrier** Novice 50po/lune, Réseau de guilde, train de vie modeste.    
+**Guilde des guerrier** Adepter 80po/lune, Réseau de guilde, +2 au toucher et +2 aux dégâts avec une arme de prédilection (cimeterre), +1 aux JS de FOR, train de vie confortable   
 **Place au siège du cercle druidique de Kernac**: 1d6X10pp/lune  
 **Direction du cercle druidique**: 1d6X 10pp/lune  
 
@@ -242,5 +242,5 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 - Cuisse gauche 20 cm
 
 §§§
-Mise à jour du 04/02/2023
+Mise à jour du 0424/02/2023
 [.](/bestiaire/cyrthaule)  

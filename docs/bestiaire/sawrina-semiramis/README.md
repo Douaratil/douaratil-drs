@@ -66,7 +66,7 @@ languages:
   - "Le Shahim/Shahiate (3/3), Assyrhiote/Syride (5/5), Cyrénide/Syride 3/3. Toutes les langues communes (Weshlèdh (3/3), Minghour (3/3), Alcante (3/3)) et le Selmh (3/3), Syrioth/Syride (3/3); Assyrith/Syride(3/3) "
 category: "PJ"
 ---
-<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Sawrina Semiramis V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Sawrina Semiramis PDF</v-btn>
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Sawrina Semiramis V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Sawrina Semramis PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Sawrina Semramis   
 §§§ .hero
 *Sawrina était une jeune Assyrhim, issue d'une famille aisée de Shahia. Elle avait choisi de suivre les études pour devenir guérisseuse. Cependant, sa vie a pris un tournant dramatique lorsqu'elle a été enlevée par des Assyr'hims et entraînée pendant des mois avant d'être vendue comme esclave assassin à un mystérieux client. Elle a été retrouvée enfermée dans un sarcophage métallique, mais a été libérée par de nouveaux compagnons. Maintenant, Sawrina savait qu'elle serait pourchassée pour le reste de sa vie.*  
