@@ -19,7 +19,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 8 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Oiseaux du ciel, répondez à mon appel, prêtez-moi votre force.*   
+*Venez accomplir la tâche que je vous confie.*    
+
 **Description** : Le sorcier fait appel aux oiseaux, en les priant de réaliser une tâche. 6D6 oiseaux apparaîtront en 1d6 round, aux ordres du magicien. La mission ne doit pas être plus compliquée que de ramasser des branches, couper une corde, attaquer, etc.   
 
 **À plus haut niveau**. 2D6 oiseaux supplémentaires apparaîtront pour chaque emplacement de surcharge.   

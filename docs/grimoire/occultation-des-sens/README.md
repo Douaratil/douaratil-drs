@@ -19,7 +19,22 @@ source: "Elric"
 
 ---
 **Coût** : 16 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Dans l'obscurité la plus profonde,*    
+*La cible est plongée sans défense.*    
+*Ses sens défaillent, un sort immonde,*    
+*Sa folie s'embrase, son esprit s'absente.*    
+
+*Cécité, surdité, anosmie, mutisme,*     
+*Ataxie, hypoesthésie, tout est réuni.*    
+*Leurs effets se cumulent en un séisme,*    
+*La victime n'a plus le contrôle de son corps ni de son esprit.*     
+
+*Mais ce n'est pas tout, car la folie guette,*     
+*Elle se tapit dans l'ombre et la douleur.*     
+*Un jet de sagesse, pour être sauvé peut-être,*     
+*Sinon la folie s'installe, la mort n'est plus qu'une heure.*    
+
 **Description** : Le sorcier inflige à une cible qu’il voit, tous les effets des sorts suivants cumulés : [Cécité/Surdité](/grimoire/cecite-surdite), [Hypoesthésie](/grimoire/hypoesthesie), [Ataxie/Désafférentation](/grimoire/ataxie-desafferentation), [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie), et [Anosmie/Agueusie](/grimoire/anosmie-agueusie). De plus, ce sort peut entraîner une folie voire la mort. La cible a le droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, en cas de réussite, le sort n’opère pas. La cible doit lancer 4d6 non explosifs dans le tableau ci-dessous pour savoir quelle folie l’atteindra.  
 
 |4d6|Coût|

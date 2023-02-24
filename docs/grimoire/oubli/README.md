@@ -18,5 +18,10 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Les souvenirs s'effacent,*   
+*Dans un instant de grâce,*   
+*Oubli, douce magie,*   
+*Efface cette partie.*    
+
 **Description** : Bien que moins puissant que le sort [Modification de mémoire](/grimoire/modification-de-memoire), ce sortilège permet au sorcier de faire oublier un événement à sa cible, pouvant durer jusqu'à 1 mn. L'événement est complètement oublié, effacé de la mémoire. La cible peut résister en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse.  

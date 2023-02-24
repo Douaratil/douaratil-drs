@@ -18,5 +18,10 @@ classes:
 source: "Elric"
 ---
 **Coût** : 8 points de Magie ou de Foi
-**Incantation** : 
+
+**Incantation** : *Insulte proférée, honneur perdu,*   
+*Sous l'opprobre, tu es déchu,*    
+*Charisme faible, sauvegarde vaine,*   
+*Une journée* sans honneur, ta peine.*   
+
 **Description** : Le sorcier insulte la cible. Elle effectue un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme contre le DD d’incantation du lanceur de sort. En cas d’échec, ses points d'honneur (PH) sont réduits à 0 jusqu’à la prochaine aube.  

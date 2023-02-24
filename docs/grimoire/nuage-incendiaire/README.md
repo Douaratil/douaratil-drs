@@ -18,7 +18,9 @@ classes:
     - Magie
 ---
 **Coût** : 16 points de Magie  
-**Incantation** : 
+
+**Incantation** : *Que les flammes de l'enfer se lèvent et que les cieux s'embrasent !*    
+
 **Description** : Un nuage de fumée ondoyant constellé de braises rougeoyantes apparaît sous la forme d'une sphère de 6  mètres de rayon centrée sur un point à portée. Le nuage se répand en contournant les angles si nécessaire et la visibilité est nulle à l'intérieur. Le nuage persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort ou modéré (au moins 15 km/h) le disperse.
 
 Quand le nuage apparaît, chaque créature se trouvant à l'intérieur doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 15d6 dégâts de feu, les autres la moitié seulement. Une créature doit aussi effectuer ce jet quand elle entre dans la zone affectée pour la première fois du tour ou lorsqu'elle y finit son tour.

@@ -8,7 +8,7 @@ title: Eolide
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Noviciat élolien](#noviciat-elolien)|
-|**4**|[Discipline élolienne](#discipline-elolienne)||
+|**4**|[Discipline élolienne](#discipline-elolienne)|
 |**5**|[Foudre intérieure inférieure](#foudre-interieure-inferieure)|
 |**6**|[Discipline élolienne avancée](#discipline-elolienne-avancee)|
 |**7**|[Résistance à la foudre ](#resistance-a-la-foudre )|
@@ -34,14 +34,14 @@ En tant que Eolide, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  aucune  
-**Armes** : Dague, épée courte, bâton.
+**Armes** : Dague, épée courte, bâton.     
 **Outils** :aucun.     
 **Jets de sauvegarde** : Intelligence, Dextérité  
 **Compétences** : choisissez trois compétences parmi les suivantes : Arcanes, Histoire, Investigation, Médecine, Perspicacité et Religion  
-**Conditions d'accessibilité**: Être Lacède, venir de la voie de la Magie.     
+**Conditions d'accessibilité**: Être Lacède, venir de la voie de la Magie ou des armes.     
 **Points de Magie** : L'Eolide est un mage, le personnage développe les points de Magie (PM).  
 
-Les Eolides sont des utilisateurs de la magie qui tirent une grande partie de leur pouvoir et de leurs connaissances par des enseignements d'esprits éoliens puissants. Les Eolides viennent exclusivement de la voie de la Magie sont appelés árchontes tis kataigídas, littéralement « Seignuers des tempêtes».
+Les Eolides sont des utilisateurs de la magie qui tirent une grande partie de leur pouvoir et de leurs connaissances par des enseignements d'esprits éoliens puissants. Les Eolides qui viennent de la voie de la Magie sont appelés árchontes tis kataigídas, littéralement « Seigneurs des tempêtes» tandis que ceux qui viennent de la voie des armes sont appelés thyellódis kolossós, littéralement "Colosse temêteux". Les Eolides ne viennent pas de la voie des ombres, les vents se détournent de cette voie.     
 
 ### Noviciat élolien     
 **En Lacède : Aeolian Novitiate**  
