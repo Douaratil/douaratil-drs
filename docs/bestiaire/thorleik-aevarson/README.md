@@ -67,7 +67,7 @@ languages:
   - "le Weslèdh (3/0), le Melg (Melg 3/Bergaf 3), le welkarn (3/3), le Holtar (0/1), Ashkhèm (3/3), Ashkham (2/3)"
 category: "PJ"
 ---
-<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Thorleik Aevarson V3 20230207.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Thorleik Aevarson PDF</v-btn>
+<v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Thorleik Aevarson V3.1 20230225.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Thorleik Aevarson PDF</v-btn>
 ## <v-icon>mdi-human-greeting</v-icon> Thorleik Aevarson  
 §§§ .hero
 *Thorleik Aevarson était un homme grand et imposant, avec une stature de sept pieds et une peau blanche. Il avait des cheveux blonds et des yeux bleus, avec une longue cicatrice qui descendait de sa tempe gauche jusqu'au menton qui se terminait par une barbe tressée. En tant que prêtre du feu, il était respecté et vénéré par les Melgs de son clan Aevearson, installés aux pieds des Monts du Menezlatar.*    
@@ -205,14 +205,14 @@ Thorleik Aevarson possède l'équipement suivant :
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
 **Bonus d'incantation: +11 en Magie +23 en Foi**  
 **DD de Sauvegarde: 16 en Magie et 18 en Foi**  
-**Novice** : [Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
+**Novice** : [Amélioration de caractéristique](/grimoire//grimoire/amelioration-de-caracteristique/),[Brûlure du juste](/grimoire/brulure-du-juste/), [Baie nourricière](/grimoire/baie-nourriciere), [Cécité/Surdité](/grimoire/cecite-surdite), [Compagnon animal](/grimoire/compagnon-animal), [Confort](/grimoire/confort), [Coup de tonnerre](/grimoire/coup-de-tonnerre), [[Détection de la magie](/grimoire/detection-de-la-magiques), [Druidisme](/grimoire/druidisme), [Flamme sacrée](/grimoire/flamme-sacree), [Invisibilité](/grimoire/invisibilite), [Lame de feu](/grimoire/lame-de-feu), [Mains brûlantes](/grimoire/mains-brulantes/),   
 [Mot de guérison](/grimoire/mot-de-guerison), [Produire une flamme](/grimoire/produire-une-flamme), [Projectile magique](/grimoire/projectile-magique),[soins des blessures](/grimoire/soins-des-blessures), [Thaumaturgie](/grimoire/thaumaturgie).  
 
 **Disciple** :  
-[Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Lever une malédiction](/grimoire/lever-une-malediction/), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe/), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),   
+[Arme sainte](/grimoire/arme-sainte), [Chien de garde](/grimoire/chien-de-garde), [Communication avec les morts](/grimoire/communication-avec-les-morts/), [Invoquer des élémentaires mineurs](/grimoire/invoquer-des-elementaires-mineurs), [Lever une malédiction](/grimoire/lever-une-malediction/), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe/), [Mur de chaleur](/grimoire/mur-de-chaleur), [Prière de soins](/grimoire/priere-de-soins), [Respiration aquatique](/grimoire/respiration-aquatique),   
 
 **Apprenti** :  
-[Colonne de flamme](/grimoire/colonne-de-flamme/), [Restauration supérieure](/grimoire/restauration-superieure),   
+[Colonne de flamme](/grimoire/colonne-de-flamme/), [Restauration supérieure](/grimoire/restauration-superieure), [Transport végétal](/grimoire/transport-vegetal/),   
 §§§
 
 **Sorts possédés à apprendre** :
@@ -261,4 +261,4 @@ Cicatrice de 20 cm de la tempe gauche au menton.
 
 §§§
 
-Mise à jour le 02/02/2023
+Mise à jour le 25/02/2023

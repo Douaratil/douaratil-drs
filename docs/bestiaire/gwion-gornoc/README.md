@@ -206,7 +206,7 @@ Gwion possède l'équipement suivant :
 - 3857 PC
 - 14 978 PA
 - 44 PE
-- 38 062 PO
+- 36 012 PO
 - 2 678 PP.  
 §§§
 
@@ -279,7 +279,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10*      
 **Haut fait de richesse** :  *Patrimoine très important, haut fait légendaire +10*    
-**XP acquis** : 289 645         
+**XP acquis** : 308 705        
 **Points de Magie** :92     
 **Points de Foi** :20      
 **Points d'honneur** :74               

@@ -46,18 +46,18 @@ Les Kaïshans de la voie de la Magie sont appelés Magn'hashaïr, littéralement
 
 ### affinité invocatoire 
 **En Selm : Sassas sassae**  
-Dès le niveau 3, votre capacité éthnique de cannal arcanique bénéficie aussi bien aux points de Magie (PM) qu'aux points de Foi (PF). D'autre part, vous avez un lien puissant et ancestral avec l'école de magie d'invocation qui vous octroie un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous utilisez les compétences Arcanes ou Religion pour lancer des sorts. Cette affinité n'est pas sans inconvénient: vous avez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les sorts des écoles d'illusion et d'enchantement.        
+Dès le niveau 3, votre capacité éthnique de canal arcanique bénéficie aussi bien aux points de Magie (PM) qu'aux points de Foi (PF). D'autre part, vous avez un lien puissant et ancestral avec l'école de magie d'invocation qui vous octroie un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lorsque vous utilisez les compétences Arcanes ou Religion pour lancer des sorts. Cette affinité n'est pas sans inconvénient: vous avez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les sorts des écoles d'illusion et d'enchantement.        
 
 ### Puissance invocatrice  
-**En Selm :**  
+**En Selm :Sissase isso**  
 Dès le niveau 4, les créatures que vous invoquez sont plus puissantes en raison des pactes anciens qui ont été passés. L'ID de la créature est augmentée de 1.
 
 ### Lien invocatoire 
-**En Selm :**  
+**En Selm : Sie isso**  
 Dès le niveau 5, les créatures invoquées restent deux fois plus longtemps et peuvent s'éloigner deux fois plus loin que ce qui est prévu par le sort. 
 
 ### Invocateur  
-**En Selm :**  
+**En Selm : Issosae**  
 Dès le niveau 6, vous obtenez un bonus de +1 pour tous les tests de magie (Arcanes et Religion) mais aussi pour les jets de sauvegarde (JS) qui concerne l'école de magie de l'invocation.
 
 ### Autorité rituelle  

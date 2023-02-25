@@ -52,7 +52,7 @@ telepathy: 18
 *Cyrthaüle était une chasseresse expérimentée et tenait son arc long avec une aisance déconcertante. Son carquois, rempli de flèches pointues et efficaces, était fixé à son dos grâce à une bandoulière en cuir. À sa fine ceinture en argent, elle portait une petite dague en ivoire, dont la lame brillait à la lumière du soleil.*    
 
 *Son visage était fin et délicat, avec des lèvres pleines et une expression douce et sereine. Elle avait une démarche assurée et gracieuse, comme si elle était en harmonie avec le monde qui l'entourait. Lorsqu'elle souriait, ses yeux étincelants semblaient refléter toute la beauté de la nature qui l'entourait.*    
-
+§§§
 **<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 32, réussite 6, échec 3d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23      
