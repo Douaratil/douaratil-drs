@@ -20,7 +20,8 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 **Archétypes**    
 - Corrections de l'Archétype Selmonite, un invocateur, le [Kaïshan](/archetypes/kaishan)  
-- Corrections de l'Archétype nordique, la guérisseuse, l' [heilari](/archetypes/heilari) 
+- Corrections de l'Archétype nordique, la guérisseuse, l'[heilari](/archetypes/heilari)  
+- Corrections de l'Archétype minghour, le [totsuzenshi](/archetypes/totsuzenshi)  
 
 **Bestiaire**
 - Suppression de l'illustration du [Dabbiub](/bestiaire/dabbiub) et ajout de sa description.   

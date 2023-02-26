@@ -73,8 +73,7 @@ Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "
 **En Yotaï : Kage no te**  
 À partir du niveau 7, le Totsuzenshi pratique une forme avancée d'art martiaux appelée Kage no te, la main de l'ombre.  
 Il peut ainsi affronter un adversaire armé à main nue et peut parer des attaques à une main même s'il ne possède pas d'arme.  
-D'autre part, lorsque le Totsuzenshi réussi l'action [_attaquer_](/combattre/#attaquer) à main nue ou avec une arme, l'adversaire doit réussir un JS de dextérité DD 10 + bonus de Dextérité et de Sagesse du Totsuzenshi, ou subir une pluie de coups.  
-Le nombre de coups portés est représenté par 1d6 de dégâts contondants. Ils varient selon le niveau du Totsuzenshi. Aucun bonus de caractéristique n'est applicable.   
+Les dégâts évoluent avec le niveau du personnage.    
 
 |Niveau|Dégâts bonus|
 |:-:|:-:|
@@ -82,7 +81,6 @@ Le nombre de coups portés est représenté par 1d6 de dégâts contondants. Ils
 |**11-14**|2d6|
 |**15-18**|3d6|
 |**19-20**|4d6|
-|**21+**|5d6|
 
 ### Nuit étoilée  
 **En Yotaï : Hoshi ga kagayakuyoru**  
@@ -90,11 +88,10 @@ Le nombre de coups portés est représenté par 1d6 de dégâts contondants. Ils
 
 |Niveau|nbr de fléchettes (shaken)|Portée|
 |:-:|:-:|:-:|
-|**8-10**|1d6|8/20|
-|**11-14**|2d6|10/22|
-|**15-18**|3d6|12/24|
-|**19-20**|4d6|14/26|
-|**21+**|5d6|16/28|
+|**8-10**|2|8/20|
+|**11-14**|3|10/22|
+|**15-18**|4|12/24|
+|**19-20**|5|14/26|
 
 &nbsp;
 [![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5.jpg)
