@@ -12,19 +12,19 @@ title: Totsuzenshi
 |**5**|[Domination martiale](#domination-martiale)|
 |**6**|[Seconde attaque](#seconde-attaque)|
 |**7**|[Main de l'ombre (1d6)](#main-de-l-ombre)|
-|**8**|[Nuit étoilée(1d6)](#nuit-etoilee)|
+|**8**|[Nuit étoilée(2)](#nuit-etoilee)|
 |**9**|[Maîtrise de la concentration](#maitrise-de-la-concentration)|
 |**10**|[Vol du rapace](#vol-du-rapace)|
-|**11**|[Main de l'ombre (2d6)](#main-de-l-ombre), [Nuit étoilée(2d6)](#nuit-etoilee)|
+|**11**|[Main de l'ombre (2d6)](#main-de-l-ombre), [Nuit étoilée(3)](#nuit-etoilee)|
 |**12**|[Troisième attaque](#troisieme-attaque)|
 |**13**|[Soin personnel](#soin-personnel)|
 |**14**|[Envol du héron](#envol-du-heron)|
-|**15**|[Course du lièvre (+3m)](#course-du-lievre), [Main de l'ombre (3d6)](#main-de-l-ombre), [Nuit étoilée(3d6)](#nuit-etoilee)|
+|**15**|[Course du lièvre (+3m)](#course-du-lievre), [Main de l'ombre (3d6)](#main-de-l-ombre), [Nuit étoilée(4)](#nuit-etoilee)|
 |**17**|[Course du lièvre (+3m)](#course-du-lievre)|
 |**18**|[Célérité du serpent](#celerite-du-serpent)|
-|**19**|[Main de l'ombre (4d6)](#main-de-l-ombre), [Nuit étoilée(4d6)](#nuit-etoilee)|
+|**19**|[Main de l'ombre (4d6)](#main-de-l-ombre), [Nuit étoilée(5)](#nuit-etoilee)|
 |**20**|[Véritable Totsuzenshi](#veritable-totsuzenshi)|
-|**21+**|[Main de l'ombre (5d6)](#main-de-l-ombre), [Nuit étoilée(5d6)](#nuit-etoilee)|
+
 
 ## Totsuzenshi
 &nbsp;
