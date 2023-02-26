@@ -17,7 +17,9 @@ classes:
     - Foi
 ---
 **Coût** : 14 points de Foi  
-**Incantation** : 
+
+**Incantation** : *Parole divine, puissance suprême, résonne en ces lieux, frappe les âmes et tranche les cieux !*     
+
 **Description** : Vous prononcez une parole divine, empreinte de la puissance qui a façonné le monde à l'aube de la création. Choisissez autant de créatures situées à portée et dans votre champ de vision que vous le désirez. Chacune de celles qui vous entendent doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme, ou souffrir d'un des effets suivants, selon son total actuel de points de vie.
 
 * 50 points d'action ou moins : [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) pour 1 minute.

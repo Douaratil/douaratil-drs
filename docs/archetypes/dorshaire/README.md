@@ -121,7 +121,7 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 
 ### Véritable Dorshaïre  
 **En Khern : Dorshaïre**  
-Au niveau 20, la Dorshaïre est accomplie et augmente ses caractéristiques de Sagesse et d'intelligence de 2 points sans pouvoir dépasser 22. De plus, l'ordre druidique lui confie la protection d'un lieu aquatique sacré, auquel ma la Dorshaïre est maîtresse des lieux et y a autorité.  
+Au niveau 20, la Dorshaïre est accomplie et augmente ses caractéristiques de Sagesse et d'intelligence de 2 points sans pouvoir dépasser 22. De plus, l'ordre druidique lui confie la protection d'un lieu aquatique sacré, auquel la Dorshaïre est maîtresse des lieux et y a autorité.  
 
 &nbsp;
 [![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire3m.png)](https://www.douaratil.fr/illustrations/archetype/dorshaire3.jpg)

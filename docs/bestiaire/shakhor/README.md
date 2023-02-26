@@ -41,8 +41,15 @@ telepathy: 36
 
 ---
 ## Shakhor
-&nbsp;
-[![Shakhor](https://www.douaratil.fr/illustrations/fielon/shakhorm.png)](https://www.douaratil.fr/illustrations/fielon/shakhor.jpg)
+§§§ .hero
+*Le sol a tremblé sous nos pieds, faisant vibrer tout ce qui nous entourait. Nous avions entendu des rumeurs sur une créature sombre et maléfique qui se cachait dans les profondeurs de la montagne, mais nous n'avions jamais imaginé quelque chose d'aussi terrifiant. Soudain, une ombre massive a jailli des ténèbres, se dressant devant nous et nous coupant le souffle.*    
+*C'était un Shakhor, une créature mélange d'obscurité et de flammes, avec son épée enflammée et son fouet ardent. Sa silhouette massive était visible même dans l'obscurité la plus totale, illuminée par les flammes qui sortaient de son corps. Ses yeux rouges brillaient d'une lueur malfaisante, et son rugissement était si puissant qu'il faisait vibrer tout ce qui nous entourait.*   
+*Nous avons tous reculé instinctivement, effrayés par la taille et la puissance de la créature qui se dressait devant nous. Son épée enflammée illuminait la pièce, projetant des ombres qui dansaient sur les murs et les sols. Son fouet ardent traînait derrière lui, prêt à frapper à tout moment.*   
+*Le Shakhor a commencé à avancer lentement vers nous, chaque pas faisant trembler le sol sous nos pieds. Nous étions tétanisés, incapables de bouger ou de parler. Nous avons regardé avec horreur alors que la créature se rapprochait de plus en plus près de nous, prête à nous attaquer à tout moment.*   
+*J'avais vaincu de nombreux ennemis et j'étais une combattante aguerris mais rien ne me préparait à ce combat. Je me ruais sur la gigantesque créature avec mes compagnons, enveloppés par les flammes qui en émannaient. Soudain, son épée ardente me transperça de part en part. Et ce fut la nuit...*   
+*Je me reveillais quelques jours plus tard dans un village. J'étais très affablie. Les guerrisseurs étaient autour de moi. A mon doigt, l'anneau que portait habituellement l'enigmatique Gwion était surement l'explication que je sois toujours de ce monde.*     
+**Mes plus grands combats de Sawrina Semramis**   
+§§§
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 35, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24     

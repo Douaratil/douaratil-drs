@@ -284,7 +284,7 @@ module.exports = {
             {
                 title: "Dorshaïre",
                 icon: 'mdi-water',
-                path: '/archetypes/doshaire',
+                path: '/archetypes/dorshaire',
               },
           {
               title: "Drodan",
@@ -335,6 +335,11 @@ module.exports = {
               title: "Jörghal",
               icon: 'mdi-sword',
               path: '/archetypes/jorghal',
+            },
+            {
+              title: "Kaïshan",
+              icon: 'mdi-flame',
+              path: '/archetypes/kaishan',
             },
           {
               title: "Legatos",

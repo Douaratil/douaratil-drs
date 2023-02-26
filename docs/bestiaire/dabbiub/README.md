@@ -48,8 +48,13 @@ dungeonTypes:
 
 ---
 ## Dabbiub
-&nbsp;
-[![Dabbiub](https://www.douaratil.fr/illustrations/fielon/dabbiubm.png)](https://www.douaratil.fr/illustrations/fielon/dabbiub.jpg)  
+§§§ .hero
+*Nous avions pénétré dans les profondeurs de la montagne depuis plusieurs heures, cherchant des minerais rares et des trésors perdus. Tout était calme et silencieux, seulement interrompu par le bruit de nos pas sur le sol rocheux. Soudain, une ombre massive est apparue devant nous, se dressant devant nous et nous coupant le souffle.*   
+*C'était un Dabbiub, une créature des temps anciens, mélange d'obscurité avec quatre bras de noirceurs et de longs ongles en formes d'aiguilles. Sa silhouette massive était noire comme de l'encre, et ses yeux rouges brillaient d'une lueur malfaisante. Sa respiration était sifflante et son corps était entouré d'une aura ténébreuse qui donnait l'impression qu'il absorbait toute la lumière autour de lui.*   
+*Nous avons tous reculé instinctivement, effrayés par la taille et la puissance de la créature qui se dressait devant nous. Nous avons regardé avec horreur alors que la créature se rapprochait de plus en plus près de nous, prête à nous attaquer à tout moment.*   
+*Le Dabbiub a commencé à avancer lentement vers nous. Un autre a surgit par notre droite. Tandis que mes compagnons d'aventure affrontaient la seconde créature, j'envoyais mes élémentaires invoqués contre la première. Celle-ci les dispersa dans une sombre incantation avec de se ruer vers moi, enfonçant ses aiguilles dans mon crâne. Soudain, je senti que mon esprit commençait à être aspiré.*   
+**Vaincre et périr par le feu de Thorleik Aevarson**   
+§§§
 **<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 30, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 23      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20   
