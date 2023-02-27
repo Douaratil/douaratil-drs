@@ -17,10 +17,9 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie  
-**Réservé Sorser**  
-**Incantation** : 
-**Description** : Vous inspirez une peur que vous pouvez contrôler:  
 
+**Réservé Sorser**  
+**Description** : Vous inspirez une peur que vous pouvez contrôler:   
 - *inquiétude* Chaque créature située dans un cône de 9 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pendant toute la durée du sort à tous les tests d'interaction sociale.
 - *peur* Chaque créature située dans un cône de 9 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou lâcher tout ce qu'elle tient en main et être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant toute la durée du sort.
 
