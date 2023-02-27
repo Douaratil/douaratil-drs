@@ -7,19 +7,19 @@ description: Règles de création de personnage
 
 
 §§§ .hero
-*L'homme était appuyé contre un mur. Il avait les bras croisés et me portait un regard sans intérêt. C'était un nordique de toute évidence. Il avait les cheveux clairs, la peau blanche et les yeux gris. Il était peu habillé malgré la saison et des peintures bleues rituelles étaient visibles sur ses bras et une partie de son visage. Il s'agissait d'un Khernaë.*       
+*L'homme était appuyé contre un mur. Il avait les bras croisés et me portait un regard sans intérêt. C'était un Nordique de toute évidence. Il avait les cheveux clairs, la peau blanche et les yeux gris. Il était peu habillé malgré la saison et des peintures bleues rituelles étaient visibles sur ses bras et une partie de son visage. Il s'agissait d'un Khernaë.*       
 **Souvenirs de Brycham l'aventureux**   
 §§§   
 ## 1. Choisir une ethnie
 
-Le chapitre [Ethnies](/ethnies/), donne plus de détails sur chaque ethnie et chaque variante.
+Le chapitre [Ethnies](/ethnies/) donne plus de détails sur chaque ethnie et chaque variante.
 
 Chaque ethnie fournit aussi des éléments techniques, les traits, que vous devez recopier sur votre feuille de personnage, ainsi que votre vitesse de déplacement et les langues que connaît votre personnage.
 
 ## 2. Choisir un historique
 Référez-vous au chapitre [Personnalité et historique](/personnalite-et-historique/) pour plus de détails.
 
-Chaque historique vous permet d'obtenir la maîtrise de deux compétences (cochez les cases correspondantes sur votre feuille de personnage) et parfois d'un ou plusieurs outils ou véhicules (notez-les dans le cadre intitulé Autres maîtrises & langues). Ici aussi, chaque grande catégorie d'historique présente plusieurs variantes. Si vous choisissez l'une d'elle, souvenez-vous que les compétences ou l'équipement de ces variantes ne s'ajoutent pas à celles de l'historique de base mais les remplacent.
+Chaque historique vous permet d'obtenir la maîtrise de deux compétences (cochez les cases correspondantes sur votre feuille de personnage) et parfois d'un ou plusieurs outils ou véhicules (notez-les dans le cadre intitulé Autres maîtrises & langues). Ici aussi, chaque grande catégorie d'historique présente plusieurs variantes. Si vous choisissez l'une d'elles, souvenez-vous que les compétences ou l'équipement de ces variantes ne s'ajoutent pas à celles de l'historique de base, mais les remplacent.
 
 ## 3. Choisir une Voie
 Les différentes Voies sont présentées au chapitre [Voies](/voies/).
@@ -32,7 +32,7 @@ Au moment du choix de la classe de votre personnage, même s'il n'est encore que
 En règle générale, **chaque personnage débute sa vie d'aventurier au niveau 1**.
 
 ### Rituels magiques
-Si vous avez opté pour la voie de la magie, vous disposez d’une capacité supérieure à exécuter des rituels. Jusqu’au moment de choisir votre archétype, vous êtes un simple élève dont la seule capacité magique est d’assister l’un des vos maîtres lors de ces rituels. C’est au niveau 3 que vous êtes réellement initiés à votre voie magique. Suivant l’archétype choisi vous développerez des points de magie (MP) basés sur la caractéristique intelligence ou des points de foi (PF) basés sur la caractéristique sagesse. Généralement, les archétypes de types religieux développent la sagesse (SAG) et les archétypes de types mages développent l’intelligence (INT) Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts](/grimoire/).
+Si vous avez opté pour la voie de la magie, vous disposez d’une capacité supérieure à exécuter des rituels. Jusqu’au moment de choisir votre archétype, vous êtes un simple élève dont la seule capacité magique est d’assister l’un de vos maîtres lors de ces rituels. C’est au niveau 3 que vous êtes réellement initiés à votre voie magique. Suivant l’archétype choisi, vous développerez des points de magie (MP) basés sur la caractéristique intelligence ou des points de foi (PF) basés sur la caractéristique sagesse. Généralement, les archétypes de types religieux développent la sagesse (SAG) et les archétypes de types mages développent l’intelligence (INT). Pour ce faire, vous pouvez consulter les listes présentées dans les chapitres [Lancer des sorts](/lancer-des-sorts/) et [Listes de sorts](/grimoire/).
 
 ## 4. Déterminer les caractéristiques
 
@@ -51,16 +51,16 @@ Le **Charisme** traduit les aptitudes sociales du personnage et sa personnalité
 Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
 
 §§§ .hero
-*La jeune femme me faisait forte impression. Certe je n'étais pas insensible à son charme avec ses cheveux noirs attachés qui retombaient sur ses épaules. Son regard noir était insondable. Elle portait une armure de cuir légère sombre et une dague. Je la trouvais charismatique.*       
+*La jeune femme me faisait forte impression. Certes je n'étais pas insensible à son charme avec ses cheveux noirs attachés qui retombaient sur ses épaules. Son regard noir était insondable. Elle portait une armure légère de cuir sombre et une dague. Je la trouvais charismatique.*       
 **Souvenirs de Brycham l'aventureux**   
 §§§   
 
 ### Répartition des points de caractéristiques
-Le personnage du joueur commence avec 10 dans toutes les caractéristiques ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustées par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
+Le personnage du joueur commence avec 10 dans toutes les caractéristiques, ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustées par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
 Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20 ([Voir tableau évolution du personnage](/creation-du-personnage/#evolution-des-personnages)).La seule exception est l'accomplissement d'un archétype au niveau 20 ou supérieur qui donne un bonus de caractéristique avec un maximum de 22 ([Voir Archétypes](/archetypes))  
 
 ### Valeurs et modificateurs
-Une fois les valeurs des caractéristiques de votre personnages établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
+Une fois les valeurs des caractéristiques de votre personnage établies (n'oubliez pas d'appliquer les éventuels modificateurs de votre race), il suffit de déterminer les **modificateurs** correspondants et de les inscrire sur votre feuille de personnage. Pour chaque caractéristique, calculer le modificateur est très simple : soustrayez 10 à la valeur puis divisez par deux, en arrondissant à l'inférieur. Vous pouvez aussi consulter la table ci-dessous.
 
 #### Table des modificateurs
 
@@ -100,11 +100,10 @@ Pour chaque arme que porte votre personnage, il vous faut maintenant calculer la
 * La Force si vous utilisez une arme de corps à corps. Vous pouvez aussi choisir d'utiliser la Force pour une arme à distance dotée de la propriété Lancer.
 * La Dextérité si vous utilisez une arme à distance. Vous pouvez aussi choisir d'utiliser la Dextérité pour une arme de corps à corps dotée de la propriété Finesse.
 
-Les armes infligent des dégâts de base, qui sont indiqués dans la liste des armes au chapitre [Équipement - Armes](/armes/). Les dégâts se calculent en faisant la somme des dégâts de l’arme. Le jet d'attaque peut modifier les dégâts : pour chaque 6 obtenu il est rajouté +1 aux dégâts.    
+Les armes infligent des dégâts de base, qui sont indiqués dans la liste des armes au chapitre [Équipement - Armes](/armes/). Les dégâts se calculent en faisant la somme des dégâts de l’arme. Le jet d'attaque peut modifier les dégâts : pour chaque 6 obtenus, il est rajouté +1 aux dégâts.    
 
 # Au-delà du niveau 1
-Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa voie et de sa spécialisation.  Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20 jusqu'au niveau 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.  
-A partir du niveau 20, il devient possible de monter les caractéristiques au dessus de 20 ,sans jamais pouvoir dépasser 30. A ce stade, les personnages sont en phase d'ascension divine mais le chemin sera très long avant de pouvoir s'approcher et il doivent être "éveiller" (voir [éveil](/eveil)). La voie de l'éveil peut être empruntée très tôt mais impose des alignements et des contraintes sur la façon de jouer le personnage.   
+Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa voie et de sa spécialisation.  Les caractéristiques augmenteront ensuite régulièrement avec la progression du personnage en gagnant 2 points de caractéristique à chaque niveau pair et 1 point de caractéristique à chaque niveau impair. Les caractéristiques ne peuvent jamais dépasser 20. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.  
 
 À chaque fois que vous gagnez un niveau, vous gagnez un nombre de points d’action supplémentaire dépendant de la voie.   
 
@@ -113,7 +112,7 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
 §§§ .hero
-*La jeune femme à la chevelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne mais bien une jeune femme d'expérience aux talent exceptionnels.*       
+*La jeune femme à la chevelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière, elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne, mais bien une jeune femme d'expérience aux talents exceptionnels.*       
 **Souvenirs de Brycham l'aventureux**   
 §§§   
 

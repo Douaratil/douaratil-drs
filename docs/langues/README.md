@@ -119,16 +119,16 @@ Il y a cinq degrés qui se décrivent comme suit :
 
 **Conseil** : le degré d'élocution est décrit principalement pour établir la compréhension du message à faire passer, mais aussi et surtout pour donner des indications sur la manière d'interpréter son personnage.    
 
-**En terme de jeu la compréhension écrite/orale est indiquée par chiffre** : le premier étant l'oral. Exemple : Weshlède (3/1) signifie que le commun nordique est maîtrisé au niveau 3 à l'oral et niveau 1 à l'écrit. Une langue peut-être aussi lu et écrite mais non comprise à l'orale car le système linguistique oral et écrit mobilise des ressources différentes.
+**En termes de jeu la compréhension écrite/orale est indiquée par chiffre** : le premier étant l'oral. Exemple : Weshlède (3/1) signifie que le commun nordique est maîtrisé au niveau 3 à l'oral et niveau 1 à l'écrit. Une langue peut-être aussi lue et écrite, mais non comprise à l'oral car le système linguistique oral et écrit mobilise des ressources différentes.
 
 ## La langue maternelle et les autres langues:
 
 La langue maternelle est par défaut maîtrisée au degré 3 à l'oral en ce qui concerne toutes les voies. Concernant la maîtrise de l'écrit, la langue est maîtrisée au degré 3 pour La voie de la Magie, au degré 2 pour La voie de l'Ombre et au degré 1 pour La voie des armes.    
-Les autres langues lorsqu'elles sont acquises à la création du personnage ne concerne que l'oral sauf si c'est précisé. Pour les capacités de certains Archétypes qui permettent de lire certaines écritures sacrées, la limite de compréhension est par défaut de 3.   
+Les autres langues lorsqu'elles sont acquises à la création du personnage ne concernent que l'oral sauf si c'est précisé. Pour les capacités de certains Archétypes qui permettent de lire certaines écritures sacrées, la limite de compréhension est par défaut de 3.   
 Les autres langues doivent suivre le processus normal d'apprentissage.
 
 ## Exception des langues communes:
-Les langues communes permettent aux peuples de communiquer mais leur universalité enlève aussi de leurs spécificités et de leurs subtilités. Contrairement aux autres langues, les langues communes sont limitées à une niveau maximum de 3 (3/3). D'autre part, aucun bonus pour cette maîtrise ne peut-être revendiqué.   
+Les langues communes permettent aux peuples de communiquer, mais leur universalité enlève aussi de leurs spécificités et de leurs subtilités. Contrairement aux autres langues, les langues communes sont limitées à un niveau maximum de 3 (3/3). D'autre part, aucun bonus pour cette maîtrise ne peut être revendiqué.   
 
 ## (optionnel) modificateurs applicables:
 Maîtriser une langue permet de comprendre son interlocuteur et cela est important à prendre en compte pour une question de réalisme. Cependant, pour motiver les joueurs à utiliser cet aspect du jeu, il est possible pour le narrateur d'accorder un bonus si la compétence est au moins au degré 3. Il évolue suivant le degré de maîtrise de la langue : +1 au degré 3, +2 au degré 4 et +3 au degré 5.  
