@@ -33,19 +33,23 @@ Personne originaire d'Alicantys et par extension, originaire de l'Empire. Alican
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Langues**. Vous parlez et écrivez l’*Alcath*, le commun impérial ainsi que la langue alcante, l’*Alcane*.  
 
-&nbsp;
-[![Impérial](https://www.douaratil.fr/illustrations/regles/ethniealcantem.png)](https://www.douaratil.fr/illustrations/regles/ethniealcante.jpg)  
+§§§ .hero
+*Le couple avançait sur le palier de porte de la villa, aux traits impériaux, étaient habillés d'une tunique d'une pièce à manches courtes et de sandales lacées our l'homme, et d'une robe de tissus fins pour la femme. L'homme me fit signe d'avancer. Je déposais une offrande au dieu de foyer à l'entrée et rentrais chez mes hôtes.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ## Les peuples
 
-### Peuple Alycante
+### Peuple Alicante
 
 **Augmentation de caractéristiques**. Votre valeur Sagesse augmente de 1.  
 **Compétences maîtrisées**. Vous maîtrisez l’épée courte.  
 Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycantis, l’*Alcante*, et parler, lire et écrire une langue supplémentaire de votre choix.   
 
-&nbsp;
-[![Alcante](https://www.douaratil.fr/illustrations/regles/ethniealcante2m.png)](https://www.douaratil.fr/illustrations/regles/ethniealcante2.jpg)
+§§§ .hero
+*Les Alycantes étaient les habitants de la mère des cités impériales, la grande Alicantys. Ils étaient à l'origine de l'empire. Peuple de marchands, architectes, artistes et surtout guerriers, ils sont à l'origine de la société la plus avançées depuis des temps légendaires. Les deux autres cités, les "soeurs" se nommaient Avalina et Courdoès.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ### Peuple Avalin
 
@@ -61,6 +65,11 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 
 ### Peuple Lacède
 
+§§§ .hero
+*Les Lacèdes formaient un peuple hétérogène originaire de nombreuses cités qui avaient mis des centaines de cycles à se combattre mutuellement avant la pacification imposée par la conquète de l'empire alcante.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
+
 **Augmentation de caractéristiques**. Votre valeur de Sagesse de 1.  	  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Compétences maîtrisées**. Vous maîtrisez la lance et le bouclier.  
@@ -72,25 +81,36 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Compétences maîtrisées**. Vous maîtrisez le sabre.  
 **Langues supplémentaires**.Vous parlez et écrivez le *Saramath*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
-&nbsp;
-[![Saramath](https://www.douaratil.fr/illustrations/regles/ethniesaramathm.png)](https://www.douaratil.fr/illustrations/regles/ethniesaramath.jpg)
+§§§ .hero
+*Les Saramaths étaient un peuple de tribus bergères, vivant dans les monts escarpés de la chaine de Pithakrès et qui s'etait par le passé souvent trouvé en conflit avec les cités lacènondès.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 # Les Clans Nordiques
 ## Traits communs  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.    
 **Langues**. Vous parlez et écrivez le *Weslèdh*, le commun nordique.  
 
-&nbsp;
-[![Nordique](https://www.douaratil.fr/illustrations/regles/ethnienordiquem.png)](https://www.douaratil.fr/illustrations/regles/ethnienordique.jpg)  
+§§§ .hero
+*Les peuples nordiques formaient une mosaïque d'éthnies qui partageaient la caractéristique principale de vivre dans des conditions très difficile, bien loin de ce que j'avais connu dans le sud des royaumes.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ### Traits du Khernaë
-
+§§§ .hero
+*Les Khernaës étaient l'un des deux peuples principaux de Douaratil, la terre qui se termine dans la mer ou l'astre solaire se couche. Peuple farouche et rustique au regard des moeurs impériaux, ils vivaient peu vêtus, souvent le corps peint de signes sacrés. Les habitations sont en bois et rares sont les édifices en pierres.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 **Augmentation de caractéristiques**. Votre valeur de Dextérité augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Compétences maîtrisées**. Vous maîtrisez le glaive et la hachette.  
 **Langues supplémentaires**. Vous parlez le *Khern*, votre langue maternelle. La langue écrite des Khernaës, les *Omaths*, est sacrée et enseignée à très peu de personnes. Vous pouvez choisir un dialecte local entre le *Bena’ch* et le *Mor’vron*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Traits du Meldète
+§§§ .hero
+*Les Meldètes, ce peuple farouche et fier, étaient connus pour ses terribles guerriers tatoués, les Ioros et leur élite religieuse les Drodanos. Mais plus étranges encore étaient leurs sorciers difformes, les Ambeanamos.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 **Meldète**: peuple voisin des Khernaës, les Meldètes ont autrefois vécu dans le Grand Nord, mais ils en auraient été chassés par des traîtres. Ils ont ensuite longtemps vécu à l'est du continent, puis ils se sont déplacés vers l'ouest et le sud par vagues successives. Autrefois société de chasseurs-cueilleurs nomades, les Meldètes se sont sédentarisés au fil des siècles dans de petits villages indépendants. De grands royaumes ont été créés par regroupements d'intérêts. Au-delà du pouvoir des chefs militaires, le véritable pouvoir dominant est celui des drodanos, l'élite religieuse et intellectuelle.  
 
 **Augmentation de caractéristiques**. Votre valeur de Constitution augmente de 2.  
@@ -99,6 +119,10 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Langues supplémentaires**. Vous parlez le *Mèlde*, votre langue maternelle. La langue écrite, le *Drods* des Meldètes est sacré et donc enseigné seulement aux Drodanos et certains rares lettrés. Vous pouvez choisir un dialecte entre le *Mèldon*, le *Dorodane*, le *Brèdète* et le *Nordhème*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 ### Traits du Melg
+§§§ .hero
+*Ah, les Melgs; je les avais vu, ces terribles cavaliers et leurs marins explorateurs. Je me souvenais surtout de leur accueil et de la liberté et de la générosité de leurs femmes.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 **Melg(e)** : Les Melgs ont occupé le centre du continent et la zone nord sous le cercle polaire depuis les origines. Leurs terres avaient auparavant été occupées par des ancêtres des Khernaës qui ont laissé des cercles de pierres levées, des dolmens et des menhirs. Les Melgs les ont réutilisés pour leurs cultes, en gravant dessus de nombreux holtars et en rajoutant des gravures de dragons, serpents et autres animaux mythiques. Ils sont venus par vagues successives des terres du grand Est, et ont lentement colonisé les plaines et les côtes en suivant les fleuves. Ce sont d'excellents marins et bâtisseurs de bateaux. Leurs origines se perdent dans la nuit des temps, mais leurs traditions les font remonter aux premiers fruits de l'arbre originel Rokolf. On distingue trois branches principales dans le peuple melg : les draükarns qui vivent au bord de la mer, les znorkarns qui vivent dans les plaines de l'est et les welkarns qui habitent à l'ouest.   
 
 **Augmentation de caractéristiques**. Votre valeur de Force augmente de 2.  
@@ -107,6 +131,10 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Langues supplémentaires**. Vous parlez le *Melg* et écrivez en *Bergaf*, votre langue maternelle.  Vous pouvez choisir un dialecte entre le *Draükarn*, le *Welkarn* et le *Znorkarn*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 
 # Peuples asiatiques
+§§§ .hero
+*Les Minghours formaient une mosaïque de peuple orientaux, unis autour d'un mystérieux empereur qui inspirait la crainte à son évocation.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 ### Minghour(e).
 Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oynours ou les Ygouths. Les Oynours forment la principale population minghoure, ce sont des cavaliers nomades cruels. Les Ygouths sont organisés en tribus souvent installées dans des montagnes, Il forme un peuple robuste et combatif. Les Yotakaïs littéralement "les coureurs du vent" forment une tribu minghoure. Les Yotakaïs forment de grands cavaliers et fantassins, redoutables au sabre.  
 
@@ -114,10 +142,13 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 **Augmentation de caractéristiques**. Votre valeur de Dextérité augmente de 1.   
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Langues**. Vous parlez et écrivez le commun Minghour, le *Minghour* et sa déclinaison écrite le *Minghath*.  
-&nbsp;
-[![Asiatique](https://www.douaratil.fr/illustrations/regles/ethnieasiatiquem.png)](https://www.douaratil.fr/illustrations/regles/ethnieasiatique.jpg)  
+
 
 ### Minghour Oynours
+§§§ .hero
+*Le guerrier me regardait de son regard fixe et sombre. Il avaia le teint jauni et paraissait crasseur. Vêtu de peaux de bêtes et de plaques d'armure, il était sur un cheval qui paraissait trop petit pour lui. Il tenait dans la main un petit arc et une flèche à pointes d'os était encochée. C'était un Oynour et il ne devait pas être seul.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 **Augmentation de caractéristiques**. Votre valeur Dextérité augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez l’arc.  
 **Langues supplémentaires**.  Vous parlez et écrivez l’*Oynote*, votre langue natale. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
