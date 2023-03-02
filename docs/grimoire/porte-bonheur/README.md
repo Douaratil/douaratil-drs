@@ -17,5 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Magie   
-**Incantation** : 
+
+**Incantation** : *Que les éléments hostiles deviennent inoffensifs, en ma possession, mon porte-bonheur me protège*    
+
 **Description** : Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, jusqu'à la fin de votre prochain tour, vous bénéficiez d'une résistance aux dégâts élémentaires (acide, feu, froid, foudre).
