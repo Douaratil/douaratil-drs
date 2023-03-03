@@ -48,7 +48,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 
 §§§ .hero
 *Les Alycantes étaient les habitants de la mère des cités impériales, la grande Alicantys. Ils étaient à l'origine de l'empire. Peuple de marchands, architectes, artistes et surtout guerriers, ils sont à l'origine de la société la plus avançées depuis des temps légendaires. Les deux autres cités, les "soeurs" se nommaient Avalina et Courdoès.*       
-**Souvenirs de Brycham l'aventureux**   
+**Des terres et des hommes de Xeophon d’Avalina**   
 §§§   
 
 ### Peuple Avalin
@@ -67,7 +67,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 
 §§§ .hero
 *Les Lacèdes formaient un peuple hétérogène originaire de nombreuses cités qui avaient mis des centaines de cycles à se combattre mutuellement avant la pacification imposée par la conquète de l'empire alcante.*       
-**Souvenirs de Brycham l'aventureux**   
+**Des terres et des hommes de Xeophon d’Avalina**   
 §§§   
 
 **Augmentation de caractéristiques**. Votre valeur de Sagesse de 1.  	  
@@ -83,7 +83,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 **Langues supplémentaires**.Vous parlez et écrivez le *Saramath*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 §§§ .hero
 *Les Saramaths étaient un peuple de tribus bergères, vivant dans les monts escarpés de la chaine de Pithakrès et qui s'etait par le passé souvent trouvé en conflit avec les cités lacènondès.*       
-**Souvenirs de Brycham l'aventureux**   
+**Des terres et des hommes de Xeophon d’Avalina**   
 §§§   
 
 # Les Clans Nordiques
@@ -99,7 +99,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 ### Traits du Khernaë
 §§§ .hero
 *Les Khernaës étaient l'un des deux peuples principaux de Douaratil, la terre qui se termine dans la mer ou l'astre solaire se couche. Peuple farouche et rustique au regard des moeurs impériaux, ils vivaient peu vêtus, souvent le corps peint de signes sacrés. Les habitations sont en bois et rares sont les édifices en pierres.*       
-**Souvenirs de Brycham l'aventureux**   
+**Des terres et des hommes de Xeophon d’Avalina**   
 §§§   
 **Augmentation de caractéristiques**. Votre valeur de Dextérité augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
@@ -109,7 +109,7 @@ Langues supplémentaires. Vous pouvez parler le dialecte de la cité d’Alycant
 ### Traits du Meldète
 §§§ .hero
 *Les Meldètes, ce peuple farouche et fier, étaient connus pour ses terribles guerriers tatoués, les Ioros et leur élite religieuse les Drodanos. Mais plus étranges encore étaient leurs sorciers difformes, les Ambeanamos.*       
-**Souvenirs de Brycham l'aventureux**   
+**Des terres et des hommes de Xeophon d’Avalina**   
 §§§   
 **Meldète**: peuple voisin des Khernaës, les Meldètes ont autrefois vécu dans le Grand Nord, mais ils en auraient été chassés par des traîtres. Ils ont ensuite longtemps vécu à l'est du continent, puis ils se sont déplacés vers l'ouest et le sud par vagues successives. Autrefois société de chasseurs-cueilleurs nomades, les Meldètes se sont sédentarisés au fil des siècles dans de petits villages indépendants. De grands royaumes ont été créés par regroupements d'intérêts. Au-delà du pouvoir des chefs militaires, le véritable pouvoir dominant est celui des drodanos, l'élite religieuse et intellectuelle.  
 
@@ -157,19 +157,16 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 **Augmentation de caractéristiques**. Votre valeur Sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez l'épée.  
 **Langues supplémentaires**. Vous parlez l’*Ygouthy* et écrivez l’*Ygh*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
-&nbsp;
-[![Ygouth](https://www.douaratil.fr/illustrations/regles/ethnieygouthm.png)](https://www.douaratil.fr/illustrations/regles/ethnieygouth.jpg)
+
 ### Minghour Yotakaïs
 **Augmentation de caractéristiques**. Votre valeur Sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez le sabre.  
 **Langues supplémentaires**. Vous pouvez parler le *Yotaï* et écrire le *Yohaï*, votre langue maternelle. Vous pouvez choisir un dialect local entre le *Yoth* (Nord) et le *Athaï* (Sud) Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
-&nbsp;
-[![Yotakaï](https://www.douaratil.fr/illustrations/regles/ethnieyotakaim.png)](https://www.douaratil.fr/illustrations/regles/ethnieyotakai.jpg) 
+
 # Race ancienne
 ## Traits du Selmonite
 ### Selmonite.
-&nbsp;
-[![Selmonite](https://www.douaratil.fr/illustrations/regles/ethnieselmonitem.png)](https://www.douaratil.fr/illustrations/regles/ethnieselmonite.jpg)  
+
 Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorieux.  
 **Augmentation de caractéristiques**. Votre valeur d’Intelligence augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
@@ -190,8 +187,6 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Langues**. Vous parlez et écrivez le commun des royaumes de Shaia, le *Shahim* et sa déclinaison écrite le *Shahiate*.  
 
-&nbsp;
-[![Shahim](https://www.douaratil.fr/illustrations/regles/ethnieshahimm.png)](https://www.douaratil.fr/illustrations/regles/ethnieshahim.jpg)  
 
 ### Peuple Ashkémites
 **Augmentation de caractéristiques**. Votre valeur Constitution augmente de 1.  
@@ -218,8 +213,7 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 ## Traits du Sooghaï
 ### Sooghaï.
 Peuple à la peau noire des royaumes du sud.  
-&nbsp;
-[![Sooghaï](https://www.douaratil.fr/illustrations/regles/ethniesooghaim.png)](https://www.douaratil.fr/illustrations/regles/ethniesooghai.jpg)  
+
 ### Peuple Sooghaï
 **Augmentation de caractéristiques**. Votre valeur de Constitution augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  

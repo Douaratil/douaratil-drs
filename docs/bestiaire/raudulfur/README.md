@@ -33,9 +33,7 @@ environments:
 Le Raudulfur ressemble à un loup de grande taille au pelage roux et long l'été et blanc l'hiver. C'est une créature majestueuse qui se fond parfaitement dans les paysages enneigés des régions nordiques. Son pelage roux et dense l'été est idéal pour se camoufler dans les forêts boréales et traquer ses proies, tandis que son pelage blanc et épais l'hiver lui permet de se fondre dans la neige et de rester au chaud par temps glacial. Le Raudulfur est un prédateur redoutable et un symbole de la nature sauvage des régions nordiques, mais bien plus encore car il est extrêmement rare et appartient au royaume féérique. Le Raudulfur est une expression féérique de la rage de la nature.
 §§§ .hero
 "*Je voulais depuis longtemps rencontrer des créatures mythiques et légendaires au cours de mes voyages. Ce jour dans le nord des terres connues, j'avais entendu parler du Raudulfur, une bête redoutable et majestueuse qui se cachait dans les paysages enneigés des régions nordiques. Un jour, alors que je traversais une forêt dense, j'aperçus une forme imposante qui se mouvait dans les buissons. Je m'approchais lentement, mon cœur battant la chamade.*
-
 *Et c'est là que je le vit, le Raudulfur, magnifique, un loup immense dont le pelage roux et dense se détachait parfaitement de la végétation. Je ne pouvait m'empêcher de le contempler, fasciné par la beauté sauvage de l'animal qui faisait la taille d'un cheval.*
-
 *Soudain, le Raudulfur se retourna vers moi, ses yeux perçants semblant me scruter avec attention. Je sentis un frisson me parcourir l'échine, mais je ne bougeais pas, tétanisé. Le loup majestueux resta immobile un moment, puis s'éloigna rapidement dans la forêt. Je restais là, bouche bée, réalisant que je venais de vivre un moment unique, une rencontre magique. Je cherchais ses empreintes pour le pister, mais à ma grande déception, je n'en découvris aucune*."     
 **Souvenirs de Brycham l'Aventureux**
 §§§
