@@ -17,6 +17,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 ## Mise à jour 176
 **Règles**
 Nombreuses corrections synthaxiques et ajout de dscriptions textuelles.   
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [porte bonheur](/grimoire/porte-bonheur).   
 
 **Bestiaire**
 - Ajout du [Raudulfur](/bestiaire/raudulfur) un loup fée.    
