@@ -146,7 +146,7 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 
 ### Minghour Oynours
 §§§ .hero
-*Le guerrier me regardait de son regard fixe et sombre. Il avaia le teint jauni et paraissait crasseur. Vêtu de peaux de bêtes et de plaques d'armure, il était sur un cheval qui paraissait trop petit pour lui. Il tenait dans la main un petit arc et une flèche à pointes d'os était encochée. C'était un Oynour et il ne devait pas être seul.*       
+*Le guerrier me regardait de son regard fixe et sombre. Il avait le teint jauni et paraissait crasseur. Vêtu de peaux de bêtes et de plaques d'armure, il était sur un cheval qui paraissait trop petit pour lui. Il tenait dans la main un petit arc et une flèche à pointes d'os était encochée. C'était un Oynour et il ne devait pas être seul.*       
 **Souvenirs de Brycham l'aventureux**   
 §§§   
 **Augmentation de caractéristiques**. Votre valeur Dextérité augmente de 1.  
@@ -157,11 +157,19 @@ Ils sont constitués de nombreuses tribus et peuples dont les Yotakaïs, les Oyn
 **Augmentation de caractéristiques**. Votre valeur Sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez l'épée.  
 **Langues supplémentaires**. Vous parlez l’*Ygouthy* et écrivez l’*Ygh*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+§§§ .hero
+*Le peuple ygouth était remarquable à bien des égars. Ils étaient d'excellents batisseurs et de grands conquérants. Ils avaient unifiés des terres qui semblaient s'étendre à l'infini. Pour cette raison, certains disaient qu'ils servaient les dieux directement.*           
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 ### Minghour Yotakaïs
 **Augmentation de caractéristiques**. Votre valeur Sagesse augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez le sabre.  
 **Langues supplémentaires**. Vous pouvez parler le *Yotaï* et écrire le *Yohaï*, votre langue maternelle. Vous pouvez choisir un dialect local entre le *Yoth* (Nord) et le *Athaï* (Sud) Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+§§§ .hero
+*Peu de peuples que j'ai rencontré sont aussi fiers que les Yotakaïs. Leurs guerriers ont tendance à décapiter bien trop souvent à mon goût. La caste guerrière avait en effet un rôle de juge et de bourreau et la peine était souvent la mort. Pour autant, leurs traditions et leur culture était d'un raffinement extrême qui forçait l'admiration.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§   
 
 # Race ancienne
 ## Traits du Selmonite
