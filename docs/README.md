@@ -14,6 +14,20 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 178
+**Nouvelles**
+Il est temps pour moi de donner quelques nouvelles. Je ne sais pas du tout si ce site est suivi, et cela n’a en fait pas d’importance car je le fais pour moi et les amis qui partagent ma tablée de jeu de rôle.   
+Le site n’a pas été mis à jour depuis le 15 mars et pourtant j’ai beaucoup travaillé sur le système, convertissant intégralement les règles de jeu dans d’autres systèmes. Comme souvent dans le cadre de mes créations, il arrive un moment où je deviens perfectionniste. Je veux le système parfait or ce graal n’existe pas.  
+Fort de ce constat, je vais reprendre le maintien du site et enrichir la description des règles, du monde et de la cartographie.  
+Je vous dis donc à bientôt.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 5 août 2023_
+§§§
+
+
 ## Mise à jour 177
 **Règles**
 Ajout de textes descriptifs dans la section [ethnies](/ethnies)
