@@ -760,7 +760,7 @@ module.exports = {
             path: '/dieux-divinites'
           },
           {
-            title: "Inspiration mysicale",
+            title: "Inspiration musicale",
             icon: 'mdi-music',
             path: '/inspimusic'
           },
