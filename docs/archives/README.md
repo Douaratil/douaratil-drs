@@ -9,6 +9,287 @@ toc: false
 
 <v-col cols="12" md="6">
 
+## Mise à jour 177
+**Règles**
+Ajout de textes descriptifs dans la section [ethnies](/ethnies)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 mars 2023_
+§§§
+
+## Mise à jour 176
+**Règles**
+Nombreuses corrections synthaxiques et ajout de dscriptions textuelles.   
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [porte bonheur](/grimoire/porte-bonheur).   
+
+**Bestiaire**
+- Ajout du [Raudulfur](/bestiaire/raudulfur) un loup fée.    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 mars 2023_
+§§§
+
+## Mise à jour 175
+**Règles**
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Peur](/grimoire/peur).   
+
+**Archétypes**    
+- Corrections de l'Archétype Selmonite, un invocateur, le [Kaïshan](/archetypes/kaishan)  
+- Corrections de l'Archétype nordique, la guérisseuse, l'[heilari](/archetypes/heilari)  
+- Corrections de l'Archétype minghour, le [totsuzenshi](/archetypes/totsuzenshi)  
+
+**Bestiaire**
+- Suppression de l'illustration du [Dabbiub](/bestiaire/dabbiub) et ajout de sa description.   
+- Suppression de l'illustration du [Shakhor](/bestiaire/shakhor) et ajout de sa description.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 26 février 2023_
+§§§
+
+## Mise à jour 174
+**Règles**
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie).   
+
+**Archétype**
+- Arrivée d'un nouvel Archétype Selmonite, un invocateur, le [Kaïshan](/archetypes/kaishan)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 22 février 2023_
+§§§
+
+## Mise à jour 173
+**Règles**
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Mutisme/Analgognosie](/grimoire/mutisme-analgognosie).   
+- Refonte des règles d'[affrontement social](/passion-honneur-et-interactions-sociales/#honneur-&-interactions-sociales).    
+Des règles de réputation viendront s'ajouter prochainement.   
+
+**Archétype**
+- Arrivée d'un nouvel Archétype de mage, un sorcier des tempêtes, l'[Eolide](/archetypes/eolide)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 février 2023_
+§§§
+
+## Mise à jour 172
+**Règles**
+- Les sorts dans la section [grimoire](/grimoire) ont une incantation jusqu'au sort [Communion avec la nature](/grimoire/communion-avec-la-nature).   
+- Refonte des règles d'[affrontement social](/passion-honneur-et-interactions-sociales/#honneur-&-interactions-sociales).    
+Des règles de réputation viendront s'ajouter prochainement.    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 17 février 2023_
+§§§
+
+## Mise à jour 171
+**Règles**
+- coup de polish sur les sorts dans la section [grimoire](/grimoire). Les sorts vont être plus décrits, reprenant leurs caractértistiques. Un exemple d'incantation est rajoutée pour les sorts nécessitant des composantes verbales.       
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 10 février 2023_
+§§§
+
+## Mise à jour 170
+**Règles**
+- Refonte de la feuille de personnage dans la section [création du personnage](/creation-du-personnage).     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 6 février 2023_
+§§§
+
+## Mise à jour 169
+**Règles**
+- Après réflexion suppression des règles d'éveil.   
+- Ajustement des montées de niveau dans la section [création du personnage](/creation-du-personnage).     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 5 février 2023_
+§§§
+
+## Mise à jour 168
+**Bestiaire**
+- Poursuite de l'ajout de la mise à jour du bestiaire avec les règles de la [Santé mentale](/sante-mentale).   
+- Ajout du texte descriptif de l'[aigle](/bestiaire/aigle).     
+- Ajout du texte descriptif de [Margs](/bestiaire/margs-maenkalon).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 4 février 2023_
+§§§
+
+## Mise à jour 167
+**Général**
+- Ajouts de divers textes descriptifs.   
+**Règles**
+- Je sais que vous n'osiez pas la demander par timidité mais voici les règles de la [Santé mentale](/sante-mentale). Un monde plus traumatisant désormais.     
+**Bestiaire**
+- Début de l'ajout de la mise à jour du bestiaire avec les règles de la [Santé mentale](/sante-mentale).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 3 février 2023_
+§§§
+
+## Mise à jour 166
+**Général**
+- Suppression progressive des illustrations qui seront remplacées par des textes descriptifs, plus propice à l'ambiance et au développement de l'imagination.   
+**Règles**
+- Révision de la table d'expérience dans la section [Création du personnage](/creation-du-personnage/#evolution-des-personnages).   
+**Bestiaire**
+- Mise à jour des personnages joueurs
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 février 2023_
+§§§
+
+## Mise à jour 165
+
+**Atlas**
+- [Courdoès](/atlas-du-monde/empire-alcante/courdoes/) description de la cité impériale Courdoès.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 23 janvier 2023_
+§§§
+
+## Mise à jour 164
+
+**Atlas**
+- [Phoverys](/atlas-du-monde/empire-alcante/alicantys/#le-quartier-phoverys) description du quartier Phoverys d'Alicantys.
+- [Septentrionalis](/atlas-du-monde/empire-alcante/alicantys/#le-quartier-septentrionalis) description du quartier Septentrionalis d'Alicantys.
+- [Hortus Sacer](/atlas-du-monde/empire-alcante/alicantys/#hortus-sacer) description des jardins d'Hortus Sacer d'Alicantys.
+- [Tabernacula](/atlas-du-monde/empire-alcante/alicantys/#le-quartier-tabernacula) description du quartier Tabernacula d'Alicantys.
+- [Meridianus](/atlas-du-monde/empire-alcante/alicantys/#le-quartier-meridianus) description du quartier Merdianus d'Alicantys.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 22 janvier 2023_
+§§§
+
+## Mise à jour 163
+**Les peuples**  
+- Mise en ligne de la description du peuple [Alcante](/peuples/alcantes).  
+
+**Atlas**
+- Mise en ligne de la ville [Alicantys](/atlas-du-monde/empire-alcante/alicantys) l'une des trois cités principales de l'empire alcante. Les descriptions s'étofferont avec le temps.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 janvier 2023_
+§§§
+
+## Mise à jour 162
+**Règles**  
+- Changement de toutes les illustrations au bénéfice d'un style plus "dark".  
+
+**Monde**  
+- Mise en ligne de la ville [Notteilift](/atlas-du-monde/royaumes-melgs/notteilift) avec une nouvelle carte.  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 janvier 2023_
+§§§
+
+## Mise à jour 161
+**Règles**  
+- Ajout de l'Aga dans l'[herbier](/herbier/alterations-physiques/#aga), une plante qui permet de supporter le manque d'oxygène.
+- Ajout de l'Anekhy dans l'[herbier](/herbier/alterations-physiques/#anekhy), une plante qui permet de se passer de dormir.
+- Ajout de l'Athegax dans l'[herbier](/herbier/alterations-physiques/#anekhy), une plante qui permet supporter les environnements.
+- Ajout de la Belliar dans l'[herbier](/herbier/alterations-physiques/#anekhy), une plante qui permet diminue les mouvements mais augmente la concentration.
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 17 janvier 2023_
+§§§
+
+
+## Mise à jour 160
+**Règles**  
+- Changement des illustrations dans la section [Les trois voies](/voies).
+- Changement des illustrations dans l'archétype de l'[Adoshaï](/archetypes/adoshai).
+- Changement des illustrations dans l'archétype de l'[Alka'him](/archetypes/alkahim).
+- Changement des illustrations dans l'archétype de l'[Ambeanamos](/archetypes/ambeanamos).
+- Changement des illustrations dans la section [Ethnies](/ethnies).
+- Changement des illustrations dans la section [Langues](/langues).
+
+**Bestiaire**  
+- Changement d'illustration de la déesse [Sathyakurm’de](/bestiaire/sathyakurm-de).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 janvier 2023_
+§§§
+
+## Mise à jour 159
+**Règles**  
+- Changement des illustrations dans la section [Création du personnage](/creation-du-personnage).
+- Changement des illustrations dans la section [Ethnies](/ethnies).
+
+**Bestiaire**  
+- Ajout d'[Ylohane](/bestiaire/ylohane) la déesse Khernaée.
+- Changement d'illustration de la déesse [Darthentrhui](/bestiaire/darthentrhui).
+- Changement d'illustration du dieu [Emhyhruigdrux](/bestiaire/emhyhruigdrux).
+- Changement d'illustration de la déesse [Khoulggotateelle](/bestiaire/khoulggotateelle).
+- Changement d'illustration du dieu [Lhaothlastholo](/bestiaire/lhaothlastholo).
+- Changement d'illustration de la déesse [Shandoth](/bestiaire/shandoth).
+- Changement d'illustration de la déesse [Sheggothlil](/bestiaire/sheggothlil).
+- Changement d'illustration du personnage [Gwion Gornoc](/bestiaire/gwiongornoc).
+- Changement d'illustration du personnage [Lochetos vlatcano](/bestiaire/lochetos-vlatcano).
+- Changement d'illustration du personnage [Mrags Maenkalon](/bestiaire/margs-maenkalon).
+- Changement d'illustration du personnage [Moira Dornglas](/bestiaire/moira-dornglas).
+- Changement d'illustration du personnage [Sawrina Semiramis](/bestiaire/sawrina-semiramis).
+- Changement d'illustration du personnage [Shine Hame](/bestiaire/shine-hame).
+- Changement d'illustration du personnage [Tiberius Don ALonzo](/bestiaire/tiberius-don-alonzo).
+- Changement d'illustration du personnage [Yan Zin](/bestiaire/yan-zin).
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 14 janvier 2023_
+§§§
+
+## Mise à jour 158
+
+Tous mes voeux pour cette nouvelle année 2023.
+
+J'espère cette année réussir quelques réalisations concernant Douaratil avec toujours comme projet la sortie du quatrième livre "Les âmes égarées", la reprise d'une nouvelle campagne de Douaratil et aussi pleins d'ajouts au contenu du jeu.  
+
+**Bestiaire**  
+Et pour bien commencer l'année, une entrée dans le bestiaire d'un redoutable berserker melg, l'homme loup :
+- Ajout de l'[Ulfamadur](/bestiaire/ulfamadur).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 10 janvier 2023_
+§§§
 
 ## Mise à jour 157
 **Bestiaire**  
