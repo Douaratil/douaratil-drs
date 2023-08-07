@@ -68,8 +68,10 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Shèmide** | Peuple Shème | Shèm |
 | **Ptolémique** | Peuple Ptolème | Ptolh
 
-&nbsp;
-[![Langues](https://www.douaratil.fr/illustrations/regles/languesm2.png)](https://www.douaratil.fr/illustrations/regles/langues2.jpg)
+§§§ .hero
+*Les deux hommes, vêtus de leurs tenues traditionnelles ashkémites palabraient dans leur dialecte aux résonances gutturales. Ils s'exprimaient en Shkhaam et même ma maîtrise de l'Ashkhèm ne me permettait pas de suivre la conversation. Chaque intonation exprimait une subtilité de la transaction. Juste à côté, les deux dromadaires mâchaient nonchalamment une touffe d'herbes sèches. Une exclamation clôtura la négociation. L'un des deux ashkémites semblait furieux mais je savais qu'il s'agissait d'une convention sociale pour valoriser l'acheteur et lui faire entendre qu'il avait fait une bonne affaire.*       
+**Mes voyages, mes affaires de Solène de Courdo**   
+§§§   
 
 ### Langues sacrées, anciennes et secrètes
 
@@ -89,8 +91,10 @@ Langue ne fonctionne pas comme les autres compétences, mais obéit aux règles 
 Les langues connues peuvent ne pas paraître importantes au prime abord, mais rapidement dans la vie du personnage, les langues deviendront un atout ou un écueil inévitable. Connaître une langue signifie que le personnage sait s'exprimer avec et se faire comprendre. Pour autant, les aspects d'une langue sont beaucoup plus nombreux. Il faut distinguer tout d'abord l'oral et l'écrit. Si ces aspects ne varient pas forcément de l'un à l'autre, cela ne signifie pas qu'ils sont maîtrisés par son utilisateur. La maîtrise de l'oral implique aussi de connaître l'accent ainsi que des formes idiomatiques qui ne sont pas forcément traduisibles dans une autre langue. À l'inverse, connaître l'écriture et la grammaire d'une langue ne signifie pas que l'utilisateur de cette langue saura se faire comprendre à l'oral.
 Dans chaque langue, il existe aussi des dialectes. Ils sont souvent plus faciles à apprendre si la langue courante est maîtrisée. À l'inverse, des langues communes qui recouvrent de grandes portions géographiques existent, mais ne permettent pas d'exprimer des concepts complexes. Au mieux, elles servent pour la vie courante et les tractations commerciales, mais jamais dans des cadres philosophiques, religieux ou légaux.  
 
-&nbsp;
-[![Langues](https://www.douaratil.fr/illustrations/regles/languesm.png)](https://www.douaratil.fr/illustrations/regles/langues.jpg)  
+§§§ .hero
+*Le vieil homme avait le visage émacié, ridé et noirci par le soleil des royaumes de Shahia. Une barbe grise en bataille cernait son menton. Une grande chèche emmaillotait son crâne et ses vêtements larges crasseux le protégeait de la chaleur. Il se tenait assis sur les marches d'entrée de sa demeure. Dans ses mains, il tenait un parchemin végétal comme il en existe dans certaines grandes bibliothèques des royaumes alcantes sur lequel étaient inscrits de signes, qui me paraissaient être de l'alphabet Syride.*       
+**Mes voyages, mes affaires de Solène de Courdo**   
+§§§   
 
 ## Les degrés de langages :
 La maîtrise d'un langage s'exprime en degré. Les degrés concernent l'oral et l'écrit, mais de façon autonome. Pour certaines langues, il n'existe pas d'écrit. À défaut, la langue de base peut servir à l'écrit.  

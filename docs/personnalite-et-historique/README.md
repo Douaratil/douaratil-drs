@@ -28,8 +28,10 @@ C'est l'alignement des créatures qui font ce qu'elles veulent tant qu'elles peu
 ### Chaotique Mauvais (CM)  
 Ces personnes n'hésitent pas à être violentes de manière arbitraire. Elles se laissent mener par leur cupidité, leur haine ou leur soif de sang.
 
-&nbsp;
-[![Personnalités](https://www.douaratil.fr/illustrations/regles/historique02m.png)](https://www.douaratil.fr/illustrations/regles/historique02.jpg)
+§§§ .hero
+*La vieille femme avait l'allure d'une sorcière. Ses doigts étaient crochus, ses ongles sales et longs. Son visage ridé laissait paraitre de petits yeux vitreux. Une longue chevelure grise dépassait de la capuche noir de son manteau de voyage qui avait des allures de guenilles. Elles s'appuyait sur un baton noueux. Elle était repoussante et inspirait la peur. Etait-elle aussi mauvaise qu'elle y paraissait? Evitait-t'elle les opportuns par ce stratagème. je n'aurai su dire mais je passait mon chemin.*         
+**auteur inconnu**   
+§§§   
 
 ## Inspiration
 L'inspiration est une règle que le Narrateur peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses Idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.  
@@ -51,8 +53,10 @@ Vous trouverez dans ce chapitre des exemples d'historiques de personnages concre
 ### Maîtrises
 Chaque historique confère à un personnage la maîtrise de deux compétences. Ces compétences sont décrites dans le [Utiliser les caractéristiques](/utiliser-les-caracteristiques). En plus de cela, la plupart des historiques permettent à un personnage d'acquérir la maîtrise d'un ou plusieurs outils. Ces outils sont décrits dans le chapitre [Équipement - Outils](/outils/). Si un personnage gagne une même maîtrise de deux sources différentes, il peut choisir une maîtrise différente du même type (compétence ou outil) à la place.
 
-&nbsp;
-[![Personnalités](https://www.douaratil.fr/illustrations/regles/personnalitesm.png)](https://www.douaratil.fr/illustrations/regles/personnalites.jpg)
+§§§ .hero
+*Depuis les hauteurs, je regardais les toits de chaumes du village meldète encore endormi. Le matin venait de poindre et une brume enveloppait encore la cime des arbres. ce bourg était entouré d'une haute palissade de rondins de sapins et deux petites tours en gardait la porte d'entrée principale. Les routes étaient plus sûre de nos jours mais ces constructions rappelaient un temps pas si ancien où les choses étaient bien différentes.*         
+**auteur inconnu**   
+§§§   
 
 ### Langues
 Le passé de certains personnages leur donne la capacité de pratiquer des langues supplémentaires à celles accordées par leur race. Reportez-vous à la section [Langues](/personnalite-et-historique/#langues).
@@ -487,8 +491,10 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Équipement** : Ensemble d'outils d'artisan, vêtements courants, objet hérité de l'un de vos parents et dont la valeur est sentimentale, bourse contenant 10 po.  
 **Aptitude** : [Solidarité populaire](/personnalite-et-historique/#solidarite-populaire)  
 
-&nbsp;
-[![Personnalités](https://www.douaratil.fr/illustrations/regles/personnalites2m.png)](https://www.douaratil.fr/illustrations/regles/personnalites2.jpg)
+§§§ .hero
+*La vie est dure ici mais les arbres nombreux. Qui a le courage de souffrir de ses bras, de ne pas compter sa fatigue et sa sueur a sa place parmi nous.*         
+**Belos, chef du village de Semetos**   
+§§§  
 
 ## Voleur à la tire
 **Compétences** : Escamotage, Supercherie.  

@@ -5,13 +5,17 @@ title: Les trois voies
 Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à partir du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
-&nbsp;
-[![Voies](https://www.douaratil.fr/illustrations/regles/voies2m.png)](https://www.douaratil.fr/illustrations/regles/voies2.jpg)
+§§§ .hero
+*Il existe trois voies. Choisir une voie est le choix le plus primordial que vous ferez. De ce choix dépendra votre manière d'appréhender le monde, et ce la jusqu'à la fin de votre existence.*         
+**Maître Shôm**   
+§§§   
 
 # Voie des armes
 ## Évolution de la voie des Armes
-&nbsp;
-[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmesm.png)](https://www.douaratil.fr/illustrations/regles/voiedesarmes.jpg)
+§§§ .hero
+*L'allure fière, la musculature développée... son aisance à se déplacer en armure et son regard fier; c'était un soldat, un vrai et j'allais lui vider la bourse.*         
+**Prostituée anonyme**   
+§§§   
 
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
@@ -80,8 +84,10 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 
 # Voie de l’ombre
 ## Évolution de la voie de l'ombre
-&nbsp;
-[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombrem.png)](https://www.douaratil.fr/illustrations/regles/voiedelombre.jpg)
+§§§ .hero
+*Au premier abord, rien ne l'aurait distingué du quidam mais son déplacement, la façon qu'il avait de guetter et son petit manège autour des habitants les plus riches qui se déplaçaient d'étals en étals me figurait qu'il s'agissait d'un voleur.*         
+**Garde anonyme**   
+§§§   
 
 |Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
 |:-:|:-:|:-:|:-:|
@@ -148,8 +154,10 @@ Au niveau 20, vous avez acquis la mystérieuse faculté de réussir ce que vous 
 Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.
 # Voie de la magie
 ## Évolution de la voie de la magie
-&nbsp;
-[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagiem.png)](https://www.douaratil.fr/illustrations/regles/voiedelamagie.jpg)
+§§§ .hero
+*Tant à apprendre et si peu de temps à vivre. J'ai passé mon existence dans une bibliothèque... et je ne sais rien.*         
+**Orogos l'archimage**   
+§§§   
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|

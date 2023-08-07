@@ -182,11 +182,19 @@ Ancienne race mystérieuse qui a laissé de nombreuses ruines d'un passé glorie
 **Langues**. Vous parlez et écrivez les langues communes : le *Weslèdh*, l’*Alcath*, le *Minghour/Mingath* et le *Shahim/Shaiate*. Vous parlez et écrivez le *Selmh*, votre langue natale qui a la particularité de résonner comme le sifflement d’un serpent. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 **Symbiote démoniaque**. Votre vie symbiotique est étendue à 300 cycles et vous ne craignez pas les maladies, même d’origine magique.  
 **Canal arcanique** : Vous êtes le point de passage des énergies arcaniques environnantes et vous en bénéficiez continuellement. Vous gagnez 1 point de Magie (PM) par niveau, même si vous n'empruntez pas la Voie de la Magie. De plus, comme les membres de la Voie de la Magie, vous ajoutez votre bonus de maîtrise pour déterminer la résistance des sorts que vous lancez. Si vous êtes déjà de la Voie de la Magie, les JS de vos sorts sont augmentés de 1.   
-**Haine ancestrale** Une haine légendaire existe contre les descendants Selmonites qui sont accusés d'avoir déclenché la fin du monde. Ils sont souvent obligés de vivre cachés ou reclus. Tous les tests d’interactions sociales subissent un désavantage envers les autres ethnies.
+**Haine ancestrale** Une haine légendaire existe contre les descendants Selmonites qui sont accusés d'avoir déclenché la fin du monde. Ils sont souvent obligés de vivre cachés ou reclus. Tous les tests d’interactions sociales subissent un désavantage envers les autres ethnies.  
+
+§§§ .hero
+*L'homme qui entra dans la taverne avait une longue chevelure blanche. Tous reconnurent un Selmonite et l'un des client, qui se croyait brave, cracha au pied de l'inconnu. La haine pour les Selmonites était ancestrale et tous les maux du monde semblaient être de leur fait.*       
+**Mes voyages, mes affaires de Solène de Courdo**   
+§§§   
 
 # Royaumes de Shaia
 ## Traits des ethnies shahims
-
+§§§ .hero
+*Les peuples du Sud forment une mosaïque de nation, regroupée sous le nom de royaumes de Shahia. Il y a les Ashkémites qui vivent en tribus autonomes dans les grands déserts de sable au sud du royaume. Il y a les Assyrhims, qui sont constituées de nombreuses royautés, dans les riches et fertiles terres de l'Est. Ils sont connus pour leurs cités aux jardin suspendus et la finesse de leur culture. Il a aussi les terribles Lassymides et leurs flottes de piraterie qui écument les routes commerciales des royaumes alcantes et qui remontent quelques fois bien plus au nord comme ont pu le découvrir les royaumes khernaës et meldètes. Il y a les Shèmes et leurs grandes cités taillées dans les roches du désert. Certains disent que c'est ce peuple qui a uni tous les autres. Leur culture et fine et leurs moeurs brutaux. Ils sont craints et admirés. Enfin, les Ptolèmes sont les lointains cousins des Lacèdes que d'anciennes guerres ont séparés a tout jamais. Proche culturellement des civilisations de Lacénondès, ils ont adoptés les coutumes et les croyances des royaumes du Sud. Cette mosaïque culturelle sont tout autant la force et la faiblesse des royaumes de Shahia.*       
+**Des terres et des hommes de Xeophon d’Avalina**   
+§§§  
 ### Shahim(a).
 Peuples du sud souvent en conflit contre les royaumes Alcantes et Lacèdes. Les Shahims sont composés des éthnies Assyrhims, Ptolèmes, Shèmes, Ashkemites et Lassymides.
 Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrhims forment une civilisation évoluée à l'est de la mer sur un territoire fertile et luxuriant. Les Shèmes vivent dans de grandes cités dans des déserts de roches sur les routes commerciales des épices et des métaux précieux. Les Ashkemites sont des cavaliers nomades qui parcourent le territoire des royaumes de Shahia et les Lassymides forme un peuple de marin, rompu à la piraterie. Tous ces peuples partagent un ancêtre mythologique commun, Sha le premier homme.  
@@ -226,4 +234,9 @@ Peuple à la peau noire des royaumes du sud.
 **Augmentation de caractéristiques**. Votre valeur de Constitution augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**. La lance et la massue.  
-**Langues**. Vous pouvez parler le *Sogh*, langue commune des peuples du sud qui n’a pas de version écrite. Vous parlez le dialecte de votre tribu. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
+**Langues**. Vous pouvez parler le *Sogh*, langue commune des peuples du sud qui n’a pas de version écrite. Vous parlez le dialecte de votre tribu. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+
+§§§ .hero
+*Les hommes étaient musculeux. Leurs corps avaient été huilés pour la vente. Ils avaient la peau noir et leur regard insondable défiait leurs futurs maîtres. Les Sooghaïs étaient chassés par des marchands d'esclaves des royaumes de Shahia. La vile besogne était souvent effectuée par des tribus ennemis qui revendaient leurs prisonniers. Les Sooghaïs n'avaient pas de grands royaumes unis, ce qui facilitait le commerce et les guerres locales. Il n'en allait de même plus au Sud, où peu d'aventuriers se risquaient, car certains Sooghaïs s'étaient unis sous la coupe d'un mystérieux suzerain.*       
+**Souvenirs de Brycham l'aventureux**   
+§§§    

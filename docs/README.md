@@ -12,7 +12,21 @@ toc: false
 <v-col cols="12" md="6">
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
-Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Gabriel [Alf Swenbjörnson](/bestiaire/alf-swenbjornson), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Amaury [Pywed Vecconos](/bestiaire/pywed-vecconos) et [Taron Vecconos](/bestiaire/taron-vecconos), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
+
+## Mise à jour 180
+**Règles**   
+- Ajout de textes descriptifs dans le chapitre des [langues](/langues).   
+- Ajout de textes descriptifs dans le chapitre des [ethnies](/ethnies).  
+- Ajout de textes descriptifs dans le chapitre des [personnalité et historique](/personnalite-et-historique).    
+- Ajout de textes descriptifs dans le chapitre des [voies](/voies).   
+Petit à petit, au fur et à mesure de mon inspiration, je remplace les illustrations qui ne m'appartiennent pas, par des textes descriptifs qui permettront, je l'espère, de ressentir l'ambiance du monde de Douaratil. Ce jeux ce veut "old school" dans sa présentation et laissera la part belle à l'imagination.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 août 2023_
+§§§
 
 ## Mise à jour 179
 **Nouvelles**   
