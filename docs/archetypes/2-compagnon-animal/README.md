@@ -8,8 +8,11 @@ Dans les autres cas, ils peuvent aider leur maître du mieux de leurs capacités
 
 Dans un soucis de simplification, le compagnon animal agit comme une capacité du personnage qui ne peut être utilisé qu'en obtenant le bon résultat sur son dés (non explosif). Ainsi le personnage doit annoncer son action bonus et ensuite vérifier sa réalisation. Cette action bonus intervient au tour du personnage. Elle peut se dérouler dans un rayon de 9 mètres du personnage.   
 
-&nbsp;
-[![Compagnon animal](https://www.douaratil.fr/illustrations/regles/compagnonanimalm.png)](https://www.douaratil.fr/illustrations/regles/compagnonanimal.jpg) 
+§§§ .hero
+*Le jeune Drodan sorti des rangs à l'appel de son nom. Il avait l'allure d'un novice mais l'aigle qui se tenait à son poignet m'indiquait qu'au contraire, il s'agissait d'un maître druide.*         
+**Dans le cercle de pierre de Cenocantos Ateponos**   
+§§§   
+
 
 ### Dégâts
 Le compagnon animal peut causer des dégâts en attaquant (Si 1 obtenu, l'animal s'enfuie pour le reste du combat). L'attaque réussit si le résultat du dés est supérieur ou égal au chiffre requis.

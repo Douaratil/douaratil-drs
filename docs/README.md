@@ -14,6 +14,22 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 181
+**Règles**   
+- Correction d'Archétypes manquants dans le chapitre [présentation](/archetypes/1-presentation) de la section Archétypes.  
+- Ajout de textes descriptifs dans le chapitre [compagnon animal](/archetypes/2-compagnon-animal).   
+- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Adoshaï](/archetypes/adoshai).  
+- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Ambeanamos](/archetypes/ambeanamos).  
+
+**Site**
+- Réparation d'icones de material design qui n'apparaissaient plus.   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 8 août 2023_
+§§§
+
 ## Mise à jour 180
 **Règles**   
 - Ajout de textes descriptifs dans le chapitre des [langues](/langues).   

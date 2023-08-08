@@ -15,14 +15,15 @@ Les Archétypes actuellement disponibles sont :
 - [Dall Dawnser](/archetypes/dall-dawnser/), guerrier mystique khernaë.  
 - [Dorshaïre](/archetypes/dorshaire/), prêtresse de l'eau khernaëe.  
 - [Drodan](/archetypes/drodan/), druide meldète.   
+- [Eolide](/archetypes/eolide/), mage des tempêtes lacède.  
 - [Fürtane](/archetypes/furtane/), guerrière furie khernaëe.  
 - [Gwylwir](/archetypes/gwylwir/), guerrier meldète.  
-- [Eolide](/archetypes/eolide/), mage des tempêtes lacède.  
+- [Heilari](/archetypes/heilari/), guérisseuse de culture clanique. 
 - [Herredyr](/archetypes/herredyr/), homme bête de culture clanique.  
 - [Holtseidar](/archetypes/holtseidar/), maître des runes melg.
 - [Ior](/archetypes/ior/), guerrier frénétique meldète.  
 - [Jargl](/archetypes/jargl/), champion khernaë.  
-- [Jörghal](/archetypes/jorghal/), champion melg. 
+- [Jörghal](/archetypes/jorghal/), champion melg.
 - [Kaïshan](/archetypes/kaishan/), mage invocateur selmonite.   
 - [Legatos](/archetypes/legatos/), leader alcante.  
 - [Llawenos](/archetypes/llawenos/), barde mledète.  

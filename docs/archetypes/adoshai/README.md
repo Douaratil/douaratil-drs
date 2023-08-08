@@ -21,8 +21,10 @@ title: "Adoshaï"
 |**19**|[Frappe psychique (3d6+2)](#frappe-psychique)|
 |**20**|[Véritable Adoshaï](#veritable-adoshai)|
 
-&nbsp;
-[![Adoshaï](https://www.douaratil.fr/illustrations/archetype/adoshaim.png)](https://www.douaratil.fr/illustrations/archetype/adoshai.jpg)  
+§§§ .hero
+*Il avanca d'un pas décidé vers son adversaire. Il semblait avoir au moins soixante printemps mais ne paraissait pas porter le poids de son âge. Il avait le visage émacié, une barbe grise taillée qui était restée noire au niveau du menton. Ses cheveux blancs, qui tombaient bien au-delà de ses épaules étaient attachés en arrière. Il fixa le guide de la caravane ashkémite qui l'avait provoqué. Il ne cilla pas mais l'autre sembla frappé par une main invisible et se retrouva au sol, le nez et la bouche pleine de sang.*         
+**Les temps anciens de Guechtoul Massoud**   
+§§§    
 
 ## Aptitudes d'Archétype
 En tant que Adoshaï, vous bénéficiez des aptitudes d'Archétype suivantes.

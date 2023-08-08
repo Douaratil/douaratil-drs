@@ -273,7 +273,7 @@ module.exports = {
             },
           {
               title: "Bhegelm",
-              icon: 'mdi-celtic-cross',
+              icon: 'mdi-cross-celtic',
               path: '/archetypes/bhegelm',
             },
           {
@@ -288,7 +288,7 @@ module.exports = {
               },
           {
               title: "Drodan",
-              icon: 'mdi-celtic-cross',
+              icon: 'mdi-cross-celtic',
               path: '/archetypes/drodan',
             },
             {
@@ -318,7 +318,7 @@ module.exports = {
             },
           {
               title: "Holtseidar",
-              icon: 'mdi-celtic-cross',
+              icon: 'mdi-cross-celtic',
               path: '/archetypes/holtseidar',
             },
           {
@@ -338,7 +338,7 @@ module.exports = {
             },
             {
               title: "Kaïshan",
-              icon: 'mdi-flame',
+              icon: 'mdi-fire',
               path: '/archetypes/kaishan',
             },
           {
@@ -373,7 +373,7 @@ module.exports = {
             },
           {
               title: "Shangharah",
-              icon: 'mdi-celtic-cross',
+              icon: 'mdi-cross-celtic',
               path: '/archetypes/Shangharah',
             },
           {
@@ -403,7 +403,7 @@ module.exports = {
               },
           {
               title: "Vitnar",
-              icon: 'mdi-celtic-cross',
+              icon: 'mdi-cross-celtic',
               path: '/archetypes/vitnar',
             },
           {
