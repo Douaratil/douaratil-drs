@@ -23,8 +23,10 @@ source: "Elric"
 |**19**|[Maître chimiste](#maitre-chimiste)|
 |**20**|[Véritable Alka'him](#veritable-alka-him)|
 
-&nbsp;
-[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahimm.png)](https://www.douaratil.fr/illustrations/archetype/alkahim.jpg)  
+§§§ .hero
+*Akhim avait une chevelure eben qu'il huilait méticuleusement comme sa barbe avant de travailler au dessus de la table. Il y mélangeait toutes sortes d'ingrédients en prenant soin de ne pas y laisser de poils. Le résultat de ses travaux était souvent surprenant mais toujours efficace. Il savait fabriquer des potions, des poisons mais aussi des explosifs. Ces compétences étaient souvent recherchées.*         
+**Recettes secrètes de Guechtoul Massoud**   
+§§§     
 
 En tant qu'Alka'him', vous bénéficiez des aptitudes d'Archétype suivantes.   
 ### Maîtrises
@@ -105,8 +107,10 @@ Au niveau 15, l'Alka'him subit plusieurs mutations causées par ses fabrications
 |5|Brûlure, jeter 1d6 :(1- Mains, 2- Jambes, 3- Torse, 4- Cou-clavicule, 5- Dos, 6- Tête), Résistance aux dégâts de feu et d’acide. Désavantage aux jets de persuasion.Avantage aux jets d’intimidation.|
 |6|Pupille fendue (voit beaucoup plus nettement lorsqu’il se concentre sur un détail, peut voir 4 fois plus loin que la portée humaine, avantage à tout les jets de perception visuelle)|
 
-&nbsp;
-[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim3m.png)](https://www.douaratil.fr/illustrations/archetype/alkahim3.jpg)  
+§§§ .hero
+*Akhim était mort. Il avait été retiré des décombres après qu'une explosion eut soufflé son laboratoire. Il connaissait les risques, nous aussi, c'est pourquoi nous avions installé ses quartiers loin des habitations communes.*         
+**Recettes secrètes de Guechtoul Massoud**   
+§§§     
 
 ### herboriste confirmé
 **En Shahim: Alshebab Tam'takid**  
@@ -146,8 +150,10 @@ Au niveau 17, l'Alka'him  a très bien compris ce principe élémentaire : rien
 **En Shahim: Mukh'tabar Eh'alkhali**  
 Au niveau 18, l'Alka'him  n’est plus obligé de se trouver dans un laboratoire pour pouvoir travailler, désormais il est capable de s’imaginer dans un laboratoire et ne subit plus de malus. Il a cependant toujours besoin de ses outils et autres matériels.
 
-&nbsp;
-[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim2m.png)](https://www.douaratil.fr/illustrations/archetype/alkahim2.jpg)  
+§§§ .hero
+*Les obsèques d'Akhim avaient été sobres car il n'avait pas de famille. Il ne me restait plus qu'à trouver un nouvel Alka'him.*         
+**Recettes secrètes de Guechtoul Massoud**   
+§§§     
 
 
 ### Maître chimiste

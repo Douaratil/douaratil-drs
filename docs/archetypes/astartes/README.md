@@ -23,8 +23,10 @@ title: Astartes
 |**19**|[Parangon héroïque](#parangon-heroïque)|
 |**20**|[Véritable Astartes](#veritable-astartes)|
 ## Astrates
-&nbsp;
-[![Astartes](https://www.douaratil.fr/illustrations/archetype/astartesm.png)](https://www.douaratil.fr/illustrations/archetype/astartes.jpg)  
+§§§ .hero
+*L'Alcante avait fière allure avec son casque lacède qui revenait sur ses joues, une protection nasale qui barrait son visage de haut en bas et la crête bicolore blanche et noire qui surmontait son crâne et retombait sur ses omoplates. Son armure était constituée d'un pectoral doré et ses bras et ses cuisses étaient protégés par des manches d'écailles.*       
+**Des terres et des hommes de Xeophon d’Avalina**   
+§§§   
 ## <v-icon>mdi-weight-lifter</v-icon> Aptitudes d'Archétype
 En tant que Astartes, vous bénéficiez des aptitudes d'Archétype suivantes.
 
