@@ -17,7 +17,7 @@ title: Ambeanamos
 |**18**|[Présence puissante](#presence-puissante)|
 |**20**|[Véritable Ambeanamos](#veritable-ambeanamos)|
 
-## Ambeanamos
+
 §§§ .hero
 *Je le croisais aux abords des marais. L'homme paraissait sale, habillé de guenilles. Il boitait mais en s'éloignant de moi, je savais qu'il me regardais avec ses petits yeux gris mauvais. Il devait s'agir d'un Ambeanamos et on m'avait conseillé de les éviter et de m'en méfier.*         
 **Dans le cercle de pierre de Cenocantos Ateponos**   

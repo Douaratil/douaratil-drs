@@ -22,9 +22,10 @@ title: Bhegelm
 |**19**|[Monture sacrée parfaite](#monture-sacree-parfaite)|
 |**20**|[Archidruide](#archidruide), [Véritable Bhegelm](#veritable-bhegelm)|
 
-## Bhegelm
-&nbsp;
-[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm2m.png)](https://www.douaratil.fr/illustrations/archetype/bhegelm2.jpg)  
+§§§ .hero
+*Mael était un Beghelm. Ce novice avait choisi la voie de la prêtrise. Il était reconnaissable aux omaths bleus qui étaient peint sur sa peau et qui mettait en évidence son regard céluréen. C’était un Khernaë. A l’instar de ses omologues meldètes, il partageait de nombreuses similitudes avec les Drodanos, cependant, la corneille, animal psychopompe, qui l’accompagnait l’apparentait à l’ancestrale tradition khernaëe.*         
+**Dans le cercle de pierre de Cenocantos Ateponos**   
+§§§   
 
 ## Aptitudes d'Archétype  
 En tant que Bhegelm, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -118,9 +119,10 @@ La créature est consciente de cet effet avant de vous attaquer.
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de druide ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
 
-## Bhegelm
-&nbsp;
-[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelmm.png)](https://www.douaratil.fr/illustrations/archetype/bhegelm.jpg)
+§§§ .hero
+*Le vieil homme s’appuyait sur un vieux bâton gravé d’omath. Son front était ceint d’un bandeau de cuir tressé et à son cou, tenue par une lanière de cuir, une griffe d’ours charognard ballottait sur sa poitrine. Il portait une longue robe de lin blancl’apparentait à l’ancestrale tradition khernaëe.*         
+**Dans le cercle de pierre de Cenocantos Ateponos**   
+§§§   
 
 ### Véritable Bhegelm  
 **En Khern : Bhegelm**

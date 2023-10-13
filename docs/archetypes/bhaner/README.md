@@ -23,7 +23,7 @@ title: bhaner
 |**19**|[Inspiration supérieure](#inspiration-supérieure)|
 |**20**|[Véritable Bhaner](#veritable-bhaner)|
 
-## Bhaner
+
 §§§ .hero
 *L'artiste qui enchantait l'assemblée était une femme à la belle chevelure rousse. Ses doigts courraient sur le manche d'une cithare et sa voix avait fait taire toutes les conversations des clients de la taverne. Il s'agissait d'une barde khernaëe, c'était une Bhanere.*       
 **Des terres et des hommes de Xeophon d’Avalina**   
