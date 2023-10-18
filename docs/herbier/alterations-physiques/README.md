@@ -83,3 +83,43 @@ En cas de réussite, il trouvera 3d6 doses par heure de prospection.
 La belliar est utilisé principalement pour ses hautes qualités d'augmentation de la concentration. La consommation de sa fleur donne -3 aux manœuvres et aux attaques de mêlées. Ajoute +5 aux sorts et aux attaques à distance. Euphorie. Dure 1 heure.
 *Pâte à mâcher* (herboristerie/Survie DD 22, 1 dose) : Il faut 10 fleurs (doses) de belliar pour constituer une dose consommable.   
 Valeur : 25 pièces d’or la dose.  
+
+## Beflo
+**Description**  
+La beflo est une plante qui pousse dans les zones tempérées herbeuses. Sa fleur est connue pour modifier les perceptions.
+
+**Localisation**    
+Le prospecteur devra réussir un test en Survie dans une zone tempérée herbeuse.  
+**Hivers** :DD 28   
+**Printemps** :DD 22    
+**Eté** :DD 22   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 2d6 doses par heure de prospection.  
+**Valeur** : 3 pièces d'or la dose.  
+**Facteur d'addiction** :  Important (4)  
+**Facteur d’intoxication**:(2)
+
+**Utilisation**  
+Le beflo est utilisé principalement pour ses capacités à modifier les perceptions. La consommation de ses fleurs triple la distance de vision et permet de voir dans le le noir à 15 mètres pendant 1d6 heures.    
+*Tisane* (herboristerie/Survie DD 16, 1 dose) : Il faut 5 fleurs (doses) de beflo pour constituer une dose consommable.   
+Valeur : 15 pièces d’or la dose.  
+
+## Elben
+**Description**  
+L'elben est une plante qui pousse dans les zones de plaines herbeuses tempérées. Sa racine est connue pour accélérer le coeur.
+
+**Localisation**    
+Le prospecteur devra réussir un test en Survie dans une zone de plaine tempérée herbeuse.  
+**Hivers** :DD 28   
+**Printemps** :DD 22    
+**Eté** :DD 22   
+**Automne** :DD 28   
+En cas de réussite, il trouvera 1d6 doses par heure de prospection.  
+**Valeur** : 1 pièces d'or la dose.  
+**Facteur d'addiction** :  Très faible (1)  
+**Facteur d’intoxication**:(2)
+
+**Utilisation**  
+L'elben est utilisé principalement pour ses capacités à accélérer le coeur. La consommation de racine en tisane permet d'accélérer le coeur est ainis de donner un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pendant 1d6 rounds aux tests de Dextérité de de rajouter 1m au déplacement par round.    
+*Tisane* (herboristerie/Survie DD 16, 1 dose) : Il faut 2 racines (doses) d"elben pour constituer une dose consommable.   
+Valeur : 10 pièces d’or la dose.  

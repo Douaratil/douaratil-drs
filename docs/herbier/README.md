@@ -36,11 +36,11 @@ Pour ne pas devenir dépendant d'une substance, il suffit de réussir un JS de C
 Une personne sous addiction a des troubles de comportement et subit les effets d'une [folie passagère](/folie/#folie-passagere). Il faut résister 1d6 jours au manque pour être libéré de son addiction.   
 
 ### Facteur d'intoxication
-Certaines plantes ou substances peuvent entraîner des effets indésirables si elles sont consommées en surdose ou pire que le produit n'est pas consommable et que son utilisation ait été comprise. Chaque fois qu'un produit est ingéré, inhalé (qu'il pénètre dans l'organisme) le facteur d'intoxication est cumulé. Si le facteur d'intoxication dépasse la valeur de constitution, des effets indésirables peuvent apparaître et un test de 3d6 sous caractéristique de constitution (CON). Si le test est supérieur se référer à la table ci-dessous (lancer 1d6).
+Certaines plantes ou substances peuvent entraîner des effets indésirables si elles sont consommées en surdose ou pire que le produit n'est pas consommable et que son utilisation ait été incomprise. Chaque fois qu'un produit est ingéré, inhalé (qu'il pénètre dans l'organisme) le facteur d'intoxication est cumulé (additionné). Si le facteur d'intoxication dépasse la valeur de constitution, des effets indésirables peuvent apparaître et un test de 3d6 sous caractéristique de constitution (CON). Si le test est supérieur se référer à la table ci-dessous (lancer 1d6).
 
 
 
-| Si 3d6<CON|Effet | Description |  
+| Si 3d6+intox>CON|Effet | Description |  
 |:-|:-:|:-:|
 |1| Crampes abdominales | 1d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales|  
 |2| Nausée | 2d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales |  

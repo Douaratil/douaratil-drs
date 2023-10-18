@@ -13,7 +13,7 @@ Note: Le facteur d'intoxication est à titre d'information. Normalement, Certain
 L'Akhase est une plante de grande taille qui pousse dans les zones tempérées et herbeuses parmis les hautes herbes. L'utilisation de sa sève a la propriété de dynamiser son utilisateur et d'accélérer la guérison d'une bessure majeure.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse parmis les hautes herbes:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et herbeuse parmis les hautes herbes:   
 **Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 16   
@@ -33,7 +33,7 @@ Valeur : 12 pièces d'or la dose.
 L'Alenas est une plante de petite taille qui pousse dans les zones tempérées sous des forêts de conifères. L'utilisation de sa feuille a la propriété de guérir son utilisateur de n'importe quelle maladie.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée sous des forêts de conifères:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée sous des forêts de conifères:   
 **Hivers** :DD 35  
 **Printemps** :DD 22  
 **Eté** :DD 28   
@@ -73,7 +73,7 @@ Valeur : 1 pièces d'or la dose.
 L'Atanath est une mousse qui pousse dans les zones tempérées au bord des rivières. L'utilisation de sa feuille a la propriété de stopper une fièvre.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée au bord d'une rivière:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée au bord d'une rivière:   
 **Hivers** :DD 12  
 **Printemps** :DD 12  
 **Eté** :DD 16   
@@ -93,7 +93,7 @@ Valeur : 8 pièces d'or la dose.
 Le cèpate est un champignon qui apparaît après l’été à l’orée des bois et sur les coteaux des montagnes. Les cèpates présentent à l'état adulte, ils présentent une silhouette avec un chapeau convexe, souvent épais et en forme de coussin: ils sont dits pulvinés. Ils ont tous une surface comme une éponge sous le chapeau constituée de tubes au lieu de lames comme chez d’autres champignons. Ces tubes ont une variété de couleurs comme le rouge, le blanc, le marron le gris et le vert olive quand ils vieillissent. La marge ou bord du chapeau est enroulée. Ils ont pied ventru ou en forme de massue, il est parfois recouvert d'un réseau de mailles. Ils peuvent aussi développer une saveur amère ou poivrée et s'ils restent comestibles, ils sont immangeables.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie:  
+Le prospecteur devra réussir un test en Survie:   
 **Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 22   
@@ -141,7 +141,7 @@ Valeur : 1 pièce d’or la dose.
 Le Dherene est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de son écorce a la propriété de repousser les insectes par son odeur dans un rayon de 15 mètres.
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:   
 **Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 16   
@@ -164,7 +164,7 @@ Les fleurs sont de couleur blanc ivoire et la période de floraison s’étale s
 
 **Localisation**  
 L’ églantiane se trouve dans les fourrés arbustifs.  
-Le prospecteur devra réussir un test en Survie:  
+Le prospecteur devra réussir un test en Survie:    
 **Hivers** :DD 16  
 **Printemps** :DD 16  
 **Eté** :DD 22   
@@ -227,7 +227,7 @@ Valeur : 5 pièces d’or la dose.
 Le Felmetter est un arbre qui pousse dans les zones tempérées et océaniques. L'utilisation de ses feuilles a la propriété de réveiller d'un comas mais aussi de contacter un ami (animal ou personne) dans un rayon de 100 mètres par niveau.  
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et océanique:   
 **Hivers** :DD 28  
 **Printemps** :DD 16  
 **Eté** :DD 12   
@@ -248,7 +248,7 @@ La Fortliane est une liane hallucinogène utilisées dans la tradition chamaniqu
 
 **Localisation**  
 La Fortliane se trouve en forêt ou contre des parois rocheuses orientées au sud car elle apprécie la lumière du soleil.  
-Le prospecteur devra réussir un test en survie:
+Le prospecteur devra réussir un test en survie:   
 **Hivers** :DD 28  
 **Printemps** :DD 22  
 **Eté** :DD 22   
@@ -314,7 +314,7 @@ Les fleurs blanches sont réunies par groupes d'une dizaine.
 Les fruits, composés, sont formés d'un ensemble de petites boules rouges. Non adhérentes au cône du réceptacle, elles s'en détachent facilement à maturité.  
 
 **Localisation**  
-Son habitat naturel se situe surtout dans les sous-bois montagneux, généralement en dessous de quatre mille cinq cent pieds, mais on la trouve aussi en plaine. Dans son milieu naturel, on observe que la frambole est souvent associé à d'autres plantes telles que le hêtre, le sorbier ou le sureau. Le prospecteur devra réussir un test en Survie:
+Son habitat naturel se situe surtout dans les sous-bois montagneux, généralement en dessous de quatre mille cinq cent pieds, mais on la trouve aussi en plaine. Dans son milieu naturel, on observe que la frambole est souvent associé à d'autres plantes telles que le hêtre, le sorbier ou le sureau. Le prospecteur devra réussir un test en Survie:   
 **Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 12   
@@ -388,7 +388,7 @@ L'état produit par la plante s'apparente à un état de somnambulisme, de rêve
 La Latha est une plante qui pousse dans les zones tempérées et côtes froides. L'utilisation de ses tiges a la propriété de renforcer la résistance aux maladies en octroyant un bonus de +2 aux tests pendant 24h.
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone tempérée et côte froide:
+Le prospecteur devra réussir un test en Survie dans une zone tempérée et côte froide:   
 **Hivers** :DD 16  
 **Printemps** :DD 16  
 **Eté** :DD 16   
@@ -577,7 +577,7 @@ Valeur : 33 pièces d’or la dose.
 La Thurd est une mousse qui pousse dans les zones froide et côtes froides. Son utilisation offre une résistance prolongée aux maladies en octroyant un bonus de +2 aux tests pendant 2d6 jours.
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone froide et côte froide:
+Le prospecteur devra réussir un test en Survie dans une zone froide et côte froide:   
 **Hivers** :DD 16  
 **Printemps** :DD 16  
 **Eté** :DD 16   
@@ -597,7 +597,7 @@ Valeur : 10 pièces d'or la dose.
 Le Ubhar est une plante qui pousse dans les zones froide et près des glaciers. Son utilisation offre une qualité nutritive rare qui permet de survivre dans des zones froides et hostiles. Une dose permet de nourrir une personne pour une journée.   
 
 **Localisation**  
-Le prospecteur devra réussir un test en Survie dans une zone froide et près des glaciers:
+Le prospecteur devra réussir un test en Survie dans une zone froide et près des glaciers:   
 **Hivers** :DD 22  
 **Printemps** :DD 16  
 **Eté** :DD 12   

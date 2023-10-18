@@ -14,9 +14,28 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 184
+**Herbier : soins des organes**   
+- Ajout de la racibe d'[Ebendour](/herbier/soins-organes/#ebendour).    
+- Ajout de la baie de [Kadura](/herbier/soins-organes/#kadura).   
+- Ajout de l'herbe de [Pasarane](/herbier/soins-organes/#pasarane).   
+- Ajout de la [Soloste](/herbier/soins-organes/#soloste).   
+- Ajout de la coque de [Tarna](/herbier/soins-organes/#tarna).   
+- Ajout de la coque de [Weshkevh](/herbier/soins-organes/#weshkevh).   
+
+**Herbier : altérations physiques**   
+- Ajout de la fleur de [Beflo](/herbier/alterations-physiques/#beflo).   
+- Ajout de la racine d'[Elben](/herbier/alterations-physiques/#elben).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 octobre 2023_
+§§§
+
 ## Mise à jour 183
 **Règles**   
-- Ajout de textes descriptifs dans le chapitre d'Archétype de le [Bhegelm](/archetypes/bhegelm).    
+- Ajout de textes descriptifs dans le chapitre d'Archétype du [Bhegelm](/archetypes/bhegelm).    
 
 Bon jeu.     
 §§§ .text-right
