@@ -14,6 +14,26 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 185
+
+**Herbier : altérations physiques**   
+- Ajout de l'algue [Gulvar](/herbier/alterations-physiques/#gulvar).   
+- Ajout de la feuille de [Gwolof](/herbier/alterations-physiques/#gwolof).   
+- Ajout de la poudre de [Jahif](/herbier/alterations-physiques/#jahif).   
+- Ajout de la pâte de [Kitan](/herbier/alterations-physiques/#kitan).  
+- Ajout de la racine de [Kofmote](/herbier/alterations-physiques/#kofmote).  
+- Ajout des bourgeons de [Klagath](/herbier/alterations-physiques/#klagath).  
+- Ajout des noix de [Markol](/herbier/alterations-physiques/#markol).  
+
+**Bestiaire : fée**   
+- Ajout du [Louarndou](/bestiaire/louarndou).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 20 octobre 2023_
+§§§
+
 ## Mise à jour 184
 **Herbier : soins des organes**   
 - Ajout de la racibe d'[Ebendour](/herbier/soins-organes/#ebendour).    
