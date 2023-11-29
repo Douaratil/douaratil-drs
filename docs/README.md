@@ -14,6 +14,17 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 186
+
+**Roman**   
+C'est avec une certaine émotion que je vous annonce la sortie de mon quatrième roman qui clôture la saga de Douaratil. Il m'aura fallu une dizaine d'année pour l'écrire mais désormais il est là. Vous pouvez trouver la série dans la [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) mais aussi commander chez votre libraire favori. Les livres étant imprimés à la demande, prévoyez un petit délai avant réception. 
+
+Bonne lecture.     
+§§§ .text-right
+_**Olivier**_,  
+_le 10 novembre 2023_
+§§§
+
 ## Mise à jour 185
 
 **Herbier : altérations physiques**   
@@ -151,8 +162,7 @@ Bon jeu à tout le monde !
 1 - Douaratil : L'honneur perdu  
 2 - Douaratil : L'ombre intime  
 3 - Douaratil : Le hurlement du loup  
-**A VENIR**  
-4 - Douaratil : Les âmes égarées (2023)   
+4 - Douaratil : Les âmes égarées     
 Mais aussi dans le même monde:   
 1 - Yerkum : Les dunes de sang  
 
