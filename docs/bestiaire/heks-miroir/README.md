@@ -50,7 +50,7 @@ _**Laideur déconcertante**_. Quand une créature affronte une heks miroir, quel
 _**Attaques multiples**_. La heks miroir peut utiliser sa _malédiction de reconfiguration_ et faire une attaque de corps à corps.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 5d6 + 3 dégâts perforants ou 10d6 + 3) dégâts perforants contre une cible [_étourdie_](/gerer-la-sante-du-personnage/#etourdi).
+_Touché_ : 5d6 + 3 dégâts perforants ou 10d6 + 3 dégâts perforants contre une cible [_étourdie_](/gerer-la-sante-du-personnage/#etourdi).
 
 _**Bâton**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 + 2 dégâts contondants.
