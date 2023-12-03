@@ -14,6 +14,30 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 188
+
+**Grimoire : incantations**   
+- Ajout de l'incantation du sort [possession](/grimoire/possession).  
+- Ajout de l'incantation du sort [pourriture](/grimoire/pourriture).  
+- Ajout de l'incantation du sort [prémonition](/grimoire/premonition).  
+- Ajout de l'incantation du sort [présence bienfaitrice](/grimoire/presence-bienfaitrice). 
+- Ajout de l'incantation du sort [prestidigitation](/grimoire/prestidigitation). 
+- Ajout de l'incantation du sort [prière de soins](/grimoire/priere-de-soins). 
+- Ajout de l'incantation du sort [produire une flamme](/grimoire/produire-une-flamme). 
+- Ajout de l'incantation du sort [projectile magique](/grimoire/projectile-magique).  
+- Ajout de l'incantation du sort [projectile toxique](/grimoire/projectile-toxique).  
+- Ajout de l'incantation du sort [projection astrale](/grimoire/projection-astrale).  
+- Ajout de l'incantation du sort [protection contre la mort](/grimoire/protection-contre-la-mort).  
+- Ajout de l'incantation du sort [protection contre le mal et le bien](/grimoire/protection-contre-le-mal-et-le-bien).  
+- Ajout de l'incantation du sort [protection contre le poison](/grimoire/protection-contre-le-poison).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 2 décembre 2023_
+§§§
+
 ## Mise à jour 187
 
 Pour étoffer un peu le bestiaire, je vous propose un corbeau fée des contrées nordiques. Peut-être que vous aventuriers auront la chance de le croiser dans les neiges éternelles du grand froid.  
@@ -74,86 +98,6 @@ Bon jeu.
 _**Olivier**_,  
 _le 18 octobre 2023_
 §§§
-
-## Mise à jour 183
-**Règles**   
-- Ajout de textes descriptifs dans le chapitre d'Archétype du [Bhegelm](/archetypes/bhegelm).    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 10 septembre 2023_
-§§§
-
-## Mise à jour 182
-**Règles**   
-- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Alkha'him](/archetypes/alkahim).    
-- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Astartes](/archetypes/astartes).  
-- Ajout de textes descriptifs dans le chapitre d'Archétype du [Bhaner](/archetypes/bhaner).  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 12 août 2023_
-§§§
-
-## Mise à jour 181
-**Règles**   
-- Correction d'Archétypes manquants dans le chapitre [présentation](/archetypes/1-presentation) de la section Archétypes.  
-- Ajout de textes descriptifs dans le chapitre [compagnon animal](/archetypes/2-compagnon-animal).   
-- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Adoshaï](/archetypes/adoshai).  
-- Ajout de textes descriptifs dans le chapitre d'Archétype de l'[Ambeanamos](/archetypes/ambeanamos).  
-
-**Site**
-- Réparation d'icônes de material design qui n'apparaissaient plus.   
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 8 août 2023_
-§§§
-
-## Mise à jour 180
-**Règles**   
-- Ajout de textes descriptifs dans le chapitre des [langues](/langues).   
-- Ajout de textes descriptifs dans le chapitre des [ethnies](/ethnies).  
-- Ajout de textes descriptifs dans le chapitre des [personnalité et historique](/personnalite-et-historique).    
-- Ajout de textes descriptifs dans le chapitre des [voies](/voies).   
-Petit à petit, au fur et à mesure de mon inspiration, je remplace les illustrations qui ne m'appartiennent pas, par des textes descriptifs qui permettront, je l'espère, de ressentir l'ambiance du monde de Douaratil. Ce jeu se veut "old school" dans sa présentation et laissera la part belle à l'imagination.   
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 7 août 2023_
-§§§
-
-## Mise à jour 179
-**Nouvelles**   
-- Mise en place d'une page de soutien via le site [Tipeee](https://fr.tipeee.com/douaratil).   
-- Réorganisation de la page d'accueil.   
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 6 août 2023_
-§§§
-
-## Mise à jour 178
-**Nouvelles**   
-Il est temps pour moi de donner quelques nouvelles. Je ne sais pas du tout si ce site est suivi, et cela n’a en fait pas d’importance car je le fais pour moi et les amis qui partagent ma tablée de jeu de rôle.   
-Le site n’a pas été mis à jour depuis le 15 mars et pourtant j’ai beaucoup travaillé sur le système, convertissant intégralement les règles de jeu dans d’autres systèmes. Comme souvent dans le cadre de mes créations, il arrive un moment où je deviens perfectionniste. Je veux le système parfait or ce graal n’existe pas.  
-Fort de ce constat, je vais reprendre le maintien du site et enrichir la description des règles, du monde et de la cartographie.  
-Je vous dis donc à bientôt.
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 5 août 2023_
-§§§
-
-
-
-
 
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 

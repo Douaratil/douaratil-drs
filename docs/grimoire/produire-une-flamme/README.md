@@ -17,7 +17,10 @@ classes:
     - Foi
 ---
 **Coût** : 1 point de Foi  
-**Incantation** : 
+
+**Incantation** : *Au crépuscule des mystères, là où les ombres dansent avec le feu,*    
+*Je convoque la magie des flammes, une danse ardente née du néant, embrasant la nuit de son éclat féerique.*    
+
 **Description** : Une flamme vacillante apparaît dans votre main en embrasant votre ingrédient. Elle y reste pendant toute la durée du sort et ne vous blesse pas, pas plus qu'elle n'endommage votre équipement. La flamme émet une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Le sort se termine si vous le révoquez par une action ou si vous le lancez de nouveau.  
 
 Vous pouvez attaquer avec la flamme, mais cela met fin au sort. Pour cela, quand vous lancez le sort, ou par une action lors d'un tour ultérieur, vous lancez la flamme sur une créature située dans un rayon de 9 mètres. Faites une attaque de sort à distance. Si vous touchez, la cible subit 2d6 dégâts de feu.  
