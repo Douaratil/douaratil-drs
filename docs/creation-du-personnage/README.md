@@ -48,7 +48,7 @@ La **Sagesse** mesure l'intuition et la perspicacité du personnage, sa capacit�
 
 Le **Charisme** traduit les aptitudes sociales du personnage et sa personnalité. C'est le Charisme qui permet de persuader, d'enjoliver ou d'attirer les regards sur soi au moment opportun. Le charisme permet de calculer les points d’honneur (PH).  
 
-Plus d'informations sont fournies sur ces six caractéristiques au [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
+Plus d'informations sont fournies sur ces six caractéristiques au chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
 
 §§§ .hero
 *La jeune femme me faisait forte impression. Certes je n'étais pas insensible à son charme avec ses cheveux noirs attachés qui retombaient sur ses épaules. Son regard noir était insondable. Elle portait une armure légère de cuir sombre et une dague. Je la trouvais charismatique.*       
