@@ -142,7 +142,8 @@ Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie
 
 ## Kahina ult Bouhen
 &nbsp;
-[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpg)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpg)   
 §§§
 |Kahina ult Bouhen|Ashkhémite|
 |:-:|:-:|

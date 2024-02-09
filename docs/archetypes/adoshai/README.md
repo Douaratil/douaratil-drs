@@ -26,6 +26,8 @@ title: "Adoshaï"
 **Les temps anciens de Guechtoul Massoud**   
 §§§    
 
+[![Adoshai](https://www.douaratil.fr/illustrations/archetype/adoshai300.jpeg)](https://www.douaratil.fr/illustrations/archetype/adoshai.jpeg)   
+
 ## Aptitudes d'Archétype
 En tant que Adoshaï, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -78,6 +80,8 @@ Au niveau 8, l'Adoshaï peut utiliser la capacité équivalente au sort [Confusi
 **En Selm : Oshess**  
 Au niveau 9, l'Adoshaï est tellement conscient de son environnement qu'il ne peut plus être surpris. Lors d'un round de surprise, il peut agir normalement à son initiative.  
 
+[![Adoshai](https://www.douaratil.fr/illustrations/archetype/adoshai2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/adoshai2.jpeg)   
+
 ### Attaque supplémentaire  
 **En Selm : Issessus**  
 À partir du niveau 10, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
@@ -89,7 +93,9 @@ Au niveau 11, l'Adoshaï peut utiliser la capacité équivalente au sort [Sugges
 
 ### Cinglante réalité
 **En Selm : Oo'shishi hasisah**   
-Au niveau 13, l'Adoshaï peut utiliser action bonus et/ou action pour porter une [Frappe psychique](#frappe-psychique) à 360°.
+Au niveau 13, l'Adoshaï peut utiliser action bonus et/ou action pour porter une [Frappe psychique](#frappe-psychique) à 360°.  
+
+[![Adoshai](https://www.douaratil.fr/illustrations/archetype/adoshai3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/adoshai3.jpeg)   
 
 ### Coercition mystique
 **En Selm : Hishih'ashuash**   

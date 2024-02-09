@@ -68,10 +68,8 @@ category: "PJ"
 ---
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Margs Maenkalon V3.1 20230224.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Margs Maenkalon PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Margs Maenkalon
-§§§ .hero
-*Margs Maenkalon était un guerrier bhegelm et en tant que tel garant de la loi religieuse khernaëe. Il veillait à faire appliquer les leznens, les lois orales. Les Khernaës pouvaient être décrits comme farouches, et Margs en était le parfait exemple. Il avait la peau mate, des cheveux bruns et une tête rasée sur le côté, ce qui lui donnait un regard insondable. De stature moyenne mais musculeuse, il pesait cent quatre vingt livres et portait une barbe fournie longue et une chevelure graissée, rasée sur le côté du crâne. Une cicatrice entre ses omoplates lui rappelait le trait d'un archer alcante.*   
-*Margs était connu pour habileté à l'épée. Margs était respecté et craint parmi les Khernaës pour sa détermination à protéger la loi religieuse de son peuple. Il était un guerrier fier et intrépide, qui n'hésitait pas à défendre ses convictions.*   
-**Souvenirs d'Ailynn la voyageuse**   
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs.jpeg)    
 §§§  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 50       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
@@ -83,6 +81,9 @@ category: "PJ"
 **Langues maîtrisées**. Une langue au choix.  
 **Équipement**.  Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.  
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)   
+
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs2300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs2.jpeg)    
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, gourdins, dagues, fléchettes, javelines, massues, bâtons, cimeterres, serpes, frondes, lances), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste.
 
@@ -116,6 +117,9 @@ Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (vo
 
 Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.    
 
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs3300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs3.jpeg)    
+
 _**Monture sacrée**_. *(Bhegelm)*  À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.  
 
 _**Traversée des terrains**_. *(Bhegelm)*  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
@@ -135,6 +139,8 @@ La créature est consciente de cet effet avant de vous attaquer.
 _**Compagnon animal corneille blanche**_. *(Bhegelm)*  À partir du niveau 16, une corneille blanche vient au service du Bhegelm. Elle peut s’éloigner à 150 mètres par niveau. La corneille blanche voit le monde de l’invisible, les esprits et peut avertir le Bhegelm de leur présence.  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs4300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs4.jpeg)    
 
 _**Attaques multiples**_. Margs effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
 
@@ -153,6 +159,9 @@ _Touché_ : 2d6+5 dégâts tranchants (Finesse, légère).
 _**Cimeterre(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+7 dégâts tranchants (Finesse & légère)(arme de prédilection guilde des guerrier +2 au toucher et aux dégâts).  
 &nbsp;
+
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs5300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs5.jpeg)    
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -244,7 +253,10 @@ Revenus : 5d6 PP et 30 x 6d6 po
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - dos (trou omoplates)
 - Cuisse gauche 20 cm
-
 §§§
-Mise à jour du 0424/02/2023
+&nbsp;
+[![Margs](https://www.douaratil.fr/illustrations/pj/margs6300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs6.jpeg)    
+
+
+Mise à jour du 09/02/2024
 [.](/bestiaire/cyrthaule)  

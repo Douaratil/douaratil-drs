@@ -69,15 +69,15 @@ category: "PJ"
 ---
 ## Ayah Kenira
 &nbsp;
-[![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayahkeniram.png)](https://www.douaratil.fr/illustrations/pj/ayahkenira.jpg)  
+[![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayah300.jpeg)](https://www.douaratil.fr/illustrations/pj/ayah.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
 ## Capacités
-_**Historique:**_ Bâtard
+_**Historique:**_ Bâtard   
 **Compétences** : Histoire, Supercherie.  
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
-**Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
-**Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)
+**Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.   
+**Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)   
 
 _**Maîtrises:**_. Lance, massue, armes courantes, épées longues, rapières, épées courtes, outils de voleurs, armure légère.
 
@@ -109,7 +109,8 @@ _Touché_ : 2d6 dégâts contondant (Polyvalent 2d6+2 à deux mains).
 _**Fronde(•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts perforant (portée 9/36).  
 
-
+&nbsp;
+[![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayah2300.jpeg)](https://www.douaratil.fr/illustrations/pj/ayah2.jpeg)  
 
 §§§ .hero
 ### Présentation:  

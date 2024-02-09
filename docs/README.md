@@ -14,6 +14,36 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+
+## Mise à jour 189
+![Mise à jour 189](https://www.douaratil.fr/illustrations/site/maj189.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations de l'[Adoshaï](/archetypes/adoshai).
+
+**Règles : illustrations**   
+- Changement des illustrations de la section [création du personnage](/creation-du-personnage).
+- Changement des illustrations de la section [ethnies](/ethnies).  
+
+**PJ : illustrations**   
+- Changement des illustrations d'[Alf Swenbjornson](/bestiaire/alf-swenbjornson).  
+- Changement des illustrations d'[Ayah Kenira](/bestiaire/ayah-kenira).  
+- Changement des illustrations de [Dehus Dreanos](/bestiaire/dehus-dreanos).  
+- Changement des illustrations de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
+- Changement des illustrations de [Margs Maenkalon](/bestiaire/margs-maenkalon).  
+- Changement des illustrations de [Moira Dornglas](/bestiaire/moira-dornglas).  
+- Changement des illustrations de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de [Cyrthaüle](/bestiaire/cyrthaule).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 9 février 2024_
+§§§
+
 ## Mise à jour 188
 
 **Grimoire : incantations**   

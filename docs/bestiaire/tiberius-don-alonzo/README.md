@@ -68,14 +68,7 @@ category: "PJ"
 ---
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Tiberius Don Alonzo V3 20230206.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Tiberius Don Alonzo PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Tiberius Don Alonzo
-§§§ .hero
-*Tiberius Don Alonzo était un jeune homme appartenant à une riche et renommée famille Alcante de Courdoes. Il avait la peau foncée, les cheveux bruns et des yeux gris frappants qui ajoutaient à son apparence charmante. Il était de taille moyenne, mesurant environ 1 m75 et pesant environ cent vingt livres.*  
-*En raison d'une vendetta potentielle, Tiberius avait été envoyé à Goulvening Moisan, une relation éloignée de son père. Sa famille avait fait une fortune considérable dans le commerce des pierres précieuses et semi-précieuses.*  
-*Tiberius avait une histoire d'amour avec Avidia Collatinus, une noble de Courdoès, âgée de vingt-deuxt ans, aux longs cheveux noirs et aux yeux gris. De leur relation était nés deux faux jumeaux, ce qui ajoutait de lourdes responsabilités dans cette période incertaine.*   
-*En plus d'Avidia, Tiberius avait également eu une histoire d'amour avec Dame Azenor le Moal, une noble Khernaëe de Ker-Saozon. Dame Azenor était une belle femme d'une trentaine d'années, aux cheveux bruns et aux yeux bleus captivants. Malgré sa beauté, elle n'avait jamais eu d'enfants.*    
-*Tiberius Don Alonzo vivait une vie pleine de romance et d'intrigues, entouré par les complexités de multiples histoires d'amour et de vendettas familiales. Depuis la bataille des rois, il s’était installé depuis deux ans dans les terres khernaëes. Il y avait reçu un domaine confortable, qui était bienvenu pour accueillir sa famille. Et après ses hauts faits, il avait une place de conseiller à Caohaydhan qui lui assurer une rente confortable.*         
-**Souvenirs d'Ailynn la voyageuse**   
-§§§  
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 44        
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29      
@@ -86,9 +79,11 @@ category: "PJ"
 **Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.  
 **Aptitude**. [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
 
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius2300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius2.jpeg)  
+
 _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  
 
-_**Voie des ombres & Astartes**_. Tiberius est niveau 12 dans la voie des ombres et Archétype Astartes.  
+_**Voie des ombres & Astartes**_. Tiberius est niveau 17 dans la voie des ombres et Archétype Astartes.  
 
 _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences. Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude. **Choix : escamotage & outils de voleur, perception et persuasion**  
 
@@ -132,7 +127,7 @@ _**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est n
 _**Chevalier prestigieux**_. *(Astartes)* À partir du niveau 15, lorsque vous contrôlez une monture, vous pouvez lui faire utiliser son action pour attaquer.  
 
 _**Troisième attaque**_. *(Astartes)* À partir du niveau 17, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour.  Si vous avez déjà une troisième attaque, vous ajoutez +3 aux dégâts en compensation.   
-
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius3300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius3.jpeg)  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Tiberius effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
@@ -152,6 +147,8 @@ _Touché_ : 2d6+5 dégâts tranchants.(Polyvalente 3d6+3)
 _**Dague assassyr'him(••)**_. _Attaque d'arme au corps à corps_ : +17 pour toucher, portée 6/18.  
 _Touché_ : 1d6+5 dégâts perforants et la cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Elle subit 7d6 dégâts de poison en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté ou la moitié de ces dégâts seulement en cas de réussite.  
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  
+
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius4300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius4.jpeg)  
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -233,10 +230,14 @@ Nomination un paterfamilias par tranche de 5 personnes. En cas de fautes commise
 **famille** : une amante et deux faux jumeaux   
 **Guilde des voleurs**: Novice 50po/lune   
 **Conseiller à Ker-Saozon**: 1d6 X 50 po/lunes
-
+§§§
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Comme un sou neuf
 
 §§§
-*Mise à jour le 01/02/2022*
+## Avidia Collatinus
+&nbsp;
+[![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidia300.jpeg)](https://www.douaratil.fr/illustrations/pnj/avidia.jpeg)   
+[![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius5300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius5.jpeg)  
+*Mise à jour le 09/02/2024*

@@ -5,11 +5,8 @@ description: Règles de création de personnage
 # Création du personnage
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDPgenerique.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de personnage PDF</v-btn>
 
-
-§§§ .hero
-*L'homme était appuyé contre un mur. Il avait les bras croisés et me portait un regard sans intérêt. C'était un Nordique de toute évidence. Il avait les cheveux clairs, la peau blanche et les yeux gris. Il était peu habillé malgré la saison et des peintures bleues rituelles étaient visibles sur ses bras et une partie de son visage. Il s'agissait d'un Khernaë.*       
-**Souvenirs de Brycham l'aventureux**   
-§§§   
+&nbsp;
+[![Création du personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnage300.jpeg)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage.jpeg)    
 ## 1. Choisir une ethnie
 
 Le chapitre [Ethnies](/ethnies/) donne plus de détails sur chaque ethnie et chaque variante.
@@ -26,7 +23,9 @@ Les différentes Voies sont présentées au chapitre [Voies](/voies/).
 
 Maîtriser une action ou un objet vous permet soit d'être autorisé à l'utiliser (dans le cas des armes et des armures), soit d'ajouter votre bonus de maîtrise aux tests que vous effectuez. Ce bonus dépend de votre niveau. Inscrivez sur votre feuille de personnage toutes les **aptitudes** et les maîtrises dont votre personnage bénéficie au niveau 1.
 
-Au moment du choix de la classe de votre personnage, même s'il n'est encore que niveau 1, veillez à porter attention aux aptitudes de la classe à plus haut niveau, notamment les archétypes disponibles. Chaque archétype est une sorte de spécialisation. Vous serez amené à sélectionner l'un d'entre eux lors de la progression du personnage.
+Au moment du choix de la classe de votre personnage, même s'il n'est encore que niveau 1, veillez à porter attention aux aptitudes de la classe à plus haut niveau, notamment les archétypes disponibles. Chaque archétype est une sorte de spécialisation. Vous serez amené à sélectionner l'un d'entre eux lors de la progression du personnage.   
+&nbsp;
+[![Création du personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnage2300.jpeg)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage2.jpeg)   
 
 ### Niveau
 En règle générale, **chaque personnage débute sa vie d'aventurier au niveau 1**.
@@ -50,10 +49,8 @@ Le **Charisme** traduit les aptitudes sociales du personnage et sa personnalité
 
 Plus d'informations sont fournies sur ces six caractéristiques au chapitre [Utiliser les caractéristiques](/utiliser-les-caracteristiques/).
 
-§§§ .hero
-*La jeune femme me faisait forte impression. Certes je n'étais pas insensible à son charme avec ses cheveux noirs attachés qui retombaient sur ses épaules. Son regard noir était insondable. Elle portait une armure légère de cuir sombre et une dague. Je la trouvais charismatique.*       
-**Souvenirs de Brycham l'aventureux**   
-§§§   
+&nbsp;
+[![Création du personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnage3300.jpeg)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage3.jpeg)    
 
 ### Répartition des points de caractéristiques
 Le personnage du joueur commence avec 10 dans toutes les caractéristiques, ce qui représente un personnage moyen. Pour plus de personnalisation, le joueur a la possibilité de moduler les caractéristiques comme il le souhaite d’un point pour un point. Il ne peut cependant pas mettre plus de 12 et moins de 8 dans une caractéristique dans un soucis de jouabilité . Les caractéristiques seront alors ajustées par le bonus de l’ethnie choisie. Ce bonus permet de dépasser 12 à la création.
@@ -111,11 +108,8 @@ Quand votre modificateur de Constitution augmente de 1, votre maximum de Points 
 
 Le tableau d'évolution des personnages ci-dessous vous indique le nombre de points d'expérience nécessaire pour évoluer du niveau 1 au niveau 30 et le bonus de maîtrise correspondant à chaque niveau. Consultez la description de classe de votre personnage pour savoir ce qu'il gagne à chaque niveau.  
 
-§§§ .hero
-*La jeune femme à la chevelure blonde avançait dans le bois dans ma direction. Le crissement dans la neige de ses pas parvenait à mes oreilles. Derrière, elle se détacha une silhouette. Je vis un énorme loup se poster à ses côtés. Je revenais sur mon jugement. Ce n'était pas une simple paysanne, mais bien une jeune femme d'expérience aux talents exceptionnels.*       
-**Souvenirs de Brycham l'aventureux**   
-§§§   
-
+&nbsp;
+[![Création du personnage](https://www.douaratil.fr/illustrations/regles/creationdepersonnage4300.jpeg)](https://www.douaratil.fr/illustrations/regles/creationdepersonnage4.jpeg)    
 ## Évolution des personnages
 
 | Points d'expérience | Niveau | Bonus de maîtrise | Points de caractéristique par niveau | Points de caractéristiques cumulés |Voie des armes (PA)|Voie de l'ombre (PA)|Voie de la magie (PA)|

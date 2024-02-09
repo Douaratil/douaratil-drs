@@ -57,7 +57,7 @@ Alarig Pinvidic est le souverain de la petite ville du sud de Douaratil, Ker-Sao
 
 ## Azenor Le Moal  
 &nbsp;
-[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenorm.png)](https://www.douaratil.fr/illustrations/pnj/azenor.jpg)   
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor.jpeg)   
 
 §§§
 |Azenor Le Moal |Khernaëe|
@@ -65,14 +65,16 @@ Alarig Pinvidic est le souverain de la petite ville du sud de Douaratil, Ker-Sao
 | Profil|[Voie de l'ombre (Disciple)](/bestiaire/voie-de-l-ombre-disciple)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 25|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor2.jpeg)   
 **<v-icon>mdi-sword-cross</v-icon> Actions**  
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
 _**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
 _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor4300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor4.jpeg)   
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
-Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse d'un riche bijoutier qui l'a délaissée, elle entretien une relation avec secrète avec le jeune [Tiberuis Don Alonzo](/bestiaire/tiberius-don-alonzo).  
+Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse d'un riche bijoutier qui l'a délaissée, elle entretien une relation avec secrète avec le jeune [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
 §§§
 
 ## Beda Mordiern
@@ -247,7 +249,7 @@ Korydwen Gourvil est une vielle femme guérisseuse dans la région de Feurm Brel
 
 ## Laepa Hizino
 &nbsp;
-[![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepahizinom.png)](https://www.douaratil.fr/illustrations/pnj/laepahizino.jpg)   
+[![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/laepa.jpeg)   
 **<v-icon>mdi-skull</v-icon> assassinée à Madin'alajnibh en Miz Even 722 :**
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  

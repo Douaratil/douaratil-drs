@@ -71,7 +71,7 @@ category: "PJ"
 ---
 ## Alf Swenbjörnson
 &nbsp;
-[![Alf Swenbjörnson](https://www.douaratil.fr/illustrations/pj/alfswenbjornsonm.png)](https://www.douaratil.fr/illustrations/pj/alfswenbjornson.jpg)  
+[![Alf Swenbjörnson](https://www.douaratil.fr/illustrations/pj/alf300.jpeg)](https://www.douaratil.fr/illustrations/pj/alf.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

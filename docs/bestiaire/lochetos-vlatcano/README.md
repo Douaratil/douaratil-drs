@@ -67,16 +67,8 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon>  Lochetos Vlatcano
-§§§ .hero
-*Le jeune Meldète nommé Lôchetos était originaire de la famille prestigieuse Vlatcano de Caohaydhan. Son père Taranos était garde de la maison de Gaernor Lugeto, tandis que sa mère Qwyya lui avait transmis sa passion pour la musique, qui lui avait ouvert la voie de respectueuse de la caste des Llawe nos. Lôchetos avait un oncle Aberthol vivant dans le même quartier, ainsi qu'une soeur, Sedelia, et un frère, Larixos.*   
-*Lôchetos appartenait au clan Meldète Vlatcano qui avait prêté allégeance à Gaenor Lugeto, maître des marais de Geunddon. En tant que membre de ce clan, il servait également d'espion pour le clan Lugeto.*   
-*Physiquement, c'était un homme à la peau claire et aux cheveux noirs, avec des yeux bleus perçants qui semblait percer les pensées profondes de ses interlocuteurs. Il mesurait six pieds et avait un corps athlétique. Une grosse cicatrice sur sa hanche gauche marquait le souvenir d'une morsure de loup reçue durant un hiver particulièrement rigoureux, tandis qu'une cicatrice en forme de trou de flèche dans sa main gauche témoignait de ses aventures passées.*   
-*Lôchetos était un homme robuste et capable, formé pour être un espion pour son clan et pour le protéger. Cependant, il était également un homme profondément passionné par la musique, héritage de sa mère et de son enfance. Cette combinaison de force physique et de sensibilité artistique le rendait unique et intrigant aux yeux des autres. Les femmes se retournaient régulièrement sur son passage et visiblement, il faisait forte impression. Lorsqu'il parlait, il était écouté.*   
-*Lôchetos a connu une vie amoureuse mouvementée. Il avait été profondément affecté par la mort de son amante Laepa, qui a été assassinée à Madin'alajnibh en Miz Even 722 par son mari légitime et jaloux. Cependant, Le réconforté de sa petite fille Serena, née le Miz Khouéré 721 lui a permis de tenir. Il l'a élevée seul au début et a fait de son mieux pour lui donner une vie stable et aimante malgré les tribulations qui secouaient Douaratil.*    
-*En plus de son rôle au sein du clan Vlatcano, Lôchetos était également un homme influent dans la ville de Caohaydhan. Il avait aussi une Maison à Ker-Saozon et un titre de noblesse Khernaë reconnu dans cette ville. Il était également conseiller et responsable du renseignement pour Dame Joan Lugeto dans la ville de Caohaydhan, renforçant encore son influence et son prestige. tout cela était le remerciement des Meldètes et des Khernaës pour sa participation à la bataille des rois.*   
-*Aujourd'hui, Lôchetos a vingt quatre an et est en couple avec une jeune femme shahim Kahina ult Bouhen. Elle est d'une nature douce et compréhensive, et d'une grande beauté et a apporté une nouvelle stabilité dans la vie de Lôchetos. Ensemble, ils forment une famille heureuse et aimante, et sont reconnaissants pour les bénédictions qu'ils ont reçues dans leur vie.*       
-**Souvenirs d'Ailynn la voyageuse**   
-§§§   
+&nbsp;
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos.jpeg)    
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 41   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 22   
@@ -100,6 +92,9 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 
 
 _**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
+
+&nbsp;
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos2300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos2.jpeg)    
 
 _**Inspiration bardique**_. *(Llawenos)* La simple force de vos mots ou de votre musique vous permet d'inspirer les autres. Pour accomplir cela, vous devez utiliser une action bonus lors de votre tour et choisir une créature autre que vous qui se trouve dans un rayon de 18 mètres et qui peut vous entendre. Cette créature gagne un d6 d'inspiration bardique.  
 Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. Le joueur qui bénéficie de l'inspiration bardique lance le dé et ajoute le résultat à tous tests de caractéristique, de jets d'attaque ou de jets de sauvegarde durant son round d'action. Une fois que le dé d'inspiration bardique a été utilisé, il est perdu. Une personne ne peut disposer que d'un dé d'inspiration bardique à la fois.  
@@ -138,6 +133,9 @@ _**Sur un champ de bataille**_. *(Llawenos)* À partir du niveau 11, vous avez a
 _**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendre ce qui se passe autour de vous, vous êtes en mesure de déterminer la position de toute créature invisible ou cachée qui se trouve dans un rayon de 3 mètres.
 
 _**Inspirer la bravoure**_. *(Llawenos)* Au niveau 14, sur un champ de bataille, votre simple présence assure les protagonistes que leurs exploits ne seront pas oubliés, les poussant à toujours plus de bravoure ! Durant un combat, vous pouvez dépenser une inspiration bardique et utiliser une action bonus pour permettre à tous vos alliés à moins de 18 mètres de lancer un dé d'inspiration bardique et d'ajouter le résultat à l'un de leurs jets d'attaque avant votre prochain tour. Ils peuvent aussi ajouter ce résultat à tous les jets de sauvegarde contre l'effet [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pour la même durée.  
+
+&nbsp;
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos3300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos3.jpeg)    
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -232,8 +230,11 @@ La colonie est constituée de vingts cinq bâtiments avec une capacité d'accuei
 Revenus : 5D6 PP et 30 x 6d6 po  
 **Colons** : 164       
 **Trésor** :     
-
 §§§
+
+&nbsp;
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos4300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos4.jpeg)    
+
 
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:
@@ -260,6 +261,14 @@ Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce
 
 ## Kahina ult Bouhen
 &nbsp;
-[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhenm.png)](https://www.douaratil.fr/illustrations/pnj/kahinaultbouhen.jpg)   
+FICHE : [Kahina ult Bouhen](/PNJ/shahims/#kahina-ult-boulten)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpg)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpg)   
 
-Mise à jour le 12/08/2022
+## Laepa Hizino
+&nbsp;
+FICHE : [Laepa Hizino](/PNJ/nordiques/#laepa-hizino)   
+[![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/laepa.jpeg)   
+**<v-icon>mdi-skull</v-icon> assassinée à Madin'alajnibh en Miz Even 722 :**
+
+Mise à jour le 09/02/2024

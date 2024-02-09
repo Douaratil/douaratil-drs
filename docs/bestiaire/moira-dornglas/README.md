@@ -69,12 +69,8 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon> Moïra Dornglas
-§§§ .hero
-*Moïra devait avoir vingt-cinq ans. Elle avait une peau claire qui contrastait avec ses cheveux blonds longs et épais. Ses yeux bleus profond étincelaient de beauté naturelle et avec sa silhouette élancée et sa taille moyenne attirait les regards.*   
-*Moïra était connue pour être une sorcière, réputée pour ses connaissances en herboristerie et ses sortilèges. Elle vivait dans les montagnes du Menezlatar et était respectée dans les vallées environnantes car nombreux étaient ceux qui faisaient appel à ses services. Elle était aussi connue pour son caractère difficile et quelquefois colérique pouvait causer des problèmes. Mais elle était courageuse, séduisante et déterminée, ce qui compensait ses défauts et renforçait son aura mystique et fascinante aux yeux de ses observateurs.*   
-*En tant que femme khernaëe, Moïra avait grandi dans une culture forte et traditionnelle. Elle essayait d'être en harmonie avec la nature et avait une profonde croyance en sa spiritualité magique. Tout cela ajoutait à son mystère et à son charme et sa réussite faisait l'envie de nombreux de ses détracteurs qui prétendaient qu'elle avait obtenu ses biens par ses sortilèges, ceux qui n'était pas complètement faux, mais pas dans le sens où l'entendaient ses censeurs.*    
-**Souvenirs de Brycham l'Aventureux**   
-§§§   
+&nbsp;
+[![Moira](https://www.douaratil.fr/illustrations/pj/moira300.jpeg)](https://www.douaratil.fr/illustrations/pj/moira.jpeg)    
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 54    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
@@ -85,10 +81,10 @@ _**Historique:**_ Homme médecine.
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)  
-
+[![Moira](https://www.douaratil.fr/illustrations/pj/moira2300.jpeg)](https://www.douaratil.fr/illustrations/pj/moira2.jpeg)    
 _**Maîtrises:**_. dague(••), bâton(••), cimeterre, épée longue et glaive (••), épée courte, fléchette, fronde, hachette, matériel d'herboriste (••), outil d'alchimie.  
 
-_**Voie de la Magie & Sorser**_. Moïra Dornglas est niveau 14 dans la voie de la Magie et Archétype Sorser.  
+_**Voie de la Magie & Sorser**_. Moïra Dornglas est niveau 16 dans la voie de la Magie et Archétype Sorser.  
 
 _**Incantations**_. *(Magie)* En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybrides" (cf: Sohoten).  
 _**Loi primordiale**_. *(Magie)* "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui interdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.  
@@ -128,8 +124,9 @@ _**Glaive(••)**_. _Attaque d'arme au corps à corps_ : +10 pour toucher, all
 _Touché_ : 2d6+2 dégâts tranchants (3d6 à deux mains).
 
 _**Fronde(•)**_. _Attaque d'arme à distance_ : +7 pour toucher, portée 24/96.  
-_Touché_ : 1d6+2 dégâts perforants .
+_Touché_ : 1d6+2 dégâts perforants .   
 
+[![Moira](https://www.douaratil.fr/illustrations/pj/moira3300.jpeg)](https://www.douaratil.fr/illustrations/pj/moira3.jpeg)    
 &nbsp;
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
@@ -192,4 +189,4 @@ Revenus : 7 X 6d6 po
 cicatrice épaule gauche
 §§§
 
-Mise à jour le 29/01/2023  
+Mise à jour le 09/02/2024 
