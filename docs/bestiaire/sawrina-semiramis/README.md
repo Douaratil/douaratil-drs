@@ -68,11 +68,7 @@ category: "PJ"
 ---
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Sawrina Semiramis V3.1 20230221.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Sawrina Semramis PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Sawrina Semramis   
-§§§ .hero
-*Sawrina était une jeune Assyrhim, issue d'une famille aisée de Shahia. Elle avait choisi de suivre les études pour devenir guérisseuse. Cependant, sa vie a pris un tournant dramatique lorsqu'elle a été enlevée par des Assyr'hims et entraînée pendant des mois avant d'être vendue comme esclave assassin à un mystérieux client. Elle a été retrouvée enfermée dans un sarcophage métallique, mais a été libérée par de nouveaux compagnons. Maintenant, Sawrina savait qu'elle serait pourchassée pour le reste de sa vie.*  
-*De petite stature, elle avait la peau sombre, des cheveux bruns foncés et des yeux de nacre. Sawrina était une jeune femme mystérieuse, ayant connu la souffrance et la peur, mais aussi une certaine force intérieure pour poursuivre son chemin malgré tout. Elle avait vingt et un printemps*    
-**Souvenirs d'Ailynn la voyageuse**   
-§§§   
+[![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 52       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 28     
@@ -82,7 +78,7 @@ _**Historique:**_. Médecin
 **Outils maîtrisés**. Matériel d'herboriste, matériel d'empoisonneur.  
 **Équipement**. Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
 **Aptitude**. [Culture générale](/personnalite-et-historique/#culture-genérale)   
-
+[![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina2300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina2.jpeg)  
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 
 _**Voie des ombres & Nayane**_. Sawrina est niveau 17 dans la voie des ombres et Archétype Nayane.  
@@ -131,7 +127,7 @@ _**Ouïe fine**_. *(Ombre)* À partir du niveau 14, tant que vous pouvez entendr
 _**Esprit impénétrable**_. *(Ombre)* Au niveau 15, votre force mentale s'est notablement renforcée. Vous maîtrisez maintenant les jets de sauvegarde de Sagesse.  
 
 _**Sang empoisonné**_. *(Nayane)*  A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de contact ou d'ingestion. Ce poison a un DD égal à sa valeur de constitution et inflige 2d6 + 1d6 par point de bonus de Sagesse. Pour cela, la Nayane doit s'inciser et subir 1d6 points d'action de dégât. Le poison est à usage unique et ne peux pas être stocké ou conservé.  
-
+[![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina3300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina3.jpeg)  
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 _**Attaques multiples**_. Sawrina effectue 3 attaques par round lorsqu'elle utilise l'action attaquer.
 
@@ -193,7 +189,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Trésor** : 720 pa + 250 po
 
 §§§
-
+[![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina4300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina4.jpeg)  
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
@@ -211,6 +207,6 @@ Rente 1d6 X 50po/lune
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 Ne garde pas de cicatrices
-
-Mise à jour du 31/01/2023.  
 §§§
+
+Mise à jour du 10/02/2024.  

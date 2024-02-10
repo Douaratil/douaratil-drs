@@ -187,12 +187,13 @@ Shamash Eriba est marchand Assyrhim des royaumes de Shahia qui parcourt beaucoup
 
 # Shamreta la rouge
 &nbsp;
-[![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamretam.png)](https://www.douaratil.fr/illustrations/pnj/shamreta.jpg)  
+[![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamreta300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamreta.jpeg)  
 |Shamreta la rouge|Shème|
 |:-:|:-:|
 | Profil|[Voie de la magie (Expert)](/bestiaire/voie-de-la-magie-expert)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 62|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17|  
+[![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamreta2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamreta2.jpeg)  
 **<v-icon>mdi-sword-cross</v-icon> Actions**  
 _**Dague sacrée**_. _Attaque d'arme au corps à corps ou à distance_ : + 7 pour toucher, allonge 1,50 m ou portée 6/18 m, une cible.  
 Cette arme en plus d'être considérée comme magique possède une propriété supérieure, elle est sacrée. Lorsqu'un coup critique est infligé, un bonus de 2d6 est octroyé pour la résolution du critique. Ainsi le jet critique avec des armes courantes sacrées se font à 4d6.  
@@ -202,7 +203,7 @@ _Touché_ : 1d6+2 dégâts perforants.
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**    
 Shamreta la rouge est une énigmatique sorcière au service du puissant marchand d'esclaves Shamash Eriba.
 §§§
-
+[![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamreta3300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamreta3.jpeg)  
 §§§ .hero
 **<v-icon>mdi-firebase</v-icon> Sorts connus:**     
 **Bonus d'incantation: +15**  

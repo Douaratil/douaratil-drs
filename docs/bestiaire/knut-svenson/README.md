@@ -69,16 +69,7 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon>  Knut Svenson  
-§§§ .hero
-*Knut Swenson était un jeune homme de vingt et un printemps, originaire des familles Melg installées aux pieds des Monts du Menezlatar. Il avait la peau blanche et des cheveux blonds qui brillaient sous les rayons du soleil. Ses yeux bleus reflétaient son courage et son détermination. Il mesurait un mètre quatre vingt huit pour quatre vingt huit kilos, et sa carrure massive laissait entrevoir sa force physique. Il était connu pour être un Jörghal, un guerrier d'élite Melg en charge de protéger Thorleik Aevarson, prêtre du dieu du feu.*   
-*Knut était marié à Thorgunna Iridottir, qu'il avait épousée à Miz Khouéré 722 dans sa colonie. Le couple avait un fils du nom de Swnut, qui était la source de leur fierté et de leur joie. Knut était aimé et respecté par tous ceux qui le connaissaient pour sa détermination et son sens du devoir envers sa famille et sa communauté.*   
-*Knut Swenson était un jeune homme de vingt et un printemps, originaire des familles Melg installées aux pieds des Monts du Menezlatar. Il avait la peau blanche et des cheveux blonds qui brillaient sous les rayons du soleil. Ses yeux bleus reflétaient son courage et son détermination. Il mesurait un mètre quatre vingt huit pour quatre vingt huit kilos, et sa carrure massive laissait entrevoir sa force physique. Il était connu pour être un Jörghal, un guerrier d'élite Melg en charge de protéger Thorleik Aevarson, prêtre du dieu du feu.*   
-*Knut était marié à Thorgunna Iridottir, qu'il avait épousée à Miz Khouéré 722 dans sa colonie. Le couple avait un fils du nom de Swnut, qui était la source de leur fierté et de leur joie.*   
-*Thorgunna Iridottir était décrite comme une jeune femme melge discrète par les gens qui la connaissait, avec une peau extrêmement blanche, une chevelure rousse flamboyante tressée et des yeux d'émeraude. Cependant, malgré son apparence calme, elle est en réalité dotée d'un caractère enjoué et est une mère attentionnée pour son petit Swnut.*     
-*Knut était aimé et respecté par tous ceux qui le connaissaient pour sa détermination et son sens du devoir envers sa famille et sa communauté.*   
-*Thorgunna Iridottir était décrite comme une jeune femme melge discrète par les gens qui la connaissait, avec une peau extrêmement blanche, une chevelure rousse flamboyante tressée et des yeux d'émeraude. Cependant, malgré son apparence calme, elle est en réalité dotée d'un caractère enjoué et est une mère attentionnée pour son petit Swnut.*    
-**Souvenirs d'Ailynn la voyageuse**   
-§§§    
+[![Knut](https://www.douaratil.fr/illustrations/pj/knut300.jpeg)](https://www.douaratil.fr/illustrations/pj/knut.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 35    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 20     
@@ -198,4 +189,4 @@ Comme un sou neuf
 
 §§§
 
-*Mise à jour du 31/01/2023*
+Mise à jour du 10/02/2024

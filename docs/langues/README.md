@@ -18,7 +18,7 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Mécède** | Peuple Lacède | Cyrynith |
 | **Thessal** | Peuple Lacède | Cyrynith |
 | **Saramath** | Peuple Saramath | Saramath
-
+[![Langues](https://www.douaratil.fr/illustrations/regles/langues2300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues2.jpeg)  
 
 ### Langues Nordiques
 
@@ -37,7 +37,7 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Draükarn** | Peuple Melg | Bergaf |
 | **Welkarn** | Peuple Melg | Bergaf |
 | **Znorkarn** | Peuple Melg | Bergaf
-
+[![Langues](https://www.douaratil.fr/illustrations/regles/langues300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues.jpeg)  
 
 ### Langues Asiatiques
 
@@ -67,7 +67,7 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Lassym** | Peuple Lassymide | Lassyth |
 | **Shèmide** | Peuple Shème | Shèm |
 | **Ptolémique** | Peuple Ptolème | Ptolh
-
+[![Langues](https://www.douaratil.fr/illustrations/regles/langues2300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues2.jpeg)  
 §§§ .hero
 *Les deux hommes, vêtus de leurs tenues traditionnelles ashkémites palabraient dans leur dialecte aux résonances gutturales. Ils s'exprimaient en Shkhaam et même ma maîtrise de l'Ashkhèm ne me permettait pas de suivre la conversation. Chaque intonation exprimait une subtilité de la transaction. Juste à côté, les deux dromadaires mâchaient nonchalamment une touffe d'herbes sèches. Une exclamation clôtura la négociation. L'un des deux ashkémites semblait furieux mais je savais qu'il s'agissait d'une convention sociale pour valoriser l'acheteur et lui faire entendre qu'il avait fait une bonne affaire.*       
 **Mes voyages, mes affaires de Solène de Courdo**   
@@ -126,7 +126,7 @@ Il y a cinq degrés qui se décrivent comme suit :
 **En termes de jeu la compréhension écrite/orale est indiquée par chiffre** : le premier étant l'oral. Exemple : Weshlède (3/1) signifie que le commun nordique est maîtrisé au niveau 3 à l'oral et niveau 1 à l'écrit. Une langue peut-être aussi lue et écrite, mais non comprise à l'oral car le système linguistique oral et écrit mobilise des ressources différentes.
 
 ## La langue maternelle et les autres langues:
-
+[![Langues](https://www.douaratil.fr/illustrations/regles/langues3300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues3.jpeg)  
 La langue maternelle est par défaut maîtrisée au degré 3 à l'oral en ce qui concerne toutes les voies. Concernant la maîtrise de l'écrit, la langue est maîtrisée au degré 3 pour La voie de la Magie, au degré 2 pour La voie de l'Ombre et au degré 1 pour La voie des armes.    
 Les autres langues lorsqu'elles sont acquises à la création du personnage ne concernent que l'oral sauf si c'est précisé. Pour les capacités de certains Archétypes qui permettent de lire certaines écritures sacrées, la limite de compréhension est par défaut de 3.   
 Les autres langues doivent suivre le processus normal d'apprentissage.

@@ -8,6 +8,92 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+
+## Mise à jour 188
+
+**Grimoire : incantations**   
+- Ajout de l'incantation du sort [possession](/grimoire/possession).  
+- Ajout de l'incantation du sort [pourriture](/grimoire/pourriture).  
+- Ajout de l'incantation du sort [prémonition](/grimoire/premonition).  
+- Ajout de l'incantation du sort [présence bienfaitrice](/grimoire/presence-bienfaitrice). 
+- Ajout de l'incantation du sort [prestidigitation](/grimoire/prestidigitation). 
+- Ajout de l'incantation du sort [prière de soins](/grimoire/priere-de-soins). 
+- Ajout de l'incantation du sort [produire une flamme](/grimoire/produire-une-flamme). 
+- Ajout de l'incantation du sort [projectile magique](/grimoire/projectile-magique).  
+- Ajout de l'incantation du sort [projectile toxique](/grimoire/projectile-toxique).  
+- Ajout de l'incantation du sort [projection astrale](/grimoire/projection-astrale).  
+- Ajout de l'incantation du sort [protection contre la mort](/grimoire/protection-contre-la-mort).  
+- Ajout de l'incantation du sort [protection contre le mal et le bien](/grimoire/protection-contre-le-mal-et-le-bien).  
+- Ajout de l'incantation du sort [protection contre le poison](/grimoire/protection-contre-le-poison).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 2 décembre 2023_
+§§§
+
+## Mise à jour 187
+
+Pour étoffer un peu le bestiaire, je vous propose un corbeau fée des contrées nordiques. Peut-être que vous aventuriers auront la chance de le croiser dans les neiges éternelles du grand froid.  
+**Bestiaire : fée**   
+- Ajout du [Cigfranhud](/bestiaire/cigfranhud).  
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 décembre 2023_
+§§§
+
+## Mise à jour 186
+
+**Roman**   
+C'est avec une certaine émotion que je vous annonce la sortie de mon quatrième roman qui clôture la saga de Douaratil. Il m'aura fallu une dizaine d'année pour l'écrire mais désormais il est là. Vous pouvez trouver la série dans le [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) mais aussi commander chez votre libraire favori. Les livres étant imprimés à la demande, prévoyez un petit délai avant réception. 
+
+Bonne lecture.     
+§§§ .text-right
+_**Olivier**_,  
+_le 10 novembre 2023_
+§§§
+
+## Mise à jour 185
+
+**Herbier : altérations physiques**   
+- Ajout de l'algue [Gulvar](/herbier/alterations-physiques/#gulvar).   
+- Ajout de la feuille de [Gwolof](/herbier/alterations-physiques/#gwolof).   
+- Ajout de la poudre de [Jahif](/herbier/alterations-physiques/#jahif).   
+- Ajout de la pâte de [Kitan](/herbier/alterations-physiques/#kitan).  
+- Ajout de la racine de [Kofmote](/herbier/alterations-physiques/#kofmote).  
+- Ajout des bourgeons de [Klagath](/herbier/alterations-physiques/#klagath).  
+- Ajout des noix de [Markol](/herbier/alterations-physiques/#markol).  
+
+**Bestiaire : fée**   
+- Ajout du [Louarndou](/bestiaire/louarndou).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 20 octobre 2023_
+§§§
+
+## Mise à jour 184
+**Herbier : soins des organes**   
+- Ajout de la racibe d'[Ebendour](/herbier/soins-organes/#ebendour).    
+- Ajout de la baie de [Kadura](/herbier/soins-organes/#kadura).   
+- Ajout de l'herbe de [Pasarane](/herbier/soins-organes/#pasarane).   
+- Ajout de la [Soloste](/herbier/soins-organes/#soloste).   
+- Ajout de la coque de [Tarna](/herbier/soins-organes/#tarna).   
+- Ajout de la coque de [Weshkevh](/herbier/soins-organes/#weshkevh).   
+
+**Herbier : altérations physiques**   
+- Ajout de la fleur de [Beflo](/herbier/alterations-physiques/#beflo).   
+- Ajout de la racine d'[Elben](/herbier/alterations-physiques/#elben).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 octobre 2023_
+§§§
+
 ## Mise à jour 183
 **Règles**   
 - Ajout de textes descriptifs dans le chapitre d'Archétype du [Bhegelm](/archetypes/bhegelm).    

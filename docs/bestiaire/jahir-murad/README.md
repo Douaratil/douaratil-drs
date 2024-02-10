@@ -69,7 +69,7 @@ category: "PJ"
 ---
 ## Jahir Murad
 &nbsp;
-[![Jahir Murad](https://www.douaratil.fr/illustrations/pj/jahirm.png)](https://www.douaratil.fr/illustrations/pj/jahir.jpg)  
+[![Jahir Murad](https://www.douaratil.fr/illustrations/pj/jahir300.jpeg)](https://www.douaratil.fr/illustrations/pj/jahir.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 29    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 18      
@@ -118,12 +118,12 @@ _Touché_ : 2d6+3 dégâts tranchants (Finesse, polyvalente 3d6+2).
 &nbsp;
 §§§ .hero
 ###  <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Jahir Murad est un bâtard issu d’un clan Ashkémite défait par les clans Gornoc et Aevarson de Madinalajnibh. Il a été donné comme esclave à la colonie de Madinalajnibh et sert aujourd’hui le puissant sorcier Gwion.
+Jahir Murad est un bâtard issu d’un clan Shème défait par les clans Gornoc et Aevarson de Madinalajnibh. Il a été donné comme esclave à la colonie de Madinalajnibh et sert aujourd’hui le puissant sorcier Gwion.
 §§§
 
 §§§ .hero
 ###  <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Jahir est un Ashkémite de vingt et un printemps. Il a la peau mate. Ses cheveux ainsi que ses yeux sont sombres. Il mesure un mètre soixante-huit pour cinquante-sept kilos.
+Jahir est un Shème de vingt et un printemps. Il a la peau mate. Ses cheveux ainsi que ses yeux sont sombres. Il mesure un mètre soixante-huit pour cinquante-sept kilos.
 §§§
 
 §§§ .hero
@@ -176,6 +176,5 @@ Jahir est un Ashkémite de vingt et un printemps. Il a la peau mate. Ses cheveux
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 
-Mise à jour du 25/07/2022
-
 §§§
+Mise à jour du 10/02/2024

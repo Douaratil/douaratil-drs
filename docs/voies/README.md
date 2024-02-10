@@ -6,7 +6,7 @@ Vous avez choisi l’ethnie de votre personnage, puis son historique (la carriè
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
 §§§ .hero
-*Il existe trois voies. Choisir une voie est le choix le plus primordial que vous ferez. De ce choix dépendra votre manière d'appréhender le monde, et ce la jusqu'à la fin de votre existence.*         
+*Il existe trois voies. Choisir une voie est le choix le plus primordial que vous ferez. De ce choix dépendra votre manière d'appréhender le monde, et cela jusqu'à la fin de votre existence.*         
 **Maître Shôm**   
 §§§   
 
@@ -16,6 +16,7 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 *L'allure fière, la musculature développée... son aisance à se déplacer en armure et son regard fier; c'était un soldat, un vrai et j'allais lui vider la bourse.*         
 **Prostituée anonyme**   
 §§§   
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes.jpeg) 
 
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
@@ -53,7 +54,7 @@ En tant que voie des armes, vous bénéficiez des aptitudes résumées dans le t
 **Outils** : aucuns  
 **Jets de sauvegarde** : Force, Constitution  
 **Compétences** : choisissez deux compétences parmi les suivantes : Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Perception, Perspicacité et Survie  
-
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes2.jpeg) 
 ### Style de combat
 Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Même si vous pouvez choisir un autre style plus tard, vous ne pouvez pas prendre deux fois un même style de combat.  
 **Archerie**
@@ -74,7 +75,8 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 À partir du niveau 2, vous pouvez repousser vos propres limites pendant quelques instants. Lors de votre tour, vous pouvez faire une action supplémentaire en plus de votre action normale et d'une éventuelle action bonus.
 Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 ### Archétype martial
-Au niveau 3, vous choisissez un archétype. 
+Au niveau 3, vous choisissez un archétype.    
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes3.jpeg) 
 ### Attaque supplémentaire
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
@@ -88,6 +90,8 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 *Au premier abord, rien ne l'aurait distingué du quidam mais son déplacement, la façon qu'il avait de guetter et son petit manège autour des habitants les plus riches qui se déplaçaient d'étals en étals me figurait qu'il s'agissait d'un voleur.*         
 **Garde anonyme**   
 §§§   
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre.jpeg) 
+
 
 |Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
 |:-:|:-:|:-:|:-:|
@@ -113,7 +117,8 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 |**20**|+60|[Coup de chance](#coup-de-chance)|+10d6|
 Parmi les trois voie proposées, la voie de l’ombre correspond à toutes les voies tournées vers les subterfuges et la discrétion. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
-D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
+D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.  
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre2.jpeg) 
 ## Aptitudes de classe
 En tant que voie de l’ombres, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
@@ -136,7 +141,8 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 ### Ruse
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 ### Archétype sournois
-Au niveau 3, vous choisissez un archétype .
+Au niveau 3, vous choisissez un archétype .   
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre3.jpeg) 
 ### Esquive instinctive
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
 ### Dérobade
@@ -158,6 +164,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 *Tant à apprendre et si peu de temps à vivre. J'ai passé mon existence dans une bibliothèque... et je ne sais rien.*         
 **Orogos l'archimage**   
 §§§   
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies.jpeg) 
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
@@ -182,7 +189,8 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |**20**|+40|[Sorts de prédilection](#sorts-de-predilection)|+80|
 Parmi les trois voie proposées, la voie de la magie correspond à toutes les voies tournées vers les arts de la magie et des religions. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
-D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
+D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.   
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies2.jpeg) 
 ## Aptitudes de classe
 En tant que voie de la magie, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
@@ -214,7 +222,8 @@ Une personne qui intervient ou touche un duelliste durant l'affrontement subit u
 ### Restauration magique
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 ### Archétype arcanique
-Au niveau 3, vous choisissez un archétype .
+Au niveau 3, vous choisissez un archétype .    
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies3.jpeg) 
 ### Maîtrise des sorts
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.

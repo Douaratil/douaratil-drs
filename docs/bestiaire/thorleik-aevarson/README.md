@@ -69,15 +69,7 @@ category: "PJ"
 ---
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Thorleik Aevarson V3.1 20230225.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Thorleik Aevarson PDF</v-btn>
 ## <v-icon>mdi-human-greeting</v-icon> Thorleik Aevarson  
-§§§ .hero
-*Thorleik Aevarson était un homme grand et imposant, avec une stature de sept pieds et une peau blanche. Il avait des cheveux blonds et des yeux bleus, avec une longue cicatrice qui descendait de sa tempe gauche jusqu'au menton qui se terminait par une barbe tressée. En tant que prêtre du feu, il était respecté et vénéré par les Melgs de son clan Aevearson, installés aux pieds des Monts du Menezlatar.*    
-*Les déesses du feu Frith et Sreina étaient adorées par les Melgs, et Thorleik en était un prêtre, dirigeant des cérémonies religieuses avec gravité. Les déesses étaient considérées comme protectrices et sources de courage pour les guerriers Melgs. Les rituels religieux étaient centrés sur l'allumage de feux sacrificiels et les offrandes de biens matériels. Thorleik était un représentant de l'alliance des Melgs du Menezlatar.*    
-*Freydis et Thorleik se sont rencontrés pour la première fois lors d'un rassemblement de leur clan après la bataille des rois. Freydis, qui attirait les regards de tous avec sa beauté, a immédiatement attiré l'attention de Thorleik. Il a été fasciné par sa chevelure longue et blonde tressée et ses yeux bleus. Il s'est approché d'elle pour lui parler et a découvert qu'elle était aussi intelligente qu'elle était belle.*   
-*Ils ont commencé à se fréquenter et à passer du temps ensemble, se promenant dans les montagnes et discutant de toutes sortes de choses. Au fil du temps, leur amour s'est développé et ils ont décidé de se marier. Leur union a été bénie par leurs divinités du feu en se marquant l'intérieur du poignet au fer rouge, et ils sont devenus l'un des couples les plus respectés de leur clan.*   
-*Peu de temps après leur mariage, Freydis a donné naissance à une fille nommée Hild, qui est devenue la joie de leur vie. Le couple était heureux et prospère, et leur amour ne faisait que grandir avec le temps.*    
-*Aujourd'hui, Thorleik a 25 an*      
-**Souvenirs d'Ailynn la voyageuse**   
-§§§    
+[![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 55    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12            
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21        
@@ -88,7 +80,7 @@ category: "PJ"
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)    
-
+[![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik2300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik2.jpeg)  
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.  
 
 _**Voie de la Magie & Herredyr**_. Thorleik est niveau 16 dans la voie de la Magie et Archétype Herredyr (Hibou).  
@@ -140,7 +132,7 @@ Progression du compagnon
 
 L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), une fois que tous les avantages ont été dépensés.  
 
-
+[![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik3300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik3.jpeg)  
 _**Sens bestiale**_. *(Herredyr)* Dès le niveau 10, votre allégeance bestiale vous permet développer les sens de votre seigneur animal. Cela se traduit par un avantage permanent aux tests de Perception liés à ce sens.  
 |Type|Sens concerné|Spécial|
 |:-:|:-:|:-:|
@@ -150,7 +142,7 @@ _**Rage bestiale**_. *(Herredyr)* Dès le niveau 12, votre allégeance bestiale 
 
 _**longévité bestiale**_. *(Herredyr)* Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre durée de vie. Vous gagnez 25 ans par point de bonus de constitution. Durant cette période, l'Herredyr se stabilise à un âge mûr. Il ne vieillit que les 10 dernières années de sa vie.   
 
-
+[![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik4300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik4.jpeg)  
 ## <v-icon>mdi-sword-cross</v-icon> Actions  
 
 _**Attaques multiples**_. Thorleik effectue 2 attaques par round lorsqu'il utilise l'action attaquer.
@@ -261,4 +253,4 @@ Cicatrice de 20 cm de la tempe gauche au menton.
 
 §§§
 
-Mise à jour le 25/02/2023
+Mise à jour le 10/02/2024

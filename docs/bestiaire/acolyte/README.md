@@ -26,7 +26,7 @@ languages:
 ---
 ## Acolyte
 &nbsp;
-[![Acolyte](https://www.douaratil.fr/illustrations/humanoide/acolytem.png)](https://www.douaratil.fr/illustrations/humanoide/acolyte.jpg)  
+[![Acolyte](https://www.douaratil.fr/illustrations/humanoide/acolyte300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/acolyte.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10   
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon>  Capacités

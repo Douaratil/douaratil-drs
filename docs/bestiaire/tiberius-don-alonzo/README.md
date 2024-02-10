@@ -240,4 +240,10 @@ Comme un sou neuf
 &nbsp;
 [![Avidia Collatinus](https://www.douaratil.fr/illustrations/pnj/avidia300.jpeg)](https://www.douaratil.fr/illustrations/pnj/avidia.jpeg)   
 [![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius5300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius5.jpeg)  
-*Mise à jour le 09/02/2024*
+
+## Azenor Le Moal
+&nbsp;
+FICHE : [Azenor Le Moal](/PNJ/nordiques/#azenor-le-moal)   
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor.jpeg)   
+[![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor4300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor4.jpeg)   
+Mise à jour le 10/02/2024

@@ -7,10 +7,13 @@ Le combat de masse est constitué de combattant de tous genre, qui peuvent gén�
 
 ## Constituer un groupe de combattant  
 Pour constituer un groupe de combattant, il faut rassembler des individus qui ont sensiblement le même niveau et le même équipement. Il faut ainsi regrouper les combattants par 10 minimums. En dessous de ce nombre, il ne sont plus constitués en unité et subissent un désavantage pour tous leurs tests.  
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille.jpeg)  
 
 ## Organiser son armée  
 On peut distinguer principalement l'infanterie et la cavalerie. Pour chaque, il y a une version légère et une version lourde. Il y a aussi les unités d'attaque à distance.  
 Les personnages qui sont plus expérimentées doivent être joués individuellement en tant que PNJ exceptionnels.  
+
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille5300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille5.jpeg)  
 
 ## Quelles sont les troupes disponibles?   
 
@@ -29,8 +32,8 @@ Les soldats sont équipés d'une armure légère type armure de cuir clouté, d'
 
 *Dés non explosifs
 
-Ainsi, un coup est porté si le chiffre demandé est obtenu. Si le coup est porté, la défense est testée. Les tests de défense échoués indiquent le nombre de combattant qui sont tombés (inconscients, blessés ou morts).
-
+Ainsi, un coup est porté si le chiffre demandé est obtenu. Si le coup est porté, la défense est testée. Les tests de défense échoués indiquent le nombre de combattant qui sont tombés (inconscients, blessés ou morts).    
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille2300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille2.jpeg)  
 §§§ .hero
 ### Tour de bataille.   
 La gestion de la bataille se déroule selon les phases suivantes.  
@@ -39,7 +42,7 @@ La gestion de la bataille se déroule selon les phases suivantes.
 - Phase 3 : Ralliement des unités en déroute.
 - Phase 4 : Test de déroulement de la bataille et application des résultats.   
 - Phase 5 : Phase du joueur (Commandant et loups solitaires), 2 rds d'action.   
-- Phase 6 : Événement aléatoire du champ de bataille.
+- Phase 6 : Événement aléatoire du champ de bataille.  
 
 §§§
 
@@ -71,7 +74,8 @@ La description s'applique à l'ensemble de l'armée, ou des unités ou de l'unit
 
 
 ### Le tacticien  
-Que ce soit le personnage en tant que chef de son armée ou bien l'un des personnages du groupe, le rôle de tacticien est très important car il permet de donner un avantage aux autres unités lors du test de déroulement de bataille. Pour cela, le tacticien qui se trouve souvent sur une colline ou un lieu surélevé pour observer la bataille doit comprendre le déroulement de la bataille et transmettre ses ordres. Pour offrir un avantage à ses troupes, il doit réussir un test de Sagesse DD16. Ses ordres doivent ensuite être reçus pour être appliqués. Le DD de réussite de la transmission dépend de plusieurs paramètres   
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille6300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille6.jpeg)  
+Que ce soit le personnage en tant que chef de son armée ou bien l'un des personnages du groupe, le rôle de tacticien est très important car il permet de donner un avantage aux autres unités lors du test de déroulement de bataille. Pour cela, le tacticien qui se trouve souvent sur une colline ou un lieu surélevé pour observer la bataille doit comprendre le déroulement de la bataille et transmettre ses ordres. Pour offrir un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses troupes, il doit réussir un test de [Sagesse](/utiliser-les-caracteristiques/#tests-de-caracteristique) DD16. Ses ordres doivent ensuite être reçus pour être appliqués. Le DD de réussite de la transmission dépend de plusieurs paramètres   
 
 |2D6|DD|
 |:-:|:-:|
@@ -94,11 +98,13 @@ Un personnage dans une unité peut se mettre en retrait est n'est donc pas attaq
 
 ### Le loup solitaire  
 Un personnage peut décider de participer à la bataille mais de ne pas commander d'unité. Il joue donc ses tours normalement mais ne bénéficie d'aucun bonus ou malus d'évènement ou de commandement. L'adversaire est défini sur la table des adversaires typiques.   
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille3300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille3.jpeg)  
 
 ### Déroute   
 Lorsqu'une unité perd des effectifs, elle peut avoir une baisse de moral. Une unité qui perd des effectifs peut être fixée si elle n'est pas au corps à corps. Une unité qui perd 10% de ses effectifs ou plus, elle doit faire un test de sagesse DD 12. Si elle échoue, elle ne peut pas agir durant le tour.
 Il est possible de tenter de rallier une unité tous les rounds avec un JS de Sagesse DD16 ou de Charisme DD16 si un personnage est au sein de l'unité, sinon le DD est de 22.   
 **Une unité en déroute 3 tours de suite quitte immédiatement le champ de bataille.**     
+[![Bataille](https://www.douaratil.fr/illustrations/regles/bataille4300.jpeg)](https://www.douaratil.fr/illustrations/regles/bataille4.jpeg)  
 
 ### Événement aléatoire du champs de bataille.   
 
