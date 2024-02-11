@@ -69,11 +69,7 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-drama-masks</v-icon> Yan Zin   
-§§§ .hero
-*Yan Zin était un Yotakaï de vingt et trois printemps à la peau mate et aux cheveux noirs longs. Il avait des yeux noirs et une stature moyenne. Il portait une cicatrice sur sa hanche gauche, percée par une lance trace de sa vie guerrière et aventureuse. Il appartenait au clan de Ran'Kaze Taiya Rebana, les coureurs sur le vent du soleil levant, et était le fils du seigneur Tatsuba Zin.*  
-*Yan Zin était à la cour de Goulvening pour apprendre les coutumes et les langues claniques de l'Ouest et pour ouvrir une ligne commerciale vers l'Est. En réalité, il était une sorte "d'otage" mais il était très bien traité. Il était également un ami de Goulvening. Pendant son séjour à la cour, Yan Zin apprenait les us et coutumes locaux, se familiarisait avec les langues et préparait la voie pour une collaboration commerciale fructueuse entre l'Est et l'Ouest.*      
-**Souvenirs d'Ailynn la voyageuse**   
-§§§     
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 41       
 **<v-icon>mdi-skull-crossbones</v-icon>  Seuil de critique**: 12             
 **<v-icon>mdi-shield</v-icon>  Valeur offensive globale**: 25      
@@ -84,6 +80,8 @@ _**Historique Officier:**_.
 **Langues maîtrisées**. Une langue au choix.  
 **Équipement**. Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.  
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)  
+
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin2300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin2.jpeg)  
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.
 
@@ -117,11 +115,15 @@ _**Indomptable**_. *(Armes)* À partir du niveau 9, vous pouvez relancer un jet
 _**Coup parfait**_. *(Seibahkami)* À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts sur la table des coups critiques lors d'une attaque de corps-à-corps.  
 À partir du niveau 13, vous lancez deux dés additionnels (+2d6), trois dés (+3d6) à partir du niveau 17 et quatre dés (+4d6) au niveau 20.  
 
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin3300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin3.jpeg)  
+
 _**Frappe majestueuse**_. *(Seibahkami)* A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire de taille moyenne maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD10 + modificateur de charisme ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de combat jusqu'à réussir le JS.     
 
 _**Calligraphie**_. *(Seibahkami)* A partir du niveau 11, la maîtrise se trouve aussi dans la concentration et l’écriture. Vous obtenez toujours un avantage pour vos tests de calligraphie.  
 
 _**Tir puissant**_. *(Seibahkami)* À partir du niveau 12, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche beaucoup plus puissante. Si le tir touche et blesse l’adversaire, les dégâts sont majorés de +1d6. La puissance augmente avec le niveau : +2d6 au niveau 15 et +3d6 au niveau 18.  
+
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin4300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin4.jpeg)  
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
@@ -186,7 +188,7 @@ Risque maximum : Faible
 Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce soit par voie terrestre ou maritime, les marchandises transitent par ce point. Le comptoir compte un bâtiment principal et un bâtiment secondaire qui sert d’entrepôt, une écurie et deux pontons sur la rivière. quatre personnes tiennent les lieux, deux autres s'occupent des deux chevaux et de deux charrettes et quatre autres sont sur deux bateaux à voile.  
 
 §§§
-
+[![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin5300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin5.jpeg)  
 §§§ .hero
 ### <v-icon>mdi-script-text-outline</v-icon> Autres informations:  
 **Haut fait de vaillance** : *héroïque: Bataille du pont de Pren Derv (Shahims vs Meldètes)  + 5 PH*  
@@ -203,5 +205,6 @@ Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 hanche gauche (20cm)
 
-Mise à jour du 31/01/2023
+
 §§§
+Mise à jour du 11/02/2024

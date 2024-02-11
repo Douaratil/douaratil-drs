@@ -67,7 +67,7 @@ Les langues les plus courantes, ainsi que leur alphabet, sont résumées sur la 
 | **Lassym** | Peuple Lassymide | Lassyth |
 | **Shèmide** | Peuple Shème | Shèm |
 | **Ptolémique** | Peuple Ptolème | Ptolh
-[![Langues](https://www.douaratil.fr/illustrations/regles/langues2300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues2.jpeg)  
+[![Langues](https://www.douaratil.fr/illustrations/regles/langues4300.jpeg)](https://www.douaratil.fr/illustrations/regles/langues4.jpeg)  
 §§§ .hero
 *Les deux hommes, vêtus de leurs tenues traditionnelles ashkémites palabraient dans leur dialecte aux résonances gutturales. Ils s'exprimaient en Shkhaam et même ma maîtrise de l'Ashkhèm ne me permettait pas de suivre la conversation. Chaque intonation exprimait une subtilité de la transaction. Juste à côté, les deux dromadaires mâchaient nonchalamment une touffe d'herbes sèches. Une exclamation clôtura la négociation. L'un des deux ashkémites semblait furieux mais je savais qu'il s'agissait d'une convention sociale pour valoriser l'acheteur et lui faire entendre qu'il avait fait une bonne affaire.*       
 **Mes voyages, mes affaires de Solène de Courdo**   

@@ -68,11 +68,7 @@ category: "PJ"
 ---
 
 ## <v-icon>mdi-drama-masks</v-icon> Shine Hame
-§§§ .hero
-*Shin Hame était un jeune Yotakaï de vingt deux ans. Il avait la peau mate et des cheveux noirs, longs, qui encadraient son visage. Ses yeux, également noirs, étaient expressifs et trahissaient son intelligence. De stature moyenne, il mesurait environ un mètre soixante dix pour soixante cinq kilos. On pouvait voir des cicatrices de petites griffures et morsures sur sa hanche gauche et son mollet droit, témoins de ses nombreuses expériences aventureuses.*   
-*Shin Hame était un serviteur du clan Yotakaï et l'un des compagnons d'aventures de Yan Zin. Lorsque son maître avait entrepris un voyage en orient, Shin Hame avait été choisi pour le remplacer et rester à Douaratil pour le représenter. C'était un homme déterminé et loyal, qui travaillait dur pour remplir sa mission envers son clan et son ami Yan Zin.*      
-**Souvenirs d'Ailynn la voyageuse**   
-§§§  
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 49        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14      
@@ -82,11 +78,13 @@ _**Historique**_ : Érudit
 **Outils maîtrisés** : Un au choix parmi : matériel de calligraphie, outils de cartographe ou matériel d'alchimiste.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.  
-**Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)
+**Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)   
+
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame2300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame2.jpeg)  
 
 **Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  
 
-_**Voie de la magie & sohoten**_. Shin Hame est niveau 8 dans la voie la Magie et Archétype Sohoten: un Sohomaindus.
+_**Voie de la magie & sohoten**_. Shin Hame est niveau 9 dans la voie la Magie et Archétype Sohoten: un Sohomaindus.
 
 _**Restauration magique**_. *(Magie)* Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux (2d6) du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 
@@ -110,6 +108,8 @@ _**Coup distant**_. *(Sohoten)* À partir du niveau 7, vous avez pouvez porter u
 
 _**Maîtrise de la concentration**_. *(Sohoten)* À partir du niveau 9, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
 
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame3300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame3.jpeg)  
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
 _**Sabre(•)**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
@@ -124,6 +124,7 @@ _Touché_ : 1d6+2 dégâts tranchants (Finesse, légère, lancer 6/18).
 _**Fronde(•)**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 9/36.  
 _Touché_ : 1d6+2 dégâts perforants.   
 
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame4300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame4.jpeg)  
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -169,11 +170,12 @@ Shin Hame possède l'équipement suivant :
 **Points de Foi** :21   
 **Points d'honneur** :24    
 §§§
-
+[![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame5300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame5.jpeg)  
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - hanche gauche (10 cm)  
 - mollet droit (10 cm)
 
-Mise à jour du 31/01/2023
+
 §§§
+Mise à jour du 11/02/2024

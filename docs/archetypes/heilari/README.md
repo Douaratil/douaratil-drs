@@ -23,7 +23,7 @@ title: heilari
 
 ## Heilari
 &nbsp;
-[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilarim.png)](https://www.douaratil.fr/illustrations/archetype/heilari.jpg)  
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Heilari, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -38,6 +38,8 @@ En tant que Heilari, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : La Heilari fait partie des voies shamaniques nordique, de ce fait, il développe les points de Foi (PF)  
 
 Dans les divers cultures clanique nordique, les Heilaris ont une place très importantes. Ces femmes une grande capacité dans les soins et sont aussi très résistantes. Les Heilaris de la voie des Armes sont appelés Heppinn, littéralement «Chanceuse». Les Heilaris de la voie de l’Ombre sont appelés Blessaður, littéralement «bénie». Les Heilaris de la voie de la Magie sont appelés guðdómlegur littéralement « divine».  
+
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari2.jpeg)  
 
 ### Disciple de la vie
 **En Weshlède : Lærisveinn lífsins**  
@@ -57,7 +59,7 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 À partir du niveau 6, les sorts de soins que vous lancez sur d'autres créatures vous soignent aussi. Quand vous lancez un rituel qui redonne des points d’action à une personne différente de vous, vous regagnez un nombre de points de d’action égal à 2 + le coût de base du sort en points de foi (PF).  
 
 &nbsp;
-[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilarisoinsm.png)](https://www.douaratil.fr/illustrations/archetype/heilarisoins.jpg)  
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari3.jpeg)  
 
 ### Vitalisation  
 **En Weshlède : Lífsþróttur**  
@@ -71,6 +73,8 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 **En Weshlède : Heilsugæslu**  
 À partir du niveau 10, la Heilari apprend gratuitement le sort [Guérison](/grimoire/guerison), [Soin dermique](/grimoire/soin-dermique) et [Soin des blessures de groupe](/grimoire/soins-des-blessures-de-groupe).  
 
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari4.jpeg)  
+
 ### Guérisseuse  
 **En Weshlède : Heilsugæslu**  
 À partir du niveau 12, la Heilari a toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour la compétence médecine et religion lorqu'il s'agit de lancer un sort de soin.  
@@ -83,6 +87,8 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 **En Weshlède : Heilagt ónæmi**  
 À partir du niveau 14, la Heilari a toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de résistance contre les poisons ou les maladies même d'origine magique.  
 
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari5.jpeg)  
+
 ### Purifiante  
 **En Weshlède : Hreinsandi**  
 À partir du niveau 17, la Heilari apprend gratuitement le sort [Guérison de groupe](/grimoire/guerison-de-groupe)
@@ -90,6 +96,8 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 ### Guérison suprême  
 **En Weshlède : Æðsta lækning**  
 À partir du niveau 18, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
+
+[![Heilari](https://www.douaratil.fr/illustrations/archetype/heilari6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/heilari6.jpeg)  
 
 ### Véritable Heilari
 **En Weshlède : Heilari**  

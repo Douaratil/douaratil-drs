@@ -74,6 +74,7 @@ category: "PJ"
 *N’étant encore qu’assez jeune, 28 printemps seulement, son avenir ne pouvait être que prometteur s’il était assez avisé pour ne pas se faire tuer par un ennemi inconnu.*          
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
+[![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwion300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwion.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 63  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21       
@@ -267,7 +268,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 **Revenus** : 14 x 6d6 po   
 
 ### Colonie de Madin'alajnibh
-**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.
+**Développement Normal** La colonie est respectable. La colonie est pauvre. La colonie est constituée de quinze bâtiments avec une capacité d'accueil de 120 colons. La colonie comprends trois points d'eau, marché, basses cours, bergerie, étables et artisanats de base. La colonie a une grande palissade de bois.   
 **Revenus** : 1d6 PP et 20 x 6d6 po.   
 **Colons** : 107     
 **Trésor** : 1800 po    
@@ -294,7 +295,7 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
-
-Mise à jour du 24/02/2023
-
 §§§
+Mise à jour du 11/09/2024
+
+
