@@ -20,10 +20,6 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 **Archétypes : illustrations**   
 - Changement des illustrations de l'[Heilari](/archetypes/heilari).
 
-**Règles : illustrations**   
-- Changement des illustrations de la section [langues](/langues).
-- Changement des illustrations de la section des [Voies](/voies).
-
 **PJ : illustrations**   
 - Mise à jour des illustrations de [Gwion Gornoc](/bestiaire/gwion-gornoc). 
 - Mise à jour des illustrations de [Shine Hame](/bestiaire/shine-hame). 
