@@ -24,10 +24,7 @@ title: bhaner
 |**20**|[Véritable Bhaner](#veritable-bhaner)|
 
 
-§§§ .hero
-*L'artiste qui enchantait l'assemblée était une femme à la belle chevelure rousse. Ses doigts courraient sur le manche d'une cithare et sa voix avait fait taire toutes les conversations des clients de la taverne. Il s'agissait d'une barde khernaëe, c'était une Bhanere.*       
-**Des terres et des hommes de Xeophon d’Avalina**   
-§§§   
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.

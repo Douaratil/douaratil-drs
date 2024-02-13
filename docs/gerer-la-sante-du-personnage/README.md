@@ -27,9 +27,9 @@ Une créature morte ne peut pas regagner de point d'action.
 Un coup critique ne peut être **paré ou esquivé**. Un coup critique est résolu sur la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). Un coup critique peut entraîner une blessure (fracture, hémorragie, brûlure) qualifiées de mineur ou de majeure. Cette blessure est décrite dans la [table des coups critiques](/tables-de-degats-et-de-coups-critiques/). C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action (PA), si le seuil de critique (SC) est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
 
 
-#### Type de blessure grave et rythme de guérison  
+#### Type de blessures et rythme de guérison  
 
-Le type de blessure est décrit dans la table de [coup critique](/tables-de-degats-et-de-coups-critiques/). Suivant le type de blessure, le test de guérison qui est un test de Constitution (et pas un jet de sauvegarde) d'un DD de 16 s'effectue dans le cadre d'une guérison naturelle après le laps de temps indiqués ci-dessous. Les blessures peuvent être guéries plus rapidement par des soins magiques ou l'usage de plantes spéciales.  
+Le type de blessure est décrit dans la table de [coup critique](/tables-de-degats-et-de-coups-critiques/) : elle est **mineure** ou **majeure**. Suivant le type de blessure, le test de guérison qui est un test de Constitution (et pas un jet de sauvegarde) d'un DD de 16 s'effectue dans le cadre d'une guérison naturelle après le laps de temps indiqués ci-dessous. Les blessures peuvent être guéries plus rapidement par des soins magiques ou l'usage de plantes spéciales.  
 
 
 
@@ -46,7 +46,7 @@ Une personne blessée doit passer un nombre de [_repos long_](/gerer-la-sante-du
 
 Certaines herbes et certains sorts ont des effets sur le rythme ou les conditions de guérison.  
 
-Une blessure mineure augmente le DD de tout test de caractéristique la difficulté d'un degré: par exemple un test moyen (DD 16) se transforme en test difficile (DD 22). Dans le cadre d'une blessure majeure, la difficulté est augmenté de deux paliers:par exemple un test moyen (DD 16) se transforme en test très difficile (DD 28).
+Une **blessure mineure** augmente le DD de tout test de caractéristique la difficulté d'un degré: par exemple un test moyen (DD 16) se transforme en test difficile (DD 22). Dans le cadre d'une **blessure majeure**, la difficulté est augmenté de deux paliers:par exemple un test moyen (DD 16) se transforme en test très difficile (DD 28). ***Attention, cela ne s'applique pas pour le test de guérison.***
 
 
 #### Mort
@@ -187,20 +187,21 @@ Les états suivants pourraient aussi affecter votre personnage. Tout comme les �
 ### Fatigue et épuisement
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l'épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d'épuisement, comme indiqué dans la description de chaque effet.
 
-
-
 | Niveau | Effet |
 |:-:|:-|
-| **1** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) |
-| **2** | Vitesse réduite de moitié |
-| **3** | [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques et des sauvegardes |
-| **4** | Maximum de points d'action réduit de moitié |
-| **5** | Vitesse réduite à 0 |
-| **6** | Décès
+| **1** | Malus de -1, réduction de déplacement de 1m|
+| **2** | Malus de -2, réduction de déplacement de 2m |
+| **3** | Malus de -3, réduction de déplacement de 3m |
+| **4** | Malus de -4, réduction de déplacement de 4m |
+| **5** | Malus de -5, réduction de déplacement de 5m |
+| **6** | Malus de -6, réduction de déplacement de 6m |
+
+La réduction de délacement s'applique au déplacement de base.
+Le malus s'applique à tout lancer de dés c'est à dire [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique), [test de compétence](/utiliser-les-caracteristiques/#competences), [Jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), [attaquer](/combattre/#attaquer), [Lancer un sort](/combattre/#lancer-un-sort) mais aussi la récupération des points de Magie, des points de Foi, des points d'action, des points d'honneur et des lancers des dés de vie dans le cadre des [repos courts](/gerer-la-sante-du-personnage/#repos-court) et des [repos longs](/gerer-la-sante-du-personnage/#repos-long). A noter que le malus impacte aussi le maximum de chaque catégorie.   
+
+*exemple : Ulfred est niveau 1 et est épuisé au niveau 6, il a normalement 14 points d'action. Tant qu'il est épuisé, son maximum sera 8 points d'action (malus de -6)*.   
 
 Si une personne déjà épuisée souffre d'un nouvel effet générant de l'épuisement, son niveau d'épuisement actuel augmente du montant indiqué dans la description de l'effet.
-
-Une créature souffre des effets de son niveau d'épuisement actuel et de tous les effets des niveaux inférieurs. Par exemple, une créature affligée d'un épuisement de niveau 2 voit sa vitesse réduite de moitié et subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
 Un effet qui réduit l'épuisement diminue son niveau du montant indiqué dans sa description. Tous les effets d'épuisement se terminent si le niveau d'épuisement de la créature est réduit à moins de 1.
 
@@ -225,6 +226,6 @@ Par exemple, si un personnage possède 8 dés d’action, il peut en regagner 4 
 
 Un personnage ne peut profiter qu'une fois par période de 24 heures des bénéfices conférés par un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) et, pour cela, il doit avoir au moins 1 point d’action au début de cette période de repos.  
 
-D’autre part, un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) permet de récupérer des **point de Magie** ou des points de Foi qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
+D’autre part, un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) permet de récupérer des **points de Magie** ou des **points de Foi** qui auraient été dépensés. ***Les arts arcaniques étant très fatigants, ces points se récupèrent plus lentement***. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), le personnage récupère 1 point par niveau + son bonus de caractéristique correspondant. ***Un personnage de la voie de la magie double son bonus de caractéristique***.  
 Enfin, il est possible de récupérer des **points d’honneur** qui auraient été perdus. Après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long), les blessures morales s’éloignent doucement et le personnage reprend confiance en ses capacités. Il récupère 1 point par niveau + son bonus de charisme. ***Un personnage de la voie des armes double son bonus de caractéristique***.  
 Le personnage regagne aussi un point de [santé mentale](/sante-mentale) (SAM) par point de bonus de Sagesse (minimum 1)

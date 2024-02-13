@@ -6,7 +6,9 @@ title: Combattre
 
 Le MJ détermine qui est susceptible d'être pris par surprise. Si aucun des deux camps ne cherche à être discret, ils se remarquent automatiquement. Sinon, le MJ compare les résultats des tests de Dextérité (Discrétion) de toutes les créatures qui se cachent avec la valeur passive de Sagesse (Perception) de toutes les créatures qui appartiennent à l'autre camp. Tout personnage ou monstre qui ne remarque pas une menace est [_surpris_](/gerer-la-sante-du-personnage/#surpris) au début de la rencontre.
 
-Si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous ne pouvez pas bouger ou accomplir d'action lors de votre premier tour de combat, et vous ne pouvez pas non plus réagir jusqu'à la fin de ce tour. Il est possible qu'un seul membre d'un groupe soit [_surpris_](/gerer-la-sante-du-personnage/#surpris) et pas les autres.
+Si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris), vous ne pouvez pas bouger ou accomplir d'action lors de votre premier tour de combat, et vous ne pouvez pas non plus réagir jusqu'à la fin de ce tour. Il est possible qu'un seul membre d'un groupe soit [_surpris_](/gerer-la-sante-du-personnage/#surpris) et pas les autres.   
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre.jpeg)
 
 ## Initiative
 L'initiative permet de déterminer l'ordre des tours pendant un combat. Au début du combat, chaque participant fait un test de Dextérité afin de déterminer son rang dans l'ordre d'initiative. Le MJ lance un seul dé pour un groupe de créatures identiques, de sorte que tous les membres de ce groupe agissent en même temps.
@@ -24,8 +26,7 @@ La section [_Déplacement et position_](#deplacement-et-position) vous explique 
 
 Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien faire pendant votre tour. Si vous ne savez pas quoi faire pendant votre tour, vous pouvez envisager de choisir les actions [_esquiver_](#esquiver) ou [_se tenir prêt_](#se-tenir-pret), décrites dans la section [_Actions en combat_](#actions-en-combat).   
 
-&nbsp;
-[![Combattre](https://www.douaratil.fr/illustrations/regles/combattrem.png)](https://www.douaratil.fr/illustrations/regles/combattre.jpg)
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre2300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre2.jpeg)
 
 ### Action bonus
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.
@@ -78,6 +79,8 @@ Certaines capacités spéciales, sorts ou situations permettent à votre personn
 
 Quand vous réagissez, vous ne pouvez pas réagir de nouveau avant le début de votre prochain tour. Si la réaction interrompt le tour d'une autre créature, celle-ci finit son tour normalement après la résolution de la réaction.
 
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre3300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre3.jpeg)
+
 ## Déplacement et position
 Au cours d'un combat, les héros et leurs adversaires sont constamment en mouvement et utilisent souvent leur déplacement ou leur position pour tenter de prendre le dessus sur leurs ennemis.
 
@@ -85,8 +88,7 @@ Lors de votre tour, vous pouvez vous déplacer d'une distance inférieure ou ég
 
 Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces différents modes de déplacement peuvent être combinés avec la marche ou constituer l'ensemble de votre déplacement. Quelle que soit la manière dont vous vous déplacez, vous devez déduire de votre vitesse la distance utilisée par chacun de vos modes de déplacement jusqu'à ce que vous ayez épuisé votre jauge de déplacement ou que vous ayez décidé de vous arrêter.
 
-&nbsp;
-[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre2m.png)](https://www.douaratil.fr/illustrations/regles/combattre2.jpg)
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre4300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre4.jpeg)
 
 ### Fragmenter votre mouvement
 Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une partie de votre déplacement avant votre action et le reste après celle-ci. Par exemple, si votre vitesse est de 9 mètres, vous pouvez vous déplacer de 3 mètres, faire une action, puis parcourir les 6 mètres restant.
@@ -165,6 +167,8 @@ Cette action vous permet de réaliser une attaque de corps-à-corps ou à distan
 
 Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à votre personnage de porter plus d'une attaque avec cette action.
 Un résultat de trois 6 sur le jet initial d'attaque est toujours un coup critique. Le coup critique à plusieurs effets : il peut entrainer sur un personnage ou un PNJ important une blessure majeure.
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre5300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre5.jpeg)
 
 ### Chercher
 Quand vous choisissez l'action _chercher_, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
@@ -255,7 +259,9 @@ Quand vous attaquez une cible que vous ne pouvez pas voir, vous subissez un [_d�
 Quand une créature ne peut pas vous voir, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) quand vous faites un [jet d'attaque](/combattre/#jets-d-attaque) la ciblant. Si vous étiez caché (qu'elle ne vous voit pas et ne vous entend pas) et que vous attaquez, quel que soit le résultat de votre attaque, votre position est immédiatement révélée au moment de la résolution de l'attaque.
 
 ### Attaque à distance
-Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une fronde ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.
+Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une fronde ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.  
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre8300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre8.jpeg)
 
 #### Portée
 Vous ne pouvez faire d'attaque à distance que contre des cibles qui se trouvent à une portée spécifique.
@@ -272,7 +278,9 @@ Une attaque de corps-à-corps vous permet d'attaquer un ennemi qui se trouve à 
 
 La majorité des créatures possède une **allonge** de 1,50 mètre. Elles peuvent donc porter une attaque de corps-à-corps contre les cibles qui se trouvent dans un rayon de 1,50 mètre autour d'elles. Certaines créatures, généralement celles qui sont plus grandes que la taille moyenne, possèdent une allonge qui dépasse 1,50 mètre. C'est alors indiqué dans leur description.
 
-Quand vous êtes au corps-à-corps, vous pouvez aussi porter une **attaque à mains nues** au lieu d'utiliser une arme : un coup de poing, de pied, de tête ou un coup similaire (aucune de ces parties du corps n'étant considérée comme une arme). Si vous réussissez, votre attaque à mains nues inflige un nombre de dégâts égal à 1 + votre modificateur de Force. Vous maîtrisez automatiquement les attaques à mains nues.
+Quand vous êtes au corps-à-corps, vous pouvez aussi porter une **attaque à mains nues** au lieu d'utiliser une arme : un coup de poing, de pied, de tête ou un coup similaire (aucune de ces parties du corps n'étant considérée comme une arme). Si vous réussissez, votre attaque à mains nues inflige un nombre de dégâts égal à 1 + votre modificateur de Force. Vous maîtrisez automatiquement les attaques à mains nues.  
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre7300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre7.jpeg)
 
 #### Attaque d'opportunité
 Au cœur d'un combat, chacun reste à l'affût d'une chance de frapper un ennemi qui baisse sa garde parce qu'il est en train de fuir ou de passer devant soi. Une telle attaque est appelée une attaque d'opportunité.
@@ -330,7 +338,9 @@ Une cible qui bénéficie d'un **abri partiel** applique un bonus de +2 à sa VD
 
 Une cible qui bénéficie d'un **abri important** applique un bonus de +5 à sa VD et à ses jets de sauvegarde de Dextérité. Une cible bénéficie d'un abri important si un obstacle protège au moins les trois quarts de son corps. L'obstacle en question peut être une herse, une meurtrière ou un épais tronc d'arbre.
 
-Une cible qui bénéficie d'un **abri total** ne peut pas être ciblée directement par des attaques ou des sorts. Cela dit, elle peut être affectée par certains sorts qui ont une zone d'effet. Une cible bénéficie d'un abri total si elle est complètement dissimulée par un obstacle.
+Une cible qui bénéficie d'un **abri total** ne peut pas être ciblée directement par des attaques ou des sorts. Cela dit, elle peut être affectée par certains sorts qui ont une zone d'effet. Une cible bénéficie d'un abri total si elle est complètement dissimulée par un obstacle.  
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre6300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre6.jpeg)
 
 ## Dégâts
 Lorsqu'une attaque est réussie, l'adversaire ciblé subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
@@ -342,7 +352,9 @@ Le descriptif d'un sort vous indique quel dé lancer pour calculer les dégât
 Si un sort ou un effet inflige des dégâts à **plus d'une créature** au même moment, les dégâts sont lancés une seule fois pour toutes les créatures. Par exemple, les dégâts infligés par le sort sont lancés une seule fois pour toutes les créatures qui sont prises dans l'explosion.  
 
 #### Coups critiques
-Un [coup critique](/tables-de-degats-et-de-coups-critiques) est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit un montant supérieur à la valeur de sa constitution en un seul coup (on parle de seuil de critique (SC)) ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action ou que le résultat du jet d'attaque contient trois 6 au moins. Le coup critique peut entraîner une blessure majeure ou mineure qui est résolue immédiatement dans la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage).
+Un [coup critique](/tables-de-degats-et-de-coups-critiques) est un coup tellement puissant qu’il peut rendre inconscient un adversaire immédiatement ou le tuer sur le coup. Un coup critique est infligé lorsqu’un adversaire subit un montant supérieur à la valeur de sa constitution en un seul coup (on parle de seuil de critique (SC)) ou que l’adversaire subit des dégâts alors qu’il ne lui reste plus de points d’action ou que le résultat du jet d'attaque contient trois 6 au moins. Le coup critique peut entraîner une blessure majeure ou mineure qui est résolue immédiatement dans la section [Gérer la santé du personnage](/gerer-la-sante-du-personnage).  
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre9300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre9.jpeg)
 
 #### Types de dégâts
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.
@@ -390,7 +402,9 @@ Parfois, un attaquant souhaite neutraliser un ennemi plutôt que le tuer. Quand 
 ## Combat monté
 Une personne qui charge en plein cœur de la bataille sur son cheval de guerre bénéficie de la vitesse et de la mobilité de leur monture.
 
-Une créature consentante qui fait au minimum une taille de plus qu'un personnage et qui a une anatomie appropriée peut être utilisée comme monture en suivant les règles suivantes.
+Une créature consentante qui fait au minimum une taille de plus qu'un personnage et qui a une anatomie appropriée peut être utilisée comme monture en suivant les règles suivantes.  
+
+[![Combattre](https://www.douaratil.fr/illustrations/regles/combattre10300.jpeg)](https://www.douaratil.fr/illustrations/regles/combattre10.jpeg)
 
 ### Monter et descendre de sa monture
 Au cours de votre déplacement, vous pouvez descendre de votre monture ou monter sur celle-ci si elle se trouve dans un rayon de 1,50 mètre de vous. Vous ne pouvez accomplir ce déplacement spécial qu'une fois par tour et il vous coûte la moitié de votre vitesse. Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres de votre jauge de déplacement pour monter à cheval. Vous ne pourrez par monter à cheval s'il vous reste moins de 4,50 mètres ou si votre vitesse est réduite à 0.

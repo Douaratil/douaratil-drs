@@ -26,10 +26,10 @@ Une guilde est strictement pyramidale et les compagnons de guildes travaillent t
 
 En générale, il y a une guilde dans chaque ville. Dans les grandes villes, il peut y avoir plusieurs guildes qui se séparent leur zone d'influence (quelques fois aux prix de combats et de vendettas) et se réservent des quartiers.   
 
-## Guilde d'artisanat
+## Guilde des artisans
 
 &nbsp;
-[![Guilde d'artisanat](https://www.douaratil.fr/illustrations/regles/guildedartisansm.png)](https://www.douaratil.fr/illustrations/regles/guildedartisans.jpg)  
+[![Guilde des artisans](https://www.douaratil.fr/illustrations/regles/guildedesartisans300.jpeg)](https://www.douaratil.fr/illustrations/regles/guildedesartisans.jpeg)  
 
 Il est assez facile de rentrer dans une guilde d'artisans. Il suffit en général de postuler, d'en payer le tribut par cycle de lune. Il y a autant de guilde que de métiers mais comme dans la section [Personnalité et historique](/personnalite-et-historique/#artisan), ceux-ci seront classés en grandes thématiques :  
 
@@ -84,11 +84,11 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une oeuvre pour 
 |Expert|Prix X50|28|
 |Maître|Prix X100|35|
 
-## Guilde guerrière
+## Guilde des guerriers
 Les guildes des guerriers diffèrent des guildes d'artisans car elles ne génèrent pas des revenus mais permettent aux guerriers de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes guerrières peuvent être en concurrence les unes avec les autres.  
 
 &nbsp;
-[![Guilde guerrière](https://www.douaratil.fr/illustrations/regles/guildeguerrierem.png)](https://www.douaratil.fr/illustrations/regles/guildeguerriere.jpg)  
+[![Guilde des guerriers](https://www.douaratil.fr/illustrations/regles/guildedesguerriers300.jpeg)](https://www.douaratil.fr/illustrations/regles/guildedesguerriers.jpeg)  
 
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|
@@ -102,7 +102,7 @@ Les guildes des guerriers diffèrent des guildes d'artisans car elles ne génèr
 
 Les guildes de guerriers ont des signes de reconnaissance extérieure comme des tatouages, des bijoux, des scarifications ou des vêtements spécifiques.   
 
-### Promotion dans la guilde guerrière.   
+### Promotion dans la guilde des guerrièrs.   
 Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pour accéder au rang supérieur. Il doit avoir l'ancienneté requise et être à jour de ses cotisations. Les promotions dans les guildes guerrières se déroulent sous forme initiatiques et sont l'occasion de fêtes orgiaques. Celui qui souhaite accéder à un rang supérieur doit défier une personne du rang supérieur. Cependant, si une personne très expérimentée débute son parcours dans la guilde, il devra affronter des adversaires dignes de lui. En résumé, il n'affront jamais une personne plus faible que lui. Si la personne qui est défiée est trop vieille ou impotente, elle peut désigner un champion.  
 
 |Titre|Adversaire|ID (Niveau) de l'adversaire|
@@ -117,7 +117,7 @@ Un membre de guilde peut s'il le souhaite demander de réaliser une épreuve pou
 
 Les combats de déroulent en plusieurs combats successifs. Chaque phase de combat dure 3 rounds maximum. Entre chaque combat la règle du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) peut s'appliquer. Les combats ne sont pas mortels mais simulés. L'objectif n'est pas d'humilier ou d'estropier l'adversaire mais de prouver sa valeur.   
 
-### Tarification de la guilde des guerrière.
+### Tarification de la guilde des guerrièrs.
 
 Les guildes guerrières proposent beaucoup de services, des protections, des prélèvements de dents, des spectacles de combat etc... Les demandes viennent de toutes les strates de la société. Les tâches réalisables et les tarifs dépendent du rang. Le membre de la guilde (personnage) peut être sollicité jusqu'à 4 fois par lune (1 fois par semaine), il est en général embauché pour 1d6 jours. Il doit effectuer des tests tous les jours suivant la mission, si les tests sont echoués, il ne gagne que la moitié de la somme pour la journée.  
 
@@ -139,7 +139,7 @@ Les chances d'être sollicité correspondent à un JS de Charisme (CHA) DD22
 Les guildes des voleurs (appelées ainsi génétiquement mais comprends les activité de vol de subterfuge, d'assassinat et de protection) diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes voleurs peuvent être en concurrence les unes avec les autres.  
 
 &nbsp;
-[![Guilde des voleurs](https://www.douaratil.fr/illustrations/regles/guildedesvoleursm.png)](https://www.douaratil.fr/illustrations/regles/guildedesvoleurs.jpg)  
+[![Guilde des voleurs](https://www.douaratil.fr/illustrations/regles/guildedesvoleurs300.jpeg)](https://www.douaratil.fr/illustrations/regles/guildedesvoleurs.jepg)  
 
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|
@@ -190,7 +190,7 @@ Les chances d'être sollicité correspondent à un JS de Charisme (CHA) DD22
 Les guildes de représentations regroupent tous les métiers de spectacle (pour les peintres et les sculpteurs, ce sont plutôt des artisans), elles diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes de représentation peuvent être en concurrence les unes avec les autres mais permettent aussi d'avoir accès à de juteux contrats qui augmenteront la renommée de l'artiste.  
 
 &nbsp;
-[![Guilde artistique](https://www.douaratil.fr/illustrations/regles/guildeartistiquem.png)](https://www.douaratil.fr/illustrations/regles/guildeartistique.jpg)  
+[![Guilde artistique](https://www.douaratil.fr/illustrations/regles/guildeartistique300.jpeg)](https://www.douaratil.fr/illustrations/regles/guildeartistique.jpeg)  
 
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|
@@ -233,7 +233,7 @@ La table doit se lire en plusieurs partie. Un artiste peut faire un spectacle et
 Les guildes des Mages diffèrent des guildes d'artisans car elles ne génèrent pas des revenus directs mais permettent aux compagnons de se regrouper pour se protéger mutuellement et apprendre des techniques secrètes. Les guildes Mages peuvent être en concurrence les unes avec les autres.  
 
 &nbsp;
-[![Guilde des mages](https://www.douaratil.fr/illustrations/regles/guildedesmagesm.png)](https://www.douaratil.fr/illustrations/regles/guildedesmages.jpg)  
+[![Guilde des mages](https://www.douaratil.fr/illustrations/regles/guildedesmages300.jpeg)](https://www.douaratil.fr/illustrations/regles/guildedesmages.jpeg)  
 
 |Titre| Ancienneté minimum|Avantage conféré|Tribut|
 |:-:|:-:|:-:|:-:|

@@ -1,5 +1,5 @@
 ---
-title: Les cavernes de Mougevioù
+title: Les cavernes de Mougevioù (aventure pour groupe de minium 4 joueurs niveau 1)
 ---
 # Les cavernes de Mougevioù
 

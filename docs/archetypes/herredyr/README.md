@@ -21,7 +21,7 @@ title: Herredyr
 
 ## Herredyr
 &nbsp;
-[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyrm.png)](https://www.douaratil.fr/illustrations/archetype/herredyr.jpg)  
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -37,6 +37,8 @@ En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Herredyr sont des individus qui gardent les tracent de l'ancienne alliance avec les Seigneurs des Bêtes. Ils sont souvent relativement asociaux car quelque chose en eux n'est pas en accord avec la vie civilisée. Les Herredyrs de la voie des Armes sont appelés Gorach’rughadh, littéralement «La bête rugissante». Les Herredyrs de la voie de l’Ombre sont appelés Gorach’dubh, littéralement «La bête noire». Les Herredyrs de la voie de la Magie sont appelés Gorach’gwybod, littéralement « La bête qui sait».  
 *Règle particulière : il est conseillé de limiter cet Archétype à un seul par groupe de personnage.*   
+
+
 
 ### Allégeance bestiale
 **En Khernaë :Fealded Chatakh**  
@@ -169,7 +171,9 @@ Dès le niveau 12, votre allégeance bestiale vous permet développer la rage be
 **En Khernaë : Hoalegezh Chatakh**   
 **En Meldète : Fad'Saoil'Beithigh**  
 **En Melg :Livslängd Eläimen**  
-Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre durée de vie. Vous gagnez 25 ans par point de bonus de constitution. Durant cette période, l'Herredyr se stabilise à un âge mûr. Il ne vieillit que les 10 dernières années de sa vie.  
+Dès le niveau 15, votre allégeance bestiale vous permet d'allonger votre durée de vie. Vous gagnez 25 ans par point de bonus de constitution. Durant cette période, l'Herredyr se stabilise à un âge mûr. Il ne vieillit que les 10 dernières années de sa vie.   
+
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr2.jpeg)  
 
 ### Seigneur des bêtes
 **En Khernaë :Aotrou Chatakh**  

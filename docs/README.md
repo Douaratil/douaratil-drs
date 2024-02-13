@@ -14,6 +14,31 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 192
+![Mise à jour 192](https://www.douaratil.fr/illustrations/site/maj192.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations du [Bhaner](/archetypes/bhaner).
+- Changement des illustrations du [Gwylvir](/archetypes/gwylvir).
+- Changement des illustrations de l'[Herredyr](/archetypes/herredyr).
+
+
+**Règles : illustrations**   
+- Changement des illustrations de la section [combattre](/combattre).   
+- Changement des illustrations de la section [guilde](/guilde).   
+- Changement des règles de [fatigue et épuisement](/gerer-la-sante-du-personnage/#fatigue-et-epuisement).   
+- Changement des illustrations de la section [lancer des sorts](/lancer-des-sorts).   
+- Changement des illustrations de la section des [Voies](/voies).
+
+**Site : illustrations**   
+- Ajout des illustrations des  [livres de Douaratil](https://www.douaratil.fr). 
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 13 février 2024_
+§§§
+
 ## Mise à jour 191
 ![Mise à jour 191](https://www.douaratil.fr/illustrations/site/maj191.jpeg)  
 
@@ -108,13 +133,18 @@ Bon jeu à tout le monde !
 
 ### Livres
 &nbsp;
-<v-icon>mdi-book-open-page-variant</v-icon>  Avant d'être un jeu de rôle, Douaratil est une suite de livre dans un monde d'inspiration celtique et antique. Voici le [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) pour obtenir les dernières révisions. Sont actuellement publiés depuis 2020, les trois livres de Douaratil:  
-1 - Douaratil : L'honneur perdu  
-2 - Douaratil : L'ombre intime  
-3 - Douaratil : Le hurlement du loup  
-4 - Douaratil : Les âmes égarées     
+<v-icon>mdi-book-open-page-variant</v-icon>  Avant d'être un jeu de rôle, Douaratil est une suite de livre dans un monde d'inspiration celtique et antique. Voici le [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) pour obtenir les dernières révisions. Sont actuellement publiés depuis 2020, les quatres livres de Douaratil:  
+1 - **Douaratil : L'honneur perdu:**  
+[![l'honneur perdu](https://www.douaratil.fr/illustrations/site/lhonneurperdu.jpeg)](https://librairie.bod.fr/lhonneur-perdu-olivier-hovasse-9782322234479)  
+2 - **Douaratil : L'ombre intime**  
+[![L'ombre intime](https://www.douaratil.fr/illustrations/site/lombreintime.jpeg)](https://librairie.bod.fr/lombre-intime-olivier-hovasse-9782322239511)  
+3 - **Douaratil : Le hurlement du loup**   
+[![le hurlement du loup](https://www.douaratil.fr/illustrations/site/lehurlementduloup.jpeg)](https://librairie.bod.fr/le-hurlement-du-loup-olivier-hovasse-9782322252114)  
+4 - **Douaratil : Les âmes égarées**   
+[![les âmes égarées](https://www.douaratil.fr/illustrations/site/lesamesegarees.jpeg)](https://librairie.bod.fr/les-ames-egarees-olivier-hovasse-9782322506552)  
 Mais aussi dans le même monde:   
-1 - Yerkum : Les dunes de sang  
+1 - **Yerkum : Les dunes de sang (à reparraître sur Bod en 2024)**   
+
 
 Tous les livres peuvent être commandés chez votre libraire favori. Les livres étant imprimés à la demande, prévoyez un petit délai avant réception.    
 

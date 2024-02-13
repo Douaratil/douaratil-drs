@@ -5,6 +5,8 @@ title: Les trois voies
 Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à partir du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
+[![Voies](https://www.douaratil.fr/illustrations/regles/voies300.jpeg)](https://www.douaratil.fr/illustrations/regles/voies.jpeg) 
+
 §§§ .hero
 *Il existe trois voies. Choisir une voie est le choix le plus primordial que vous ferez. De ce choix dépendra votre manière d'appréhender le monde, et cela jusqu'à la fin de votre existence.*         
 **Maître Shôm**   

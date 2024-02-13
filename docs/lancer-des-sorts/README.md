@@ -14,7 +14,9 @@ Les sorts ont un coût en point de magie ou en point de foi suivant l’archéty
 **A partir du niveau 17**, il obtient la capacité de lancer des sorts de **maître** sous réserve de posséder 20 dans la caractéristique de lancement de sort.  
 Les personnages de la voie de la magie, contrairement aux autres voies **ajoutent leur bonus de Maîtrise au DD de sauvegarde**.
 ***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique + le bonus de Maîtrise pour les Voies de la Magie***.
-***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique pour les Voies des Armes et de l'Ombre***.
+***Soit DD de sauvegarde des sorts lancés est égal à 8 + le bonus de caractéristique pour les Voies des Armes et de l'Ombre***.   
+
+[![Lancer des sorts](https://www.douaratil.fr/illustrations/regles/lancerdessorts300.jpeg)](https://www.douaratil.fr/illustrations/regles/lancerdessorts.jpeg)
 
 ### Apprendre des rituels de niveau supérieur
 Vous apprendre seulement des sorts que vous pouvez lancer en satisfaisant aux prérequis. Lors de vos aventures, vous pouvez trouver de nouveaux rituels à apprendre. Copier un rituel dans votre grimoire implique de reproduire la forme générale de ce rituel, puis de déchiffrer le code unique utilisé par le l’initié qui l'a écrit. Vous devez ensuite pratiquer le rituel jusqu'à ce que vous compreniez les sons ou les gestes nécessaires pour le lancer, puis le retranscrire dans votre grimoire en utilisant votre propre code.
