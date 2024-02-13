@@ -28,7 +28,7 @@ title: Gwylwir
 *L'homme était de bonne taille et ne portait pas de vêtements raffinés. Sa cape de couleur vert de gris se fondait sensiblement avec l'environnement. Il portait sur son épaule un carquois rempli de flèches. Il portait deux épées courtes et une dague à la ceinture. Sa min droite tenait fermement un arc long. Je demandais s'il s'agissait d'un éclaireeur ou d'un forestier mais mon interlocuteur me sourit. Il me répondit qu'il s'agissait d'un Gwylvir, un archer sans nul autre pareil.*   
 **Des terres et des hommes de Xeophon d’Avalina.**
 §§§
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -44,7 +44,7 @@ En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Gwylwirs sont des combattants redoutables qui puisent une partie de leurs compétences dans la connaissance de leurs ennemis et du terrain. Ils apprennent à manipuler les arcs et à tendre des embuscades à leurs ennemis.Ils forment un groupe de sentinelles ou guetteurs qui protègent les frontières des royaumes meldètes. Les Gwylwirs de la voie des Armes sont appelés Mieri’dubh, littéralement «la ronce noire». Les Gwylwirs de la voie de l’Ombre sont appelés Mieri’gwenwynig, littéralement «la ronce venimeuse». Les Gwylwirs de la voie de la Magie sont appelés Eidhean’gwybod, littéralement « Le lierre qui sait ».  
 
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir2.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir2.jpeg)  
 
 ### Ennemi juré   
 **En Meldète : Gelyn Tyngu**  
@@ -74,7 +74,7 @@ Au niveau 6 et au niveau 10, vous pouvez choisir un terrain de prédilection sup
 **En Meldète : Steil Ymladd**  
 Au niveau 5, vous choisissez le style de combat Archerie Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
 
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir3.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir3.jpeg)  
 
 ### Attaque supplémentaire  
 **En Meldète : Onsaigh’bharrachd**  
@@ -85,7 +85,7 @@ Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez 
 **En Meldète : Steil Ymladd**  
 Au niveau 8 , vous choisissez le style de combat Combat à deux armes. Quand vous combattez avec deux armes, soit des dagues ou des épées courtes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir4.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir4.jpeg)  
 
 ### Défense  
 **En Meldète : Dyionh**  
@@ -112,7 +112,7 @@ Une fois grimé, vous pouvez tenter de vous cacher en vous plaquant contre une s
 **En Meldète : Halò’saeth**  
 À partir du niveau 15, vous pouvez utiliser votre action pour faire une attaque à distance contre autant de créatures que vous le voulez, dans la mesure où elles se trouvent dans un rayon de 3 mètres autour d'un point que vous avez défini dans la zone de portée de votre arme. Vous devez avoir une munition pour chaque cible, bien entendu, et vous lancez un jet d'attaque séparé pour chaque cible.  
 
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir5.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir5.jpeg)  
 
 ### Sens sauvages  
 **En Meldète : Ystyr’fiadhaich**  
@@ -127,7 +127,7 @@ Au niveau 19, vous pouvez utiliser votre action pour faire une attaque de corps-
 **En Meldète : Marbhadh nàimhdean**  
 Au niveau 20, vous avez développé un talent exceptionnel pour éliminer vos ennemis. Une fois par tour, vous pouvez utiliser cette aptitude pour ajouter votre modificateur de Sagesse au jet d'attaque d'une attaque portée contre un de vos ennemis jurés. Vous pouvez choisir d'utiliser cette aptitude avant ou après avoir jeté les dés, mais vous devez vous être décidé avant que les effets de ce jet aient été appliqués.    
 
-[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylvir6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylvir6.jpeg)  
+[![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir6.jpeg)  
 
 ### Véritable Gwylvir
 **En Meldète : Gwylvir**  

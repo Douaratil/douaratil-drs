@@ -19,7 +19,7 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 **Archétypes : illustrations**   
 - Changement des illustrations du [Bhaner](/archetypes/bhaner).
-- Changement des illustrations du [Gwylvir](/archetypes/gwylvir).
+- Changement des illustrations du [Gwylwir](/archetypes/gwylwir).
 - Changement des illustrations de l'[Herredyr](/archetypes/herredyr).
 
 
