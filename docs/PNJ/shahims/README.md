@@ -121,13 +121,14 @@ Hamda Bin Atiq est la Muaquar de la ville portuaire de Albawad'aljanub. Elle pos
 
 ## Hamid ibn Sayyid
 &nbsp;
-[![Hamid ibn Sayyid](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyidm.png)](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid.jpg)   
+[![Hamid ibn Sayyid](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid300.jpeg)](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid.jpeg)   
 §§§
 |Hamid ibn Sayyid|Shème|
 |:-:|:-:|
 | Profil|[Voie des armes (Expert)](/bestiaire/expert)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 79|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 24|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22|  
+[![Hamid ibn Sayyid](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/hamidibnsayyid2.jpeg)   
 **<v-icon>mdi-sword-cross</v-icon> Actions**   
 _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois** fois quand il choisit l'action attaquer lors de son tour.  
 _**Sabre vorpal +3 Al'manafadh**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 1,50 m, une cible.  
@@ -145,7 +146,7 @@ Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpg)   
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpg)   
 §§§
-|Kahina ult Bouhen|Ashkhémite|
+|Kahina ult Bouhen|Shème|
 |:-:|:-:|
 | Profil|[Voie des armes (Novice)](/bestiaire/voie-des-armes-novices)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 24|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
@@ -163,8 +164,8 @@ Kahina ult Bouhen est une servante donnée en présent à [Lochetos Vlatcano](/b
 
 # Shamash Eriba
 &nbsp;
-[![Shamash Eriba](https://www.douaratil.fr/illustrations/pnj/shamasheribam.png)](https://www.douaratil.fr/illustrations/pnj/shamasheriba.jpg)   
-|Shamash Eriba|Shème|
+[![Shamash Eriba](https://www.douaratil.fr/illustrations/pnj/shamasheriba300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamasheriba.jpeg)   
+|Shamash Eriba|Assyrhim|
 |:-:|:-:|
 | Profil|[Voie des armes (Adepte)](/bestiaire/voie-des-armes-adepte)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 62|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 16|   
@@ -188,7 +189,7 @@ Shamash Eriba est marchand Assyrhim des royaumes de Shahia qui parcourt beaucoup
 # Shamreta la rouge
 &nbsp;
 [![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamreta300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamreta.jpeg)  
-|Shamreta la rouge|Shème|
+|Shamreta la rouge|Ashkhémite|
 |:-:|:-:|
 | Profil|[Voie de la magie (Expert)](/bestiaire/voie-de-la-magie-expert)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 62|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   

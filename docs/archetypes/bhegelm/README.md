@@ -27,6 +27,8 @@ title: Bhegelm
 **Dans le cercle de pierre de Cenocantos Ateponos**   
 §§§   
 
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm.jpeg)  
+
 ## Aptitudes d'Archétype  
 En tant que Bhegelm, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -44,6 +46,8 @@ Les détenteurs de la religion, ils sont solitaires ou organisés en confrérie.
 Les Bhegelms vénèrent aussi les esprits et les créatures sylvestres, les Jevkouarns ainsi que les Animaux Roi ou Maîtres des Bêtes, les Rek'nèveleth, créatures légendaires.  
 Le Bhegelm intervient dans tous les rites importants de la vie, la naissance, la mort, le mariage, le passage à l'âge adulte. Les grandes fêtes des saisons sont « les feux de Balt » pour l'arrivée de l'été, « Les Oraisons de Neveza » pour le printemps, « les Danses d'Amzer » pour l'arrivée de l'automne et « la Longue Nuit de Gohan » pour l'entrée dans l'hiver. Chacune de ces fêtes est communautaire. Les saisons sont des géants légendaires. Les Bhegelms qui viennent de la Voie des Armes sont appelés Beleg Kann , c’est à dire littéralement «le prêtre qui combat ». Les Bhegelms qui viennent de la Voie de l’Ombre sont appelés Beleg Sekred, c’est à dire littéralement « Le prêtre secret » . Les Bhegelms qui viennent de la Voie de la Magie sont appelés Beleg Furnez, c’est à dire littéralement « le prêtre qui a la sagesse » .  
 
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm2.jpeg)  
+
 ### Langue sacrée  
 **En Khern : Yezhsakr**  
 A partir du niveau 3,vous connaissez le Yezhsakr, la langue secrète des Beghelms. Vous pouvez parler cette langue et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui parlent le Yezhsakr, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer. L’écriture est sacrée et utilise des signes qui s’appellent des Omaths.  
@@ -57,6 +61,8 @@ A partir du niveau 3,vous connaissez le Yezhsakr, la langue secrète des Beghelm
 **En Khern : Kenellioen**  
 À partir du niveau 5, le Bhegelm se lie avec une corneille. Il doit s’agir d’un animal qui vit dans les contrées où réside le Bhegelm. Si la corneille devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en croassant. La corneille peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, ou des baies et des fruits.  
 Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau du Bhegelm.  
+
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm6.jpeg)  
 
 ### Forme sauvage  
 **En Khern : Furm Gouez**  
@@ -72,6 +78,8 @@ Votre niveau de Bhegelm détermine en quel animal vous pouvez vous connecter (vo
 
 Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
 
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm7.jpeg)  
+
 ### Monture sacrée  
 **En Khern : Kezeg Helgae**  
 À partir du niveau 7, le Bhegelm peut appeler un cheval sauvage. L’animal vient de son plein gré en raison d’une ancienne alliance entre les races. Le Bhegelm trace sur lui les Omaths qui définissent les clauses de leur contrat (durée et distance). L’animal sert alors de moyen de transport pour le Bhegelm. La monture se déplace au maximum de sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.  
@@ -79,6 +87,8 @@ Cette connexion dure un nombre d'heures équivalent à la moitié de votre nivea
 ### Traversée des terrains  
 **En Khern : Enep Gwezenn**  
  À partir du niveau 7, traverser des terrains difficiles ne vous coûte pas de mouvement supplémentaire. Vous pouvez aussi traverser la végétation non magique sans qu'elle vous ralentisse ou vous inflige des dégâts si elle est dotée d'épines ou présente un quelconque risque de ce type.  
+
+ [![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm3.jpeg)  
 
 ### Compagnon animal corneille à tête blanche  
 **En Khern : Kenellioen**  
@@ -97,6 +107,8 @@ Quand vous atteignez le niveau 10, vous ne pouvez pas être [_charmé_](/gerer-l
 Quand vous atteignez le niveau 14, les créatures du monde naturel sentent votre connexion avec la nature et hésitent à vous attaquer. Quand un animal ou une plante vous attaque, cette créature doit faire un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sorts. Si la créature échoue, elle doit choisir une autre cible, sinon son attaque échoue automatiquement. Si elle réussit, la créature est immunisée à cet effet pendant 24 heures.  
 La créature est consciente de cet effet avant de vous attaquer.  
 
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm4.jpeg)  
+
 ### Compagnon animal corneille blanche  
 **En Khern : Kenellioen**  
 À partir du niveau 16, une corneille blanche vient au service du Bhegelm. Elle peut s’éloigner à 150 mètres par niveau. La corneille blanche voit le monde de l’invisible, les esprits et peut avertir le Bhegelm de leur présence.  
@@ -112,7 +124,9 @@ La créature est consciente de cet effet avant de vous attaquer.
 
 ### Monture sacrée parfaite  
 **En Khern : Kezeg Helgae**  
-À partir du niveau 19, vous appelez un grand cerf blanc, qui outre le fait d’être majestueux, la monture se déplace à 3 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.     
+À partir du niveau 19, vous appelez un grand cerf, qui outre le fait d’être majestueux, la monture se déplace à 3 fois sa vitesse sans souffrir de la fatigue et n’a donc pas besoin de se reposer.    
+
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm8300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm8.jpeg)  
 
 ### Archidruide  
 **En Khern : Bras Drouiz**  
@@ -123,6 +137,8 @@ De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts
 *Le vieil homme s’appuyait sur un vieux bâton gravé d’omath. Son front était ceint d’un bandeau de cuir tressé et à son cou, tenue par une lanière de cuir, une griffe d’ours charognard ballottait sur sa poitrine. Il portait une longue robe de lin blancl’apparentait à l’ancestrale tradition khernaëe.*         
 **Dans le cercle de pierre de Cenocantos Ateponos**   
 §§§   
+
+[![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm5.jpeg)  
 
 ### Véritable Bhegelm  
 **En Khern : Bhegelm**

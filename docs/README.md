@@ -14,6 +14,29 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 193
+![Mise à jour 193](https://www.douaratil.fr/illustrations/site/maj193.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations de l'[Alkahim](/archetypes/alkahim).    
+- Changement des illustrations de l'[Ambeanamos](/archetypes/ambeanamos).   
+- Changement des illustrations du [Bhegelm](/archetypes/bhegelm).    
+
+
+**Règles : illustrations**   
+- Changement des illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage).    
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Shamash Eriba](/PNJ/shahims/#shamash-eriba).  
+- Changement des illustrations de [Hamid Ibn Sayyid](/PNJ/shahims/#hamid-ibn-sayyid).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 février 2024_
+§§§
+
 ## Mise à jour 192
 ![Mise à jour 192](https://www.douaratil.fr/illustrations/site/maj192.jpeg)  
 

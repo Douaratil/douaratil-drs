@@ -23,6 +23,8 @@ title: Ambeanamos
 **Dans le cercle de pierre de Cenocantos Ateponos**   
 §§§   
 
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos.jpeg)  
+
 ## Aptitudes d'Archétype
 En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -35,6 +37,8 @@ En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être Meldète de la caste des Anamos et avoir été vendu à un autre Ambeanamos.  
 **Points de Magie** : L’Ambeanamos fait partie des mages, de ce fait, il développe les points de Magie (PM).  
 **Limitations d’historique** : L’Ambeanamos fait exclusivement partie de la caste des Anamos, les intouchables. De ce fait, pour sa création, le personnage ne peut choisir ses historiques que parmi les suivants : Brigand, Crapule, Mendiant, Miséreux, Orphelin, Rebouteux ou Solitaire.  
+
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos2.jpeg)  
 
 L’Ambeanamos est une caste de mage très importante chez les Meldètes. Ils sont issus de la caste des Anamos, les intouchables. Les handicapés de naissance sont considérés comme maudits par les dieux et sont généralement offerts aux sorciers pour servir et dans de rares cas, pour être initié à la sorcellerie. C’est le cas chez les Ambeanamos.   
 Chez les Meldètes, la caste des Anamos regroupe les « intouchables », les hors castes : esclaves, prisonniers sans valeur, criminels déchus de leur caste, malheureux mal-formés de naissance. Leur crane est rasé et un fer rouge est appliqué sur leurs joues pour tracer trois barres, la marque d'infamie. Un Anam ne pourra jamais sortir de sa caste, à moins que le conseil des anciens drodanos ne décide de le récompenser pour un acte exceptionnel en l'intégrant dans ses rangs. Cet événement ne s'est produit que trois fois, et toujours avec des individus au destin exceptionnel. Au sein de cette caste méprisée, il existe pourtant une sorte d'élite : les Ambeanamos. Ce sont les malheureux nés difformes qui ont rejetés par leurs parents, dont un Ambeanam a repéré les pouvoirs. La muette, le bossu, le boiteux... leur destin est d'avoir une vie misérable et même de mourir jeune car on pense qu'ils ont un « Forag » dans leurs ancêtres. Pourtant, si le hasard leur confère le don de magie, leur vie peut devenir beaucoup plus facile. Initiés aux arts de la sorcellerie, ils apprennent à maudire, à lire l'avenir en consultant les morts, à guérir le bétail ou à favoriser les récoltes. Leurs talents se vendent fort cher, mais comme ils ne demandent que de l'argent et pas d'obéissance en échange (contrairement aux drodanos !) nombreux sont ceux qui les demandent. Au sein de la caste des anamos, les ambeanamos sont faciles à reconnaître car une étoile à neuf branches leur est tatouée sur le front lors de leur initiation. Les Ambeanamos qui viennent de la Voie des Armes sont appelés Medelwyr, c’est à dire littéralement « Le Faucheur ».  Les Ambeanamos qui viennent de la Voie de l’Ombre sont appelés Cysgodol, c’est à dire littéralement « L’Ombre ».  Les Ambeanamos qui viennent de la Voie la Magie sont appelés Am’fàidh, c’est à dire littéralement « Le Prophète ».   
@@ -56,6 +60,8 @@ Ces handicaps donnent un [_avantage_](/utiliser-les-caracteristiques/#avantage-e
 |10| Dépigmentation des cheveux ([_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de persuasion)|
 |11| Claudication (mouvement réduit de 1m)|
 |12| Hémiplégie faciale ([_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de persuasion)|
+
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos3.jpeg)  
 
 ### Manipulation de la magie ou métamagie  
 **En Meldète : Làimdraoid**  
@@ -92,6 +98,8 @@ Quand vous lancez un sort qui a pour cible une seule créature et dont la porté
 **En Meldète : Mallaksgàil**  
 Au niveau 4, l’Ambeanamos obtient la possibilité de maudire une personne simplement en poignardant son ombre. L’effet de cette malédiction est très crainte, particulièrement chez les Meldètes. L’Ambeanamos peut maintenir un nombre de malédiction égal à son modificateur d’Intelligence. Si le maximum est atteint, il doit alors libérer l’une de ses victimes. La malédiction a pour effet d’imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests à sa victime et pour une durée illimité. Il n’y a pas de test de sauvegarde contre cet effet. Si l’Ambeanamos est tué, la malédiction perdure pendant une durée d’une lune par niveau. Globalement, les victimes d’une malédiction préfèrent négocier avec l’Ambeanamos pour être libéré. L’Ambeanamos peut imposer une seconde malédiction à la même victime qui a pour effet d’augmenter la difficulté des ses actions de un palier, rendant le dernier impossible à réaliser. Cette seconde malédiction compte dans le nombre de malédiction maintenue. La malédiction ne peut pas être lancée durant un combat où un action vive et pour qu’elle ait effet, elle doit être jetée devant des témoins.  
 
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos4.jpeg)  
+
 ### Affinité ancestrale  
 **En Meldète : Dàimshinn**  
 Au niveau 5, à chaque fois que vous faites un test de Charisme alors que vous interagissez avec des esprits, votre bonus de maîtrise est doublé s'il s'applique.
@@ -105,6 +113,8 @@ L'utilisation de la magie produit un flux d'énergie positive dans votre corps. 
 **En Meldète : Compabeath**  
 À partir du niveau 8, l’Ambeanamos se lie avec une chouette. Il doit s’agir d’un animal qui vit dans les contrées où réside l’Ambeanamos. Si la chouette devait disparaître pour une quelconque raison, une autre viendra la remplacer à la pleine lune suivante. Ce compagnon animal est utile à plusieurs égards. Il peut avertir de l’arrivée d’un intrus en chuintant. La chouette peut partager sa chasse avec son maître. Elle peut fournir un rongeur, un écureuil, un petit lapin ou un poisson, tous les jours à l’Ambeanamos.
 Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s’éloigne jamais plus de 50 mètres par niveau de l’Ambeanamos.
+
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos5.jpeg)  
 
 ### Magie du sang  
 **En Meldète : Draoidfala**  
@@ -128,6 +138,8 @@ De plus, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#av
 ### Présence puissante  
 **En Meldète : Làthaircumdach**  
 À partir du niveau 18, vous pouvez invoquer la redoutable présence de votre ancêtre, causant fascination ou terreur parmi les créatures qui vous entourent. Vous pouvez utiliser une action afin de puiser dans ce pouvoir et dégager une aura de fascination ou de terreur (à vous de choisir) dans un rayon de 18 mètres. Pendant 1 minute, ou jusqu'à ce que vous perdiez votre concentration (avec les mêmes règles que si vous lanciez un sort requérant votre concentration), chaque créature hostile qui débute son tour dans la zone d'effet de cette aura doit réussir un jet de sauvegarde de Sagesse ou bien devenir [_charmée_](/gerer-la-sante-du-personnage/#charme) (si vous choisissez la fascination) ou [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) (si vous choisissez la terreur) jusqu'à ce que l'aura se dissipe. Une créature qui réussit son jet de sauvegarde est immunisée à votre aura pendant 24 heures. Vous ne pouvez utiliser ce pouvoir un nombre de fois maximum égal à votre bonus d’Intelligence entre deux [[_repos long_](/gerer-la-sante-du-personnage/#repos-long)s].  
+
+[![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos6.jpeg)  
 
 ### Véritable Ambeanamos  
 **En Meldète : Ambeanamos**  

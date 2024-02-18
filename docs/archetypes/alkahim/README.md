@@ -28,6 +28,8 @@ source: "Elric"
 **Recettes secrètes de Guechtoul Massoud**   
 §§§     
 
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim.jpeg)  
+
 En tant qu'Alka'him', vous bénéficiez des aptitudes d'Archétype suivantes.   
 ### Maîtrises
 **Armures** : armures légères  
@@ -42,6 +44,8 @@ Les Alka'hims poursuivent de nombreux rêves partagés avec les puissants des ro
 Les Alka'hims sont capables de fabriquer de puissants engins pyrotechniques. Il peuvent travailler sur un laboratoire afin d’obtenir un avantage aux tests. Ce laboratoire peut être fixe, et le héros peut aussi en installer un de façon provisoire, en transportant le matériel nécessaire mais dans ce cas ne peut plus rien transporter d’autre qu’une armure et une arme, et ce laboratoire prend 45 minutes pour être installé. Sans laboratoire, l'Alka'him' subit un désavantage à ses tests de fabrication et toutes les difficultés des tests sont augmentés d'un palier.  
 Les Alka'hims ont l’air morbide.  
 Les Alka'hims qui viennent de la Voie des Armes sont appelés M'uhat'fajra, c’est à dire littéralement «les détonants». Les Alka'hims qui viennent de la Voie de l’Ombre sont appelés Muadh'ish, c’est à dire littéralement «les étourdissants». Les Alka'hims qui viennent de la Voie la Magie sont appelés Ghaam'hyd, c’est à dire littéralement « Les mystérieux».  
+
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim2.jpeg)  
 
 ### Spécialité herboriste
 **En Shahim: Akhisay Alshebab**  
@@ -61,6 +65,8 @@ Au niveau 5, l'Alka'him  maîtrise l’outil d’empoisonneur.
 ### Empoisonneur novice
 **En Shahim: Al'musmim Al'khbaria**  
 Au niveau 6, l'Alka'him  peut fabriquer du poison commun.
+
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim3.jpeg)  
 
 
 ### Spécialité alchimiste
@@ -92,6 +98,7 @@ Au niveau 14, l'Alka'him  peut au prix d’une action bonus projeter un engin py
 **En Shahim: Kim'yahi Mutab**  
 Au niveau 15, l'Alka'him  peut maintenant fabriquer des engins fumigènes ainsi que des engins de lumière.
 
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim4.jpeg)  
 
 ### Mutation superficielle
 **En Shahim: Tarfarah Sathi**  
@@ -121,6 +128,7 @@ Au niveau 15, l'Alka'him est un herboriste qui n’a plus besoin de prouver sa v
 **En Shahim: Kim'yahi Khabir**  
 Au niveau 16, l'Alka'him peut maintenant fabriquer des engins toxiques ainsi que des engins acido-pyrotechniques.
 
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim5.jpeg)  
 
 ### Mutation
 **En Shahim: Tarfarah**  
@@ -164,6 +172,8 @@ Au niveau 19, l'Alka'him  peut maintenant fabriquer des engins flambants.
 ### Véritable l'Alka'him
 **En Shahim: Sahih Alka'him**  
 Au niveau 20, le héro est accompli. Il gagne 2 points de caractéristique en Intelligence et en Constitution sans dépasser 22.  
+
+[![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim6.jpeg)  
 
 # les engins pyrotechniques de l'Alkad'hims
 
