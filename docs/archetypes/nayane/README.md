@@ -24,7 +24,7 @@ title: Nayane
 
 ## Nayane
 &nbsp;
-[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayanem.png)](https://www.douaratil.fr/illustrations/archetype/nayane.jpg)
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -40,6 +40,7 @@ En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Nayanes de la voie des Armes sont appelés Serssos Sorssos, littéralement «La morsure du serpent». Les Nayanes de la voie de l’Ombre sont appelés Serssos Sessessos, littéralement «Le venin du serpent». Les Nayanes de la voie de la Magie sont appelés Serssos Syssossos, littéralement « Le regard du serpent». La Nayane est un assassin fabriqué par la magie Selmonite. Une Nayane est stérile.
 
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane2.jpeg)
 
 ### Langues universelles  
 **En Selm : Sissuassum'sossussia**  
@@ -53,6 +54,8 @@ A partir du niveau 3, la Nayane ne garde aucune cicatrice de ses blessures. Tout
 **En Selm : Sission'assa**  
 A partir du niveau 4, la Nayane obtient une vision dans le noir d'une portée 18 mètres.  
 
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane3.jpeg)
+
 ### Equilibre parfait  
 **En Selm : Sossessassi**  
 A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se déplacer sur des surfaces de 2 cm de large sans problème. Elle peut marcher sur une corde à sa vitesse normale comme s'il s'agissait d'un terrain normal.  
@@ -60,6 +63,8 @@ A partir du niveau 5, la Nayane obtient un équilibre parfait. Elle peut se dép
 ### Apnée prolongée  
 **En Selm : Asseas'ssossus**  
 A partir du niveau 6, la Nayane peut retenir sa respiration bien au delà des capacité humaines normales. Ainsi, elle peut retenir sa respiration 1 minute par niveau en plus des règles d'[asphyxie](/partir-a-l-aventure/#asphyxie) normales.   
+
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane4.jpeg)
 
 ### Intouchable  
 **En Selm : Issessessassa**  
@@ -74,6 +79,8 @@ A partir du niveau 7, la Nayane peut entrer dans une transe de combat qui lui pe
 |**19**|3-6|
 Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane5.jpeg)
+
 ### Imparable  
 **En Selm : Serssiss's**  
 A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui permet d'être hyper agressive et dextre. Ses attaques sont précises et anticipent les réactions de l'adversaire. Pendant une durée égale à 1d6 + son bonus de sagesse de la Nayane les attaques ne peuvent pas être bloquée par une [_réactions défensives_](/combattre/#reaction-defensive) mais elle peuvent être esquivées. Elle ne peut pas réutiliser cette aptitude avant d'avoir passé un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Contre les adversaires "standards", le modificateur de Dextérité (DEX) n'est pas pris en compte dans le calcul de la VD.   
@@ -83,6 +90,8 @@ A partir du niveau 8, la Nayane peut entrer dans une transe de combat qui lui pe
 À partir du niveau 9, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 16. Pour celles qui viennent de la voie des armes et qui bénéficient déjà des attaques supplémentaires, elles obtiennent un bonus de dégâts de +2 en compensation à chaque fois, soit +2 au niveau 9 et +4 au niveau 16.
 
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane6.jpeg)
+
 ### Immunité au poison  
 **En Selm : Issussissas'sessessis**  
 A partir du niveau 10, la Nayane est immunisée à toutes les formes de poison.  
@@ -91,9 +100,13 @@ A partir du niveau 10, la Nayane est immunisée à toutes les formes de poison.
 **En Selm : Sassuis'sessessus**  
 A partir du niveau 17, la Nayane peut utiliser son propre sang comme poison de contact ou d'ingestion. Ce poison a un DD égal à sa valeur de constitution et inflige 2d6 + 1d6 par point de bonus de Sagesse. Pour cela, la Nayane doit s'inciser et subir 1d6 points d'action de dégât. Le poison est à usage unique et ne peux pas être stocké ou conservé.  
 
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane7.jpeg)
+
 ### Parangon de mort
 **En Selm : Sossus**  
 Au niveau 19, au prix d'une action, vous pouvez devenir un parangon de mort. Pendant 1 minute, votre peau noircie comme la ténèbre et vos yeux prennent une teinte rouge. De plus, vous devenez résistant à tous les dégâts subis et vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques au corps-à-corps, ainsi que vos tests de Force, de Constitution, de Sagesse et de Charisme (jets de sauvegarde et tests de compétence). Durant cette minute, vous avez de plus toujours l'initiative. Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude.  
+
+[![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane8300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane8.jpeg)
 
 ### Véritable Nayane
 **En Selm : Sassasse**  

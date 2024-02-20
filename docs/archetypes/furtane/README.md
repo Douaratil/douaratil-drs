@@ -23,7 +23,7 @@ title: Fürtane
 
 ## Fürtane
 &nbsp;
-[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtanem.png)](https://www.douaratil.fr/illustrations/archetype/furtane.jpg)  
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane.jpeg)  
 
 ## Aptitudes d'Archétype  
 En tant que Fürtane, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -41,6 +41,8 @@ Foi (PF) si elle emprunte la voie de la Magie.
 Les Fürtanes sont des femmes khernaëes qui ont été bannies et marquées au fer rouge pour signifier leur statut de parias. Elles sont quelques fois bannies alors qu’elles sont victimes, les cas les plus fréquents sont les viols et les enfants hors mariage, mais aussi d’autres crimes. Elles espèrent se racheter en mourant au combat. Ce sont de redoutables guerrières qui sont appréciées sur les champs de bataille.
 Les Fürtanes de la voie des Armes sont appelés Bleizadiwal, littéralement «la louve protectrice». Les Fürtanes de la voie de l’Ombre sont appelés Bleizatenva, littéralement «la louve sombre». Les Fürtanes de la voie de la Magie sont appelés Bleizahncher, littéralement « la louve guide ».  
 
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane2.jpeg)  
+
 ### Combat à deux armes  
 **En Khern : Daou Menadh**  
 À partir du niveau 3, vous apprenez le style de combat à deux armes.
@@ -49,6 +51,7 @@ Les Fürtanes de la voie des Armes sont appelés Bleizadiwal, littéralement «l
 **En Khern : Finvalaer**  
 À partir du niveau 4, vous pouvez utiliser l'action se désengager ou se précipiter en action bonus lors de votre tour. En outre, votre distance de saut est doublée pendant ce tour.  
 
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane3.jpeg)  
 
 ### Déplacement sans armure  
 **En Khern : Finval San Harnez**  
@@ -69,6 +72,8 @@ La furie possède **deux états de furie**, une fois que vous êtes entrés en �
 **En Khern : Kel'chmarv**  
 À partir du niveau 7, la Fürtane peut, en utilisant son action attaquer, et ce, en lieu et place de toutes les attaques du tours, porter une attaque à tous les adversaires autours d'elle dans un rayon de 3 mètres et ce, qu'importe le nombre d'adversaire.  
 
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane4.jpeg)  
+
 ### Ignorer la douleur
 **En Khern : Fae'Poan**  
 Au niveau 8, vous jouissez d'une réserve d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + votre niveau de Fürtane. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau. C'est exactement le même fonctionnement que [second souffle](/voies/#second-souffle) et cela vient s'ajouter à la capacité de la voie des armes.
@@ -87,6 +92,8 @@ Ce bonus augmente en même temps que votre niveau.
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconsciente ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
 La furie possède **trois états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
+
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane5.jpeg)  
 
 ### Insensible à la douleur
 **En Khern : Dizan'Poan**  
@@ -107,6 +114,8 @@ Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vo
 Votre furie dure 1d6 rounds. Cet état prend fin plus tôt si vous êtes inconsciente ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
 La furie possède **quatre états de furie**, une fois que vous êtes entrés en état de furie le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
 
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane6.jpeg)  
+
 ### Cercle de la mort indomptable  
 **En Khern : Kel'chmarv Amjestr**  
 À partir du niveau 19, la Fürtane peut, en utilisant son action attaquer, et ce, en lieu et place de toutes les attaques du tours, porter une attaque à tous les adversaires autours d'elle dans un rayon de 3 mètres et ce, qu'importe le nombre d'adversaire avec un bonus de +4 aux dégâts. De plus, les adversaires directement engagés doivent réussir un JS de Sagesse contre un DD égal au charisme de la Fürtane ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) jusqu'à la fin du combat.    
@@ -116,9 +125,9 @@ La furie possède **quatre états de furie**, une fois que vous êtes entrés en
 Au niveau 20, la Fürtane est complètement accomplie et devient l'exemple ultime à suivre pour toutes les autres Fürtanes.
 Elle ne peut plus être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise). Les autres Fürtanes sous ses ordres obtiennent la même immunité dans un rayon de 30 mètres autours de la Mère louve. Elles obtiennent aussi un bonus de +2 pour l'action attaquer.  
 
+[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/furtane7.jpeg)  
+
 ### Véritable Fürtane  
 **En Khern : Fürtane**  
 Au niveau 20, la Fürtane est accomplie et augmente ses caractéristiques de dextérité et de constitution de 2 points sans pouvoir dépasser 22.  
 
-&nbsp;
-[![Fürtane](https://www.douaratil.fr/illustrations/archetype/furtane2m.png)](https://www.douaratil.fr/illustrations/archetype/furtane2.jpg)  

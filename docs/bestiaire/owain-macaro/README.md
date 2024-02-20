@@ -68,15 +68,7 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-human-greeting</v-icon> Owain Macaro
-§§§ .hero
-*Owain était un Meldète de vingt quatre printemps. Il avait la peau blanche, les cheveux blonds qui retombaient sur ses épaules et des yeux très bleus. De grande stature, il mesure six pieds pour cent soixante livres. Mordu par un loup durant l'hiver, il arborait une grosse cicatrice au niveau la clavicule gauche.*   
-*Owain était autrefois un bandit qui vivait dans les marais de Geunddon. Cependant, après avoir juré allégeance à Gaenor Lugeto, le maître des marais, et pour expier ses crimes, il avait commencé à se racheter en servant son Genos en tant qu'éclaireur et pisteur. Sa haine envers les Khernaës était née de la guerre contre Rek Goulvening Moisan. Cependant, après la chute de Gaenor Lugeto, Owain s'était temporairement allié à l'usurpateur Britomartos Nantono pour des raisons politiques.*    
-*Cependant, les politiques répressives de Britomartos et de ses alliés Meldètes et Khernaës avait fini par détourner Owain de son soutien. Il était ainsi devenu l'un des meneurs de la résistance et avait rallié les forces du clan Macaro à la cause de Joan Lugeto, la légitime héritière du trône de Caohaydhan. Ensemble, ils avaient remporté la bataille des rois et Joan avait repris son trône.*  
-*Depuis, Owain a continué à servir Joan en tant qu'éclaireur et pisteur, mettant à profit ses compétences acquises au cours de son passé trouble pour protéger le royaume et sa reine. Malgré son passé, il est profondément dévoué à Joan et est prêt à tout pour défendre son honneur et celui de son clan.*       
-*Owain était un expert en la matière de la chasse et de la traque. Il était un tireur d'élite avec un arc, capable de viser et de toucher sa cible avec une précision mortelle. Il avait développé ces compétences au fil des années passées en tant que bandit, traquant les voyageurs et les caravanes pour survivre.*
-*En tant que membre de la résistance, Owain avait tiré parti de ses compétences de tireur pour mener des actions de sabotage contre les troupes de Britomartos Nantono, contribuant ainsi à la victoire de Joan Lugeto à la bataille des rois.*   
-**Souvenirs d'Ailynn la voyageuse**   
-§§§   
+[![Owain](https://www.douaratil.fr/illustrations/pj/owain300.jpeg)](https://www.douaratil.fr/illustrations/pj/owain.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 37  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
@@ -91,7 +83,7 @@ _**Historique:**_  Bandit de grand chemin.
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hache, arc long, l'arc composite et les armes courantes) boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.  
 
 _**Voie des armes & Gwylwir**_. Owain est niveau 11 dans la voie des armes et Archétype Gwylwir.
-
+[![Owain](https://www.douaratil.fr/illustrations/pj/owain2300.jpeg)](https://www.douaratil.fr/illustrations/pj/owain2.jpeg)  
 _**Style de combat Archérie**_. *(Armes)* Owain gagne un bonus de +2 aux jets d'attaque quand il attaque avec des armes à distance.   
 
 _**Second souffle**_. *(Armes)* Owain jouit d'une réserve limitée d'endurance dans laquelle elle peut puiser afin de se protéger. Lors de son tour, elle peut utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + son niveau de voie des armes. Une fois qu'elle a utilisé cette aptitude, elle doit finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
@@ -132,6 +124,8 @@ _**Style de combat à deux armes**_. *(Gwylwir)* Au niveau 8 , vous choisissez l
 _**Défense**_. *(Gwylwir)* Au niveau 9 , quand vous portez une armure, vous gagnez un bonus de +1 à votre Valeur de Défense (VD).  
 
 _**Vigilance primitive**_. *(Gwylwir)* À partir du niveau 11, vous pouvez prendre 10 minutes pour observer depuis un point haut et ouvrir vos sens à la région qui vous entoure. Pendant un nombre de minutes égal à votre niveau, vous pouvez déterminer si vos ennemis jurés se trouvent dans un rayon de 1,5 kilomètre de vous (si vous êtes sur votre terrain de prédilection, ce rayon est de 9 kilomètres). Cette aptitude ne vous permet pas de savoir où se trouvent ces créatures, ni leur nombre.  
+
+[![Owain](https://www.douaratil.fr/illustrations/pj/owain3300.jpeg)](https://www.douaratil.fr/illustrations/pj/owain3.jpeg)  
 
 ## Actions  
 _**Attaques multiples**_. Owain effectue 3 attaques par round lorsqu'il utilise l'action attaquer.
@@ -178,7 +172,7 @@ Owain possède l'équipement suivant :
 - 50 PA
 - 35 PO.  
 §§§
-
+[![Owain](https://www.douaratil.fr/illustrations/pj/owain4300.jpeg)](https://www.douaratil.fr/illustrations/pj/owain4.jpeg)  
 §§§ .hero
 ### Patrimoine  
 **Niveau patrimoine faible** : Le personnage reçoit 3D6 X 100 pièces de d'argent et 2D6 X 50 pièces d'or.
@@ -195,7 +189,6 @@ Owain possède l'équipement suivant :
 §§§ .hero
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 - grosse cicatrice au niveau la clavicule gauche (20 cm).
-
-Mise à jour du 21/02/2023
-
 §§§
+Mise à jour du 20/02/2024
+

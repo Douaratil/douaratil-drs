@@ -5,6 +5,8 @@ title: "Tables de dégâts et de coups critiques"
 ## Coups critiques
 Vous avez l'impression que le jeu devient ennuyeux ? Vous avez l'impression que les combats ne présentent aucune menace réelle ? Ces tables ajouteront de la vie et de la surprise au jeu.  Bien sûr, certains joueurs vont se plaindre que l'idée d'un sale voleur obtienne une mort instantanée contre leur guerrier ou mage de 20ème niveau est stupide mais est-ce vraiment le cas ? La chance est un facteur de combat, ces tables ne font que la répartir davantage. Avec les bons et les mauvais jets, nous avons appris à apprécier les critiques et les maladresses.  
 
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique.jpeg)  
+
 Ces règles viennent se rajouter à celles qui existent déjà et ne sont qu'optionnelles.  
 
 Comment cela fonctionne : Quand un joueur ou un monstre fait un jet d'attaque, il y a une chance de faire un critique ou une maladresse. Le coup critique est obtenu de trois manières :  
@@ -30,8 +32,7 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 - Éléments entre parenthèses : Un (casque) ou un (bouclier) à côté d'un résultat critique signifie que si la cible possède l'objet approprié, l'effet ne se produit pas.
 
 ## Coups critiques
-&nbsp;
-[![Coups critiques](https://www.douaratil.fr/illustrations/regles/coupcritiquem.png)](https://www.douaratil.fr/illustrations/regles/coupcritique.jpg)  
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique2300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique2.jpeg)  
 
 ### Jets critiques Tranchants, contondants, perforants
 |Jet|Tranchant |contondant|Perforant|
@@ -61,12 +62,14 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |32|Cuisse lacérée (blessure majeure) 1/2 mvt, + 8 dgts, étourdi 3 rds, 5 PA/rd|Cuisse (fracture majeure) 1/2 mvt, + 15 dgts, étourdi 5 rds|Cuisse transpercée (blessure majeure) 1/2 mvt, + 6 dgts, étourdi 2 rds, 7 PA/rd|
 |33|Épaule lacérée (blessure majeure), + 10 dgts, étourdi 4 rds, 6 PA/rd|Épaule (fracture majeure), + 15 dgts, étourdi 6 rds|Épaule (blessure majeure), + 7 dgts, étourdi 2 rds, 8 PA/rd|
 |34|Poitrine transpercée (blessure majeure), + 15 dgts, étourdi 5 rds, 8 PA/rd|Poitrine (blessure majeure), + 20 dgts, étourdi 8 rds|Poitrine transpercée (blessure majeure), + 12 dgts, étourdi 2 rds, 10 PA/rd|
-|35|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +20 dgts|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +12 dgts|
+|35|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +20 dgts|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +12 dgts|
 |36|Tête, oreille arrachée (blessure majeure) +20 dgts, étourdi 10 rds (casque, sinon +10 dgts et étourdi 3 rds)|Tête, oreille arrachée (blessure majeure) +25 dgts, étourdi 15 rds (casque sinon +10 dgts et étourdi 6 rds)|Tête, oreille arrachée (blessure majeure) +15 dgts, étourdi 6 rds (casque, sinon +10 dgts et étourdi 1 rds)|
 |37|Tête, oreille arrachée (blessure majeure), casque arrachée, +20 dgts, étourdi 10 rds|Tête, oreille arrachée (blessure majeure), casque arrachée, +25 dgts, étourdi 12 rds|Tête, oreille arrachée (blessure majeure), casque arrachée, +15 dgts, étourdi 8 rds|
 |38|Tête, nez lacéré qui ne tient plus qu'à un lambeau de chair (blessure majeure), +20 dgts, 10 PA/rd|Tête, nez écrasé qui ne tient plus qu'à un lambeau de chair (blessure majeure), +25 dgts, étourdi 10 rds|Tête, nez lacéré qui ne tient plus qu'à un lambeau de chair (blessure majeure), +15 dgts, 12 PA/rd|
 |39|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|
 |40+|Tête, décapitation, Mort instantanée, +5 init pour le rd suivant|Tête enfoncée, Mort instantanée, +5 init pour le rd suivant|Tête, transpercée, Mort instantanée, +5 init pour le rd suivant|
+
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique3300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique3.jpeg)  
 
 ### Jets critiques contre les grandes créatures, contre les très grandes créatures et créatures gigantesques.
 |Jet|Contre Grandes Créatures|Contre Très grandes & Gigantesques|
@@ -96,17 +99,17 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |32|Cuisse lacérée (blessure majeure) 1/2 mvt, + 13 dgts, étourdi 1 rds, 6 PA/rd|Cuisse lacérée (blessure majeure) 1/2 mvt, + 18 dgts, étourdi 2 rds, 8 PA/rd|  
 |33|Épaule (blessure majeure), + 15 dgts, étourdi 2 rds, 10 PA/rd|Épaule lacérée (blessure majeure), + 20 dgts, étourdi 1 rds, 12 PA/rd|  
 |34|Poitrine transpercée (blessure majeure), + 25 dgts, étourdi 2 rds, 16 PA/rd|Poitrine transpercée (blessure majeure), + 35 dgts, étourdi 2 rds, 20 PA/rd|  
-|35|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +25 dgts|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +35 dgts|  
+|35|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +25 dgts|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +35 dgts|  
 |36|Tête, oreille arrachée (blessure majeure) +30 dgts, étourdi 5 rds|Tête, oreille arrachée (blessure majeure) +40 dgts, étourdi 3 rds|  
 |37|Tête, oreille arrachée (blessure majeure), +30 dgts, étourdi 5 rds|Tête, oreille arrachée (blessure majeure), +40 dgts, étourdi 2 rds|  
 |38|Tête, nez lacéré(blessure majeure), +30 dgts, 10 PA/rd|Tête, nez lacéré(blessure majeure), +45 dgts, 10 PA/rd|  
 |39|Tête, Mort|Tête, Mort|
 |40+|Tête, Mort instantanée, +5 init pour le rd suivant|Tête, Mort instantanée, +5 init pour le rd suivant|   
 
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique4300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique4.jpeg)  
 
 ## Coups critiques
-&nbsp;
-[![Coups critiques](https://www.douaratil.fr/illustrations/regles/coupcritique2m.png)](https://www.douaratil.fr/illustrations/regles/coupcritique2.jpg)  
+
 
 ### Jets critiques de feu, de froid, de foudre
 |Jet|Feu |Froid|Foudre|
@@ -136,12 +139,14 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |32|Cuisse brûlée (brûlure majeure) 1/2 mvt, + 8 dgts, étourdi 3 rds, 5 PA/rd|Cuisse gelée (gelure majeure) 1/2 mvt, + 7 dgts, étourdi 3 rds, 4 PA/rd|Cuisse brûlée (brûlure majeure) 1/2 mvt, + 8 dgts, étourdi 3 rds, 5 PA/rd|
 |33|Épaule brûlée (brûlure majeure), + 11 dgts, étourdi 4 rds, 6 PA/rd|Épaule gelure (gelure majeure), + 9 dgts, étourdi 4 rds, 6 PA/rd|Épaule brûlée (brûlure majeure), + 10 dgts, étourdi 4 rds, 6 PA/rd|
 |34|Poitrine (brûlure majeure), + 16 dgts, étourdi 5 rds, 8 PA/rd|Poitrine (gelure majeure), + 14 dgts, étourdi 6 rds, 8 PA/rd|Poitrine (brûlure majeure), + 15 dgts, étourdi 5 rds, 8 PA/rd|
-|35|Tête, œil touché ((brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +16 dgts|Tête, œil touché ((gelure majeure), perception visuelle avec un désavantage jusqu'à guérison, +14 dgts|Tête, œil touché ((brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts|  
+|35|Tête, œil touché (brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +16 dgts|Tête, œil touché (gelure majeure), perception visuelle avec un désavantage jusqu'à guérison, +14 dgts|Tête, œil touché (brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts|  
 |36|Tête, oreille carbonisée (brûlure majeure) +24 dgts, étourdi 10 rds (casque, sinon +14 dgts et étourdi 3 rds)|Tête, oreille explose en petits morceaux scintillants (blessure majeure) +16 dgts, étourdi 10 rds (casque, sinon +6 dgts et étourdi 3 rds)|Tête, oreille vaporisée (blessure majeure) +20 dgts, étourdi 15 rds (casque, sinon +10 dgts et étourdi 6 rds)|
 |37|Tête, oreille carbonisée (brûlure majeure), casque arraché, +24 dgts, étourdi 10 rds|Tête, oreille congelée (gelure majeure), casque arrachée, +16 dgts, étourdi 12 rds|Tête, oreille vaporisée (blessure majeure), casque arrachée, +20 dgts, étourdi 15 rds|
 |38|Tête, nez carbonisé qui ne tient plus qu'à un lambeau de chair en charbon (blessure majeure), +24 dgts, 10 PA/rd|Tête, nez gelé qui ne tient plus qu'à un lambeau de chair en stalagmite (blessure majeure), +16 dgts, 10 PA/rd|Tête, nez vaporisé qui ne tient plus qu'à un lambeau de chair fumant (blessure majeure), +20 dgts, 10 PA/rd|
 |39|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|
 |40+|Tête, trognon carbonisé, Mort instantanée, +5 init pour le rd suivant|Tête, cône glacé, Mort instantanée, +5 init pour le rd suivant|Tête, vaporisée, Mort instantanée, +5 init pour le rd suivant|
+
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique5300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique5.jpeg)  
 
 ### Jets critiques radiant et de tonnerre
 |Jet|Radiant|Tonnerre|
@@ -206,12 +211,14 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |32|Cuisse (blessure majeure) 1/2 mvt, + 9 dgts, étourdi 3 rds, 5 PA/rd|Cuisse (brûlure majeure) 1/2 mvt, + 12 dgts le premier rd, +8 dgts le second rd, +4 dgts le troisième rd, étourdi 3 rds|Cuisse dessèchement (blessure majeure) 1/2 mvt, + 7 dgts, étourdi 3 rds, 4 PA/rd|
 |33|Épaule (blessure majeure), + 12 dgts, étourdi 4 rds, 6 PA/rd|Épaule (brûlure majeure), + 10 dgts le premier rd, +6 dgts le second rd, +3 dgts le troisième rd, étourdi 10 rds|Épaule lacérée (blessure majeure), + 10 dgts, étourdi 4 rds, 6 PA/rd|
 |34|Poitrine (blessure majeure), + 16 dgts, étourdi 5 rds, 8 PA/rd|Poitrine (brûlure majeure), + 15 dgts le premier rd, +10 dgts le second rd, +5 dgts le troisième rd, étourdi 5 rds|Poitrine dessèchement (blessure majeure), + 13 dgts, étourdi 6 rds, 6 PA/rd|
-|35|Tête, œil touché ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +17 dgts|Tête, œil touché ((brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts le premier rd, +10 dgts le second rd et +5 dgts le troisième rd|Tête, œil touché dessèchement ((blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +13 dgts|
+|35|Tête, œil touché (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +17 dgts|Tête, œil touché (brûlure majeure), perception visuelle avec un désavantage jusqu'à guérison, +15 dgts le premier rd, +10 dgts le second rd et +5 dgts le troisième rd|Tête, œil touché dessèchement (blessure majeure), perception visuelle avec un désavantage jusqu'à guérison, +13 dgts|
 |36|Tête, oreille arrachée (blessure majeure) +20 dgts, étourdi 10 rds (casque, sinon +10 dgts et étourdi 3 rds)|Tête, oreille fondue (brûlure majeure) +18 dgts le premier rd, +12 dgts le second rd et +6 dgts le troisième rd, étourdi 10 rds (casque, sinon +10 dgts et étourdi 3 rds)|Tête, oreille dessèchement (blessure majeure) +18 dgts, étourdi 10 rds (casque, sinon +10 dgts et étourdi 3 rds)|
 |37|Tête, oreille arrachée (blessure majeure), casque arraché, +22 dgts, étourdi 12 rds|Tête, oreille fondue (brûlure majeure), casque arraché, +20 dgts pendant 2 rds, étourdi 5 rds|Tête, oreille dessèchement (blessure majeure), casque arraché, +16 dgts, étourdi 11 rds|
 |38|Tête, nez explosé qui ne tient plus qu'à un lambeau de chair (blessure majeure), +20 dgts, 10 PA/rd|Tête, nez brûlé qui ne tient plus qu'à un lambeau de chair (brûlure majeure), +15 dgts pendant 3 rds|Tête, nez dessèchement qui ne tient plus qu'à un lambeau de chair (blessure majeure), +18 dgts, étourdi 10 rds|
 |39|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|Tête, Mort (casque) sinon comas 1d6 jours|
-|40+|Tête, arrachage, Mort instantanée, +5 init pour le rd suivant|Tête, fondue, Mort instantanée, +5 init pour le rd suivant|Tête, dessèchement, Mort instantanée, +5 init pour le rd suivant|T
+|40+|Tête, arrachage, Mort instantanée, +5 init pour le rd suivant|Tête, fondue, Mort instantanée, +5 init pour le rd suivant|Tête, dessèchement, Mort instantanée, +5 init pour le rd suivant|
+
+[![Coup critique](https://www.douaratil.fr/illustrations/regles/coupcritique6300.jpeg)](https://www.douaratil.fr/illustrations/regles/coupcritique6.jpeg)  
 
 ### Jets critiques de poison et psychiques
 |Jet|Poison|Psychique|

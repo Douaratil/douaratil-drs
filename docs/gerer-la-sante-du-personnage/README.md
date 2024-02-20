@@ -59,6 +59,8 @@ La mort d'un personnage peut-être extrêmement frustrante. Il faut se rappeler 
 - Les points d'expériences sont diminués pour ne correspondre qu'au stricte minimum pour obtenir le niveau actuel.
 - Si suite à ses conséquences la Constitution est en dessous de 10 (et même si elle l'était avant la  mort) les prochains investissements en points de caractéristique devront se faire dans la caractéristique constitution jusqu'à ce qu'elle revienne à 10.   
 
+[![Mort](https://www.douaratil.fr/illustrations/regles/mort300.jpeg)](https://www.douaratil.fr/illustrations/regles/mort.jpeg)
+
 
 #### Perdre conscience
 Si les dégâts que vous subissez vous font tomber à 0 point d’action, vous êtes [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (voir la section [_États spéciaux_](#les-etats-speciaux)) pour 1d6 rounds à moins de réussir un JS DD 16 de Constitution. Chaque round, la personne inconsciente peut essayer de réussir le JS DD 16 de Constitution et se réveiller. Elle pourra agir immédiatement.   

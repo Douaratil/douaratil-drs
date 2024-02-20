@@ -14,6 +14,30 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+
+## Mise à jour 194
+![Mise à jour 194](https://www.douaratil.fr/illustrations/site/maj194.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations de la [Fürtane](/archetypes/furtane).     
+- Changement des illustrations de la [Nayane](/archetypes/nayane).     
+
+**PJ : illustrations**   
+- Mise à jour des illustrations de [Owain Macaro](/bestiaire/owain-macaro).  
+
+**Règles : illustrations**   
+- Changement des illustrations de la section [combattre](/combattre/#attaque-a-distance-dans-un-combat-au-corps-a-corps).    
+- Changement des illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#mort).    
+- Changement des illustrations de la section [coupscritiques](/tables-de-degats-et-de-coups-critiques).    
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 20 février 2024_
+§§§
+
+
 ## Mise à jour 193
 ![Mise à jour 193](https://www.douaratil.fr/illustrations/site/maj193.jpeg)  
 
