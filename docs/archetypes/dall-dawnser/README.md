@@ -28,7 +28,7 @@ title: Dall Dawnser
 
 ## Dall Dawnser
 &nbsp;
-[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnserm.png)](https://www.douaratil.fr/illustrations/archetype/dalldawnser.jpg)  
+[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnser300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dalldawnser.jpeg)  
 
 ## Aptitudes d'Archétype  
 En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -59,7 +59,9 @@ Les dégâts de combat à mains nues évoluent suivant le niveau de Dall Dawnser
 |**17-19**|2d6+2|
 |**20 & plus**|3d6|
 Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type d’arme, vous obtenez les bénéfices suivants :
-•Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque.
+•Vous pouvez utiliser votre Dextérité au lieu de votre Force pour vos jets d'attaque.  
+
+[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnser2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dalldawnser2.jpeg)  
 
 ### Force d’âme
 **En Khern : Nerzhkalon**  
@@ -103,6 +105,8 @@ Vous faites l'acquisition de cette technique au niveau 4. La skilfpreizher vous 
 Au niveau 5, vous apprenez à maîtriser toutes les techniques de saisie, de projection et d'immobilisation. À chaque fois que vous réussissez une empoignade, votre cible subit l'état [_entravé_](/gerer-la-sante-du-personnage/#entrave) au lieu d'être simplement [_empoigné_](/gerer-la-sante-du-personnage/#empoigne). De plus, lorsque vous réussissez un test d'empoignade ou de bousculade, vous pouvez dépenser 2 points de Foi pour lui porter une attaque à mains nues.  
 La taille de votre adversaire n'est plus un obstacle lorsque vous réalisez une empoignade ou que vous tentez de le bousculer, car vous retournez sa propre force contre lui-même. Vous pouvez réussir une empoignade contre un adversaire jusqu'à deux tailles au-dessus de la vôtre et bousculer un adversaire jusqu'à trois tailles au-dessus de la votre.
 Enfin, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests pour résister aux empoignades et aux bousculades.  
+
+[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnser3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dalldawnser3.jpeg)  
 
 ### Chute ralentie  
 **En Khern : Lammarouar**  
@@ -169,7 +173,9 @@ Lorsque vous réussissez une empoignade, vous pouvez dépenser 6 points de Foi p
 
 ### Perfection  
 **En Khern : Argad Adh**  
-Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de Foi en réserve, vous regagnez automatiquement 2d6 points de Foi.
+Au niveau 20, si vous lancez votre dé d'initiative et que vous n'avez plus de points de Foi en réserve, vous regagnez automatiquement 2d6 points de Foi.   
+
+[![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnser4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dalldawnser4.jpeg)  
 
 ### Véritable Dall Dawnser  
 **En Khern : Dall Dawnser**  

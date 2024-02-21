@@ -22,7 +22,7 @@ title: "Jörghal"
 
 ## Jörghal
 &nbsp;
-[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghalm.png)](https://www.douaratil.fr/illustrations/archetype/jorghal.jpg)  
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal.jpeg)  
 
 ## Aptitudes d'Archétype  
 En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -37,7 +37,9 @@ En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : Le Jörghal est un Archétype mystique, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
 Les Jörghals sont des champions qui se mettent au service d'un Rolf melg.  
-Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéralement «La montagne infranchissable». Les Jörghals de la voie de l’Ombre sont appelés Andetag Norr, littéralement «Le souffle du nord». Les Jörghals de la voie de la Magie sont appelés Obeveklig, littéralement « inéxorable».
+Les Jörghals de la voie des Armes sont appelés Bjerg Ofrahkölig, littéralement «La montagne infranchissable». Les Jörghals de la voie de l’Ombre sont appelés Andetag Norr, littéralement «Le souffle du nord». Les Jörghals de la voie de la Magie sont appelés Obeveklig, littéralement « inéxorable».   
+
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal2.jpeg)  
 
 ### Vengeance    
 **En Melg : Hämnad**  
@@ -52,8 +54,7 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 **En Melg : Mastraë'hackad**  
 À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)
 
-&nbsp;
-[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal2m.png)](https://www.douaratil.fr/illustrations/archetype/jorghal2.jpg)  
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal3.jpeg)  
 
 ### Attaque supplémentaire  
 **En Melg : Yttelgatk**  
@@ -62,6 +63,8 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 ### Colosse  
 **En Melg : Kolosh**  
 À partir du niveau 9, le Jörghal peut utiliser sa force un nombre de fois égale à son modificateur de force. Il obtient ainsi un avantage pour tout test de force (JS, combat, compétences...). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long pour récupérer cette capacité.   
+
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal4.jpeg)  
 
 ### Survivant
 **En Melg : Rebohserzh**  
@@ -73,7 +76,9 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 
 ### Représailles  
 **En Melg : Rebohserzh**  
-À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.
+À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.   
+
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal5.jpeg)  
 
 ### Attaque supplémentaire  
 **En Melg : Yttelgatk**  
@@ -84,8 +89,7 @@ Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le 
 Au niveau 19, vos incarnez le champion mythique.  
 Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
 
-&nbsp;
-[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal3m.png)](https://www.douaratil.fr/illustrations/archetype/jorghal3.jpg)  
+[![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal6.jpeg)  
 
 ### Véritable Jörghal
 **En Melg : Melg**  

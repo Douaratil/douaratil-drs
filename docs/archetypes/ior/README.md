@@ -21,7 +21,7 @@ title: Ior
 
 ## Ior
 &nbsp;
-[![Ior](https://www.douaratil.fr/illustrations/archetype/ior1m.png)](https://www.douaratil.fr/illustrations/archetype/ior1.jpg)  
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -37,6 +37,8 @@ En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 La caste des Ioros regroupe une élite meldètes qui décide de vivre de la guerre pour la gloire du dieu de la guerre Teutès. Souvent placés auprès de membres de la caste des Genos, plus rarement guerriers itinérants ou mercenaires, les Ioros sont facilement reconnaissables au tatouage de deux yeux sur leur front (le « regard de Teutès »). Tout membre de la caste des Ioros qui n'est pas engagé au service d'un Genos ou d'un roi peut être requis par le roi local ou un drodan pour accomplir une mission. Un prix sera toujours fixé, dont la moitié sera versée d'avance. Un Ior peut refuser une mission, mais cela peut entacher son « Tor » et le faire passer pour un lâche. Si un membre de cette caste acquiert une réputation de lâche, les autres Ioros auront le devoir sacré de le traquer, de le défier et de le tuer pour exposer sa carcasse aux charognards.  
 Les Ioros de la voie des Armes sont appelés Edrich’Marv, littéralement «Le Regard de la Mort». Les Ioros de la voie de l’Ombre sont appelés Edrich’Ofn, littéralement «Le regard de la Peur». Les Ioros de la voie de la Magie sont appelés Edrich’Poen, littéralement «Le regard de Souffrance».  
+
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/io2.jpeg)  
 
 ### Rage de Teutès
 **En Meldète : Cyndared’Teutès**  
@@ -54,6 +56,8 @@ Le Ior possède **deux états de rage**, une fois que vous êtes entrés en éta
 **En Meldète :  Chùramach**  
 À partir du niveau 4, vous pouvez mettre de côté toute tentative de vous défendre pour attaquer avec l’énergie du désespoir. Lors de votre tour, quand vous faites votre première attaque, vous pouvez décider d'attaquer avec témérité. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes vos attaques de corps-à- corps basées sur la Force pendant ce tour, mais les attaques dirigées contre vous bénéficient aussi d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) jusqu'à votre prochain tour.  
 
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior3.jpeg)  
+
 
 ### Rage aveugle  
 **En Meldète : Cyndared’Dall**  
@@ -68,12 +72,12 @@ De plus, si vous êtes [_surpris_](/gerer-la-sante-du-personnage/#surpris) au d�
 **En Meldète : Ionnsaigh’Mwy**  
 À partir du niveau 8, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action [_attaquer_](/combattre/#attaquer) lors de votre tour. Si vous possédez déjà une attaque supplémentaire, vous ajoutez +1 aux dégâts de l’arme.  
 
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior4.jpeg)  
+
 ### Toujours debout  
 **En Meldète : An-còmhnaidh’seffyl**  
 A partir du niveau 9, quand vous êtes en état de rage, vous devenez insensible et lorsque vous encaissez des coups critiques, l’effet d’inconscience ne s’applique pas lorsque vous échouez votre JS de constitution entre 1 et 10. L’effet est simplement ignoré.  
 
-&nbsp;
-[![Ior](https://www.douaratil.fr/illustrations/archetype/ior2m.png)](https://www.douaratil.fr/illustrations/archetype/ior2.jpg)  
 
 ### Cri sauvage  
 **En Meldète : Eigh’Gwyllt**  
@@ -88,7 +92,9 @@ Ce bonus augmente en même temps que votre niveau.
 • Vous devenez [_résistant_](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts contondants, perforants et tranchants.  
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Votre rage dure 1 minute (10 rounds). Cet état prend fin plus tôt si vous êtes inconscient ou si votre tour se termine et que vous n'avez pas attaqué de créature hostile ou subi de dégât depuis la fin de votre dernier tour. Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.  
-Le Ior possède **quatre états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.
+Le Ior possède **quatre états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.  
+
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior5.jpeg)  
 
 ### Attaque supplémentaire  
 **En Meldète :  Ionnsaigh’Mwy**  
@@ -104,7 +110,9 @@ Ce bonus augmente en même temps que votre niveau.
 Par contre, tant que vous êtes enragé, vous ne pouvez pas lancer de sort ou vous concentrer sur des sorts, même si vous en avez normalement la capacité.  
 Vous êtes habité d'une telle rage qu'elle ne prend fin prématurément que si vous êtes inconscient ou que vous choisissez de sortir de cet état.
 Vous pouvez aussi utiliser une action bonus pour mettre fin à cet état pendant votre tour.
-Le Ior possède **six états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.
+Le Ior possède **six états de rage**, une fois que vous êtes entrés en état de rage le nombre de fois permis, vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir entrer de nouveau en rage.   
+
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior6.jpeg)  
 
 ### Champion de Teutès  
 **En Meldète : Campwerh’Teutès**  
@@ -113,3 +121,5 @@ Au niveau 20, vous êtes devenu une véritable force de la puissance de Teutès.
 ### Véritable Ior
 **En Meldète : Ior**  
 Au niveau 20, le Ior est accompli et augmente ses caractéristiques de Force et de Constitution de 2 points sans pouvoir dépasser 22.
+
+[![Ior](https://www.douaratil.fr/illustrations/archetype/ior7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior7.jpeg)  

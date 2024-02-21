@@ -22,7 +22,7 @@ title: Legatos
 
 ## Legatos
 &nbsp;
-[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatosm.png)](https://www.douaratil.fr/illustrations/archetype/legatos.jpg)  
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -38,6 +38,8 @@ En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Legatos sont des meneurs d’hommes et puits de connaissances. Il stocke, archivent et recueillent les connaissances et les lois de part le monde, le plus souvent pour le compte des grandes universités et bibliothèques impériales. De part leurs connaissances des lois et des traditions, les Legatos font souvent office de conseillés ou de juge. Ils mettent parfois à exécution eux-même leurs décisions. Les Legatos de la voie des Armes sont appelés Mano iudex, littéralement «la main qui juge». Les Legatos de la voie de l’Ombre sont appelés Auditas , littéralement «Celui qui écoute». Les Legatos de la voie de la Magie sont appelés Intellegatos, littéralement « Celui qui comprends».  
 
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos2.jpeg)  
+
 ### Le choix des armes   
 **En Alcante : Elegit Arma**  
 À partir du niveau 3, vous maîtrisez aux choix [l'épée longue ou le trident](/equipement/#tableau-des-armes).  
@@ -50,17 +52,20 @@ Au niveau 4, Le legatos sait imposer son autorité et maîtrise les compétences
 **En Alcante : Ancora**  
 À partir du niveau 5, vous avez toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre l'effet [_charmé_](/gerer-la-sante-du-personnage/#charme) ou [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).  
 
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos3.jpeg)  
+
 ### Influence  
 **En Alcante : Potentiam**  
 À partir du niveau 6, quand vous parlez devant une assemblée, vous asseyez votre autorité naturelle. Vous avez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour vos tests d'[intimidation](/utiliser-les-caracteristiques/intimidation) et de [Persuasion](/utiliser-les-caracteristiques/persuasion).  
 
-&nbsp;
-[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos2m.png)](https://www.douaratil.fr/illustrations/archetype/legatos2.jpg)  
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos4.jpeg)  
 
 ### Lacération égotique  
 **En Alcante : Lacera Egos**  
 À partir du niveau 7, lorsque vous engagez un [duel social](/passion-honneur-et-interactions-sociales/#honneur-&-interactions-sociales), vous arguments ont plus de poids et votre assurance peut déstabiliser les plus sûr. Vous infligez 1d6 de dégâts supplémentaires aux points d'honneur.  
 Ces dégâts passent à 2d6 au niveau 11 et 3d6 au niveau 17.  
+
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos5.jpeg)  
 
 ### Seconde attaque  
 **En Alcante : Secundos Impetos**  
@@ -68,14 +73,15 @@ Ces dégâts passent à 2d6 au niveau 11 et 3d6 au niveau 17.
 
 ### Troisième attaque  
 **En Alcante : Tertio Impetos**  
-À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +4 aux dégâts en compensation.
+À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +4 aux dégâts en compensation. 
+
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos6.jpeg)  
 
 ### Infaillible  
 **En Alcante : Infalibo**  
 Au niveau 19, vous pouvez relancer n'importe quel type de dés ou de test car vous avez la réputation d'être infaillible. Vous ne pouvez utiliser cette aptitude qu'une fois entre chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
-&nbsp;
-[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos3m.png)](https://www.douaratil.fr/illustrations/archetype/legatos3.jpg)  
+[![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos7.jpeg)  
 
 ### Véritable Legatos  
 **En Alcante : Legatos**  

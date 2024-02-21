@@ -38,7 +38,9 @@ En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être de culture Khernaëe  
 **Points de Magie** : Le Bhaner est un Archétype basé sur les connaissances anciennes, de ce fait, il développe les points de Magie (PM) s’il emprunte la voie de la Magie.
 
-Il peut être homme ou femme. Le Bhaner est libre d'aller où il veut et il est grave de lever la main sur lui. Il colporte les informations, les histoires, ainsi que les Leznen, loi ou commandement oral, édicté par les druides. Le Bhaner sait chanter et souvent jouer d'un instrument. Il est quelquefois poète. Son rôle est de divertir et d'informer, de conseiller. Les Bhaners qui viennent de la Voie des Armes sont appelés Heni Khanan Khan , c’est à dire littéralement «Celui qui chante au combat ». Les Bhaners qui viennent de la Voie de l’Ombre sont appelés Heni Khanan Noz, c’est à dire littéralement « Celui qui chante dans la nuit » . Les Bhaners qui viennent de la Voie de la Magie sont appelés Heni Khanan Gouzout, c’est à dire littéralement « Celui qui chante le savoir » .
+Il peut être homme ou femme. Le Bhaner est libre d'aller où il veut et il est grave de lever la main sur lui. Il colporte les informations, les histoires, ainsi que les Leznen, loi ou commandement oral, édicté par les druides. Le Bhaner sait chanter et souvent jouer d'un instrument. Il est quelquefois poète. Son rôle est de divertir et d'informer, de conseiller. Les Bhaners qui viennent de la Voie des Armes sont appelés Heni Khanan Khan , c’est à dire littéralement «Celui qui chante au combat ». Les Bhaners qui viennent de la Voie de l’Ombre sont appelés Heni Khanan Noz, c’est à dire littéralement « Celui qui chante dans la nuit » . Les Bhaners qui viennent de la Voie de la Magie sont appelés Heni Khanan Gouzout, c’est à dire littéralement « Celui qui chante le savoir » .   
+
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner2.jpeg)  
 
 ### Inspiration bardique   
 **En Khern : Awen**  
@@ -52,6 +54,7 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 À partir du niveau 3, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.  
 
 
+
 ### Chant reposant  
 **En Khern : Arsavh**  
 À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court). Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) en utilisant un ou plusieurs dés de points d'action, chacune des créatures concernées gagne 1d6 points d'action supplémentaires.  
@@ -61,6 +64,8 @@ Plus votre niveau de barde est élevé, plus le nombre de points d'action récup
 **En Khern : Prizachan**  
 Au niveau 5, sélectionnez deux compétences que vous maîtrisez. À chaque fois que vous utilisez l'une ou l'autre, votre bonus de maîtrise est doublé pour tout test de caractéristiques qui met en jeu ces compétences.  
 Au niveau 10, vous pouvez choisir deux compétences supplémentaires et les utiliser de la même manière.  
+
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner3.jpeg)  
 
 ### Source d'inspiration  
 **En Khern : Soursenn Awen**  
@@ -82,6 +87,8 @@ Toujours au niveau 7, vous apprenez à utiliser votre répartie pour distraire, 
 **En Khern : Ardamezerezh**  
 Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardique à tous vos tests d'Intelligence (Histoire) qui concernent l'héraldique ou la noblesse. Cette utilisation ne dépense aucun point d'inspiration bardique.  
 
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner4.jpeg)  
+
 ### Par monts et par vaux  
 **En Khern : Kas-lizhiri**  
 Également au niveau 10, vous avez l'habitude en tant que messager de sillonner le pays, de survivre aux rigueurs du climat et de vous défendre contre les dangers rencontrés sur les routes. Vous pouvez dépenser une inspiration bardique et ajouter le résultat du dé d'inspiration bardique à tous vos tests de Sagesse (Survie). De plus, vous obtenez le bénéfice au choix d'un style de combat :  
@@ -102,7 +109,9 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 
 ### Inspiration supérieure  
 **En Khern : Arz Awen**  
-Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez 1d6.
+Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez 1d6.  
+
+[![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner5.jpeg)  
 
 ### Véritable Bhaner  
 **En Khern : Bhaner**  
