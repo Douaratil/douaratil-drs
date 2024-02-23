@@ -23,7 +23,7 @@ title: Magios
 
 ## Magios
 &nbsp;
-[![Magios](https://www.douaratil.fr/illustrations/archetype/magiosm.png)](https://www.douaratil.fr/illustrations/archetype/magios.jpg)
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que Magios, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -39,6 +39,8 @@ En tant que Magios, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Magios de la voie des Armes sont appelés Ignis Ardenos, littéralement «Feu Ardent». Les Magios de la voie de l’Ombre sont appelés Tenebris Praesagos , littéralement «Sombre Présage». Les Magios de la voie de la Magie sont appelés Videros Ultro, littéralement « Voir au delà».
 
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios2.jpeg)
+
 ### Politique  
 **En Alcante : Politiae**  
 Dès le niveau 3, vous savez parfaitement vous comporter dans les milieux de pouvoir. En haute société, dans un milieu mondain ou auprès de toute personne qui détient le pouvoir local, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à vos tests de compétence en Charisme ainsi qu'aux tests de Sagesse (Perspicacité) destinés à savoir si on vous ment.
@@ -53,7 +55,9 @@ Toujours au niveau 5, vous apprenez le sort [compréhension des langues](/grimoi
 
 ### Imposture  
 **En Alcante : Imposturam**  
-Au niveau 6, vous apprenez le sort [déguisement](/grimoire/deguisement), et vous le lancez sans utiliser composantes, comme s'il s'agissait d'une capacité naturelle.  Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre premier jet d'attaque contre cette cible. Vous devez terminer un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir à nouveau utiliser cette aptitude.
+Au niveau 6, vous apprenez le sort [déguisement](/grimoire/deguisement), et vous le lancez sans utiliser composantes, comme s'il s'agissait d'une capacité naturelle.  Lorsque vous êtes déguisé de façon à ce que votre cible puisse vous confondre avec un allié, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur votre premier jet d'attaque contre cette cible. Vous devez terminer un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir à nouveau utiliser cette aptitude.   
+
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios3.jpeg)
 
 ### Magie discrète  
 **En Alcante : Magicae Prudens**  
@@ -69,7 +73,9 @@ Au niveau 9, vous maîtrisez la compétence Histoire.
 
 ### Seconde attaque  
 **En Alcante : Secundos Impetos**  
-À partir du niveau 10, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
+À partir du niveau 10, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.   
+
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios4.jpeg)
 
 ### Discret
 **En Alcante : Prudentes**  
@@ -79,10 +85,14 @@ Au niveau 11, vous maîtrisez la compétence Discrétion.
 **En Alcante : Tertio Impetos**  
 À partir du niveau 18, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.
 
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios5.jpeg)
+
 ### Orateur suprême  
 **En Alcante : Oratori**  
 À partir du niveau 19, vous pouvez utiliser votre énergie charismatique pour influencer tous vos interlocuteurs. Lorsque vous puisez cette énergie, les gens ont tendance à être amical envers vous. Vous avez un avantage sur toutes les compétences sociales durant 1d6 round. Vous doublez les dégâts durant un duel social.  
 Vous ne pouvez pas réutiliser cette aptitude avant d'avoir effectué un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   
+
+[![Magios](https://www.douaratil.fr/illustrations/archetype/magios6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/magios6.jpeg)
 
 ### Véritable Magios  
 **En Alcante : Magios**

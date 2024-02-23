@@ -19,7 +19,7 @@ title: Drodan
 
 ## Drodan
 &nbsp;
-[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodanm.png)](https://www.douaratil.fr/illustrations/archetype/drodan.jpg)  
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -34,6 +34,8 @@ En tant que Drodan, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : Le Drodan fait partie des prêtres, de ce fait, il développe les points de Foi (PF).  
 
 La caste des drodanos regroupe les sages du peuple meldète. Cette caste est la seule où un membre d'une autre caste peut rentrer facilement, à condition d'en être jugé digne par les anciens. Les tatouages de la caste d'origine seront alors tous recouverts par le motif traditionnel des drodanos : la ronce. Seuls les hommes sont admis dans cette caste, et ils n'ont pas le droit d'avoir des enfants (ce sont les Genos qui ont imposé cette loi il y a longtemps, pour éviter que cette caste déjà puissante devienne elle aussi héréditaire et leur fasse concurrence). Si un drodan « faute » avec une femme, l'enfant sera considéré sans père et pourra être banni par le clan si la mère ne veut pas l'intégrer dans sa caste. Il existe quatre rangs dans la caste des drodanos :  
+
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan2.jpeg)  
 
 **Ebol** : le nouveau venu dans la caste. Souvent des enfants offerts par de riches parents pour qu'ils deviennent des sages respectés, il arrive que des adultes se donnent aussi en échange de tous leurs biens. Les ebolos n'ont aucun droit dans la caste, ils doivent garder le silence sauf quand on leur pose une question et doivent une obéissance totale aux anciens. Le motif de la ronce leur est tracé sur le front, en couronne, et si l'ebol avait déjà des tatouages ceux-ci seront aussi recouverts du motif de la ronce. Si un ebol est trop bête ou incompétent il restera ebol toute sa vie, ce qui équivaut à un statut d'esclave au sein de sa caste...  
 
@@ -52,10 +54,11 @@ La vie meldète est rythmée par les fêtes religieuses qui se déroulent toute 
 
 **Le solstice d'été est dédié au puissant Lluched**, maître du soleil rayonnant. Chaque homme du village en age de se battre (à partir de 12/13 ans) s'entaille le pouce et fait couler son sang sur la pierre sacrificielle du village. Les drodanos leur servent ensuite un mélange de cidre fort et de plantes magiques qui leur donnent des visions. Les hommes tombent en transe et bavent abondamment, ils marmonnent et hurlent des paroles incompréhensibles que les drodanos étudient ensuite pour faire des prophéties.  
 
- **Le solstice d'automne est dédié à Briach**, l'artificieux maître des secrets. Les forgerons de la région et les bardes se réunissent lors d'une grande fête à la cour du roi. Le peuple est réuni, et rares sont ceux qui ratent cette fête car un immense banquet est offert par le roi ! Durant plusieurs jours les forgerons présentent leurs chef-d'œuvre l'après midi et les bardes se défient dans des tournois de chants, de musique et de poésie. D'autres concours secondaires sont organisés : concours de cuisine ou de pâtisserie, de jonglerie, de course, de lutte... Le dernier jour, juste avant le banquet du roi et la remise des prix, un grand tournoi est organisé entre les guerriers désireux de montrer leur talent pour être recrutés par un seigneur ou simplement reconnus. Le tournoi est une suite de combats en trois catégories : à pied, à cheval et en mêlée. Même si les armes ne sont pas affûtées les blessures sont courantes et il y a régulièrement des morts... Le roi remet enfin les récompenses : une harpe d'or au gagnant du concours des bardes, un marteau d'or au meilleur forgeron, une épée d'or au meilleur guerrier et une couronne de feuilles de chêne à celui de ses vassaux qui s'est montré le plus loyal durant l'année.  
+**Le solstice d'automne est dédié à Briach**, l'artificieux maître des secrets. Les forgerons de la région et les bardes se réunissent lors d'une grande fête à la cour du roi. Le peuple est réuni, et rares sont ceux qui ratent cette fête car un immense banquet est offert par le roi ! Durant plusieurs jours les forgerons présentent leurs chef-d'œuvre l'après midi et les bardes se défient dans des tournois de chants, de musique et de poésie. D'autres concours secondaires sont organisés : concours de cuisine ou de pâtisserie, de jonglerie, de course, de lutte... Le dernier jour, juste avant le banquet du roi et la remise des prix, un grand tournoi est organisé entre les guerriers désireux de montrer leur talent pour être recrutés par un seigneur ou simplement reconnus. Le tournoi est une suite de combats en trois catégories : à pied, à cheval et en mêlée. Même si les armes ne sont pas affûtées les blessures sont courantes et il y a régulièrement des morts... Le roi remet enfin les récompenses : une harpe d'or au gagnant du concours des bardes, un marteau d'or au meilleur forgeron, une épée d'or au meilleur guerrier et une couronne de feuilles de chêne à celui de ses vassaux qui s'est montré le plus loyal durant l'année.  
 Pour respecter le décalage entre l'année lunaire et l'année solaire, on rajoute un jour à l'année une année sur deux. Ce jour est dédié à Letha, et il est célébré juste avant le solstice de printemps. Dans les temps plus anciens, des ennemis étaient sacrifiés en étant brûlés vifs dans de grandes statues de paille auxquelles les drodanos mettent le feu. Tant que les sacrifiés hurlaient encore il était interdit de parler, de boire, de manger ou d'avoir des rapports sexuels (cela pouvait durer plusieurs heures car les drodanos dissimulent de la paille humide au milieu des fagots pour prolonger la cérémonie...) Aujourd’hui, ces sacrifices sont simulées et des volontaires vont se cacher dans les fumées et hurlent. Lorsqu’ils n’ont plus de voix, ils sont considérés symboliquement mort. Alors un repas composé de pain, de lait frais, de fromages et d'œufs est ensuite servi et les libations sont puisées dans un grand bassin d'argent qui n'est utilisé que ce jour là. Les fêtes se prolongent tard dans la nuit et prennent parfois des allures orgiaques.  
 Les Drodanos de la voie des Armes sont appelés Gwallgof’diathan, littéralement «le fou des dieux». Les Drodanos de la voie de l’Ombre sont appelés Fel’diathan, littéralement «l’aimé des dieux». Les Drodanos de la voie de la Magie sont appelés Fhèarr’diathan, littéralement « le préféré des dieux ».  
 
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan3.jpeg)  
 
 ### Langue sacrée  
 **En Meldète : Drodan**  
@@ -90,6 +93,8 @@ Enfin, elle peut transporter des petits objets ou des messages. L’animal ne s�
 **En Meldète : Stòrnachaidh**  
 L'été est la période des voyages et des grandes migrations pour les animaux. Au niveau 6, vous augmentez votre vitesse de déplacement de 3 mètres. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.  
 
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan4.jpeg)  
+
 ### Refuge d'automne  
 **En Meldète : LlochyKesh**  
 Après un été confortable, vous vous préparez déjà aux rigueurs à venir en renforçant votre corps et en le préparant au plus dur. Au niveau 10, vous devenez compétent pour les jets de sauvegarde de Constitution. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.  
@@ -101,6 +106,8 @@ Après un été confortable, vous vous préparez déjà aux rigueurs à venir en
 ### Prédateur de l'hiver  
 **En Meldète : Ysglyfaethwr’d’gaeaf**  
 L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour résister aux puissants prédateurs qui parcourent les étendues gelées. À partir du niveau 14, vous pouvez vous connecter en un terrible prédateur lorsque vous utilisez votre aptitude de forme sauvage. Vous pouvez introduire dans l’esprit d'une bête dont l'indice de dangerosité peut aller jusqu'à 2 (ex : Elan géant, Loup sanguinaire, ours polaire, sanglier géant) . De plus, lorsque vous êtes sous forme sauvage, vous obtenez la résistance au feu et au froid. Malgré son nom, vous bénéficiez de cette aptitude quelle que soit la saison.  
+
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan5.jpeg)  
 
 ### Jeunesse éternelle  
 **En Meldète : Ieuenctid’tragwyddol**  
@@ -119,8 +126,7 @@ L'hiver, la lutte pour la survie est âpre et vous devez vous adapter pour rési
 Au niveau 20, vous pouvez utiliser votre forme sauvage autant de fois que vous le voulez.  
 De plus, vous pouvez ignorer les composantes verbales et somatiques de vos sorts de Drodan ainsi que les composantes matérielles qui n'ont pas de coût et ne sont pas consommées par le sort. Ce bénéfice est valable à la fois sous votre forme normale et sous votre forme sauvage.  
 
-&nbsp;
-[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan2m.png)](https://www.douaratil.fr/illustrations/archetype/drodan2.jpg)  
+[![Drodan](https://www.douaratil.fr/illustrations/archetype/drodan6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/drodan6.jpeg)  
 
 ### Véritable Drodan  
 **En Meldète : Drodan**  

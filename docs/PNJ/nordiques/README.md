@@ -162,7 +162,7 @@ Bryn Tuticanos est le roi de tous les Meldètes. Ce puissant guerrier règne sur
 
 ## Gaenor Lugeto
 &nbsp;
-[![Gaenor Lugeto](https://www.douaratil.fr/illustrations/pnj/gaenorlugetom.png)](https://www.douaratil.fr/illustrations/pnj/gaenorlugeto.jpg)   
+[![Gaenor Lugeto](https://www.douaratil.fr/illustrations/pnj/gaenorlugeto300.jpeg)](https://www.douaratil.fr/illustrations/pnj/gaenorlugeto.jpeg)   
 
 **<v-icon>mdi-skull</v-icon> crucifié à Caohaydhan le 10 Miz Ebrel 721 :**
 §§§ .hero

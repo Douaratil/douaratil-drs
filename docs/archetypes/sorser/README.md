@@ -22,7 +22,7 @@ title: "Sorser"
 
 ## Sorser
 &nbsp;
-[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorserm.png)](https://www.douaratil.fr/illustrations/archetype/sorser.jpg)
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -36,7 +36,9 @@ En tant que Sorser, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être Khernaë    
 **Points de Magie** : Le Sorser est un mage, le personnage développe les points de Magie (PM).    
 
-Les Sorsers de la voie des Armes sont appelés Tenvakalon, littéralement «Coeur noir». Les Sorsers de la voie de l’Ombre sont appelés Tenvaspered , littéralement «âme noire». Les Sorsers de la voie de la Magie sont appelés Tenvadon, littéralement « Gouffre noir».
+Les Sorsers de la voie des Armes sont appelés Tenvakalon, littéralement «Coeur noir». Les Sorsers de la voie de l’Ombre sont appelés Tenvaspered , littéralement «âme noire». Les Sorsers de la voie de la Magie sont appelés Tenvadon, littéralement « Gouffre noir».   
+
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser2.jpeg)
 
 ### Canal arcanique  
 **En Khern : Camlas Magae**  
@@ -52,7 +54,9 @@ Au niveau 5, vous profitez des moments d’inattention de vos adversaires et vou
 
 ### Ressource inépuisable  
 **En Khern : Paedra  dihesk**  
-Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
+Au niveau 7, Vous pouvez puiser dans l'espace environnant l'énergie dont vous avez besoin pour regagner une partie de votre énergie magique. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 par point de modificateur de votre caractéristique intelligence. Vous devez choisir quelle catégorie de point bénéficie de cette restauration.   
+
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser3.jpeg)
 
 ### Peur du Sorser
 **En Khern : Eagla an Sorser**  
@@ -66,6 +70,8 @@ Au niveau 11, le Sorser bénéficie en permanence de l'effet équivalent au sort
 **En Khern : Preder an Sorser**  
 Au niveau 12, le Sorser peut utiliser la capacité équivalente au sort [Coercition du Sorser](/grimoire/coercition-du-sorser). Ce sort n'est enseigné qu'entre Sorser, c'est pourquoi, il est rarement utilisé par d'autres Archétypes. Le savoir de ce pouvoir est jalousement gardé.   
 
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser4.jpeg)
+
 ### Domination terrorisante
 **En Khern : Dindan spont**  
 Au niveau 17, le Sorser peut utiliser une capacité équivalente au sort [étrangeté](grimoire/etrangete). Le Sorser doit attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.
@@ -77,6 +83,10 @@ Au niveau 19, le Sorser peut contacter les forces de l'ombre pour lui enseigner 
 - Être informé des évènements du royaume. Les réponses sont toujours évasives et la zone d'influence s'étend à un rayon de 25 km par point de bonus de sagesse (minimum 25 km).
 - Demander la localisation d'un compagnon ou d'un ami (à définir avec le narrateur) sans limite de distance.   
 
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser6.jpeg)
+
 ### Véritable Sorser  
 **En Khern : Sorser**  
-Au niveau 20, le Sorser est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.
+Au niveau 20, le Sorser est accompli et augmente ses caractéristiques d'Intelligence et de Charisme de 2 points sans pouvoir dépasser 22.  
+
+[![Sorser](https://www.douaratil.fr/illustrations/archetype/sorser5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sorser5.jpeg)

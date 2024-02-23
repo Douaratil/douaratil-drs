@@ -25,7 +25,7 @@ title: Dorshaïre
 
 ## Dorshaïre
 &nbsp;
-[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshairem.png)](https://www.douaratil.fr/illustrations/archetype/dorshaire.jpg)  
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire.jpeg)  
 
 ## Aptitudes d'Archétype  
 En tant que Doshaïre, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -42,6 +42,8 @@ En tant que Doshaïre, vous bénéficiez des aptitudes d'Archétype suivantes.
 Les Doshaïres sont des femmes khernaëes qui ont accès à la prêtrise et vénèrent les forces et les puissances de l'eau.  
 Les Doshaïres de la voie des Armes sont appelés Karpenn Emober, littéralement «carpe réfléchie». Les Doshaïres de la voie de l’Ombre sont appelés Silienn Avizet, littéralement «anguille avisée». Les Doshaïre de la voie de la Magie sont appelés Dluzhenn Avizded, littéralement « truite sage ».  
 Par essence les Dorshaïres n'utilisent pas la magie liée au feu.   
+
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire2.jpeg)  
 
 ### Fille des eaux    
 **En Khern : Merc'h dour**  
@@ -66,9 +68,6 @@ D'autre part, la Dorshaïre peut oublier les sorts et en apprendre deux autres a
 
 La Dorshaïre peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (Minimum 1) et nécessité un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de se régénérer.    
 
-&nbsp;
-[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire2m.png)](https://www.douaratil.fr/illustrations/archetype/dorshaire2.jpg)
-
 ### Respiration aquatique
 **En Khern : cʼhwezh'dour**  
 À partir du niveau 6, la Dorshaïre bénéficie en permanence de l'effet du sort [respiration aquatique](/grimoire/respiration-aquatique).  
@@ -92,6 +91,8 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 
 La ou les créatures mettent 1d6 rounds à arriver. Elles arrivent par la voie de l'eau. Si la créature "n'existe pas" dans le bestiaire compte tenu de la région d'invocation, le profil est simplement utilisé et décrit par une autre créature locale (ex: Crabas-écrevisse géante, Nuée de piranahs- nuée de petits brochets).   
 
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire3.jpeg)  
+
 ### Connaissances martimes    
 **En Khern : Anaoudegezh'arvor**  
 À partir du niveau 10, la Dorshaïre apprend et peut lancer de manière innée un sort de niveau Apprenti en lien avec l'élément eau parmi la liste suivante: [Allié planaire](/grimoire/allie-planaire), [Brume d'antre](/grimoire/brume-d-antre), [Cône de froid](/grimoire/cone-de-froid), [Mur de glace](/grimoire/mur-de-glace), [Tentacules noires](/grimoire/tentacules-noires) et  [Unification du corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau). Le sort est considéré comme appartenant à la Foi.    
@@ -100,6 +101,8 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 ### Sourcière
 **En Khern : Sourser**  
 À partir du niveau 13, la Dorshaïre peut localiser une source d'eau potable dans un rayon de 1 lieue (4 km) par point de bonus de Sagesse (Minimum 1).   
+
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire4.jpeg)  
 
 ### Connaissances océaniques    
 **En Khern : Anaoudegezh'meurvor**  
@@ -119,9 +122,10 @@ D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après
 **En Khern : Kedvevin'dour**  
 À partir du niveau 18, la Dorshaïre bénéficie d'un avantage à tous ses jets d'attaque, de sauvegarde et de compétence lorsqu'elle se trouve dans un sanctuaire dédié à l'eau ou une divinité de l'eau et apprend le sort [Incarnation de l'eau](/grimoire/incarnation-de-l-eau).  
 
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire6.jpeg)  
+
 ### Véritable Dorshaïre  
 **En Khern : Dorshaïre**  
 Au niveau 20, la Dorshaïre est accomplie et augmente ses caractéristiques de Sagesse et d'intelligence de 2 points sans pouvoir dépasser 22. De plus, l'ordre druidique lui confie la protection d'un lieu aquatique sacré, auquel la Dorshaïre est maîtresse des lieux et y a autorité.  
 
-&nbsp;
-[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire3m.png)](https://www.douaratil.fr/illustrations/archetype/dorshaire3.jpg)
+[![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire5.jpeg)  

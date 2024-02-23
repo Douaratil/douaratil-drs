@@ -14,6 +14,20 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+## Mise à jour 196
+![Mise à jour 196](https://www.douaratil.fr/illustrations/site/maj196.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations du [Drodan](/archetypes/drodan).    
+- Changement des illustrations du [Magios](/archetypes/magios).    
+- Changement des illustrations de la [Shangharah](/archetypes/shangharah).     
+- Changement des illustrations du [Sorser](/archetypes/sorser).     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 24 février 2024_
+§§§
 
 ## Mise à jour 195
 ![Mise à jour 195](https://www.douaratil.fr/illustrations/site/maj195.jpeg)  
@@ -21,23 +35,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 **Archétypes : illustrations**   
 - Changement des illustrations du [Bhaner](/archetypes/bhaner).    
 - Changement des illustrations du [Dall Dawnser](/archetypes/dall-dawnser).    
+- Changement des illustrations de la [Dorshaïre](/archetypes/dorshaire).     
 - Changement des illustrations du [Ior](/archetypes/ior).     
 - Changement des illustrations du [Jörghal](/archetypes/jorghal).     
 - Changement des illustrations du [Legatos](/archetypes/legatos).     
 
-**PJ : illustrations**   
-- Mise à jour des illustrations de [Owain Macaro](/bestiaire/owain-macaro).  
-
-**Règles : illustrations**   
-- Changement des illustrations de la section [combattre](/combattre/#attaque-a-distance-dans-un-combat-au-corps-a-corps).    
-- Changement des illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#mort).    
-- Changement des illustrations de la section [coups critiques](/tables-de-degats-et-de-coups-critiques).    
-
+**PNJ : illustrations**   
+- Changement des illustrations de [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 21 février 2024_
+_le 23 février 2024_
 §§§
 
 

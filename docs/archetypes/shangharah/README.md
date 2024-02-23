@@ -24,7 +24,7 @@ title: Shangharah
 
 ## Shangharah
 &nbsp;
-[![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharahm.png)](https://www.douaratil.fr/illustrations/archetype/shangharah.jpg)  
+[![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah2.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -53,6 +53,8 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 ### Guérisseur béni
 **En Sogh : Ogwo Goziri**  
 À partir du niveau 6, les sorts de soins que vous lancez sur d'autres créatures vous soignent aussi. Quand vous lancez un rituel qui redonne des points d’action à une personne différente de vous, vous regagnez un nombre de points de d’action égal à 2 + le coût de base du sort en points de foi (PF).  
+
+[![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah3.jpeg)  
 
 ### Frappe spirituelle
 **En Sogh :  Kuruh Nkemuo**  
@@ -84,6 +86,8 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 **En Sogh : Ogwo Kachai**  
 À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
 
+[![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah4.jpeg)  
+
 ### Langage du Guide  
 **En Sogh : Asasu N’bo**  
 À partir du niveau 18, vous pouvez lancer le sort communication avec les animaux [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser e de rituel ou dépenser des points de foi.  
@@ -91,6 +95,8 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 ### Vision du Guide  
 **En Sogh : Ohuu N’bo**  
  À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.  
+
+ [![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah.jpeg)  
 
 ### Véritable Shangharah
 **En Sogh : Shangharah**  
