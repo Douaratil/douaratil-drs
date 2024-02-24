@@ -38,7 +38,7 @@ En tant que Herredyr, vous bénéficiez des aptitudes d'Archétype suivantes.
 Les Herredyr sont des individus qui gardent les tracent de l'ancienne alliance avec les Seigneurs des Bêtes. Ils sont souvent relativement asociaux car quelque chose en eux n'est pas en accord avec la vie civilisée. Les Herredyrs de la voie des Armes sont appelés Gorach’rughadh, littéralement «La bête rugissante». Les Herredyrs de la voie de l’Ombre sont appelés Gorach’dubh, littéralement «La bête noire». Les Herredyrs de la voie de la Magie sont appelés Gorach’gwybod, littéralement « La bête qui sait».  
 *Règle particulière : il est conseillé de limiter cet Archétype à un seul par groupe de personnage.*   
 
-
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr3.jpeg)  
 
 ### Allégeance bestiale
 **En Khernaë :Fealded Chatakh**  
@@ -84,7 +84,7 @@ Dès le niveau 4, votre allégeance bestiale vous donne la maîtrise de la comp�
 |**Panthère**|Nature|
 |**Sanglier**|Survie|
 
-
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr4.jpeg)  
 
 ### Sursaut bestial
 **En Khernaë :Sailh Chatakh**  
@@ -113,7 +113,9 @@ L'Herredyr ne peut utiliser de nouveaux cette capacité qu'après un [_repos lon
 **En Khernaë :Kaz Chatakh**  
 **En Meldète : Fíochmhar'Beithigh**    
 **En Melg :Grymhet Eläimen**  
-Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaques est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 aux dégâts à chaque fois en compensation (+4 au niveau 12) .
+Dès le niveau 6, votre allégeance bestiale vous donne la capacité de porter deux attaques lorsque vous utilisez l'action attaquer. Le nombre d'attaques est portée à trois au niveau 12. Si vous avez déjà cette capacité (par la voie des armes), vous pouvez ajouter un bonus de +2 aux dégâts à chaque fois en compensation (+4 au niveau 12) .   
+
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr6.jpeg)  
 
 ### Compagnon bestial
 **En Khernaë :Kile Chatakh**  
@@ -137,6 +139,7 @@ Progression du compagnon
 |**Panthère**|Moyenne|4|+4|+5|+6|+7|+8|
 |**Sanglier**|Moyenne|4|+3|+4|+5|+6|+7|
 
+[![Herredyr](https://www.douaratil.fr/illustrations/archetype/herredyr5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/herredyr5.jpeg)  
 
 ### Sens bestiale
 **En Khernaë :Merzadenn Chatakh**  

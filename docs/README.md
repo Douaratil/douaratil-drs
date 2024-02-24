@@ -14,6 +14,28 @@ toc: false
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
 Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
+Visites:   
+<a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
+
+## Mise à jour 197
+![Mise à jour 197](https://www.douaratil.fr/illustrations/site/maj197.jpeg)  
+
+**Archétypes : illustrations**   
+- Ajout de nouvelles illustrations de l'[Herredyr](/archetypes/herredyr).   
+
+**PJ : illustrations**   
+- Ajout de nouvelles illustrations de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Korydwen Gourvil](/PNJ/nordiques/#korydwen-gourvil).  
+- Changement des illustrations de [Morwenna Moisan](/PNJ/nordiques/#morwenna-moisan).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 25 février 2024_
+§§§
+
 ## Mise à jour 196
 ![Mise à jour 196](https://www.douaratil.fr/illustrations/site/maj196.jpeg)  
 
@@ -207,7 +229,7 @@ Bon jeu à tout le monde !
 
 </v-col>
 
-<v-col cols="12" md="6">
+<v-col cols="12" md="6">  
 
 ## Liens utiles
 &nbsp;

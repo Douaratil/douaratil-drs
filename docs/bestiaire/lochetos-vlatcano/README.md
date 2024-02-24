@@ -155,7 +155,9 @@ _Touché_ : 1d6+6 dégâts perforants et la cible doit effectuer un [jet de sauv
 La dague possède maximum 3 doses qui se régénèrent au rythme de 1 dose par demi-lune.  (Sur un champ de bataille, maitrise et +2 dégâts arme à 1 main)  
 
 _**Arc court +2 An’ffaelh(••)**_. _Attaque d'arme à distance_ : +16 pour toucher, portée 24/96.  
-_Touché_ : 2d6+7 dégâts perforants .
+_Touché_ : 2d6+7 dégâts perforants .   
+
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos6300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos6.jpeg)    
 
 &nbsp;
 §§§ .hero
@@ -168,6 +170,8 @@ Lôchetos appartient au clan meldète Vlatcano qui a prêté allégeance à Gaen
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
 Lôchetos est un Meldète de vingt deux de printemps. Il a la peau blanche les cheveux noirs et les yeux bleus. Il mesure un mètre soixante quinze pour soixante dix kilos. Mordu par un loup durant l'hiver, il a une grosse cicatrice sur la hanche gauche. Il a une cicatrice (trou de flèche) dans la main gauche.  
 §§§
+
+[![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos5300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos5.jpeg)    
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
@@ -271,4 +275,4 @@ FICHE : [Laepa Hizino](/PNJ/nordiques/#laepa-hizino)
 [![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/laepa.jpeg)   
 **<v-icon>mdi-skull</v-icon> assassinée à Madin'alajnibh en Miz Even 722 :**
 
-Mise à jour le 09/02/2024
+Mise à jour le 24/02/2024

@@ -220,7 +220,7 @@ Joan Lugeto est la soeur de [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto). Elle
 
 ## Korydwen Gourvil
 &nbsp;
-[![Korydwen Gourvil](https://www.douaratil.fr/illustrations/pnj/korydwengourvilm.png)](https://www.douaratil.fr/illustrations/pnj/korydwengourvil.jpg)   
+[![Korydwen Gourvil](https://www.douaratil.fr/illustrations/pnj/korydwengourvil300.jpeg)](https://www.douaratil.fr/illustrations/pnj/korydwengourvil.jpeg)   
 
 §§§
 |Korydwen Gourvil |Khernaëe|
@@ -303,7 +303,7 @@ Meloir Mordelet est un guerrier au service de [Goulvenig Moisan](/PNJ/nordiques/
 
 ## Morwenna Moisan  
 &nbsp;
-[![Morwenna Moisan](https://www.douaratil.fr/illustrations/pnj/morwennamoisanm.png)](https://www.douaratil.fr/illustrations/pnj/morwennamoisan.jpg)   
+[![Morwenna Moisan](https://www.douaratil.fr/illustrations/pnj/morwennamoisan300.jpeg)](https://www.douaratil.fr/illustrations/pnj/morwennamoisan.jpeg)   
 
 §§§
 |Azenor Le Moal |Khernaëe|
