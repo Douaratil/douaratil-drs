@@ -126,7 +126,7 @@ Boe Osparksson est un roublard aventurier mais aussi un barde et conteur renomm�
 
 ## Britomartos Nantono
 &nbsp;
-[![Britomartos Nantono](https://www.douaratil.fr/illustrations/pnj/britomartosnantonom.png)](https://www.douaratil.fr/illustrations/pnj/britomartosnantono.jpg)   
+[![Britomartos Nantono](https://www.douaratil.fr/illustrations/pnj/britomartosnantono300.jpeg)](https://www.douaratil.fr/illustrations/pnj/britomartosnantono.jpeg)   
 
 §§§
 |Britomartos Nantono |Meldète|
@@ -196,7 +196,7 @@ Goulvenig Moisan est un puissant Rek Khernaë. Il vit principalement dans la cap
 
 ## Joan Lugeto
 &nbsp;
-[![Joan Lugeto](https://www.douaratil.fr/illustrations/pnj/joanlugetom.png)](https://www.douaratil.fr/illustrations/pnj/joanlugeto.jpg)   
+[![Joan Lugeto](https://www.douaratil.fr/illustrations/pnj/joanlugeto300.jpeg)](https://www.douaratil.fr/illustrations/pnj/joanlugeto.jpeg)   
 
 §§§
 |Joan Lugeto |Meldète|

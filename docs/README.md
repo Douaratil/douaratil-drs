@@ -27,8 +27,15 @@ Visites:
 - Ajout de nouvelles illustrations de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano).  
 
 **PNJ : illustrations**   
+- Changement des illustrations de [Britomartos Nantono](/PNJ/nordiques/#britomartos-nantono).  
+- Changement des illustrations de [Joan Lugeto](/PNJ/nordiques/#joan-lugeto).  
 - Changement des illustrations de [Korydwen Gourvil](/PNJ/nordiques/#korydwen-gourvil).  
+- Changement des illustrations de [Meloir Mordelet](/PNJ/nordiques/#meloir-mordelet).  
 - Changement des illustrations de [Morwenna Moisan](/PNJ/nordiques/#morwenna-moisan).  
+
+**PNJ**   
+- Ajout de [Bahir Boudiaf](/PNJ/shahims/#bahir-boudiaf).  
+- Ajout de [Eyoab Mengistu Boru](/PNJ/shahims/#eyoab-mengistu-boru). 
 
 Bon jeu.     
 §§§ .text-right

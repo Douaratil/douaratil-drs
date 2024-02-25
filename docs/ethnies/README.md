@@ -176,7 +176,8 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 
 
 ### Peuple Ashkémites
-[![Ethnie Ashkémites](https://www.douaratil.fr/illustrations/regles/ethnieashkhemite300.jpeg)](https://www.douaratil.fr/illustrations/regles/ethnieashkhemite.jpeg)  
+
+[![Ethnie Shème](https://www.douaratil.fr/illustrations/regles/ethniesheme300.jpeg)](https://www.douaratil.fr/illustrations/regles/ethniesheme.jpeg)  
 **Augmentation de caractéristiques**. Votre valeur Constitution augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez le sabre.  
 **Langues supplémentaires**. Vous parlez l’*Ashkhèm* et écrivez l’*Ashkheth*, votre langue maternelle. Vous pouvez choisir un dialecte local parmi l’*Ashkham*, *Shkhaam* et l’*Ashkhérite*. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
@@ -191,7 +192,7 @@ Les Ptolèmes sont géographiquement voisins des royaumes de Lacède. Les Assyrh
 **Entraînement aux armes**. Vous maîtrisez l’arc.  
 **Langues supplémentaires**. Vous parlez le *Lassym* et écrivez le *Lassyth*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  
 ### Peuple Shèmes
-[![Ethnie Shème](https://www.douaratil.fr/illustrations/regles/ethniesheme300.jpeg)](https://www.douaratil.fr/illustrations/regles/ethniesheme.jpeg)  
+[![Ethnie Ashkémites](https://www.douaratil.fr/illustrations/regles/ethnieashkhemite300.jpeg)](https://www.douaratil.fr/illustrations/regles/ethnieashkhemite.jpeg)  
 **Augmentation de caractéristiques**. Votre valeur Force augmente de 1.  
 **Entraînement aux armes**. Vous maîtrisez la hache.  
 **Langues supplémentaires**.  Vous parlez le *Shèmide* et écrivez le *Shèm*, votre langue maternelle. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.  

@@ -60,6 +60,45 @@ _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
 Ashur Begaya est un marchand shahim qui navigue sur la mer d'émeraude mais qui fait aussi du commerce en montant jusqu'à Kerzu. Il connaît [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et a déjà fait affaire avec lui à Kerzu.     
 §§§
 
+## Bahir Boudiaf
+&nbsp;
+[![Bahir Boudiaf](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf300.jpeg)](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf.jpg)   
+§§§
+|Bahir Boudiaf|Shème|
+|:-:|:-:|
+| Profil|[Voie des armes (Novice)](/bestiaire/voie-des-armes-novices)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 24|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+3 dégâts tranchant (3d6+1 à deux mains).  
+
+**Arc court**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 24/96.  
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Bahir Boudiaf est un marchand peu scrupuleux des routes commerciales shèmes.
+§§§
+
+## Eyoab Mengistu Boru
+&nbsp;
+[![Eyoab Mengistu Boru](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru300.jpeg)](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru.jpg)   
+§§§
+|Eyoab Mengistu Boru|Ashkhémite|
+|:-:|:-:|
+| Profil|[Voie de l'ombre (disciple)](/bestiaire/voie-de-l-ombre-disciple)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 25|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
+
+_**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)    
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Eyoab Mengistu Boru est un guide Ashkhémite complètement fou après s'être perdu dans le désert. Il s'adresse en permanence à Shouf sa monture et unique compagnon.
+§§§
+
 ## Fahim Ibn Tabit
 &nbsp;
 [![Fahim Ibn Tabit](https://www.douaratil.fr/illustrations/pnj/fahimibntabitm.png)](https://www.douaratil.fr/illustrations/pnj/fahimibntabit.jpg)   
@@ -146,7 +185,7 @@ Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpg)   
 [![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpg)   
 §§§
-|Kahina ult Bouhen|Shème|
+|Kahina ult Bouhen|Ashkhémite|
 |:-:|:-:|
 | Profil|[Voie des armes (Novice)](/bestiaire/voie-des-armes-novices)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 24|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
@@ -159,7 +198,7 @@ _Touché_ : 2d6+3 dégâts tranchant (3d6+1 à deux mains).
 _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
-Kahina ult Bouhen est une servante donnée en présent à [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) par le chef de guerre
+Kahina ult Bouhen est une servante donnée en présent à [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) par le chef de guerre ashkhémite Amastame Ag Beketa.
 §§§
 
 # Shamash Eriba
@@ -189,7 +228,7 @@ Shamash Eriba est marchand Assyrhim des royaumes de Shahia qui parcourt beaucoup
 # Shamreta la rouge
 &nbsp;
 [![Shamreta la rouge](https://www.douaratil.fr/illustrations/pnj/shamreta300.jpeg)](https://www.douaratil.fr/illustrations/pnj/shamreta.jpeg)  
-|Shamreta la rouge|Ashkhémite|
+|Shamreta la rouge|Shème|
 |:-:|:-:|
 | Profil|[Voie de la magie (Expert)](/bestiaire/voie-de-la-magie-expert)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 62|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 17|   
