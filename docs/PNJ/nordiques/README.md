@@ -1,7 +1,7 @@
 ---
 title: "PNJ Nordiques"
 ---
-## Agowen Tenva Duenn
+## Agowen Tenva Duenn  
 &nbsp;
 [![Agowen Tenva Duenn](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduennm.png)](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduenn.jpg)  
 §§§
@@ -31,7 +31,7 @@ Agowen Tenva Duenn connait les sorts suivants:
 **Maître**: [Prémonition](/grimoire/premonition), [Tempête vengeresse](/grimoire/tempete-vengeresse).  
 §§§
 
-## Alarig Pinvidic
+## Alarig Pinvidic  
 &nbsp;
 [![Alarig Pinvidic](https://www.douaratil.fr/illustrations/pnj/alarigpinvidicm.png)](https://www.douaratil.fr/illustrations/pnj/alarigpinvidic.jpg)   
 
@@ -77,7 +77,7 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse d'un riche bijoutier qui l'a délaissée, elle entretien une relation avec secrète avec le jeune [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo).  
 §§§
 
-## Beda Mordiern
+## Beda Mordiern   
 &nbsp;
 [![Beda Mordiern](https://www.douaratil.fr/illustrations/pnj/bedamordiernm.png)](https://www.douaratil.fr/illustrations/pnj/bedamordiern.jpg)   
 
@@ -101,7 +101,7 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Beda Mordiern est le bâtard de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moisan) et le demi frère de [Morwenna Moisan](/PNJ/nordiques/#morwenna-moisan). Assez râleur et colérique, il soutient cependant sa soeur contre le renversement qu'elle a subit.  
 §§§
 
-## Boe Osparksson
+## Boe Osparksson   
 &nbsp;
 [![Boe Osparksson](https://www.douaratil.fr/illustrations/pnj/boeospakssonm.png)](https://www.douaratil.fr/illustrations/pnj/boeospaksson.jpg)   
 
@@ -124,7 +124,7 @@ _Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
 Boe Osparksson est un roublard aventurier mais aussi un barde et conteur renommé dans les royaumes du Nord. Il possède un [anneau de saut](/liste-objets-magiques/anneau-de-saut/) et une [épée courte +2](/liste-objets-magiques/epee-courte-2/) de [Fer gelé](/liste-objets-magiques/fer-gele/).
 §§§
 
-## Britomartos Nantono
+## Britomartos Nantono   
 &nbsp;
 [![Britomartos Nantono](https://www.douaratil.fr/illustrations/pnj/britomartosnantono300.jpeg)](https://www.douaratil.fr/illustrations/pnj/britomartosnantono.jpeg)   
 
@@ -147,7 +147,7 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Britomartos Nantono est le souverain de la cité meldète de Cahohaydan. Après avoir fait sacrifié l'ancien Genos [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto) par le cercle de la nuit, il n'a eu de cesse que d'assoir son pouvoir et de s'allier contre les anciens amis de [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto). Il a été reconnu légitime souverain par [Bryn Tuticanos](/PNJ/nordiques/#bryn-tuticanos) en Miz Genver 722. Depuis la trahison envers son Genos, Britomartos Nantono est maudit par l'Ambeanamos [Gwion Gornoc](/bestiaire/gwion-gornoc).      
 §§§
 
-## Bryn Tuticanos
+## Bryn Tuticanos   
 &nbsp;
 [![Bryn Tuticanos](https://www.douaratil.fr/illustrations/pnj/bryntuticanosm.png)](https://www.douaratil.fr/illustrations/pnj/bryntuticanos.jpg)   
 
@@ -170,7 +170,7 @@ Bryn Tuticanos est le roi de tous les Meldètes. Ce puissant guerrier règne sur
 Gaenor Lugeto était le souverain de la cité meldète de Cahohaydan. Genos juste et apprécié, terrible guerrier, il a été affaibli par le cercle de la nuit qui a sacrifié sa fille lors d'un rituel sordide. Il s'est laisser vaincre par Britomartos et a été crucifié pour assoir la suprématie du clan Nantono.     
 §§§
 
-## Goulvenig Moisan
+## Goulvenig Moisan   
 &nbsp;
 [![Goulvenig Moisan](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisanm.png)](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisan.jpg)   
 
@@ -194,7 +194,7 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Goulvenig Moisan est un puissant Rek Khernaë. Il vit principalement dans la capitale khernaëe de Lornac. Il porte son glaive enchanté +2 "Furnos" et une cuirasse magique +2.   
 §§§
 
-## Joan Lugeto
+## Joan Lugeto   
 &nbsp;
 [![Joan Lugeto](https://www.douaratil.fr/illustrations/pnj/joanlugeto300.jpeg)](https://www.douaratil.fr/illustrations/pnj/joanlugeto.jpeg)   
 
@@ -218,7 +218,7 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Joan Lugeto est la soeur de [Gaenor Lugeto](/PNJ/nordiques/#gaenor-lugeto). Elle avait décidé de rester en retrait mais face aux exactions de [Britomartos Nantono](/PNJ/nordiques/#britomartos-nantono), elle a décidé de réunir son clan et de rejoindre la résistance dans le but de reconquérir le pouvoir perdu par son frère.  
 §§§
 
-## Korydwen Gourvil
+## Korydwen Gourvil   
 &nbsp;
 [![Korydwen Gourvil](https://www.douaratil.fr/illustrations/pnj/korydwengourvil300.jpeg)](https://www.douaratil.fr/illustrations/pnj/korydwengourvil.jpeg)   
 
@@ -247,7 +247,7 @@ Korydwen Gourvil est une vielle femme guérisseuse dans la région de Feurm Brel
 [Clairevoyance](/grimoire/clairevoyance), [Contresort](/grimoire/contresort), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Oeil magique](/grimoire/oeil-magique), [Prière de soins](/grimoire/priere-de-soins).
 §§§
 
-## Laepa Hizino
+## Laepa Hizino   
 &nbsp;
 [![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/laepa.jpeg)   
 **<v-icon>mdi-skull</v-icon> assassinée à Madin'alajnibh en Miz Even 722 :**
@@ -256,7 +256,7 @@ Korydwen Gourvil est une vielle femme guérisseuse dans la région de Feurm Brel
 Laepa Hizino avait fuit son clan pour vivre une aventure passionnée avec [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano). Elle l'accompagna partout et lui donna une petite fille Serena. Alors que [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) souhaitait l'épousée une fois retourné en Douaratil, elle a été assassinée à Madin'alajnibh en Miz Even 722, probablement pour venger l'honneur de la famille Hizino. Morte dans les bras de son amant, elle lui a fait promettre de s'occuper de sa fille Serena et de lui offrir la place qu'elle mérite à la tête du clan Hizino.       
 §§§
 
-## Maelane Le Besco
+## Maelane Le Besco   
 &nbsp;
 [![Maelane Le Besco](https://www.douaratil.fr/illustrations/pnj/maelanelebescom.png)](https://www.douaratil.fr/illustrations/pnj/maelanelebesco.jpg)   
 
@@ -277,7 +277,7 @@ Maelane Le Besco est une fidèle éclaireuse de la cité de Ker-Saozon. N'ayant 
 §§§
 
 
-## Meloir Mordelet
+## Meloir Mordelet   
 &nbsp;
 [![Meloir Mordelet](https://www.douaratil.fr/illustrations/pnj/meloirmordelet300.jpeg)](https://www.douaratil.fr/illustrations/pnj/meloirmordelet.jpeg)   
 
@@ -328,7 +328,7 @@ Morwenna est une princesse khernaëe convoitée car en plus de sa beauté, de be
 Morwenna peut mener un train de vie aristocratique dans toutes les terres khernaëes.
 §§§
 
-## Samos Hizino
+## Samos Hizino   
 &nbsp;
 [![Samos Hizino](https://www.douaratil.fr/illustrations/pnj/samoshizinom.png)](https://www.douaratil.fr/illustrations/pnj/samoshizino.jpg)   
 
@@ -372,7 +372,7 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirige la guilde des voleur de Cahohaydan.  
 §§§
 
-## Skjol Dolafsson
+## Skjol Dolafsson   
 &nbsp;
 [![Skjol Dolafsson](https://www.douaratil.fr/illustrations/pnj/skjoldolafssonm.png)](https://www.douaratil.fr/illustrations/pnj/skjoldolafsson.jpg)   
 
@@ -400,7 +400,7 @@ Skjol Dolafsson est un grand guerrier melg. Il possède une épée +1, une hache
 §§§
 
 
-## Skuld Gyrdsson
+## Skuld Gyrdsson   
 &nbsp;
 [![Skuld Gyrdsson](https://www.douaratil.fr/illustrations/pnj/skuldgyrdssonm.png)](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson.jpg)   
 
@@ -421,7 +421,7 @@ _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
 Skuld Gyrdsson est un gros Melg.
 §§§
 
-## Swein Koigrimsson
+## Swein Koigrimsson   
 &nbsp;
 [![Swein Koigrimsson](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimssonm.png)](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimsson.jpg)   
 
@@ -448,7 +448,7 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Swein Koigrimsson est un un vieil aventurier Melg qui a décidé de s'installer ??? à après avoir arpenté les royaumes du Nord et même franchi la mer pour visiter les terribles terres de ???. Il s'est fait forgé une épée ardente qui porte le nom de    
 §§§
 
-## Thorgunna Iridottir
+## Thorgunna Iridottir   
 &nbsp;
 [![Thorgunna Iridottir](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottirm.png)](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir.jpg)   
 
@@ -469,7 +469,7 @@ _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
 Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khouéré 722 dans sa colonie.  
 §§§
 
-## Thororm Audgisilsson
+## Thororm Audgisilsson   
 &nbsp;
 [![Thororm Audgisilsson](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilssonm.png)](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilsson.jpg)   
 
@@ -496,7 +496,7 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 Thororm Audgisilsson est le souverain de la petite ville de Notteilift. Il possède une épée longue +2 et une cuisrasse +3.   
 §§§
 
-## Ubbein Stigandisson
+## Ubbein Stigandisson   
 &nbsp;
 [![Ubbein Stigandisson](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandissonm.png)](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandisson.jpg)  
 §§§

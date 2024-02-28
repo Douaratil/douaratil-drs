@@ -17,6 +17,19 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 198
+![Mise à jour 198](https://www.douaratil.fr/illustrations/site/maj198.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations de l' [Holtseidar](/archetypes/holtseidar).  
+- Changement des illustrations de la [Vestaline](/archetypes/vestaline).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 28 février 2024_
+§§§
+
 ## Mise à jour 197
 ![Mise à jour 197](https://www.douaratil.fr/illustrations/site/maj197.jpeg)  
 

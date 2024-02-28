@@ -9,18 +9,18 @@ title:  Holtseidar
 |:-:|:-:|
 |**3**|[Peinture sacrée (max +1)](#peinture-sacree)|
 |**5**|[Style de combat (Archérie)](#style-de-combat)|
-|**6**|[Attaque supplémentaire (seconde)](#attaque-supplementaire)|
+|**6**|[Deuxième attaque)](#deuxieme-attaque)|
 |**7**|[Peinture sacrée (max +2)](#peinture-sacree)|
 |**8**|[Lame experte](#lame-experte)|
 |**10**|[Tireur expert](#tireur-expert)|
 |**11**|[Peinture sacrée (max +3)](#peinture-sacree)|
-|**15**|[Peinture sacrée (max +4)](#peinture-sacree), [Attaque supplémentaire (troisième)](#attaque-supplementaire), [Salve](#salve)|
+|**15**|[Peinture sacrée (max +4)](#peinture-sacree), [Troisième attaque)](#troisieme-attaque), [Salve](#salve)|
 |**19**|[Peinture sacrée (max +5)](#peinture-sacree)|
 |**20**|[Véritable Holtseidar](#veritable-holtseidar)|
 
 ## Holtseidar
 &nbsp;
-[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidarm.png)](https://www.douaratil.fr/illustrations/archetype/holtseidar.jpg)  
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -52,26 +52,40 @@ La rune a aussi la limitation suivante, elle peut donner un bonus mais son maxim
 |**15**|+4|
 |**19**|+5|
 
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar2.jpeg)  
+
 ### Style de combat  
 **En Melg : Kampstil**  
 Au niveau 5, vous choisissez le style de combat Archerie. Vous gagnez un bonus de +2 aux jets d'attaque quand vous attaquez avec des armes à distance. Si Archerie a déjà été choisi par la Voie des Armes, le bonus est doublé.  
 
-### Attaque supplémentaire  
+### Deuxième attaque  
 **En Melg : Manangreb**  
 À partir du niveau 6, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer deux fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.  
 Le nombre d'attaques que vous pouvez porter passe à trois quand vous atteignez le niveau 15. Si le Holtseidar vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +2 aux dégâts au niveau 6 et +3 au niveau 15.  
+
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar3.jpeg)  
 
 ### Lame experte
 **En Melg : Ekspertblad**  
 Au niveau 8, vous gagnez une maîtrise supplémentaire de l'épée longue. Si vous possédez déjà la double maîtrise, vous obtenez alors un bonus de +2.   
 
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar4.jpeg)  
+
 ### tireur expert
 **En Melg : Ekspertblad**  
 Au niveau 10, vous gagnez une maîtrise supplémentaire de l'arc long et de l'arc composite. Si vous possédez déjà la double maîtrise, vous obtenez alors un bonus de +2.   
 
+### Troisième attaque  
+**En Melg : Manangreb**  
+À partir du niveau 15, même pour ceux qui ne viennent pas de la voie des Armes, vous pouvez attaquer trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour. Si le Holtseidar vient de la voie des armes, il possèdera déjà ces attaques supplémentaires, en compensation, il ajoute +3 aux dégâts.  
+
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar5.jpeg)  
+
 ### Salve  
 **En Melg : salva'h**  
 À partir du niveau 15, vous pouvez utiliser votre action pour faire une attaque à distance contre autant de créatures que vous le voulez, dans la mesure où elles se trouvent dans un rayon de 3 mètres autour d'un point que vous avez défini dans la zone de portée de votre arme. Vous devez avoir une munition pour chaque cible, bien entendu, et vous lancez un jet d'attaque séparé pour chaque cible.  
+
+[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar6.jpeg)  
 
 ### Véritable Holtseidar    
 **En Melg : Holtseidar**  
