@@ -23,7 +23,7 @@ title: Sermazloth
 
 ## Sermazloth
 &nbsp;
-[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazlothm.png)](https://www.douaratil.fr/illustrations/archetype/sermazloth.jpg)
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth.jpeg)
 
 ## Aptitudes d'Archétype  
 En tant que Sermazloth, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -37,6 +37,8 @@ En tant que Sermazloth, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Conditions d'accessibilité**: Être de culture Khernaëe, être de sexe féminin, être d'alignement mauvais.    
 **Points de Magie** : La Sermazloth est un Archétype mystique, de ce fait, elle développe les points de Foi (PF) s’elle emprunte la voie de la Magie.  
 
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth2.jpeg)
+
 L'histoire de l'ordre des Sermazloths se perd dans les nimbes du passé. Il est divisé en plusieurs familles qui se répartissent sur le territoire mais qui restent soumises au monastère principal de Vantréhic. Les Sermazloths sont des moniales khernaëes formées à leur sacerdoce dans des conditions "infernales" car elles sont considérées comme les gardiennes des enfers. Elles portent des piercings et des scarifications au fur et à mesure de leur initiation et de leur progression dans la hiérarchie moniale.     
 Les Sermazloths de la voie des Armes sont appelés Seurez Loskadur, littéralement «Soeur de la brûlure». Les Sermazloths de la voie de l’Ombre sont appelés Seurez Marv, littéralement «Soeur de la mort». Les Sermazloths de la voie de la Magie sont appelés Seurez Tenval Anaoudegezh, littéralement « Soeur de la sombre connaissance».  
 
@@ -49,6 +51,8 @@ Les Sermazloth sont organisées en sororités d'adoratrices.
 - Uamhas'dorch, adoratrices de la terreur sombre, localisée au nord des monts du Menezlatar.  
 - Dindandouar, adoratrices des terres souterraines, localisation ignorée.  
 
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth3.jpeg)
+
 ### Présence infernale  
 **En Khernaë: Bezañs Infern**    
 À partir du niveau 3,  la Sermazloth est intimidante. Elle a toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests d'intimidation, avec un bonus de +3 lorsque la cible est Khernaëe.   
@@ -56,6 +60,8 @@ Les Sermazloth sont organisées en sororités d'adoratrices.
 ### Résistance infernale  
 **En Khernaë: Harz Infern**    
 À partir du niveau 4, la Sermazloth est résistante à toutes les formes de poisons et les maladies, mêmes celles d'origines magiques. Ainsi, elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tout ses tests et ne subit que la moitié des dommages.    
+
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth4.jpeg)
 
 
 ### Rage infernale
@@ -70,6 +76,8 @@ Les Sermazloth sont organisées en sororités d'adoratrices.
 **En Khernaë: Herderr Infern**  
 À partir du niveau 8,  la Sermazloth gagne 3m dans sa capacité de déplacement maximum au cours d'un round.
 
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth5.jpeg)
+
 ### Attaque supplémentaire  
 **En Khernaë: Argad Adh**   
 À partir du niveau 9, vous pouvez attaquer deux fois au lieu d'une à chaque fois que vous choisissez l'action [_attaquer_](/combattre/#attaquer) pendant votre tour. Si vous avez déjà une deuxième attaque, vous ajoutez +2 aux dégâts en compensation.  
@@ -82,17 +90,25 @@ A partir du niveau 10, la Sermazloth est immunisée à toutes les formes de pois
 **En Khernaë: Harz'toal Ifern**  
 A partir du niveau 12, la souffrance alimente désormais votre vitalité. A chaque round où vous encaissez des dégâts, vous regagnez 1d6 points d'action.  
 
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth6.jpeg)
+
 ### Longévité infernale
 **En Khernaë: Hirhoal Ifern**  
 À partir du niveau 14, vous pouvez vivre jusqu'à 120 ans. Vous paraissez toujours 20 ans de moins que votre âge réel (minimum 20 ans).  
+
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth7.jpeg)
 
 ### Sororité infernale  
 **En Khernaë: Soroth'infern**  
 A partir du niveau 16, vous inspirez toutes les Sermazloths. Lorsqu'elle sont proches de vous, dans un rayon de 18 mètres, vous et toutes vos soeurs Sermazloths bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous leurs tests et êtes immunisées à la [_terreur_](/gerer-la-sante-du-personnage/#terrorise).  
 
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth8300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth8.jpeg)
+
 ### Attaque supplémentaire  
 **En Khern : Argad Adh**  
 À partir du niveau 19, vous pouvez attaquer trois fois au lieu d'une à chaque fois que vous choisissez l'action attaquer pendant votre tour. Si vous avez déjà une troisième attaque, vous ajoutez +3 aux dégâts en compensation.  
+
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth9300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth9.jpeg)
 
 ### Véritable Sermazloth  
 **En Khernaë: Sermazloth**  

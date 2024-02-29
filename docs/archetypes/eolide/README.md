@@ -20,6 +20,8 @@ title: Eolide
 |**17**|[Foudre intérieure maîtrisée](#foudre-interieure-maitrisee)|
 |**20**|[Véritable Eolide](#veritable-eolide)|
 
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide300.jpeg)](https://www.douaratil.fr/illustrations/archetype/eolide.jpeg)
+
 ## Eolide
 §§§ .hero
 "*En voyageant à travers les terres lointaines du sud, en terres lacèdes, je rencontrai un étrange individu, connu sous le nom d'Eolide. Sa réputation l'avait précédé, car sa magie était capable de déchaîner les éléments eux-mêmes selon les dires des habitants de la région.*   
@@ -42,6 +44,8 @@ En tant que Eolide, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : L'Eolide est un mage, le personnage développe les points de Magie (PM).  
 
 Les Eolides sont des utilisateurs de la magie qui tirent une grande partie de leur pouvoir et de leurs connaissances par des enseignements d'esprits éoliens puissants. Les Eolides qui viennent de la voie de la Magie sont appelés árchontes tis kataigídas, littéralement « Seigneurs des tempêtes» tandis que ceux qui viennent de la voie des armes sont appelés thyellódis kolossós, littéralement "Colosse temêteux". Les Eolides ne viennent pas de la voie des ombres, les vents se détournent de cette voie.     
+
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/eolide2.jpeg)
 
 ### Noviciat élolien     
 **En Lacède : Aeolian Novitiate**  
@@ -68,17 +72,23 @@ Au niveau 7, l'Eolide devient [résistant à la foudre](/combattre/#resistance-e
 **En Lacède : Ekmáthisi anémou**  
 Au niveau 8, l'Eolide connait le sort [rafale de vent](/grimoire/rafale-de-vent) et [vague tonnante](/grimoire/vague-tonnante) qui lui ont été appris par les esprits de l'air. Il n'a pas besoin de composantes matérielles pour utiliser ces pouvoirs.      
 
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/eolide3.jpeg)
+
 ### Foudre intérieure intermédiaire      
 **En Lacède : Endiámesos esoterikós keravnós**  
 Au niveau 9, l'Eolide peut canaliser son énergie intérieure et ajouter 2d6 aux dégâts de foudre.    
 
 ### Façonnage éolien      
 **En Lacède : Aiolikí diamórfosi**  
-Au niveau 10, l'Eolide connait le sort [appel de la foudre](/grimoire/appel-de-la-foudre), [asphyxie](/grimoire/rafale-de-vent), [esprits gardiens](/grimoire/esprits-gardiens) et [murt de vent](/grimoire/mur-de-vent)  qui lui ont été appris par les esprits de l'air. Il n'a pas besoin de composantes matérielles pour utiliser ces pouvoirs.      
+Au niveau 10, l'Eolide connait le sort [appel de la foudre](/grimoire/appel-de-la-foudre), [asphyxie](/grimoire/rafale-de-vent), [esprits gardiens](/grimoire/esprits-gardiens) et [mur de vent](/grimoire/mur-de-vent)  qui lui ont été appris par les esprits de l'air. Il n'a pas besoin de composantes matérielles pour utiliser ces pouvoirs.      
+
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/eolide6.jpeg)
 
 ### Expertise éolienne      
 **En Lacède : Exeidíkefsi ston aéra**  
-Au niveau 12, l'Eolide connait le sort [nuée d'oiseaux](/grimoire/nué-d-oiseaux), [nuage mortel](/grimoire/nuage-mortel) et [murt de vent](/grimoire/mur-de-vent)  qui lui ont été appris par les esprits de l'air. Il n'a pas besoin de composantes matérielles pour utiliser ces pouvoirs.      
+Au niveau 12, l'Eolide connait le sort [nuée d'oiseaux](/grimoire/nué-d-oiseaux), [nuage mortel](/grimoire/nuage-mortel) et [invoquer un élémentaire](/grimoire/invoquer-un-elementaire)  qui lui ont été appris par les esprits de l'air. Il n'a pas besoin de composantes matérielles pour utiliser ces pouvoirs.    
+
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/4eolide.jpeg)
 
 ### Immunité à la foudre     
 **En Lacède : Astrapiaía Anosía**  
@@ -87,6 +97,8 @@ Au niveau 15, l'Eolide devient immunisé à la foudre.
 ### Foudre intérieure maîtrisée      
 **En Lacède : Elenchómenos esoterikós keravnós**  
 Au niveau 17, l'Eolide peut canaliser son énergie intérieure et ajouter 1d6 aux dégâts de foudre par point de bonus d'intelligence. 
+
+[![Eolide](https://www.douaratil.fr/illustrations/archetype/eolide5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/eolide5.jpeg)
 
 ### Véritable Eolide  
 **En Alcante : Eolide**

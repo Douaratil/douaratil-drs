@@ -29,7 +29,7 @@ languages:
 ---
 ## Sermazloth apprentie
 &nbsp;
-[![Sermazloth apprentie](https://www.douaratil.fr/illustrations/humanoide/sermazlothapprentiem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothapprentie.jpg)  
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth3.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

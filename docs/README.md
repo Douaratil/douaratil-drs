@@ -17,6 +17,27 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 199
+![Mise à jour 198](https://www.douaratil.fr/illustrations/site/maj199.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations de l' [Eolide](/archetypes/eolide).  
+- Changement des illustrations de la [Sermazloth](/archetypes/sermazloth).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de la [Sermazloth novice](/bestiaire/sermazloth-novice).  
+- Changement des illustrations de la [Sermazloth disicple](/bestiaire/sermazloth-disicple).  
+- Changement des illustrations de la [Sermazloth apprentie](/bestiaire/sermazloth-apprentie).  
+- Changement des illustrations de la [Sermazloth adepte](/bestiaire/sermazloth-adepte).  
+- Changement des illustrations de la [Sermazloth expert](/bestiaire/sermazloth-experte).  
+- Changement des illustrations de la [Sermazloth maîtresse](/bestiaire/sermazloth-maitresse).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 29 février 2024_
+§§§
+
 ## Mise à jour 198
 ![Mise à jour 198](https://www.douaratil.fr/illustrations/site/maj198.jpeg)  
 

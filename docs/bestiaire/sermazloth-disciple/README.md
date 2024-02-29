@@ -29,13 +29,13 @@ languages:
 ---
 ## Sermazloth disciple
 &nbsp;
-[![Sermazloth disciple](https://www.douaratil.fr/illustrations/humanoide/sermazlothdisciplem.png)](https://www.douaratil.fr/illustrations/humanoide/sermazlothdisciple.jpg)  
+[![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth2.jpeg)   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Points de Foi**_ : 13  
 _**Assistance rituelle**_. L'acolyte est capable d’assister une autorité religieuse khernaëe dans les cérémonies et les rituels.  
-_**Incantation**_. L'acolyte est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 9, +4 pour toucher avec les attaques de sort). Voici les sorts de connus par l'acolyte :
+_**Incantation**_. L'acolyte est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 9, +4 pour toucher avec les attaques de sort). Voici les sorts de connus par l'acolyte :    
 _**Sorts de Novice**_ : [_anathème_](/grimoire/anatheme/), [_bouffée de poison_](/grimoire/bouffee-de-poison/), [poison naturel](/grimoire/poison-naturel/), [_sanctuaire_](/grimoire/sanctuaire/), [_soin des blessures_](/grimoire/soin-des-blessures/)  
 _**Présence infernale**_ : À partir du niveau 3,  la Sermazloth est intimidante. Elle a toujours un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses tests d'intimidation, avec un bonus de +3 lorsque la cible est Khernaëe.   
 
