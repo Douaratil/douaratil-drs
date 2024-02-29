@@ -26,7 +26,7 @@ Visites:
 
 **Bestiaire : illustrations**   
 - Changement des illustrations de la [Sermazloth novice](/bestiaire/sermazloth-novice).  
-- Changement des illustrations de la [Sermazloth disicple](/bestiaire/sermazloth-disicple).  
+- Changement des illustrations de la [Sermazloth disciple](/bestiaire/sermazloth-disciple).  
 - Changement des illustrations de la [Sermazloth apprentie](/bestiaire/sermazloth-apprentie).  
 - Changement des illustrations de la [Sermazloth adepte](/bestiaire/sermazloth-adepte).  
 - Changement des illustrations de la [Sermazloth expert](/bestiaire/sermazloth-experte).  
