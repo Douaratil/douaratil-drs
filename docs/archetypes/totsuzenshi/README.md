@@ -28,7 +28,7 @@ title: Totsuzenshi
 
 ## Totsuzenshi
 &nbsp;
-[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshim.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi.jpg)
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que Totsuzenshi, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -44,7 +44,9 @@ En tant que Totsuzenshi, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Parmi les Archétype existant, le Totsuzenshi est un exemple de cette recherche de la perfection dans l'art de tuer.  
 Le Totsuzenshi, littéralement "mort soudaine", est issu de guildes organisées en communautés familiales et claniques qui entretiennent des relations ambigües avec le pouvoir en place. Les familles, Buzoku, servent aussi leurs propres intérêts. Elles récupèrent des enfants orphélins qui sont ensuite entraînés pour servir le Buzoku jusqu'à la mort.  
-Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "mort noire". Les Totsuzenshis de la voie de l'ombre sont nommés Haiiro no shi, littéralement "mort grise". Les Totsuzenshis de la voie de la magie sont nommés Aoi shi, littéralement "mort bleue".        
+Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "mort noire". Les Totsuzenshis de la voie de l'ombre sont nommés Haiiro no shi, littéralement "mort grise". Les Totsuzenshis de la voie de la magie sont nommés Aoi shi, littéralement "mort bleue".     
+
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi2.jpeg)
 
 ### Voie de la main nue  
 **En Yotaï : Sude do**  
@@ -54,6 +56,8 @@ Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "
 **En Yotaï : Neko no hokō**  
 À partir du niveau 3, le Totsuzenshi se déplace tel un félin en chasse. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tout ses tests de discrétion quelques soient les conditions.  
 
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3.jpeg)
+
 ### Acrobatie aérienne
 **En Yotaï : Kūchū kyokugei**  
 À partir du niveau 4, le Totsuzenshi se déplace avec une extrême agilité. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tout ses tests d'acrobatie quelques soient les conditions et ne subit pas de ralentissement selon les types de terrain.      
@@ -62,8 +66,7 @@ Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "
 **En Yotaï: Buryoku shihai**
 À partir du niveau 5, le Totsuzenshi est tellement agile et rapide qu'il est très difficile à toucher. Il peut, au prix de votre action bonus, imposer un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) au jet d'[_attaque_](/combattre/#attaquer) de votre/vos adversaire(s) une fois par combat pendant un nombre de round égal à 1 + votre bonus de Sagesse.  
 
-&nbsp;
-[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi1m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi1.jpg)
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi4.jpeg)
 
 ### Seconde attaque  
 **En Yotaï : Sekandoatakku**  
@@ -93,8 +96,7 @@ Les dégâts évoluent avec le niveau du personnage.
 |**15-18**|4|12/24|
 |**19-20**|5|14/26|
 
-&nbsp;
-[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5.jpg)
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi5.jpeg)
 
 ### Maîtrise de la concentration    
 **En Yotaï : Shūjuku Nōdo**  
@@ -113,8 +115,8 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter d'utiliser l
 À partir du niveau 13, le Totsuzenshi peut utiliser cette aptitude pour se soigner.
 le Totsuzenshi peut utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que **trois fois** son niveau.  
 Il faut attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
-&nbsp;
-[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi4m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi4.jpg)
+
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi6.jpeg)
 
 ### Envol du héron
 **En Yotaï : Sagi no hikō**  
@@ -129,8 +131,7 @@ Il faut attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) po
 À partir du niveau 18, le Totsuzenshi peut utiliser une capacité comparable au sort de [hâte](/grimoire/hate) sans test de magie ni dépense de points de Magie (PM).  
 Il peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (minimum 1) et doit ensuite attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 
-&nbsp;
-[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3m.png)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi3.jpg)
+[![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi7.jpeg)
 
 ### Véritable Totsuzenshi  
 **En Yotaï : Totsuzenshi**  

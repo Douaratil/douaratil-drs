@@ -17,8 +17,20 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 200
+![Mise à jour 200](https://www.douaratil.fr/illustrations/site/maj200.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations du [Tosuzenshi](/archetypes/totsuzenshi).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 mars 2024_
+§§§
+
 ## Mise à jour 199
-![Mise à jour 198](https://www.douaratil.fr/illustrations/site/maj199.jpeg)  
+![Mise à jour 199](https://www.douaratil.fr/illustrations/site/maj199.jpeg)  
 
 **Archétypes : illustrations**   
 - Changement des illustrations de l' [Eolide](/archetypes/eolide).  
