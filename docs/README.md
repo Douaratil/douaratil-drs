@@ -23,6 +23,13 @@ Visites:
 **Archétypes : illustrations**   
 - Changement des illustrations du [Tosuzenshi](/archetypes/totsuzenshi).  
 
+**Bestiaire :**   
+- Ajout de la [Celeste](/bestiaire/celeste).  
+- Ajout du [Déva](/bestiaire/deva).  
+- Ajout de la [Lunaire](/bestiaire/lunaire).  
+- Ajout du [Planétaire](/bestiaire/planetaire).  
+- Ajout du [Solaire](/bestiaire/solaire).  
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
