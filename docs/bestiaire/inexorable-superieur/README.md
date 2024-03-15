@@ -62,7 +62,7 @@ languages:
 ---
 ## Inéxorable supérieur
 &nbsp;
-[![Inéxorable supérieur](https://www.douaratil.fr/illustrations/mort-vivant/inexorablem.png)](https://www.douaratil.fr/illustrations/mort-vivant/inexorable.jpg)  
+[![Inéxorable supérieur](https://www.douaratil.fr/illustrations/mort-vivant/inexorablesuperieur300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/inexorablesuperieur.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 41, réussite 4, échec 3d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29   
@@ -81,7 +81,7 @@ _**Epée sacrée +5 à deux mains**_. _Attaque d'arme au corps à corps_ : +19 p
 _Touché_ : 3d6+11 dégâts tranchant  
 
 §§§ .hero
-"*Je massacrais la créature avec une satisfaction non dissimulée. Elle m'avait poursuivie pendant des lunes et je savais maintenant que je serais tranquille. Une douce main se posa sur mon épaule. J'ouvrais les yeux. Je me trouvais dans mon lit et Shemrata la Rouge me regardait d'un air inquiet.*   
+"*Je massacrais la créature avec une satisfaction non dissimulée. Elle m'avait poursuivie pendant des lunes et je savais maintenant que je serais tranquille. Une douce main se posa sur mon épaule. J'ouvrais les yeux. Je me trouvais dans mon lit et Shamreta la Rouge me regardait d'un air inquiet.*   
 *- Nous devons repartir, il est là, me dit-elle*  
 *J'entendis en effet les bruits de pas métalliques dans la cours et le cri d'agonie d'un garde shahim. Je pris la fuite sans plier mes affaires. Au fond de moi, je maudissais les dieux.*"        
 **Souvenirs de Gwion Gornoc**

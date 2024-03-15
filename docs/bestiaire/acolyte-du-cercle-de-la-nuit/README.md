@@ -26,7 +26,7 @@ languages:
 ---
 ## Acolyte du cercle de la nuit
 &nbsp;
-[![Acolyte du cercle de la nuit](https://www.douaratil.fr/illustrations/humanoide/acolyteducercledelanuitm.png)](https://www.douaratil.fr/illustrations/humanoide/acolyteducercledelanuit.jpg)  
+[![Acolyte du cercle de la nuit](https://www.douaratil.fr/illustrations/humanoide/acolyteducercledelanuit300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/acolyteducercledelanuit.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

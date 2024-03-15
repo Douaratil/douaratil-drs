@@ -31,7 +31,7 @@ environments:
 ---
 ## Loup
 &nbsp;
-[![Loup](https://www.douaratil.fr/illustrations/bete/loupm.png)](https://www.douaratil.fr/illustrations/bete/loup.jpg)  
+[![Loup](https://www.douaratil.fr/illustrations/bete/loup300.jpeg)](https://www.douaratil.fr/illustrations/bete/loup.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

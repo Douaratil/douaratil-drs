@@ -31,7 +31,7 @@ environments:
 ---
 ## Aligosaure
 &nbsp;
-[![Aligosaure](https://www.douaratil.fr/illustrations/bete/aligosaurem.png)](https://www.douaratil.fr/illustrations/bete/aligosaure.jpg)  
+[![Aligosaure](https://www.douaratil.fr/illustrations/bete/aligosaure300.jpeg)](https://www.douaratil.fr/illustrations/bete/aligosaure.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

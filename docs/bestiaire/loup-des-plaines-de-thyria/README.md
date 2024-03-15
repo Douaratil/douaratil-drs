@@ -31,7 +31,7 @@ environments:
 ---
 ## Loup des plaines de Thyria
 &nbsp;
-[![Loup des plaines de Thyria](https://www.douaratil.fr/illustrations/bete/loupdesplainesdethyriam.png)](https://www.douaratil.fr/illustrations/bete/loupdesplainesdethyria.jpg)  
+[![Loup des plaines de Thyria](https://www.douaratil.fr/illustrations/bete/loupdesplainesdethyria300.jpeg)](https://www.douaratil.fr/illustrations/bete/loupdesplainesdethyria.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

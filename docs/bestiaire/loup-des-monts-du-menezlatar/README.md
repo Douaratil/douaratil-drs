@@ -30,7 +30,7 @@ environments:
 ---
 ## Loup des monts du Menezlatar
 &nbsp;
-[![Loup des monts du Menezlatar](https://www.douaratil.fr/illustrations/bete/loupdesmontsdumenezlatarm.png)](https://www.douaratil.fr/illustrations/bete/loupdesmontsdumenezlatar.jpg)  
+[![Loup des monts du Menezlatar](https://www.douaratil.fr/illustrations/bete/loupdesmontsdumenezlatar300.jpeg)](https://www.douaratil.fr/illustrations/bete/loupdesmontsdumenezlatar.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

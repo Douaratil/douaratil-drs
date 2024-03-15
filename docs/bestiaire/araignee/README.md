@@ -29,9 +29,9 @@ environments:
   - Bois / Forêt
   - Jungle
 ---
-## Aigle
+## Araignée
 &nbsp;
-[![Aigle](https://www.douaratil.fr/illustrations/bete/araigneem.png)](https://www.douaratil.fr/illustrations/bete/araignee.jpg)  
+[![Araignée](https://www.douaratil.fr/illustrations/bete/araignee300.jpeg)](https://www.douaratil.fr/illustrations/bete/araignee.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

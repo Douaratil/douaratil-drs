@@ -32,7 +32,7 @@ environments:
 ---
 ## Ours charognard
 &nbsp;
-[![Ours charognard](https://www.douaratil.fr/illustrations/bete/ourscharognardm.png)](https://www.douaratil.fr/illustrations/bete/ourscharognard.jpg)  
+[![Ours charognard](https://www.douaratil.fr/illustrations/bete/ourscharognard300.jpeg)](https://www.douaratil.fr/illustrations/bete/ourscharognard.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -17,6 +17,26 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 201
+![Mise à jour 201](https://www.douaratil.fr/illustrations/site/maj201.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations du [Tosuzenshi](/archetypes/totsuzenshi).  
+
+**Bestiaire :**   
+- Changement de l'Akashakhal en [Malhor](/bestiaire/malhor).  
+- Changement de l'akau-keshake en [Ichorolh](/bestiaire/ichorolh).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[âme en peine](/bestiaire/ame-en-peine).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 mars 2024_
+§§§
+
 ## Mise à jour 200
 ![Mise à jour 200](https://www.douaratil.fr/illustrations/site/maj200.jpeg)  
 
@@ -30,10 +50,33 @@ Visites:
 - Ajout du [Planétaire](/bestiaire/planetaire).  
 - Ajout du [Solaire](/bestiaire/solaire).  
 
+- Changement d'Askam en [Ténêbral](/bestiaire/tenebral).  
+- Ajout du [lion noir](/bestiaire/lion-noir).  
+
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[aigle](/bestiaire/aigle).  
+- Changement des illustrations de l'[Acolyte du cercle de la nuit](/bestiaire/acolyte-du-cercle-de-la-nuit).  
+- Changement des illustrations de l'[aligosaure](/bestiaire/aligosaure).  
+- Changement des illustrations de l'[araignée](/bestiaire/araignee).  
+- Changement des illustrations de l'[inéxorable](/bestiaire/inexorable).  
+- Changement des illustrations de l'[inéxorable supérieur](/bestiaire/inexorable-superieur).  
+- Changement des illustrations du [lion](/bestiaire/lion).  
+- Changement des illustrations du [loup](/bestiaire/loup).  
+- Changement des illustrations du [loup des monts du Menezlatar](/bestiaire/loup-des-monts-du-menezlatar). 
+- Changement des illustrations du [loup des plaines de Thyria](/bestiaire/loup-des-plaines-de-thyria). 
+- Changement des illustrations du [loup sanguinaire](/bestiaire/loup-sanguinaire). 
+- Changement des illustrations de l'[ours brun](/bestiaire/ours-brun).  
+- Changement des illustrations de l'[ours polaire](/bestiaire/ours-polaire).  
+- Changement des illustrations de l'[ours noir](/bestiaire/ours-noir).  
+- Changement des illustrations de l'[ours charognard](/bestiaire/ours-charognard).  
+- Changement des illustrations du [tigre](/bestiaire/tigre). 
+- Changement des illustrations du [tigre de dents de sabre](/bestiaire/tigre-a-dents-de-sabre). 
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 9 mars 2024_
+_le 14 mars 2024_
 §§§
 
 
