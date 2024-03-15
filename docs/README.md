@@ -20,15 +20,22 @@ Visites:
 ## Mise à jour 201
 ![Mise à jour 201](https://www.douaratil.fr/illustrations/site/maj201.jpeg)  
 
-**Archétypes : illustrations**   
-- Changement des illustrations du [Tosuzenshi](/archetypes/totsuzenshi).  
-
 **Bestiaire :**   
 - Changement de l'Akashakhal en [Malhor](/bestiaire/malhor).  
 - Changement de l'akau-keshake en [Ichorolh](/bestiaire/ichorolh).  
+- Changement de l'ardedab en [Torment](/bestiaire/torment).  
 
 **Bestiaire : illustrations**   
 - Changement des illustrations de l'[âme en peine](/bestiaire/ame-en-peine).  
+- Changement des illustrations de l'[anubien](/bestiaire/anubien).   
+- Changement des illustrations du [foragh](/bestiaire/foragh).  
+- Changement des illustrations de l'[osgorth](/bestiaire/osgorth).  
+- Changement des illustrations du [sasquatch](/bestiaire/sasquatch).  
+- Changement des illustrations du [tormogrundth](/bestiaire/tormogrundth).  
+
+**Grimoire :**   
+- Ajout du sort [invoquer une ombre assassine](/grimoire/invoquer-une-ombre-assassine).  
+
 
 
 Bon jeu.     

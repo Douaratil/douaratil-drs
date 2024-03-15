@@ -37,6 +37,6 @@ L'élémentaire se montre amical envers vous et vos compagnons. Déterminez son 
 
 Si votre concentration se brise, l'élémentaire ne disparaît pas, mais il échappe à votre contrôle et devient hostile envers vous et vos compagnons. Il peut aller jusqu'à vous attaquer. Vous ne pouvez pas renvoyer un élémentaire qui est hors de contrôle, il disparaît simplement 1 heure après que vous l'avez invoqué.
 
-C'est le MJ qui dispose du profil technique de l'élémentaire.
+C'est le Narrateur qui dispose du profil technique de l'élémentaire.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau Adepte ou supérieur, l'indice de dangerosité de l'élémentaire augmente de 1 par niveau au-delà du niveau d'Apprenti.
