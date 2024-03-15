@@ -211,7 +211,7 @@ Peuple à la peau noire des royaumes du sud.
 **Augmentation de caractéristiques**. Votre valeur de Constitution augmente de 2.  
 **Vitesse**. Votre vitesse au sol de base est de 9 mètres.  
 **Entraînement aux armes**. La lance et la massue.  
-**Langues**. Vous pouvez parler le *Sogh*, langue commune des peuples du sud qui n’a pas de version écrite. Vous parlez le dialecte de votre tribu. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.
+**Langues**. Vous pouvez parler le *Sogh*, langue commune des peuples du sud qui n’a pas de version écrite. Vous parlez le dialecte de votre tribu. Vous pouvez parler, lire et écrire une langue supplémentaire de votre choix.    
 [![Ethnie Sooghaï](https://www.douaratil.fr/illustrations/regles/ethniesooghai2300.jpeg)](https://www.douaratil.fr/illustrations/regles/ethniesooghai2.jpeg)  
 §§§ .hero
 *Les hommes étaient musculeux. Leurs corps avaient été huilés pour la vente. Ils avaient la peau noir et leur regard insondable défiait leurs futurs maîtres. Les Sooghaïs étaient chassés par des marchands d'esclaves des royaumes de Shahia. La vile besogne était souvent effectuée par des tribus ennemis qui revendaient leurs prisonniers. Les Sooghaïs n'avaient pas de grands royaumes unis, ce qui facilitait le commerce et les guerres locales. Il n'en allait de même plus au Sud, où peu d'aventuriers se risquaient, car certains Sooghaïs s'étaient unis sous la coupe d'un mystérieux suzerain.*       
