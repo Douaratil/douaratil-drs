@@ -24,11 +24,14 @@ Visites:
 - Changement de l'Akashakhal en [Malhor](/bestiaire/malhor).  
 - Changement de l'akau-keshake en [Ichorolh](/bestiaire/ichorolh).  
 - Changement de l'ardedab en [Torment](/bestiaire/torment).  
+- Ajout de l'[ombre assassine](/bestiaire/ombre-assassine).  
 
 **Bestiaire : illustrations**   
 - Changement des illustrations de l'[âme en peine](/bestiaire/ame-en-peine).  
 - Changement des illustrations de l'[anubien](/bestiaire/anubien).   
 - Changement des illustrations du [foragh](/bestiaire/foragh).  
+- Changement des illustrations du [guerrier Singhara](/bestiaire/guerrier-singhara).  
+- Changement des illustrations du [guerrier Singhara d'élite](/bestiaire/guerrier-singhara-elite).  
 - Changement des illustrations de l'[osgorth](/bestiaire/osgorth).  
 - Changement des illustrations du [sasquatch](/bestiaire/sasquatch).  
 - Changement des illustrations du [tormogrundth](/bestiaire/tormogrundth).  

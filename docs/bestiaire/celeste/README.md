@@ -41,7 +41,7 @@ telepathy: 36
 ## Deva
 &nbsp;
 [![Deva](https://www.douaratil.fr/illustrations/celeste/celeste300.jpeg)](https://www.douaratil.fr/illustrations/celeste/celeste.jpeg)  
-**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 26, réussite 4, échec 1d6+3.  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 23, réussite 4, échec 1d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

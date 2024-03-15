@@ -30,7 +30,7 @@ languages:
 ---
 ## Guerrier Singhara
 &nbsp;
-[![Guerrier Singhara](https://www.douaratil.fr/illustrations/humanoide/guerriersingharam.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersinghara.jpg)  
+[![Guerrier Singhara](https://www.douaratil.fr/illustrations/humanoide/guerriersinghara300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/guerriersinghara.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

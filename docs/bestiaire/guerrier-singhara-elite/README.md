@@ -30,7 +30,7 @@ languages:
 ---
 ## Guerrier Singhara d'élite
 &nbsp;
-[![Guerrier Singhara d'élite](https://www.douaratil.fr/illustrations/humanoide/guerriersingharaelitem.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersingharaelite.jpg)  
+[![Guerrier Singhara d'élite](https://www.douaratil.fr/illustrations/humanoide/guerriersingharadelite300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/guerriersingharadelite.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

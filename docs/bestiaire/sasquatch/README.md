@@ -34,7 +34,7 @@ environments:
 ---
 ## Sasquatch
 &nbsp;
-[![Sasquatch](https://www.douaratil.fr/illustrations/geant/sasquatchm.png)](https://www.douaratil.fr/illustrations/geant/sasquatch.jpg)    
+[![Sasquatch](https://www.douaratil.fr/illustrations/geant/sasquatch300.jpeg)](https://www.douaratil.fr/illustrations/geant/sasquatch.jpeg)    
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 23, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19  
