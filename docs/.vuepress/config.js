@@ -376,6 +376,11 @@ module.exports = {
               icon: 'mdi-shield-sun',
               path: '/archetypes/Shangharah',
             },
+            {
+              title: "Singhara",
+              icon: 'mdi-spear',
+              path: '/archetypes/Singhara',
+            },
           {
               title: "Skell",
               icon: 'mdi-guitar-acoustic',

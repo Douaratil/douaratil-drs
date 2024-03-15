@@ -20,6 +20,9 @@ Visites:
 ## Mise à jour 201
 ![Mise à jour 201](https://www.douaratil.fr/illustrations/site/maj201.jpeg)  
 
+**Archétypes :**   
+- Ajout du [Singhara](/archetypes/singhara).  
+
 **Bestiaire :**   
 - Changement de l'Akashakhal en [Malhor](/bestiaire/malhor).  
 - Changement de l'akau-keshake en [Ichorolh](/bestiaire/ichorolh).  
@@ -59,7 +62,6 @@ _le 15 mars 2024_
 - Ajout de la [Lunaire](/bestiaire/lunaire).  
 - Ajout du [Planétaire](/bestiaire/planetaire).  
 - Ajout du [Solaire](/bestiaire/solaire).  
-
 - Changement d'Askam en [Ténêbral](/bestiaire/tenebral).  
 - Ajout du [lion noir](/bestiaire/lion-noir).  
 

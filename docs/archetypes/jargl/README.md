@@ -71,7 +71,7 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 
 ### Survivant
 **En Khern : Rebohserzh**  
-À partir du niveau 10, vous obtenez un avantage permanent pour vos tests d'athlétisme et de survie.  
+À partir du niveau 10, vous obtenez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) permanent pour vos tests d'athlétisme et de survie.  
 
 ### Représailles  
 **En Khern : Rebohserzh**  
@@ -87,7 +87,7 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 ### Champion mythique
 **En Khern : Maout'Mojenn**  
 Au niveau 19, vos incarnez le champion mythique.  
-Vous devenez résistant aux dégâts contondants, perforants et tranchants.  
+Vous devenez [résistant aux dégâts contondants, perforants et tranchants](/combattre/#resistance-et-vulnerabilite-aux-degats).  
 
 &nbsp;
 [![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl6m.png)](https://www.douaratil.fr/illustrations/archetype/jargl6.jpg)  
