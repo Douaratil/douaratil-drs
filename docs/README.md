@@ -17,6 +17,34 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 202
+![Mise à jour 202](https://www.douaratil.fr/illustrations/site/maj202.jpeg)  
+
+**Archétypes :**   
+- Ajout du [Singhara](/archetypes/singhara).  
+
+**Bestiaire :**   
+
+- Changement de l'ardedab en [Torment](/bestiaire/torment).  
+- Ajout du [fléau](/bestiaire/fleau).  
+- Ajout de l'[anathème](/bestiaire/anatheme).  
+- Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [nundu](/bestiaire/nundu).  
+
+
+**Grimoire :**   
+- Ajout du sort [invoquer une ombre assassine](/grimoire/invoquer-une-ombre-assassine).  
+
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 22 mars 2024_
+§§§
+
 ## Mise à jour 201
 ![Mise à jour 201](https://www.douaratil.fr/illustrations/site/maj201.jpeg)  
 
