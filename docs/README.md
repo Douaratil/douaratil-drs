@@ -25,7 +25,7 @@ Visites:
 
 **Bestiaire :**   
 
-- Changement de l'ardedab en [Torment](/bestiaire/torment).  
+- Changement de la Shukkushe-Ikhushe en [luxure](/bestiaire/luxure).  
 - Ajout du [fléau](/bestiaire/fleau).  
 - Ajout de l'[anathème](/bestiaire/anatheme).  
 - Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
