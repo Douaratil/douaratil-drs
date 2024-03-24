@@ -29,6 +29,9 @@ Visites:
 
 **Bestiaire : illustrations**   
 - Changement des illustrations de l'[archimage](/bestiaire/archimage).  
+- Changement des illustrations de l'[assassin](/bestiaire/assassin).  
+- Changement des illustrations de l'[assoiffeur gris](/bestiaire/assoiffeur-gris).  
+- Changement des illustrations de l'[azer](/bestiaire/azer).  
 - Changement des illustrations du [nundu](/bestiaire/nundu).  
 
 Bon jeu.     

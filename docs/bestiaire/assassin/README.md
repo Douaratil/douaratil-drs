@@ -35,7 +35,7 @@ languages:
 ---
 ## Assassin
 &nbsp;
-[![Assassin](https://www.douaratil.fr/illustrations/humanoide/assassinm.png)](https://www.douaratil.fr/illustrations/humanoide/assassin.jpg)  
+[![Assassin](https://www.douaratil.fr/illustrations/humanoide/assassin300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/assassin.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14         
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

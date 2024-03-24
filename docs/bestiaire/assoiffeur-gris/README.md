@@ -39,7 +39,7 @@ environments:
 ---
 ## Assoiffeur gris
 &nbsp;
-[![Assoiffeur gris](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgrism.png)](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgris.jpg)   
+[![Assoiffeur gris](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgris300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/assoiffeurgris.jpeg)   
 **<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 18, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  
