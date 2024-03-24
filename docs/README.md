@@ -20,29 +20,21 @@ Visites:
 ## Mise à jour 202
 ![Mise à jour 202](https://www.douaratil.fr/illustrations/site/maj202.jpeg)  
 
-**Archétypes :**   
-- Ajout du [Singhara](/archetypes/singhara).  
-
 **Bestiaire :**   
 
 - Changement de la Shukkushe-Ikhushe en [luxure](/bestiaire/luxure).  
-- Ajout du [fléau](/bestiaire/fleau).  
 - Ajout de l'[anathème](/bestiaire/anatheme).  
+- Ajout du [fléau](/bestiaire/fleau).  
 - Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
 
 **Bestiaire : illustrations**   
+- Changement des illustrations de l'[archimage](/bestiaire/archimage).  
 - Changement des illustrations du [nundu](/bestiaire/nundu).  
-
-
-**Grimoire :**   
-- Ajout du sort [invoquer une ombre assassine](/grimoire/invoquer-une-ombre-assassine).  
-
-
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 22 mars 2024_
+_le 23 mars 2024_
 §§§
 
 ## Mise à jour 201

@@ -21,7 +21,7 @@ ac:
   armorType: "custom"
   value: "24 (armure naturelle)"
 skills:
-  - name: "athlétisme"
+  - name: "athletisme"
   - name: "discretion"
   - name: "perception"
   - name: "supercherie"
@@ -44,7 +44,8 @@ damageTypeImmunities:
   - "c-p-t-non-magique"
 languages:
   - "toutes"
-telepathy: 36
+telepathy: 36   
+
 
 ---
 ## Anathème
@@ -73,17 +74,19 @@ _**Armes magiques**_. Les attaques d'arme du l'Anathème sont magiques.
 _**Attaques multiples**_. L'Anathème porte deux attaques d'_épée_, et deux d'_ailes_ .
 
 _**Epée**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 7d6+4 dégâts perforants.
+_Touché_ : 7d6+7 dégâts perforants.
 
 _**Aile**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 4,50 m, une cible.  
-_Touché_ : 4d6+4 dégâts contondants et la cible doit réussir un jet de sauvegarde de Force DD 17, sans quoi elle est jetée _à terre_.
+_Touché_ : 4d6+7 dégâts contondants et la cible doit réussir un jet de sauvegarde de Force DD 16, sans quoi elle est jetée _à terre_.
 
 
 ## Actions légendaires
 L'Anathème peut faire 3 actions légendaires, parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, l'Anathème récupère les actions légendaires dépensées.
 
-_**Attaque**_. L'Anathème fait une attaque.
+_**Attaque**_. L'Anathème fait une attaque.   
 
-_**Déplacement**_. L'Anathème peut se déplacer en volant de la moitié de sa vitesse sans provoquer d'attaque d'opportunité.
+_**Immortel**_. L'Anathème peut régénérer 7d6 point d'action ou annuler un effet ou une blessure critique.   
 
-_**Linceul (2 actions)**_. Il émane du corps de l'Anathème un voile de ténèbres magiques sur un rayon de 9 mètres. Ces ténèbres persistent jusqu'au début du prochain tour de Ténêbral.
+_**Déplacement**_. L'Anathème peut se déplacer en volant de la moitié de sa vitesse sans provoquer d'attaque d'opportunité.   
+
+_**Destructuration mentale (2 actions)**_. Il émane du corps de l'Anathème une malédiction sur un rayon de 9 mètres. Toute adversaire de l'Anathème dans ce rayion doit réussir un jet de sauvegarde de Sagesse DD22 ou devoir refaire une test de [Santé mentale (SAM)](/sante-mentale).    
