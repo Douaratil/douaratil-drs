@@ -17,6 +17,33 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 203
+![Mise à jour 203](https://www.douaratil.fr/illustrations/site/maj203.jpeg)  
+
+**Règles optionnelles:**    
+La [réputation](/reputation) :     
+Les [traits de caractère](/traits-de-caractere)    
+
+**Bestiaire :**   
+
+- Changement de la Shukkushe-Ikhushe en [luxure](/bestiaire/luxure).  
+- Ajout de l'[anathème](/bestiaire/anatheme).  
+- Ajout du [fléau](/bestiaire/fleau).  
+- Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[archimage](/bestiaire/archimage).  
+- Changement des illustrations de l'[assassin](/bestiaire/assassin).  
+- Changement des illustrations de l'[assoiffeur gris](/bestiaire/assoiffeur-gris).  
+- Changement des illustrations de l'[azer](/bestiaire/azer).  
+- Changement des illustrations du [nundu](/bestiaire/nundu).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 29 mars 2024_
+§§§
+
 ## Mise à jour 202
 ![Mise à jour 202](https://www.douaratil.fr/illustrations/site/maj202.jpeg)  
 
