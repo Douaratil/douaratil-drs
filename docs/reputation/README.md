@@ -7,7 +7,7 @@ title: Réputation
 La réputation est une règle optionnelle qui permettra de mieux appréhender les relations et les réactions entre joueurs et PNJ. Il s’agit d’une règle qui permet de faciliter ou au contraire de rendre plus difficile la réalisation d’actions.
 
 ## Tableau des réputations
-|VD|Test de défense|e|
+|Réputation|Valeur| Description|
 |:-:|:-:|:-:|
 |Adoré |25 ou plus| [Avantage](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests sociaux, [Désavantage](/utiliser-les-caracteristiques/#avantage-et-desavantage)  aux tests agressifs.|
 |Confiant |17 à 24| Interprétation positive, facilitations possibles|
