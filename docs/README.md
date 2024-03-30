@@ -30,6 +30,7 @@ Visites:
 
 **Bestiaire : illustrations**   
 - Changement des illustrations du [babouin](/bestiaire/babouin).  
+- Changement des illustrations du [croccanonda](/bestiaire/croccanonda).  
 - Changement des illustrations de la [mante](/bestiaire/mante).  
 
 Bon jeu.     

@@ -32,7 +32,7 @@ environments:
 ---
 ## Croccannonda
 &nbsp;
-[![Croccannonda](https://www.douaratil.fr/illustrations/bete/croccannondam.png)](https://www.douaratil.fr/illustrations/bete/croccannonda.jpg)  
+[![Croccannonda](https://www.douaratil.fr/illustrations/bete/croccanonda300.jpeg)](https://www.douaratil.fr/illustrations/bete/croccanonda.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
