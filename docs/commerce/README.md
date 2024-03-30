@@ -3,7 +3,9 @@ title: Commerce (Règles optionnelles)
 ---
 # Le commerce :  
 **Un personnage ne peut avoir qu'un domaine. Il peut ensuite gérer différentes activités économiques ou de gestion de colonie selon la moyenne ses bonus de caractéristiques arrondi à l'entier inférieur. Sagesse et Charisme pour la gestion de colonie et Intelligence et Charisme pour le commerce.**  
-Le joueur va pouvoir s’il le souhaite, en plus de son patrimoine investir dans des affaires commerciales. L’empire commercial du joueur va être définit par ses comptoirs qui vont générer des revenus. Ses revenus sont soumis à des aléas commerciaux et des risques pris par le joueur. Les risques dépendent des marchandises échangées.
+Le joueur va pouvoir s’il le souhaite, en plus de son patrimoine investir dans des affaires commerciales. L’empire commercial du joueur va être définit par ses comptoirs qui vont générer des revenus. Ses revenus sont soumis à des aléas commerciaux et des risques pris par le joueur. Les risques dépendent des marchandises échangées.  
+
+[![Commerce](https://www.douaratil.fr/illustrations/regles/commerce300.jpeg)](https://www.douaratil.fr/illustrations/regles/commerce.jpeg)    
 
 ## Les phases de jeu
 La gestion de la phase commerciale se déroule au moment des intermèdes.  
@@ -13,9 +15,9 @@ La gestion de la phase commerciale se déroule au moment des intermèdes.
 - Phase 2 : Investissement (permet de développer un comptoir et ainsi de générer de nouveau des revenus)
 
 ## Phase préparatoire
-Il s'agit de la phase la plus importante car elle détermine la nature de la transaction commerciale. Le joueur décide de la somme investie et dans quelles types de marchandises.
+Il s'agit de la phase la plus importante car elle détermine la nature de la transaction commerciale. Le joueur décide de la somme investie et dans quelles types de marchandises.    
 
-### Phase préparatoire 1 : choix de la somme à investir
+### Phase préparatoire 1 : choix de la somme à investir
 Premièrement, la somme maximum dépend du type de comptoir développé et acquis par le joueur. Pour investir des sommes plus conséquentes et générer plus de bénéfice, les comptoirs devront être amélioré.  
 ### Phase préparatoire 2 : Choix du type de marchandise
 Il faut considérer que le choix des marchandises n'est pas un problème en soi mais nécessite une transaction avec les grossistes. Cette transaction est réussi avec un test de persuasion. La difficulté du test varie selon le type de marchandise mais aussi selon le contexte sécuritaire de la région du comptoir.  
@@ -43,6 +45,8 @@ Les commerces les plus lucratifs sont rarement les plus légaux. Ainsi, suivant 
 
 #### Bonus de Réputation
 Un comptoir rayonne dans le milieu commercial. Ainsi, une réputation s’établit progressivement. Au fur et à mesure que le comptoir évolue, le personnage joueur obtient un bonus de persuasion pour négocier au nom de son comptoir. Le bonus évolue avec le niveau d'avancement du comptoir.   
+
+[![Commerce](https://www.douaratil.fr/illustrations/regles/commerce2300.jpeg)](https://www.douaratil.fr/illustrations/regles/commerce2.jpeg)    
 
 ### Gestion des évènements
 Une fois que les actions commerciales ont été décidées et sont lancées, les convois de marchandises sont soumis à des aléas tirés sur la table des évènements, modifié par le **modificateur de risques liés** et le **modificateur de charisme** du personnage.   

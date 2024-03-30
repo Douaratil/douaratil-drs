@@ -21,27 +21,21 @@ Visites:
 ![Mise à jour 203](https://www.douaratil.fr/illustrations/site/maj203.jpeg)  
 
 **Règles optionnelles:**    
-La [réputation](/reputation) :     
-Les [traits de caractère](/traits-de-caractere)    
+- La [réputation](/reputation) : La réputation est une règle optionnelle qui permettra de mieux appréhender les relations et les réactions entre joueurs et PNJ. Il s’agit d’une règle qui permet de faciliter ou au contraire de rendre plus difficile la réalisation d’actions.      
 
-**Bestiaire :**   
+- Les [traits de caractère](/traits-de-caractere) : Cette règle reste aussi optionnelle. Elle permet cependant de cadrer la façon d’incarner le rôle du personnage par le joueur. Toutefois, la décision finale appartient tout de même au joueur. Il ne s’agit pas diriger la façon de jouer mais plutôt d’indiquer les atermoiements intérieurs du personnage: ce qu’il ressent.   
 
-- Changement de la Shukkushe-Ikhushe en [luxure](/bestiaire/luxure).  
-- Ajout de l'[anathème](/bestiaire/anatheme).  
-- Ajout du [fléau](/bestiaire/fleau).  
-- Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
+**Règles : illustrations**   
+- Ajout des illustrations dans la section [commerce](/commerce).  
 
 **Bestiaire : illustrations**   
-- Changement des illustrations de l'[archimage](/bestiaire/archimage).  
-- Changement des illustrations de l'[assassin](/bestiaire/assassin).  
-- Changement des illustrations de l'[assoiffeur gris](/bestiaire/assoiffeur-gris).  
-- Changement des illustrations de l'[azer](/bestiaire/azer).  
-- Changement des illustrations du [nundu](/bestiaire/nundu).  
+- Changement des illustrations du [babouin](/bestiaire/babouin).  
+- Changement des illustrations de la [mante](/bestiaire/mante).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 29 mars 2024_
+_le 30 mars 2024_
 §§§
 
 ## Mise à jour 202

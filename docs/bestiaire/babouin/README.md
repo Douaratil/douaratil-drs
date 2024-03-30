@@ -27,7 +27,7 @@ environments:
 ---
 ## Babouin
 &nbsp;
-[![Babouin](https://www.douaratil.fr/illustrations/bete/babouinm.png)](https://www.douaratil.fr/illustrations/bete/babouin.jpg)  
+[![Babouin](https://www.douaratil.fr/illustrations/bete/babouin300.jpeg)](https://www.douaratil.fr/illustrations/bete/babouin.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 11      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -36,3 +36,5 @@ _**Tactique de groupe**_. Le babouin obtient un [_avantage_](/utiliser-les-carac
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +1 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts perforants.
+
+[![Babouin](https://www.douaratil.fr/illustrations/bete/babouin2300.jpeg)](https://www.douaratil.fr/illustrations/bete/babouin2.jpeg)  

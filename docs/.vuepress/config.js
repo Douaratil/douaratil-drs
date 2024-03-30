@@ -610,11 +610,6 @@ module.exports = {
             icon: 'mdi-castle',
             children: [
               {
-                title: "Gestion de l'honneur",
-                icon: 'mdi-crown',
-                path: '/passion-honneur-et-interactions-sociales/'
-              },
-              {
                 title: "Gestion de la famille et des biens",
                 icon: 'mdi-fireplace',
                 path: '/intermedes/'
@@ -628,11 +623,6 @@ module.exports = {
                 title: "Développer une colonie",
                 icon: 'mdi-chess-rook',
                 path: '/colonie/'
-              },
-              {
-                title: "L'expérience",
-                icon: 'mdi-upload',
-                path: '/experience/'
               }
             ]
           },
@@ -642,6 +632,11 @@ module.exports = {
             path: '/aventures/'
           },
           {
+            title: "L'expérience",
+            icon: 'mdi-upload',
+            path: '/experience/'
+           },
+          {
             title: "Les batailles",
             icon: 'mdi-shield',
             path: '/batailles/'
@@ -650,6 +645,11 @@ module.exports = {
             title: "Le commerce",
             icon: 'mdi-sack',
             path: '/commerce'
+          },
+          {
+            title: "La gestion de l'honneur",
+            icon: 'mdi-crown',
+            path: '/passion-honneur-et-interactions-sociales/'
           },
           {
             title: "Les guildes",
@@ -665,6 +665,16 @@ module.exports = {
             title: "Les plans",
             icon: 'mdi-soundcloud',
             path: '/les-plans/'
+          },
+          {
+            title: "La réputation",
+            icon: 'mdi-account-switch',
+            path: '/reputation/'
+          },
+          {
+            title: "Les traits de caractère",
+            icon: 'mdi-head-heart',
+            path: '/traits-de-caractere/'
           },
           {
             title: "Les plantes",
