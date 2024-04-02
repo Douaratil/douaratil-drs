@@ -25,7 +25,7 @@ languages:
 ---
 ## Berserker
 &nbsp;
-[![Berserker](https://www.douaratil.fr/illustrations/humanoide/berserkerm.png)](https://www.douaratil.fr/illustrations/humanoide/berserker.jpg)  
+[![Berserker](https://www.douaratil.fr/illustrations/humanoide/berserker300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/berserker.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

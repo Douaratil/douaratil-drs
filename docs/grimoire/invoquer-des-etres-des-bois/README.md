@@ -12,7 +12,7 @@ components:
   somatic: true
   material: true
   materials: "une baie de houx par créature invoquée"
-ritual: false
+ritual: true
 classes:
     - Foi
   

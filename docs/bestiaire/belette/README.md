@@ -32,7 +32,7 @@ environments:
 ---
 ## Belette
 &nbsp;
-[![Belette](https://www.douaratil.fr/illustrations/bete/belettem.png)](https://www.douaratil.fr/illustrations/bete/belette.jpg)  
+[![Belette](https://www.douaratil.fr/illustrations/bete/belette300.jpeg)](https://www.douaratil.fr/illustrations/bete/belette.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

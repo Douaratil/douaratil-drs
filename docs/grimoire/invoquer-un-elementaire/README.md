@@ -12,7 +12,7 @@ components:
   somatic: true
   material: true
   materials: "encens à brûler pour l'air, argile molle pour la terre, soufre et phosphore pour le feu, ou sable et eau pour l'eau"
-ritual: false
+ritual: true
 classes:
     - Foi
     - Magie

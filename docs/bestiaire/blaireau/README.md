@@ -28,7 +28,7 @@ environments:
 ---
 ## Blaireau
 &nbsp;
-[![Blaireau](https://www.douaratil.fr/illustrations/bete/blaireaum.png)](https://www.douaratil.fr/illustrations/bete/blaireau.jpg)  
+[![Blaireau](https://www.douaratil.fr/illustrations/bete/blaireau300.jpeg)](https://www.douaratil.fr/illustrations/bete/blaireau.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12  
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

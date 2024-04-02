@@ -12,7 +12,7 @@ components:
   somatic: true
   material: true
   materials: "De la terre d'un cimetière connu pour être hanté"
-ritual: false
+ritual: true
 classes:
     - Magie
 ---

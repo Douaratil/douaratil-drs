@@ -1,5 +1,5 @@
 ---
-title: "Debu"
+title: "Lémure"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -33,14 +33,14 @@ languages:
   - "comprend l'infernal mais ne peut pas parler"
 
 ---
-## Debu
+## Lémure
 &nbsp;
-[![Debu](https://www.douaratil.fr/illustrations/fielon/debum.png)](https://www.douaratil.fr/illustrations/fielon/debu.jpg)  
+[![Lémure](https://www.douaratil.fr/illustrations/fielon/lemure300.jpeg)](https://www.douaratil.fr/illustrations/fielon/lemure.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 16, réussite 3, échec 3d6.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Reconstitution infernale**_. Un Debu qui meurt dans les Neuf Enfers revient à la vie en 1d10 jours avec tous ses points de vie, à moins qu'il ne soit tué par une créature d'alignement bon qui bénéficiait d'un sort de [_bénédiction_](/grimoire/benediction/) au moment de sa mort ou si de l'eau bénite a été aspergée sur son cadavre.
+_**Reconstitution infernale**_. Un Lémure qui meurt dans les Neuf Enfers revient à la vie en 1d10 jours avec tous ses points d'action, à moins qu'il ne soit tué par une créature d'alignement bon qui bénéficiait d'un sort de [_bénédiction_](/grimoire/benediction/) au moment de sa mort ou si de l'eau bénite a été aspergée sur son cadavre.
 
 _**Vue du diable**_. Les ténèbres magiques ne bloquent pas la vision dans le noir du lémure.
 

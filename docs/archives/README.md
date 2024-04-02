@@ -9,6 +9,123 @@ toc: false
 
 <v-col cols="12" md="6">
 
+## Mise à jour 203
+![Mise à jour 203](https://www.douaratil.fr/illustrations/site/maj203.jpeg)  
+
+**Règles optionnelles:**    
+- La [réputation](/reputation) : La réputation est une règle optionnelle qui permettra de mieux appréhender les relations et les réactions entre joueurs et PNJ. Il s’agit d’une règle qui permet de faciliter ou au contraire de rendre plus difficile la réalisation d’actions.      
+
+- Les [traits de caractère](/traits-de-caractere) : Cette règle reste aussi optionnelle. Elle permet cependant de cadrer la façon d’incarner le rôle du personnage par le joueur. Toutefois, la décision finale appartient tout de même au joueur. Il ne s’agit pas diriger la façon de jouer mais plutôt d’indiquer les atermoiements intérieurs du personnage: ce qu’il ressent.   
+
+**Règles : illustrations**   
+- Ajout des illustrations dans la section [commerce](/commerce).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [babouin](/bestiaire/babouin).  
+- Changement des illustrations du [croccanonda](/bestiaire/croccanonda).  
+- Changement des illustrations de la [mante](/bestiaire/mante).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 30 mars 2024_
+§§§
+
+## Mise à jour 202
+![Mise à jour 202](https://www.douaratil.fr/illustrations/site/maj202.jpeg)  
+
+**Bestiaire :**   
+
+- Changement de la Shukkushe-Ikhushe en [luxure](/bestiaire/luxure).  
+- Ajout de l'[anathème](/bestiaire/anatheme).  
+- Ajout du [fléau](/bestiaire/fleau).  
+- Ajout de l'[ombre des sables](/bestiaire/ombre-des-sables).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[archimage](/bestiaire/archimage).  
+- Changement des illustrations de l'[assassin](/bestiaire/assassin).  
+- Changement des illustrations de l'[assoiffeur gris](/bestiaire/assoiffeur-gris).  
+- Changement des illustrations de l'[azer](/bestiaire/azer).  
+- Changement des illustrations du [nundu](/bestiaire/nundu).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 24 mars 2024_
+§§§
+
+## Mise à jour 201
+![Mise à jour 201](https://www.douaratil.fr/illustrations/site/maj201.jpeg)  
+
+**Archétypes :**   
+- Ajout du [Singhara](/archetypes/singhara).  
+
+**Bestiaire :**   
+- Changement de l'Akashakhal en [Malhor](/bestiaire/malhor).  
+- Changement de l'akau-keshake en [Ichorolh](/bestiaire/ichorolh).  
+- Changement de l'ardedab en [Torment](/bestiaire/torment).  
+- Ajout de l'[ombre assassine](/bestiaire/ombre-assassine).  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[âme en peine](/bestiaire/ame-en-peine).  
+- Changement des illustrations de l'[anubien](/bestiaire/anubien).   
+- Changement des illustrations du [foragh](/bestiaire/foragh).  
+- Changement des illustrations du [guerrier Singhara](/bestiaire/guerrier-singhara).  
+- Changement des illustrations du [guerrier Singhara d'élite](/bestiaire/guerrier-singhara-elite).  
+- Changement des illustrations de l'[osgorth](/bestiaire/osgorth).  
+- Changement des illustrations du [sasquatch](/bestiaire/sasquatch).  
+- Changement des illustrations du [tormogrundth](/bestiaire/tormogrundth).  
+
+**Grimoire :**   
+- Ajout du sort [invoquer une ombre assassine](/grimoire/invoquer-une-ombre-assassine).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 mars 2024_
+§§§
+
+## Mise à jour 200
+![Mise à jour 200](https://www.douaratil.fr/illustrations/site/maj200.jpeg)  
+
+**Archétypes : illustrations**   
+- Changement des illustrations du [Tosuzenshi](/archetypes/totsuzenshi).  
+
+**Bestiaire :**   
+- Ajout de la [Celeste](/bestiaire/celeste).  
+- Ajout du [Déva](/bestiaire/deva).  
+- Ajout de la [Lunaire](/bestiaire/lunaire).  
+- Ajout du [Planétaire](/bestiaire/planetaire).  
+- Ajout du [Solaire](/bestiaire/solaire).  
+- Changement d'Ashkam en [Ténêbral](/bestiaire/tenebral).  
+- Ajout du [lion noir](/bestiaire/lion-noir).  
+
+
+**Bestiaire : illustrations**   
+- Changement des illustrations de l'[aigle](/bestiaire/aigle).  
+- Changement des illustrations de l'[Acolyte du cercle de la nuit](/bestiaire/acolyte-du-cercle-de-la-nuit).  
+- Changement des illustrations de l'[aligosaure](/bestiaire/aligosaure).  
+- Changement des illustrations de l'[araignée](/bestiaire/araignee).  
+- Changement des illustrations de l'[inéxorable](/bestiaire/inexorable).  
+- Changement des illustrations de l'[inéxorable supérieur](/bestiaire/inexorable-superieur).  
+- Changement des illustrations du [lion](/bestiaire/lion).  
+- Changement des illustrations du [loup](/bestiaire/loup).  
+- Changement des illustrations du [loup des monts du Menezlatar](/bestiaire/loup-des-monts-du-menezlatar). 
+- Changement des illustrations du [loup des plaines de Thyria](/bestiaire/loup-des-plaines-de-thyria). 
+- Changement des illustrations du [loup sanguinaire](/bestiaire/loup-sanguinaire). 
+- Changement des illustrations de l'[ours brun](/bestiaire/ours-brun).  
+- Changement des illustrations de l'[ours polaire](/bestiaire/ours-polaire).  
+- Changement des illustrations de l'[ours noir](/bestiaire/ours-noir).  
+- Changement des illustrations de l'[ours charognard](/bestiaire/ours-charognard).  
+- Changement des illustrations du [tigre](/bestiaire/tigre). 
+- Changement des illustrations du [tigre de dents de sabre](/bestiaire/tigre-a-dents-de-sabre). 
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 14 mars 2024_
+§§§
+
 ## Mise à jour 199
 ![Mise à jour 199](https://www.douaratil.fr/illustrations/site/maj199.jpeg)  
 

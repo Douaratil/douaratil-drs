@@ -25,7 +25,7 @@ languages:
 ---
 ## Bandit
 &nbsp;
-[![Bandit](https://www.douaratil.fr/illustrations/humanoide/banditm.png)](https://www.douaratil.fr/illustrations/humanoide/bandit.jpg)  
+[![Bandit](https://www.douaratil.fr/illustrations/humanoide/bandit300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/bandit.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## Actions

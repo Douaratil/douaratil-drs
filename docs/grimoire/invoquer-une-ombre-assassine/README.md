@@ -12,7 +12,7 @@ components:
   somatic: true
   material: true
   materials: "une obsidienne noire de 500po minimum"
-ritual: false
+ritual: true
 classes:
     - Magie
 ---
