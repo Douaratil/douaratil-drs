@@ -17,6 +17,38 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 205
+![Mise à jour 205](https://www.douaratil.fr/illustrations/site/maj204.jpeg)  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [capitaine bandit](/bestiaire/capitaine-bandit).  
+- Changement des illustrations du [chacal](/bestiaire/chacal).  
+- Changement des illustrations du [chameau](/bestiaire/chameau).
+- Changement des illustrations du [charognard des forêts](/bestiaire/charognard-des-forets).
+- Changement des illustrations du [chat](/bestiaire/chat).
+- Changement des illustrations du [chacal](/bestiaire/chacal).  
+- Changement des illustrations de la [chauve-souris](/bestiaire/chauve-souris).
+- Changement des illustrations de la [chauve-souris géante](/bestiaire/chauve-souris-geante). 
+- Changement des illustrations du [cheval de guerre](/bestiaire/cheval-de-guerre).               
+- Changement des illustrations du [cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd).
+- Changement des illustrations du [cheval de selle](/bestiaire/cheval-de-selle).
+- Changement des illustrations du [cheval de trait](/bestiaire/cheval-de-trait).
+- Changement des illustrations de la [chèvre](/bestiaire/chevre).
+- Changement des illustrations du [chevreuil](/bestiaire/chevreuil).              
+- Changement des illustrations de la [chouette](/bestiaire/chouette).
+- Changement des illustrations du [Cigfranhud](/bestiaire/cigfranhud).
+- Changement des illustrations du [corbeau](/bestiaire/corbeau).           
+- Changement des illustrations du [crabass](/bestiaire/crabass).
+- Changement des illustrations du [crabe](/bestiaire/crabe).
+- Changement des illustrations du [crocodile](/bestiaire/crocodile).    
+- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).         
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 5 avril 2024_
+§§§
+
 ## Mise à jour 204
 ![Mise à jour 204](https://www.douaratil.fr/illustrations/site/maj204.jpeg)  
 En vrac, bonnes fêtes de Pâques, bon début de printemps, bons poissons d'avril et bon anniversaire Denise.
