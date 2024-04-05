@@ -21,12 +21,12 @@ senses:
 languages:
   - ""
 environments:
-  - Désert chaud
-
+  - Désert chaud   
+  
 ---
 ## Chameau
 &nbsp;
-[![Chameau](https://www.douaratil.fr/illustrations/bete/chameaum.png)](https://www.douaratil.fr/illustrations/bete/chameau.jpg)  
+[![Chameau](https://www.douaratil.fr/illustrations/bete/chameau300.jpeg)](https://www.douaratil.fr/illustrations/bete/chameau.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## Actions

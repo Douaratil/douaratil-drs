@@ -24,7 +24,7 @@ languages:
 ---
 ## Cheval de guerre lourd
 &nbsp;
-[![Cheval de guerre lourd](https://www.douaratil.fr/illustrations/bete/chevaldeguerrelourdm.png)](https://www.douaratil.fr/illustrations/bete/chevaldeguerrelourd.jpg)  
+[![Cheval de guerre lourd](https://www.douaratil.fr/illustrations/bete/chevaldeguerrelourd300.jpeg)](https://www.douaratil.fr/illustrations/bete/chevaldeguerrelourd.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -31,7 +31,7 @@ dungeonTypes:
 ---
 ## Chauve-souris
 &nbsp;
-[![Chauve-souris](https://www.douaratil.fr/illustrations/bete/chauvesourism.png)](https://www.douaratil.fr/illustrations/bete/chauvesouris.jpg)  
+[![Chauve-souris](https://www.douaratil.fr/illustrations/bete/chauvesouris300.jpeg)](https://www.douaratil.fr/illustrations/bete/chauvesouris.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 10     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

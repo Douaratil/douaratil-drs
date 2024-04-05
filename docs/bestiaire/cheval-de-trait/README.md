@@ -27,7 +27,7 @@ environments:
 ---
 ## Cheval de trait
 &nbsp;
-[![Cheval de trait](https://www.douaratil.fr/illustrations/bete/chevaldetraitm.png)](https://www.douaratil.fr/illustrations/bete/chevaldetrait.jpg)    
+[![Cheval de trait](https://www.douaratil.fr/illustrations/bete/chevaldetrait300.jpeg)](https://www.douaratil.fr/illustrations/bete/chevaldetrait.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

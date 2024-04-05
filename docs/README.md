@@ -26,7 +26,6 @@ Visites:
 - Changement des illustrations du [chameau](/bestiaire/chameau).
 - Changement des illustrations du [charognard des forêts](/bestiaire/charognard-des-forets).
 - Changement des illustrations du [chat](/bestiaire/chat).
-- Changement des illustrations du [chacal](/bestiaire/chacal).  
 - Changement des illustrations de la [chauve-souris](/bestiaire/chauve-souris).
 - Changement des illustrations de la [chauve-souris géante](/bestiaire/chauve-souris-geante). 
 - Changement des illustrations du [cheval de guerre](/bestiaire/cheval-de-guerre).               

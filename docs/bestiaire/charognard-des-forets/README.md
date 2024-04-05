@@ -28,7 +28,7 @@ environments:
 ---
 ## Charognard des forêts
 &nbsp;
-[![Charognard des forêts](https://www.douaratil.fr/illustrations/bete/charognarddesforetsm.png)](https://www.douaratil.fr/illustrations/bete/charognarddesforets.jpg)  
+[![Charognard des forêts](https://www.douaratil.fr/illustrations/bete/charognarddesforets300.jpeg)](https://www.douaratil.fr/illustrations/bete/charognarddesforets.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
