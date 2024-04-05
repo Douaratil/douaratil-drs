@@ -48,8 +48,10 @@ Visites:
 - Ajout du sort [augmentation de réputation](/grimoire/augmentation-de-reputation).  
 - Ajout du sort [changement mineur de caractère](/grimoire/changement-mineur-de-caractere).       
 - Ajout du sort [changement de caractère](/grimoire/changement-de-caractere).       
-- Ajout du sort [changement radical de caractère](/grimoire/changement-radical-de-caractere).       
+- Ajout du sort [changement radical de caractère](/grimoire/changement-radical-de-caractere).     
+- Ajout du sort [impopulaire](/grimoire/impopulaire).          
 - Ajout du sort [populaire](/grimoire/populaire).         
+
       
 
 Bon jeu.     
