@@ -32,7 +32,7 @@ languages:
 ---
 ## Capitaine bandit
 &nbsp;
-[![Capitaine bandit](https://www.douaratil.fr/illustrations/humanoide/capitainebanditm.png)](https://www.douaratil.fr/illustrations/humanoide/capitainebandit.jpg) 
+[![Capitaine bandit](https://www.douaratil.fr/illustrations/humanoide/capitainebandit300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/capitainebandit.jpeg) 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Actions

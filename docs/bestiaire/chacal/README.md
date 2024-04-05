@@ -30,7 +30,7 @@ environments:
 ---
 ## Chacal
 &nbsp;
-[![Chacal](https://www.douaratil.fr/illustrations/bete/chacalm.png)](https://www.douaratil.fr/illustrations/bete/chacal.jpg)  
+[![Chacal](https://www.douaratil.fr/illustrations/bete/chacal300.jpeg)](https://www.douaratil.fr/illustrations/bete/chacal.jpeg)  
 **<v-icon>mdi-skull-c
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 11     

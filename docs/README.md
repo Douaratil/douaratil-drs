@@ -18,7 +18,7 @@ Visites:
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
 ## Mise à jour 205
-![Mise à jour 205](https://www.douaratil.fr/illustrations/site/maj204.jpeg)  
+![Mise à jour 205](https://www.douaratil.fr/illustrations/site/maj205.jpeg)  
 
 **Bestiaire : illustrations**   
 - Changement des illustrations du [capitaine bandit](/bestiaire/capitaine-bandit).  
@@ -44,8 +44,6 @@ Visites:
 - Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).  
 
 **Grimoire :**   
-- Ajout du sort [atténuation de réputation](/grimoire/attenuation-de-reputation).       
-- Ajout du sort [augmentation de réputation](/grimoire/augmentation-de-reputation).  
 - Ajout du sort [changement mineur de caractère](/grimoire/changement-mineur-de-caractere).       
 - Ajout du sort [changement de caractère](/grimoire/changement-de-caractere).       
 - Ajout du sort [changement radical de caractère](/grimoire/changement-radical-de-caractere).     
