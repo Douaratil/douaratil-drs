@@ -26,7 +26,7 @@ environments:
 ---
 ## Cheval de selle
 &nbsp;
-[![Cheval de selle](https://www.douaratil.fr/illustrations/bete/chevaldesellem.png)](https://www.douaratil.fr/illustrations/bete/chevaldeselle.jpg)    
+[![Cheval de selle](https://www.douaratil.fr/illustrations/bete/chevaldeselle300.jpeg)](https://www.douaratil.fr/illustrations/bete/chevaldeselle.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

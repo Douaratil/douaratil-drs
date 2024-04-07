@@ -35,7 +35,7 @@ dungeonTypes:
 ---
 ## Crabass
 &nbsp;
-[![Crabass](https://www.douaratil.fr/illustrations/bete/crabassm.png)](https://www.douaratil.fr/illustrations/bete/crabass.jpg)  
+[![Crabass](https://www.douaratil.fr/illustrations/bete/crabass300.jpeg)](https://www.douaratil.fr/illustrations/bete/crabass.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## Capacités

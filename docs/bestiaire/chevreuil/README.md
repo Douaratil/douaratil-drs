@@ -26,7 +26,7 @@ environments:
 ---
 ## Chevreuil
 &nbsp;
-[![Chevreuil](https://www.douaratil.fr/illustrations/bete/chevreuilm.png)](https://www.douaratil.fr/illustrations/bete/chevreuil.jpg)  
+[![Chevreuil](https://www.douaratil.fr/illustrations/bete/chevreuil300.jpeg)](https://www.douaratil.fr/illustrations/bete/chevreuil.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
 ## Actions

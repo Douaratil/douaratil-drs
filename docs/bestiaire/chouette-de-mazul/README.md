@@ -34,7 +34,7 @@ environments:
 ---
 ## Chouette de Mazûl
 &nbsp;
-[![Chouette de Mazûl](https://www.douaratil.fr/illustrations/bete/chouettedemazulm.png)](https://www.douaratil.fr/illustrations/bete/chouettedemazul.jpg)  
+[![Chouette de Mazûl](https://www.douaratil.fr/illustrations/bete/chouettedemazul300.jpeg)](https://www.douaratil.fr/illustrations/bete/chouettedemazul.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

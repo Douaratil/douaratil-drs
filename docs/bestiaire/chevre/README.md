@@ -27,7 +27,7 @@ environments:
 ---
 ## Chèvre
 &nbsp;
-[![Chèvre](https://www.douaratil.fr/illustrations/bete/chevrem.png)](https://www.douaratil.fr/illustrations/bete/chevre.jpg)    
+[![Chèvre](https://www.douaratil.fr/illustrations/bete/chevre300.jpeg)](https://www.douaratil.fr/illustrations/bete/chevre.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

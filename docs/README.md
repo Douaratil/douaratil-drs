@@ -35,18 +35,21 @@ Visites:
 - Changement des illustrations de la [chèvre](/bestiaire/chevre).
 - Changement des illustrations du [chevreuil](/bestiaire/chevreuil).              
 - Changement des illustrations de la [chouette](/bestiaire/chouette).
+- Changement des illustrations de la [chouette de Mâzul](/bestiaire/chouette-de-mazul).
 - Changement des illustrations du [Cigfranhud](/bestiaire/cigfranhud).
 - Changement des illustrations du [corbeau](/bestiaire/corbeau).           
 - Changement des illustrations du [crabass](/bestiaire/crabass).
 - Changement des illustrations du [crabe](/bestiaire/crabe).
-- Changement des illustrations du [crocodile](/bestiaire/crocodile).    
-- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).  
+
+**Bestiaire :**   
+- Ajout de la [chouebelle](/bestiaire/chouebelle).  
 
 **Grimoire :**   
 - Ajout du sort [changement mineur de caractère](/grimoire/changement-mineur-de-caractere).       
 - Ajout du sort [changement de caractère](/grimoire/changement-de-caractere).       
 - Ajout du sort [changement radical de caractère](/grimoire/changement-radical-de-caractere).     
 - Ajout du sort [impopulaire](/grimoire/impopulaire).          
+- Ajout du sort [pacte de la chouebelle](/grimoire/pacte-de-la-chouebelle).          
 - Ajout du sort [populaire](/grimoire/populaire).         
 
       

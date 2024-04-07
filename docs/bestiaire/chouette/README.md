@@ -33,7 +33,7 @@ environments:
 ---
 ## Chouette
 &nbsp;
-[![Chouette](https://www.douaratil.fr/illustrations/bete/chouettem.png)](https://www.douaratil.fr/illustrations/bete/chouette.jpg)  
+[![Chouette](https://www.douaratil.fr/illustrations/bete/chouette300.jpeg)](https://www.douaratil.fr/illustrations/bete/chouette.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

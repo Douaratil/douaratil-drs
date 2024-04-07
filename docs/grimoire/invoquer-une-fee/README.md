@@ -15,6 +15,7 @@ components:
 ritual: true
 classes:
     - Foi
+    - Magie
   
 
 ---

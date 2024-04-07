@@ -31,6 +31,8 @@ environments:
 
 ---
 ## Le Cigfranhud
+&nbsp;
+[![Cigfranhud](https://www.douaratil.fr/illustrations/fee/cigfranhud300.jpeg)](https://www.douaratil.fr/illustrations/fee/cigfranhud.jpeg)  
 §§§ .hero
 *"Au cœur des contrées nordiques, là où les vents murmurent des secrets oubliés, réside le mystérieux Cigfranhud, corbeau blanc de grande envergure, gardien des légendes ancestrales. Ses plumes immaculées dansent avec les aurores boréales, éclairant la nuit de lueur éthérée. Chaque battement d'ailes semble tisser des fils magiques, tissant des épopées enchantées dans l'air glacé.*   
 *Les vieilles sagas racontent que le Cigfranhud est l'animal-fée des temps oubliés, capable de distiller des visions prophétiques à ceux qui le croisent. Ses yeux perçants reflètent les échos d'un passé mythique, et son cri strident résonne comme un appel du destin. Les plus intrépides aventuriers cherchent son ombre élégante, espérant entendre les récits des âges révolus murmurés à travers les plumes de ce messager céleste".*   
