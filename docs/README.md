@@ -23,7 +23,8 @@ C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand cré
 
 **Bestiaire : illustrations**   
 - Changement des illustrations du [crocodile](/bestiaire/crocodile).   
-- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).
+- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).    
+- Changement des illustrations de la [dau](/bestiaire/dau).    
 
 **Bestiaire :**   
 - changement du dabbiub en [aranea](/bestiaire/aranea).  
@@ -41,7 +42,7 @@ C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand cré
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 10 avril 2024_
+_le 11 avril 2024_
 §§§
 
 ## Mise à jour 205

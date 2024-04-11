@@ -1,10 +1,10 @@
 ---
 title: "Dau"
 type: "Fée"
-size: "P"
+size: "M"
 alignment: "Chaotique Neutre"
 challenge: "4"
-customHP: "19"
+customHP: "30"
 abilityScores:
   for: 7
   dex: 17
@@ -36,7 +36,7 @@ environments:
 ---
 ## Dau
 &nbsp;
-[![Dau](https://www.douaratil.fr/illustrations/fee/daum.png)](https://www.douaratil.fr/illustrations/fee/dau.jpg)  
+[![Dau](https://www.douaratil.fr/illustrations/fee/dau300.jpeg)](https://www.douaratil.fr/illustrations/fee/dau.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 20, réussite 3, échec 1d6+2.
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15  

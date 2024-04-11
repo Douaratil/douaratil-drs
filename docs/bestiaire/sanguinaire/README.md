@@ -22,7 +22,9 @@ ac:
   value: "20 (armure naturelle)"
 skills:
   - name: "discretion"
+    isExpert : true
   - name: "perception"
+    isExpert : true
 movement:
   walk: 9
 senses:
@@ -32,7 +34,7 @@ damageTypeResistances:
   - "radiant"
   - "c-p-t-non-magique"
 languages:
-  - "celles qu'il connaissait de son vivant"
+  - "celles qu'elle connaissait de son vivant"
 dungeonTypes:
   - Donjon maçonné
 
@@ -54,6 +56,9 @@ _**Faiblesses des vampires**_. Voici les faiblesses de la sanguinaire :
 
 _**Fuite brumeuse**_. Quand elle tombe à 0 point d'action à l'extérieur de son refuge, à condition qu'il ne soit ni exposé à la lumière du soleil ni immergé dans de l'eau courante, la sanguinaire se transforme en nuage ou en brume (comme décrit dans le trait _Métamorphe_) au lieu de tomber inconscient. Elle est détruite s'elle ne peut pas se transformer.  
 Lorsqu'elle a 0 point d'action sous forme de brume, la sanguinaire ne peut pas reprendre sa forme de humaine et doit atteindre son refuge en 2 heures ou moins sous peine d'être détruite. Une fois dans son refuge, elle peut prendre sa forme humaine. Elle est ensuite [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) tant qu'elle n'a pas récupéré au moins 1 point d'action. Après avoir passé 1 heure dans son refuge avec 0 point d'action, elle récupère 1 point d'action.
+
+_**Incantation innée**_. La caractéristique d'incantation innée de la sanguinaire est le Charisme (DD du jet de sauvegarde contre les sorts 18). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+* **À volonté** :[_dissipation de la magie_](/grimoire/dissipation-de-la-magie/),  [_invisibilité_](/grimoire/invisibilite/), [_ténèbres_](/grimoire/tenebres/).    
 
 _**Métamorphe**_. S'elle n'est pas exposée à la lumière du soleil ou immergé dans l'eau courante, la sanguinaire peut utiliser son action pour se métamorphoser en araignée de taille TP, en brume ou en nuage de taille M ou pour reprendre sa véritable forme. Sous forme d'araignée', la sanguinaire ne peut pas parler. Ses statistiques, à l'exception de sa taille et de sa vitesse, restent les mêmes. Tous les vêtements qu'elle porte se transforment également, ce qui n'est pas le cas du reste de son équipement. Elle reprend sa forme véritable quand elle meurt.  
 Sous forme de brume, lea sanguinaire ne peut plus entreprendre aucune action et ne peut ni parler ni manipuler d'objet. Elle est extrêmement légere, possède une vitesse en vol de 6 mètres, peut effectuer des vols stationnaires, entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. En outre, si de l'air passe au travers d'un interstice, la brume peut faire de même sans devoir s'y faufiler, mais elle ne peut pas traverser l'eau. Elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force, de Dextérité et de Constitution, et elle est immunisée contre tous les dégâts non-magiques, à l'exception de ceux infligés par la lumière du soleil.
