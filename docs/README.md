@@ -36,7 +36,7 @@ C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand cré
 - Ajout du sort [objet conscient](/grimoire/objet-conscient).      
 - Ajout du sort [objet parlant](/grimoire/objet-parlant).      
 - Ajout du sort [variation prophétique](/grimoire/variation-prophetique).       
-- Ajout du sort [vision en songe](/grimoire/vision-en-songe).       
+- Ajout du sort [visite en songe](/grimoire/visite-en-songe).       
 
 Bon jeu.     
 §§§ .text-right

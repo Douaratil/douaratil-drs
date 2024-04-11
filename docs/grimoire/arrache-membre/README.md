@@ -43,7 +43,6 @@ source: "Elric"
 La cible subit 7d6 points d’action en dégâts. Si elle perd plus de la moitié de ses points d'action, elle subit une hémorragie interne qui cause 7 pts de dégâts par rounds, la moitié si elle avait réussi son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).    
 Si la cible perd la totalité de ses points d'action, elle a une partie de son corps arrachée par une force invisible. Le sorcier doit jeter 3D6 non explosif pour savoir quel membre est arraché sur le tableau ci-dessous :    
 
-|Précipitations||
 |3d6 |Membre arraché|
 |:-:|:-|
 |3-4 | La jambe droite|  
