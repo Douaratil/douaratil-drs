@@ -49,7 +49,7 @@ source: "Elric"
 ---
 ## Darthentrhui
 &nbsp;
-[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/darthentrhuim.png)](https://www.douaratil.fr/illustrations/aberration/darthentrhui.jpg)   
+[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/darthentrhui300.jpeg)](https://www.douaratil.fr/illustrations/aberration/darthentrhui.jpeg)   
 **<v-icon>mdi-head-sync</v-icon> Perte de santé mentale (SAM)**: DD 42, réussite 9, échec 4d6+5.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 26   

@@ -32,7 +32,7 @@ environments:
 ---
 ## Crocodile
 &nbsp;
-[![Crocodile](https://www.douaratil.fr/illustrations/bete/crocodilegeantm.png)](https://www.douaratil.fr/illustrations/bete/crocodilegeant.jpg)  
+[![Crocodile](https://www.douaratil.fr/illustrations/bete/crocodilegeant300.jpeg)](https://www.douaratil.fr/illustrations/bete/crocodilegeant.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -10,7 +10,7 @@ range: "variable"
 components:
   verbal: true
   somatic: true
-  material: false
+  material: true
   materials: "Un bol de sang du sorcier et une onyx noire de 1000 po"
 ritual: false
 classes:

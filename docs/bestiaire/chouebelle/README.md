@@ -2,7 +2,7 @@
 title: "Chouebelle"
 type: "Fée"
 size: "TP"
-alignment: "non-alignée"
+alignment: "loyal neutre"
 challenge: "5"
 customHP: "12"
 abilityScores:
@@ -35,7 +35,7 @@ environments:
 &nbsp;
 [![Chouebelle](https://www.douaratil.fr/illustrations/fee/chouebelle300.jpeg)](https://www.douaratil.fr/illustrations/fee/chouebelle.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 
 La Chouebelle est une créature féérique, une petite chouette blanche qui semble émaner une aura de pureté et de mystère. Ses plumes sont d'un blanc éclatant, presque lumineux lorsqu'elles captent la lueur de la lune. Ses grands yeux brillent d'une sagesse ancestrale, reflétant les secrets des bois et des étoiles.
 

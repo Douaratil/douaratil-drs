@@ -17,6 +17,33 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 206
+![Mise à jour 206](https://www.douaratil.fr/illustrations/site/maj206.jpeg)  
+C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand créateur de sorts Elric est de retour avec quelques terribles sortilèges.   
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [crocodile](/bestiaire/crocodile).   
+- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).
+
+**Bestiaire :**   
+- changement du dabbiub en [aranea](/bestiaire/aranea).  
+- Ajout de la [sanguinaire](/bestiaire/sanguinaire).  
+
+**Grimoire :**   
+- Ajout du sort [arrache membre](/grimoire/arrache-membre).     
+- Correction du sort [asphyxie](/grimoire/asphyxie)
+- Ajout du sort [idole](/grimoire/idole).     
+- Ajout du sort [objet conscient](/grimoire/objet-conscient).      
+- Ajout du sort [objet parlant](/grimoire/objet-parlant).      
+- Ajout du sort [variation prophétique](/grimoire/variation-prophetique).       
+- Ajout du sort [vision en songe](/grimoire/vision-en-songe).       
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 10 avril 2024_
+§§§
+
 ## Mise à jour 205
 ![Mise à jour 205](https://www.douaratil.fr/illustrations/site/maj205.jpeg)  
 
@@ -52,12 +79,10 @@ Visites:
 - Ajout du sort [pacte de la chouebelle](/grimoire/pacte-de-la-chouebelle).          
 - Ajout du sort [populaire](/grimoire/populaire).         
 
-      
-
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 5 avril 2024_
+_le 7 avril 2024_
 §§§
 
 ## Mise à jour 204

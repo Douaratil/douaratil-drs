@@ -22,7 +22,7 @@ classes:
 **Enchantement** Le lanceur de sort enchante une plume d'oiseau chanteur. Il a pour cela besoin de 90 po de matériel (encens, bougies...).  
 
 **Incantation** : *Aux confins du temps, là où les étoiles tissent des songes,*  
-*J'invoque l'incantation, un souffle léger dans la nuit.
+*J'invoque l'incantation, un souffle léger dans la nuit.*
 *Je murmure, les yeux clos,*   
 *Les constellations s'éveillent, révélant des destinées insoupçonnées,*   
 *La prémonition danse, un ballet éthéré de lumières divinatoires.*    
