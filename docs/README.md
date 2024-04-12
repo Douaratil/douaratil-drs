@@ -17,9 +17,27 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 207
+![Mise à jour 207](https://www.douaratil.fr/illustrations/site/maj207.jpeg)   
+
+**Bestiaire : illustrations**   
+  - Changement des illustrations du [delfon](/bestiaire/delfon).    
+
+**Bestiaire :**   
+- changement du ddobb en [lancelle](/bestiaire/lancelle).  
+- changement du Diabarbuth en [barbesang](/bestiaire/barbesang).
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 13 avril 2024_
+§§§
+
+
 ## Mise à jour 206
 ![Mise à jour 206](https://www.douaratil.fr/illustrations/site/maj206.jpeg)  
-C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand créateur de sorts Elric est de retour avec quelques terribles sortilèges.   
+C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand créateur de sorts Elric est de retour avec quelques terribles inventions.   
 
 **Bestiaire : illustrations**   
 - Changement des illustrations du [crocodile](/bestiaire/crocodile).   

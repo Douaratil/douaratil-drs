@@ -1,5 +1,5 @@
 ---
-title: "Diabarbuth"
+title: "Barbesang"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -37,9 +37,9 @@ languages:
 telepathy: 36
 
 ---
-## Diabarbuth
+## Barbesang
 &nbsp;
-[![Diabarbuth](https://www.douaratil.fr/illustrations/fielon/diabarbuthm.png)](https://www.douaratil.fr/illustrations/fielon/diabarbuth.jpg)  
+[![Barbesang](https://www.douaratil.fr/illustrations/fielon/barbesang300.jpeg)](https://www.douaratil.fr/illustrations/fielon/barbesang.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 19, réussite 4, échec 3d6+1.
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
@@ -49,6 +49,8 @@ _**Inébranlable**_. Le diable ne peut pas être [_terrorisé_](/gerer-la-sante-
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.  
 
 _**Vue du diable**_. Les ténèbres magiques ne bloquent pas la vision dans le noir du diable.  
+
+[![Barbesang](https://www.douaratil.fr/illustrations/fielon/barbesang2300.jpeg)](https://www.douaratil.fr/illustrations/fielon/barbesang2.jpeg)  
 
 ## Actions
 _**Attaques multiples**_. Le diable effectue deux attaques : une avec sa barbe, l'autre avec sa coutille.  

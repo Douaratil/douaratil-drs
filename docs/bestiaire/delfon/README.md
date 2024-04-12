@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Delfon
 &nbsp;
-[![Delfon](https://www.douaratil.fr/illustrations/bete/delfonm.png)](https://www.douaratil.fr/illustrations/bete/Delfon.jpg)  
+[![Delfon](https://www.douaratil.fr/illustrations/bete/delfon300.jpeg)](https://www.douaratil.fr/illustrations/bete/Delfon.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
