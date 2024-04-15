@@ -1,5 +1,5 @@
 ---
-title: "Diabbuaibe"
+title: "Luneux"
 type: "Fiélon"
 subtype: "Diable"
 size: "G"
@@ -46,23 +46,23 @@ languages:
 telepathy: 36
 
 ---
-## Diabbuaibe
+## Luneux
 &nbsp;
-[![Diabbuaibe](https://www.douaratil.fr/illustrations/fielon/diabbuaibem.png)](https://www.douaratil.fr/illustrations/fielon/diabbuaibe.jpg)  
+[![Luneux](https://www.douaratil.fr/illustrations/fielon/luneux300.jpeg)](https://www.douaratil.fr/illustrations/fielon/lunuex.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 24, réussite 6, échec 3d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un Diabbuaibe est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un luneux est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_entrave planaire_](/grimoire/entrave-planaire/)
 * **3/jour** : [_invisibilité supérieure_](/grimoire/invisibilite-superieure/)
 * **1/jour** : [_mur de glace_](/grimoire/mur-de-glace/)
 
 _**Intangibilité lumineuse**_. Quand il est baigné par la lumière de la lune, le diable est seulement à moitié tangible et se trouve alors immunisé contre toutes les attaques non magiques. Même quand il est touché par des sorts ou des armes magiques, il ne subit que la moitié des dégâts infligés par une source tangible, à l'exception des dégâts de force. L'eau bénite peut affecter le diable de la même manière qu'elle le fait avec les morts-vivants intangibles.
 
-_**Marche sur la lumière**_. Une fois par round, un Diabbuaibe peut se téléporter par magie, avec son équipement, d'un rayon de lumière lunaire jusqu'à un autre qui se trouve dans un rayon de 24 mètres. Ce repositionnement consomme la moitié de sa vitesse.
+_**Marche sur la lumière**_. Une fois par round, un luneux peut se téléporter par magie, avec son équipement, d'un rayon de lumière lunaire jusqu'à un autre qui se trouve dans un rayon de 24 mètres. Ce repositionnement consomme la moitié de sa vitesse.
 
 _**Résistance à la magie**_. Le diable est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -82,4 +82,4 @@ _**Projeter un rayon lunaire**_. _Attaque de sort à distance_ : +7 pour toucher
 _Touché_ : 6d6 dégâts de froid et la cible doit réussir un jet de sauvegarde de Constitution DD 15 ou se trouver _aveuglée_ pendant 4 rounds.
 
 ## Variante : Convocation de diable
-_**Convocation de diable (1/jour)**_. Le diable peut tenter de réaliser une convocation magique. Il a 30 pourcent de chances (5-6 sur 1d6) de convoquer soit 2 [diadebaide](/bestiaire/diadebaide/), soit 1 Diabbuaibe.
+_**Convocation de diable (1/jour)**_. Le diable peut tenter de réaliser une convocation magique. Il a 30 pourcent de chances (5-6 sur 1d6) de convoquer soit 2 [enchaineurs](/bestiaire/enchaineur), soit 1 [luneux](/bestiaire/luneux).

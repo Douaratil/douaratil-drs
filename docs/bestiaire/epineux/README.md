@@ -1,5 +1,5 @@
 ---
-title: "Diabbarbede"
+title: "Epineux"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -43,14 +43,14 @@ languages:
 telepathy: 36
 
 ---
-## Diabbarbede
+## Epineux
 &nbsp;
-[![Diabbarbede](https://www.douaratil.fr/illustrations/fielon/diabbarbedem.png)](https://www.douaratil.fr/illustrations/fielon/diabbarbede.jpg)  
+[![Epineux](https://www.douaratil.fr/illustrations/fielon/epineux300.jpeg)](https://www.douaratil.fr/illustrations/fielon/epineux.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 21, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Peau barbelée**_. Au début de chacun de ses tours, le Diabbarbede inflige 2d6 dégâts perforants aux créatures qui l'empoignent.
+_**Peau barbelée**_. Au début de chacun de ses tours, l'épineux inflige 2d6 dégâts perforants aux créatures qui l'empoignent.
 
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 

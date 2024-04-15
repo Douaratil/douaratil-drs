@@ -25,8 +25,11 @@ Visites:
 
 **Bestiaire :**   
 - changement du ddobb en [lancelle](/bestiaire/lancelle).  
-- changement du Diabarbuth en [barbesang](/bestiaire/barbesang).
-
+- changement du Diabarbuth en [barbesang](/bestiaire/barbesang).     
+- changement du Diabbarbede en [épineux](/bestiaire/epineux).
+- changement du Diabbuaibe en [luneux](/bestiaire/luneux).
+- changement du Diadebaide en [enchaineur](/bestiaire/enchaineur).   
+- Ajout du [Faucheur blanc](/bestiaire/faucheur-blanc).  
 
 Bon jeu.     
 §§§ .text-right

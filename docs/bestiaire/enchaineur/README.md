@@ -1,5 +1,5 @@
 ---
-title: "Diadebaide"
+title: "Enchaîneur"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -37,9 +37,9 @@ languages:
 telepathy: 36
 
 ---
-## Diadebaide
+## Enchaîneur
 &nbsp;
-[![Diadebaide](https://www.douaratil.fr/illustrations/fielon/diadebaidem.png)](https://www.douaratil.fr/illustrations/fielon/diadebaide.jpg)  
+[![Enchaîneur](https://www.douaratil.fr/illustrations/fielon/enchaineur300.jpeg)](https://www.douaratil.fr/illustrations/fielon/enchaineur.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 24, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18   
