@@ -17,6 +17,27 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+
+## Mise à jour 208
+![Mise à jour 208](https://www.douaratil.fr/illustrations/site/maj208.jpeg)   
+
+**Bestiaire : illustrations**   
+  - Changement des illustrations du [delfon](/bestiaire/delfon).    
+
+**Bestiaire :**   
+- changement du diabede en [diancreur](/bestiaire/diancreur).  
+- changement du bouda en [lupaire](/bestiaire/lupaire).  
+- changement du diabdo en [orfèvre](/bestiaire/orfevre).  
+- changement du bodidius en [parchemal](/bestiaire/parchemal).  
+- Ajout de la [tentatiflamme](/bestiaire/tentatiflamme).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 avril 2024_
+§§§
+
 ## Mise à jour 207
 ![Mise à jour 207](https://www.douaratil.fr/illustrations/site/maj207.jpeg)   
 
