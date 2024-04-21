@@ -195,7 +195,7 @@ Investissement commercial maximum: 400 po Le comptoir est à ses débuts. Que ce
  *héroïque: Bataille de Ker-Saozon + 5 PH, *Bataille des rois haut fait légendaire +10**  
 **XP acquis** : 111 957           
 **Points de Magie** :10  
-**Points de Foi** :14        
+**Points de Foi** :16        
 **Points d'honneur** :49     
 **Conseil de Kerzu** 1d6 X 50po/ lune   
 **Titre " Ami de Ker-Saozon"**

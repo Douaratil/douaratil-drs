@@ -26,10 +26,14 @@ Visites:
 
 **Bestiaire :**   
 - changement du diabede en [diancreur](/bestiaire/diancreur).  
+- changement du diabodi en [diamini](/bestiaire/diamini).  
 - changement du bouda en [lupaire](/bestiaire/lupaire).  
 - changement du diabdo en [orfèvre](/bestiaire/orfevre).  
 - changement du bodidius en [parchemal](/bestiaire/parchemal).  
 - Ajout de la [tentatiflamme](/bestiaire/tentatiflamme).  
+
+**PJ :**   
+- Ajout du personnage de Julien [Sakaï Sanechika](/bestiaire/sakai-sanechika).  
 
 
 Bon jeu.     
