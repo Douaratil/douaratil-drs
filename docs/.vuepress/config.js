@@ -361,6 +361,11 @@ module.exports = {
               icon: 'mdi-knife-military',
               path: '/archetypes/nayane',
             },
+            {
+              title: "Otaganha",
+              icon: 'mdi-paw-outline',
+              path: '/archetypes/otaganha',
+            },
           {
               title: "Seibahkami",
               icon: 'mdi-sword',

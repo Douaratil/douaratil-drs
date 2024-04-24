@@ -1,0 +1,107 @@
+---
+title: Otaganha
+---
+# Otaganha
+
+## Évolution du Otaganha
+
+|Niveau|Aptitudes|
+|:-:|:-:|
+|**3**|[Affinité féline](#affinite-feline)|
+|**4**|[Ressource inattendue](#ressource-inattendue)|
+|**6**|[Patte de chat](#patte-de-chat)|
+|**8**|[Transformation félin](#transformation-feline)|
+|**10**|[Bénédiction du guide](#benediction-du-guide)|
+|**11**|[Lame assoiffée](#lame-assoiffee)|
+|**12**|[Chance du guide](#chance-du-guide)|
+|**13**|[Séduction du Guide](#seduction-du-guide)|
+|**14**|[Frappe spirituelle (+2d6)](#frappe-spirituelle)|
+|**15**|[Buveuse de vie](#buveuse-de-vie)|
+|**17**|[Guérison suprême](#guerison-supreme)|
+|**18**|[Langage du Guide](#langage-du-guide)|
+|**19**|[Vison du guide](#vision-du-guide)|
+|**20**|[Véritable Shangharah](#veritable-shangharah)|
+
+## Otaganha
+&nbsp;
+[![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha.jpeg)  
+
+## Aptitudes d'Archétype
+En tant que Otaganha, vous bénéficiez des aptitudes d'Archétype suivantes.
+
+### Maîtrises
+**Armures** : armures légères  
+**Armes** : Bâton, gourdin, javelines, lances, bolas   
+**Outils** : aucun  
+**Jets de sauvegarde** : Sagesse, Charisme  
+**Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Intimidation, Investigation, Médecine, Nature, Religion et Surive  
+**Conditions d'accessibilité**: Être de culture Sooghaï et de sexe féminin  
+**Points de Magie** : L'Otaganah fait partie des voies shamaniques Sooghaï, de ce fait, il développe les points de Foi (PF)  
+
+Dans les diverses cultures Sooghaï, les Otaganahs ont une place à part, ce sont des sages qui sont reconnus par la puissance des félins.  Les Otaganahs de la voie des Armes sont appelés Yenye Nguvu, littéralement Puissante. Les Otaganahs de la voie de l’Ombre sont appelés Paka, littéralement féline. Les Otaganahs de la voie de la Magie sont appelés Unjanja littéralement « Rusée.  
+
+
+### Affinité féline
+**En Sogh : Mshikamano wa paka**  
+Dès le niveau 3, vous avez une affinité avec les félins qui vous procure l'effet semblable au sort [amitié avec les animaux](/grimoire/amitié-avec-les-animaux) mais sans avoir besoin des composantes normalement nécessaire pour ce sort.
+
+### Ressource inattendue
+**En Sogh : Rasilimali isiyotarajiwa**  
+À partir du niveau 4, Second souffle vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + bonus de constitution. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_[_repos long_](/gerer-la-sante-du-personnage/#repos-long)_] avant de l'utiliser de nouveau.   
+
+### Patte de chat
+**En Sogh : Paka paw**  
+À partir du niveau 6, vous avez toujours un avantage quand vous utilisez la compétence [discrétion](/utiliser-les-caracteristiques/#dextérité), deplus vous gagnez une maîtrise de la compétence, si vous la maîtrisez déjà, vous obtenez la double maîtrise.  
+
+### Transformation féline
+**En Sogh :  Mabadiliko ya**  
+Au niveau 8, vous pouvez utiliser une action pour vous connecter à un félin à proximité que vous avez déjà vu. Vous pouvez utiliser cette aptitude deux fois. Vous devez ensuite finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour récupérer les deux utilisations de cette aptitude.  
+Votre niveau d'Otaganha détermine en quel animal vous pouvez vous connecter (voir le tableau des formes sauvages ci-après). Au niveau 8, par exemple, vous pouvez vous connecter à n'importe quel félin qui a un indice de dangerosité égal ou inférieur à 1/4 et qui n'a pas de vitesse de vol ou de nage.  
+
+|Niveau|ID|Exemple|
+|:-:|:-:|-:|
+|8|1/4|panthère|
+|10|1/2|?|
+|12|1|lion, tigre|
+
+Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
+
+### Bénédiction du guide  
+**En Sogh : Goziri N’bo**  
+À partir du niveau 10, quand vous réduisez un adversaire hostile à 0 point d’action, vous gagnez un nombre de points d’action temporaire égal à votre modificateur de Charisme + votre niveau de Shangharah (avec un minimum de 1).  
+
+
+### Lame assoiffée
+**En Sogh : Aguba Irinagu**  
+À partir du niveau 11, à chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte. Si la Shangarah vient de la voie des armes et qu'elle possède déjà une seconde attaque, elle obtient +2 au dégâts en compensation.  
+
+### Chance du guide  
+**En Sogh : Chioma N’bo**  
+À partir du niveau 12, vous pouvez faire appel à votre guide pour qu'il altère le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 2d6 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
+
+### Séduction du Guide  
+**En Sogh : Seduedu N’bo**  
+À partir du niveau 13, vous gagnez la maîtrise des compétences Persuasion et Supercherie. SI vous possédez déjà ces compétences, vous doublez le bonus de Maîtrise.  
+
+### Buveuse de vie
+**En Sogh : Manya N’do**  
+À partir du niveau 15, quand vous frappez une créature avec votre arme , votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de Sagesse (avec un minimum de 1).  
+
+### Guérison suprême  
+**En Sogh : Ogwo Kachai**  
+À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
+
+### Langage du Guide  
+**En Sogh : Asasu N’bo**  
+À partir du niveau 18, vous pouvez lancer le sort communication avec les animaux [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser e de rituel ou dépenser des points de foi.  
+
+### Vision du Guide  
+**En Sogh : Ohuu N’bo**  
+ À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.  
+
+[![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha5.jpeg)  
+
+### Véritable Shangharah
+**En Sogh : Shangharah**  
+Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
