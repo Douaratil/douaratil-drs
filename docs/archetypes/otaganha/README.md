@@ -11,15 +11,14 @@ title: Otaganha
 |**4**|[Ressource inattendue](#ressource-inattendue)|
 |**6**|[Patte de chat](#patte-de-chat)|
 |**8**|[Transformation félin](#transformation-feline)|
-|**10**|[Bénédiction du guide](#benediction-du-guide)|
+|**10**|[Compagnon félin](#compagnon-felin)|
 |**11**|[Lame assoiffée](#lame-assoiffee)|
-|**12**|[Chance du guide](#chance-du-guide)|
-|**13**|[Séduction du Guide](#seduction-du-guide)|
-|**14**|[Frappe spirituelle (+2d6)](#frappe-spirituelle)|
-|**15**|[Buveuse de vie](#buveuse-de-vie)|
+|**12**|[Sept vies](#sept-vies)|
+|**13**|[agilité féline](#agilite-feline)|
+|**15**|[Partage de vie](#partage-de-vie)|
 |**17**|[Guérison suprême](#guerison-supreme)|
-|**18**|[Langage du Guide](#langage-du-guide)|
-|**19**|[Vison du guide](#vision-du-guide)|
+|**18**|[Langage félin](#langage-felin)|
+|**19**|[Vison féline](#vision-feline)|
 |**20**|[Véritable Shangharah](#veritable-shangharah)|
 
 ## Otaganha
@@ -66,39 +65,38 @@ Votre niveau d'Otaganha détermine en quel animal vous pouvez vous connecter (vo
 
 Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
 
-### Bénédiction du guide  
-**En Sogh : Goziri N’bo**  
-À partir du niveau 10, quand vous réduisez un adversaire hostile à 0 point d’action, vous gagnez un nombre de points d’action temporaire égal à votre modificateur de Charisme + votre niveau de Shangharah (avec un minimum de 1).  
-
+### Compagnon félin  
+**En Sogh : Mshirika wa paka**  
+À partir du niveau 10, un puissant félin vient vous accompagner. Il vous est complètement fidèle. Son ID est égal au niveau de l'Otaganha sans pouvoir dépasser 20. L'évolution de l'ID de l'animal influe sur son bonus de maîtrise et ses points d'action. Le calcul sera fait avec le Narrateur en s'appuyant sur le chapitre [Comprendre le profil technique des monstres](/comprendre-le-profil-technique-des-monstres).
 
 ### Lame assoiffée
 **En Sogh : Aguba Irinagu**  
-À partir du niveau 11, à chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte. Si la Shangarah vient de la voie des armes et qu'elle possède déjà une seconde attaque, elle obtient +2 au dégâts en compensation.  
+À partir du niveau 11, à chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte. Si l'Otaganha vient de la voie des armes et qu'elle possède déjà une seconde attaque, elle obtient +2 au dégâts en compensation.  
 
-### Chance du guide  
-**En Sogh : Chioma N’bo**  
-À partir du niveau 12, vous pouvez faire appel à votre guide pour qu'il altère le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 2d6 au résultat. Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
+### septs vies  
+**En Sogh : Maisha saba**  
+À partir du niveau 12, vous pouvez altèrer le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d6 au résultat par point de bonus de Charisme (minimum 1). Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
 Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
-### Séduction du Guide  
+### agilité féline  
 **En Sogh : Seduedu N’bo**  
-À partir du niveau 13, vous gagnez la maîtrise des compétences Persuasion et Supercherie. SI vous possédez déjà ces compétences, vous doublez le bonus de Maîtrise.  
+À partir du niveau 13, vous gagnez la maîtrise des compétences acrobatie et athlétisme. SI vous possédez déjà ces compétences, vous doublez le bonus de Maîtrise.  
 
-### Buveuse de vie
-**En Sogh : Manya N’do**  
-À partir du niveau 15, quand vous frappez une créature avec votre arme , votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de Sagesse (avec un minimum de 1).  
+### Partage de vie
+**En Sogh : Kushiriki maisha**  
+À partir du niveau 15, quand vous recevez des dégâts, vous pouvez décider d'en transférer la moitié sur votre compagnon félin. L'inverse est aussi possible. Par contre, les effets desc oups critiques ne peuvent être transférés, cela ne concerne que la perte des points d'action.  
 
 ### Guérison suprême  
 **En Sogh : Ogwo Kachai**  
 À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
 
-### Langage du Guide  
-**En Sogh : Asasu N’bo**  
-À partir du niveau 18, vous pouvez lancer le sort communication avec les animaux [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser e de rituel ou dépenser des points de foi.  
+### Langage félin  
+**En Sogh : Lugha ya paka**  
+À partir du niveau 18, vous pouvez lancer le sort [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser de rituel ou dépenser des points de foi mais l'effet ne concerne que les félidés.  
 
-### Vision du Guide  
-**En Sogh : Ohuu N’bo**  
- À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales et magiques, jusqu'à une distance de 36 mètres.  
+### Vision féline  
+**En Sogh : Maono ya paka**  
+ À partir du niveau 19,vous pouvez voir normalement dans les ténèbres normales mais pas magiques, jusqu'à une distance de 24 mètres.  
 
 [![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha5.jpeg)  
 

@@ -90,7 +90,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 ### Langage du Guide  
 **En Sogh : Asasu N’bo**  
-À partir du niveau 18, vous pouvez lancer le sort communication avec les animaux [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser e de rituel ou dépenser des points de foi.  
+À partir du niveau 18, vous pouvez lancer le sort [communication avec les animaux](/grimoire/communication-avec-les-animaux)  à volonté, sans utiliser de rituel ou dépenser des points de foi.  
 
 ### Vision du Guide  
 **En Sogh : Ohuu N’bo**  
