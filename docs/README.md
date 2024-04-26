@@ -20,20 +20,27 @@ Visites:
 ## Mise à jour 209
 ![Mise à jour 209](https://www.douaratil.fr/illustrations/site/maj209.jpeg)   
 
-**Archétypes : illustrations**   
+**Archétypes :**   
 - Ajout de l'[Otaganha](/archetypes/otaganha).
 
 **Bestiaire : illustrations**   
-  - Changement des illustrations du [delfon](/bestiaire/delfon).    
+- Changement des illustrations du [charkoth](/bestiaire/charkoth).    
+- Changement des illustrations de l'[eidyde](/bestiaire/eidyde).    
+- Changement des illustrations de l'[élan](/bestiaire/elan).    
+- Changement des illustrations de l'[éléon](/bestiaire/eleon).    
+- Changement des illustrations de l'[éléphant](/bestiaire/elephant).    
 
 **Bestiaire :**   
-- changement du diabede en [diancreur](/bestiaire/diancreur).  
-- Ajout de la [tentatiflamme](/bestiaire/tentatiflamme).  
+- changement du diabordu en [cornu](/bestiaire/cornu).  
+- Ajout du [lynx](/bestiaire/lynx).  
+
+**Règle : illustrations**   
+- ajout d'illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#type-de-blessures-et-rythme-de-guerison).    
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 24 avril 2024_
+_le 26 avril 2024_
 §§§
 
 ## Mise à jour 208

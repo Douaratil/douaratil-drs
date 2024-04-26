@@ -27,7 +27,7 @@ environments:
 ---
 ## Eléon
 &nbsp;
-[![Eléon](https://www.douaratil.fr/illustrations/bete/eleonm.png)](https://www.douaratil.fr/illustrations/bete/eleon.jpg)  
+[![Eléon](https://www.douaratil.fr/illustrations/bete/eleon300.jpeg)](https://www.douaratil.fr/illustrations/bete/eleon.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

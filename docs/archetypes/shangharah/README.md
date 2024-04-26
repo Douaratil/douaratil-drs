@@ -17,7 +17,7 @@ title: Shangharah
 |**13**|[Séduction du Guide](#seduction-du-guide)|
 |**14**|[Frappe spirituelle (+2d6)](#frappe-spirituelle)|
 |**15**|[Buveuse de vie](#buveuse-de-vie)|
-|**17**|[Guérison suprême](#guerison-supreme)|
+|**17**|[Vélocité féline](#velocite-feline)|
 |**18**|[Langage du Guide](#langage-du-guide)|
 |**19**|[Vison du guide](#vision-du-guide)|
 |**20**|[Véritable Shangharah](#veritable-shangharah)|
@@ -82,9 +82,9 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 **En Sogh : Manya N’do**  
 À partir du niveau 15, quand vous frappez une créature avec votre arme , votre cible subit une quantité de dégâts nécrotiques supplémentaires égale à votre modificateur de Sagesse (avec un minimum de 1).  
 
-### Guérison suprême  
-**En Sogh : Ogwo Kachai**  
-À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
+### Vélocité féline  
+**En Sogh : Kasi ya paka**  
+À partir du niveau 17, votre vélocité vous permet de vous déplacer de 6 mètres supplémentaires lors de votre déplacement de base.  
 
 [![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah4.jpeg)  
 

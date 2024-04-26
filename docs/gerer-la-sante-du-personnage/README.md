@@ -21,7 +21,7 @@ Par exemple, un Bhegelm permet à un Dall Dawnser de regagner 8 points d'action 
 Une créature morte ne peut pas regagner de point d'action.
 
 &nbsp;
-[![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage.jpg)
+[![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage.jpeg)
 
 ### Coups critiques
 Un coup critique ne peut être **paré ou esquivé**. Un coup critique est résolu sur la [table des coups critique](/tables-de-degats-et-de-coups-critiques/). Un coup critique peut entraîner une blessure (fracture, hémorragie, brûlure) qualifiées de mineur ou de majeure. Cette blessure est décrite dans la [table des coups critiques](/tables-de-degats-et-de-coups-critiques/). C'est une blessure qui nécessite souvent une intervention pour supprimer des pénalités ou simplement empêcher la mort. Le coup critique intervient quand des dommages sont causés alors que le personnage n’avait plus de points d’action (PA), si le seuil de critique (SC) est dépassé ou si trois 6 sont obtenus dans le test d'attaque. Les combats sont dangereux, les blessures causés par des coups critiques entraînent souvent des cicatrices par exemple (précisé dans la description du coup critique). Elles peuvent mettre plus de temps à se guérir et peuvent entraîner de façon durable des pénalités.   
@@ -41,6 +41,8 @@ Le type de blessure est décrit dans la table de [coup critique](/tables-de-dega
 |déchirement|7 jours|Chaque mouvement est douloureux et insupportable|22|
 |hémorragie|10 jours| Mouvements réduits au minimum ou risque d'ouverture de la plaie avec hémorragie (2d6/rd) (JS CON DD 16)|22|
 |fracture|20 jours|Usage du membre impossible ou risque d'aggravation|28|
+
+[![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage2300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage2.jpeg)
 
 Une personne blessée doit passer un nombre de [_repos long_](/gerer-la-sante-du-personnage/#repos-long) variable suivant le type de blessure grave encaissée avant de pouvoir être guéri. Une fois cette période passée, à chaque [_repos long_](/gerer-la-sante-du-personnage/#repos-long), un JS DD 16 est fait pour chaque blessure grave. Si le test est réussi, un blessure grave est enlevée, laissant seulement le souvenir de sa marque.
 
@@ -121,6 +123,8 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 #### Charmé
 * Une créature [_charmée_](/gerer-la-sante-du-personnage/#charme) se trouve dans l'incapacité d'attaquer l'individu qui l'a charmée ou de le cibler avec une capacité ou un effet magique néfaste.
 * L'individu qui a charmé la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les interactions sociales avec celle-ci.
+
+[![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3.jpeg)
 
 #### Empoigné
 * La vitesse d'une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.

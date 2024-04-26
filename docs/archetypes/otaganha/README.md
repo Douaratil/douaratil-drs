@@ -16,10 +16,9 @@ title: Otaganha
 |**12**|[Sept vies](#sept-vies)|
 |**13**|[agilité féline](#agilite-feline)|
 |**15**|[Partage de vie](#partage-de-vie)|
-|**17**|[Guérison suprême](#guerison-supreme)|
 |**18**|[Langage félin](#langage-felin)|
 |**19**|[Vison féline](#vision-feline)|
-|**20**|[Véritable Shangharah](#veritable-shangharah)|
+|**20**|[Véritable Otaganha](#veritable-otaganha)|
 
 ## Otaganha
 &nbsp;
@@ -32,7 +31,7 @@ En tant que Otaganha, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Armures** : armures légères  
 **Armes** : Bâton, gourdin, javelines, lances, bolas   
 **Outils** : aucun  
-**Jets de sauvegarde** : Sagesse, Charisme  
+**Jets de sauvegarde** : Dextérité, Charisme  
 **Compétences** : choisissez deux compétences parmi les suivantes : Arcanes, Dressage, Intimidation, Investigation, Médecine, Nature, Religion et Surive  
 **Conditions d'accessibilité**: Être de culture Sooghaï et de sexe féminin  
 **Points de Magie** : L'Otaganah fait partie des voies shamaniques Sooghaï, de ce fait, il développe les points de Foi (PF)  
@@ -73,6 +72,8 @@ Cette connexion dure un nombre d'heures équivalent à la moitié de votre nivea
 **En Sogh : Aguba Irinagu**  
 À partir du niveau 11, à chaque fois que vous utilisez l'action attaquer à votre tour, vous pouvez attaquer deux fois au lieu d'une avec votre arme de pacte. Si l'Otaganha vient de la voie des armes et qu'elle possède déjà une seconde attaque, elle obtient +2 au dégâts en compensation.  
 
+[![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha2.jpeg)  
+
 ### septs vies  
 **En Sogh : Maisha saba**  
 À partir du niveau 12, vous pouvez altèrer le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d6 au résultat par point de bonus de Charisme (minimum 1). Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
@@ -86,9 +87,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 **En Sogh : Kushiriki maisha**  
 À partir du niveau 15, quand vous recevez des dégâts, vous pouvez décider d'en transférer la moitié sur votre compagnon félin. L'inverse est aussi possible. Par contre, les effets desc oups critiques ne peuvent être transférés, cela ne concerne que la perte des points d'action.  
 
-### Guérison suprême  
-**En Sogh : Ogwo Kachai**  
-À partir du niveau 17, quand vous utilisez un sort destiné à redonner des points d’action à une personne, au lieu de lancer un ou plusieurs dés, vous utilisez à la place le résultat maximum que vous pouvez obtenir avec chacun de ces dés. Par exemple, au lieu de redonner 2d6 points d’action à une créature, vous lui redonnez automatiquement 12 points d’action.  
+[![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha3.jpeg)  
 
 ### Langage félin  
 **En Sogh : Lugha ya paka**  
@@ -100,6 +99,6 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 [![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha5.jpeg)  
 
-### Véritable Shangharah
-**En Sogh : Shangharah**  
-Au niveau 20, la Shangharah est accomplie et augmente ses caractéristiques de Charisme et de Sagesse de 2 points sans pouvoir dépasser 22.
+### Véritable Otaganha
+**En Sogh : Otaganha**  
+Au niveau 20, l'Otaganha est accomplie et augmente ses caractéristiques de Charisme et de Dextérité de 2 points sans pouvoir dépasser 22.

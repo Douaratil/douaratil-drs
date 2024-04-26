@@ -43,7 +43,7 @@ _**Odorat aiguisé**_. La panthère obtient un [_avantage_](/utiliser-les-caract
 
 ## Actions
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6 dégâts tranchants.
+_Touché_ : 1d6+2 dégâts tranchants.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+2 dégâts perforants.

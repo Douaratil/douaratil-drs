@@ -26,7 +26,7 @@ environments:
 ---
 ## Charkoth
 &nbsp;
-[![Charkoth](https://www.douaratil.fr/illustrations/bete/charkothm.png)](https://www.douaratil.fr/illustrations/bete/charkoth.jpg)  
+[![Charkoth](https://www.douaratil.fr/illustrations/bete/charkoth300.jpeg)](https://www.douaratil.fr/illustrations/bete/charkoth.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## Actions

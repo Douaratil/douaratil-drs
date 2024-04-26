@@ -27,7 +27,7 @@ environments:
 ---
 ## Elan
 &nbsp;
-[![Elan](https://www.douaratil.fr/illustrations/bete/elanm.png)](https://www.douaratil.fr/illustrations/bete/elan.jpg)  
+[![Elan](https://www.douaratil.fr/illustrations/bete/elan300.jpeg)](https://www.douaratil.fr/illustrations/bete/elan.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

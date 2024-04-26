@@ -28,7 +28,7 @@ environments:
 ---
 ## Eléphant
 &nbsp;
-[![Eléphant](https://www.douaratil.fr/illustrations/bete/elephantm.png)](https://www.douaratil.fr/illustrations/bete/elephant.jpg)  
+[![Eléphant](https://www.douaratil.fr/illustrations/bete/elephant300.jpeg)](https://www.douaratil.fr/illustrations/bete/elephant.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 18     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
