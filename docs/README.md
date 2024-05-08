@@ -17,6 +17,26 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+
+## Mise à jour 210
+![Mise à jour 210](https://www.douaratil.fr/illustrations/site/maj210.jpeg)   
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [charkoth](/bestiaire/charkoth).    
+
+**Bestiaire :**   
+- changement du diabordu en [cornu](/bestiaire/cornu).  
+- Ajout du [lynx](/bestiaire/lynx).  
+
+**Règle : illustrations**   
+- ajout d'illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#type-de-blessures-et-rythme-de-guerison).    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 12 mai 2024_
+§§§
+
 ## Mise à jour 209
 ![Mise à jour 209](https://www.douaratil.fr/illustrations/site/maj209.jpeg)   
 
