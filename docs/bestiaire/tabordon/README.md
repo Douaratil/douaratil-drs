@@ -27,7 +27,7 @@ environments:
 ---
 ## Tabordon
 &nbsp;
-[![Tabordon](https://www.douaratil.fr/illustrations/bete/tabordonm.png)](https://www.douaratil.fr/illustrations/bete/tabordon.jpg)  
+[![Tabordon](https://www.douaratil.fr/illustrations/bete/tabordon300.jpeg)](https://www.douaratil.fr/illustrations/bete/tabordon.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

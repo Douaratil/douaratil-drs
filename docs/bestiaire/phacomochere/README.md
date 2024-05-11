@@ -28,7 +28,7 @@ environments:
 ---
 ## Phacomochère
 &nbsp;
-[![Phacomochère](https://www.douaratil.fr/illustrations/bete/phacomocherem.png)](https://www.douaratil.fr/illustrations/bete/phacomochere.jpg)    
+[![Phacomochère](https://www.douaratil.fr/illustrations/bete/phacomochere300.jpeg)](https://www.douaratil.fr/illustrations/bete/phacomochere.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

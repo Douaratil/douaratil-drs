@@ -21,15 +21,20 @@ Visites:
 ## Mise à jour 210
 ![Mise à jour 210](https://www.douaratil.fr/illustrations/site/maj210.jpeg)   
 
+Je me souhaite un bon anniversaire et pour fêter cela, voici quelques nouveautés, dont de nouvelles créatures issues du monde des fées. 
+
 **Bestiaire : illustrations**   
-- Changement des illustrations du [charkoth](/bestiaire/charkoth).    
+- Changement des illustrations du [phacomochère](/bestiaire/phacomochere).    
+- Changement des illustrations du [tabordon](/bestiaire/tabordon).    
 
 **Bestiaire :**   
-- changement du diabordu en [cornu](/bestiaire/cornu).  
-- Ajout du [lynx](/bestiaire/lynx).  
+- Ajout de l'[épouvanteur](/bestiaire/epouvanteur).  
+- Ajout du [géronte](/bestiaire/geronte).  
+- Ajout du [mortifère](/bestiaire/mortifere).  
+- Ajout du [panthours](/bestiaire/panthours).  
 
 **Règle : illustrations**   
-- ajout d'illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#type-de-blessures-et-rythme-de-guerison).    
+- ajout d'illustrations de la section [personnalité et historique](/personnalite-et-historique).    
 
 Bon jeu.     
 §§§ .text-right

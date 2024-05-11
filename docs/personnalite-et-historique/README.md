@@ -84,6 +84,8 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 | **11** | Travail de précision (orfèvre, joaillier, enlumineur, etc.) |
 | **12** | Autre (potier, peintre, boulanger, apothicaire, etc.) |
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique.jpeg)
+
 **Compétences** : Athlétisme, Perspicacité.  
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, deux ensembles d'outils d'artisan correspondant à votre métier, sceau de la guilde, bourse contenant 20 po.  
@@ -101,6 +103,8 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.  
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#marque-de-la-mort)
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique2300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique2.jpeg)
 
 ## Bandit de grand chemin
 **Compétences** : Intimidation, Survie.  
@@ -120,6 +124,8 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
 **Équipement** : Couverture, vêtements de voyageur, piège à mâchoires, boîte à amadou, matériel de pêche, outre d'eau, bourse contenant 10 po.  
 **Aptitude** : [Signes de piste](/personnalite-et-historique/#signes-de-piste)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique3300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique3.jpeg)
 
 ## Cambrioleur
 **Compétences** : Acrobaties ou Athlétisme, Discrétion.  
@@ -159,6 +165,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Habits de bonne qualité, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, sceau de la guilde, balance de marchand, livre de comptes, plume et encre, bourse contenant 20 po.  
 **Aptitude** : [Réseau de guilde](/personnalite-et-historique/#reseau-de-guilde)  
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique4300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique4.jpeg)
+
 ## Cuisinier
 **Compétences** : Discrétion, Perspicacité.  
 **Outils maîtrisés** : Ustensiles de cuisinier.  
@@ -171,6 +179,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Outils maîtrisés** : Outils de voleur, un type de jeu au choix.  
 **Équipement** : Vêtements discrets équipés d'une capuche, quelques chausse-trappes, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.  
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique5300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique5.jpeg)
 
 ## Dévot
 **Compétences** : Perspicacité, Religion.  
