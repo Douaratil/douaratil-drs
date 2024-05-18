@@ -188,12 +188,16 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.  
 **Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)  
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique20300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique20.jpeg)
+
 ## Éclaireur
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Accessoires de déguisement.  
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Tenue de voyageur, sac contenant couverture et tente, outre d'eau, accessoires de déguisement, bourse contenant 15 po.  
 **Aptitude** : [Découvreur](/personnalite-et-historique/#decouvreur)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique6300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique6.jpeg)
 
 ## Ermite
 **Compétences** : Perspicacité ou Survie, Religion.  
@@ -221,6 +225,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15  m), bourse contenant 15 po.  
 **Aptitude** : [Découvreur](/personnalite-et-historique/#decouvreur)  
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique7300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique7.jpeg)
+
 ## Garde
 **Compétences** : Intimidation, Perspicacité.  
 **Outils maîtrisés** : Un type de jeu au choix.  
@@ -246,6 +252,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Tenue de voyageur, sac contenant tente et couverture, boîte à amadou, bourse contenant 15 po.  
 **Aptitude** : [Besoin de personne](/personnalite-et-historique/#besoin-de-personne)  
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique8300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique8.jpeg)
+
 ## Homme de loi
 **Compétences** : Investigation ou Persuasion, Perspicacité.  
 **Outils maîtrisés** : Matériel de calligraphie, véhicules (terrestres).  
@@ -266,6 +274,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), instrument de musique ou outils d'artisan, tenue de cérémonie, habits courants, bourse contenant 10 po.  
 **Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique9300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique9.jpeg)
+
 ##  Inquisiteur
 **Compétences** : Intimidation, Religion.  
 **Outils maîtrisés** : Matériel de calligraphie.  
@@ -285,6 +295,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils au choix parmi : outils de charpentier, outils de cordonnier, outils de tanneur, outils de maçon, matériel de peintre, outils de potier, outils de forgeron, outils de menuisier.  
 **Équipement** : Habits courants, outre de vin, ensemble d'outils dépendant de son métier, couverture, bourse contenant 10 po.  
 **Aptitude** : [Communauté](/personnalite-et-historique/#communaute)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique10300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique10.jpeg)
 
 ## Juriste
 **Compétences** : Histoire ou Religion, Persuasion  
@@ -322,6 +334,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Équipement** : Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)   
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique11300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique11.jpeg)
+
 ## Membre de guilde
 **Compétences** : Perspicacité, Persuasion.  
 **Outils maîtrisés** : Un ensemble d'outils d'artisan au choix.  
@@ -340,6 +354,8 @@ En accord avec votre MJ, sélectionnez ou déterminez au hasard une des catégor
 **Outils maîtrisés** : Véhicules (terrestres), un type de jeu au choix.  
 **Équipement** : Habits courants, paquet de cartes ou dés, objet de valeur récupéré sur un champ de bataille ou lors d'un siège, pierre à affûter, outre de vin, bourse contenant 15 po.  
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique12300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique12.jpeg)
 
 ## Militaire
 **Compétences** : Athlétisme, Intimidation.  
@@ -365,12 +381,16 @@ Vous avez passé une large part de votre temps dans une unité en particulier. �
 **Équipement** : Couverture rapiécée, vêtements courants, paquet de cartes ou dés, bourse contenant 5 po.  
 **Aptitude** : [Refuge](/personnalite-et-historique/#refuge)   
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique13300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique13.jpeg)
+
 ## Noblesse d'épée
 **Compétences** : Athlétisme ou Dressage, Histoire.  
 **Outils maîtrisés** : Véhicules (terrestres).  
 **Langue** : Une langue au choix.  
 **Équipement** : Vêtements de qualité, monture, chevalière portant le sceau familial, pierre à affûter, bourse contenant 20 po.  
 **Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique14300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique14.jpeg)
 
 ## Noblesse de robe
 **Compétences** : Histoire, Perspicacité ou Persuasion.  
@@ -418,11 +438,15 @@ Vous avez passé une large part de votre temps dans une unité en particulier. �
 **Équipement** : Tenue de voyageur, outre d'eau, pelle, pied-de-biche, bourse contenant 15 po.  
 **Aptitude** : [Estimation](/personnalite-et-historique/#estimation)  
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique19300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique19.jpeg)
+
 ## Pirate
 **Compétences** : Athlétisme, Supercherie.  
 **Outils maîtrisés** : Instruments de navigation, véhicules (marins).  
 **Équipement** : Couverture, vêtements de voyageur, longue-vue, instruments de navigation, matériel de pêche, bouteille d'alcool fort, bourse contenant 10 po.  
 **Aptitude** : [Confrérie](/personnalite-et-historique/#confrerie)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique15300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique15.jpeg)
 
 ## Prédicateur
 **Compétences** : Religion, Représentation.  
@@ -462,6 +486,8 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Équipement** : Tenue de voyageur, costume ou vêtements tape à l'œil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.  
 **Aptitude** : [Spectacle ambulant](/personnalite-et-historique/#spectacle-ambulant)   
 
+[![historique](https://www.douaratil.fr/illustrations/regles/historique16300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique16.jpeg)
+
 ## Sang-bleu
 **Compétences** : Histoire, Persuasion.  
 **Outils maîtrisés** : Véhicules (terrestres).  
@@ -475,6 +501,8 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.  
 **Aptitude** : [Histoires de terres lointaines](/personnalite-et-historique/#histoires-de-terres-lointaines)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique17300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique17.jpeg)
 
 ## Solitaire
 **Compétences** : Nature, Survie.  
@@ -494,6 +522,8 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Couverture, habits courants, matériel d'herboriste, bourse contenant 5 po.  
 **Aptitude** : [Refuge](/personnalite-et-historique/#refuge)  
+
+[![historique](https://www.douaratil.fr/illustrations/regles/historique18300.jpeg)](https://www.douaratil.fr/illustrations/regles/historique18.jpeg)
 
 ## Villageois
 **Compétences** : Dressage, Nature.  

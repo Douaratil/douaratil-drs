@@ -8,6 +8,172 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## Mise à jour 209
+![Mise à jour 209](https://www.douaratil.fr/illustrations/site/maj209.jpeg)   
+
+**Archétypes :**   
+- Ajout de l'[Otaganha](/archetypes/otaganha).
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [charkoth](/bestiaire/charkoth).    
+- Changement des illustrations de l'[eidyde](/bestiaire/eidyde).    
+- Changement des illustrations de l'[élan](/bestiaire/elan).    
+- Changement des illustrations de l'[éléon](/bestiaire/eleon).    
+- Changement des illustrations de l'[éléphant](/bestiaire/elephant).    
+
+**Bestiaire :**   
+- changement du diabordu en [cornu](/bestiaire/cornu).  
+- Ajout du [lynx](/bestiaire/lynx).  
+
+**Règle : illustrations**   
+- ajout d'illustrations de la section [gérer la santé du personnage](/gerer-la-sante-du-personnage/#type-de-blessures-et-rythme-de-guerison).    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 26 avril 2024_
+§§§
+
+## Mise à jour 208
+![Mise à jour 208](https://www.douaratil.fr/illustrations/site/maj208.jpeg)   
+
+**Bestiaire : illustrations**   
+  - Changement des illustrations du [delfon](/bestiaire/delfon).    
+
+**Bestiaire :**   
+- changement du diabede en [diancreur](/bestiaire/diancreur).  
+- changement du diabodi en [diamini](/bestiaire/diamini).  
+- changement du bouda en [lupaire](/bestiaire/lupaire).  
+- changement du diabdo en [orfèvre](/bestiaire/orfevre).  
+- changement du bodidius en [parchemal](/bestiaire/parchemal).  
+- Ajout de la [tentatiflamme](/bestiaire/tentatiflamme).  
+
+**PJ :**   
+- Ajout du personnage de Julien [Sakaï Sanechika](/bestiaire/sakai-sanechika).  
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 18 avril 2024_
+§§§
+
+## Mise à jour 207
+![Mise à jour 207](https://www.douaratil.fr/illustrations/site/maj207.jpeg)   
+
+**Bestiaire : illustrations**   
+  - Changement des illustrations du [delfon](/bestiaire/delfon).    
+
+**Bestiaire :**   
+- changement du ddobb en [lancelle](/bestiaire/lancelle).  
+- changement du Diabarbuth en [barbesang](/bestiaire/barbesang).     
+- changement du Diabbarbede en [épineux](/bestiaire/epineux).
+- changement du Diabbuaibe en [luneux](/bestiaire/luneux).
+- changement du Diadebaide en [enchaineur](/bestiaire/enchaineur).   
+- Ajout du [Faucheur blanc](/bestiaire/faucheur-blanc).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 13 avril 2024_
+§§§
+
+
+## Mise à jour 206
+![Mise à jour 206](https://www.douaratil.fr/illustrations/site/maj206.jpeg)  
+C'est avec plaisir que voici une nouvelle mise à jour du site. Notre grand créateur de sorts Elric est de retour avec quelques terribles inventions.   
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [crocodile](/bestiaire/crocodile).   
+- Changement des illustrations du [crocodile géant](/bestiaire/crocodile-geant).    
+- Changement des illustrations de la [dau](/bestiaire/dau).    
+
+**Bestiaire :**   
+- changement du dabbiub en [aranea](/bestiaire/aranea).  
+- Ajout de la [sanguinaire](/bestiaire/sanguinaire).  
+
+**Grimoire :**   
+- Ajout du sort [arrache membre](/grimoire/arrache-membre).     
+- Correction du sort [asphyxie](/grimoire/asphyxie)
+- Ajout du sort [idole](/grimoire/idole).     
+- Ajout du sort [objet conscient](/grimoire/objet-conscient).      
+- Ajout du sort [objet parlant](/grimoire/objet-parlant).      
+- Ajout du sort [variation prophétique](/grimoire/variation-prophetique).       
+- Ajout du sort [visite en songe](/grimoire/visite-en-songe).       
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 11 avril 2024_
+§§§
+
+## Mise à jour 205
+![Mise à jour 205](https://www.douaratil.fr/illustrations/site/maj205.jpeg)  
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [capitaine bandit](/bestiaire/capitaine-bandit).  
+- Changement des illustrations du [chacal](/bestiaire/chacal).  
+- Changement des illustrations du [chameau](/bestiaire/chameau).
+- Changement des illustrations du [charognard des forêts](/bestiaire/charognard-des-forets).
+- Changement des illustrations du [chat](/bestiaire/chat).
+- Changement des illustrations de la [chauve-souris](/bestiaire/chauve-souris).
+- Changement des illustrations de la [chauve-souris géante](/bestiaire/chauve-souris-geante). 
+- Changement des illustrations du [cheval de guerre](/bestiaire/cheval-de-guerre).               
+- Changement des illustrations du [cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd).
+- Changement des illustrations du [cheval de selle](/bestiaire/cheval-de-selle).
+- Changement des illustrations du [cheval de trait](/bestiaire/cheval-de-trait).
+- Changement des illustrations de la [chèvre](/bestiaire/chevre).
+- Changement des illustrations du [chevreuil](/bestiaire/chevreuil).              
+- Changement des illustrations de la [chouette](/bestiaire/chouette).
+- Changement des illustrations de la [chouette de Mâzul](/bestiaire/chouette-de-mazul).
+- Changement des illustrations du [Cigfranhud](/bestiaire/cigfranhud).
+- Changement des illustrations du [corbeau](/bestiaire/corbeau).           
+- Changement des illustrations du [crabass](/bestiaire/crabass).
+- Changement des illustrations du [crabe](/bestiaire/crabe).
+
+**Bestiaire :**   
+- Ajout de la [chouebelle](/bestiaire/chouebelle).  
+
+**Grimoire :**   
+- Ajout du sort [changement mineur de caractère](/grimoire/changement-mineur-de-caractere).       
+- Ajout du sort [changement de caractère](/grimoire/changement-de-caractere).       
+- Ajout du sort [changement radical de caractère](/grimoire/changement-radical-de-caractere).     
+- Ajout du sort [impopulaire](/grimoire/impopulaire).          
+- Ajout du sort [pacte de la chouebelle](/grimoire/pacte-de-la-chouebelle).          
+- Ajout du sort [populaire](/grimoire/populaire).         
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 avril 2024_
+§§§
+
+## Mise à jour 204
+![Mise à jour 204](https://www.douaratil.fr/illustrations/site/maj204.jpeg)  
+En vrac, bonnes fêtes de Pâques, bon début de printemps, bons poissons d'avril et bon anniversaire Denise.
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [bandit](/bestiaire/bandit).  
+- Changement des illustrations de la [belette](/bestiaire/belette).  
+- Changement des illustrations du [berserker](/bestiaire/berserker).  
+- Changement des illustrations du [blaireau](/bestiaire/blaireau).  
+- Changement des illustrations du [blème](/bestiaire/bleme).  
+
+**Bestiaire :**   
+- Changement du berdu en [forestrien](/bestiaire/forestrien).  
+- Changement du bodad en [faucheur](/bestiaire/faucheur).  
+- Changement du debu en [lémure](/bestiaire/lemure).  
+- Ajout du [Serreharien](/bestiaire/serreharien).  
+
+**Grimoire :**   
+- ajout de l'option "rituel" aux sorts d'invocations.
+- Ajout du sort [kamoulox](/grimoire/kamoulox).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1er avril 2024_
+§§§
 
 ## Mise à jour 203
 ![Mise à jour 203](https://www.douaratil.fr/illustrations/site/maj203.jpeg)  
