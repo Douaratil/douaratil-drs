@@ -21,7 +21,7 @@ title: Sohoten
 
 ## Sohoten
 &nbsp;
-[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohotenm.png)](https://www.douaratil.fr/illustrations/archetype/sohoten.jpg)
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -39,6 +39,8 @@ Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Il
 Les Sohotens de la voie des Armes sont appelés Sohohittos, littéralement «frappe vigoureuse». Véritables fureur au combat, les Sohohittos sont redoutés de leurs adversaires pour la précision de leurs frappes et leur détermination au combat. Souvent, ils se rendent utiles auprès de la population ou du seigneur local en échange du gîte et du couvert. Les Sohotens de la voie de l’Ombre sont appelés Sohohaibus, littéralement «caresse vigoureuse». Dans les légendes populaires les Sohohaibus sont assimilés à des hommes animaux.
 Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement « esprit vigoureux». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur manière de combattre. Les Sohomaindus sont des mages/prêtres. Cette approche hybride des arts magiques les rendent plus polyvalents que leurs homolgues.  
 
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten2.jpeg)
 
 ### Mur de bois
 **En Yotaï : Kabe Mokuzai**  
@@ -50,6 +52,9 @@ Les Sohotens de la voie de la Magie sont appelés Sohomaindus, littéralement «
 C'est pour cette raison que le Shohoten se déplace souvent de cette manière en combat dans des bambouseraies ou des forêts. S'il n'a pas d'appuie au delà du premier, il ne rajoute que 3 mètres.  
 Ce déplacement, peut-être exécuté en tant réaction. Lors de ce déplacement, le Shohoten ne peut pas subir d'attaque d'opportunité.  
 Cette technique est très éprouvante et demande une très bonne condition physique. Le Shohoten ne peut utiliser cette technique d'un nombre de fois correspondant à son bonus de constitution (minimum 1). Il doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ensuite pour  pouvoir réutiliser les déplacements utilisés.   
+
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten3.jpeg)
 
 ### Esquive Intuitive
 **En Yotaï: Dhkan-teki**
@@ -67,9 +72,15 @@ Cette technique est très éprouvante et demande une très bonne condition physi
 **En Yotaï : Nōsōtchū**  
 À partir du niveau 7, vous avez pouvez porter une attaque, pour une action bonus, à distance avec une arme de contact. La portée de vos armes de corps à corps est doublée. Au niveau 14, elle est triplée.
 
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten4.jpeg)
+
 ### Maîtrise de la concentration    
 **En Yotaï : Shūjuku Nōdo**  
 À partir du niveau 9, vous pouvez méditer au lieu de dormir. Votre temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Vous ne pouvez cependant pas bénéficier de plus de repos que ce qu'il est possible en 24h.  
+
+&nbsp;
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten5.jpeg)
 
 ### Mille mains  
 **En Yotaï : Sen Te**  
@@ -80,7 +91,7 @@ A partir du niveau 10, la maîtrise des mouvements permet de porter autant d'att
 A partir du niveau 13, le Sohoten est capable de puiser dans ses ressources intérieures. Dans le cadre d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), le Sohoten le considère comme un [_repos long_](/gerer-la-sante-du-personnage/#repos-long). Il s'agit uniquement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), les autres sont considérés normalement.  
 
 &nbsp;
-[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten2m.png)](https://www.douaratil.fr/illustrations/archetype/sohoten2.jpg)
+[![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten6.jpeg)
 
 ### Véritable Sohoten  
 **En Yotaï : Sohoten**  

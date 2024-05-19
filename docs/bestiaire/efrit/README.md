@@ -34,7 +34,7 @@ environments:
 ---
 ## Efrit
 &nbsp;
-[![Efrit](https://www.douaratil.fr/illustrations/elementaire/efritm.png)](https://www.douaratil.fr/illustrations/elementaire/efrit.jpg)  
+[![Efrit](https://www.douaratil.fr/illustrations/elementaire/efrit300.jpeg)](https://www.douaratil.fr/illustrations/elementaire/efrit.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 27, réussite 3, échec 1d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20  

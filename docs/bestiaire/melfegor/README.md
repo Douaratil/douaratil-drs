@@ -1,5 +1,5 @@
 ---
-title: "Diadedodde"
+title: "Melfegor"
 type: "Fiélon"
 subtype: "Diable"
 size: "G"
@@ -38,25 +38,27 @@ languages:
 telepathy: 36
 
 ---
-## Diadedodde
+## Melfegor
 &nbsp;
-[![Diadedodde](https://www.douaratil.fr/illustrations/fielon/diadedoddem.png)](https://www.douaratil.fr/illustrations/fielon/diadedodde.jpg)  
+[![Melfegor](https://www.douaratil.fr/illustrations/fielon/melfegor300.jpeg)](https://www.douaratil.fr/illustrations/fielon/melfegor.jpg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 36, réussite 7, échec 3d6+4.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24       
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Armes magiques**_. Les attaques d'arme du Diadedodde sont magiques.
 
-_**Aura de terreur**_. Toutes les créatures hostiles envers le Diadedodde qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 21, sauf si le Diadedodde est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Les créatures qui ratent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début de leur prochain tour. Celles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont immunisées contre l'aura de terreur du Diadedodde pendant 24 heures.
+_**Aura de terreur**_. Toutes les créatures hostiles envers le Melfegor qui commencent leur tour à 6 mètres ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 21, sauf si le Diadedodde est [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Les créatures qui ratent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début de leur prochain tour. Celles qui réussissent leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont immunisées contre l'aura de terreur du Diadedodde pendant 24 heures.
 
-_**Incantation innée**_. La caractéristique d'incantation du Diadedodde est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21). Le Diadedodde peut lancer les sorts suivants de manière innée sans composante matérielle :
+_**Incantation innée**_. La caractéristique d'incantation du Melfegor est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 21). Le Diadedodde peut lancer les sorts suivants de manière innée sans composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)
 * _**3/jour chacun**_ : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/), [_mur de chaleur_](/grimoire/mur-de-chaleur/)
 
-_**Résistance à la magie**_. Le Diadedodde obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le Melfegor obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+
+[![Melfegor](https://www.douaratil.fr/illustrations/fielon/melfegor2300.jpeg)](https://www.douaratil.fr/illustrations/fielon/melfegor2.jpg)  
 
 ## Actions
-_**Attaques multiples**_. Le Diadedodde effectue quatre attaques : une avec sa morsure, une avec sa griffe, une avec sa masse d'armes et une avec sa queue.
+_**Attaques multiples**_. Le Melfegor effectue quatre attaques : une avec sa morsure, une avec sa griffe, une avec sa masse d'armes et une avec sa queue.
 
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 3d6+8 dégâts tranchants.

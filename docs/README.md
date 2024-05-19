@@ -17,6 +17,32 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 212
+![Mise à jour 212](https://www.douaratil.fr/illustrations/site/maj212.jpeg)   
+
+**Archétype : illustrations**   
+- ajout d'illustrations de l'archétype du [jargl](/archetypes/jargl).    
+
+**Bestiaire : illustrations**   
+- Changement des illustrations du [dunkleosteus](/bestiaire/dunkleosteus).     
+- Changement des illustrations de l'[efrit](/bestiaire/efrit).     
+- Changement des illustrations de l'[élémentaire de l'air](/bestiaire/elementaire-de-l-air).     
+
+**Bestiaire :**   
+- Changement du diadedodde en [melfegor](/bestiaire/melfegor).  
+- Changement du diadeel en [salin](/bestiaire/salin).  
+- Changement du diagede en [farou](/bestiaire/farou).  
+- Ajout de la [soeurcière](/bestiaire/soeurciere).  
+
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 20 mai 2024_
+§§§
+
+
 ## Mise à jour 211
 ![Mise à jour 211](https://www.douaratil.fr/illustrations/site/maj211.jpeg)   
 
@@ -26,17 +52,17 @@ Visites:
 **Bestiaire :**   
 - Ajout de la [blizzarde](/bestiaire/blizzarde).  
 - Ajout de la [bellemort](/bestiaire/bellemort).  
+- Changement du dibbeda en [moloss](/bestiaire/moloss).  
 - Ajout de la [soeurcière](/bestiaire/soeurciere).  
 
-**Règle : illustrations**   
-- ajout d'illustrations de la section [personnalité et historique](/personnalite-et-historique).    
+**Archétype : illustrations**   
+- ajout d'illustrations de l'archétype du [sohoten](/archetypes/sohoten).    
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 15 mai 2024_
+_le 18 mai 2024_
 §§§
-
 
 
 ## Mise à jour 210

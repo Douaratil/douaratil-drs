@@ -55,7 +55,7 @@ languages:
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22  
 ## Capacités
-_**Absorption de la trame**_. Quand la soeurcière contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de pouvoir nécessaires noramelemnt au sort.
+_**Absorption de la trame**_. Quand la soeurcière contre ou dissipe un sort, elle est soignée d'un nombre de points d'action égal à deux fois les points de pouvoir nécessaires normalement au sort.
 
 _**Incantation innée**_. La caractéristique d'incantation de la soeurcière est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19, +12 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :
 * **À volonté** : [_pas brumeux_](/grimoire/pas-brumeux/), [_langues_](/grimoire/langues/)

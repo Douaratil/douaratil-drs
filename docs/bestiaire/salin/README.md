@@ -1,5 +1,5 @@
 ---
-title: "Diadeel"
+title: "Salin"
 type: "Fiélon"
 subtype: "Diable"
 size: "M"
@@ -43,9 +43,9 @@ languages:
 telepathy: 36
 
 ---
-## Diadeel
+## Salin
 &nbsp;
-[![Diadeel](https://www.douaratil.fr/illustrations/fielon/diadeelm.png)](https://www.douaratil.fr/illustrations/fielon/diadeel.jpg)  
+[![Salin](https://www.douaratil.fr/illustrations/fielon/salin300.jpeg)](https://www.douaratil.fr/illustrations/fielon/salin.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 22, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
@@ -65,6 +65,6 @@ _**Cimeterre**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1
 _Touché_ : 1d6+4 dégâts tranchants. Si la cible n'est ni morte-vivante, ni une créature artificielle, elle subit également 2d6 dégâts nécrotiques, ou moitié moins si elle réussit un jet de sauvegarde de Constitution DD 15. Les plantes, les vases et les créatures qui possèdent les traits amphibie, corps d'eau, ou respiration aquatique, sont _désavantagées_ lors de ce jet de sauvegarde. Si une créature rate son jet de sauvegarde de 5 ou plus, elle gagne également un niveau d'épuisement.
 
 ## Variante : Convocation de diable
-Certains diables de sel possèdent une action qui leur permet de convoquer d'autres diables.
+Certains salin possèdent une action qui leur permet de convoquer d'autres diables.
 
-_**Convocation de diable (1/jour)**_. Un Diadeel a 30%  (5-6 sur 1d6) de chances de convoquer un autre Diadeel.
+_**Convocation de diable (1/jour)**_. Un salin a 30%  (5-6 sur 1d6) de chances de convoquer un autre Diadeel.

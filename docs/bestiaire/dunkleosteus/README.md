@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Dunkleosteus
 &nbsp;
-[![Dunkleosteus](https://www.douaratil.fr/illustrations/bete/dunkleosteusm.png)](https://www.douaratil.fr/illustrations/bete/dunkleosteus.jpg)    
+[![Dunkleosteus](https://www.douaratil.fr/illustrations/bete/dunkleosteus300.jpeg)](https://www.douaratil.fr/illustrations/bete/dunkleosteus.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

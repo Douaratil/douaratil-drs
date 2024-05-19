@@ -22,7 +22,7 @@ title: Jargl
 
 ## Jargl
 &nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl1m.png)](https://www.douaratil.fr/illustrations/archetype/jargl1.jpg)  
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jargl1.jpeg)  
 
 ## Aptitudes d'Archétype  
 En tant que Jargl, vous bénéficiez des aptitudes d'Archétype suivantes.  
@@ -43,9 +43,6 @@ Les Jargls de la voie des Armes sont appelés Karreg, littéralement «Le Rocher
 **En Khern : Khorn'Marv**  
 À partir du niveau 3, le champion gagne un bonus de +1 point d'action (PA) par niveau, quelque soit sa voie.  
 
-&nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl2m.png)](https://www.douaratil.fr/illustrations/archetype/jargl2.jpg)  
-
 ### Champion  
 **En Khern : Maout**  
 À partir du niveau 5, le Jargl peut utiliser sa capacité de champion pour être redoutable et imprévisible au combat pendant un court instant.  
@@ -55,8 +52,6 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 **En Khern : Taoler**  
 À partir du niveau 6, le Jargl se déplace rapidement. Il gagne 3 mètres de déplacement par round. Il gagne 3 mètres supplémentaire au niveau 12 et 3 mètres encore au niveau 18
 
-&nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl3m.png)](https://www.douaratil.fr/illustrations/archetype/jargl3.jpg)  
 
 ### Attaque supplémentaire  
 **En Khern : Argad Adh**  
@@ -66,8 +61,7 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 **En Khern : Andur**  
 À partir du niveau 8, le Jargl peut se déplacer en courant grâce à son endurance hors norme. Souvent, le Jargl court à côté de son roi qui est à cheval. Pour se faire, ils sont des coureurs exceptionnellement endurants. Ainsi, ils peuvent courir (chargé) 1 heure de plus par point de modificateur de constitution.   
 
-&nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl4m.png)](https://www.douaratil.fr/illustrations/archetype/jargl4.jpg)  
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jargl2.jpeg)  
 
 ### Survivant
 **En Khern : Rebohserzh**  
@@ -76,9 +70,6 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 ### Représailles  
 **En Khern : Rebohserzh**  
 À partir du niveau 14, quand vous subissez des dégâts de la part d'une créature qui se trouve dans un rayon de 1,50 mètre autour de vous, vous pouvez utiliser votre réaction pour faire une action attaquer de corps-à-corps visant cette créature en représailles. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.
-
-&nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl5m.png)](https://www.douaratil.fr/illustrations/archetype/jargl5.jpg)  
 
 ### Attaque supplémentaire  
 **En Khern : Argad Adh**  
@@ -89,9 +80,7 @@ Pour 1d6 rounds + son modificateur de constitution, pour l'action attaquer et un
 Au niveau 19, vos incarnez le champion mythique.  
 Vous devenez [résistant aux dégâts contondants, perforants et tranchants](/combattre/#resistance-et-vulnerabilite-aux-degats).  
 
-&nbsp;
-[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl6m.png)](https://www.douaratil.fr/illustrations/archetype/jargl6.jpg)  
-
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jargl3.jpeg)  
 ### Véritable Jargl
 **En Khern : Jargl**  
 Au niveau 20, le Jargl est accompli et augmente ses caractéristiques de Constitution et de Dextérité de 2 points sans pouvoir dépasser 22.
