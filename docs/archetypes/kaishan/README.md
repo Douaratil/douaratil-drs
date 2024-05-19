@@ -29,6 +29,10 @@ title: Kaïshan
 **Des terres et des hommes de Xeophon d’Avalina .**
 §§§
 
+
+&nbsp;
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/kaishan300.jpeg)](https://www.douaratil.fr/illustrations/archetype/kaishan.jpeg)  
+
 ## Aptitudes d'Archétype
 En tant que Kaïshan, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -68,6 +72,8 @@ Dès le niveau 7, vous avez toujours un [_avantage_](/utiliser-les-caracteristiq
 **En Selm :**  
 Dès le niveau 8, une fois par lune les créatures invoquées par le Kaïshan peuvent lui apprendre un sort de niveau Novice à Apprenti de l'école de l'invocation (à la discrétion du Narrateur). Les règles d'apprentissage et d'acquisition s'appliquent normalement.   
 
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/kaishan2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/kaishan2.jpeg)  
+
 ### Puissance invocatrice supérieure  
 **En Selm :**  
 Dès le niveau 9, les créatures que vous invoquez sont plus puissantes en raison des pactes anciens qui ont été passés. L'ID de la créature est augmentée de 2.    
@@ -91,6 +97,8 @@ Dès le niveau 17, une fois par lune les créatures invoquées par le Kaïshan p
 ### Lien invocatoire universel  
 **En Selm :**  
 Dès le niveau 19, les créatures invoquées restent jusqu'à ce qu'elles soient révoquées ou à défaut jusqu'à 12 heures et peuvent s'éloigner sans les limitations qui sont prévues par le sort.    
+
+[![Jargl](https://www.douaratil.fr/illustrations/archetype/kaishan3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/kaishan3.jpeg)  
 
 ### Véritable Kaïshan  
 **En Selm : Kaïshan**

@@ -36,7 +36,7 @@ En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes
 ### Maîtrises  
 **Armures** :  aucune  
 **Armes** : bâton, dague, gourdin, hachette, serpe, arc court, bola.  
-**Outils** :  aucune
+**Outils** :  aucune   
 **Jets de sauvegarde** : Dextérité, Sagesse  
 **Compétences** : choisissez trois compétences parmi Acrobaties, Athlétisme, Discrétion, Histoire, Perspicacité et Religion  
 **Conditions d'accessibilité**: Être de culture Khernaëe  

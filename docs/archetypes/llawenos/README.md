@@ -25,7 +25,7 @@ title: Llawenos
 
 ## Llawenos
 &nbsp;
-[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenosm.png)](https://www.douaratil.fr/illustrations/archetype/llawenos.jpg)  
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenos300.jpeg)](https://www.douaratil.fr/illustrations/archetype/llawenos.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Llawenos, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -48,6 +48,9 @@ Dans les 10 minutes qui suivent, cette créature peut utiliser une fois ce dé. 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (avec un minimum de 1). Le compteur se remet à zéro à la fin d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).  
 Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps au fur et à mesure que vous montez de niveau:  2d6 et 2 rounds au niveau 6, 3d6 et 3 rounds au niveau 10 et 4d6 et 4 rounds au niveau 15. Lorsque le personnage utilise son inspiration, il a donc le choix d'utiliser la totalité de son inspiration sur un round ou de la répartir sur plusieurs rounds. Ainsi, i peut faire une action d'éclat sur un seul round en utilisant ses 4d6 au niveau 15, ou alors les répartir sur 2 rounds à 2d6 ou sur 3 rounds à 2d6 durant 1 round et 1d6 durant deux rounds ou encore 1d6 durant quatre rounds.  
 
+&nbsp;
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenos2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/llawenos2.jpeg)  
+
 ### Touche-à-tout  
 **En Meldète : Suatuile**  
 À partir du niveau 3, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi au chiffre inférieur) à tous vos tests de caractéristiques qui ne prennent pas déjà en compte votre bonus de maîtrise.  
@@ -57,6 +60,9 @@ Votre puissance d'inspiration bardique gagne en puissance et dure plus longtemps
 **En Meldète : òratàimh**  
 À partir du niveau 3, vous pouvez utiliser une musique ou des mots apaisants pour aider vos alliés à profiter pleinement d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court). Si vous ou des créatures amicales qui peuvent entendre votre prestation regagnez des points d’action à la fin du [_repos court_](/gerer-la-sante-du-personnage/#repos-court) en utilisant un ou plusieurs dés d'action, chacune des créatures concernées gagne 1d6 points d'action supplémentaires.  
 Plus votre niveau de barde est élevé, plus le nombre de points d'action récupérés augmente : 2d6 au niveau 9, 3d6 au niveau 13 et 4d6 au niveau 17.  
+
+&nbsp;
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenos3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/llawenos3.jpeg)  
 
 ### Expertise  
 **En Meldète : Eòlas**  
@@ -89,6 +95,9 @@ Au niveau 9, vous pouvez ajouter le résultat de votre dé d'inspiration bardiqu
 **Duel**. Quand vous maniez une arme de corps-à-corps à une main et aucune autre arme, vous gagnez un bonus de +2 avec cette arme.  
 **Combat à deux armes**. Quand vous combattez avec deux armes, vous pouvez ajouter votre modificateur de caractéristique à la deuxième attaque.  
 
+&nbsp;
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenos4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/llawenos4.jpeg)  
+
 ### Sur un champ de bataille  
 **En Meldète : Airblàr**  
 À partir du niveau 11, vous avez appris à vous battre afin d'accompagner les plus intrépides guerriers sur les champs de batailles. Désormais, vous pouvez attaquer deux fois au lieu d'une lorsque vous choisissez l'action attaquer si vous ne l’avez pas déjà, sinon vous ajoutez +2 aux dégâts de votre arme. Vous obtenez également la maîtrise des armures lourdes et de toutes les armes à une main.  
@@ -104,6 +113,9 @@ Au niveau 14, sur un champ de bataille, votre simple présence assure les protag
 ### Inspiration supérieure  
 **En Meldète : Subrosnachadh**  
 Une fois que vous atteignez le niveau 19, quand vous faites un jet d'initiative et que vous n'avez plus aucune inspiration bardique disponible, vous en regagnez une.  
+
+&nbsp;
+[![Llawenos](https://www.douaratil.fr/illustrations/archetype/llawenos5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/llawenos5.jpeg)  
 
 ### Véritable Llawenos
 **En Meldète : Llawenos**  

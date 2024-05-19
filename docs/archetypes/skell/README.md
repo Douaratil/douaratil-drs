@@ -24,7 +24,7 @@ title:  Skell
 
 ## Skell
 &nbsp;
-[![Skell](https://www.douaratil.fr/illustrations/archetype/skellm.png)](https://www.douaratil.fr/illustrations/archetype/skell.jpg)
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell.jpeg)
 
 ## Aptitudes d'Archétype
 En tant que  Skell, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -39,6 +39,9 @@ En tant que  Skell, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Points de Magie** : Le Skell est un Archétype de connaissance, de ce fait, il développe les points de Magie (PM) s’il emprunte la voie de la Magie.  
 
 Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La pierre qui casse». Les Skells de la voie de l’Ombre sont appelés Sten Rulle, littéralement «La pierre qui roule». Les Skells de la voie de la Magie sont appelés Sten Snakke, littéralement « La pierre qui parle».  
+
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell2.jpeg)
 
 ### Expert
 **En Melg : Ekspert**  
@@ -57,6 +60,9 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 **En Melg : Dyrefølger**  
 À partir du niveau 7, le Skell s’attache les services d’un renard roux. L’animal ne s’éloigne jamais plus de 20 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.
 
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell3.jpeg)
+
 ### Critique brutal  
 **En Melg : Krit Valdsam**  
 À partir du niveau 8, quand vous blessez un adversaire et que vous lui causez un coup critique, vous lancez 1d6 de dégâts additionnel quand vous déterminez les dégâts sur la table des coups critiques.
@@ -70,6 +76,9 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 **En Melg : Sten Strom överlägsen**  
 À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell4.jpeg)
+
 ### Compagnon animal loup
 **En Melg : Dyrefølger**  
 À partir du niveau 11, le Skell s’attache les services d’un loup. L’animal ne s’éloigne jamais plus de 40 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.  
@@ -82,6 +91,9 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 **En Melg : Förstå**  
 À partir du niveau 14, le Skell apprend une langue supplémentaire.  
 
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell5.jpeg)
+
 ### Compagnon animal second loup
 **En Melg : Dyrefølger**  
 À partir du niveau 17, le Skell s’attache les services d’un second loup. L’animal ne s’éloigne jamais plus de 80 mètres par niveau du Skell. Il peut capturer des animaux comme des lièvres.  
@@ -89,6 +101,9 @@ Les Skells de la voie des Armes sont appelés Sten Stykker, littéralement «La 
 ### Troisième Attaque  
 **En Melg : Tredje Angreb**  
 À partir du niveau 19, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous ajoutez +4 aux Dégâts supplémentaires à l’arme de prédilection que vous aviez choisis précédemment.  
+
+&nbsp;
+[![Skell](https://www.douaratil.fr/illustrations/archetype/skell6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell6.jpeg)
 
 ### Véritable Skell
 **En Melg : Skell**  

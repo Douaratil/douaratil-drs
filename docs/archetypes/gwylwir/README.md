@@ -39,7 +39,7 @@ En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Outils** : aucun  
 **Jets de sauvegarde** : Force, Dextérité  
 **Compétences** : choisissez trois compétences parmi : Athlétisme, Discrétion, Dressage, Investigation, Nature, Perception, Perspicacité et Survie  
-**Conditions d'accessibilité**: Être de culture Meldète
+**Conditions d'accessibilité**: Être de culture Meldète    
 **Points de Magie** :  Le Gwylwir est un Archétype mystique, de ce fait, il développe les points de Foi (PF) s’il emprunte la voie de la Magie.  
 
 Les Gwylwirs sont des combattants redoutables qui puisent une partie de leurs compétences dans la connaissance de leurs ennemis et du terrain. Ils apprennent à manipuler les arcs et à tendre des embuscades à leurs ennemis.Ils forment un groupe de sentinelles ou guetteurs qui protègent les frontières des royaumes meldètes. Les Gwylwirs de la voie des Armes sont appelés Mieri’dubh, littéralement «la ronce noire». Les Gwylwirs de la voie de l’Ombre sont appelés Mieri’gwenwynig, littéralement «la ronce venimeuse». Les Gwylwirs de la voie de la Magie sont appelés Eidhean’gwybod, littéralement « Le lierre qui sait ».  

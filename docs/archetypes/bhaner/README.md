@@ -31,10 +31,10 @@ En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises
 **Armures** :  armures légères  
-**Armes** : Bâton, dague, hachette, javeline, arc court, épée longue, épée courte, arc long
+**Armes** : Bâton, dague, hachette, javeline, arc court, épée longue, épée courte, arc long    
 **Outils** : trois instruments de musique de votre choix  
 **Jets de sauvegarde** : Dextérité, Charisme  
-**Compétences** : choisissez trois compétences au choix
+**Compétences** : choisissez trois compétences au choix   
 **Conditions d'accessibilité**: Être de culture Khernaëe  
 **Points de Magie** : Le Bhaner est un Archétype basé sur les connaissances anciennes, de ce fait, il développe les points de Magie (PM) s’il emprunte la voie de la Magie.
 

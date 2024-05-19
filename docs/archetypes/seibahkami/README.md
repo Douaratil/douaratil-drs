@@ -24,7 +24,7 @@ title: Seibahkami
 
 ## Seibahkami
 &nbsp;
-[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkamim.png)](https://www.douaratil.fr/illustrations/archetype/seibahkami.jpg)  
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami.jpeg)  
 
 ## Aptitudes d'Archétype
 En tant que Seibahkami, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -40,6 +40,8 @@ En tant que Seibahkami, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Les Seibahkamis de la voie des Armes sont appelés Shibōshaï, littéralement «Fatalité». Véritables fureur au combat, les Shibōshaïs sont redoutés de leurs adversaires pour la précision de leurs frappes au sabre et des traits de leurs arcs. Souvent, ils s’attache auprès d’un seigneur. Les Seibahkamis de la voie de l’Ombre sont appelés Sakeranaï, littéralement «Inévitable». Dans les légendes populaires les Sakeranaïs sont assimilés à des hommes démons mais en fait, dans leur recherche de la perfection, celui de tuer les ont rendu terrifiants. Ils vendent fort cher leurs services. Les Seibahkamis de la voie de la Magie sont appelés Shinjiranaï, littéralement « Incroyable». Ils sont les plus étranges et leurs sortilèges sont redoutés autant que leur lame et leurs flèches. Les Shinjiranaïs sont d’éternels chercheurs de connaissance.  
 
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami2.jpeg)  
 
 ### Détermination
 **En Yotaï : Kettei**  
@@ -50,6 +52,9 @@ Cette capacité lorsqu’elle est utilisée, nécessite un [_repos long_](/gerer
 **En Yotaï : Chebh N’do**  
 À partir du niveau 4, vous pouvez utiliser votre aptitude pour soigner des créatures gravement blessées.  
 Vous pouvez utiliser une action pour insuffler une énergie curative capable de redonner autant de points de d’action que **cinq fois** votre niveau. Choisissez des personnes qui se trouvent dans un rayon de 9 mètres de vous et divisez ces points de d’action entre elles. Cette aptitude ne peut pas permettre à une créature de regagner plus de la moitié de son maximum de points d’action. Ce pouvoir se manifeste par un courant d’air chaud des vents du sud. Il faut attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour utiliser de nouveau cette aptitude.  
+
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami3.jpeg)  
 
 ### Empathie équestre
 **En Yotaï : Kyōkan Jōba**  
@@ -64,6 +69,9 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 **En Yotaï : Shūto Tōi**  
 À partir du niveau 8, en prenant un round de concentration avec un arc long, le Seibhakami peut grâce à sa grande maîtrise de la respiration décocher une flèche au double de sa portée.  
 
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami4.jpeg)  
+
 ### Coup parfait  
 **En Yotaï : Nōsotchū Kanpeki**  
 À partir du niveau 9, vous pouvez lancer un dé de dégâts additionnel (+1d6) quand vous déterminez les dégâts sur la table des coups critiques lors d'une attaque de corps-à-corps.  
@@ -72,6 +80,9 @@ Vous pouvez utiliser une action pour insuffler une énergie curative capable de 
 ### Frappe majestueuse  
 **En Yotaï : Nōsotchū Yūdaina**  
 A partir du niveau 10, lors d’un combat au sabre, si le résultat de l’attaque comporte quatre six aux dés et que l’attaque porte, l’adversaire de taille moyenne maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD10 + modificateur de charisme ou subir un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous les tests de combat jusqu'à réussir le JS.     
+
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami5.jpeg)  
 
 ### Calligraphie  
 **En Yotaï : Shodō**  
@@ -84,6 +95,9 @@ A partir du niveau 11, la maîtrise se trouve aussi dans la concentration et l�
 ### Frappe divine  
 **En Yotaï : Nōsotchū Kami**  
 A partir du niveau 19, lors d’un combat au sabre, la technique est tellement parfaite que si le résultat de l’attaque comporte trois six aux dés et que l’attaque porte, l’adversaire de taille grande maximum est décapité sans avoir la possibilité de parer. Les adversaires qui engagent le combat avec vous doivent effectuer un JS de sagesse DD15 + modificateur de charisme ou être [_terrorisés_](/gerer-la-sante-du-personnage/#terrorise) à tous les tests de combat jusqu'à réussir le JS. Les personnes terrorisées essaient de fuir devant vous, ce qui vous donne un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes vos attaques.
+
+&nbsp;
+[![Seibahkami](https://www.douaratil.fr/illustrations/archetype/seibahkami6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/seibahkami6.jpeg)  
 
 ### Véritable Seibahkami  
 **En Yotaï : Seibahkami**  

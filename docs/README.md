@@ -22,6 +22,10 @@ Visites:
 
 **Archétype : illustrations**   
 - ajout d'illustrations de l'archétype du [jargl](/archetypes/jargl).    
+- ajout d'illustrations de l'archétype du [kaïshan](/archetypes/kaishan).    
+- ajout d'illustrations de l'archétype du [llawenos](/archetypes/llawenos).    
+- ajout d'illustrations de l'archétype du [seibahkami](/archetypes/seibahkami).    
+- ajout d'illustrations de l'archétype du [skell](/archetypes/skell).    
 
 **Bestiaire : illustrations**   
 - Changement des illustrations du [dunkleosteus](/bestiaire/dunkleosteus).     
@@ -33,8 +37,6 @@ Visites:
 - Changement du diadeel en [salin](/bestiaire/salin).  
 - Changement du diagede en [farou](/bestiaire/farou).  
 - Ajout de la [soeurcière](/bestiaire/soeurciere).  
-
-
 
 Bon jeu.     
 §§§ .text-right
