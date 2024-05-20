@@ -45,7 +45,7 @@ dungeonTypes:
 ---
 ## Elémentaire de l'eau
 &nbsp;
-[![Elémentaire de l'eau](https://www.douaratil.fr/illustrations/elementaire/elementairedeaum.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedeau.jpg)  
+[![Elémentaire de l'eau](https://www.douaratil.fr/illustrations/elementaire/elementairedeau300.jpeg)](https://www.douaratil.fr/illustrations/elementaire/elementairedeau.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 21, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   

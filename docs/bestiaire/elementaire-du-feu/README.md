@@ -41,7 +41,7 @@ environments:
 ---
 ## Elémentaire de feu
 &nbsp;
-[![Elémentaire de feu](https://www.douaratil.fr/illustrations/elementaire/elementairedefeum.png)](https://www.douaratil.fr/illustrations/elementaire/elementairedefeu.jpg)  
+[![Elémentaire de feu](https://www.douaratil.fr/illustrations/elementaire/elementairedufeu300.jpeg)](https://www.douaratil.fr/illustrations/elementaire/elementairedufeu.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)**: DD 21, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     

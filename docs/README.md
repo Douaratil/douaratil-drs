@@ -31,6 +31,14 @@ Visites:
 - Changement des illustrations du [dunkleosteus](/bestiaire/dunkleosteus).     
 - Changement des illustrations de l'[efrit](/bestiaire/efrit).     
 - Changement des illustrations de l'[élémentaire de l'air](/bestiaire/elementaire-de-l-air).     
+- Changement des illustrations de l'[élémentaire de l'eau](/bestiaire/elementaire-de-l-eau).     
+- Changement des illustrations de l'[élémentaire de la terre](/bestiaire/elementaire-de-la-terre).     
+- Changement des illustrations de l'[élémentaire du feu](/bestiaire/elementaire-du-feu).     
+- Changement des illustrations de l'[élémentaire mineur de boue](/bestiaire/elementaire-mineur-de-boue).    
+- Changement des illustrations de l'[élémentaire mineur de feu](/bestiaire/elementaire-mineur-de-feu).    
+- Changement des illustrations de l'[élémentaire mineur de glace](/bestiaire/elementaire-mineur-de-glace).    
+- Changement des illustrations de l'[élémentaire mineur de magma](/bestiaire/elementaire-mineur-de-magma).    
+- Changement des illustrations de l'[esprit du feu](/bestiaire/esprit-du-feu).     
 
 **Bestiaire :**   
 - Changement du diadedodde en [melfegor](/bestiaire/melfegor).  
