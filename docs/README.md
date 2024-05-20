@@ -44,7 +44,6 @@ Visites:
 - Changement du diadedodde en [melfegor](/bestiaire/melfegor).  
 - Changement du diadeel en [salin](/bestiaire/salin).  
 - Changement du diagede en [farou](/bestiaire/farou).  
-- Ajout de la [soeurcière](/bestiaire/soeurciere).  
 
 Bon jeu.     
 §§§ .text-right
