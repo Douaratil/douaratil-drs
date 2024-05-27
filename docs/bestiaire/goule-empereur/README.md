@@ -47,7 +47,7 @@ languages:
 ---
 ## Goule Empereur
 &nbsp;
-[![Goule Empereur](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereurm.png)](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereur.jpg)  
+[![Goule Empereur](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereur300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/gouleempereur.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 36, réussite 6, échec 3d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     

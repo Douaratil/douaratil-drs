@@ -31,7 +31,7 @@ environments:
 ---
 ## Grand singe
 &nbsp;
-[![Grand singe](https://www.douaratil.fr/illustrations/bete/grandsingem.png)](https://www.douaratil.fr/illustrations/bete/grandsinge.jpg)  
+[![Grand singe](https://www.douaratil.fr/illustrations/bete/grandsinge300.jpeg)](https://www.douaratil.fr/illustrations/bete/grandsinge.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## Actions

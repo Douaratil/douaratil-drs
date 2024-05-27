@@ -47,7 +47,7 @@ environments:
 ---
 ## Forradamadur
 &nbsp;
-[![Forradamadur](https://www.douaratil.fr/illustrations/aberration/forradamadurm.png)](https://www.douaratil.fr/illustrations/aberration/forradamadur.jpg)    
+[![Forradamadur](https://www.douaratil.fr/illustrations/aberration/forradamadur300.jpeg)](https://www.douaratil.fr/illustrations/aberration/forradamadur.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19
 ## Capacités

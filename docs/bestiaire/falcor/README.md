@@ -26,7 +26,7 @@ languages:
 ---
 ## Falcor
 &nbsp;
-[![Falcor](https://www.douaratil.fr/illustrations/bete/falcorm.png)](https://www.douaratil.fr/illustrations/bete/falcor.jpg)  
+[![Falcor](https://www.douaratil.fr/illustrations/bete/falcor300.jpeg)](https://www.douaratil.fr/illustrations/bete/falcor.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

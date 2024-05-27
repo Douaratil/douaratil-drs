@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Epaulard
 &nbsp;
-[![Epaulard](https://www.douaratil.fr/illustrations/bete/epaulardm.png)](https://www.douaratil.fr/illustrations/bete/epaulard.jpg)  
+[![Epaulard](https://www.douaratil.fr/illustrations/bete/epaulard300.jpeg)](https://www.douaratil.fr/illustrations/bete/epaulard.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

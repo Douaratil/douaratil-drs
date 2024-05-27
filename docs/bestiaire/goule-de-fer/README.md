@@ -33,7 +33,7 @@ languages:
 ---
 ## Goule de fer
 &nbsp;
-[![Goule de fer](https://www.douaratil.fr/illustrations/mort-vivant/gouledeferm.png)](https://www.douaratil.fr/illustrations/mort-vivant/gouledefer.jpg)  
+[![Goule de fer](https://www.douaratil.fr/illustrations/mort-vivant/gouledefer300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/gouledefer.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 21, réussite 4, échec 3d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     

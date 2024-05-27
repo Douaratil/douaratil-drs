@@ -17,6 +17,35 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 213
+![Mise à jour 213](https://www.douaratil.fr/illustrations/site/maj213.jpeg)     
+
+**Bestiaire : illustrations**    
+- Changement des illustrations de l'[élémentaire mineur de poussière](/bestiaire/elementaire-mineur-de-poussiere).       
+- Changement des illustrations de l'[élémentaire mineur de vapeur](/bestiaire/elementaire-mineur-de-vapeur).    
+- Changement des illustrations d'[Emhyhruigdrux](/bestiaire/emhyhruigdrux).         
+- Changement des illustrations de l'[épaulard](/bestiaire/epaulard).    
+- Changement des illustrations du [falcor](/bestiaire/falcor).   
+- Changement des illustrations du [faucon](/bestiaire/faucon).   
+- Changement des illustrations du [faucon de sang](/bestiaire/faucon-de-sang).   
+- Changement des illustrations du [fantôme](/bestiaire/fantome).   
+- Changement des illustrations du [forradamadur](/bestiaire/forradamadur).   
+- Changement des illustrations du [grand singe](/bestiaire/grand-singe).   
+- Changement des illustrations de la [gelée ocre](/bestiaire/gelee-ocre).   
+- Changement des illustrations du [gorgath](/bestiaire/gorgath).   
+- Changement des illustrations de la [goule](/bestiaire/goule).   
+- Changement des illustrations de la [goule darakhule](/bestiaire/goule-darakhule).   
+- Changement des illustrations de la [goule de fer](/bestiaire/goule-de-fer).   
+- Changement des illustrations de la [goule empereur](/bestiaire/goule-empereur).   
+- Changement des illustrations de la [goule impériale](/bestiaire/goule-imperiale).   
+- Changement des illustrations de la [goule mendiante](/bestiaire/goule-mendiante).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 27 mai 2024_
+§§§
+
 ## Mise à jour 212
 ![Mise à jour 212](https://www.douaratil.fr/illustrations/site/maj212.jpeg)   
 

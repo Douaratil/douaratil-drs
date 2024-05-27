@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 ## Goule
 &nbsp;
-[![Goule](https://www.douaratil.fr/illustrations/mort-vivant/goulem.png)](https://www.douaratil.fr/illustrations/mort-vivant/goule.jpg)  
+[![Goule](https://www.douaratil.fr/illustrations/mort-vivant/goule300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/goule.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 17, réussite 4, échec 3d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12     
