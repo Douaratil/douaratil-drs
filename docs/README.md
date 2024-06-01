@@ -21,7 +21,10 @@ Visites:
 ![Mise à jour 214](https://www.douaratil.fr/illustrations/site/maj214.jpeg)     
 
 **Bestiaire : illustrations**    
-- Changement des illustrations de l'[élémentaire mineur de poussière](/bestiaire/elementaire-mineur-de-poussiere).       
+- Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
+- Changement des illustrations du [guerrier sooghaï](/bestiaire/guerrier-sooghai).   
+- Changement des illustrations de la [guerrière otnagha](/bestiaire/guerriere-otnagha).   
+- Changement des illustrations de la [guerrière otnagha d'élite](/bestiaire/guerriere-otnagha-elite).   
 
 Bon jeu.     
 §§§ .text-right

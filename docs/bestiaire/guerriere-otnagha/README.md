@@ -30,7 +30,7 @@ languages:
 ---
 ## Guerrière Otagha
 &nbsp;
-[![Guerrière Otnagha](https://www.douaratil.fr/illustrations/humanoide/guerriereotnagham.png)](https://www.douaratil.fr/illustrations/humanoide/guerriereotnagha.jpg)  
+[![Guerrière Otnagha](https://www.douaratil.fr/illustrations/humanoide/guerriereotnagha300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/guerriereotnagha.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

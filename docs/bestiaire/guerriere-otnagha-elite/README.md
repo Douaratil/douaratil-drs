@@ -30,7 +30,7 @@ languages:
 ---
 ## Guerrière Otagha élite
 &nbsp;
-[![Guerrière Otnagha élite](https://www.douaratil.fr/illustrations/humanoide/guerriereotnaghaelitem.png)](https://www.douaratil.fr/illustrations/humanoide/guerriereotnaghaelite.jpg)  
+[![Guerrière Otnagha élite](https://www.douaratil.fr/illustrations/humanoide/guerriereotnaghaelite300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/guerriereotnaghaelite.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

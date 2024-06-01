@@ -30,7 +30,7 @@ languages:
 ---
 ## Guerrier Sooghaï
 &nbsp;
-[![Guerrier Sooghaï](https://www.douaratil.fr/illustrations/humanoide/guerriersooghaim.png)](https://www.douaratil.fr/illustrations/humanoide/guerriersooghai.jpg)  
+[![Guerrier Sooghaï](https://www.douaratil.fr/illustrations/humanoide/guerriersooghai300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/guerriersooghai.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
