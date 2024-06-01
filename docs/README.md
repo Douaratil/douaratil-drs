@@ -17,113 +17,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
-## Mise à jour 213
-![Mise à jour 213](https://www.douaratil.fr/illustrations/site/maj213.jpeg)     
+## Mise à jour 214
+![Mise à jour 214](https://www.douaratil.fr/illustrations/site/maj214.jpeg)     
 
 **Bestiaire : illustrations**    
 - Changement des illustrations de l'[élémentaire mineur de poussière](/bestiaire/elementaire-mineur-de-poussiere).       
-- Changement des illustrations de l'[élémentaire mineur de vapeur](/bestiaire/elementaire-mineur-de-vapeur).    
-- Changement des illustrations d'[Emhyhruigdrux](/bestiaire/emhyhruigdrux).         
-- Changement des illustrations de l'[épaulard](/bestiaire/epaulard).    
-- Changement des illustrations du [falcor](/bestiaire/falcor).   
-- Changement des illustrations du [faucon](/bestiaire/faucon).   
-- Changement des illustrations du [faucon de sang](/bestiaire/faucon-de-sang).   
-- Changement des illustrations du [fantôme](/bestiaire/fantome).   
-- Changement des illustrations du [forradamadur](/bestiaire/forradamadur).   
-- Changement des illustrations du [grand singe](/bestiaire/grand-singe).   
-- Changement des illustrations de la [gelée ocre](/bestiaire/gelee-ocre).   
-- Changement des illustrations du [gorgath](/bestiaire/gorgath).   
-- Changement des illustrations de la [goule](/bestiaire/goule).   
-- Changement des illustrations de la [goule darakhule](/bestiaire/goule-darakhule).   
-- Changement des illustrations de la [goule de fer](/bestiaire/goule-de-fer).   
-- Changement des illustrations de la [goule empereur](/bestiaire/goule-empereur).   
-- Changement des illustrations de la [goule impériale](/bestiaire/goule-imperiale).   
-- Changement des illustrations de la [goule mendiante](/bestiaire/goule-mendiante).   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 27 mai 2024_
+_le 2 juin 2024_
 §§§
 
-## Mise à jour 212
-![Mise à jour 212](https://www.douaratil.fr/illustrations/site/maj212.jpeg)   
-
-**Archétype : illustrations**   
-- ajout d'illustrations de l'archétype du [jargl](/archetypes/jargl).    
-- ajout d'illustrations de l'archétype du [kaïshan](/archetypes/kaishan).    
-- ajout d'illustrations de l'archétype du [llawenos](/archetypes/llawenos).    
-- ajout d'illustrations de l'archétype du [seibahkami](/archetypes/seibahkami).    
-- ajout d'illustrations de l'archétype du [skell](/archetypes/skell).    
-
-**Bestiaire : illustrations**   
-- Changement des illustrations du [dunkleosteus](/bestiaire/dunkleosteus).     
-- Changement des illustrations de l'[efrit](/bestiaire/efrit).     
-- Changement des illustrations de l'[élémentaire de l'air](/bestiaire/elementaire-de-l-air).     
-- Changement des illustrations de l'[élémentaire de l'eau](/bestiaire/elementaire-de-l-eau).     
-- Changement des illustrations de l'[élémentaire de la terre](/bestiaire/elementaire-de-la-terre).     
-- Changement des illustrations de l'[élémentaire du feu](/bestiaire/elementaire-du-feu).     
-- Changement des illustrations de l'[élémentaire mineur de boue](/bestiaire/elementaire-mineur-de-boue).    
-- Changement des illustrations de l'[élémentaire mineur de feu](/bestiaire/elementaire-mineur-de-feu).    
-- Changement des illustrations de l'[élémentaire mineur de glace](/bestiaire/elementaire-mineur-de-glace).    
-- Changement des illustrations de l'[élémentaire mineur de magma](/bestiaire/elementaire-mineur-de-magma).    
-- Changement des illustrations de l'[esprit du feu](/bestiaire/esprit-du-feu).     
-
-**Bestiaire :**   
-- Changement du diadedodde en [melfegor](/bestiaire/melfegor).  
-- Changement du diadeel en [salin](/bestiaire/salin).  
-- Changement du diagede en [farou](/bestiaire/farou).  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 20 mai 2024_
-§§§
-
-
-## Mise à jour 211
-![Mise à jour 211](https://www.douaratil.fr/illustrations/site/maj211.jpeg)   
-
-**Bestiaire : illustrations**   
-- Changement des illustrations du [phacomochère](/bestiaire/phacomochere).     
-
-**Bestiaire :**   
-- Ajout de la [blizzarde](/bestiaire/blizzarde).  
-- Ajout de la [bellemort](/bestiaire/bellemort).  
-- Changement du dibbeda en [moloss](/bestiaire/moloss).  
-- Ajout de la [soeurcière](/bestiaire/soeurciere).  
-
-**Archétype : illustrations**   
-- ajout d'illustrations de l'archétype du [sohoten](/archetypes/sohoten).    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 18 mai 2024_
-§§§
-
-
-## Mise à jour 210
-![Mise à jour 210](https://www.douaratil.fr/illustrations/site/maj210.jpeg)   
-
-**Bestiaire : illustrations**   
-- Changement des illustrations du [phacomochère](/bestiaire/phacomochere).    
-- Changement des illustrations du [tabordon](/bestiaire/tabordon).    
-
-**Bestiaire :**   
-- Ajout de l'[épouvanteur](/bestiaire/epouvanteur).  
-- Ajout du [géronte](/bestiaire/geronte).  
-- Ajout du [mortifère](/bestiaire/mortifere).  
-- Ajout du [panthours](/bestiaire/panthours).  
-
-**Règle : illustrations**   
-- ajout d'illustrations de la section [personnalité et historique](/personnalite-et-historique).    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 12 mai 2024_
-§§§
 
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 
