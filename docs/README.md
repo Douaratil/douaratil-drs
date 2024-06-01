@@ -26,6 +26,9 @@ Visites:
 - Changement des illustrations de la [guerrière otnagha](/bestiaire/guerriere-otnagha).   
 - Changement des illustrations de la [guerrière otnagha d'élite](/bestiaire/guerriere-otnagha-elite).   
 
+**PJ : illustrations**    
+- Ajout des illustrations de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  

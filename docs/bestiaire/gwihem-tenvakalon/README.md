@@ -67,6 +67,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
+[![Gwihem-tenvakalon](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 43    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13      
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21   
@@ -121,6 +122,7 @@ _Touché_ : 2d6+2 dégâts tranchants (Finesse, légère).
 **Cimeterre(•)**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+5 dégâts tranchants (Finesse & légère).  
 
+[![Gwihem-tenvakalon](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon2300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon2.jpeg)  
 
 
 §§§ .hero
@@ -147,6 +149,8 @@ Gwihem possède l'équipement suivant :
 - tenue de voyageur
 - 3110 PC, 1200 PA, 10 PE & 300 PO, 3 PP.  
 §§§
+
+[![Gwihem-tenvakalon](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon3300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon3.jpeg)  
 
 §§§ .hero
 ### <v-icon>mdi-firebase</v-icon> Sorts connus:  
