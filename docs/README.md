@@ -25,6 +25,9 @@ Visites:
 - Changement des illustrations du [guerrier sooghaï](/bestiaire/guerrier-sooghai).   
 - Changement des illustrations de la [guerrière otnagha](/bestiaire/guerriere-otnagha).   
 - Changement des illustrations de la [guerrière otnagha d'élite](/bestiaire/guerriere-otnagha-elite).   
+- Changement des illustrations de la [heks miroir](/bestiaire/heks-miroir).   
+- Changement des illustrations de la [heks rouge](/bestiaire/heks-rouge).   
+- Changement des illustrations de la [heks sanglante](/bestiaire/heks-sanglante).   
 
 **PJ : illustrations**    
 - Ajout des illustrations de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
@@ -32,7 +35,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 2 juin 2024_
+_le 7 juin 2024_
 §§§
 
 

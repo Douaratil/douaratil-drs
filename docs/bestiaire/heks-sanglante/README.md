@@ -40,7 +40,7 @@ languages:
 ---
 ## Heks sanglante
 &nbsp;
-[![Heks sanglante](https://www.douaratil.fr/illustrations/fee/hekssanglantem.png)](https://www.douaratil.fr/illustrations/fee/hekssanglante.jpg)  
+[![Heks sanglante](https://www.douaratil.fr/illustrations/fee/hekssanglante300.jpeg)](https://www.douaratil.fr/illustrations/fee/hekssanglante.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 27, réussite 3, échec 1d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
