@@ -21,7 +21,16 @@ source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un linge, de la graisse de carnivore, une agate ( destruction après utilisation ), de la peau de carnivore, un cœur de volatile. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
-**Incantation** : 
+**Incantation** : *Par les cieux et par la terre,*  
+*Que le charme en moi s’enterre.*  
+*Protection contre les charmes, flamme ardente,*  
+*Bouclier sacré, barrière fervente.* 
+
+*Aucune magie ne peut passer,*  
+*Sous cette sphère enchantée.*  
+*Protection contre les charmes, force infinie,*  
+*Protège-moi, ainsi soit-il !*   
+
 **Description** : Ce sort permet au magicien de résister aux sorts d’enchantement qui influencent le comportement. Le lanceur de sort trempe un morceau de linge dans de la graisse de carnivore, répand de la poudre d’agate sur le linge puis le ceint sur une partie du corps comme le front, le poignet ou encore la cheville. Le lanceur de sort doit aussi tenir sur sa poitrine ou dans sa paume un cœur de volatile dans un morceau de peau de carnivore. Les sortilèges sont à coup sûr arrêtés grâce à la protection. Les charmes lancés en vain sur le lanceur de sort lui soustrait des points de magie :  
 
 |Niveau du charme lancé    |Coût|

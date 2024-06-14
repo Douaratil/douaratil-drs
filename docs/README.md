@@ -17,6 +17,28 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 215
+![Mise à jour 215](https://www.douaratil.fr/illustrations/site/maj215.jpeg)     
+
+**Bestiaire : illustrations**    
+- Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
+
+
+**Grimoire :**    
+- Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
+- Ajout de l'incantation au sort [protection contre les énergies](/grimoire/protection-contre-les-energies)    
+- Ajout de l'incantation au sort [protections et sceaux](/grimoire/protections-et-sceaux)    
+- Ajout de l'incantation au sort [puissance guerrière](/grimoire/puissance-guerriere)    
+- Ajout de deux incantations au sort [puissance/impuissance sexuelle](/grimoire/puissance-impuissance-sexuelle)    
+- Ajout de deux incantations au sort [purification de la nourriture et de l'eau](/grimoire/purification-de-la-nourriture-et-de-l-eau)    
+ 
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 15 juin 2024_
+§§§
+
 ## Mise à jour 214
 ![Mise à jour 214](https://www.douaratil.fr/illustrations/site/maj214.jpeg)     
 

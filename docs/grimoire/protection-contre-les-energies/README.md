@@ -18,5 +18,18 @@ classes:
     - Magie
 ---
 **Coût** : 6 points de Magie ou de Foi  
-**Incantation** : 
+**Incantation** : *Énergies sombres, énergies claires,*   
+*Par cette incantation, je déclare :*   
+*Protection contre les énergies, bouclier puissant,*   
+*Repousse toute force, chaque instant.*   
+
+*Lumière et ombre, ne peuvent percer,*   
+*Cette barrière que j'ai érigée.*   
+*Protection contre les énergies, entoure mon être,*    
+*Protège-moi, jusqu'à disparaître.*    
+
+*Puissance des éléments, entends ma voix,*   
+*Par ce charme, je demeure en émoi.*    
+*Protection contre les énergies, force invincible,*   
+*Garde-moi de toute énergie nuisible !*    
 **Description** : Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.

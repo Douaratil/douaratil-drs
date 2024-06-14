@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie ou de Foi puis 5PM/PF par round après le premier.  
-**Incantation** : 
+**Incantation** : *Par la force des anciens, par le feu des géants, Puissance guerrière, en moi prends tes rangs !*     
+
 **Description** : Le lanceur de sort invoque la puissance magique pour augmenter ses capacités physiques. Ses muscles se contractent à leur maximum et les veines sont gonflées, semblant prêtes à éclater et le blanc de ses yeux se remplie  de sang.
 La Force (FOR) et la constitution (CON) du lanceur de sort passent à 20.   
 Il gagne 3 point d'actions (PA) temporaires par niveau. Lorsqu'il met fin à ce sort, il subit 2d6 points d'action de dégâts et prend immédiatement deux niveaux de fatigues.   
