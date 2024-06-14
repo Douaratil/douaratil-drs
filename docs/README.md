@@ -24,13 +24,19 @@ Visites:
 - Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
 
 
-**Grimoire :**    
+**Grimoire : incantations**    
 - Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
 - Ajout de l'incantation au sort [protection contre les énergies](/grimoire/protection-contre-les-energies)    
 - Ajout de l'incantation au sort [protections et sceaux](/grimoire/protections-et-sceaux)    
 - Ajout de l'incantation au sort [puissance guerrière](/grimoire/puissance-guerriere)    
 - Ajout de deux incantations au sort [puissance/impuissance sexuelle](/grimoire/puissance-impuissance-sexuelle)    
 - Ajout de deux incantations au sort [purification de la nourriture et de l'eau](/grimoire/purification-de-la-nourriture-et-de-l-eau)    
+- Ajout de l'incantation au sort [putréfaction](/grimoire/putrefaction)    
+- Ajout de l'incantation au sort [pyromancie](/grimoire/pyromancie)    
+
+**Grimoire : nouveaux sortilèges**  
+- Ajout du sort [sommeil apaisant](/grimoire/sommeil-apaisant)    
+- Ajout du sort [récolte de la nature](/grimoire/recolte-de-la-nature)    
  
 
 Bon jeu.     
