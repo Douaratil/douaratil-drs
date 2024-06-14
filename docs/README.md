@@ -24,7 +24,11 @@ Visites:
 - Nombreuses corrections de liens.
 
 **Bestiaire : illustrations**    
-- Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
+- Changement des illustrations du [hibou](/bestiaire/hibou).     
+- Changement des illustrations de l'[hippocampe](/bestiaire/hippocampe).      
+- Changement des illustrations de la [hyène](/bestiaire/hyene).      
+- Changement des illustrations de la [hyène à tête rouge](/bestiaire/hyene-a-tete-rouge).    
+- Changement des illustrations de la [hyène géante](/bestiaire/hyene-geante).      
 
 **Grimoire : incantations**    
 - Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
@@ -50,7 +54,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 15 juin 2024_
+_le 14 juin 2024_
 §§§
 
 ## Mise à jour 214

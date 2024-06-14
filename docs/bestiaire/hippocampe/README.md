@@ -27,7 +27,7 @@ dungeonTypes:
 ---
 ## Hippocampe
 &nbsp;
-[![Hippocampe](https://www.douaratil.fr/illustrations/bete/hippocampem.png)](https://www.douaratil.fr/illustrations/bete/hippocampe.jpg)  
+[![Hippocampe](https://www.douaratil.fr/illustrations/bete/hippocampe300.jpeg)](https://www.douaratil.fr/illustrations/bete/hippocampe.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: -   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

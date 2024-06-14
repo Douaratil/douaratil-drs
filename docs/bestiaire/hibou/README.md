@@ -31,7 +31,7 @@ environments:
 ---
 ## Hibou
 &nbsp;
-[![Hibou](https://www.douaratil.fr/illustrations/bete/hiboum.png)](https://www.douaratil.fr/illustrations/bete/hibou.jpg)  
+[![Hibou](https://www.douaratil.fr/illustrations/bete/hibou300.jpeg)](https://www.douaratil.fr/illustrations/bete/hibou.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
