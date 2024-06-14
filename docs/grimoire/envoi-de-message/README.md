@@ -17,7 +17,7 @@ classes:
     - Foi
     - Magie
 ---
-**Coût** : 6 points de Foi ou de Magie
+**Coût** : 6 points de Foi ou de Magie    
 
 **Incantation** : *Voix portée par le fil de cuivre,*   
 *S'envole le message de mon esprit à l'autre bout de la terre,*   

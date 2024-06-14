@@ -20,9 +20,11 @@ Visites:
 ## Mise à jour 215
 ![Mise à jour 215](https://www.douaratil.fr/illustrations/site/maj215.jpeg)     
 
+**Général**
+- Nombreuses corrections de liens.
+
 **Bestiaire : illustrations**    
 - Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
-
 
 **Grimoire : incantations**    
 - Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
@@ -35,8 +37,14 @@ Visites:
 - Ajout de l'incantation au sort [pyromancie](/grimoire/pyromancie)    
 
 **Grimoire : nouveaux sortilèges**  
-- Ajout du sort [sommeil apaisant](/grimoire/sommeil-apaisant)    
+- Ajout du sort [appel du renard gris](/grimoire/appel-du-renard-gris)    
+- Ajout du sort [coursier nocturne](/grimoire/coursier-nocturne)    
+- Ajout du sort [guide des cavernes](/grimoire/guide-des-cavernes)    
 - Ajout du sort [récolte de la nature](/grimoire/recolte-de-la-nature)    
+- Ajout du sort [sommeil apaisant](/grimoire/sommeil-apaisant)    
+- Ajout du sort [sommeil de la lune](/grimoire/sommeil-de-la-lune)    
+- Ajout du sort [voile camouflant](/grimoire/voile-camouflant)    
+
  
 
 Bon jeu.     

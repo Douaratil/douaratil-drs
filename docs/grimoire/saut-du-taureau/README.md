@@ -11,7 +11,7 @@ components:
   verbal: true
   somatic: true
   material: true
-  materials: "(Baume à partir de graisse et de liquide de taureau ou de cheval"
+  materials: "Baume à partir de graisse et de liquide de taureau ou de cheval"
 ritual: true
 classes:
     - Foi
