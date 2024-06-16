@@ -22,6 +22,9 @@ Visites:
 
 **Règles : illustrations**
 - ajout d'illustrations de la section des [armures](/equipement/armures).  
+- ajout d'illustrations du cambrioleur dans la section [personnalité et historique](/personnalite-et-historique/#cambrioleur).  
+- ajout d'illustrations du voleur à la tire dans la section [personnalité et historique](/personnalite-et-historique/#voleur-a-la-tire).  
+- ajout d'illustrations de la section [partir à l'aventure](/partir-a-l-aventure).  
 
 **PNJ : illustrations**   
 - Changement des illustrations de [Agowen Tenva duenn](/PNJ/nordiques/#agowen-tenva-duenn).  
@@ -38,16 +41,7 @@ Visites:
 - Changement des illustrations de [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
 - Changement des illustrations de [Thorgunna Iridottir](/PNJ/nordiques/#thorgunna-iridottir).  
 - Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson). 
-- Changement des illustrations de [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).  
-
-**Bestiaire : illustrations**    
-- Changement des illustrations du [hibou](/bestiaire/hibou).      
-
-**Grimoire : incantations**    
-- Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
-
-**Grimoire : nouveaux sortilèges**  
-- Ajout du sort [appel du renard gris](/grimoire/appel-du-renard-gris)    
+- Changement des illustrations de [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).   
  
 Bon jeu.     
 §§§ .text-right

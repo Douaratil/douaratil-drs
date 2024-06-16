@@ -30,6 +30,8 @@ Un groupe de PJ a le choix entre plusieurs rythmes de déplacement quand il voya
 
 Pour chaque heure supplémentaire passée à voyager au-delà des 8 heures de base, les personnages couvrent la distance parcourue dans la colonne « _heure_ » du tableau correspondant à leur rythme de déplacement, mais chacun d'entre eux doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de l'heure. Le DD de ce jet est de 10 + 1 pour chaque heure passée à marcher au-delà des 8 heures. Si un personnage rate un jet de sauvegarde, il gagne un niveau d'épuisement (voir [Gérer la santé du personnage](/gerer-la-sante-du-personnage/)).
 
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure.jpeg)
+
 **Montures et véhicules**. De nombreux animaux sont capables de se déplacer bien plus rapidement que les humanoïdes sur de courtes périodes de temps (jusqu'à une heure). Un personnage sur une monture peut galoper pendant environ une heure, pendant laquelle il couvre le double de la distance normale d'une marche rapide. S'il échange sa monture contre une monture « _fraîche_ » tous les 12 à 15 km, un personnage peut couvrir de grandes distances à cette vitesse, mais c'est un cas de figure très rare, sauf dans les régions densément peuplées et à condition d'en avoir les moyens.
 
 Les personnages qui voyagent en chariot, en calèche ou grâce à un autre véhicule terrestre se déplacent à un rythme normal. Les personnages qui se trouvent sur une embarcation maritime sont limités par la vitesse de leur embarcation. Ils ne subissent aucun malus pour un rythme rapide ou ne reçoivent aucun des bénéfices offerts par le rythme lent. En fonction de leur embarcation et de la taille de l'équipage, certains navires peuvent voyager 24 heures sur 24.
@@ -45,6 +47,8 @@ Certaines montures spéciales (magique par exemple), vous permettent de voyager 
 |**Normal**|90 mètres|4,5 kilomètres|36 kilomètres|-|
 |**Lent**|60 mètres|3 kilomètres|27 kilomètres|Possibilité d'utiliser la Discrétion|
 
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure2300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure2.jpeg)
+
 #### Terrain difficile
 La distance parcourue donnée dans le [tableau des rythmes de déplacement](#rythmes-de-deplacement) a été calculée en partant du principe que les personnages se déplaçaient sur des terrains relativement normaux et plats : routes, plaines, couloirs de donjon dégagés. Mais les aventuriers se retrouvent souvent confrontés à des forêts denses, des marécages, des ruines encombrés de gravats, des montagnes escarpées et des plaines gelées. Ces terrains sont tous considérés comme difficiles.
 
@@ -54,7 +58,10 @@ Sur un terrain difficile, vous vous déplacez à la moitié de votre vitesse (pa
 Dans des souterrains où le danger rôde à chaque pas, en pleine montagne ou en territoire ennemi, la plupart du temps, les aventuriers ne se contentent pas de marcher tranquillement. Ils doivent escalader, ramper, nager ou sauter pour atteindre leur destination.
 
 #### Escalader, nager et ramper
-Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s'il s'agit d'un terrain difficile), sauf si vous possédez une vitesse d'escalade ou de nage. Le MJ peut choisir, quand vous tentez d'escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de Force (Athlétisme). De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un test de Force (Athlétisme).
+Quand vous escaladez ou que vous nagez, chaque mètre parcouru vous coûte 1 mètre supplémentaire (et 2 mètres s'il s'agit d'un terrain difficile), sauf si vous possédez une vitesse d'escalade ou de nage. Le MJ peut choisir, quand vous tentez d'escalader une surface verticale et glissante, ou qui ne présente que peu de prises, de vous faire faire un test de Force (Athlétisme). De la même manière, si vous devez vous déplacer dans des eaux agitées, vous aurez peut-être à effectuer un test de Force (Athlétisme).   
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure3300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure3.jpeg)
+
 
 #### Sauter
 Votre Force détermine la longueur que vous pouvez parcourir en sautant.
@@ -83,7 +90,10 @@ Quand une créature n'a plus d'air ou qu'elle est en train d'étouffer, elle peu
 Par exemple, une créature avec une Constitution de 14 peut retenir sa respiration pendant 3 minutes. Si elle commence à suffoquer, elle a deux rounds pour trouver de l'air avant de tomber à 0 point d'action.
 
 ### Vision et lumière
-Les fondamentaux de la vie d'un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d'un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.
+Les fondamentaux de la vie d'un aventurier (remarquer des dangers, trouver des objets cachés, frapper un ennemi en combat, lancer un sort contre une cible donnée, pour ne citer que quelques exemples) reposent sur la capacité d'un personnage à voir et percevoir son environnement. Les ténèbres et autres effets qui viennent amoindrir ce sens peuvent se révéler de sérieux handicaps et des dangers mortels.   
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure4300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure4.jpeg)
+
 
 Dans une zone donnée, la visibilité d'un personnage peut être réduite ou nulle. Dans une zone de **visibilité réduite**, comme une zone avec une lumière faible, ou envahie d'une brume légère ou de végétation luxuriante, les créatures subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) liés à la vision.
 
@@ -109,12 +119,16 @@ Une créature dotée de vision parfaite peut, dans un périmètre donné, voir p
 ### Eau et nourriture
 Les personnages privés d'eau ou de nourriture subissent les effets de l'épuisement. Une créature ne peut sortir de l'état d'épuisement causé par le manque de nourriture ou d'eau que si elle mange et boit en quantité suffisante.
 
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure5300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure5.jpeg)
+
 #### Nourriture
 Un personnage a besoin de 500 grammes de nourriture par jour. Il peut faire durer ses réserves de nourriture plus longtemps en ne mangeant que des demi-rations. Manger 250 grammes de nourriture par jour revient à passer une demi-journée sans manger.
 
 Un personnage peut jeûner pendant un nombre de jour égal à 3 + son modificateur de Constitution (avec un minimum de 1). Au-delà de cette limite, le personnage gagne un niveau d'épuisement à la fin de chaque nouvelle journée passée à jeûner.
 
-Il suffit de manger normalement un jour pour remettre le compteur de journées de jeûne à zéro.
+Il suffit de manger normalement un jour pour remettre le compteur de journées de jeûne à zéro.    
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure6300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure6.jpeg)
 
 #### Eau
 Un personnage a besoin de boire 3 litres d'eau par jour, ou 6 litres par temps chaud. Un personnage qui ne boit que la moitié de cette quantité doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou gagner un niveau d'épuisement à la fin de la journée. Si le personnage ne peut pas accéder à la quantité d'eau requise, il subit automatiquement un niveau d'épuisement à la fin de la journée.
@@ -134,9 +148,13 @@ Un personnage peut aussi faire un test de Force pour tenter de briser un objet. 
 
 ### Vendre son butin
 
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure7300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure7.jpeg)
+
 **Armes, armures et autre équipement**. En règle générale, les armes, armures et autres pièces d'équipements qui ne sont pas endommagées se revendent à la moitié de leur prix dans un marché.
 
-**Gemmes, bijoux et œuvres d'art**. Ces objets peuvent être vendus à leur valeur réelle sur le marché et il est possible de les échanger contre de l'argent ou de les utiliser comme monnaie d'échange dans le cadre d'une transaction. S'il s'agit d'un objet d'une valeur exceptionnelle, le MJ peut vous demander de trouver un acheteur dans une grande ville ou au moins une communauté de taille importante.
+**Gemmes, bijoux et œuvres d'art**. Ces objets peuvent être vendus à leur valeur réelle sur le marché et il est possible de les échanger contre de l'argent ou de les utiliser comme monnaie d'échange dans le cadre d'une transaction. S'il s'agit d'un objet d'une valeur exceptionnelle, le MJ peut vous demander de trouver un acheteur dans une grande ville ou au moins une communauté de taille importante.   
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure8300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure8.jpeg)
 
 **Objets rares, mystiques et sacrés**. Revendre des objets magiques est problématique. S'il est assez facile de trouver quelqu'un disposé à acheter une potion ou un parchemin, d'autres objets ne sont à la portée que des nobles les plus riches. C'est aussi pourquoi, vous ne trouverez que rarement des objets magiques ou des sorts à vendre. La magie a une valeur bien supérieure à l'or et devrait toujours être considérée ainsi.
 
@@ -149,7 +167,9 @@ Un train de vie permet d'avoir une idée simple de ce qu'il vous en coûte de vi
 
 Au début de chaque semaine ou de chaque mois (à vous de choisir), vous choisissez un train de vie dans le [tableau des trains de vie](#trains-de-vie) et payez le coût indiqué. Les prix indiqués correspondant au coût de la vie pour une journée, donc pour calculer le coût de votre train de vie pour un mois, vous devez multiplier le prix indiqué par trente. Votre train de vie peut changer d'une période à l'autre en fonction de vos fonds, ou vous pouvez choisir de mener un même train de vie tout au long de la carrière de votre personnage.
 
-Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élevé peut vous permettre d'entrer en contact avec des gens riches et puissants, mais il risque aussi d'attirer des voleurs. Et si vivre plus chichement peut vous permettre d'éviter d'attirer l'attention des criminels, vous aurez aussi bien moins de chance de nouer des liens avec les puissants.
+Votre train de vie n'est pas sans conséquence. Maintenir un train de vie élevé peut vous permettre d'entrer en contact avec des gens riches et puissants, mais il risque aussi d'attirer des voleurs. Et si vivre plus chichement peut vous permettre d'éviter d'attirer l'attention des criminels, vous aurez aussi bien moins de chance de nouer des liens avec les puissants.   
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure9300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure9.jpeg)
 
 **Mendiant**. Vous vivez dans des conditions inhumaines. Sans maison, vous vous abritez où vous pouvez, vous glissant discrètement dans des granges ou vous blottissant dans de vieilles caisses. Vous dépendez des bonnes grâces des gens mieux lotis que vous. De plus, la vie de mendiant regorge de dangers. Vous évoluez en effet dans un univers de violence, de maladie et de faim. D'autres mendiants convoitent votre armure, vos armes et votre équipement d'aventurier, qui représentent une fortune à leurs yeux. Vous n'êtes pas digne de l'attention de la plupart des gens.
 
@@ -197,7 +217,9 @@ Plusieurs personnages peuvent combiner leurs efforts pour construire un unique o
 
 De plus, pour chaque objet, les matériaux de construction vous coûtent la moitié de sa valeur marchande finale. Par exemple, fabriquer une hache d'armes d'une valeur de 10 po implique de dépenser 5 po en matériaux nécessaires à sa construction avant de débuter la fabrication.
 
-Pendant qu'un personnage est occupé à fabriquer des objets, il peut adopter un train de vie modeste sans avoir à payer le prix normal de 1 po par jour, ou un train de vie confortable à la moitié du coût habituel.
+Pendant qu'un personnage est occupé à fabriquer des objets, il peut adopter un train de vie modeste sans avoir à payer le prix normal de 1 po par jour, ou un train de vie confortable à la moitié du coût habituel.   
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure10300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure10.jpeg)
 
 #### Exercer une profession
 Entre deux scénarios, votre personnage peut travailler. Cela concerne sans doute plutôt les personnages de bas niveau. Cela permet de maintenir un train de vie modeste sans avoir à payer 1 po par jour. Vous ne bénéficiez de ce traitement de faveur que tant que votre PJ travaille.
@@ -212,6 +234,8 @@ Un PJ peut mettre à profit une période de répit entre deux aventures pour se 
 Après trois jours de repos, vous pouvez faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 1§. S'il est réussi, vous pouvez choisir l'un des bénéfices suivants :
 * Annulez un effet qui vous empêche de regagner des points d'action.
 * Pendant les prochaines 24 heures, vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les jets de sauvegarde contre une maladie ou un poison dont vous subissez actuellement les effets
+
+[![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure11300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure11.jpeg)
 
 #### Mener des recherches
 Quand vous entamez vos recherches, le MJ détermine si vous pouvez trouver l'information qui vous intéresse, combien de temps cela vous prendra et si vos recherches sont soumises à certaines conditions (comme trouver un individu, un livre ou un lieu spécifique). Le MJ peut aussi vous demander de faire un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) ou un test plus spécifique, comme un test d'Intelligence (Investigation) pour trouver les indices qui mettent votre PJ sur la bonne voie, ou un test de Charisme (Persuasion) pour vous assurer l'aide de quelqu'un. Une fois que ces conditions ont été remplies, votre PJ déniche l'information, si celle-ci est disponible.

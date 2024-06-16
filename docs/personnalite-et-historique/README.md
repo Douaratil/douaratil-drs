@@ -133,6 +133,8 @@ Vous pouvez sélectionner ou déterminer au hasard le type d'artisanat dans lequ
 **Équipement** : Vêtements discrets équipés d'une capuche, pied-de-biche, corde en soie (15 m), grappin, bourse contenant 10 po.  
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
 
+[![Cambrioleur](https://www.douaratil.fr/illustrations/regles/cambrioleur300.jpeg)](https://www.douaratil.fr/illustrations/regles/cambrioleur.jpeg)
+
 ## Chasseur
 **Compétences** : Discrétion, Survie.  
 **Outils maîtrisés** : Un type de jeu au choix, véhicules (terrestres).  
@@ -542,6 +544,8 @@ Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner vo
 **Langues maîtrisées** : Argot des voleurs.  
 **Équipement** : Vêtements discrets équipés d'une capuche, objet brillant mais de peu de valeur volé il y a longtemps à une personne importante, bourse contenant 10 po.  
 **Aptitude** : [Enfant de la rue](/personnalite-et-historique/#enfant-de-la-rue)  
+
+[![Voleur à la tire](https://www.douaratil.fr/illustrations/regles/voleuralatire300.jpeg)](https://www.douaratil.fr/illustrations/regles/voleuralatire.jpeg)
 
 ## Les Aptitudes
 ### Aimé et Détesté
