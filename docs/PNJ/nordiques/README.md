@@ -3,7 +3,7 @@ title: "PNJ Nordiques"
 ---
 ## Agowen Tenva Duenn  
 &nbsp;
-[![Agowen Tenva Duenn](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduennm.png)](https://www.douaratil.fr/illustrations/humanoide/agowentenvaduenn.jpg)  
+[![Agowen Tenva Duenn](https://www.douaratil.fr/illustrations/pnj/agowentenvaduenn300.jpeg)](https://www.douaratil.fr/illustrations/pnj/agowentenvaduenn.jpeg)  
 §§§
 |Agowen Tenva Duenn |Khernaëe|
 |:-:|:-:|
@@ -33,7 +33,7 @@ Agowen Tenva Duenn connait les sorts suivants:
 
 ## Alarig Pinvidic  
 &nbsp;
-[![Alarig Pinvidic](https://www.douaratil.fr/illustrations/pnj/alarigpinvidicm.png)](https://www.douaratil.fr/illustrations/pnj/alarigpinvidic.jpg)   
+[![Alarig Pinvidic](https://www.douaratil.fr/illustrations/pnj/alarigpinvidic300.jpeg)](https://www.douaratil.fr/illustrations/pnj/alarigpinvidic.jpeg)   
 
 §§§
 |Alarig Pinvidic |Khernaëe|
@@ -70,7 +70,7 @@ Alarig Pinvidic est le souverain de la petite ville du sud de Douaratil, Ker-Sao
 _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
 _**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
-_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)   
 [![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor4300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor4.jpeg)   
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
@@ -79,7 +79,7 @@ Azenor est une femme khernaëe d'âge mûre de la noblesse de Ker-Saozon. Epouse
 
 ## Beda Mordiern   
 &nbsp;
-[![Beda Mordiern](https://www.douaratil.fr/illustrations/pnj/bedamordiernm.png)](https://www.douaratil.fr/illustrations/pnj/bedamordiern.jpg)   
+[![Beda Mordiern](https://www.douaratil.fr/illustrations/pnj/bedamordiern300.jpeg)](https://www.douaratil.fr/illustrations/pnj/bedamordiern.jpeg)   
 
 §§§
 |Beda Mordiern |Khernaëe|
@@ -103,7 +103,7 @@ Beda Mordiern est le bâtard de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moi
 
 ## Boe Osparksson   
 &nbsp;
-[![Boe Osparksson](https://www.douaratil.fr/illustrations/pnj/boeospakssonm.png)](https://www.douaratil.fr/illustrations/pnj/boeospaksson.jpg)   
+[![Boe Osparksson](https://www.douaratil.fr/illustrations/pnj/boeospaksson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/boeospaksson.jpeg)   
 
 §§§
 |Boe Osparksson |Melg|
@@ -172,7 +172,7 @@ Gaenor Lugeto était le souverain de la cité meldète de Cahohaydan. Genos just
 
 ## Goulvenig Moisan   
 &nbsp;
-[![Goulvenig Moisan](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisanm.png)](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisan.jpg)   
+[![Goulvenig Moisan](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisan300.jpeg)](https://www.douaratil.fr/illustrations/pnj/goulvenigmoisan.jpeg)   
 
 §§§
 |Goulvenig Moisan |Khernaëe|
@@ -258,7 +258,7 @@ Laepa Hizino avait fuit son clan pour vivre une aventure passionnée avec [Loche
 
 ## Maelane Le Besco   
 &nbsp;
-[![Maelane Le Besco](https://www.douaratil.fr/illustrations/pnj/maelanelebescom.png)](https://www.douaratil.fr/illustrations/pnj/maelanelebesco.jpg)   
+[![Maelane Le Besco](https://www.douaratil.fr/illustrations/pnj/maelanelebesco300.jpeg)](https://www.douaratil.fr/illustrations/pnj/maelanelebesco.jpeg)   
 
 §§§
 |Maelane Le Besco |Khernaëe|
@@ -330,7 +330,7 @@ Morwenna peut mener un train de vie aristocratique dans toutes les terres kherna
 
 ## Samos Hizino   
 &nbsp;
-[![Samos Hizino](https://www.douaratil.fr/illustrations/pnj/samoshizinom.png)](https://www.douaratil.fr/illustrations/pnj/samoshizino.jpg)   
+[![Samos Hizino](https://www.douaratil.fr/illustrations/pnj/samoshizino300.jpeg)](https://www.douaratil.fr/illustrations/pnj/samoshizino.jpeg)   
 
 §§§
 |Samos Hizino |Meldète|
@@ -402,7 +402,7 @@ Skjol Dolafsson est un grand guerrier melg. Il possède une épée +1, une hache
 
 ## Skuld Gyrdsson   
 &nbsp;
-[![Skuld Gyrdsson](https://www.douaratil.fr/illustrations/pnj/skuldgyrdssonm.png)](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson.jpg)   
+[![Skuld Gyrdsson](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/skuldgyrdsson.jpeg)   
 
 §§§
 |Skuld Gyrdsson|Melg|
@@ -423,7 +423,7 @@ Skuld Gyrdsson est un gros Melg.
 
 ## Swein Koigrimsson   
 &nbsp;
-[![Swein Koigrimsson](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimssonm.png)](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimsson.jpg)   
+[![Swein Koigrimsson](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimsson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/sweinkoigrimsson.jpeg)   
 
 §§§
 |Swein Koigrimsson |Melg|
@@ -450,7 +450,7 @@ Swein Koigrimsson est un un vieil aventurier Melg qui a décidé de s'installer 
 
 ## Thorgunna Iridottir   
 &nbsp;
-[![Thorgunna Iridottir](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottirm.png)](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir.jpg)   
+[![Thorgunna Iridottir](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir300.jpeg)](https://www.douaratil.fr/illustrations/pnj/thorgunnairidottir.jpeg)   
 
 §§§
 |Thorgunna Iridottir|Melge|
@@ -471,7 +471,7 @@ Thorgunna Iridottir est la compagne de Kunt Svenson. Il l'a épousé à Miz Khou
 
 ## Thororm Audgisilsson   
 &nbsp;
-[![Thororm Audgisilsson](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilssonm.png)](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilsson.jpg)   
+[![Thororm Audgisilsson](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilsson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/thorormaudgisilsson.jpeg)   
 
 §§§
 |Thororm Audgisilsson |Melg|

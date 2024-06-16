@@ -17,6 +17,42 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 216
+![Mise à jour 216](https://www.douaratil.fr/illustrations/site/6.jpeg)     
+
+**Général**
+- Nombreuses corrections de liens.
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Agowen Tenva duenn](/PNJ/nordiques/#agowen-tenva-duenn).  
+- Changement des illustrations de [Alarig Pinvidic](/PNJ/nordiques/#alarig-pinvidic).  
+- Changement des illustrations de [Beda Mordiern](/PNJ/nordiques/#beda-mordiern).  
+- Changement des illustrations de [Boe Osparksson](/PNJ/nordiques/#boe-osparksson).  
+- Changement des illustrations de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moisan).  
+- Changement des illustrations de [Maelane Le Besco](/PNJ/nordiques/#maelane-le-besco).  
+- Changement des illustrations de [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).  
+- Changement des illustrations de [Samos Hizino](/PNJ/nordiques/#samos-hizino).  
+- Changement des illustrations de [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
+- Changement des illustrations de [Thorgunna Iridottir](/PNJ/nordiques/#thorgunna-iridottir).  
+- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson).  
+
+**Bestiaire : illustrations**    
+- Changement des illustrations du [hibou](/bestiaire/hibou).      
+
+**Grimoire : incantations**    
+- Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
+
+**Grimoire : nouveaux sortilèges**  
+- Ajout du sort [appel du renard gris](/grimoire/appel-du-renard-gris)    
+ 
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 16 juin 2024_
+§§§
+
+
+
 ## Mise à jour 215
 ![Mise à jour 215](https://www.douaratil.fr/illustrations/site/maj215.jpeg)     
 
