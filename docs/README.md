@@ -18,7 +18,7 @@ Visites:
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
 ## Mise à jour 216
-![Mise à jour 216](https://www.douaratil.fr/illustrations/site/6.jpeg)     
+![Mise à jour 216](https://www.douaratil.fr/illustrations/site/216.jpeg)     
 
 **Règles : illustrations**
 - ajout d'illustrations de la section des [armures](/equipement/armures).  
