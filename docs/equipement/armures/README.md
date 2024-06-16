@@ -47,11 +47,20 @@ Les armures légères sont faites de matériaux souples et fins. Elles sont adap
 ### Armure matelassée
 Une armure matelassée est faite de couches de tissu rembourrées.
 
+&nbsp;
+[![Armure de matelassée](https://www.douaratil.fr/illustrations/regles/armurematelassee300.jpeg)](https://www.douaratil.fr/illustrations/regles/armurematelassee.jpeg)
+
 ### Armure de cuir
 La cuirasse et les spalières de cette armure sont en cuir bouilli dans l'huile pour le durcir. Le reste de l'armure est composé de matériaux plus souples et plus flexibles.
 
+&nbsp;
+[![Armure de cuir](https://www.douaratil.fr/illustrations/regles/armuredecuir300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredecuir.jpeg)
+
 ### Armure de cuir clouté
 Cette armure est faite d'un cuir résistant mais souple, piqueté de rivets à intervalles réguliers.
+
+&nbsp;
+[![Armure de cuir clouté](https://www.douaratil.fr/illustrations/regles/armuredecuircloute300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredecuircloute.jpeg)
 
 ## Armures intermédiaires
 Une armure intermédiaire protège plus qu'une armure légère mais, en contrepartie, elle gène davantage les mouvements. Elles sont maîtrisées par le Voie des Armes.  
@@ -59,32 +68,58 @@ Une armure intermédiaire protège plus qu'une armure légère mais, en contrepa
 ### Armure de peau
 Cette armure fruste est composée d'épaisses fourrures et de peaux de bêtes. Elle est généralement portée par les tribus barbares, les humanoïdes maléfiques et autres personnes qui n'ont pas accès aux outils et matériaux nécessaires pour fabriquer de meilleures armures.
 
+&nbsp;
+[![Armure de peau](https://www.douaratil.fr/illustrations/regles/armuredepeau300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredepeau.jpeg)
+
 ### Chemise de mailles
-Une chemise de mailles est faite d'anneaux métalliques reliés entre eux. Elle est portée entre plusieurs couches de tissu ou de cuir. Cette armure offre une modeste protection au tronc de son porteur et le crissement des anneaux est étouffé par les couches qui les recouvrent.
+Une chemise de mailles est faite d'anneaux métalliques reliés entre eux. Elle est portée entre plusieurs couches de tissu ou de cuir. Cette armure offre une modeste protection au tronc de son porteur et le crissement des anneaux est étouffé par les couches qui les recouvrent.  
+
+[![Armure chemise de mailles](https://www.douaratil.fr/illustrations/regles/armurechemisedemailles300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredchemisedemailles.jpeg)
 
 ### Armure d'écailles
-Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe séparée) de cuir recouverts de plaques de métal qui se superposent, un peu comme les écailles d'un poisson. Des gantelets viennent compléter l'ensemble.
+Cette armure se compose d'un manteau et d'un pantalon (et parfois d'une jupe séparée) de cuir recouverts de plaques de métal qui se superposent, un peu comme les écailles d'un poisson. Des gantelets viennent compléter l'ensemble.  
+
+&nbsp;
+[![Armure d'écaille](https://www.douaratil.fr/illustrations/regles/armuredecaille300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredecaille.jpeg)
 
 ### Cuirasse
 Cette armure consiste en une pièce de métal qui couvre le buste, complétée de cuir souple. Bien que les bras et les jambes de son porteur soient peu protégés, cette armure permet de protéger efficacement les organes vitaux sans réduire la liberté de mouvement de son porteur.
 
+&nbsp;
+[![Cuirasse](https://www.douaratil.fr/illustrations/regles/cuirasse300.jpeg)](https://www.douaratil.fr/illustrations/regles/cuirasse.jpeg)
+
 ### Armure de demi-plate
 Cette armure se compose de plaques de métal qui couvrent la majorité du haut du corps de son porteur. Par contre, ses jambes sont seulement protégées par des grèves attachées par des lanières de cuir.
+
+&nbsp;
+[![Armure de demi plate](https://www.douaratil.fr/illustrations/regles/armurededemiplate300.jpeg)](https://www.douaratil.fr/illustrations/regles/armurededemiplate.jpeg)
 
 ## Armures lourdes
 Parmi toutes les catégories d'armures, ce sont les armures lourdes qui offrent la meilleure protection. Ces armures couvrent l'ensemble du corps et sont conçues pour arrêter une large gamme d'attaques. Seuls les guerriers expérimentés arrivent à bien en gérer le poids et l'encombrement. Elles sont maîtrisées par le Voie des Armes.  
 
 ### Broigne
-Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.
+Il s'agit d'une armure de cuir sur laquelle sont cousus de lourds anneaux. Ces anneaux permettent de renforcer l'armure et d'offrir une protection contre les coups d'épée et de hache. Une broigne est de qualité inférieure à une cotte de mailles et est généralement portée par ceux qui n'ont pas les moyens de s'offrir une meilleure armure.  
+
+&nbsp;
+[![Broigne](https://www.douaratil.fr/illustrations/regles/broigne300.jpeg)](https://www.douaratil.fr/illustrations/regles/broigne.jpeg)
 
 ### Cotte de mailles
 Une cotte de mailles est faite d'anneaux de métal entrecroisés. Elle se porte sur une couche de tissu renforcé afin d'éviter les frottements et d'amortir les coups. L'armure comporte des gantelets.
 
+&nbsp;
+[![Armure de cotte de mailles](https://www.douaratil.fr/illustrations/regles/armuredecottedemailles300.jpeg)](https://www.douaratil.fr/illustrations/regles/armuredecottedemailles.jpeg)
+
 ### Clibanion
-Cette armure est faite d'étroites plaques de métal rivetées à un support de cuir porté sur un vêtement rembourré. Les articulations sont protégées par des pièces de cotte de mailles plus souples.
+Cette armure est faite d'étroites plaques de métal rivetées à un support de cuir porté sur un vêtement rembourré. Les articulations sont protégées par des pièces de cotte de mailles plus souples.   
+
+&nbsp;
+[![Clibanion](https://www.douaratil.fr/illustrations/regles/clibanion300.jpeg)](https://www.douaratil.fr/illustrations/regles/clibanion.jpeg)
 
 ### Armure à plaques
 Le harnois, ou armure de plates, est constitué de plaques de métal superposées qui couvrent l'ensemble du corps. L'armure inclut des gantelets lourds, de lourdes bottes de cuir, un casque avec une visière et plusieurs épaisseurs de rembourrage sous l'armure. Des sangles permettent de répartir le poids sur tout le corps.
+
+&nbsp;
+[![Armure à plaques](https://www.douaratil.fr/illustrations/regles/armureaplaques300.jpeg)](https://www.douaratil.fr/illustrations/regles/armureaplaques.jpeg)
 
 ## Enfiler et retirer une armure
 Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.

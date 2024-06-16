@@ -149,7 +149,7 @@ Britomartos Nantono est le souverain de la cité meldète de Cahohaydan. Après 
 
 ## Bryn Tuticanos   
 &nbsp;
-[![Bryn Tuticanos](https://www.douaratil.fr/illustrations/pnj/bryntuticanosm.png)](https://www.douaratil.fr/illustrations/pnj/bryntuticanos.jpg)   
+[![Bryn Tuticanos](https://www.douaratil.fr/illustrations/pnj/bryntuticanos300.jpeg)](https://www.douaratil.fr/illustrations/pnj/bryntuticanos.jpeg)   
 
 §§§
 **<v-icon>mdi-skull</v-icon> Tué à la bataille des rois près de Kerzu le 23 Miz Khouéré 722 par Tiberius Don Alonzo :**  
@@ -354,7 +354,7 @@ Samos Hizino est l'un des héritié du clan Hizino. Son épouse [Laepa Hizino](/
 
 ## Siwan Vlatcano  
 &nbsp;
-[![Siwan Vlatcano](https://www.douaratil.fr/illustrations/pnj/siwanvlatcanom.png)](https://www.douaratil.fr/illustrations/pnj/siwanvlatcano.jpg)   
+[![Siwan Vlatcano](https://www.douaratil.fr/illustrations/pnj/siwanvlatcano300.jpeg)](https://www.douaratil.fr/illustrations/pnj/siwanvlatcano.jpeg)   
 
 §§§
 |Siwan Vlatcano |Meldète|
@@ -374,7 +374,7 @@ Siwan est la tante de [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) et dirig
 
 ## Skjol Dolafsson   
 &nbsp;
-[![Skjol Dolafsson](https://www.douaratil.fr/illustrations/pnj/skjoldolafssonm.png)](https://www.douaratil.fr/illustrations/pnj/skjoldolafsson.jpg)   
+[![Skjol Dolafsson](https://www.douaratil.fr/illustrations/pnj/skjoldolafsson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/skjoldolafsson.jpeg)   
 
 §§§
 |Skjol Dolafsson |Melg|
@@ -437,7 +437,7 @@ _**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **trois*
 _**Epée longue & Hache**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+6 dégâts tranchant (3d6+4 à deux mains).  
 
-_**Epée longue +2 ardente**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
+_**Epée longue +2 ardente (ildens tunge)**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+8 dégâts tranchant (3d6+6 à deux mains) et 2d6 de dégâts de feu supplémentaire.  
 
 _**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
@@ -445,7 +445,7 @@ _Touché_ : 2d6+3 dégâts perforants .(à deux mains, munitions)
 
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon> Présentation:**  
-Swein Koigrimsson est un un vieil aventurier Melg qui a décidé de s'installer ??? à après avoir arpenté les royaumes du Nord et même franchi la mer pour visiter les terribles terres de ???. Il s'est fait forgé une épée ardente qui porte le nom de    
+Swein Koigrimsson est un un vieil aventurier Melg qui a décidé de s'installer Notteilift à après avoir arpenté les royaumes du Nord et même franchi la mer de Mor Yen pour visiter les terribles terres gelées Il s'est fait forger une épée ardente qui porte le nom d'ildens tunge (la langue de feu).   
 §§§
 
 ## Thorgunna Iridottir   
@@ -498,7 +498,7 @@ Thororm Audgisilsson est le souverain de la petite ville de Notteilift. Il poss�
 
 ## Ubbein Stigandisson   
 &nbsp;
-[![Ubbein Stigandisson](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandissonm.png)](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandisson.jpg)  
+[![Ubbein Stigandisson](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandisson300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ubbeinstigandisson.jpeg)  
 §§§
 |Ubbein Stigandisson |Melg|
 |:-:|:-:|

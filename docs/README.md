@@ -20,21 +20,25 @@ Visites:
 ## Mise à jour 216
 ![Mise à jour 216](https://www.douaratil.fr/illustrations/site/6.jpeg)     
 
-**Général**
-- Nombreuses corrections de liens.
+**Règles : illustrations**
+- ajout d'illustrations de la section des [armures](/equipement/armures).  
 
 **PNJ : illustrations**   
 - Changement des illustrations de [Agowen Tenva duenn](/PNJ/nordiques/#agowen-tenva-duenn).  
 - Changement des illustrations de [Alarig Pinvidic](/PNJ/nordiques/#alarig-pinvidic).  
 - Changement des illustrations de [Beda Mordiern](/PNJ/nordiques/#beda-mordiern).  
 - Changement des illustrations de [Boe Osparksson](/PNJ/nordiques/#boe-osparksson).  
+- Changement des illustrations de [Bryn Tuticanos](/PNJ/nordiques/#bryn-tuticanos).  
 - Changement des illustrations de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moisan).  
 - Changement des illustrations de [Maelane Le Besco](/PNJ/nordiques/#maelane-le-besco).  
+- Changement des illustrations de [Skjol Dolafsson](/PNJ/nordiques/#skjol-dolafsson).  
 - Changement des illustrations de [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).  
 - Changement des illustrations de [Samos Hizino](/PNJ/nordiques/#samos-hizino).  
+- Changement des illustrations de [Siwan Vlatcano](/PNJ/nordiques/#siwan-vlatcano).  
 - Changement des illustrations de [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
 - Changement des illustrations de [Thorgunna Iridottir](/PNJ/nordiques/#thorgunna-iridottir).  
-- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson).  
+- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson). 
+- Changement des illustrations de [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).  
 
 **Bestiaire : illustrations**    
 - Changement des illustrations du [hibou](/bestiaire/hibou).      
