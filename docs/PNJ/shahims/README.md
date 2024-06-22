@@ -3,7 +3,7 @@ title: "PNJ Shahims"
 ---
 ## Allgoui ag Sidi
 &nbsp;
-[![Allgoui ag Sidi](https://www.douaratil.fr/illustrations/pnj/allgouiagsidim.png)](https://www.douaratil.fr/illustrations/pnj/allgouiagsidi.jpg)   
+[![Allgoui ag Sidi](https://www.douaratil.fr/illustrations/pnj/allgouiagsidi300.jpeg)](https://www.douaratil.fr/illustrations/pnj/allgouiagsidi.jpeg)   
 §§§
 |allgouiagsidi|Shème|
 |:-:|:-:|
@@ -23,7 +23,7 @@ Allgoui ag Sidi est le Houltane de Luat'albarh. Il règne avec sagesse et strat�
 
 ## Amastame Ag Beketa  
 &nbsp;
-[![Amastame Ag Beketa](https://www.douaratil.fr/illustrations/pnj/amastameagbeketam.png)](https://www.douaratil.fr/illustrations/pnj/amastameagbeketa.jpg)   
+[![Amastame Ag Beketa](https://www.douaratil.fr/illustrations/pnj/amastameagbeketa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/amastameagbeketa.jpeg)   
 §§§
 |Amastame Ag Beketa|Ashkhémite|
 |:-:|:-:|
@@ -43,7 +43,7 @@ Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-
 
 ## Ashur Begaya  
 &nbsp;
-[![Ashur Begaya](https://www.douaratil.fr/illustrations/pnj/ashurbegayam.png)](https://www.douaratil.fr/illustrations/pnj/ashurbegaya.jpg)   
+[![Ashur Begaya](https://www.douaratil.fr/illustrations/pnj/ashurbegaya300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ashurbegaya.jpeg)   
 §§§
 |Ashur Begaya|Shème|
 |:-:|:-:|
@@ -101,7 +101,7 @@ Eyoab Mengistu Boru est un guide Ashkhémite complètement fou après s'être pe
 
 ## Fahim Ibn Tabit
 &nbsp;
-[![Fahim Ibn Tabit](https://www.douaratil.fr/illustrations/pnj/fahimibntabitm.png)](https://www.douaratil.fr/illustrations/pnj/fahimibntabit.jpg)   
+[![Fahim Ibn Tabit](https://www.douaratil.fr/illustrations/pnj/fahimibntabit300.jpeg)](https://www.douaratil.fr/illustrations/pnj/fahimibntabit.jpeg)   
 §§§
 |Fahim Ibn Tabit|Shème|
 |:-:|:-:|
@@ -121,7 +121,7 @@ Fahim Ibn Tabit est le houltane de Baj'hajari sur laquelle il règne sans partag
 
 ## Farid ibn Shakir
 &nbsp;
-[![Farid ibn Shakir](https://www.douaratil.fr/illustrations/pnj/faridibnshakirm.png)](https://www.douaratil.fr/illustrations/pnj/faridibnshakir.jpg)   
+[![Farid ibn Shakir](https://www.douaratil.fr/illustrations/pnj/faridibnshakir300.jpeg)](https://www.douaratil.fr/illustrations/pnj/faridibnshakir.jpeg)   
 §§§
 |Farid ibn Shakir|Shème|
 |:-:|:-:|
@@ -141,7 +141,7 @@ Farid ibn Shakir est le souverain de la cité de Samd'ji qui se trouve sur l'îl
 
 ## Hamda Bin Atiq
 &nbsp;
-[![Hamda Bin Atiq](https://www.douaratil.fr/illustrations/pnj/hamdabinatiqm.png)](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq.jpg)   
+[![Hamda Bin Atiq](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq300.jpeg)](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq.jpeg)   
 §§§
 |Hamda Bin Atiq|Shème|
 |:-:|:-:|

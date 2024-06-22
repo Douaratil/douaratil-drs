@@ -31,7 +31,7 @@ environments:
 ---
 ## Igualigator
 &nbsp;
-[![Igualigator](https://www.douaratil.fr/illustrations/bete/igualigatorm.png)](https://www.douaratil.fr/illustrations/bete/igualigator.jpg)  
+[![Igualigator](https://www.douaratil.fr/illustrations/bete/igualigator300.jpeg)](https://www.douaratil.fr/illustrations/bete/igualigator.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

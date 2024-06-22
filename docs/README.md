@@ -17,6 +17,30 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 217
+![Mise à jour 217](https://www.douaratil.fr/illustrations/site/maj217.jpeg)     
+
+**Règles : illustrations**
+- ajout d'illustrations de la section des [armures](/equipement/armures).  
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Allgoui ag Sidi](/PNJ/shahims/#allgouiagsidi).  
+- Changement des illustrations de [Amastame Ag Beketa](/PNJ/shahims/#amastame-ag-beketa).  
+- Changement des illustrations de [Ashur Begaya](/PNJ/shahims/#ashur-begaya).  
+- Changement des illustrations de [Fahim Ibn Tabit](/PNJ/shahims/#fahim-ibn-tabit).  
+- Changement des illustrations de [Farid ibn Shakir](/PNJ/shahims/#farid-ibn-shakir).  
+- Changement des illustrations de [Hamda Bin Atiq](/PNJ/shahims/#hamda-bin-atiq).  
+
+**Bestiaire : illustrations**    
+- Changement des illustrations du [igualigator](/bestiaire/igualigator).   
+
+ 
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juin 2024_
+§§§
+
 ## Mise à jour 216
 ![Mise à jour 216](https://www.douaratil.fr/illustrations/site/maj216.jpeg)     
 
