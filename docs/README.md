@@ -17,6 +17,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 218
+![Mise à jour 218](https://www.douaratil.fr/illustrations/site/maj218.jpeg)     
+
+**Bestiaire : illustrations**    
+- Changement des illustrations du [igualigator](/bestiaire/igualigator).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 26 juin 2024_
+§§§
+
 ## Mise à jour 217
 ![Mise à jour 217](https://www.douaratil.fr/illustrations/site/maj217.jpeg)     
 
@@ -34,7 +46,6 @@ Visites:
 **Bestiaire : illustrations**    
 - Changement des illustrations du [igualigator](/bestiaire/igualigator).   
 
- 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
