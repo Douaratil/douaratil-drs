@@ -1,5 +1,5 @@
 ---
-title: "Kesh"
+title: "Niakniak"
 type: "Fiélon"
 subtype: "Démon"
 size: "TP"
@@ -41,16 +41,16 @@ languages:
   - "commun"
 
 ---
-## Kesh
+## Niakniak
 &nbsp;
-[![Kesh](https://www.douaratil.fr/illustrations/fielon/keshm.png)](https://www.douaratil.fr/illustrations/fielon/kesh.jpg)  
+[![Niakniak](https://www.douaratil.fr/illustrations/fielon/niakniak300.jpeg)](https://www.douaratil.fr/illustrations/fielon/niakniak.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 16, réussite 5, échec 3d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Résistance à la magie**_. Le Kesh a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets de sauvegarde effectués contre les sorts ou tout autre effet magique.
+_**Résistance à la magie**_. Le niakniak a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets de sauvegarde effectués contre les sorts ou tout autre effet magique.
 
-_**Esprit lié**_. Le Kesh est lié à un lieu, une maison, un établissement (et plus particulièrement une auberge). Tant que le lieu n'est pas détruit ou consacré à une autre fonction, le Kesh ne peut être détruit. S'il est réduit à 0 PA, il disparaît simplement dans un cri strident (ou peut-être une note de musique dissonante) et une odeur pestilentielle caractéristique. Il réapparaît 1D4 heures plus tard, comme si de rien n'était.
+_**Esprit lié**_. Le niakniak est lié à un lieu, une maison, un établissement (et plus particulièrement une auberge). Tant que le lieu n'est pas détruit ou consacré à une autre fonction, le niakniak ne peut être détruit. S'il est réduit à 0 PA, il disparaît simplement dans un cri strident (ou peut-être une note de musique dissonante) et une odeur pestilentielle caractéristique. Il réapparaît 1D4 heures plus tard, comme si de rien n'était.
 
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 au toucher, allonge 1,50 m, une cible.  

@@ -261,6 +261,11 @@ module.exports = {
               icon: 'mdi-auto-fix',
               path: '/archetypes/ambeanamos',
             },
+            {
+              title: "Assassyrhim",
+              icon: 'mdi-knife',
+              path: '/archetypes/assassyrhim',
+            },
           {
               title: "Astartes",
               icon: 'mdi-sword',

@@ -1,5 +1,5 @@
 ---
-title: "Khaznoz"
+title: "Félyde"
 type: "Fée"
 size: "TP"
 alignment: "Neutre bon"
@@ -33,16 +33,16 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-## Khaznoz
+## Félyde
 &nbsp;
-[![Khaznoz](https://www.douaratil.fr/illustrations/fee/khaznozm.png)](https://www.douaratil.fr/illustrations/fee/khaznoz.jpg)  
+[![Félyde](https://www.douaratil.fr/illustrations/fee/felyde300.jpeg)](https://www.douaratil.fr/illustrations/fee/felyde.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 20, réussite 3, échec 1d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Odorat aiguisé**_. Le Khaznoz obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.  
+_**Odorat aiguisé**_. Le félyde obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.  
 
-_**Invisibilité féérique**_. Le Khaznoz peut utiliser à volonté et dans le cadre d'une action bonus sa capacité d'invisibilité qui fonctionne comme le sort [Invisibilité](/grimoire/invisibilite).  
+_**Invisibilité féérique**_. Le félyde peut utiliser à volonté et dans le cadre d'une action bonus sa capacité d'invisibilité qui fonctionne comme le sort [Invisibilité](/grimoire/invisibilite).  
 
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  

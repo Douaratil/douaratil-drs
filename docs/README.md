@@ -20,13 +20,24 @@ Visites:
 ## Mise à jour 218
 ![Mise à jour 218](https://www.douaratil.fr/illustrations/site/maj218.jpeg)     
 
+**Archétypes :**    
+- Ajout de l'[assassyrhim](/archetypes/assassyrhim).   
+
+**Bestiaire :**   
+- Changement du kakhe en [kaprun](/bestiaire/kaprun).  
+- Changement du kashakosh en [noctular](/bestiaire/noctular).  
+- Changement du kashokh en [maurible](/bestiaire/maurible).  
+- Changement du kesh en [niakniak](/bestiaire/niakniak).  
+- Changement du khashik en [troubliard](/bestiaire/troubliard).  
+- Changement du khaznoz en [félyde](/bestiaire/felyde).  
+
 **Bestiaire : illustrations**    
 - Changement des illustrations du [igualigator](/bestiaire/igualigator).   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 26 juin 2024_
+_le 27 juin 2024_
 §§§
 
 ## Mise à jour 217
