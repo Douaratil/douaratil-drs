@@ -30,6 +30,7 @@ Visites:
 - Changement du kesh en [niakniak](/bestiaire/niakniak).  
 - Changement du khashik en [troubliard](/bestiaire/troubliard).  
 - Changement du khaznoz en [félyde](/bestiaire/felyde).  
+- Changement du Kakishikh en [serpente](/bestiaire/serpente).  
 
 **Bestiaire : illustrations**    
 - Changement des illustrations du [igualigator](/bestiaire/igualigator).   
