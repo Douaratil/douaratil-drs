@@ -62,7 +62,7 @@ Au niveau 6, l'Assassyrhim peut appliquer des poisons communs sur ses armes pour
 
 ### Maître des apparences
 **En Shahim: Ustadh Al'taqalub**   
-Au niveau 7, l'Assassyrhim maîtrise l'art de se déguiser rapidement et efficacement, obtenant un avantage sur les jets de tromperie lorsqu’il s’agit de cacher son identité à interlocuteur.
+Au niveau 7, l'Assassyrhim maîtrise l'art de se déguiser rapidement et efficacement, obtenant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets de tromperie lorsqu’il s’agit de cacher son identité à interlocuteur.
 
 
 [![Assassyrhim](https://www.douaratil.fr/illustrations/archetype/assassyrhim3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/assassyrhim3.jpeg) 
@@ -108,7 +108,7 @@ Si un disciple devait mourir, il peut être remplacé la une suivante par un nou
 
 ### Infiltrateur aguerri
 **En Shahim: Mutakhassis Al'tadakhul**    
-Au niveau 15, l'Assassyrhim obtient un avantage sur les tests de discrétion et d'escamotage.
+Au niveau 15, l'Assassyrhim obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de discrétion et d'escamotage.
 
 
 §§§ .hero
@@ -122,13 +122,13 @@ Au niveau 16, l'Assassyrhim peut appliquer des poisons mortels sur ses armes pou
 
 ### Maître des Ombres
 **En Shahim: Ustadh Aldhilal**    
-Au niveau 16, l'Assassyrhim peut se fondre dans l'ombre, devenant pratiquement invisible et obtenant un avantage sur tous les jets de discrétion avec un bonus supplémentaire de +4.
+Au niveau 16, l'Assassyrhim peut se fondre dans l'ombre, devenant pratiquement invisible et obtenant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur tous les jets de discrétion avec un bonus supplémentaire de +4.
 
 [![Assassyrhim](https://www.douaratil.fr/illustrations/archetype/assassyrhim6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/assassyrhim6.jpeg) 
 
 ### Double identité
 **En Shahim: Huwayah Muthna'ia**    
-Au niveau 18, l'Assassyrhim peut maintenir deux identités distinctes sans éveiller les soupçons, obtenant des avantages sur les tests de tromperie et de persuasion lorsqu'il change d'identité. Il ne peux pas prendre les deux identités devant un même interlocuteur et doit pouvoir utiliser ses compétences de déguisement. Mais lorsqu’il a pu sortir de champs de vision de son interlocuteur, puis pu se déguiser, il peut réapparaitre dans un délai de 2+1d6 rounds pour se faire passr pour quelqu’un d’autres.
+Au niveau 18, l'Assassyrhim peut maintenir deux identités distinctes sans éveiller les soupçons, obtenant des [_avantages_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de tromperie et de persuasion lorsqu'il change d'identité. Il ne peux pas prendre les deux identités devant un même interlocuteur et doit pouvoir utiliser ses compétences de déguisement. Mais lorsqu’il a pu sortir de champs de vision de son interlocuteur, puis pu se déguiser, il peut réapparaitre dans un délai de 2+1d6 rounds pour se faire passr pour quelqu’un d’autres.
 
 §§§ .hero
 *Les funérailles de Yassin furent discrètes, comme il avait vécu. La recherche d'un nouveau disciple commençait, les intrigues de Shahia n'attendaient pas.*
