@@ -331,6 +331,11 @@ module.exports = {
               icon: 'mdi-sword',
               path: '/archetypes/ior',
             },
+            {
+              title: "Houryam",
+              icon: 'mdi-feather',
+              path: '/archetypes/houryam',
+            },
           {
               title: "Jargl",
               icon: 'mdi-sword',
