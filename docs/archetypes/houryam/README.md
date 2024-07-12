@@ -1,3 +1,6 @@
+
+
+
 ---
 title: Houryam
 ---
@@ -18,7 +21,7 @@ title: Houryam
 |**14**|[Technique de Séduction](#technique-de-seduction)|
 |**15**|[Harem](#harem), [Infiltratrice Experte](#infiltratrice-experte)|
 |**16**|[Danse Mystique](#danse-mystique), [Maîtresse des Secrets](#maitresse-des-secrets)|
-|**18**|[Double Vie](#double-vie)|
+|**18**|[Influenceuse](#influenceuse)|
 |**19**|[Grande Maîtresse](#grande-maitresse)|
 |**20**|[Véritable Houryam](#veritable-houryam)|
 
@@ -79,6 +82,8 @@ Au niveau 13, l'Houryam obtient un bonus de +2 lors de ses tests de patrimoine d
 **En Shahim: Asalib Alighwa'**
 Au niveau 14, l'Houryam peut, au prix d’une action bonus, relancer un test de compétence social en cas d'échec  intial. Elle doit attendre un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) avant de pouvoir réutiliser cette capacité.
 
+[![Houryam](https://www.douaratil.fr/illustrations/archetype/houryam4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/houryam4.jpeg) 
+
 ### Harem
 **En Shahim: Harem**
 Au niveau 15, l'Houryam est une maîtresse qui attire des disciples. Elle peut former un Harem, un groupe de femme. Les disciples sont aux choix du joueur soit de la Voie des armes ou de la Voie de l'ombre mais jamais de la voie de la Magie. Ces femmes disciples commencent tous au niveau Novice. Elles progressent chaque lune de façon asymétrique et pyramidale selon le tableau ci-dessous :
@@ -94,30 +99,34 @@ Au niveau 15, l'Houryam est une maîtresse qui attire des disciples. Elle peut f
 
 Si une disciple devait mourir, elle peut être remplacée la lune suivante par une nouvelle postulante qui recommencera Novice.
 
+[![Houryam](https://www.douaratil.fr/illustrations/archetype/houryam5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/houryam5.jpeg) 
+
 ### Infiltratrice Experte
 **En Shahim: Mutakhassisat Altadakhul**
-Au niveau 15, l'Houryam obtient un bonus de +6 sur les tests de discrétion, d'escamotage, de séduction et de représentation.
+Au niveau 15, l'Houryam obtient un bonus de +6 sur les tests de discrétion, d'escamotage, de séduction et de représentation.    
+
+[![Houryam](https://www.douaratil.fr/illustrations/archetype/houryam3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/houryam3.jpeg) 
 
 ### Danse Mystique
 **En Shahim: Raqs Almithli**
-Au niveau 16, l'Houryam peut exécuter une danse mystique qui lui permet de devenir presque invisible aux yeux de ses ennemis, obtenant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  sur tous les jets de discrétion avec un bonus supplémentaire de +4.
+Au niveau 16, l'Houryam peut exécuter une danse mystique qui lui donne plusieurs capacité provisoirement: elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage)  sur tous les jets de sauvegarde et de réaction d’esquive. Elle récupère 2d6 points d’action par round pendant la durée de la capacité.     
+Cette capacité dure 1d6 rounds + le bonus de Charisme. Il lui faudra attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir utiliser une nouvelle fois cette capacité.    
 
 ### Maîtresse des Secrets
 **En Shahim: Sayyidat Alasrar**
-Au niveau 16, l'Houryam est experte dans l'art de garder et de découvrir des secrets. Elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de perception et d'investigation pour trouver des informations cachées.
+Au niveau 16, l'Houryam est experte dans l'art de garder et de découvrir des secrets. Elle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de perception et d'investigation pour trouver des informations cachées. Cette avantage s’applique aussi à des jets de sauvegarde dans des situations de séduction, d’intimidation ou de torture.
 
-### Double Vie
+[![Houryam](https://www.douaratil.fr/illustrations/archetype/houryam6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/houryam6.jpeg) 
+
+### Influenceuse
 **En Shahim: Hayat Muzdawija**
-Au niveau 18, l'Houryam peut maintenir deux identités distinctes sans éveiller les soupçons, obtenant des avantages sur les tests de tromperie et de persuasion lorsqu'elle change d'identité. Elle ne peut pas prendre les deux identités devant un même interlocuteur et doit pouvoir utiliser ses compétences de déguisement. Mais lorsqu’elle a pu sortir du champ de vision de son interlocuteur, puis se déguiser, elle peut réapparaître dans un délai de 2+1d6 rounds pour se faire passer pour quelqu’un d’autre.
-
-§§§ .hero
-*Les funérailles de Layla furent somptueuses, un hommage à sa vie de service et de sacrifice. La quête pour trouver une nouvelle Houryam commençait, car les intrigues de Shahia ne s'arrêtaient jamais.*
-**Chroniques de Shahia** 
-§§§ 
+Au niveau 18, l'Houryam peut maintenir 1 plus son bonus de charisme dignitaires de second rangs dans les cours royales sous son influence. Les personnes ont un statut de [_confiant_](/reputation/#confiant) envers la Houryam. La houryam peut décider de répartir ses contacts dans divers lieux stratégiques des royaumes. 
 
 ### Grande Maîtresse
 **En Shahim: Ray's Alkabira**
-Au niveau 19, l'Houryam peut maintenant exécuter des infiltrations parfaites, obtenant des informations critiques sans laisser de traces. Ses attaques sournoises de séduction ont un bonus de +3d6, et si la cible est charmée, elle peut être maintenue sous son influence pendant un temps prolongé avant de réaliser la manipulation.
+Au niveau 19, l'Houryam peut devenir la courtisane préférée d’un roi, obtenant un statut quasi royal. Son influence est tellement grande qu’elle reste libre de ses allers et venues.    
+
+[![Houryam](https://www.douaratil.fr/illustrations/archetype/houryam7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/houryam7.jpeg) 
 
 ### Véritable Houryam
 **En Shahim: Sahih Houryam**
