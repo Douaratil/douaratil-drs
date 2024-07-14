@@ -50,7 +50,7 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,5
 _Touché_ : 3d6+1 dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](#fievre-du-darakhul).
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+3 dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
+_Touché_ : 4d6+3 dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 
 §§§ .hero
 ## Fièvre du Darakhul

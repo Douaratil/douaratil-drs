@@ -47,4 +47,4 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,5
 _Touché_ : 2d6+2 dégâts perforants.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 1d6+4 dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10, sans quoi elle est _paralysée_ pendant 1d6 rounds. Une cible _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+_Touché_ : 1d6+4 dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 10, sans quoi elle est _paralysée_ pendant 1d6 rounds. Une cible _paralysée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.

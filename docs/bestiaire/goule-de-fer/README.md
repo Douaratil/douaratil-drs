@@ -44,10 +44,10 @@ _**Braver le renvoi**_. La goule de fer et toutes les goules dans un rayon de 9 
 _**Attaques multiples**_. La goule de fer fait une attaque de _morsure_ et une de _griffes_, ou trois attaques de _pique_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+4 dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
+_Touché_ : 4d6+4 dégâts perforants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+4 dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
+_Touché_ : 4d6+4 dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](#fievre-du-darakhul).
 
 _**Pique**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 3d6+4 dégâts perforant.

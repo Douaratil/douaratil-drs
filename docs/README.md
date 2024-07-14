@@ -24,7 +24,7 @@ Visites:
 - Ajout de la [houryam](/archetypes/houryam), un archétype shahim de courtisane-espionne.     
 
 **Bestiaire :**   
-- Changement du kakhe en [kaprun](/bestiaire/kaprun).  
+- Ajout de l'[horribleur](/bestiaire/horribleur).  
 
 Bon jeu.     
 §§§ .text-right
