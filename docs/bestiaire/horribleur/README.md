@@ -9,12 +9,12 @@ abilityScores:
   for: 18
   dex: 16
   con: 18
-  int: 14
-  sag: 14
+  int: 7
+  sag: 10
   cha: 14
 ac:
   armorType: "custom"
-  value: "19 (armure cuirasse)"
+  value: "15 (armure naturelle)"
 movement:
   walk: 9
   burrow: 6
@@ -34,7 +34,7 @@ languages:
 ## Horribleur
 &nbsp;
 [![Horribleur](https://www.douaratil.fr/illustrations/mort-vivant/horribleur300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/horribleur.jpeg)  
-**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 21, réussite 4, échec 3d6+1.   
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 22, réussite 4, échec 3d6+1.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
