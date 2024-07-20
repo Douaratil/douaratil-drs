@@ -17,7 +17,6 @@ ac:
   value: "13 (armure naturelle)"
 movement:
   walk: 9
-  burrow: 6
 senses:
   darkvision: 18
 conditionImmunities:
@@ -43,8 +42,8 @@ _**Braver le renvoi**_. Le hurleur nocturne est _avantagé_ sur les jets de sauv
 ## Actions
 _**Attaques multiples**_. Le hurleur nocturne fait deux attaques de _griffes_ et une attaque de _hurlement_ .
 
-_**Morsure**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+4 dégâts perforants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.Pendant sa paralysie l'horribluer peut commencer à drainer l'énergie de sa victime et lui causer 1d6 dégâts perforant et 5d6 drain de points de Magie en priorité, puis en points de Foi. Ce drain lui permet de récupérer la moitié des poitns absorbés en points d'action. Lorsque la victime est complètement drainée commence alors à la dévorer en lui causant les dégâts initiaux de morsure.
+_**Hurlement**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 4d6+4 dégâts de tonnerre. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1d6 rounds [assourdie](/gerer-la-sante-du-personnage/#assourdi) pendant 2d6 rounds. 
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 4d6+4 dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle est _paralysée_ pendant 1d6 rounds. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. 
+_Touché_ : 4d6+4 dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 16, sans quoi elle est projetée à 3+1d6 mètres et se retrouve à [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

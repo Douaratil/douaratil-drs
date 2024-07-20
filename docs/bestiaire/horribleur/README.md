@@ -17,7 +17,6 @@ ac:
   value: "15 (armure naturelle)"
 movement:
   walk: 9
-  burrow: 6
 senses:
   darkvision: 18
 conditionImmunities:

@@ -24,13 +24,14 @@ Visites:
 - Ajout de la [houryam](/archetypes/houryam), un archétype shahim de courtisane-espionne.     
 
 **Bestiaire :**   
+- Ajout du [gremleur](/bestiaire/gremleur).  
 - Ajout de l'[horribleur](/bestiaire/horribleur).  
 - Ajout du [hurleur nocturne](/bestiaire/hurleur-nocturne).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 20 juillet 2024_
+_le 20  juillet 2024_
 §§§
 
 ## Mise à jour 218
