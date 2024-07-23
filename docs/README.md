@@ -30,6 +30,7 @@ Visites:
 
 **Grimoire :**   
 - Ajout du sort [âme en peine gardienne](/grimoire/ame-en-peine-gardienne).  
+- Ajout du sort [détection des plantes aromatiques](/grimoire/detection-des-plantes-aromatiques).  
 - Ajout du sort [guérison des fractures](/grimoire/guerison-des-fractures).     
 - Ajout du sort [guérison des organes](/grimoire/guerison-des-organes).     
 - Ajout du sort [soin des brûlures](/grimoire/soin-des-brulures).     
