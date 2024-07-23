@@ -1,6 +1,6 @@
 ---
 title: "Invoquer les fantômes"
-description: "Invoque un élémentaire puissant qui obéit au PJ."
+description: "Invoque des fantômes qui obéissent au PJ."
 school: "Invocation"
 level: 3
 concentration: true
@@ -31,7 +31,7 @@ Si votre concentration se brise, le [spectre](/bestiaire/spectre) ne disparaît 
 
 C'est le MJ qui dispose du profil technique du [spectre](/bestiaire/spectre).   
 
-Si le lanceur de sort veut se lier un [spectre](/bestiaire/spectre), i peut le faire par rituel. Il doit lancer le sort pendant une lune noire, sacrifier une perle noire d'une valeur de 500 po et dépenser 70 pièces d'or de matériel de rituel en bougie et en encens.   
+Si le lanceur de sort veut se lier un [spectre](/bestiaire/spectre), il peut le faire par rituel. Il doit lancer le sort pendant une lune noire, sacrifier une perle noire d'une valeur de 500 po et dépenser 70 pièces d'or de matériel de rituel en bougie et en encens.   
 Après avoir enchanté la perle, il s'incise une partie de son corps pour y loger la perle. La perle doit être dans le corps mais aussi à l'extérieur pour symboliser le lien entre les deux mondes.   
 Le magicien peut se lier autant de Spectre que son modificateur de Charisme. Il doit cependant faire un rituel par [spectre](/bestiaire/spectre) lié.   
 

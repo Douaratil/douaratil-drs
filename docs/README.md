@@ -28,10 +28,16 @@ Visites:
 - Ajout de l'[horribleur](/bestiaire/horribleur).  
 - Ajout du [hurleur nocturne](/bestiaire/hurleur-nocturne).  
 
+**Grimoire :**   
+- Ajout du sort [âme en peine gardienne](/grimoire/ame-en-peine-gardienne).  
+- Ajout du sort [guérison des fractures](/grimoire/guerison-des-fractures).     
+- Ajout du sort [guérison des organes](/grimoire/guerison-des-organes).     
+- Ajout du sort [soin des brûlures](/grimoire/soin-des-brulures).     
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 20  juillet 2024_
+_le 23  juillet 2024_
 §§§
 
 ## Mise à jour 218
