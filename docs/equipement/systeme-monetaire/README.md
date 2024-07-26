@@ -13,6 +13,8 @@ En plus de ces pièces courantes, les aventuriers trouvent parfois des pièces r
 Une pièce standard pèse 10 grammes environ. Cinquante pièces pèsent donc 500 grammes.
 Les pièces peuvent être convertie dans les grandes villes contre la monnaie dans le métal moins fort ou plus fort. Il y a toujours des frais de commission. Les conversions de monnaie se font par tranche de 1000 pièces minimum (maximum 10 000) par lune. Un taux de commission est appliqué à chaque fois qui représente la fluctuation du cours des métaux précieux mais aussi la négociation entre le personnage et le courtier. Le taux de commission est égal à **1d6%**(le dés est explosif).
 
+[![Monnaie](https://www.douaratil.fr/illustrations/regles/monnaie300.jpeg)](https://www.douaratil.fr/illustrations/regles/monnaie.jpeg)
+
 
 ## Taux d'échange standard
 | Pièce | PC | PA | PE | PO | PP |

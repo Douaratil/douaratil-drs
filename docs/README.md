@@ -19,9 +19,14 @@ Visites:
 
 
 ## Mise à jour 220
-![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj219.jpeg)     
+![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj220.jpeg)     
+
+**Règles :**   
+- Ajout d'illustrations à la page [lancer des sorts](/lancer-des-sorts)
+- Ajout d'illustrations à la page [système monétaire](/equipement/systeme-monetaire)
 
 **Grimoire :**   
+- Ajout du sort [pourse molle](/grimoire/bourse-molle).  
 - Ajout du sort [brise noix](/grimoire/brise-noix).  
 
 Bon jeu.     
