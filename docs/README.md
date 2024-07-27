@@ -21,6 +21,9 @@ Visites:
 ## Mise à jour 220
 ![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj220.jpeg)     
 
+**Site :**
+- Ajout d'une page [PJ](/PJ) accesible depuis le menu dans la rubrique "le monde de Douaratil"
+
 **Règles :**   
 - Ajout d'illustrations à la page [lancer des sorts](/lancer-des-sorts)
 - Ajout d'illustrations à la page [système monétaire](/equipement/systeme-monetaire)
@@ -29,6 +32,11 @@ Visites:
 - Ajout du sort [bourse molle](/grimoire/bourse-molle).  
 - Ajout du sort [brise noix](/grimoire/brise-noix).  
 - Ajout du sort [claire semence](/grimoire/claire-semence).  
+
+**PJ :**   
+- Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen). 
+- Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus). 
+- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa). 
 
 Bon jeu.     
 §§§ .text-right

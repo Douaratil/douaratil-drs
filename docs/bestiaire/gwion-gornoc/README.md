@@ -74,6 +74,7 @@ category: "PJ"
 *N’étant encore qu’assez jeune, 28 printemps seulement, son avenir ne pouvait être que prometteur s’il était assez avisé pour ne pas se faire tuer par un ennemi inconnu.*          
 **Souvenirs d'Ailynn la voyageuse**   
 §§§   
+
 [![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwion300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwion.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 63  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16        

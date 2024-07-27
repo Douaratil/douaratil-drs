@@ -68,7 +68,7 @@ category: "PJ"
 ---
 ## Ioen Paetus
 &nbsp;
-[![Ioen Paetus](https://www.douaratil.fr/illustrations/pj/ioenpaetusm.png)](https://www.douaratil.fr/illustrations/pj/ioenpaetus.jpg)
+[![Ioen Paetus](https://www.douaratil.fr/illustrations/pj/ioenpaetus300.jpeg)](https://www.douaratil.fr/illustrations/pj/ioenpaetus.jpeg)   
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 51        
 **<v-icon>mdi-skull-crossbones</v-icon>Seuil de critique**: 8          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 26      

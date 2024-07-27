@@ -67,7 +67,7 @@ languages:
 - "le Weslèdh (3/1), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0), Holtar (0/3), Omath (0/3), Oghen (0/3)"
 category: "PJ"
 ---
-## Rudolf Bernsen
+## <v-icon>mdi-drama-masks</v-icon> Rudolf Bernsen
 &nbsp;
 [![Rudolf Bernsen](https://www.douaratil.fr/illustrations/pj/rudolfm.png)](https://www.douaratil.fr/illustrations/pj/rudolf.jpg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          

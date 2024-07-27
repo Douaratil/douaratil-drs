@@ -67,7 +67,7 @@ languages:
   - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
-## Ayah Kenira
+## <v-icon>mdi-human-greeting</v-icon>  Ayah Kenira
 &nbsp;
 [![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayah300.jpeg)](https://www.douaratil.fr/illustrations/pj/ayah.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          

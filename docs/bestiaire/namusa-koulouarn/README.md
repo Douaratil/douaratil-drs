@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## Namusa Koulouarn
+## <v-icon>mdi-drama-masks</v-icon> Namusa Koulouarn
 &nbsp;
 [![Namusa Koulouarn](https://www.douaratil.fr/illustrations/pj/namusam.png)](https://www.douaratil.fr/illustrations/pj/namusa.jpg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 24     

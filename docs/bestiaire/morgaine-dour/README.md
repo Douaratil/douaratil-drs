@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## Morgaine Dour
+## <v-icon>mdi-drama-masks</v-icon> Morgaine Dour
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Morgaine Dour V3.1 20230224.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Morgaine Dour PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Morgaine Dour
 §§§ .hero

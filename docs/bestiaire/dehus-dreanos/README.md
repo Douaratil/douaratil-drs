@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## Dehus Dreanos
+## <v-icon>mdi-human-greeting</v-icon> Dehus Dreanos
 &nbsp;
 [![Dehus Dreanos](https://www.douaratil.fr/illustrations/pj/dehus300.jpeg)](https://www.douaratil.fr/illustrations/pj/dehus.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 32        

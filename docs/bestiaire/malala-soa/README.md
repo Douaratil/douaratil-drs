@@ -37,9 +37,9 @@ languages:
   - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
-## Malala Soa
+## <v-icon>mdi-human-greeting</v-icon>  Malala Soa
 &nbsp;
-[![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalam.png)](https://www.douaratil.fr/illustrations/pj/malala.jpg)  
+[![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalasoa300.jpeg)](https://www.douaratil.fr/illustrations/pj/malalasoa.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 23        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    

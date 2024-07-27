@@ -845,6 +845,10 @@ module.exports = {
               }
             ]
           },
+          {title: "PJ",
+          icon: 'mdi-account',
+          path:'/PJ'
+          },
           {title: "PNJ",
           icon: 'mdi-account-group-outline',
            children: [

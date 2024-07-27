@@ -63,6 +63,9 @@ languages:
   - "le Weslèdh, le commun nordique, le Melg/Bergaf langue melge, le welkarn dialecte melg,l'Alcane/Alcath commun impérial "
 category: "PJ"
 ---
+## <v-icon>mdi-drama-masks</v-icon> Cnuth Athelsen
+&nbsp;
+[![Cnuth Athelsen](https://www.douaratil.fr/illustrations/pj/cnuthathelsen300.jpeg)](https://www.douaratil.fr/illustrations/pj/cnuthathelsen.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 26    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21   
@@ -83,6 +86,8 @@ _**Expertise**_. *(Ombre)* Au niveau 1, choisissez deux compétences que vous ma
 
 _**Attaque sournoise**_. *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque. Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
 
+[![Cnuth Athelsen](https://www.douaratil.fr/illustrations/pj/cnuthathelsen2300.jpeg)](https://www.douaratil.fr/illustrations/pj/cnuthathelsen2.jpeg)  
+
 _**Ruse**_. *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.  
 
 _**Vengeance**_. *(Jörghal)* À partir du niveau 3, le champion gagne un bonus de +1d6 aux dégâts contre un adversaire qui l'a déjà blessé. Un Jörghal blessé est toujours plus dangereux et animé d'une rage.   
@@ -93,6 +98,8 @@ _**Champion**_. *(Jörghal)*  partir du niveau 5, le Jörghal peut utiliser sa c
 Pour 1d6 rounds, pour l'action attaquer et uniquement pour ce type d'action, le seuil de critique du dés passe à 5, il passe à 4 au niveau 18. Vous devez faire un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou long avant de pouvoir réutiliser cette capacité.  
 
 _**Maître des haches**_. *(Jörghal)* À partir du niveau 6, le Jörghal se utilise de préférence des armes de type hache au combat. Il obtient un bonus de +2 aux dommages avec une hache de bataille à deux mains. Il obtient la capacité de se battre avec une hache d'arme dans chaque main sans pénalités. Il augmente la portée de lancer des hachettes de 6m (12/24)  
+
+[![Cnuth Athelsen](https://www.douaratil.fr/illustrations/pj/cnuthathelsen3300.jpeg)](https://www.douaratil.fr/illustrations/pj/cnuthathelsen3.jpeg)  
 
 ## Actions  
 _**Attaques multiples**_. Cnuth effectue 2 attaques par round lorsqu'elle utilise l'action attaquer.
@@ -113,7 +120,7 @@ _**Pique**_. _Attaque d'arme au corps à corps_ : +8 pour toucher, allonge 1,50 
 _Touché_ : 3d6 dégâts tranchants (lourde, allonge, à deux mains).  
 
 
-
+[![Cnuth Athelsen](https://www.douaratil.fr/illustrations/pj/cnuthathelsen4300.jpeg)](https://www.douaratil.fr/illustrations/pj/cnuthathelsen4.jpeg)  
 
 §§§ .hero
 ### Présentation:  

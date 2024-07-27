@@ -62,7 +62,7 @@ languages:
   - "le Weslèdh (3/0), le Khern (3/0), le Bredète (3/0), le Mèlde (3/2) "  
 category: "PJ"
 ---
-## Talos Virato
+## <v-icon>mdi-drama-masks</v-icon> Talos Virato
 &nbsp;
 [![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](https://www.douaratil.fr/illustrations/pj/talosvirato.jpg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 30         

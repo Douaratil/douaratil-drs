@@ -67,7 +67,7 @@ languages:
 - "le Weslèdh (3/1), le Melg/Bergaf (3/1), le Zorkhan (3/1), le Mèlde (3/0), Holtar (0/3), Omath (0/3), Oghen (0/3)"
 category: "PJ"
 ---
-## Sigtryggr Olgensen
+## <v-icon>mdi-drama-masks</v-icon> Sigtryggr Olgensen
 &nbsp;
 [![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensenm.png)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen.jpg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 44        

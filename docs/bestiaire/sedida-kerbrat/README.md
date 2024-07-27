@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## Sedida Kerbrat
+## <v-icon>mdi-drama-masks</v-icon> Sedida Kerbrat
 &nbsp;
 [![Sedida Kerbrat](https://www.douaratil.fr/illustrations/pj/sedidam.png)](https://www.douaratil.fr/illustrations/pj/sedida.jpg)  
 

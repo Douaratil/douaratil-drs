@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## Samia Tiercelin
+## <v-icon>mdi-drama-masks</v-icon> Samia Tiercelin
 &nbsp;
 [![Samia Tiercelin](https://www.douaratil.fr/illustrations/pj/samiam.png)](https://www.douaratil.fr/illustrations/pj/samia.jpg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 25       
