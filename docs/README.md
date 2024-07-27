@@ -26,8 +26,9 @@ Visites:
 - Ajout d'illustrations à la page [système monétaire](/equipement/systeme-monetaire)
 
 **Grimoire :**   
-- Ajout du sort [pourse molle](/grimoire/bourse-molle).  
+- Ajout du sort [bourse molle](/grimoire/bourse-molle).  
 - Ajout du sort [brise noix](/grimoire/brise-noix).  
+- Ajout du sort [claire semence](/grimoire/claire-semence).  
 
 Bon jeu.     
 §§§ .text-right
