@@ -81,6 +81,22 @@ _**Historique Officier:**_.
 **Équipement**. Monture, habits de bonne qualité, insigne ou emblème de votre unité et de votre rang, bourse contenant 15 po.  
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
 [![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin2300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin2.jpeg)  
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.

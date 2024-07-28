@@ -69,7 +69,7 @@ category: "PJ"
 ---
 ## <v-icon>mdi-drama-masks</v-icon> Rudolf Bernsen
 &nbsp;
-[![Rudolf Bernsen](https://www.douaratil.fr/illustrations/pj/rudolfm.png)](https://www.douaratil.fr/illustrations/pj/rudolf.jpg)  
+[![Rudolf Bernsen](https://www.douaratil.fr/illustrations/pj/rudolfbernsen300.jpeg)](https://www.douaratil.fr/illustrations/pj/rudolfbernsen.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 24     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -79,6 +79,23 @@ category: "PJ"
 **Langues maîtrisées**. Une langue au choix.  
 **Équipement**. Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15  m), bourse contenant 15 po.  
 **Aptitude**. [Découvreur](/personnalite-et-historique/#decouvreur)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 12 | 12| Luxurieux |
+| Energique|18  |6| Paresseux |
+| Indulgent| 14 | 10|  Rancunier|
+| Généreux| 23 |1 |Egoïste  |
+| Sincère| 20 |4 | Trompeur |
+|Juste |19  | 5| Arbitraire |
+| Miséricordieux| 12 | 12| Cruel |
+| Modeste| 10 |14 |  Fier|
+| Pieux| 12 | 12|  Pragmatique|
+|Sobre | 12 |12 | Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 7 |17 | Impulsif|
+|Valeureux| 22 | 2| Couard|
+
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, flûte, tambourin.  
 

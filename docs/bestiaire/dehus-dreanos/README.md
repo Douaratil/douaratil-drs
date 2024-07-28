@@ -65,7 +65,7 @@ languages:
 category: "PJ"
 ---
 
-## <v-icon>mdi-human-greeting</v-icon> Dehus Dreanos
+## <v-icon>mdi-drama-masks</v-icon> Dehus Dreanos
 &nbsp;
 [![Dehus Dreanos](https://www.douaratil.fr/illustrations/pj/dehus300.jpeg)](https://www.douaratil.fr/illustrations/pj/dehus.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 32        
@@ -77,6 +77,23 @@ category: "PJ"
 **Outils maîtrisés** : Deux ensembles d'outils d'artisan au choix entre ustensiles de cuisinier, outils de tanneur, de potier, de forgeron, de tisserand ou de menuisier.  
 **Équipement** : Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.  
 **Aptitude** : [Besoin de personne](/personnalite-et-historique/#besoin-de-personne)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 14 | 10| Luxurieux |
+| Energique| 12 |12 | Paresseux |
+| Indulgent| 12 | 12|  Rancunier|
+| Généreux| 10 | 14|Egoïste  |
+| Sincère| 8 |16 | Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 10 | 14| Cruel |
+| Modeste| 10 | 14|  Fier|
+| Pieux| 13 | 11|  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 6 |18 | Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 12 |12 | Couard|
+
 
 _**Maîtrises:**_. Instrument , dagues, fléchettes, frondes, bâtons .
 

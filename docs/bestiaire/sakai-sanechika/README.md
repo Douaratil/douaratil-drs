@@ -81,6 +81,23 @@ _**Historique Sang-bleu:**_.
 **Équipement** : Habits de bonne qualité, monture, chevalière portant le sceau familial, bourse contenant 20 po.  
 **Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 [![Sakai Sanechika](https://www.douaratil.fr/illustrations/pj/sakaisanechika2300.jpeg)](https://www.douaratil.fr/illustrations/pj/sakaisanechika2.jpeg)  
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (double maitrise sabre et arc long), boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre, calligraphie.

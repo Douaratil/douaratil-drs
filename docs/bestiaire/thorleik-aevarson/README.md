@@ -80,6 +80,23 @@ category: "PJ"
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
 [![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik2300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik2.jpeg)  
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.  
 

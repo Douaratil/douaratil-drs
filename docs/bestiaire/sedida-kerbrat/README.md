@@ -79,6 +79,23 @@ category: "PJ"
 **Équipement** : Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.  
 **Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 12 | 12| Luxurieux |
+| Energique|12  |12 | Paresseux |
+| Indulgent| 13 | 11|  Rancunier|
+| Généreux| 14 | 10|Egoïste  |
+| Sincère| 9 | 15| Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste| 14 | 10|  Fier|
+| Pieux| 15 | 9|  Pragmatique|
+|Sobre | 17 |7 | Complaisant |
+|Confiant | 12 |&2 | Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 15 |9 | Couard|
+
+
 _**Maîtrises:**_. Instrument , dagues, fléchettes, frondes, bâtons .
 
 _**Voie de la Magie**_. Sedida est niveau 2 dans la voie de la Magie.

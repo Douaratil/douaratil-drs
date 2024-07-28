@@ -79,6 +79,22 @@ category: "PJ"
 **Équipement**. Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.  
 **Aptitude**. [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  3| 21| Luxurieux |
+| Energique| 14 | 10| Paresseux |
+| Indulgent|12  | 12|  Rancunier|
+| Généreux| 8 |16|Egoïste  |
+| Sincère| 5 |19 | Trompeur |
+|Juste | 10 | 14| Arbitraire |
+| Miséricordieux| 6 |18 | Cruel |
+| Modeste| 4 | 20|  Fier|
+| Pieux| 2 | 22|  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 6 |18 | Méfiant |
+|Réfléchi | 11 | 13| Impulsif|
+|Valeureux| 16 | 8| Couard|
+
 [![Tiberius Don Alonzo](https://www.douaratil.fr/illustrations/pj/tiberius2300.jpeg)](https://www.douaratil.fr/illustrations/pj/tiberius2.jpeg)  
 
 _**Maîtrises:**_. Armes courantes, épée longue, épée courte, rapière, glaive, trident, filet (Double maîtrise pour les armes courantes, l'épée courte, l'épée longue), boucliers, armure légère, armure intermédiaire, armure lourde, outils de joailliers, outils de voleur.  

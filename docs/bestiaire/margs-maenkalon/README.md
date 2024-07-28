@@ -82,6 +82,23 @@ category: "PJ"
 **Équipement**.  Insigne représentant sa religion et sa fonction, habits de bonne qualité, épais journal vierge pour consigner ses investigations, matériel de calligraphie, bourse contenant 20 po.  
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#position-d'autorite)   
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 &nbsp;
 [![Margs](https://www.douaratil.fr/illustrations/pj/margs2300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs2.jpeg)    
 

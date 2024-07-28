@@ -80,6 +80,23 @@ _**Historique**_ : Érudit
 **Équipement** : Habits de bonne qualité, deux bougies, matériel de calligraphie ou outils de cartographe ou matériel d'alchimiste, quelques lettres de correspondance avec un ou plusieurs confrères, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)   
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 [![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame2300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame2.jpeg)  
 
 **Maîtrises**: dagues, fléchettes, frondes, bâtons (Double maîtrise bâton), sabre, outils de cartographie  

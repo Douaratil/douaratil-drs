@@ -67,7 +67,7 @@ languages:
   - "le Weslèdh, le commun nordique, le Khern langue khernaëe, Bena’ch,  l'Alcath/l'Alcane le commun impérial, le Mèlde"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon> Gwihem Tenvakalon
+## <v-icon>mdi-drama-masks</v-icon> Gwihem Tenvakalon
 &nbsp;
 [![Gwihem Tenvakalon](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwihemtenvakalon.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 43    
@@ -80,6 +80,23 @@ category: "PJ"
 **Langues maîtrisées**. Une langue au choix.  
 **Équipement**.  Tenue de voyageur, couverture, boîte à amadou, bout de bois taillé ou pierre étrange portée comme un talisman, matériel de pêche, bourse contenant 10 po.   
 **Aptitude**. [Position d'autorité](/personnalite-et-historique/#besoin-de-personne)   
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 8 | 16| Luxurieux |
+| Energique|12  | 12| Paresseux |
+| Indulgent| 12 |12 |  Rancunier|
+| Généreux| 12 | 12|Egoïste  |
+| Sincère| 10 |14 | Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux|  12|12 | Cruel |
+| Modeste| 13 | 11|  Fier|
+| Pieux| 18 |6 |  Pragmatique|
+|Sobre | 14 |10 | Complaisant |
+|Confiant | 11 |13 | Méfiant |
+|Réfléchi | 14 |10 | Impulsif|
+|Valeureux| 12 | 12| Couard|
+
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hachette, dagues, bâtons), boucliers, armure légère, armure intermédiaire, armure lourde, outils de calligraphie, outils d'herboriste, outils de Pottier, outils de tisserand.
 

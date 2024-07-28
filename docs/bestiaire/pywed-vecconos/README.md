@@ -79,6 +79,23 @@ category: "PJ"
 **Équipement** : Habits de bonne qualité, instrument de musique ou ensemble d'outils d'artisan, emblème ou symbole familial, bourse contenant 20 po.  
 **Aptitude** : [De la haute](/personnalite-et-historique/#de-la-haute)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , gourdins, javelines, massues, cimeterres, serpes, lances, glaive, hache, matériel d'herboriste, matériel d'alchimiste, Tympanion.
 
 _**Voie de la Magie & Drodan**_. Pywed est niveau 8 dans la voie de la Magie et Archétype Dordan.  

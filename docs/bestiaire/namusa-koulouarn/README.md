@@ -67,7 +67,7 @@ category: "PJ"
 
 ## <v-icon>mdi-drama-masks</v-icon> Namusa Koulouarn
 &nbsp;
-[![Namusa Koulouarn](https://www.douaratil.fr/illustrations/pj/namusam.png)](https://www.douaratil.fr/illustrations/pj/namusa.jpg)  
+[![Namusa Koulouarn](https://www.douaratil.fr/illustrations/pj/namusakoulouarn300.jpeg)](https://www.douaratil.fr/illustrations/pj/namusakoulouarn.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 24     
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 13     
@@ -77,6 +77,23 @@ category: "PJ"
 **Outils maîtrisés** : Un type de jeu au choix, accessoires de déguisement.  
 **Équipement** : Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.  
 **Aptitude** : [Mouches des rues](/personnalite-et-historique/#mouches-des-rues)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 8 | 16| Luxurieux |
+| Energique| 12 | 12| Paresseux |
+| Indulgent| 10 |14 |  Rancunier|
+| Généreux| 7 |17 |Egoïste  |
+| Sincère| 12 |12 | Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 10 | 14| Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 15 |9 |  Pragmatique|
+|Sobre | 12 |12 | Complaisant |
+|Confiant | 12 | 12| Méfiant |
+|Réfléchi | 12 | 12| Impulsif|
+|Valeureux| 12 |12 | Couard|
+
 
 _**Maîtrises:**_. Déguisement, jeu, armures légères, armures intermédiaires, armures lourdes, boucliers, armes courantes, armes de guerre.
 

@@ -68,14 +68,7 @@ category: "PJ"
 ## <v-icon>mdi-drama-masks</v-icon> Morgaine Dour
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Morgaine Dour V3.1 20230224.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Morgaine Dour PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon> Morgaine Dour
-§§§ .hero
-*Morgaine Dour était une jeune prêtresse de l'eau d'une beauté saisissante. Elle avait une longue chevelure noire, lisse comme de la soie, qui tombait en cascade sur ses épaules, encadrant son visage délicat. Ses yeux, d'un bleu intense, semblaient briller de mille feux, comme si elle avait le pouvoir de capter la lumière autour d'elle. Sa peau était d'une blancheur immaculée, comme si elle n'avait jamais été touchée par le soleil.*    
-
-*Elle portait une robe fluide d'un bleu profond, qui épousait parfaitement ses courbes élancées, et qui descendait jusqu'à ses pieds nus. Des broderies en argent scintillaient sur la robe, mettant en valeur sa beauté naturelle. Morgaine avait toujours avec elle un petit sac en cuir où elle gardait ses herbes et potions pour les besoins de sa fonction de prêtresse. Elle se déplaçait avec une grâce et une élégance remarquables, comme si chaque mouvement était une danse.*    
-
-*Les gens qui croisaient son chemin ne pouvaient s'empêcher de se retourner pour l'observer, comme hypnotisés par sa beauté mystique. Toutefois, sous cette apparence angélique se cachait une femme forte et déterminée, capable de se défendre elle-même en cas de danger. Elle était une gardienne de l'eau et avait juré de protéger ce bien précieux. Morgaine Dour était une figure mystique, une légende vivante qui inspirait respect et admiration à tous ceux qui la croisaient.*   
-**Souvenirs d'Ailynn la voyageuse**   
-§§§  
+[![Morgaine Dour](https://www.douaratil.fr/illustrations/pj/morgainedour300.jpeg)](https://www.douaratil.fr/illustrations/pj/morgainedour.jpeg)    
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 25     
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 12      
@@ -85,6 +78,22 @@ category: "PJ"
 **Langues maîtrisées** : Deux langues au choix.  
 **Équipement** : Symbole sacré (qui vous a été remis quand vous êtes entré dans les ordres), livre de prière ou moulin à prière, 5 bâtons d'encens, tenue de cérémonie, habits courants, bourse contenant 10 po.     
 **Aptitude** : [Refuge du pèlerin](/personnalite-et-historique/#refuge-du-pelerin)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 13 | 11| Luxurieux |
+| Energique| 12 |12 | Paresseux |
+| Indulgent| 12 |12 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 11 |13 | Trompeur |
+|Juste | 12 | 12| Arbitraire |
+| Miséricordieux| 12 | 12| Cruel |
+| Modeste| 10 | 14|  Fier|
+| Pieux| 12 |12 | Complaisant |
+|Confiant | 12 | 12| Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 14 |10 | Couard|
+
 
 _**Maîtrises:**_. dagues, fléchettes, frondes, bâtons, hachette, glaive(épée longue).   
 

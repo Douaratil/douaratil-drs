@@ -66,7 +66,7 @@ languages:
   - "Le Weshled/Weshled (3/3), Le Khern/Weshled (3/3), le Mor'vron/Weshled (3/3), L'Alcante/Alcath (3/3) "
 category: "PJ"
 ---
-## Ioen Paetus
+## <v-icon>mdi-drama-masks</v-icon> Ioen Paetus
 &nbsp;
 [![Ioen Paetus](https://www.douaratil.fr/illustrations/pj/ioenpaetus300.jpeg)](https://www.douaratil.fr/illustrations/pj/ioenpaetus.jpeg)   
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 51        
@@ -78,6 +78,23 @@ category: "PJ"
 **Outils maîtrisés** : Un type de jeu au choix, accessoires de déguisement.  
 **Équipement** : Habits courants, paquet de cartes ou dés, quelques chausse-trappes, colifichet vous rappelant votre enfance et – si vous les avez connus – vos parents, bourse contenant 5 po.  
 **Aptitude** : [Mouches des rues](/personnalite-et-historique/#mouches-des-rues)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
 
 
 _**Maîtrises:**_. Dague, javeline, arc court, (Double maîtrise pour la dague, l'épée courte, l'épée longue), armure légère, armure intermédiaire, armure lourde, déguisement, jeu de dés.  

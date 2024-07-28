@@ -78,6 +78,24 @@ _**Historique:**_. Médecin
 **Outils maîtrisés**. Matériel d'herboriste, matériel d'empoisonneur.  
 **Équipement**. Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
 **Aptitude**. [Culture générale](/personnalite-et-historique/#culture-genérale)   
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 [![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina2300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina2.jpeg)  
 _**Maîtrises:**_. armures légères, armes courantes (Double maîtrise), cimeterre, fouet, sarbacane, javelot, épée longue, épée courte, rapière, matériel d'herboriste, matériel d'empoisonneur, outils de voleur.  
 

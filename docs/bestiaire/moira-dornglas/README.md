@@ -81,6 +81,24 @@ _**Historique:**_ Homme médecine.
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Sac contenant une tente et une couverture, bâton de marche, tenue de voyageur, matériel d'herboriste, bourse contenant des bijoux et des morceaux d'ivoire pour une valeur de 10 po.  
 **Aptitude** : [Fils de la nature](/personnalite-et-historique/#fils-de-la-nature)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 16 |8 | Luxurieux |
+| Energique|15  |9 | Paresseux |
+| Indulgent| 7 |17 |  Rancunier|
+| Généreux| 7 |17 |Egoïste  |
+| Sincère| 12 |12 | Trompeur |
+|Juste | 10 |14 | Arbitraire |
+| Miséricordieux| 11 | 13| Cruel |
+| Modeste| 12 |12 |  Fier|
+| Pieux| 18 |6 |  Pragmatique|
+|Sobre | 14 | 10| Complaisant |
+|Confiant | 7 | 17| Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux|12  |12 | Couard|
+
+
 [![Moira](https://www.douaratil.fr/illustrations/pj/moira2300.jpeg)](https://www.douaratil.fr/illustrations/pj/moira2.jpeg)    
 _**Maîtrises:**_. dague(••), bâton(••), cimeterre, épée longue et glaive (••), épée courte, fléchette, fronde, hachette, matériel d'herboriste (••), outil d'alchimie.  
 

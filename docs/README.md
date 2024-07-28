@@ -34,9 +34,22 @@ Visites:
 - Ajout du sort [claire semence](/grimoire/claire-semence).  
 
 **PJ :**   
-- Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen). 
+- Ajout des traits de caractères de [Alf Swenbjörnson](/bestiaire/alf-swenbjornson)
+- Ajout des traits de caractères de [Ayah Kenira](/bestiaire/ayah-kenira)
+- Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen) et ajout des traits de caractères.   
+- Ajout des traits de caractères de [Dehus Dreanos](/bestiaire/dehus-dreanos).   
+- Ajout des traits de caractères de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
 - Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus). 
-- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa). 
+- Ajout des traits de caractères de [Knut Swenson](/bestiaire/knut-swenson).   
+- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Moïra Dornglas](/bestiaire/moira-dornglas).   
+- Changement d'illustration de [Morgaine Dour](/bestiaire/morgaine-dour) et ajout des traits de caractères. 
+- Changement d'illustration de [Nadari Bahati](/bestiaire/nadira-bahati) et ajout des traits de caractères. 
+- Changement d'illustration de [Namusa Koulouarn](/bestiaire/namusa-koulouarn) et ajout des traits de caractères. 
+- Changement d'illustration de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) et ajout des traits de caractères. 
+- Changement d'illustration de [Samia Tiercelin](/bestiaire/samia-tiercelin) et ajout des traits de caractères. 
+- Changement d'illustration de [Sedida Kerbrat](/bestiaire/sedida-kerbrat) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Tibérius Don Alonzo](/bestiaire/tiberius-don-alonzo)
 
 Bon jeu.     
 §§§ .text-right

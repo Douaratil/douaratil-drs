@@ -80,6 +80,23 @@ _**Historique:**_  Bandit de grand chemin.
 **Équipement**. Couverture, vêtements de voyageur, quelques chausse-trappes, boîte à amadou, outre d'eau, bourse contenant 10 po.  
 **Aptitude**. [Signes de piste](/personnalite-et-historique/#signes-de-piste)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hache, arc long, l'arc composite et les armes courantes) boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.  
 
 _**Voie des armes & Gwylwir**_. Owain est niveau 11 dans la voie des armes et Archétype Gwylwir.

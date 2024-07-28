@@ -37,7 +37,7 @@ languages:
   - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon>  Malala Soa
+## <v-icon>mdi-drama-masks</v-icon>  Malala Soa
 &nbsp;
 [![Malala Soa](https://www.douaratil.fr/illustrations/pj/malalasoa300.jpeg)](https://www.douaratil.fr/illustrations/pj/malalasoa.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 23        
@@ -50,6 +50,22 @@ _**Historique:**_ Serveur
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Habits courants, dés ou paquet de cartes ou ustensiles de cuisinier, bouteille d'alcool fort, bourse contenant 10 po.  
 **Aptitude** : [Histoires de terres lointaines](/personnalite-et-historique/#histoires-de-terres-lointaines)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 16 | 8| Luxurieux |
+| Energique| 14 | 10| Paresseux |
+| Indulgent| 16 | 8|  Rancunier|
+| Généreux| 15 |9 |Egoïste  |
+| Sincère| 14 |10 | Trompeur |
+|Juste | 17 | 7| Arbitraire |
+| Miséricordieux|16 | 8| Cruel |
+| Modeste| 8 | 16|  Fier|
+| Pieux| 18 |6 |  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 14 |10 | Impulsif|
+|Valeureux| 12 |12 | Couard|
 
 _**Maîtrises:**_. Dagues, lance, massue, fronde, bâton, fléchettes.  
 

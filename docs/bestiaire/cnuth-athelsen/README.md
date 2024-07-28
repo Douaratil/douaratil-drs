@@ -78,6 +78,23 @@ category: "PJ"
 **Équipement** : Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.  
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 8 |16 | Luxurieux |
+| Energique| 16 | 8| Paresseux |
+| Indulgent| 10 |14 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 10 |14 | Trompeur |
+|Juste | 12 | 12| Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 12 |12 |  Pragmatique|
+|Sobre | 14 | 10| Complaisant |
+|Confiant | 8 | 16| Méfiant |
+|Réfléchi | 8 | 16| Impulsif|
+|Valeureux| 12 |12 | Couard|
+
+
 _**Maîtrises:**_. armures légères, armures lourdes, armes courantes, (Double Maîtrise armes courantes, épée longue, hache d'arme), épée courte, pique, jeu d'osselets.
 
 _**Voie des ombres & Jörghal**_. Cnuth est niveau 6 dans la voie des ombres et Archétype Jörghal.   

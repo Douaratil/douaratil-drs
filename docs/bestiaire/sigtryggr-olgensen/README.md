@@ -81,6 +81,23 @@ category: "PJ"
 **Équipement** : Vêtements discrets, cape ou manteau à capuche, insigne, emblème ou lettre de marque prouvant votre appartenance à votre guilde, matériel d'empoisonneur, bourse contenant 20 po.  
 **Aptitude** : [Marque de la mort](/personnalite-et-historique/#marque-de-la-mort)  
 
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
+
 _**Maîtrises:**_. armures légères, armes courantes, épée longue, rapière, épée courte, hache, pique (Double Maîtrise Dague, hachette, javeline marteau léger, masse d'armes, arc court, épée longue, hache de bataille), outils de voleur, flûte, tambourin.  
 
 _**Voie des armes & Skell**_. Sigtryggr est niveau 13 dans la voie des armes et Archétype Skell.

@@ -68,7 +68,7 @@ languages:
   - "le Weslèdh (3/0), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0)"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon>  Knut Svenson  
+## <v-icon>mdi-drama-masks</v-icon>  Knut Svenson  
 [![Knut](https://www.douaratil.fr/illustrations/pj/knut300.jpeg)](https://www.douaratil.fr/illustrations/pj/knut.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 35    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
@@ -80,6 +80,23 @@ category: "PJ"
 **Langues maîtrisées** : Une langue au choix.  
 **Équipement** : Vêtements courants, paquet de cartes ou dés, insigne ou emblème de votre unité et de votre rang, pierre à affûter, outre de vin, bourse contenant 15 po.  
 **Aptitude** : [Frères d'armes](/personnalite-et-historique/#freres-d'armes)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 8 | 16| Luxurieux |
+| Energique| 18 | 6| Paresseux |
+| Indulgent|10  | 14|  Rancunier|
+| Généreux| 10 |14 |Egoïste  |
+| Sincère| 16 | 8| Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 14 | 10| Cruel |
+| Modeste| 7 | 17|  Fier|
+| Pieux| 8 |16 |  Pragmatique|
+|Sobre | 12 |12 | Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 7 | 17| Impulsif|
+|Valeureux| 18 |6 | Couard|
+
 
 _**Maîtrises:**_. armures légères, armures intermédiaires, armures lourdes, armes courantes, armes de guerre, boucliers, (Double Maîtrise armes courantes, épée longue, hache, Hache de bataille, pique), véhicule terrestres, jeu de dés.  
 

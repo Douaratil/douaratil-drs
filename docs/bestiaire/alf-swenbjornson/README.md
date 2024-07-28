@@ -69,7 +69,7 @@ languages:
   - "le Weslèdh (3/1), le Melg/Bergaf (3/1), le Zorkhan (3/1), Khern (2/0)"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon>  Alf Swenbjörnson
+## <v-icon>mdi-drama-masks</v-icon>  Alf Swenbjörnson
 &nbsp;
 [![Alf Swenbjörnson](https://www.douaratil.fr/illustrations/pj/alf300.jpeg)](https://www.douaratil.fr/illustrations/pj/alf.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
@@ -81,6 +81,23 @@ category: "PJ"
 **Langues maîtrisées**. Une langue au choix (Khern).  
 **Équipement**. Tenue de voyageur, sac contenant couverture et tente, outre d'eau, corde en soie (15  m), bourse contenant 15 po.  
 **Aptitude**. [Découvreur](/personnalite-et-historique/#decouvreur)    
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 10 | 14| Luxurieux |
+| Energique| 16 |8 | Paresseux |
+| Indulgent| 10 |14 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 14 | 10| Trompeur |
+|Juste | 8 | 16| Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste| 10 |14 |  Fier|
+| Pieux| 12 |12 |  Pragmatique|
+|Sobre | 10 |14 | Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 8 |16 | Impulsif|
+|Valeureux| 16 | 8| Couard|
+
 
 _**Maîtrises:**_. Armures légères (••), armures intermédiaires (•), arc long (•), arc composite (•), épée longue, (••), épée courte (•), rapière (•)
 

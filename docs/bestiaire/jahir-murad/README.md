@@ -67,7 +67,7 @@ languages:
   - "Shahim/Shahiate (3/2), Ashkhèm/Ashkheth (3/2), Assyrhiote/Syride (3/2)"
 category: "PJ"
 ---
-## Jahir Murad
+## <v-icon>mdi-drama-masks</v-icon> Jahir Murad
 &nbsp;
 [![Jahir Murad](https://www.douaratil.fr/illustrations/pj/jahir300.jpeg)](https://www.douaratil.fr/illustrations/pj/jahir.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 29    
@@ -79,6 +79,23 @@ category: "PJ"
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.
 **Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
 
 _**Maîtrises:**_. véhicule terrestre, armes courantes(••), épée longue, rapière, épée courte, sabre, armures légères, outil d'herboriste, outils d'empoisonneur, outil d'alchimiste(••).  
 

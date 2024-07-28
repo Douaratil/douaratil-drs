@@ -67,7 +67,7 @@ category: "PJ"
 ---
 ## Nadira Bahati  
 &nbsp;
-[![Nadira Bahati  ](https://www.douaratil.fr/illustrations/pj/nadirabahatim.png)](https://www.douaratil.fr/illustrations/pj/nadirabahati.jpg)  
+[![Nadira Bahati  ](https://www.douaratil.fr/illustrations/pj/nadirabahati300.jpeg)](https://www.douaratil.fr/illustrations/pj/nadirabahati.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 26  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12    
@@ -78,6 +78,23 @@ _**Historique:**_ Cuisinier
 **Langues maîtrisées** : Une langue au choix.    
 **Équipement** : Habits courants, ustensiles de cuisinier, colifichet signe de l'affection que vous portait votre employeur, outre de bon vin, bourse contenant 15 po.  
 **Aptitude** : [Réconfort du foyer](/personnalite-et-historique/#reconfort-du-foyer)   
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 10 | 14| Luxurieux |
+| Energique|13  | 11| Paresseux |
+| Indulgent| 12 | 12|  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 12 | 12| Trompeur |
+|Juste | 16 |8 | Arbitraire |
+| Miséricordieux|17  |7 | Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 18 | 6|  Pragmatique|
+|Sobre | 12 |12 | Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux|  12|12 | Couard|
+
 
 _**Maîtrises:**_. Dagues, lance, massue, fronde, bâton, fléchettes.  
 

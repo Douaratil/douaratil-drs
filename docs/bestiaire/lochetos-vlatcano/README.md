@@ -66,7 +66,7 @@ languages:
   - "le Weslèdh (3/2), le Mèlde (3/2), le Brédète (3/2) et le Khern (2/0), Ashkhèm/Ashkheth (3/2), Shahim/Shahiate (1/0), Sogh (1/0)"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon>  Lochetos Vlatcano
+## <v-icon>mdi-drama-masks</v-icon>  Lochetos Vlatcano
 &nbsp;
 [![Lochetos](https://www.douaratil.fr/illustrations/pj/lochetos300.jpeg)](https://www.douaratil.fr/illustrations/pj/lochetos.jpeg)    
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 41   
@@ -78,6 +78,23 @@ _**Historique:**_ Limier.
 **Outils maîtrisés**. Accessoires de déguisement, outils de voleur.  
 **Équipement**. Accessoires de déguisement, outils de voleur, vêtements discrets, insigne officiel, bourse contenant 20 po.  
 **Aptitude**. [Entre deux mondes](/personnalite-et-historique/#entre-deux-mondes)  
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  | | Luxurieux |
+| Energique|  | | Paresseux |
+| Indulgent|  | |  Rancunier|
+| Généreux|  | |Egoïste  |
+| Sincère|  | | Trompeur |
+|Juste |  | | Arbitraire |
+| Miséricordieux|  | | Cruel |
+| Modeste|  | |  Fier|
+| Pieux|  | |  Pragmatique|
+|Sobre |  | | Complaisant |
+|Confiant |  | | Méfiant |
+|Réfléchi |  | | Impulsif|
+|Valeureux|  | | Couard|
+
 
 _**Maîtrises:**_. Armes courantes, Hache de bataille  & épée longue (Double maîtrise : Dague, hachette, javelines, arc court, fronde, épée longue et hache de bataille), accessoire de déguisement, outils de voleur, instrument tambour, instrument lyre, armure légère, armure intermédiaire.
 

@@ -67,7 +67,7 @@ category: "PJ"
 
 ## <v-icon>mdi-drama-masks</v-icon> Samia Tiercelin
 &nbsp;
-[![Samia Tiercelin](https://www.douaratil.fr/illustrations/pj/samiam.png)](https://www.douaratil.fr/illustrations/pj/samia.jpg)  
+[![Samia Tiercelin](https://www.douaratil.fr/illustrations/pj/samiatiercelin300.jpeg)](https://www.douaratil.fr/illustrations/pj/samiatiercelin.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 25       
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 13     
@@ -77,6 +77,23 @@ category: "PJ"
 **Outils maîtrisés** : Matériel d'herboriste, matériel d'empoisonneur.  
 **Équipement** : Habits de bonne qualité, deux bougies, matériel d'herboriste, trousse de soins, bourse contenant 20 po.  
 **Aptitude** : [Culture générale](/personnalite-et-historique/#culture-genérale)   
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste|  12| 12| Luxurieux |
+| Energique| 14 |10 | Paresseux |
+| Indulgent| 12 |12 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 9 | 15| Trompeur |
+|Juste | 12 | 12| Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste|  13| 11|  Fier|
+| Pieux| 15 | 9|  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 12 |12 | Couard|
+
 
 _**Maîtrises:**_. Outils d'empoisonneur, outils d'herboriste, outils de voleurs, armures légères, armes courantes, épées longues, rapières, épées courtes.   
 

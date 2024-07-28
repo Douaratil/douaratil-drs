@@ -67,7 +67,7 @@ languages:
   - "Le Sogh (3/0) langue commune Sooghaï, Le Weshlèdh (2/0)"
 category: "PJ"
 ---
-## <v-icon>mdi-human-greeting</v-icon>  Ayah Kenira
+## <v-icon>mdi-drama-masks</v-icon>  Ayah Kenira
 &nbsp;
 [![Ayah Kenira](https://www.douaratil.fr/illustrations/pj/ayah300.jpeg)](https://www.douaratil.fr/illustrations/pj/ayah.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
@@ -78,6 +78,23 @@ _**Historique:**_ Bâtard
 **Outils maîtrisés** : Véhicules (terrestres), un ensemble d'outils d'artisan au choix.  
 **Équipement** : Habits de bonne qualité, outils d'artisan, objet ou symbole appartenant à la famille de votre parent noble, bourse contenant 20 po.   
 **Aptitude** : [Ni noble, ni homme du peuple](/personnalite-et-historique/#Ni-noble,-ni-homme-du-peuple)   
+
+|  |traits de caractère|||
+|:-|-:|:-|-:|
+| Chaste| 12 | 12| Luxurieux |
+| Energique| 14 | 10| Paresseux |
+| Indulgent| 12 |12 |  Rancunier|
+| Généreux| 13 |11 |Egoïste  |
+| Sincère| 12 | 12| Trompeur |
+|Juste |12  |12 | Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste| 12 |12 |  Fier|
+| Pieux| 12 |12 |  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 14 |10 | Méfiant |
+|Réfléchi |  12|12 | Impulsif|
+|Valeureux|  10|14 | Couard|
+
 
 _**Maîtrises:**_. Lance, massue, armes courantes, épées longues, rapières, épées courtes, outils de voleurs, armure légère.
 
