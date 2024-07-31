@@ -83,19 +83,19 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 10 | 14| Luxurieux |
+| Energique| 18 |6 | Paresseux |
+| Indulgent| 14 |10 |  Rancunier|
+| Généreux| 14 |10 |Egoïste  |
+| Sincère| 16 |8 | Trompeur |
+|Juste |17  |7 | Arbitraire |
+| Miséricordieux| 14 | 10| Cruel |
+| Modeste| 5 | 19|  Fier|
+| Pieux| 23 | 1|  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 12 | 12| Méfiant |
+|Réfléchi | 6 | 18| Impulsif|
+|Valeureux| 20 | 4| Couard|
 
 [![Thorleik](https://www.douaratil.fr/illustrations/pj/thorleik2300.jpeg)](https://www.douaratil.fr/illustrations/pj/thorleik2.jpeg)  
 _**Maîtrises:**_. armures légères, armures intermédiaires, armes courantes, boucliers, (Double Maîtrise bâton, dague, fléchette, fronde), épée courte, épée longue, hache d'arme, pique, outils d'herboriste.  
@@ -270,4 +270,4 @@ Cicatrice de 20 cm de la tempe gauche au menton.
 
 §§§
 
-Mise à jour le 10/02/2024
+*Mise à jour du 31/07/2024*

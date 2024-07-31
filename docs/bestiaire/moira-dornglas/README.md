@@ -207,4 +207,4 @@ Revenus : 7 X 6d6 po
 cicatrice épaule gauche
 §§§
 
-Mise à jour le 09/02/2024 
+*Mise à jour du 31/07/2024*

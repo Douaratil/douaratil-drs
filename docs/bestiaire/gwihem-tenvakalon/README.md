@@ -205,3 +205,6 @@ La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 
 **Points de Foi** :14    
 **Points d'honneur** :30    
 §§§
+
+
+*Mise à jour du 31/07/2024*

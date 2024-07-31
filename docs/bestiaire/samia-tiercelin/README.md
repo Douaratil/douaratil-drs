@@ -159,4 +159,5 @@ Namusa Koulouarn possède l'équipement suivant :
 - Intacte
 
 §§§
-Mise à jour du 1/11/2022  
+
+*Mise à jour du 31/07/2024*

@@ -251,3 +251,5 @@ La valeur naturelle de Force de Rudolf est de 16.
 facture mineur au thorax (Guéri le 21 Kerzu)
 
 §§§
+
+*Mise à jour du 31/07/2024*

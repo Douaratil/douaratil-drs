@@ -83,19 +83,19 @@ _**Historique Officier:**_.
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 16 |8 | Luxurieux |
+| Energique|  17| 7| Paresseux |
+| Indulgent| 12 | 12|  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 19 |5 | Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 12 |12 | Cruel |
+| Modeste| 3 | 21|  Fier|
+| Pieux| 8 |16 |  Pragmatique|
+|Sobre |15  |9 | Complaisant |
+|Confiant | 20 | 4| Méfiant |
+|Réfléchi | 17 |7 | Impulsif|
+|Valeureux| 20 |4 | Couard|
 
 [![Yan Zin](https://www.douaratil.fr/illustrations/pj/yanzin2300.jpeg)](https://www.douaratil.fr/illustrations/pj/yanzin2.jpeg)  
 
@@ -223,4 +223,5 @@ hanche gauche (20cm)
 
 
 §§§
-Mise à jour du 11/02/2024
+
+*Mise à jour du 31/07/2024*

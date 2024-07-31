@@ -17,6 +17,32 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 221
+![Mise à jour 221](https://www.douaratil.fr/illustrations/site/maj221.jpeg)     
+
+**Bestiaire :**   
+- Ajout de la [heks marine](/bestiaire/heks-marine).  
+- Ajout du [moribond](/bestiaire/moribond).  
+- Ajout du [morpale](/bestiaire/morpale).  
+
+**PJ :**   
+- Ajout des traits de caractères de [Gwion Gornoc](/bestiaire/gwion-gornoc)
+- Ajout des traits de caractères de [Ioen Paetus](/bestiaire/ioen-paetus)
+- Ajout des traits de caractères de [Jahir Murad](/bestiaire/jahir-murad)
+- Changement d'illustration de [Pywed Vecconos](/bestiaire/pywed-vecconos) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Shine Hame](/bestiaire/shine-hame)    
+- Changement d'illustration de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) et ajout des traits de caractères.     
+- Changement d'illustration de [Talos Virato](/bestiaire/talos-virato) et ajout des traits de caractères. 
+- Changement d'illustration de [Taron Vecconos](/bestiaire/taron-vecconos) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Thorleik Aevarson](/bestiaire/thorleik-aevarson)
+- Ajout des traits de caractères de [Yan Zin](/bestiaire/yan-zin)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 31  juillet 2024_
+§§§
+
 
 ## Mise à jour 220
 ![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj220.jpeg)     

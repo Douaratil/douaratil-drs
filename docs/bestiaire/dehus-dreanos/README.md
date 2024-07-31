@@ -172,4 +172,4 @@ Dehus Dreanos possède l'équipement suivant :
 - Intacte
 
 §§§
-Mise à jour du 09/02/2024
+*Mise à jour du 31/07/2024*

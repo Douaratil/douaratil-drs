@@ -82,19 +82,19 @@ _**Historique**_ : Érudit
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 20 | 4| Luxurieux |
+| Energique| 9 | 15| Paresseux |
+| Indulgent| 16 | 8|  Rancunier|
+| Généreux| 9 |15 |Egoïste  |
+| Sincère| 19 |5 | Trompeur |
+|Juste | 5 | 19| Arbitraire |
+| Miséricordieux| 19 |5 | Cruel |
+| Modeste| 15 |9 |  Fier|
+| Pieux| 21 | 3|  Pragmatique|
+|Sobre |18  | 6| Complaisant |
+|Confiant | 12 | 12| Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 14 |10 | Couard|
 
 
 [![Shine Hame](https://www.douaratil.fr/illustrations/pj/shinehame2300.jpeg)](https://www.douaratil.fr/illustrations/pj/shinehame2.jpeg)  
@@ -195,4 +195,5 @@ Shin Hame possède l'équipement suivant :
 
 
 §§§
-Mise à jour du 11/02/2024
+
+*Mise à jour du 31/07/2024*

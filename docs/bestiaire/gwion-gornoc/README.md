@@ -69,11 +69,6 @@ category: "PJ"
 ---
 <v-btn color="#730800" dark depressed class="mb-4 d-print-none" href="https://www.douaratil.fr/feuilledejdr/FDP Gwion Gornoc V3.1 20230224.pdf" link target="\_blank"><v-icon left>mdi-drama-masks</v-icon> Feuille de Gwion Gornoc PDF</v-btn>
 ## <v-icon>mdi-drama-masks</v-icon>  Gwion Gornoc    
-§§§ .hero
-*Gwion était un sorcier meldète redouté et redoutable, éduqué par l’ambeanamos Siarl Dylluan. Bien que la nature ne l’ait pas épargné étant accablé par une dépigmentation de la peau, par une vue abîmée avec ses yeux blancs, par des doigts crochus qui ne lui permettaient pas d’être très adroit, par des problèmes de claudication et par une légère bosse au dos qui l’empêchaient de se mouvoir avec aisance, il put s’élever à un haut rang de puissance par sa ruse et son ambition et grâce une légère félonie qui lui attirèrent de nombreux ennuis. Il gardait cependant le souhait d’œuvrer pour la volonté générale même si les moyens utilisés n’étaient pas les meilleurs. Le destin lui permit de se lier d’amitié avec de nombreuses puissantes personnes comme Thorleik ou Margs.*     
-*N’étant encore qu’assez jeune, 28 printemps seulement, son avenir ne pouvait être que prometteur s’il était assez avisé pour ne pas se faire tuer par un ennemi inconnu.*          
-**Souvenirs d'Ailynn la voyageuse**   
-§§§   
 
 [![Gwion Gornoc](https://www.douaratil.fr/illustrations/pj/gwion300.jpeg)](https://www.douaratil.fr/illustrations/pj/gwion.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 63  
@@ -88,19 +83,19 @@ _**Historique:**_ rebouteux.
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 20 | 4| Luxurieux |
+| Energique| 16 | 8| Paresseux |
+| Indulgent| 3 | 21|  Rancunier|
+| Généreux| 2 | 22|Egoïste  |
+| Sincère|7  |17 | Trompeur |
+|Juste |20  | 4| Arbitraire |
+| Miséricordieux| 10 | 14| Cruel |
+| Modeste| 12 |12 |  Fier|
+| Pieux| 1 |23 |  Pragmatique|
+|Sobre | 23 | 1| Complaisant |
+|Confiant | 2 | 22| Méfiant |
+|Réfléchi | 23 |1 | Impulsif|
+|Valeureux| 10 | 14| Couard|
 
 
 _**Maîtrises:**_. glaive, hache, Bâton, dague, javeline, serpe, fronde (Double maîtrise pour dague, fronde, bâton), armure légères, accessoire de déguisement, jeu de dés, outils d'alchimie, outils d'herboristerie.  
@@ -314,6 +309,8 @@ La population se compose de la famille du seigneur, de trois servantes, d'un cui
 - Bas du dos (20 cm)
 - pied gauche (5 cm)
 §§§
-Mise à jour du 11/09/2024
+
+
+*Mise à jour du 31/07/2024*
 
 

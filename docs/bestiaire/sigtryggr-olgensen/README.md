@@ -69,7 +69,7 @@ category: "PJ"
 ---
 ## <v-icon>mdi-drama-masks</v-icon> Sigtryggr Olgensen
 &nbsp;
-[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensenm.png)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen.jpg)  
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen300.jpeg)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 44        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 21     
@@ -83,21 +83,21 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 12 |12 | Luxurieux |
+| Energique| 15 |9 | Paresseux |
+| Indulgent| 9 |15 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère|  14| 10| Trompeur |
+|Juste | 14 | 10| Arbitraire |
+| Miséricordieux| 12 | 12| Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux|12  | 12|  Pragmatique|
+|Sobre | 10 | 14| Complaisant |
+|Confiant | 16 | 8| Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 18 | 6| Couard|
 
-
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen2300.jpeg)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen2.jpeg) 
 _**Maîtrises:**_. armures légères, armes courantes, épée longue, rapière, épée courte, hache, pique (Double Maîtrise Dague, hachette, javeline marteau léger, masse d'armes, arc court, épée longue, hache de bataille), outils de voleur, flûte, tambourin.  
 
 _**Voie des armes & Skell**_. Sigtryggr est niveau 13 dans la voie des armes et Archétype Skell.
@@ -108,6 +108,8 @@ Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences 
 _**Attaque sournoise**_.  *(Ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.  
 Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.  
 Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, **+6d6 au niveau 11**, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.  
+
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen3300.jpeg)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen3.jpeg)
 
 _**Ruse**_.  *(Ombre)* À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.    
 
@@ -127,6 +129,8 @@ _**Critique brutal**_.  *(Skell)*  À partir du niveau 8, quand vous blessez un 
 À partir du niveau 13, vous lancez deux dés additionnels, et trois dés à partir du niveau 17.  
 
 _**Seconde Attaque**_.  *(Skell)*  À partir du niveau 9, vous pouvez [_attaquer_](/combattre/#attaquer) trois fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour quand vous n’être pas de la voie des Armes. Pour ceux de la voie des armes, vous choisissez une arme de prédilection parmi celles que vous maîtrisez et vous ajoutez +2 aux Dégâts.    
+
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen4300.jpeg)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen4.jpeg)
 
 _**Pierre de puissance supérieure**_.  *(Skell)*  À partir du niveau 10, Le Skell enchante une pierre. Il ne peut y en avoir qu’une seule d’active. Cette pierre lui donne un bonus de +2 à une catégorie de Jet de sauvegarde tant que la pierre est portée. La pierre doit être précieuse d’une valeur de 300po.  
 
@@ -149,6 +153,7 @@ _Touché_ : 2d6+4 dégâts perforants .
 _**Dague(••)**_. _Attaque d'arme au corps à corps_ : +14 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+4 dégâts perforante (légère,lancer 6/18)      
 
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen5300.jpeg)](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen5.jpeg)
 
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
@@ -200,4 +205,5 @@ Sigtryggr Olgensen possède l'équipement suivant :
 
 
 §§§
-Mise à jour le 12/07/2022
+
+*Mise à jour du 31/07/2024*

@@ -262,4 +262,5 @@ Comme un sou neuf
 FICHE : [Azenor Le Moal](/PNJ/nordiques/#azenor-le-moal)   
 [![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor.jpeg)   
 [![Azenor](https://www.douaratil.fr/illustrations/pnj/azenor4300.jpeg)](https://www.douaratil.fr/illustrations/pnj/azenor4.jpeg)   
-Mise à jour le 10/02/2024
+
+*Mise à jour du 31/07/2024*

@@ -52,10 +52,10 @@ _**Incantation**_. Cette heks est une lanceuse de sorts. Elle utilise la Sagesse
 
 _**Résistance à la magie**_. La hek est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 
-_**Perception du sang**_. Une hek rouge perçoit automatiquement le sang des créatures vivantes dans un rayon de 27 mètres et repère leur emplacement exact dans un rayon de 9 mètres.
+_**Perception du sang**_. Une heks rouge perçoit automatiquement le sang des créatures vivantes dans un rayon de 27 mètres et repère leur emplacement exact dans un rayon de 9 mètres.
 
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ :  4d6 + 4 dégâts tranchants.
 
-_**Aura siphon (recharge 5-6)**_. La hek rouge émet une aura de 9 mètres de rayon pendant 3 rounds, qui attire tous les fluides hors d'une créature par la bouche, le nez, les yeux, les oreilles et les pores. Toutes les créatures qui commencent leur tour dans la zone affectée et que choisit la heks subissent 4d6 + 4 dégâts nécrotiques, ou la moitié seulement pour celles réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15.
+_**Aura siphon (recharge 5-6)**_. La heksrouge émet une aura de 9 mètres de rayon pendant 3 rounds, qui attire tous les fluides hors d'une créature par la bouche, le nez, les yeux, les oreilles et les pores. Toutes les créatures qui commencent leur tour dans la zone affectée et que choisit la heks subissent 4d6 + 4 dégâts nécrotiques, ou la moitié seulement pour celles réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15.

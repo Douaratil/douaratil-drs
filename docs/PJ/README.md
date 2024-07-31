@@ -69,7 +69,7 @@ title: PJ
 [![Owain Macaro](https://www.douaratil.fr/illustrations/pj/owain300.jpeg)](/bestiaire/owain-macaro)  
 
 ## <v-icon>mdi-drama-masks</v-icon> Pywed Vecconos
-[![Pywed Vecconos](https://www.douaratil.fr/illustrations/pj/owain300.jpeg)](/bestiaire/pywed-vecconos)  
+[![Pywed Vecconos](https://www.douaratil.fr/illustrations/pj/pywedvecconos300.jpeg)](/bestiaire/pywed-vecconos)  
 
 ## <v-icon>mdi-drama-masks</v-icon> Rudolf Bernsen
 &nbsp;
@@ -94,14 +94,14 @@ title: PJ
 
 ## <v-icon>mdi-drama-masks</v-icon> Sigtryggr Olgensen
 &nbsp;
-[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensenm.png)](/bestiaire/sgtryggr-olgensen)  
+[![Sigtryggr Olgensen](https://www.douaratil.fr/illustrations/pj/sigtryggrolgensen300.jpeg)](/bestiaire/sigtryggr-olgensen)  
 
 ## <v-icon>mdi-drama-masks</v-icon> Talos Virato
 &nbsp;
-[![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](/bestiaire/talos-virato)  
+[![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosvirato300.jpeg)](/bestiaire/talos-virato)  
 
 ## <v-icon>mdi-drama-masks</v-icon> Taron Vecconos
-[![Taron Vecconos](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](/bestiaire/taron-vecconos)  
+[![Taron Vecconos](https://www.douaratil.fr/illustrations/pj/taronvecconos300.jpeg)](/bestiaire/taron-vecconos)  
 
 ## <v-icon>mdi-human-greeting</v-icon> Thorleik Aevarson  
 [![Thorleik Aevarson](https://www.douaratil.fr/illustrations/pj/thorleik300.jpeg)](/bestiaire/thorleik-aevarson)  

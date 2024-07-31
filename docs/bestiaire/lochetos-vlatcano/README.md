@@ -292,4 +292,4 @@ FICHE : [Laepa Hizino](/PNJ/nordiques/#laepa-hizino)
 [![Laepa Hizino](https://www.douaratil.fr/illustrations/pnj/laepa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/laepa.jpeg)   
 **<v-icon>mdi-skull</v-icon> assassinée à Madin'alajnibh en Miz Even 722 :**
 
-Mise à jour le 24/02/2024
+*Mise à jour du 31/07/2024*

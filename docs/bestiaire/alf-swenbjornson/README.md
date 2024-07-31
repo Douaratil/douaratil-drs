@@ -216,3 +216,4 @@ Alf Swenbjörnson possède l'équipement suivant :
 
 
 §§§
+*Mise à jour du 31/07/2024*

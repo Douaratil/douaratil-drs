@@ -76,19 +76,19 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 6 |18 | Luxurieux |
+| Energique|17  |7 | Paresseux |
+| Indulgent| 10 |14 |  Rancunier|
+| Généreux| 10 |14 |Egoïste  |
+| Sincère| 8 | 16| Trompeur |
+|Juste | 8 |16 | Arbitraire |
+| Miséricordieux| 9 | 15| Cruel |
+| Modeste| 8 | 16|  Fier|
+| Pieux| 12 |12 |  Pragmatique|
+|Sobre |  10| 14| Complaisant |
+|Confiant | 12 |12 | Méfiant |
+|Réfléchi | 8 | 16| Impulsif|
+|Valeureux| 18 | 6| Couard|
 
 
 _**Maîtrises:**_. Armes courantes, armes de guerres (Double maîtrise pour armes courantes, Hache, haches à deux mains et la pique), boucliers, armure légère, armure intermédiaire, armure lourde.  
@@ -180,19 +180,18 @@ Le personnage reçoit 3D6 X 100 pièces d'argent et 2D6 X 50 pièces d'or.
 §§§
 
 §§§ .hero
-### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal
+### <v-icon>mdi-home-flood</v-icon> Domaine prestige normal    
 Le domaine est respectable.  
 Le bâtiment principal est constitué d'une grande pièce principale, d'une cuisine, d'une écurie et de trois chambres. Le bâtit est un mélange de bois et de torchis et de pierre, le toit est en tuiles. Une palissade de bois de deux mètres avec des pieux à sa base peut éventuellement dissuader des adversaires.  
 Dans le bourg, Douze fermes se sont installées avec basse cours et porcheries.  
 La population se compose de la famille du seigneur, de trois servantes, d'un cuisinier, de quatre gardes dans une petite caserne et de douze familles de paysans.  
 **Revenus** : 14 X 6d6po      
--
+
 ### Colonie de Madin'alajnibh
-**Développement faible** La colonie est pauvre.
-La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po   
+**Développement faible** La colonie est pauvre.    
+La colonie est constituée de dix bâtiments avec une capacité d'accueil de 70 colons. La colonie comprends deux points d'eau, marché et des basses cours. La colonie a une petite palissade de bois. Revenus : 10 X 6d6 po    
 **Colons** : 25  
 **Trésor** : 100 PO  
-
 §§§
 
 §§§ .hero
@@ -211,4 +210,4 @@ Comme un sou neuf
 
 §§§
 
-*Mise à jour du 31/01/2023*
+*Mise à jour du 31/07/2024*

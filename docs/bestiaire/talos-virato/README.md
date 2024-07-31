@@ -64,7 +64,7 @@ category: "PJ"
 ---
 ## <v-icon>mdi-drama-masks</v-icon> Talos Virato
 &nbsp;
-[![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosviratom.png)](https://www.douaratil.fr/illustrations/pj/talosvirato.jpg)  
+[![Talos Virato](https://www.douaratil.fr/illustrations/pj/talosvirato300.jpeg)](https://www.douaratil.fr/illustrations/pj/talosvirato.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 30         
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 27     
@@ -78,19 +78,19 @@ _**Historique:**_  Bandit de grand chemin.
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste|12  | 12| Luxurieux |
+| Energique| 14 | 10| Paresseux |
+| Indulgent| 12 |12 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 8 | 16| Trompeur |
+|Juste | 12 |12 | Arbitraire |
+| Miséricordieux| 7 |17 | Cruel |
+| Modeste| 12 |12|  Fier|
+| Pieux| 12 |12 |  Pragmatique|
+|Sobre |4  |20 | Complaisant |
+|Confiant | 9 | 15| Méfiant |
+|Réfléchi | 6 | 18| Impulsif|
+|Valeureux| 9 | 15| Couard|
 
 
 _**Maîtrises:**_. Armes courantes, armes de guerres, (Double maîtrise pour Glaive, Hache, arc long, l'arc composite et les armes courantes) boucliers, armure légère, armure intermédiaire, armure lourde, véhicule terrestre.  
@@ -190,3 +190,5 @@ Talos possède l'équipement suivant :
 **Points de Foi** :10    
 **Points d'honneur** :30    
 §§§
+
+*Mise à jour du 31/07/2024*

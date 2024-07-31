@@ -149,3 +149,5 @@ Nadira Bahati  possède l'équipement suivant :
 **Points de Foi** :18   
 **Points d'honneur** :15
 §§§
+
+*Mise à jour du 31/07/2024*

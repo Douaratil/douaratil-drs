@@ -81,19 +81,19 @@ _**Historique:**_. Médecin
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 8 | 16| Luxurieux |
+| Energique| 20 |4 | Paresseux |
+| Indulgent| 3 | 21|  Rancunier|
+| Généreux|  12|12 |Egoïste  |
+| Sincère|  8|16 | Trompeur |
+|Juste | 4 | 20| Arbitraire |
+| Miséricordieux| 9 |15 | Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 8 |16 |  Pragmatique|
+|Sobre | 12 |12 | Complaisant |
+|Confiant | 7 |17 | Méfiant |
+|Réfléchi | 12 |12 | Impulsif|
+|Valeureux| 21 |3 | Couard|
 
 
 [![Sawrina](https://www.douaratil.fr/illustrations/pj/sawrina2300.jpeg)](https://www.douaratil.fr/illustrations/pj/sawrina2.jpeg)  
@@ -227,4 +227,4 @@ Rente 1d6 X 50po/lune
 Ne garde pas de cicatrices
 §§§
 
-Mise à jour du 10/02/2024.  
+*Mise à jour du 31/07/2024*

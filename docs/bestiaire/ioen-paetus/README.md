@@ -81,19 +81,19 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 14 | 10| Luxurieux |
+| Energique| 21 |3 | Paresseux |
+| Indulgent| 2 |22 |  Rancunier|
+| Généreux| 18 | 6|Egoïste  |
+| Sincère| 20 | 4| Trompeur |
+|Juste | 18 |6 | Arbitraire |
+| Miséricordieux| 16 |8 | Cruel |
+| Modeste| 6 | 18|  Fier|
+| Pieux| 4 |20 |  Pragmatique|
+|Sobre | 18 |6 | Complaisant |
+|Confiant | 20 |6 | Méfiant |
+|Réfléchi | 5 |19 | Impulsif|
+|Valeureux| 23 | 1| Couard|
 
 
 
@@ -242,4 +242,6 @@ La population se compose de la famille du seigneur, de deux servantes, d'un cuis
 Brûlure main gauche, cicatrice 20 cm à la hanche gauche.  
 
 §§§
-*Mise à jour le 16 mai 2022*
+
+
+*Mise à jour du 31/07/2024*

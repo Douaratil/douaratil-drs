@@ -63,11 +63,7 @@ languages:
 category: "PJ"
 ---
 ## <v-icon>mdi-drama-masks</v-icon> Pywed Vecconos
-§§§ .hero
-*Pywed Vecconos était un Meldète de vingt-huit printemps, avec une peau blanche, des cheveux bruns et des yeux verts. Il était de grande taille pour cent quatre vingt livres. Il était le troisième fils d'une famille noble respectée de Masyvum, connue sous le nom de Vecconos. À l'âge de 7 ans, il a été envoyé en otage à Alicantys suite à un incident diplomatique. Pendant son séjour, il a appris la philosophie et la littérature, ce qui a attiré l'attention de sa famille sur ses capacités de raisonnement. C'est ainsi qu'il a été proposé à l'Ordre des Drodanos pour représenter sa famille dans les cercles intellectuels Meldètes.*
-*Après plusieurs années d'apprentissage avec son maître Divivacos le Rocailleux, Pywed a voyagé à travers tout Douaratil. Finalement, son maître a considéré que Pywed était prêt et l'a envoyé vers Ker-Saozon pour rencontrer Margs, dont le nom était sur toutes les lèvres ces derniers temps.*    
-**Souvenirs d'Ailynn la voyageuse**   
-§§§  
+[![Pywed Vecconos](https://www.douaratil.fr/illustrations/pj/pywedvecconos300.jpeg)](https://www.douaratil.fr/illustrations/pj/pywedvecconos.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 43        
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 14     
@@ -81,19 +77,19 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 16 | 8| Luxurieux |
+| Energique| 10 |14 | Paresseux |
+| Indulgent| 16 | 8|  Rancunier|
+| Généreux| 16 |8 |Egoïste  |
+| Sincère| 15 | 9| Trompeur |
+|Juste |14 |10 | Arbitraire |
+| Miséricordieux|14  |10 | Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 20 | 4|  Pragmatique|
+|Sobre | 12 | 12| Complaisant |
+|Confiant | 12 | 12| Méfiant |
+|Réfléchi | 12 | 12| Impulsif|
+|Valeureux| 8 | 16| Couard|
 
 
 _**Maîtrises:**_. Double maîtrise (dagues, fléchettes, frondes, bâtons) , gourdins, javelines, massues, cimeterres, serpes, lances, glaive, hache, matériel d'herboriste, matériel d'alchimiste, Tympanion.
@@ -188,4 +184,5 @@ Pywed Vecconos possède l'équipement suivant :
 
 
 §§§
-*Mise à jour du 31/01/2023*
+
+*Mise à jour du 31/07/2024*

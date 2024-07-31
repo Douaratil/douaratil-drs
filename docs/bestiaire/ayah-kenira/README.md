@@ -159,3 +159,5 @@ Ayah Kenira possède l'équipement suivant :
 **Points de Foi** :10   
 **Points d'honneur** :14
 §§§
+
+*Mise à jour du 31/07/2024*

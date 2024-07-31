@@ -82,19 +82,19 @@ category: "PJ"
 
 |  |traits de caractère|||
 |:-|-:|:-|-:|
-| Chaste|  | | Luxurieux |
-| Energique|  | | Paresseux |
-| Indulgent|  | |  Rancunier|
-| Généreux|  | |Egoïste  |
-| Sincère|  | | Trompeur |
-|Juste |  | | Arbitraire |
-| Miséricordieux|  | | Cruel |
-| Modeste|  | |  Fier|
-| Pieux|  | |  Pragmatique|
-|Sobre |  | | Complaisant |
-|Confiant |  | | Méfiant |
-|Réfléchi |  | | Impulsif|
-|Valeureux|  | | Couard|
+| Chaste| 12 | 12| Luxurieux |
+| Energique| 7 |15 | Paresseux |
+| Indulgent| 14 |10 |  Rancunier|
+| Généreux| 12 |12 |Egoïste  |
+| Sincère| 10 |14 | Trompeur |
+|Juste | 16 | 8| Arbitraire |
+| Miséricordieux| 12 | 12| Cruel |
+| Modeste| 12 | 12|  Fier|
+| Pieux| 14 | 10|  Pragmatique|
+|Sobre | 10 | 14| Complaisant |
+|Confiant | 11 |13 | Méfiant |
+|Réfléchi | 10 |14 | Impulsif|
+|Valeureux| 6 | 18| Couard|
 
 
 _**Maîtrises:**_. véhicule terrestre, armes courantes(••), épée longue, rapière, épée courte, sabre, armures légères, outil d'herboriste, outils d'empoisonneur, outil d'alchimiste(••).  
@@ -194,4 +194,6 @@ Jahir est un Shème de vingt et un printemps. Il a la peau mate. Ses cheveux ain
 ### <v-icon>mdi-heart-cog</v-icon> Blessures et cicatrices:  
 
 §§§
-Mise à jour du 10/02/2024
+
+
+*Mise à jour du 31/07/2024*

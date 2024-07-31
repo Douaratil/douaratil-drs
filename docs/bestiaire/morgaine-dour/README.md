@@ -162,4 +162,4 @@ Morgaine Dour possède l'équipement suivant :
 - Intacte
 
 §§§
-Mise à jour du 24/02/2023
+*Mise à jour du 31/07/2024*

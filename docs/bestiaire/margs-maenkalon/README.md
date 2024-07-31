@@ -275,5 +275,5 @@ Revenus : 5d6 PP et 30 x 6d6 po
 [![Margs](https://www.douaratil.fr/illustrations/pj/margs6300.jpeg)](https://www.douaratil.fr/illustrations/pj/margs6.jpeg)    
 
 
-Mise à jour du 09/02/2024
+*Mise à jour du 31/07/2024*
 [.](/bestiaire/cyrthaule)  
