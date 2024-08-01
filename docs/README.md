@@ -17,6 +17,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 222
+![Mise à jour 222](https://www.douaratil.fr/illustrations/site/maj222.jpeg)     
+
+**Bestiaire :**   
+- changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 1 août 2024_
+§§§
+
 ## Mise à jour 221
 ![Mise à jour 221](https://www.douaratil.fr/illustrations/site/maj221.jpeg)     
 
