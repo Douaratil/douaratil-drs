@@ -22,11 +22,16 @@ Visites:
 
 **Bestiaire :**   
 - changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
+- Changement des illustrations de [Khoulggotateelle](/bestiaire/khoulggotateelle).   
+- changement du Khukheshakh en [foudroiecorneur](/bestiaire/foudroiecorneur).  
+- changement du kishi en [lanceleur](/bestiaire/lanceleur).  
+- changement du korshekh en [grouilleur](/bestiaire/grouilleur).  
+- changement du koshei en [charcuteur](/bestiaire/charcuteur).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 1 août 2024_
+_le 2 août 2024_
 §§§
 
 ## Mise à jour 221

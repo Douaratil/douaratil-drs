@@ -55,7 +55,7 @@ source: "Elric"
 ---
 ## Khoulggotateelle
 &nbsp;
-[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/khoulggotateellem.png)](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle.jpg)   
+[![Khoulggotateelle](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle300.jpeg)](https://www.douaratil.fr/illustrations/aberration/khoulggotateelle.jpeg)   
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 46, réussite 7, échec 4d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 25        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 28     
