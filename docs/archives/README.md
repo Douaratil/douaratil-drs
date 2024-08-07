@@ -9,6 +9,145 @@ toc: false
 
 <v-col cols="12" md="6">
 
+## Mise à jour 218
+![Mise à jour 218](https://www.douaratil.fr/illustrations/site/maj218.jpeg)     
+
+**Archétypes :**    
+- Ajout de l'[assassyrhim](/archetypes/assassyrhim), un archétype shahim d'assassin/espion.   
+
+**Bestiaire :**   
+- Changement du kakhe en [kaprun](/bestiaire/kaprun).  
+- Changement du kashakosh en [noctular](/bestiaire/noctular).  
+- Changement du kashokh en [maurible](/bestiaire/maurible).  
+- Changement du kesh en [niakniak](/bestiaire/niakniak).  
+- Changement du khashik en [troubliard](/bestiaire/troubliard).  
+- Changement du khaznoz en [félyde](/bestiaire/felyde).  
+- Changement du Kakishikh en [serpente](/bestiaire/serpente).  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 27 juin 2024_
+§§§
+
+## Mise à jour 217
+![Mise à jour 217](https://www.douaratil.fr/illustrations/site/maj217.jpeg)     
+
+**Règles : illustrations**
+- ajout d'illustrations de la section des [armures](/equipement/armures).  
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Allgoui ag Sidi](/PNJ/shahims/#allgouiagsidi).  
+- Changement des illustrations de [Amastame Ag Beketa](/PNJ/shahims/#amastame-ag-beketa).  
+- Changement des illustrations de [Ashur Begaya](/PNJ/shahims/#ashur-begaya).  
+- Changement des illustrations de [Fahim Ibn Tabit](/PNJ/shahims/#fahim-ibn-tabit).  
+- Changement des illustrations de [Farid ibn Shakir](/PNJ/shahims/#farid-ibn-shakir).  
+- Changement des illustrations de [Hamda Bin Atiq](/PNJ/shahims/#hamda-bin-atiq).  
+
+**Bestiaire : illustrations**    
+- Changement des illustrations du [igualigator](/bestiaire/igualigator).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juin 2024_
+§§§
+
+## Mise à jour 216
+![Mise à jour 216](https://www.douaratil.fr/illustrations/site/maj216.jpeg)     
+
+**Règles : illustrations**
+- ajout d'illustrations de la section des [armures](/equipement/armures).  
+- ajout d'illustrations du cambrioleur dans la section [personnalité et historique](/personnalite-et-historique/#cambrioleur).  
+- ajout d'illustrations du voleur à la tire dans la section [personnalité et historique](/personnalite-et-historique/#voleur-a-la-tire).  
+- ajout d'illustrations de la section [partir à l'aventure](/partir-a-l-aventure).  
+
+**PNJ : illustrations**   
+- Changement des illustrations de [Agowen Tenva duenn](/PNJ/nordiques/#agowen-tenva-duenn).  
+- Changement des illustrations de [Alarig Pinvidic](/PNJ/nordiques/#alarig-pinvidic).  
+- Changement des illustrations de [Beda Mordiern](/PNJ/nordiques/#beda-mordiern).  
+- Changement des illustrations de [Boe Osparksson](/PNJ/nordiques/#boe-osparksson).  
+- Changement des illustrations de [Bryn Tuticanos](/PNJ/nordiques/#bryn-tuticanos).  
+- Changement des illustrations de [Goulvenig Moisan](/PNJ/nordiques/#goulvenig-moisan).  
+- Changement des illustrations de [Maelane Le Besco](/PNJ/nordiques/#maelane-le-besco).  
+- Changement des illustrations de [Skjol Dolafsson](/PNJ/nordiques/#skjol-dolafsson).  
+- Changement des illustrations de [Skuld Gyrdsson](/PNJ/nordiques/#skuld-gyrdsson).  
+- Changement des illustrations de [Samos Hizino](/PNJ/nordiques/#samos-hizino).  
+- Changement des illustrations de [Siwan Vlatcano](/PNJ/nordiques/#siwan-vlatcano).  
+- Changement des illustrations de [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
+- Changement des illustrations de [Thorgunna Iridottir](/PNJ/nordiques/#thorgunna-iridottir).  
+- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson). 
+- Changement des illustrations de [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).   
+ 
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 16 juin 2024_
+§§§
+
+
+
+## Mise à jour 215
+![Mise à jour 215](https://www.douaratil.fr/illustrations/site/maj215.jpeg)     
+
+**Général**
+- Nombreuses corrections de liens.
+
+**Bestiaire : illustrations**    
+- Changement des illustrations du [hibou](/bestiaire/hibou).     
+- Changement des illustrations de l'[hippocampe](/bestiaire/hippocampe).      
+- Changement des illustrations de la [hyène](/bestiaire/hyene).      
+- Changement des illustrations de la [hyène à tête rouge](/bestiaire/hyene-a-tete-rouge).    
+- Changement des illustrations de la [hyène géante](/bestiaire/hyene-geante).      
+
+**Grimoire : incantations**    
+- Ajout de l'incantation au sort [protection contre les charmes](/grimoire/protection-contre-les-charmes)    
+- Ajout de l'incantation au sort [protection contre les énergies](/grimoire/protection-contre-les-energies)    
+- Ajout de l'incantation au sort [protections et sceaux](/grimoire/protections-et-sceaux)    
+- Ajout de l'incantation au sort [puissance guerrière](/grimoire/puissance-guerriere)    
+- Ajout de deux incantations au sort [puissance/impuissance sexuelle](/grimoire/puissance-impuissance-sexuelle)    
+- Ajout de deux incantations au sort [purification de la nourriture et de l'eau](/grimoire/purification-de-la-nourriture-et-de-l-eau)    
+- Ajout de l'incantation au sort [putréfaction](/grimoire/putrefaction)    
+- Ajout de l'incantation au sort [pyromancie](/grimoire/pyromancie)    
+
+**Grimoire : nouveaux sortilèges**  
+- Ajout du sort [appel du renard gris](/grimoire/appel-du-renard-gris)    
+- Ajout du sort [coursier nocturne](/grimoire/coursier-nocturne)    
+- Ajout du sort [guide des cavernes](/grimoire/guide-des-cavernes)    
+- Ajout du sort [récolte de la nature](/grimoire/recolte-de-la-nature)    
+- Ajout du sort [sommeil apaisant](/grimoire/sommeil-apaisant)    
+- Ajout du sort [sommeil de la lune](/grimoire/sommeil-de-la-lune)    
+- Ajout du sort [voile camouflant](/grimoire/voile-camouflant)    
+
+ 
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 14 juin 2024_
+§§§
+
+## Mise à jour 214
+![Mise à jour 214](https://www.douaratil.fr/illustrations/site/maj214.jpeg)     
+
+**Bestiaire : illustrations**    
+- Changement des illustrations de la [grenouille](/bestiaire/grenouille).       
+- Changement des illustrations du [guerrier sooghaï](/bestiaire/guerrier-sooghai).   
+- Changement des illustrations de la [guerrière otnagha](/bestiaire/guerriere-otnagha).   
+- Changement des illustrations de la [guerrière otnagha d'élite](/bestiaire/guerriere-otnagha-elite).   
+- Changement des illustrations de la [heks miroir](/bestiaire/heks-miroir).   
+- Changement des illustrations de la [heks rouge](/bestiaire/heks-rouge).   
+- Changement des illustrations de la [heks sanglante](/bestiaire/heks-sanglante).   
+
+**PJ : illustrations**    
+- Ajout des illustrations de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 juin 2024_
+§§§
+
 ## Mise à jour 213
 ![Mise à jour 213](https://www.douaratil.fr/illustrations/site/maj213.jpeg)     
 

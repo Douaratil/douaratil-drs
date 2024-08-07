@@ -12,3 +12,5 @@ Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de d
 *Coût estimé*: 400 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Amulette antidétection](https://www.douaratil.fr/illustrations/objet/amuletteantidetection300.jpeg)](https://www.douaratil.fr/illustrations/fielon/amuletteantidetection.jpeg)  
