@@ -12,3 +12,5 @@ Tant que vous portez cet anneau, vous récupérez 1d6 points d'action tous les r
 *Coût estimé*: 1000 po  
 *Temps estimé*: Six lunes  
 *Points de pouvoir estimés*: 15 000     
+
+[![Anneau de régénération](https://www.douaratil.fr/illustrations/objet/anneauderegeneration300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneauderegeneration.jpeg)  

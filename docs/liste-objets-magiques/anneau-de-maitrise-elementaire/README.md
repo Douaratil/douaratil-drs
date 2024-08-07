@@ -40,3 +40,5 @@ Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'ann
 *Coût estimé*: 5000 po  
 *Temps estimé*: Neuf lunes  
 *Points de pouvoir estimés*: 30 000   
+
+[![Anneau de maîtrise élémentaire](https://www.douaratil.fr/illustrations/objet/anneaudemaitriseelementaire300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudemaitriseelementaire.jpeg)  

@@ -13,4 +13,4 @@ Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000   
 
-[![Amulette de bonne santé](https://www.douaratil.fr/illustrations/objet/amulettedebonnesante300.jpeg)](https://www.douaratil.fr/illustrations/fielon/amulettedebonnesante.jpeg)  
+[![Amulette de bonne santé](https://www.douaratil.fr/illustrations/objet/amulettedebonnesante300.jpeg)](https://www.douaratil.fr/illustrations/objet/amulettedebonnesante.jpeg)  

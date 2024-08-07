@@ -12,3 +12,5 @@ Vous bénéficiez d'un bonus de +1 à la VD et aux jets de sauvegarde tant que v
 *Coût estimé*: 500 po  
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    
+
+[![Anneau de protection](https://www.douaratil.fr/illustrations/objet/anneaudeprotection300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudeprotection.jpeg)  

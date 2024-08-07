@@ -13,4 +13,4 @@ Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûte
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    
 
-[![Anneau d'action libre](https://www.douaratil.fr/illustrations/objet/anneaudactionlibre300.jpeg)](https://www.douaratil.fr/illustrations/fielon/anneaudactionlibre.jpeg)  
+[![Anneau d'action libre](https://www.douaratil.fr/illustrations/objet/anneaudactionlibre300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudactionlibre.jpeg)  

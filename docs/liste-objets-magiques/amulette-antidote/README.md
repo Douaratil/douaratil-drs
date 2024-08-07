@@ -13,4 +13,4 @@ Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    
 
-[![Amulette antidote](https://www.douaratil.fr/illustrations/objet/amuletteantidote300.jpeg)](https://www.douaratil.fr/illustrations/fielon/amuletteantidote.jpeg)  
+[![Amulette antidote](https://www.douaratil.fr/illustrations/objet/amuletteantidote300.jpeg)](https://www.douaratil.fr/illustrations/objet/amuletteantidote.jpeg)  

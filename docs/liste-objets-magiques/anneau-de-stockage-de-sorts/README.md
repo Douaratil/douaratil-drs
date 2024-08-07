@@ -16,3 +16,5 @@ Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké 
 *Coût estimé*: 500 po  
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    
+
+[![Anneau de stockage des sorts](https://www.douaratil.fr/illustrations/objet/anneaudestockagedessorts300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudestockagedessorts.jpeg)  

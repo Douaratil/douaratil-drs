@@ -12,3 +12,5 @@ Vous pouvez lancer le sort de [_saut_](/grimoire/saut/), à volonté et par une 
 *Coût estimé*: 200 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Anneau de saut](https://www.douaratil.fr/illustrations/objet/anneaudesaut300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudesaut.jpeg)  

@@ -25,3 +25,5 @@ Vous bénéficiez d'une résistance contre un type de dégâts tant que vous por
 *Coût estimé*: 500 po  
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000     
+
+[![Anneau de résistance](https://www.douaratil.fr/illustrations/objet/anneauderesistance300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneauderesistance.jpeg)  

@@ -24,7 +24,16 @@ Visites:
 - changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
 
 **Objets magiques :**  
-- Ajout de l'illustration de l'[anneau de dérobade](/liste-objets-magiques/anneau-de-derobade)    
+- Ajout de l'illustration de l'[anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)    
+- Ajout de l'illustration de l'[anneau de maîtrise élémentaire](/liste-objets-magiques/anneau-de-maitrise-elementaire)    
+- Ajout de l'illustration de l'[anneau de nage](/liste-objets-magiques/anneau-de-nage)    
+- Ajout de l'illustration de l'[anneau de protection](/liste-objets-magiques/anneau-de-protection)    
+- Ajout de l'illustration de l'[anneau de protection mentale](/liste-objets-magiques/anneau-de-protection-mentale)    
+- Ajout de l'illustration de l'[anneau de régénération](/liste-objets-magiques/anneau-de-regeneration)    
+- Ajout de l'illustration de l'[anneau de renvoi des sorts](/liste-objets-magiques/anneau-de-renvoi-des-sorts)    
+- Ajout de l'illustration de l'[anneau de résistance](/liste-objets-magiques/anneau-de-resistance)    
+- Ajout de l'illustration de l'[anneau de saut](/liste-objets-magiques/anneau-de-saut)    
+- Ajout de l'illustration de l'[anneau de stockage des sorts](/liste-objets-magiques/anneau-de-stockage-des-sorts)    
 
 Bon jeu.     
 §§§ .text-right

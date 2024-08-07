@@ -14,3 +14,5 @@ Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intér
 *Coût estimé*: 200 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Anneau de protection mentale](https://www.douaratil.fr/illustrations/objet/anneaudeprotectionmentale300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudeprotectionmentale.jpeg)  

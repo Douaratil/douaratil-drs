@@ -12,3 +12,5 @@ Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavant
 *Coût estimé*: 5000 po  
 *Temps estimé*: Neuf lunes  
 *Points de pouvoir estimés*: 30 000   
+
+[![Anneau de renvoi des sorts](https://www.douaratil.fr/illustrations/objet/anneauderenvoidessorts300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneauderenvoidesorts.jpeg)  

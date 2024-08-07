@@ -12,3 +12,5 @@ Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vou
 *Coût estimé*: 200 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Anneau de nage](https://www.douaratil.fr/illustrations/objet/anneaudenage300.jpeg)](https://www.douaratil.fr/illustrations/objet/anneaudenage.jpeg)  
