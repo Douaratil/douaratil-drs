@@ -17,6 +17,21 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 223
+![Mise à jour 223](https://www.douaratil.fr/illustrations/site/maj223.jpeg)     
+
+**Bestiaire :**   
+- changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
+
+**Objets magiques :**  
+- Ajout de l'illustration de l'[anneau de dérobade](/liste-objets-magiques/anneau-de-derobade)    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 8 août 2024_
+§§§
+
 ## Mise à jour 222
 ![Mise à jour 222](https://www.douaratil.fr/illustrations/site/maj222.jpeg)     
 
@@ -35,6 +50,9 @@ Visites:
 - Ajout de l'illustration de l'[amulette de cicatrisation](/liste-objets-magiques/amulette-de-cicatrisation)    
 - Ajout de l'illustration de l'[amulette de santé](/liste-objets-magiques/amulette-de-sante)    
 - Ajout de l'illustration de l'[anneau d'action libre](/liste-objets-magiques/anneau-d-action-libre)    
+- Ajout de l'illustration de l'[anneau d'influence animale](/liste-objets-magiques/anneau-d-influence-animale)    
+- Ajout de l'illustration de l'[anneau de chaleur](/liste-objets-magiques/anneau-de-chaleur)    
+- Ajout de l'illustration de l'[anneau de dérobade](/liste-objets-magiques/anneau-de-derobade)    
 
 Bon jeu.     
 §§§ .text-right

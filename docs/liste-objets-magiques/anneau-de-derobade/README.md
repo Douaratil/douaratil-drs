@@ -12,3 +12,5 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 *Coût estimé*: 500 po  
 *Temps estimé*: Trois lunes  
 *Points de pouvoir estimés*: 5000    
+
+[![Anneau de dérobade](https://www.douaratil.fr/illustrations/objet/anneaudederobade300.jpeg)](https://www.douaratil.fr/illustrations/fielon/anneaudederobade.jpeg)  

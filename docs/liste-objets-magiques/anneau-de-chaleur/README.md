@@ -12,3 +12,5 @@ Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous p
 *Coût estimé*: 200 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Anneau de chaleur](https://www.douaratil.fr/illustrations/objet/anneaudechaleur300.jpeg)](https://www.douaratil.fr/illustrations/fielon/anneaudechaleur.jpeg)  
