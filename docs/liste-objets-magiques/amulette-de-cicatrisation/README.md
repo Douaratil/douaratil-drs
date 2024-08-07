@@ -12,3 +12,5 @@ Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au débu
 *Coût estimé*: 400 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Amulette de cicatrisation](https://www.douaratil.fr/illustrations/objet/amulettedecicatrisation300.jpeg)](https://www.douaratil.fr/illustrations/fielon/amulettedecicatrisation.jpeg)  

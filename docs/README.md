@@ -31,6 +31,10 @@ Visites:
 **Objets magiques :**  
 - Ajout de l'illustration de l'[amulette antidote](/liste-objets-magiques/amulette-antidote)   
 - Ajout de l'illustration de l'[amulette d'antidetection](/liste-objets-magiques/amulette-d-antidetection)    
+- Ajout de l'illustration de l'[amulette de bonne santé](/liste-objets-magiques/amulette-de-bonne-sante)    
+- Ajout de l'illustration de l'[amulette de cicatrisation](/liste-objets-magiques/amulette-de-cicatrisation)    
+- Ajout de l'illustration de l'[amulette de santé](/liste-objets-magiques/amulette-de-sante)    
+- Ajout de l'illustration de l'[anneau d'action libre](/liste-objets-magiques/anneau-d-action-libre)    
 
 Bon jeu.     
 §§§ .text-right

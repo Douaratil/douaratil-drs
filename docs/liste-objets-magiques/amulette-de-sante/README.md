@@ -12,3 +12,5 @@ Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladi
 *Coût estimé*: 400 po    
 *Temps estimé*: Deux lunes  
 *Points de pouvoir estimés*: 2000  
+
+[![Amulette de santé](https://www.douaratil.fr/illustrations/objet/amulettedesante300.jpeg)](https://www.douaratil.fr/illustrations/fielon/amulettedesante.jpeg)  
