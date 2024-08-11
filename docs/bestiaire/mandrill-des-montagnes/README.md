@@ -32,7 +32,7 @@ environments:
 ---
 ## Mandrill des montagnes
 &nbsp;
-[![Mandrill des montagnes](https://www.douaratil.fr/illustrations/bete/mandrilldesmontagnesm.png)](https://www.douaratil.fr/illustrations/bete/mandrilldesmontagnes.jpg)  
+[![Mandrill des montagnes](https://www.douaratil.fr/illustrations/bete/mandrilldesmontagnes300.jpeg)](https://www.douaratil.fr/illustrations/bete/mandrilldesmontagnes.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

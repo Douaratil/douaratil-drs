@@ -31,7 +31,7 @@ environments:
 ---
 ## Lougre
 &nbsp;
-[![Lougre](https://www.douaratil.fr/illustrations/bete/lougrem.png)](https://www.douaratil.fr/illustrations/bete/lougre.jpg)    
+[![Lougre](https://www.douaratil.fr/illustrations/bete/lougre300.jpeg)](https://www.douaratil.fr/illustrations/bete/lougre.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

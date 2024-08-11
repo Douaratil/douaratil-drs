@@ -26,7 +26,7 @@ environments:
 ---
 ## Mammouth
 &nbsp;
-[![Mammouth](https://www.douaratil.fr/illustrations/bete/mammouthm.png)](https://www.douaratil.fr/illustrations/bete/mammouth.jpg)  
+[![Mammouth](https://www.douaratil.fr/illustrations/bete/mammouth300.jpeg)](https://www.douaratil.fr/illustrations/bete/mammouth.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

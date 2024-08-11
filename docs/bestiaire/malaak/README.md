@@ -31,7 +31,7 @@ environments:
 ---
 ## Malaak
 &nbsp;
-[![Malaak](https://www.douaratil.fr/illustrations/bete/malaakm.png)](https://www.douaratil.fr/illustrations/bete/malaak.jpg)  
+[![Malaak](https://www.douaratil.fr/illustrations/bete/malaak300.jpeg)](https://www.douaratil.fr/illustrations/bete/malaak.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

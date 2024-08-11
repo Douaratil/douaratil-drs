@@ -28,9 +28,10 @@ Visites:
 - Changement d'illustration du [lézard géant](/bestiaire/lezard-geant).   
 - Changement d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo). 
 - Ajout d'illustration du [louarndou](/bestiaire/louarndou).   
-
-**Objets magiques :**  
-- Ajout de l'illustration de l'[anneau de stockage des sorts](/liste-objets-magiques/anneau-de-stockage-des-sorts)    
+- Changement d'illustration du [lougre](/bestiaire/lougre). 
+- Changement d'illustration du [malaak](/bestiaire/malaak). 
+- Changement d'illustration du [mammouth](/bestiaire/mammouth). 
+- Changement d'illustration du [mandrill des montagnes](/bestiaire/mandrill-des-montagnes). 
 
 Bon jeu.     
 §§§ .text-right
