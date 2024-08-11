@@ -17,11 +17,32 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 224
+![Mise à jour 224](https://www.douaratil.fr/illustrations/site/maj224.jpeg)     
+
+**Bestiaire :**   
+- Changement d'illustration de la [lampose](/bestiaire/lampose).   
+- Changement d'illustration du [langrier](/bestiaire/langrier).   
+- Changement et ajout d'illustrations du [leedschithys](/bestiaire/leedschithys).   
+- Changement d'illustration du [lézard](/bestiaire/lezard).    
+- Changement d'illustration du [lézard géant](/bestiaire/lezard-geant).   
+- Changement d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo). 
+- Ajout d'illustration du [louarndou](/bestiaire/louarndou).   
+
+**Objets magiques :**  
+- Ajout de l'illustration de l'[anneau de stockage des sorts](/liste-objets-magiques/anneau-de-stockage-des-sorts)    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 11 août 2024_
+§§§
+
 ## Mise à jour 223
 ![Mise à jour 223](https://www.douaratil.fr/illustrations/site/maj223.jpeg)     
 
 **Bestiaire :**   
-- changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
+- changement du khreshk en [flatulant](/bestiaire/flatulant).  
 
 **Objets magiques :**  
 - Ajout de l'illustration de l'[anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)    

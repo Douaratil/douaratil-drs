@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Leedschithys
 &nbsp;
-[![Leedschithys](https://www.douaratil.fr/illustrations/bete/leedschithysm.png)](https://www.douaratil.fr/illustrations/bete/Leedschithys.jpg)    
+[![Leedschithys](https://www.douaratil.fr/illustrations/bete/leedschithys300.jpeg)](https://www.douaratil.fr/illustrations/bete/leedschithys.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -45,3 +45,5 @@ _**Morsure**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,5
 _Touché_ : 6d6 dégâts contondant.  
 
 Le leedschithys est un grand poisson pouvant dépasser quarante pieds. Habitué à vivre dans des profondeurs océanique, il lui arrive de remonter et de flotter entre deux eaux. Il essaie de gober ses proies et de les entraîner dans les abysses.
+
+[![Leedschithys](https://www.douaratil.fr/illustrations/bete/leedschithys2300.jpeg)](https://www.douaratil.fr/illustrations/bete/leedschithys2.jpeg)    

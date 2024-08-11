@@ -34,7 +34,7 @@ dungeonTypes:
 ---
 ## Lampose
 &nbsp;
-[![Lampose](https://www.douaratil.fr/illustrations/bete/lamposem.png)](https://www.douaratil.fr/illustrations/bete/lampose.jpg)  
+[![Lampose](https://www.douaratil.fr/illustrations/bete/lampose300.jpeg)](https://www.douaratil.fr/illustrations/bete/lampose.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

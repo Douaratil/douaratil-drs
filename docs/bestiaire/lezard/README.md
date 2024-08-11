@@ -31,7 +31,7 @@ dungeonTypes:
 ---
 ## Lézard
 &nbsp;
-[![lézard](https://www.douaratil.fr/illustrations/bete/lezardm.png)](https://www.douaratil.fr/illustrations/bete/lezard.jpg)  
+[![lézard](https://www.douaratil.fr/illustrations/bete/lezard300.jpeg)](https://www.douaratil.fr/illustrations/bete/lezard.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 10  
 ## Actions
