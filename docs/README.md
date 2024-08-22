@@ -16,6 +16,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
+## Mise à jour 225
+![Mise à jour 225](https://www.douaratil.fr/illustrations/site/maj225.jpeg)     
+
+**Bestiaire :**   
+- Changement d'illustration de la [lampose](/bestiaire/lampose).   
+
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 22 août 2024_
+§§§
 
 ## Mise à jour 224
 ![Mise à jour 224](https://www.douaratil.fr/illustrations/site/maj224.jpeg)     
