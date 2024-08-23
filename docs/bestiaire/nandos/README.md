@@ -27,7 +27,7 @@ environments:
 ---
 ## Nandos
 &nbsp;
-[![Nandos](https://www.douaratil.fr/illustrations/bete/nandosm.png)](https://www.douaratil.fr/illustrations/humanoide/nandos.jpg)  
+[![Nandos](https://www.douaratil.fr/illustrations/bete/nandos300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/nandos.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -41,4 +41,4 @@ _**Guerrier bondissant**._ Si un nandos saute sur au moins 3 mètres et atterrit
 _**Attaques multiples.**_ Le nandos fait deux attaques de griffes.
 
 _**Griffes.**_ _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.
-Touché : 2d6+2 dégâts contondants.
+Touché : 2d6+2 dégâts tranchant.

@@ -22,12 +22,20 @@ Visites:
 
 **Bestiaire :**   
 - Changement d'illustration du [mao-ju](/bestiaire/mao-ju).   
+- Changement d'illustration du [mastiff](/bestiaire/mastiff).   
+- Changement d'illustration du [mille pattes géant](/bestiaire/mille-pattes-geant).   
+- Changement d'illustration de la [mule](/bestiaire/mule).   
+- Changement d'illustration du [nagocéros](/bestiaire/nagoceros).   
+- Changement d'illustration du [nandos](/bestiaire/nandos).   
+- Changement d'illustration du [niwele](/bestiaire/niwele).   
 
+**Bestiaire :**   
+- Ajout du [dent tranchante](/bestiaire/dent-tranchante).   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 22 août 2024_
+_le 23 août 2024_
 §§§
 
 ## Mise à jour 224

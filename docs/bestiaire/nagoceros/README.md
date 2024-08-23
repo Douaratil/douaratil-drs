@@ -27,7 +27,7 @@ environments:
 ---
 ## Nagocéros
 &nbsp;
-[![Nagocéros](https://www.douaratil.fr/illustrations/bete/nagocerosm.png)](https://www.douaratil.fr/illustrations/humanoide/nagoceros.jpg)  
+[![Nagocéros](https://www.douaratil.fr/illustrations/bete/nagoceros300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/nagoceros.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
