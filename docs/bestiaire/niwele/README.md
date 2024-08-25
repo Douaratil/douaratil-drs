@@ -38,7 +38,7 @@ environments:
 ---
 ## Niwele
 &nbsp;
-[![Niwele](https://www.douaratil.fr/illustrations/creature-monstrueuse/niwelem.png)](https://www.douaratil.fr/illustrations/creature-monstrueuse/niwele.jpg)  
+[![Niwele](https://www.douaratil.fr/illustrations/creature-monstrueuse/niwele300.jpeg)](https://www.douaratil.fr/illustrations/creature-monstrueuse/niwele.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 20, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
