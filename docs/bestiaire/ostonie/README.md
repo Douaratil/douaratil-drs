@@ -28,7 +28,7 @@ environments:
 ---
 ## Ostonie
 &nbsp;
-[![Ostonie](https://www.douaratil.fr/illustrations/bete/ostoniem.png)](https://www.douaratil.fr/illustrations/humanoide/ostonie.jpg)  
+[![Ostonie](https://www.douaratil.fr/illustrations/bete/ostonie300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/ostonie.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

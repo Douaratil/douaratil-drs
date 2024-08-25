@@ -29,7 +29,7 @@ environments:
 ---
 ## Piranha
 &nbsp;
-[![Piranha](https://www.douaratil.fr/illustrations/bete/piranham.png)](https://www.douaratil.fr/illustrations/bete/piranha.jpg)  
+[![Piranha](https://www.douaratil.fr/illustrations/bete/piranha300.jpeg)](https://www.douaratil.fr/illustrations/bete/piranha.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 9            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

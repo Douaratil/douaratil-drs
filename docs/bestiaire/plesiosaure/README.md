@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 ## Plésiosaure
 &nbsp;
-[![Plésiosaure](https://www.douaratil.fr/illustrations/bete/plesiosaurem.png)](https://www.douaratil.fr/illustrations/bete/plesiosaure.jpg)  
+[![Plésiosaure](https://www.douaratil.fr/illustrations/bete/plesiosaure300.jpeg)](https://www.douaratil.fr/illustrations/bete/plesiosaure.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -28,6 +28,14 @@ Visites:
 - Changement d'illustration du [nagocéros](/bestiaire/nagoceros).   
 - Changement d'illustration du [nandos](/bestiaire/nandos).   
 - Changement d'illustration du [niwele](/bestiaire/niwele).   
+- Changement de l'odoba en quarnequin et changement d'illustration du [quarnequin](/bestiaire/quarnequin).  
+- Changement d'illustration de l'[ombre](/bestiaire/ombre).   
+- Changement d'illustration de l'[orsodon](/bestiaire/orsodon).   
+- Changement d'illustration de l'[ostonie](/bestiaire/ostonie).   
+- Changement d'illustration de la [panthère](/bestiaire/panthere).   
+- Changement d'illustration de la [pieuvre](/bestiaire/pieuvre).   
+- Changement d'illustration de la [pieuvre géante](/bestiaire/pieuvre-geante).   
+- Changement d'illustration du [piranha](/bestiaire/piranha).   
 
 **Bestiaire :**   
 - Ajout du [dent tranchante](/bestiaire/dent-tranchante).   
@@ -35,7 +43,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 23 août 2024_
+_le 25 août 2024_
 §§§
 
 ## Mise à jour 224

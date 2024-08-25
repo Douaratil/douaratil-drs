@@ -29,7 +29,7 @@ environments:
 ---
 ## Orsodon
 &nbsp;
-[![Orsodon](https://www.douaratil.fr/illustrations/bete/orsodonm.png)](https://www.douaratil.fr/illustrations/bete/orsodon.jpg)
+[![Orsodon](https://www.douaratil.fr/illustrations/bete/orsodon300.jpeg)](https://www.douaratil.fr/illustrations/bete/orsodon.jpeg)
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     

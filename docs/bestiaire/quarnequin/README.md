@@ -1,5 +1,5 @@
 ---
-title: "Odoba"
+title: "Quarnequin"
 type: "Fiélon"
 subtype: "Diable"
 size: "G"
@@ -50,22 +50,22 @@ languages:
 telepathy: 30
 
 ---
-## Odoba
+## Quarnequin
 &nbsp;
-[![Odoba](https://www.douaratil.fr/illustrations/fielon/odobam.png)](https://www.douaratil.fr/illustrations/fielon/odoba.jpg)  
+[![Quarnequin](https://www.douaratil.fr/illustrations/fielon/quarnequin300.jpeg)](https://www.douaratil.fr/illustrations/fielon/quarnequin.jpg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 30, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 28            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Savoir (3/jour)**_. Un Odoba peut prévoir les actions et influer sa chance en fonction. Trois fois par jour, il peut ainsi choisir d'être _avantagé_ lors de n'importe quel jet d'attaque ou de compétence.
+_**Savoir (3/jour)**_. Un quarnequin peut prévoir les actions et influer sa chance en fonction. Trois fois par jour, il peut ainsi choisir d'être _avantagé_ lors de n'importe quel jet d'attaque ou de compétence.
 
-_**Résistance à la magie**_. Un Odoba est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Un quarnequin est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-_**Armes magiques**_. Les attaques d'arme d'un Odoba sont magiques.
+_**Armes magiques**_. Les attaques d'arme d'un quarnequin sont magiques.
 
-_**Sage conseil**_. Un Odoba peut parfois déformer les réponses d'une divination. Il dilue la réponse, omet des informations cruciales, la rend alambiquée, ou se contente de mentir. Un Odoba est toujours _avantagé_ lors de ses tests de Supercherie et de Persuasion lorsqu'il dévoile les résultats d'une divination.
+_**Sage conseil**_. Un quarnequin peut parfois déformer les réponses d'une divination. Il dilue la réponse, omet des informations cruciales, la rend alambiquée, ou se contente de mentir. Un quarnequin est toujours _avantagé_ lors de ses tests de Supercherie et de Persuasion lorsqu'il dévoile les résultats d'une divination.
 
-_**Incantation innée**_. La caractéristique d'incantation innée d'un Odoba est le Charisme (DD du jet de sauvegarde contre les sorts 18, +10 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée d'un quarnequin est le Charisme (DD du jet de sauvegarde contre les sorts 18, +10 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **Constant** : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/)
 * **À volonté** : [_augure_](/grimoire/augure/), [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/)
 * **5/jour chacun** : [_jeter une malédiction_](/grimoire/jeter-une-malediction/)
@@ -73,7 +73,7 @@ _**Incantation innée**_. La caractéristique d'incantation innée d'un Odoba es
 * **1/jour chacun** : [_mauvais œil_](/grimoire/mauvais-oeil/), [_prémonition_](/grimoire/premonition/), [_trouver un chemin_](/grimoire/trouver-un-chemin/)
 
 ## Action
-_**Attaques multiples**_. Un Odoba porte quatre attaques : une de _morsure_, une de _griffes_, une à l'aide de son _fléau_ et une de _pas pesant_.
+_**Attaques multiples**_. Un quarnequin porte quatre attaques : une de _morsure_, une de _griffes_, une à l'aide de son _fléau_ et une de _pas pesant_.
 
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 3d6+8 dégâts perforants. La cible doit également réussir un jet de sauvegarde de Constitution DD 18 ou être _empoisonnée_. Tant qu'elle est _empoisonnée_, la cible ne peut pas regagner de points d'action et elle subit 4d6 dégâts de poison circulatoire au début de chacun de ses tours. Une cible _empoisonnée_ refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
