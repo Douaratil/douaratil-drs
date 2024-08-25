@@ -25,9 +25,9 @@ environments:
   - Steppes
 
 ---
-## Nandos
+## Dent tranchante
 &nbsp;
-[![Nandos](https://www.douaratil.fr/illustrations/bete/denttranchante300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/denttranchante.jpeg)  
+[![Dent tranchante](https://www.douaratil.fr/illustrations/bete/denttranchante300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/denttranchante.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
