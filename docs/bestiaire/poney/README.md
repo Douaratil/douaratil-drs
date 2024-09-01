@@ -27,7 +27,7 @@ environments:
 ---
 ## Poney
 &nbsp;
-[![Poney](https://www.douaratil.fr/illustrations/bete/poneym.png)](https://www.douaratil.fr/illustrations/bete/poney.jpg)  
+[![Poney](https://www.douaratil.fr/illustrations/bete/poney300.jpeg)](https://www.douaratil.fr/illustrations/bete/poney.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14   
 ## Actions
