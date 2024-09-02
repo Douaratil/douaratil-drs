@@ -22,6 +22,10 @@ Visites:
 
 **Bestiaire :**   
 - Changement d'illustration du [poney](/bestiaire/poney).   
+- Ajout d'illustration du [pouding noir](/bestiaire/pouding-noir).   
+- Changement d'illustration du [rat](/bestiaire/rat).  
+- Changement d'illustration du [rat géant](/bestiaire/rat-geant).  
+- Ajout d'illustrations du [raudulfur](/bestiaire/raudulfur).  
 
 Bon jeu.     
 §§§ .text-right

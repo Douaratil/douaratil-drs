@@ -27,7 +27,7 @@ dungeonTypes:
 ---
 ## Rat géant
 &nbsp;
-[![Rat géant](https://www.douaratil.fr/illustrations/bete/ratgeantm.png)](https://www.douaratil.fr/illustrations/bete/ratgeant.jpg)  
+[![Rat géant](https://www.douaratil.fr/illustrations/bete/ratgeant300.jpeg)](https://www.douaratil.fr/illustrations/bete/ratgeant.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

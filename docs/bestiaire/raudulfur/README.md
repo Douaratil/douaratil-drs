@@ -30,6 +30,8 @@ environments:
 
 ---
 ## Raudulfur
+&nbsp;
+[![Raudulfur](https://www.douaratil.fr/illustrations/bete/raudulfur300.jpeg)](https://www.douaratil.fr/illustrations/bete/raudulfur.jpeg) 
 Le Raudulfur ressemble à un loup de grande taille au pelage roux et long l'été et blanc l'hiver. C'est une créature majestueuse qui se fond parfaitement dans les paysages enneigés des régions nordiques. Son pelage roux et dense l'été est idéal pour se camoufler dans les forêts boréales et traquer ses proies, tandis que son pelage blanc et épais l'hiver lui permet de se fondre dans la neige et de rester au chaud par temps glacial. Le Raudulfur est un prédateur redoutable et un symbole de la nature sauvage des régions nordiques, mais bien plus encore car il est extrêmement rare et appartient au royaume féérique. Le Raudulfur est une expression féérique de la rage de la nature.
 §§§ .hero
 "*Je voulais depuis longtemps rencontrer des créatures mythiques et légendaires au cours de mes voyages. Ce jour dans le nord des terres connues, j'avais entendu parler du Raudulfur, une bête redoutable et majestueuse qui se cachait dans les paysages enneigés des régions nordiques. Un jour, alors que je traversais une forêt dense, j'aperçus une forme imposante qui se mouvait dans les buissons. Je m'approchais lentement, mon cœur battant la chamade.*
@@ -43,6 +45,10 @@ Le Raudulfur ressemble à un loup de grande taille au pelage roux et long l'ét�
 _**Odorat et ouïe aiguisés**_. Le Raudulfur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 
 _**Bénédiction féerique**_. Le Raudulfur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) effectué contre une créature et ses adversaires ont un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur toutes les actions offensives dirigées contre le Raudulfur (Action attaquer et sorts).
+
+_**Passage sans trace**_. Le Raudulfur ne laisse aucune trace sur son passage.
+
+[![Raudulfur](https://www.douaratil.fr/illustrations/bete/raudulfur2300.jpeg)](https://www.douaratil.fr/illustrations/bete/raudulfur2.jpeg) 
 
 ## Actions
 _**Attaques multiples**_. _Le Raudulfur fait 3 attaques lorsqu'il utilise l'action attaquer.
