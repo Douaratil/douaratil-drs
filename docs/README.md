@@ -26,11 +26,12 @@ Visites:
 - Changement d'illustration du [rat](/bestiaire/rat).  
 - Changement d'illustration du [rat géant](/bestiaire/rat-geant).  
 - Ajout d'illustrations du [raudulfur](/bestiaire/raudulfur).  
+- Ajout d'illustrations du [rejeton de malhor](/bestiaire/rejeton-de-malhor).  
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 1 septembre 2024_
+_le 2 septembre 2024_
 §§§
 
 ## Mise à jour 225

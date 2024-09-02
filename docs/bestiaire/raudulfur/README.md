@@ -51,6 +51,6 @@ _**Passage sans trace**_. Le Raudulfur ne laisse aucune trace sur son passage.
 [![Raudulfur](https://www.douaratil.fr/illustrations/bete/raudulfur2300.jpeg)](https://www.douaratil.fr/illustrations/bete/raudulfur2.jpeg) 
 
 ## Actions
-_**Attaques multiples**_. _Le Raudulfur fait 3 attaques lorsqu'il utilise l'action attaquer.
+_**Attaques multiples**_. _Le Raudulfur fait 3 attaques lorsqu'il utilise l'action attaquer.    
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +13 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ :3d6+7 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 18 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
+_Touché_ : 3d6+7 dégâts perforants. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 18 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

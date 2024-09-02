@@ -53,9 +53,9 @@ languages:
   - "infernal"
 telepathy: 18
 ---
-## Malhoral
+## Malhor
 &nbsp;
-[![Malhoral](https://www.douaratil.fr/illustrations/fielon/malhor300.jpeg)](https://www.douaratil.fr/illustrations/fielon/malhor.jpeg)  
+[![Malhor](https://www.douaratil.fr/illustrations/fielon/malhor300.jpeg)](https://www.douaratil.fr/illustrations/fielon/malhor.jpeg)  
 §§§ .hero
 "*Lorsque la fumée se dissipa, je découvrais une grande silhouette presque haute comme deux hommes. Je distinguais ses formes bien que son aspect ne semblait pas stable mais cela était dû au fait qu'elle venait des plans infernaux. Bien que difficile à décrire, son apparence aurait pu s'apparenter à une mante religieuse gigantesque, pourvue de quatre bras préhensiles et barbelés. Quand je senti que la créature tentait de s'introduire dans mon esprit, je m'enfuyais par la fenêtre de la cabane, abandonnant mon rituel. Le lendemain, revenant sur les lieux, je ne pu que constater que ma petite demeure dans les bois avait été détruite, maigre consolation mais je pouvais me satisfaire d'être vivant.*"  
 **Souvenir de convocation d'un démon par Ioen l'invocateur.**
@@ -66,7 +66,7 @@ telepathy: 18
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités  
 _**Perte de santé mentale (SAM)**_. DD 28, réussite 7, échec 3d6+4.    
 _**Points de Magie**_. 43  
-_**Incantation innée**_. La caractéristique d'incantation innée de Malhoral est le Charisme (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
+_**Incantation innée**_. La caractéristique d'incantation innée de Malhor est le Charisme (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_cercle magique_](/grimoire/cercle-magique/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/),[_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_fléau d'insectes_](/grimoire/fleau-d-insectes/), [_contagion_](/grimoire/contagion/) (toujours la fièvre répugnante).  
 
 _**Résistance à la magie**_. Malhor est _avantagé_ lors de ses jets de sauvegarde contre les sorts et autres effets magiques.  

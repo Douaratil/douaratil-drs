@@ -1,5 +1,5 @@
 ---
-title: "Rejeton d'Akashakhal"
+title: "Rejeton de malhor"
 type: "Fiélon"
 subtype: "Démon"
 size: "M"
@@ -32,6 +32,9 @@ languages:
   - "rejeton d'Akyishigal"
 
 ---
+## Rejeton de malhor
+&nbsp;
+[![Rejeton de malhor](https://www.douaratil.fr/illustrations/fielon/rejetondemalhor300.jpeg)](https://www.douaratil.fr/illustrations/fielon/rejetondemalhor.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 21, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
