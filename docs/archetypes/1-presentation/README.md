@@ -9,6 +9,7 @@ Les Archétypes actuellement disponibles sont :
 - [Adoshaï](/archetypes/adoshai/), mentaliste selmonite.  
 - [Alka'him](/archetypes/alkahim/), alchimiste shahim.  
 - [Ambeanamos](/archetypes/ambeanamos/), sorcier meldète.  
+- [Assassyrhim](/archetypes/assassyrhim/), espion/assassin shahim.  
 - [Astartes](/archetypes/astartes/), guerrier ancante.  
 - [Bhaner](/archetypes/bhaner/), barde khernaë.  
 - [Bhegelm](/archetypes/bhegelm/), druide khernaë.  
@@ -21,6 +22,7 @@ Les Archétypes actuellement disponibles sont :
 - [Heilari](/archetypes/heilari/), guérisseuse de culture clanique. 
 - [Herredyr](/archetypes/herredyr/), homme bête de culture clanique.  
 - [Holtseidar](/archetypes/holtseidar/), maître des runes melg.
+- [Houryam](/archetypes/houryam/), espionne courtisane shahim.
 - [Ior](/archetypes/ior/), guerrier frénétique meldète.  
 - [Jargl](/archetypes/jargl/), champion khernaë.  
 - [Jörghal](/archetypes/jorghal/), champion melg.
@@ -29,9 +31,11 @@ Les Archétypes actuellement disponibles sont :
 - [Llawenos](/archetypes/llawenos/), barde mledète.  
 - [Magios](/archetypes/magios/), mage alcante.  
 - [Nayane](/archetypes/nayane/), femme démon assassin.  
+- [Otaganha](/archetypes/otaganha/), maîtresse des felins soohgaï. 
 - [Seibahkami](/archetypes/seibahkami/), guerrier yotakaï.  
 - [Sermazloth](/archetypes/sermazloth/), moniale khernaëe.  
 - [Shangharah](/archetypes/shangharah/), soigneuse sooghaï.  
+- [Singhara](/archetypes/singhara/), guerrier sooghaï.
 - [Skell](/archetypes/skell/), guerrier barde melg.  
 - [Sohoten](/archetypes/shohoten/), guerrier moine yotakaï.  
 - [Sorser](/archetypes/sorser/), sorcier khernaë.  

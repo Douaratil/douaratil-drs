@@ -21,6 +21,9 @@ Les armes de guerres lancent 3d6.
 Si trois 1 sont obtenus sur le test de toucher c'est une maladresse.
 Si trois 6 sont obtenus sur le test de toucher pour le critique.
 
+Une inspiration peut aussi modifier un coup critique. L’inspiration octroie un bonus de +1d6. De même, un personnage qui subit un coup critique peut décider d’utiliser une inspiration pour diminuer un coup critique. Il applique alors un malus de -1d6. Dans les deux cas, les dés sont explosifs. L’utilisation de l’inspiration peut se faire après que le résultat du lancer de dés soit connu.
+Les inspirations sont elles aussi cumulables pour obtenir un bonus plus important.
+
 | Types | Dés
 |:-:|:-:|
 |Armes courantes|2d6|
@@ -28,6 +31,8 @@ Si trois 6 sont obtenus sur le test de toucher pour le critique.
 |Armes magiques|+1d6|
 |Armes sacrées|+2d6|
 |Armes tueuses|+3d6|
+|inspiration offensive|+1d6/inspiration|
+|inspiration défensive|-1d6/inspiration|
 
 - Éléments entre parenthèses : Un (casque) ou un (bouclier) à côté d'un résultat critique signifie que si la cible possède l'objet approprié, l'effet ne se produit pas.
 

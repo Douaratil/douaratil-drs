@@ -9,6 +9,96 @@ toc: false
 
 <v-col cols="12" md="6">
 
+## Mise à jour 221
+![Mise à jour 221](https://www.douaratil.fr/illustrations/site/maj221.jpeg)     
+
+**Bestiaire :**   
+- Ajout de la [heks marine](/bestiaire/heks-marine).  
+- Ajout du [moribond](/bestiaire/moribond).  
+- Ajout du [morpale](/bestiaire/morpale).  
+
+**PJ :**   
+- Ajout des traits de caractères de [Gwion Gornoc](/bestiaire/gwion-gornoc)
+- Ajout des traits de caractères de [Ioen Paetus](/bestiaire/ioen-paetus)
+- Ajout des traits de caractères de [Jahir Murad](/bestiaire/jahir-murad)
+- Changement d'illustration de [Pywed Vecconos](/bestiaire/pywed-vecconos) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Shine Hame](/bestiaire/shine-hame)    
+- Changement d'illustration de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) et ajout des traits de caractères.     
+- Changement d'illustration de [Talos Virato](/bestiaire/talos-virato) et ajout des traits de caractères. 
+- Changement d'illustration de [Taron Vecconos](/bestiaire/taron-vecconos) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Thorleik Aevarson](/bestiaire/thorleik-aevarson)
+- Ajout des traits de caractères de [Yan Zin](/bestiaire/yan-zin)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 31  juillet 2024_
+§§§
+
+
+## Mise à jour 220
+![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj220.jpeg)     
+
+**Site :**
+- Ajout d'une page [PJ](/PJ) accesible depuis le menu dans la rubrique "le monde de Douaratil"
+
+**Règles :**   
+- Ajout d'illustrations à la page [lancer des sorts](/lancer-des-sorts)
+- Ajout d'illustrations à la page [système monétaire](/equipement/systeme-monetaire)
+
+**Grimoire :**   
+- Ajout du sort [bourse molle](/grimoire/bourse-molle).  
+- Ajout du sort [brise noix](/grimoire/brise-noix).  
+- Ajout du sort [claire semence](/grimoire/claire-semence).  
+
+**PJ :**   
+- Ajout des traits de caractères de [Alf Swenbjörnson](/bestiaire/alf-swenbjornson)
+- Ajout des traits de caractères de [Ayah Kenira](/bestiaire/ayah-kenira)
+- Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen) et ajout des traits de caractères.   
+- Ajout des traits de caractères de [Dehus Dreanos](/bestiaire/dehus-dreanos).   
+- Ajout des traits de caractères de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
+- Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus). 
+- Ajout des traits de caractères de [Knut Swenson](/bestiaire/knut-swenson).   
+- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Moïra Dornglas](/bestiaire/moira-dornglas).   
+- Changement d'illustration de [Morgaine Dour](/bestiaire/morgaine-dour) et ajout des traits de caractères. 
+- Changement d'illustration de [Nadari Bahati](/bestiaire/nadira-bahati) et ajout des traits de caractères. 
+- Changement d'illustration de [Namusa Koulouarn](/bestiaire/namusa-koulouarn) et ajout des traits de caractères. 
+- Changement d'illustration de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) et ajout des traits de caractères. 
+- Changement d'illustration de [Samia Tiercelin](/bestiaire/samia-tiercelin) et ajout des traits de caractères. 
+- Changement d'illustration de [Sedida Kerbrat](/bestiaire/sedida-kerbrat) et ajout des traits de caractères. 
+- Ajout des traits de caractères de [Tibérius Don Alonzo](/bestiaire/tiberius-don-alonzo)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 28  juillet 2024_
+§§§
+
+## Mise à jour 219
+![Mise à jour 219](https://www.douaratil.fr/illustrations/site/maj219.jpeg)     
+
+**Archétypes :**    
+- Ajout de la [houryam](/archetypes/houryam), un archétype shahim de courtisane-espionne.     
+
+**Bestiaire :**   
+- Ajout du [gremleur](/bestiaire/gremleur).  
+- Ajout de l'[horribleur](/bestiaire/horribleur).  
+- Ajout du [hurleur nocturne](/bestiaire/hurleur-nocturne).  
+
+**Grimoire :**   
+- Ajout du sort [âme en peine gardienne](/grimoire/ame-en-peine-gardienne).  
+- Ajout du sort [détection des plantes aromatiques](/grimoire/detection-des-plantes-aromatiques).  
+- Ajout du sort [guérison des fractures](/grimoire/guerison-des-fractures).     
+- Ajout du sort [guérison des organes](/grimoire/guerison-des-organes).     
+- Ajout du sort [soin des brûlures](/grimoire/soin-des-brulures).     
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 23  juillet 2024_
+§§§
+
 ## Mise à jour 218
 ![Mise à jour 218](https://www.douaratil.fr/illustrations/site/maj218.jpeg)     
 

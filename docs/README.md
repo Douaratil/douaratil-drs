@@ -17,6 +17,38 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 227
+![Mise à jour 227](https://www.douaratil.fr/illustrations/site/maj227.jpeg)     
+
+**Site :**    
+- Correction de la page de [présentation des Archétypes](/archetypes/1-presentation) avec l'ajout des derniers Archétypes créés.   
+
+**Règles :**   
+- Ajout d'une option d'utilisation des inspirations. Une inspiration peut aussi modifier un coup critique. L’inspiration octroie un bonus de +1d6. De même, un personnage qui subit un coup critique peut décider d’utiliser une inspiration pour diminuer un coup critique. Il applique alors un malus de -1d6. Dans les deux cas, les dés sont explosifs. L’utilisation de l’inspiration peut se faire après que le résultat du lancer de dés soit connu.   
+Les inspirations sont elles aussi cumulables pour obtenir un bonus plus important.   
+
+| Types | Dés
+|:-:|:-:|
+|Armes courantes|2d6|
+|Armes de guerres|3d6|
+|Armes magiques|+1d6|
+|Armes sacrées|+2d6|
+|Armes tueuses|+3d6|
+|inspiration offensive|+1d6/inspiration|
+|inspiration défensive|-1d6/inspiration|
+
+- Modification de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale) : "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourageinterdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les si »eux n’aiment pas voir leur investissement se nuire et se détruire. ntdL'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.   
+Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).Même les plus vils utilisateurs de la voie de la magie sont soumisamenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.   
+
+**Bestiaire :**   
+- Changement d'illustration du [poney](/bestiaire/poney).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 19 septembre 2024_
+§§§
+
 ## Mise à jour 226
 ![Mise à jour 226](https://www.douaratil.fr/illustrations/site/maj226.jpeg)     
 
@@ -137,95 +169,7 @@ _**Olivier**_,
 _le 7 août 2024_
 §§§
 
-## Mise à jour 221
-![Mise à jour 221](https://www.douaratil.fr/illustrations/site/maj221.jpeg)     
 
-**Bestiaire :**   
-- Ajout de la [heks marine](/bestiaire/heks-marine).  
-- Ajout du [moribond](/bestiaire/moribond).  
-- Ajout du [morpale](/bestiaire/morpale).  
-
-**PJ :**   
-- Ajout des traits de caractères de [Gwion Gornoc](/bestiaire/gwion-gornoc)
-- Ajout des traits de caractères de [Ioen Paetus](/bestiaire/ioen-paetus)
-- Ajout des traits de caractères de [Jahir Murad](/bestiaire/jahir-murad)
-- Changement d'illustration de [Pywed Vecconos](/bestiaire/pywed-vecconos) et ajout des traits de caractères. 
-- Ajout des traits de caractères de [Shine Hame](/bestiaire/shine-hame)    
-- Changement d'illustration de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) et ajout des traits de caractères.     
-- Changement d'illustration de [Talos Virato](/bestiaire/talos-virato) et ajout des traits de caractères. 
-- Changement d'illustration de [Taron Vecconos](/bestiaire/taron-vecconos) et ajout des traits de caractères. 
-- Ajout des traits de caractères de [Thorleik Aevarson](/bestiaire/thorleik-aevarson)
-- Ajout des traits de caractères de [Yan Zin](/bestiaire/yan-zin)
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 31  juillet 2024_
-§§§
-
-
-## Mise à jour 220
-![Mise à jour 220](https://www.douaratil.fr/illustrations/site/maj220.jpeg)     
-
-**Site :**
-- Ajout d'une page [PJ](/PJ) accesible depuis le menu dans la rubrique "le monde de Douaratil"
-
-**Règles :**   
-- Ajout d'illustrations à la page [lancer des sorts](/lancer-des-sorts)
-- Ajout d'illustrations à la page [système monétaire](/equipement/systeme-monetaire)
-
-**Grimoire :**   
-- Ajout du sort [bourse molle](/grimoire/bourse-molle).  
-- Ajout du sort [brise noix](/grimoire/brise-noix).  
-- Ajout du sort [claire semence](/grimoire/claire-semence).  
-
-**PJ :**   
-- Ajout des traits de caractères de [Alf Swenbjörnson](/bestiaire/alf-swenbjornson)
-- Ajout des traits de caractères de [Ayah Kenira](/bestiaire/ayah-kenira)
-- Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen) et ajout des traits de caractères.   
-- Ajout des traits de caractères de [Dehus Dreanos](/bestiaire/dehus-dreanos).   
-- Ajout des traits de caractères de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
-- Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus). 
-- Ajout des traits de caractères de [Knut Swenson](/bestiaire/knut-swenson).   
-- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa) et ajout des traits de caractères. 
-- Ajout des traits de caractères de [Moïra Dornglas](/bestiaire/moira-dornglas).   
-- Changement d'illustration de [Morgaine Dour](/bestiaire/morgaine-dour) et ajout des traits de caractères. 
-- Changement d'illustration de [Nadari Bahati](/bestiaire/nadira-bahati) et ajout des traits de caractères. 
-- Changement d'illustration de [Namusa Koulouarn](/bestiaire/namusa-koulouarn) et ajout des traits de caractères. 
-- Changement d'illustration de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) et ajout des traits de caractères. 
-- Changement d'illustration de [Samia Tiercelin](/bestiaire/samia-tiercelin) et ajout des traits de caractères. 
-- Changement d'illustration de [Sedida Kerbrat](/bestiaire/sedida-kerbrat) et ajout des traits de caractères. 
-- Ajout des traits de caractères de [Tibérius Don Alonzo](/bestiaire/tiberius-don-alonzo)
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 28  juillet 2024_
-§§§
-
-## Mise à jour 219
-![Mise à jour 219](https://www.douaratil.fr/illustrations/site/maj219.jpeg)     
-
-**Archétypes :**    
-- Ajout de la [houryam](/archetypes/houryam), un archétype shahim de courtisane-espionne.     
-
-**Bestiaire :**   
-- Ajout du [gremleur](/bestiaire/gremleur).  
-- Ajout de l'[horribleur](/bestiaire/horribleur).  
-- Ajout du [hurleur nocturne](/bestiaire/hurleur-nocturne).  
-
-**Grimoire :**   
-- Ajout du sort [âme en peine gardienne](/grimoire/ame-en-peine-gardienne).  
-- Ajout du sort [détection des plantes aromatiques](/grimoire/detection-des-plantes-aromatiques).  
-- Ajout du sort [guérison des fractures](/grimoire/guerison-des-fractures).     
-- Ajout du sort [guérison des organes](/grimoire/guerison-des-organes).     
-- Ajout du sort [soin des brûlures](/grimoire/soin-des-brulures).     
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 23  juillet 2024_
-§§§
 
 
 
