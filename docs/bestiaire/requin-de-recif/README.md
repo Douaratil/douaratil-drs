@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Requin de recif
 &nbsp;
-[![Requin de recif](https://www.douaratil.fr/illustrations/bete/requinderecifm.png)](https://www.douaratil.fr/illustrations/bete/requinderecif.jpg)  
+[![Requin de recif](https://www.douaratil.fr/illustrations/bete/requinderecif300.jpeg)](https://www.douaratil.fr/illustrations/bete/requinderecif.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

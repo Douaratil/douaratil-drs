@@ -17,6 +17,23 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 228
+![Mise à jour 228](https://www.douaratil.fr/illustrations/site/maj228.jpeg)     
+
+**Bestiaire :**   
+- Correction du [torment](/bestiaire/torment)   
+- Ajout d'illustration du [rejeton de torment](/bestiaire/rejeton-de-torment)    
+- Changement d'illustration du [requin anguille](/bestiaire/requin-anguille)    
+- Changement d'illustration du [requin chasseur](/bestiaire/requin-chasseur)  
+- Changement d'illustration du [requin de récif](/bestiaire/requin-de-recif)  
+- Changement d'illustration du [requin géant](/bestiaire/requin-geant)  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 21 septembre 2024_
+§§§
+
 ## Mise à jour 227
 ![Mise à jour 227](https://www.douaratil.fr/illustrations/site/maj227.jpeg)     
 
@@ -37,11 +54,8 @@ Les inspirations sont elles aussi cumulables pour obtenir un bonus plus importan
 |inspiration offensive|+1d6/inspiration|
 |inspiration défensive|-1d6/inspiration|
 
-- Modification de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale) : "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourageinterdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les si »eux n’aiment pas voir leur investissement se nuire et se détruire. ntdL'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.   
-Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).Même les plus vils utilisateurs de la voie de la magie sont soumisamenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.   
-
-**Bestiaire :**   
-- Changement d'illustration du [poney](/bestiaire/poney).   
+- Modification de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale) : "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourageinterdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les dieux n’aiment pas voir leur investissement se nuire et se détruire. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.   
+Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).Même les plus vils utilisateurs de la voie de la magie sont soumisamenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.    
 
 Bon jeu.     
 §§§ .text-right
