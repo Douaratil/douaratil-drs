@@ -42,4 +42,4 @@ Les Archétypes actuellement disponibles sont :
 - [Totsuzenshi](/archetypes/totsuzenshi/), assassin yotakaï.  
 - [Vestaline](/archetypes/vestaline/), prêtresse guerrière alcante.  
 - [Vitnar](/archetypes/vitnar/), chaman melg.  
-- [Zhongdhou](/archetypes/totsuzenshi/), alchimiste minghour.  
+- [Zhongdhou](/archetypes/zhongdhou/), alchimiste minghour.  

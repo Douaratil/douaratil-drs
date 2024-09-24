@@ -6,7 +6,7 @@ Les plans sont d'autres espaces de réalité. Ils sont aussi nommés mondes psyc
 Ainsi, pas de dragons, de dieux ou d'archidémons qui débarquent d'un portail qui s'ouvre dans les airs. Même si les résultats peuvent être les même, il y a des nuances à apporter. Nombreuses créatures n'existent que dans les légendes mais les aventuriers, les mages et les religieux connaissent la réalité de leur existence. Pour cette raison, ils redoutent de dormir.   
 Ainsi, dans le monde de vivants, certaines personnes qui paraissent folles aux yeux de tout un chacun sont en fait tourmentées par des esprits et autres démons.  
 Il est possible de voyager et de combattre des adversaires dans ces mondes psychiques qui sont innombrables. Il y a plusieurs couches de voiles dans les réalités. Une personne peut voyager dans le monde psychique et se retrouver exactement au même endroit que dans le monde réel. Il y connait les mêmes contraintes. Souvent, un épais brouillard limite la distance de vue. Il est aussi possible de se retrouver à plusieurs dans les mondes psychiques, souvent attirés par des créatures. La magie permet de voyager dans les mondes psychiques.  
-Les mondes psychiques sont souvent inaccessibles et interdits aux communs des mortels.  
+Les mondes psychiques sont souvent inaccessibles et interdits aux communs des mortels. Les personnages qui sont des Archétypes héroïques de leurs éthnies ne sont pas des mortels communs. Ils perçoivent les démons et les morts vivants ou encore les élémentaires au travers des mondes psychiques mais ces créatures viennent aussi sur le monde incarné pour affronter les personnages et causer de la désolation.
 
 ## Les mondes psychiques
 
@@ -26,3 +26,7 @@ Les combats sont aussi dangereux dans le monde psychique que dans le monde physi
 Il est possible d'essayer de s'échapper d'un monde psychique pour éviter une situation. Il faut réussir un **[jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 28** pour dépasser les limites de son inconscient et revenir dans le monde réel. Si une personne est poursuivie par une créature dans le monde psychique et qu'elle réussit à s'en extraire, il est possible que la nuit suivante, son inconscient le ramène devant celle-ci. Fuir une difficulté n'est jamais la solution dans les mondes psychiques.    
 
 ## Les différents plans
+
+### Le monde matériel
+Le monde de l'incarnation, le monde matériel est le monde qui sera le plus parcouru par les personnages joueurs. Ils pourront cependant y rencontrer des créatures qui viennent d'autres mondes, comme les démons.
+Les créatures qui viennent d'autres plans s'incarnent le plus souvent dans des animaux mais aussi dans des être humains ou d'anciennes créatures comme les géants. Ils essaient toujours de s'incarner dans une créature qui correspond à leur catégorie de taille (plus ou moinsubne catégorie). Ainsi un démon de taille Moyenne pourra s'incarner dans un être de taille "Petite", "Moyenne" ou "Grande". Lors de leur incarnation, les joueurs les perçoivent cependant sous leur vraie aspect (démoniaque, mort vivant, élémentaire). C'est pour les observateurs de l'extérieur que cette vérité est cachée, même si certaines choses paraîtront assez incompréhensibles comme un éléphant qui s'enflamme.   

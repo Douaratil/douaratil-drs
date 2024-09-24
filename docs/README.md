@@ -28,10 +28,14 @@ Visites:
 - Changement d'illustration du [requin de récif](/bestiaire/requin-de-recif)  
 - Changement d'illustration du [requin géant](/bestiaire/requin-geant)  
 
+**Site:**   
+- Correction lien de la page de présentation des Archétypes (Merci David).    
+- Ajout de la description du [monde matériel](/les-plans/#les-differents-plans) et du système de possession et d'incarnation.   
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 21 septembre 2024_
+_le 24 septembre 2024_
 §§§
 
 ## Mise à jour 227
