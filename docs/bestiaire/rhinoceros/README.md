@@ -26,7 +26,7 @@ environments:
 ---
 ## Rhinocéros
 &nbsp;
-[![Rhinocéros](https://www.douaratil.fr/illustrations/bete/rhinocerosm.png)](https://www.douaratil.fr/illustrations/bete/rhinoceros.jpg)  
+[![Rhinocéros](https://www.douaratil.fr/illustrations/bete/rhinoceros300.jpeg)](https://www.douaratil.fr/illustrations/bete/rhinoceros.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 15            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

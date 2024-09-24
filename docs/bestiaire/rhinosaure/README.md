@@ -26,7 +26,7 @@ environments:
 ---
 ## Rhinosaure
 &nbsp;
-[![Rhinosaure](https://www.douaratil.fr/illustrations/bete/rhinosaurem.png)](https://www.douaratil.fr/illustrations/bete/rhinosaure.jpg)  
+[![Rhinosaure](https://www.douaratil.fr/illustrations/bete/rhinosaure300.jpeg)](https://www.douaratil.fr/illustrations/bete/rhinosaure.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

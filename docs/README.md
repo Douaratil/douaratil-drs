@@ -17,6 +17,23 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>
 
+## Mise à jour 229
+![Mise à jour 229](https://www.douaratil.fr/illustrations/site/maj229.jpeg)     
+
+**Bestiaire :**   
+- Changement d'illustration du [rhinocéros](/bestiaire/rhinoceros)       
+- Changement d'illustration du [rhinosaure](/bestiaire/rhinosaure)       
+- Changement d'illustration du [rhinotosaure](/bestiaire/rhinotosaure)       
+- Changement d'illustration du [sanglier](/bestiaire/sanglier)    
+- Changement d'illustration du [sanglier géant](/bestiaire/sanglier-geant)    
+- Ajout du [hurletempète](/bestiaire/hurletempete)
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 25 septembre 2024_
+§§§
+
 ## Mise à jour 228
 ![Mise à jour 228](https://www.douaratil.fr/illustrations/site/maj228.jpeg)     
 

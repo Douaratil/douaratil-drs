@@ -28,7 +28,7 @@ environments:
 ---
 ## Sanglier géant
 &nbsp;
-[![Sanglier géant](https://www.douaratil.fr/illustrations/bete/sangliergeantm.png)](https://www.douaratil.fr/illustrations/bete/sangliergeant.jpg)    
+[![Sanglier géant](https://www.douaratil.fr/illustrations/bete/sangliergeant300.jpeg)](https://www.douaratil.fr/illustrations/bete/sangliergeant.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

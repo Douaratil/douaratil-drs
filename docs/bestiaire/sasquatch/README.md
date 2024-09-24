@@ -4,7 +4,7 @@ type: "Géant"
 size: "TG"
 alignment: "Neutre"
 challenge: "7"
-customHP: "46"
+customHP: "165"
 abilityScores:
   for: 23
   dex: 15
