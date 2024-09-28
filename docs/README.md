@@ -26,7 +26,8 @@ Visites:
 - Changement d'illustration du [rhinotosaure](/bestiaire/rhinotosaure)       
 - Changement d'illustration du [sanglier](/bestiaire/sanglier)    
 - Changement d'illustration du [sanglier géant](/bestiaire/sanglier-geant)    
-- Ajout du [hurletempète](/bestiaire/hurletempete)
+- Ajout du [hurletempète](/bestiaire/hurletempete)     
+- Ajout de la [reine-vampire](/bestiaire/reine-vampire)     
 
 Bon jeu.     
 §§§ .text-right
