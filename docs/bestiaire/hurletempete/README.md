@@ -39,11 +39,11 @@ environments:
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 24           
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 21  
 ## Capacités
-_**Camouflage dans la rocaille**_. L'hurletempête obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux ou boisé.
+_**Camouflage dans la rocaille**_. Le hurletempête obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux ou boisé.
 
-_**hurlement des tempêtes**_. L'hurletempête mugit avec le vent dans le blizzard. toute personne qui l'entend doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 16 pour ne pas être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise).     
+_**hurlement des tempêtes**_. Le hurletempête mugit avec le vent dans le blizzard. toute personne qui l'entend doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 16 pour ne pas être [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise).     
 ## Actions
-_**Attaques multiples**_. L'hurletempête effectue deux attaques avec ses griffes. Si les deux attaques de griffes touchent une même cible, il peut la mordre.
+_**Attaques multiples**_. Le hurletempête effectue deux attaques avec ses griffes. Si les deux attaques de griffes touchent une même cible, il peut la mordre.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +11 pour toucher, allonge 4,50 m, une cible.  
 _Touché_ : 5d6+7 dégâts tranchants.
