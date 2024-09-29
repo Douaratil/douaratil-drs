@@ -20,6 +20,9 @@ Visites:
 ## Mise à jour 229
 ![Mise à jour 229](https://www.douaratil.fr/illustrations/site/maj229.jpeg)     
 
+**Archétypes:**   
+- Ajout de l'Archétype du [Viator](/archetypes/viator), un marin explorateur et marchand de l'empire alcante.
+
 **Bestiaire :**   
 - Changement d'illustration du [rhinocéros](/bestiaire/rhinoceros)       
 - Changement d'illustration du [rhinosaure](/bestiaire/rhinosaure)       
@@ -32,7 +35,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 25 septembre 2024_
+_le 29 septembre 2024_
 §§§
 
 ## Mise à jour 228

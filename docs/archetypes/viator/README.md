@@ -28,9 +28,9 @@ title: Viator
 *Sous la voûte étoilée, le Viator, vêtu d’une longue cape de cuir salé et coiffé d’un casque, se tenait à la proue du navire. Ses yeux perçaient l’obscurité tandis que sa main, tendue vers les cieux, semblait traçer un itinéraire invisible, guidant l'équipage vers des horizons inexplorés.*   
 **Récits d'Almaric, chroniqueur des grandes explorations**    
 §§§  
-## Holtseidar
+## Viator
 &nbsp;
-[![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar.jpeg)  
+[![Viator](https://www.douaratil.fr/illustrations/archetype/viator300.jpeg)](https://www.douaratil.fr/illustrations/archetype/viator.jpeg)  
 
 ## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que **Viator**, vous bénéficiez des aptitudes suivantes.     
@@ -59,6 +59,8 @@ Le **Viator** est un explorateur des mers, un commerçant et un diplomate, un ca
 Au niveau 4, vous êtes résistant aux conditions environnementales difficiles en mer (vents violents, froid marin, mal de mer). Vous avez un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tout les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde)
  de Constitution qui seraient demandé dans des conditions maritimes. De plus, vous pouvez maintenir des rations d’eau douce et de nourriture pour un groupe, jusqu’à une semaine sans provisions, grâce à vos connaissances en pêche et en purification de l’eau.    
 
+ [![Viator](https://www.douaratil.fr/illustrations/archetype/viator2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/viator2.jpeg)  
+
 ### Évasion aquatique
 **En Alcante : Effugium Aquaticus**  
 **En Cyrynith : apódrasis hudatinos**  
@@ -77,7 +79,9 @@ Au niveau 6, vous obtenez un bonus de +2 sur tous les tests de Navigation et pou
 ### Vent providentiel
 **En Alcante : Aura Providens**  
 **En Cyrynith : epitēdeios anemos**  
-À partir du niveau 7, vous pouvez invoquer un vent favorable pour propulser un navire ou dévier un obstacle climatique, accélérant la vitesse de croisière de votre navire de 50% pendant 1d6 heures. Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude. 
+À partir du niveau 7, vous pouvez invoquer un vent favorable pour propulser un navire ou dévier un obstacle climatique, accélérant la vitesse de croisière de votre navire de 50% pendant 1d6 heures. Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude.   
+
+ [![Viator](https://www.douaratil.fr/illustrations/archetype/viator3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/viator3.jpeg)  
 
 ### Commerçant des mers
 **En Alcante : Mercator Maris**  
@@ -108,7 +112,7 @@ Au niveau 13, vous vous liez d’amitié avec un banc de dauphins. Dés que vous
 ### Maîtrise des marées
 **En Alcante : Dominium Maris**  
 **En Cyrynith : Epistēmē tōn palindromōn**  
-À partir du niveau 14, vous pouvez maîtriser les marées à votre avantage. Vous pouvez influencer les courants marins dans un rayon de 3 km, en accélérant ou en ralentissant la vitesse de tout objet flottant sur la zone. Cette capacité dure 1d6 minutes par point de bonus de sagesse du Viator (minimum 1d6). Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude. 
+À partir du niveau 14, vous pouvez maîtriser les marées à votre avantage. Vous pouvez influencer les courants marins dans un rayon de 3 km, en accélérant ou en ralentissant la vitesse de tout objet flottant sur la zone. Cette capacité dure 1d6 minutes par point de bonus de sagesse du Viator (minimum 1d6). Vous devez terminer un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir de nouveau utiliser cette aptitude.    
 
 ### Éclaireur des mers
 **En Alcante : Explorator Maris**  
@@ -119,12 +123,14 @@ Au niveau 15, vous pouvez voir clairement à travers la brume, le brouillard et 
 ### Capitaine légendaire
 **En Alcante : Capitaneus Praeclarus**  
 **En Cyrynith : Archēgòs thrylikòs**  
-Au niveau 16, vous devenez une figure respectée parmi les navigateurs. Vos capacités inspirent votre équipage, donnant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux actions de tous les autres joueurs tant que la Viator est dans leur champs de vision sans excéder 25 mètres de diamètre.
+Au niveau 16, vous devenez une figure respectée parmi les navigateurs. Vos capacités inspirent votre équipage, donnant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux actions de tous les autres joueurs tant que la Viator est dans leur champs de vision sans excéder 25 mètres de diamètre.    
+
+ [![Viator](https://www.douaratil.fr/illustrations/archetype/viator4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/viator4.jpeg)  
 
 ### Pêcheur d'abîme
 **En Alcante : Abysso Piscator**  
 **En Cyrynith : Aliêūs tôn ábyssōn**  
-À partir du niveau 17, vous pouvez pêcher, obtenant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) même en pleine mer. Une fois par [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous pouvez invoquer spontanément un [élémentaire d’eau puissant](/bestiaire/elementaire-d-eau) pour vous aider comme le sort [invoquer un élémentaire](/grimoire/invoquer-un-elementaire) mais sans nécessité des composantes matérielles..
+À partir du niveau 17, vous pouvez pêcher, obtenant un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) même en pleine mer. Une fois par [_repos long_](/gerer-la-sante-du-personnage/#repos-long), vous pouvez invoquer spontanément un [élémentaire d’eau puissant](/bestiaire/elementaire-d-eau) pour vous aider comme le sort [invoquer un élémentaire](/grimoire/invoquer-un-elementaire) mais sans nécessité des composantes matérielles.    
 
 ### Souverain des océans
 **En Alcante : Oceanis Dominus**  
@@ -134,4 +140,6 @@ Au niveau 19, vous avez désormais connaissance de tout ce qui passe sur l’eau
 ### Véritable Viator
 **En Alcante : Verus Viator**  
 **En Cyrynith : Alēthinós Viator**  
-Au niveau 20, vous devenez un Viator accompli, augmentant votre Dextérité et Sagesse de 2 points chacune (maximum 22). Vous pouvez retenir votre souffle 2d6 minutes plus votre bonus de constitution, vous nagez aussi vite que vous marchez et vous ajoutez 2d6 à tous vos dégâts lorsque vous êtes sur votre bâteau.
+Au niveau 20, vous devenez un Viator accompli, augmentant votre Dextérité et Sagesse de 2 points chacune (maximum 22). Vous pouvez retenir votre souffle 2d6 minutes plus votre bonus de constitution, vous nagez aussi vite que vous marchez et vous ajoutez 2d6 à tous vos dégâts lorsque vous êtes sur votre bâteau.     
+
+ [![Viator](https://www.douaratil.fr/illustrations/archetype/viator5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/viator5.jpeg)  
