@@ -23,7 +23,7 @@ title: "Singhara"
 &nbsp;
 [![Singhara](https://www.douaratil.fr/illustrations/archetype/singhara300.jpeg)](https://www.douaratil.fr/illustrations/archetype/singhara.jpeg)  
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Singhara, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
 ### Maîtrises  

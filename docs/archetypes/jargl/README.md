@@ -24,7 +24,7 @@ title: Jargl
 &nbsp;
 [![Jargl](https://www.douaratil.fr/illustrations/archetype/jargl300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jargl1.jpeg)  
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Jargl, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
 ### Maîtrises  

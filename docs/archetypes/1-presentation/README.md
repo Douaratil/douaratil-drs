@@ -41,5 +41,6 @@ Les Archétypes actuellement disponibles sont :
 - [Sorser](/archetypes/sorser/), sorcier khernaë.  
 - [Totsuzenshi](/archetypes/totsuzenshi/), assassin yotakaï.  
 - [Vestaline](/archetypes/vestaline/), prêtresse guerrière alcante.  
+- [Viator](/archetypes/viator/), marin explorateur du royaume alcante.  
 - [Vitnar](/archetypes/vitnar/), chaman melg.  
 - [Zhongdhou](/archetypes/zhongdhou/), alchimiste minghour.  

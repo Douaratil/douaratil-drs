@@ -63,7 +63,7 @@ _**Incantation innée**_. Le charcuteur utilise le Charisme comme caractéristiq
 
 _**Résistance légendaire (3/jour)**_. Si un charcuteur rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
-_**Armes magiques**_. Les attaques armées d'un charcuteur sont magiques et infligent 4d6 dégâts nécrotiques supplémentaires (inclus plus bas).
+_**Armes magiques**_. Les attaques armées d'un charcuteur sont magiques et infligent 4d6 dégâts nécrotiques supplémentaires (inclus plus bas).    
 
 ## Actions
 _**Attaques multiples**_. Le charcuteur fait deux attaques à l'_épée longue_ et une de _drain de vie_.

@@ -28,7 +28,7 @@ title: "Adoshaï"
 
 [![Adoshai](https://www.douaratil.fr/illustrations/archetype/adoshai300.jpeg)](https://www.douaratil.fr/illustrations/archetype/adoshai.jpeg)   
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que Adoshaï, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

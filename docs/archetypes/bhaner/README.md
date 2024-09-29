@@ -26,7 +26,7 @@ title: bhaner
 
 [![Bhaner](https://www.douaratil.fr/illustrations/archetype/bhaner300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhaner.jpeg)  
 
-## Aptitudes d'Archétype
+## ## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que Bhaner, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

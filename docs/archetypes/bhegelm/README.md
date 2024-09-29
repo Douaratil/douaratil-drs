@@ -29,7 +29,7 @@ title: Bhegelm
 
 [![Bhegelm](https://www.douaratil.fr/illustrations/archetype/bhegelm300.jpeg)](https://www.douaratil.fr/illustrations/archetype/bhegelm.jpeg)  
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Bhegelm, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises  

@@ -30,7 +30,7 @@ title: Dall Dawnser
 &nbsp;
 [![Dall Dawnser](https://www.douaratil.fr/illustrations/archetype/dalldawnser300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dalldawnser.jpeg)  
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype  
 En tant que Dall Dawnser, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
 ### Maîtrises  

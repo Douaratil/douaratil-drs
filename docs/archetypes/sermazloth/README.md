@@ -25,7 +25,7 @@ title: Sermazloth
 &nbsp;
 [![Sermazloth](https://www.douaratil.fr/illustrations/archetype/sermazloth300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sermazloth.jpeg)
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Sermazloth, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises  

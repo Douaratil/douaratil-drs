@@ -33,7 +33,7 @@ title: Kaïshan
 &nbsp;
 [![Jargl](https://www.douaratil.fr/illustrations/archetype/kaishan300.jpeg)](https://www.douaratil.fr/illustrations/archetype/kaishan.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Kaïshan, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

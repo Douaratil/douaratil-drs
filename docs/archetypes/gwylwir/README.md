@@ -30,7 +30,7 @@ title: Gwylwir
 §§§
 [![Gwylvir](https://www.douaratil.fr/illustrations/archetype/gwylwir300.jpeg)](https://www.douaratil.fr/illustrations/archetype/gwylwir.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Gwylwir, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

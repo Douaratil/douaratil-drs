@@ -29,7 +29,7 @@ title: Assassyrhim
 
 [![Assassyrhim](https://www.douaratil.fr/illustrations/archetype/assassyrhim300.jpeg)](https://www.douaratil.fr/illustrations/archetype/assassyrhim.jpeg) 
 
-
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype   
 En tant qu'Assassyrhim, vous bénéficiez des aptitudes d'Archétype suivantes.    
 ### Maîtrises    
 **Armures** : armures légères    

@@ -25,7 +25,7 @@ title: Ambeanamos
 
 [![Ambeanamos](https://www.douaratil.fr/illustrations/archetype/ambeanamos300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ambeanamos.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant qu'Ambeanamos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

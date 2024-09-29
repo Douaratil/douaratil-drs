@@ -30,7 +30,8 @@ source: "Elric"
 
 [![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim.jpeg)  
 
-En tant qu'Alka'him', vous bénéficiez des aptitudes d'Archétype suivantes.   
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
+En tant qu'Alka'him, vous bénéficiez des aptitudes d'Archétype suivantes.
 ### Maîtrises
 **Armures** : armures légères  
 **Armes** : Dague, serpe, fléchettes      

@@ -421,6 +421,11 @@ module.exports = {
                 icon: 'mdi-owl',
                 path: '/archetypes/vestaline',
               },
+
+              title: "Viator",
+              icon: 'mdi-ship-wheel',
+              path: '/archetypes/viator',
+            },
           {
               title: "Vitnar",
               icon: 'mdi-shield-sun',

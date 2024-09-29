@@ -24,7 +24,7 @@ title:  Vitnar
 &nbsp;
 [![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnarm.png)](https://www.douaratil.fr/illustrations/archetype/vitnar.jpg)
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

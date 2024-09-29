@@ -24,7 +24,7 @@ title: "Jörghal"
 &nbsp;
 [![Jörghal](https://www.douaratil.fr/illustrations/archetype/jorghal300.jpeg)](https://www.douaratil.fr/illustrations/archetype/jorghal.jpeg)  
 
-## Aptitudes d'Archétype  
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Jörghal, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
 ### Maîtrises  

@@ -26,7 +26,7 @@ title: Nayane
 &nbsp;
 [![Nayane](https://www.douaratil.fr/illustrations/archetype/nayane300.jpeg)](https://www.douaratil.fr/illustrations/archetype/nayane.jpeg)
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Nayane, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

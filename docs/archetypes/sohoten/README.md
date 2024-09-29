@@ -23,7 +23,7 @@ title: Sohoten
 &nbsp;
 [![Sohoten](https://www.douaratil.fr/illustrations/archetype/sohoten300.jpeg)](https://www.douaratil.fr/illustrations/archetype/sohoten.jpeg)
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Sohoten, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

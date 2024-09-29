@@ -22,7 +22,7 @@ title:  Holtseidar
 &nbsp;
 [![Holtseidar](https://www.douaratil.fr/illustrations/archetype/holtseidar300.jpeg)](https://www.douaratil.fr/illustrations/archetype/holtseidar.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que  Holtseidar, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

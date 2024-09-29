@@ -24,7 +24,7 @@ title: Vestaline
 &nbsp;
 [![Vestaline](https://www.douaratil.fr/illustrations/archetype/vestaline300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vestaline.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que Vestaline, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

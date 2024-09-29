@@ -24,7 +24,7 @@ title: Otaganha
 &nbsp;
 [![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Otaganha, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

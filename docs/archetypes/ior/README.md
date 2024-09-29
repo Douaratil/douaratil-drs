@@ -23,7 +23,7 @@ title: Ior
 &nbsp;
 [![Ior](https://www.douaratil.fr/illustrations/archetype/ior300.jpeg)](https://www.douaratil.fr/illustrations/archetype/ior.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Ior, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

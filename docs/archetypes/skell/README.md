@@ -26,7 +26,7 @@ title:  Skell
 &nbsp;
 [![Skell](https://www.douaratil.fr/illustrations/archetype/skell300.jpeg)](https://www.douaratil.fr/illustrations/archetype/skell.jpeg)
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que  Skell, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

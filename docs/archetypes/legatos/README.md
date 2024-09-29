@@ -24,7 +24,7 @@ title: Legatos
 &nbsp;
 [![Legatos](https://www.douaratil.fr/illustrations/archetype/legatos300.jpeg)](https://www.douaratil.fr/illustrations/archetype/legatos.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Legatos, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

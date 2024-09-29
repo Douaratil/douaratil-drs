@@ -26,7 +26,7 @@ title: Shangharah
 &nbsp;
 [![Shangharah](https://www.douaratil.fr/illustrations/archetype/shangharah2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/shangharah2.jpeg)  
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Shangharah, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

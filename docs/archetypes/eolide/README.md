@@ -31,7 +31,7 @@ title: Eolide
 **Des terres et des hommes de Xeophon d’Avalina .**
 §§§
 
-## Aptitudes d'Archétype
+## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype
 En tant que Eolide, vous bénéficiez des aptitudes d'Archétype suivantes.
 
 ### Maîtrises

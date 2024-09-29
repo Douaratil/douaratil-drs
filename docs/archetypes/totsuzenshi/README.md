@@ -26,7 +26,7 @@ title: Totsuzenshi
 |**20**|[Véritable Totsuzenshi](#veritable-totsuzenshi)|
 
 
-## Totsuzenshi
+## <v-icon>mdi-compass-outline</v-icon> Totsuzenshi
 &nbsp;
 [![Totsuzenshi](https://www.douaratil.fr/illustrations/archetype/totsuzenshi300.jpeg)](https://www.douaratil.fr/illustrations/archetype/totsuzenshi.jpeg)
 
