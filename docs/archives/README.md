@@ -8,6 +8,108 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## Mise à jour 225
+![Mise à jour 225](https://www.douaratil.fr/illustrations/site/maj225.jpeg)     
+
+**Bestiaire :**   
+- Changement d'illustration du [mao-ju](/bestiaire/mao-ju).   
+- Changement d'illustration du [mastiff](/bestiaire/mastiff).   
+- Changement d'illustration du [mille pattes géant](/bestiaire/mille-pattes-geant).   
+- Changement d'illustration de la [mule](/bestiaire/mule).   
+- Changement d'illustration du [nagocéros](/bestiaire/nagoceros).   
+- Changement d'illustration du [nandos](/bestiaire/nandos).   
+- Changement d'illustration du [niwele](/bestiaire/niwele).   
+- Changement de l'odoba en quarnequin et changement d'illustration du [quarnequin](/bestiaire/quarnequin).  
+- Changement d'illustration de l'[ombre](/bestiaire/ombre).   
+- Changement d'illustration de l'[orsodon](/bestiaire/orsodon).   
+- Changement d'illustration de l'[ostonie](/bestiaire/ostonie).   
+- Changement d'illustration de la [panthère](/bestiaire/panthere).   
+- Changement d'illustration de la [pieuvre](/bestiaire/pieuvre).   
+- Changement d'illustration de la [pieuvre géante](/bestiaire/pieuvre-geante).   
+- Changement d'illustration du [piranha](/bestiaire/piranha).   
+
+**Bestiaire :**   
+- Ajout du [dent tranchante](/bestiaire/dent-tranchante).   
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 25 août 2024_
+§§§
+
+## Mise à jour 224
+![Mise à jour 224](https://www.douaratil.fr/illustrations/site/maj224.jpeg)     
+
+**Bestiaire :**   
+- Changement d'illustration de la [lampose](/bestiaire/lampose).   
+- Changement d'illustration du [langrier](/bestiaire/langrier).   
+- Changement et ajout d'illustrations du [leedschithys](/bestiaire/leedschithys).   
+- Changement d'illustration du [lézard](/bestiaire/lezard).    
+- Changement d'illustration du [lézard géant](/bestiaire/lezard-geant).   
+- Changement d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo). 
+- Ajout d'illustration du [louarndou](/bestiaire/louarndou).   
+- Changement d'illustration du [lougre](/bestiaire/lougre). 
+- Changement d'illustration du [malaak](/bestiaire/malaak). 
+- Changement d'illustration du [mammouth](/bestiaire/mammouth). 
+- Changement d'illustration du [mandrill des montagnes](/bestiaire/mandrill-des-montagnes). 
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 11 août 2024_
+§§§
+
+## Mise à jour 223
+![Mise à jour 223](https://www.douaratil.fr/illustrations/site/maj223.jpeg)     
+
+**Bestiaire :**   
+- changement du khreshk en [flatulant](/bestiaire/flatulant).  
+
+**Objets magiques :**  
+- Ajout de l'illustration de l'[anneau de légèreté](/liste-objets-magiques/anneau-de-legerete)    
+- Ajout de l'illustration de l'[anneau de maîtrise élémentaire](/liste-objets-magiques/anneau-de-maitrise-elementaire)    
+- Ajout de l'illustration de l'[anneau de nage](/liste-objets-magiques/anneau-de-nage)    
+- Ajout de l'illustration de l'[anneau de protection](/liste-objets-magiques/anneau-de-protection)    
+- Ajout de l'illustration de l'[anneau de protection mentale](/liste-objets-magiques/anneau-de-protection-mentale)    
+- Ajout de l'illustration de l'[anneau de régénération](/liste-objets-magiques/anneau-de-regeneration)    
+- Ajout de l'illustration de l'[anneau de renvoi des sorts](/liste-objets-magiques/anneau-de-renvoi-des-sorts)    
+- Ajout de l'illustration de l'[anneau de résistance](/liste-objets-magiques/anneau-de-resistance)    
+- Ajout de l'illustration de l'[anneau de saut](/liste-objets-magiques/anneau-de-saut)    
+- Ajout de l'illustration de l'[anneau de stockage des sorts](/liste-objets-magiques/anneau-de-stockage-des-sorts)    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 8 août 2024_
+§§§
+
+## Mise à jour 222
+![Mise à jour 222](https://www.douaratil.fr/illustrations/site/maj222.jpeg)     
+
+**Bestiaire :**   
+- changement du kheshou en [escarisseur](/bestiaire/escarisseur).  
+- Changement des illustrations de [Khoulggotateelle](/bestiaire/khoulggotateelle).   
+- changement du Khukheshakh en [foudroiecorneur](/bestiaire/foudroiecorneur).  
+- changement du kishi en [lanceleur](/bestiaire/lanceleur).  
+- changement du korshekh en [grouilleur](/bestiaire/grouilleur).  
+- changement du koshei en [charcuteur](/bestiaire/charcuteur).  
+
+**Objets magiques :**  
+- Ajout de l'illustration de l'[amulette antidote](/liste-objets-magiques/amulette-antidote)   
+- Ajout de l'illustration de l'[amulette d'antidetection](/liste-objets-magiques/amulette-d-antidetection)    
+- Ajout de l'illustration de l'[amulette de bonne santé](/liste-objets-magiques/amulette-de-bonne-sante)    
+- Ajout de l'illustration de l'[amulette de cicatrisation](/liste-objets-magiques/amulette-de-cicatrisation)    
+- Ajout de l'illustration de l'[amulette de santé](/liste-objets-magiques/amulette-de-sante)    
+- Ajout de l'illustration de l'[anneau d'action libre](/liste-objets-magiques/anneau-d-action-libre)    
+- Ajout de l'illustration de l'[anneau d'influence animale](/liste-objets-magiques/anneau-d-influence-animale)    
+- Ajout de l'illustration de l'[anneau de chaleur](/liste-objets-magiques/anneau-de-chaleur)    
+- Ajout de l'illustration de l'[anneau de dérobade](/liste-objets-magiques/anneau-de-derobade)    
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 7 août 2024_
+§§§
 
 ## Mise à jour 221
 ![Mise à jour 221](https://www.douaratil.fr/illustrations/site/maj221.jpeg)     

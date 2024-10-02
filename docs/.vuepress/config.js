@@ -257,6 +257,11 @@ module.exports = {
               path: '/archetypes/alkahim',
             },
           {
+              title: "Amaznoios",
+              icon: 'mdi-bow-arrow',
+              path: '/archetypes/amaznoios',
+            },
+          {
               title: "Ambeanamos",
               icon: 'mdi-auto-fix',
               path: '/archetypes/ambeanamos',
@@ -350,6 +355,11 @@ module.exports = {
               title: "Kaïshan",
               icon: 'mdi-fire',
               path: '/archetypes/kaishan',
+            },
+          {
+              title: "Legatorès",
+              icon: 'mdi-barley',
+              path: '/archetypes/legatores',
             },
           {
               title: "Legatos",

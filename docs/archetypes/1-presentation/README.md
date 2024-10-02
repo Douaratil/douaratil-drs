@@ -8,6 +8,7 @@ Les Archétypes actuellement disponibles sont :
 
 - [Adoshaï](/archetypes/adoshai/), mentaliste selmonite.  
 - [Alka'him](/archetypes/alkahim/), alchimiste shahim.  
+- [Amaznoios](/archetypes/amaznoios), guerrière lacède.
 - [Ambeanamos](/archetypes/ambeanamos/), sorcier meldète.  
 - [Assassyrhim](/archetypes/assassyrhim/), espion/assassin shahim.  
 - [Astartes](/archetypes/astartes/), guerrier ancante.  
@@ -27,6 +28,7 @@ Les Archétypes actuellement disponibles sont :
 - [Jargl](/archetypes/jargl/), champion khernaë.  
 - [Jörghal](/archetypes/jorghal/), champion melg.
 - [Kaïshan](/archetypes/kaishan/), mage invocateur selmonite.   
+- [Legatorès](/archetypes/legatores), prêtresse ambassadrice alcante.   
 - [Legatos](/archetypes/legatos/), leader alcante.  
 - [Llawenos](/archetypes/llawenos/), barde mledète.  
 - [Magios](/archetypes/magios/), mage alcante.  
