@@ -286,6 +286,11 @@ module.exports = {
               icon: 'mdi-shield-sun',
               path: '/archetypes/bhegelm',
             },
+            {
+              title: "Consulate",
+              icon: 'mdi-barley',
+              path: '/archetypes/consulate',
+            },
           {
               title: "Dall Dawnser",
               icon: 'mdi-sword',
@@ -355,11 +360,6 @@ module.exports = {
               title: "Kaïshan",
               icon: 'mdi-fire',
               path: '/archetypes/kaishan',
-            },
-          {
-              title: "Legatorès",
-              icon: 'mdi-barley',
-              path: '/archetypes/legatores',
             },
           {
               title: "Legatos",

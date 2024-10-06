@@ -22,7 +22,7 @@ Visites:
 
 **Archétypes:**   
 - Ajout de l'Archétype de l'[Amaznoios](/archetypes/amaznoios), guerrière lacède.   
-- Ajout de l'Archétype de la [Legatorès](/archetypes/legatores), prêtresse ambassadrice alcante.   
+- Ajout de l'Archétype de la [Consulate](/archetypes/consulate), prêtresse ambassadrice alcante.   
 
 **Bestiaire :**   
 - Changement d'illustration du [rhinocéros](/bestiaire/rhinoceros)       

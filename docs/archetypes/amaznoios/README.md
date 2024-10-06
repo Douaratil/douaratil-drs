@@ -22,6 +22,10 @@ Les Amaznoios sont issues des peuples Lacèdes. Elles incarnent les guerrières 
 | **19**  | [Fureur indomptable](#fureur-indomptable) |
 | **20**  | [Véritable Amazone](#veritable-amazone) |
 
+## Amaznoios
+&nbsp;
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios.jpeg)  
+
 #### Aptitudes d’Archétype
 
 Les Amaznoios bénéficient des aptitudes suivantes :
@@ -37,12 +41,14 @@ Les Amaznoios bénéficient des aptitudes suivantes :
 #### Lancer Fulgurant
 **En Lacède : Telae Praefulgens**
 
-À partir du niveau 3, l’Amaznoios peut, en utilisant une action bonus, lancer une javelot ou tirer une flèche avec une précision dévastatrice. Si elle touche, elle ajoute un d6 aux dégâts infligés. Cette aptitude peut être utilisée un nombre de fois égal à son modificateur de Dextérité par repos long.
+À partir du niveau 3, l’Amaznoios peut, en utilisant une action bonus, lancer une javelot ou tirer une flèche avec une précision dévastatrice. Si elle touche, elle ajoute 1d6 aux dégâts infligés. Cette aptitude peut être utilisée un nombre de fois égal à son modificateur de Dextérité par [_repos long_](/gerer-la-sante-du-personnage/#repos-long).
 
 #### Instinct Primal
 **En Lacède : Instinctus Primalis**
 
-Au niveau 4, l’ Amaznoios développe un instinct animal qui la rend plus difficile à surprendre. Elle a un avantage sur les tests de Perception et d’Intuition, et elle ne peut pas être prise au dépourvu dans un environnement naturel (forêt, jungle, montagnes).
+Au niveau 4, l’ Amaznoios développe un instinct animal qui la rend plus difficile à surprendre. Elle a un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Perception et d’Intuition, et elle ne peut pas être prise au dépourvu dans un environnement naturel (forêt, jungle, montagnes).
+
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios7.jpeg)  
 
 #### Seconde Attaque
 **En Lacède : Secundus Impetus**
@@ -52,7 +58,9 @@ Au niveau 4, l’ Amaznoios développe un instinct animal qui la rend plus diffi
 #### Course Inlassable
 **En Lacède : Cursus Perpetuus**
 
-Au niveau 6, l' Amaznoios obtient un bonus de 3 mètres à sa vitesse de déplacement. De plus, elle peut ignorer les effets de terrain difficile lorsqu'elle se déplace dans un environnement naturel.
+Au niveau 6, l' Amaznoios obtient un bonus de 3 mètres à sa vitesse de déplacement. De plus, elle peut ignorer les effets de terrain difficile lorsqu'elle se déplace dans un environnement naturel.   
+
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios2.jpeg)  
 
 #### Aura de Fureur
 **En Lacède : Sphaera Irae**
@@ -67,7 +75,7 @@ Au niveau 8, l’ Amaznoios peut tirer deux flèches en une seule attaque à dis
 #### Maîtrise Équestre
 **En Lacède : Equitum Dominatus**
 
-À partir du niveau 10, l’ Amaznoios devient une cavalière inégalée. Elle bénéficie d’un avantage aux tests d’Équitation, et lorsqu'elle combat à dos de monture, elle inflige +2 aux dégâts avec ses attaques.
+À partir du niveau 10, l’ Amaznoios devient une cavalière inégalée. Elle bénéficie d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests d’Équitation, et lorsqu'elle combat à dos de monture, elle inflige +2 aux dégâts avec ses attaques.
 
 #### Fureur Accrue
 **En Lacède : Irae Amplificata**
@@ -79,10 +87,12 @@ Au niveau 11, l' Amaznoios peut invoquer une puissance accrue en combat. Elle aj
 
 À partir du niveau 13, l' Amaznoios peut percer les armures les plus résistantes. Une fois par tour, elle peut faire une attaque qui ignore les résistances ou immunités physiques d’un ennemi.
 
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios3.jpeg)  
+
 #### Maîtrise des Embuscades
 **En Lacède : Insidiarum Dominatus**
 
-Au niveau 14, l' Amaznoios obtient un avantage sur ses jets d'attaque contre toute créature surprise ou qui ne l’a pas encore attaquée durant le combat.
+Au niveau 14, l' Amaznoios obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets d'attaque contre toute créature surprise ou qui ne l’a pas encore attaquée durant le combat.
 
 #### Souveraine des Forêts
 **En Lacède : Regnia Sylvarum**
@@ -99,15 +109,21 @@ Au niveau 16, l’ Amaznoios peut concentrer toute sa précision dans une attaqu
 
 Au niveau 17, l’ Amaznoios peut attaquer trois fois à chaque fois qu'elle choisit l’action attaquer. Si elle dispose déjà de trois attaques, elle ajoute +3 aux dégâts de chacune.
 
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios4.jpeg)  
+
 #### Fureur Indomptable
 **En Lacède : Irae Indomita**
 
-Au niveau 19, l’ Amaznoios peut entrer dans un état de fureur indomptable pendant 1 minute. Pendant ce temps, elle bénéficie d’un avantage à tous ses jets d'attaque, et elle devient résistante à tous les dégâts physiques. Elle doit compléter un repos long pour réutiliser cette aptitude.
+Au niveau 19, l’ Amaznoios peut entrer dans un état de fureur indomptable pendant 1 minute. Pendant ce temps, elle bénéficie d’un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses jets d'attaque, et elle devient résistante à tous les dégâts physiques. Elle doit compléter un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) pour réutiliser cette aptitude.
+
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios5.jpeg)  
 
 #### Véritable Amazone
 **En Lacède : Vera Amazona**
 
-Au niveau 20, l’ Amaznoios atteint l’apogée de ses capacités. Ses caractéristiques de Dextérité et de Force augmentent de 2, sans pouvoir dépasser 22, et elle peut relancer un jet de sauvegarde raté une fois par jour.
+Au niveau 20, l’ Amaznoios atteint l’apogée de ses capacités. Ses caractéristiques de Dextérité et de Force augmentent de 2, sans pouvoir dépasser 22, et elle peut relancer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté une fois par jour.   
+
+[![Amaznoios](https://www.douaratil.fr/illustrations/archetype/amaznoios6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/amaznoios6.jpeg)  
 
 ---
 
