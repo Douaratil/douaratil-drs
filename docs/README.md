@@ -24,6 +24,13 @@ Visites:
 - Ajout de l'Archétype de l'[Amaznoios](/archetypes/amaznoios), guerrière lacède.   
 - Ajout de l'Archétype de la [Consulate](/archetypes/consulate), prêtresse ambassadrice alcante.   
 
+**Site:**   
+- Correction des modifications de la loi primordiale pour les personnages dans le bestiaire. 
+- Correction de lien pour l'illustration du personnage [Sedida Kerbrat](/bestiaire/sedida-kerbrat)   
+
+**Personnages**    
+- Création de [Gahaelar Taeldaerys](/bestiaire/gahaelar-taeldaerys).    
+
 **Bestiaire :**   
 - Changement d'illustration du [rhinocéros](/bestiaire/rhinoceros)       
 
