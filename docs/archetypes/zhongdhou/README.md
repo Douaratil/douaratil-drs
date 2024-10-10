@@ -27,7 +27,7 @@ source: "Elric"
 
 ## Zhongdhou
 &nbsp;
-[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhoum.png)](https://www.douaratil.fr/illustrations/archetype/zhongdhou.jpg)
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou.jpeg)
 
 ## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 
@@ -46,6 +46,8 @@ Les Zhongdhous sont capables de fabriquer de puissants poisons. Il peuvent trava
 Les Zhongdhous possèdent une représentations paradoxale. Ils sont à la fois symbole d’immortalité mais aussi symbole de mort chez les peuples orientaux.  
 Les Zhongdhous qui viennent de la Voie des Armes sont appelés Fangh Youdhou, c’est à dire littéralement «Voie du venimeux». Les Zhongdhous qui viennent de la Voie de l’Ombre sont appelés Fangh Dhou, c’est à dire littéralement «Voie du poison». Les Zhongdhous qui viennent de la Voie la Magie sont appelés Fangh Sidh, c’est à dire littéralement «Voie de la mort».   
 
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou2.jpeg)
+
 ### Spécialité herboriste  
 **En langue Minghour : Kaoyaoshy**  
 Au niveau 3, le Zhongdhou maîtrise l’outil d’herboriste.   
@@ -61,6 +63,8 @@ Au niveau 5, le Zhongdhou maîtrise l’outil d’alchimiste.
 ### Chimiste amateur
 **En langue Minghour : Huaxu**  
 Au niveau 6, le Zhongdhou peut maintenant fabriquer de la poudre noire ainsi que des engins pyrotechniques.  
+
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou3.jpeg)
 
 ### Spécialité empoisonneur
 **En langue Minghour : Zhongdhouzh**  
@@ -78,6 +82,8 @@ Au niveau 9, le Zhongdhou peut maintenant fabriquer du poison hémophilique ains
 **En langue Minghour : Wèizhuang**  
 Au niveau 11, le Zhongdhou est capable de faire passer n’importe quel poison pour une potion et n’importe quelle potion pour un poison.  
 
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou4.jpeg)
+
 ### Empoisonneur apprenti   
 **En langue Minghour : Zhongdhouzh Xuétou**  
 Au niveau 13, le Zhongdhou peut maintenant fabriquer du poison illusoire ainsi que du poison droguant.   
@@ -94,6 +100,8 @@ Au niveau 15, le Zhongdhou peut maintenant fabriquer du poison puissant ainsi qu
 **En langue Minghour : Kaoyaoshy Queren**  
 Au niveau 15, le Zhongdhou est un herboriste qui n’a plus besoin de prouver sa valeur. Les crans de difficulté pour trouver les plantes baisse d’un cran une nouvelle fois. De plus, pour marquer son apprentissage et pour prouver sa valeur, le héros crée sa propre recette de potion ou poison et en invente les effets en accord avec le narrateur.  
 
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou5.jpeg)
+
 ### Empoisonneur expert  
 **En langue Minghour : Zhongdhouzh Zhuanjia**  
 Au niveau 16, le Zhongdhou peut maintenant fabriquer du poison mortel ainsi que du poison explosif.
@@ -108,7 +116,9 @@ Au niveau 18, le Zhongdhou peut maintenant fabriquer du poison épidémique ains
 
 ### Création d'homoncule
 **En langue Minghour : Chuangjian Rénzao**  
-Au niveau 19, le Zhongdhou possède l’un des savoirs les plus obscurs de tous les peuples. Il est désormais capable de créer la vie de manière artificielle. Pour créer cet être, il doit le façonner pendant un an. L’homoncule, pour survivre doit se nourrir d’une âme par an et doit rester enfermé dans un réceptacle tel qu’un objet ou un organisme ou alors rester en tant que pure invention dans les éprouvettes de l’alchimiste. Un homoncule peut habiter un organisme naturel consentant.
+Au niveau 19, le Zhongdhou possède l’un des savoirs les plus obscurs de tous les peuples. Il est désormais capable de créer la vie de manière artificielle. Pour créer cet être, il doit le façonner pendant un an. L’homoncule, pour survivre doit se nourrir d’une âme par an et doit rester enfermé dans un réceptacle tel qu’un objet ou un organisme ou alors rester en tant que pure invention dans les éprouvettes de l’alchimiste. Un homoncule peut habiter un organisme naturel consentant.   
+
+[![Zhongdhou](https://www.douaratil.fr/illustrations/archetype/zhongdhou6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/zhongdhou6.jpeg)
 
 ### Véritable Zhongdhou
 **En langue Minghour : Zhongdhou**  

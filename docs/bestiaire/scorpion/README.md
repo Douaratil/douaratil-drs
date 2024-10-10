@@ -29,7 +29,7 @@ dungeonTypes:
 ---
 ## Scorpion
 &nbsp;
-[![Scorpion](https://www.douaratil.fr/illustrations/bete/scorpionm.png)](https://www.douaratil.fr/illustrations/bete/scorpion.jpg)  
+[![Scorpion](https://www.douaratil.fr/illustrations/bete/scorpion300.jpeg)](https://www.douaratil.fr/illustrations/bete/scorpion.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 8            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12   
 ## Actions

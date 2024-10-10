@@ -62,7 +62,7 @@ source: "Elric"
 ---
 ## Sathyakurm’de
 &nbsp;
-[![Sathyakurm’de](https://www.douaratil.fr/illustrations/aberration/sathyakurmdem.png)](https://www.douaratil.fr/illustrations/aberration/sathyakurmde.jpg)   
+[![Sathyakurm’de](https://www.douaratil.fr/illustrations/aberration/sathyakurmde300.jpeg)](https://www.douaratil.fr/illustrations/aberration/sathyakurmde.jpeg)   
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 45, réussite 7, échec 4d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 30            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 29     

@@ -30,7 +30,7 @@ dungeonTypes:
 ---
 ## Scorpion stygien
 &nbsp;
-[![Scorpion stygien](https://www.douaratil.fr/illustrations/bete/scorpionstygienm.png)](https://www.douaratil.fr/illustrations/bete/scorpionstygien.jpg)  
+[![Scorpion stygien](https://www.douaratil.fr/illustrations/bete/scorpionstygien300.jpeg)](https://www.douaratil.fr/illustrations/bete/scorpionstygien.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## Actions

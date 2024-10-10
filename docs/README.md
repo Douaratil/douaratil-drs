@@ -23,6 +23,8 @@ Visites:
 **Archétypes:**   
 - Ajout de l'Archétype de l'[Amaznoios](/archetypes/amaznoios), guerrière lacède.   
 - Ajout de l'Archétype de la [Consulate](/archetypes/consulate), prêtresse ambassadrice alcante.   
+- Correction de l'[Otaganha](/archetypes/otaganha)
+- Ajout des illustrations du [zhongdhou](/archetypes/zhongdhou)
 
 **Site:**   
 - Correction des modifications de la loi primordiale pour les personnages dans le bestiaire. 
@@ -32,12 +34,18 @@ Visites:
 - Création de [Gahaelar Taeldaerys](/bestiaire/gahaelar-taeldaerys).    
 
 **Bestiaire :**   
-- Changement d'illustration du [rhinocéros](/bestiaire/rhinoceros)       
+- Ajout de l'[oniginath](/bestiaire/oniginath)   
+- Ajout du [puma](/bestiaire/puma)
+- Changement d'illustration de [sathyakurm-de](/bestiaire/sathyakurm-de)       
+- Changement d'illustration du [scorpion](/bestiaire/scorpion)   
+- Changement d'illustration du [scorpion géant](/bestiaire/scorpion-geant)   
+- Changement d'illustration du [scorpion nocturne](/bestiaire/scorpion-nocturne)   
+- Changement d'illustration du [scorpion stygien](/bestiaire/scorpion-stygien)   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 1 octobre 2024_
+_le 10 octobre 2024_
 §§§
 
 ## Mise à jour 229

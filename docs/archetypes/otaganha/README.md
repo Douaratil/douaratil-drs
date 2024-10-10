@@ -59,10 +59,10 @@ Votre niveau d'Otaganha détermine en quel animal vous pouvez vous connecter (vo
 |Niveau|ID|Exemple|
 |:-:|:-:|-:|
 |8|1/4|panthère|
-|10|1/2|?|
+|10|1/2|puma|
 |12|1|lion, tigre|
 
-Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de Bhegelm (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
+Cette connexion dure un nombre d'heures équivalent à la moitié de votre niveau de l'Otaganha (arrondi à l'entier inférieur). Durant cette connexion, vous paraissez endormis. Vous bénéficiez des tous les sens de l’animal et vous le maîtrisez complètement. Vous pouvez vous connecter à un animal qui se trouve dans un rayon de 1km par niveau par rapport à votre emplacement. Quand la connexion se termine, l’animal est libéré. Vous reprenez alors conscience, sauf si vous utilisez une nouvelle fois cette aptitude. Vous pouvez reprendre conscience de manière anticipée en utilisant une action bonus lors de votre tour. Vous vous réveillez immédiatement si l’animal perd conscience, si il est réduit à 0 point d'action ou si il meurt.  
 
 ### Compagnon félin  
 **En Sogh : Mshirika wa paka**  
@@ -85,7 +85,7 @@ Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de 
 
 ### Partage de vie
 **En Sogh : Kushiriki maisha**  
-À partir du niveau 15, quand vous recevez des dégâts, vous pouvez décider d'en transférer la moitié sur votre compagnon félin. L'inverse est aussi possible. Par contre, les effets desc oups critiques ne peuvent être transférés, cela ne concerne que la perte des points d'action.  
+À partir du niveau 15, quand vous recevez des dégâts, vous pouvez décider d'en transférer la moitié sur votre compagnon félin. L'inverse est aussi possible. Par contre, les effets des coups critiques ne peuvent être transférés, cela ne concerne que la perte des points d'action.  
 
 [![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha3.jpeg)  
 
