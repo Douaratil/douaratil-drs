@@ -29,7 +29,7 @@ environments:
 ---
 ## Serpent constricteur
 &nbsp;
-[![Serpent constricteur](https://www.douaratil.fr/illustrations/bete/serpentconstricteurm.png)](https://www.douaratil.fr/illustrations/bete/serpentconstricteur.jpg)  
+[![Serpent constricteur](https://www.douaratil.fr/illustrations/bete/serpentconstricteur300.jpeg)](https://www.douaratil.fr/illustrations/bete/serpentconstricteur.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14      
 ## Actions

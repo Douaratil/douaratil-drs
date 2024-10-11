@@ -31,7 +31,7 @@ environments:
 ---
 ## Serpent constricteur géant
 &nbsp;
-[![Serpent constricteur géant](https://www.douaratil.fr/illustrations/bete/serpentconstricteurgeantm.png)](https://www.douaratil.fr/illustrations/bete/serpentconstricteurgeant.jpg)  
+[![Serpent constricteur géant](https://www.douaratil.fr/illustrations/bete/serpentconstricteurgeant300.jpeg)](https://www.douaratil.fr/illustrations/bete/serpentconstricteurgeant.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16     
 ## Actions

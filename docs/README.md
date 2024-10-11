@@ -27,7 +27,13 @@ Visites:
 - Création de [Galenos Phokas Demosios](/bestiaire/galenos-phokas-demosios).    
 
 **Bestiaire :**   
-- Changement d'illustration du [scorpion stygien](/bestiaire/scorpion-stygien)   
+- Changement d'illustration du [serpent constricteur](/bestiaire/serpent-constricteur)   
+- Changement d'illustration du [serpent constricteur géant](/bestiaire/serpent-constricteur-geant)   
+- Changement d'illustration du [serpent venimeux](/bestiaire/serpent-venimeux)   
+- Changement d'illustration du [serpent venimeux géant](/bestiaire/serpent-venimeux-geant)   
+- Changement d'illustration du [serpent mer](/bestiaire/serpent-de-mer)   
+- Changement d'illustration du [serpent volant](/bestiaire/serpent-volant)   
+- Changement du shakhor en [sombreflamme](/bestiaire/sombreflamme)   
 
 Bon jeu.     
 §§§ .text-right

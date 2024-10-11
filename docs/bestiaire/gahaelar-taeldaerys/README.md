@@ -19,7 +19,7 @@ savingThrows:
   - "sag"
 ac:
   armorType: "custom"
-  value: "14 (Armure de cuir)"
+  value: "10"
 skills:
   - name: "custom"
     value: "acrobatie +0"
@@ -144,12 +144,12 @@ Sedida Kerbrat est une Sermazloth.
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Sédida est une Khernaëe de vingt et un printemps. Elle mesure un mètre cinquante deux pour quarante cinq kilos. Elle a les cheveux bruns et les yeux verts.
+Gahaelar est un Selmonite de vingt et un printemps. Il mesure un mètre quatre-vingt deux pour quatre-vingt cinq kilos. Il a les blonds très clair et les yeux gris.
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
-Sedida possède l'équipement suivant :
+Gahaelar possède l'équipement suivant :
 - Habits de bonne qualité    
 - Dagues   
 - 2 bougies   
@@ -175,7 +175,7 @@ Sedida possède l'équipement suivant :
 **XP acquis** : 0 XP    
 **Points de Magie** :14   
 **Points de Foi** :10    
-**Points d'honneur** :10    
+**Points d'honneur** :12    
 
 
 §§§
@@ -198,4 +198,4 @@ Rien pour le moment
 
 §§§
 
-*Mise à jour du 06/10/2024*
+*Mise à jour du 11/10/2024*

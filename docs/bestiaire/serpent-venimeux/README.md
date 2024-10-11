@@ -30,7 +30,7 @@ environments:
 ---
 ## Serpent venimeux
 &nbsp;
-[![Serpent venimeux](https://www.douaratil.fr/illustrations/bete/serpentvenimeuxm.png)](https://www.douaratil.fr/illustrations/bete/serpentvenimeux.jpg)  
+[![Serpent venimeux](https://www.douaratil.fr/illustrations/bete/serpentvenimeux300.jpeg)](https://www.douaratil.fr/illustrations/bete/serpentvenimeux.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## Actions

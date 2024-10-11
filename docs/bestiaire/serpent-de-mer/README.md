@@ -33,7 +33,7 @@ dungeonTypes:
 ---
 ## Serpent de mer
 &nbsp;
-[![Serpent de mer](https://www.douaratil.fr/illustrations/creature-monstrueuse/serpentdemerm.png)](https://www.douaratil.fr/illustrations/creature-monstrueuse/serpentdemer.jpg)  
+[![Serpent de mer](https://www.douaratil.fr/illustrations/creature-monstrueuse/serpentdemer300.jpeg)](https://www.douaratil.fr/illustrations/creature-monstrueuse/serpentdemer.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 22            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 23     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
