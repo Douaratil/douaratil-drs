@@ -34,11 +34,13 @@ Visites:
 - Changement d'illustration du [serpent mer](/bestiaire/serpent-de-mer)   
 - Changement d'illustration du [serpent volant](/bestiaire/serpent-volant)   
 - Changement du shakhor en [sombreflamme](/bestiaire/sombreflamme)   
+- Ajout du [chantenuit](/bestiaire/chantenuit)   
+- Ajout de la [tjyn](/bestiaire/tjyn)   
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 11 octobre 2024_
+_le 16 octobre 2024_
 §§§
 
 ## Mise à jour 230
