@@ -29,4 +29,48 @@ Les cristaux de Lestagyll doivent être **ingérés** pour en libérer les propr
 
 **Fabrication/Préparation** : Aucune préparation spécifique n'est requise pour utiliser ce cristal. Une simple ingestion suffit à déclencher son effet.
 
-Cette substance est si puissante et unique que beaucoup la considèrent presque magique, bien qu'elle n'ait pas d'origine strictement magique. Sa rareté et son prix en font un produit extrêmement convoité parmi les aventuriers et guérisseurs.
+Cette substance est si puissante et unique que beaucoup la considèrent presque magique, bien qu'elle n'ait pas d'origine strictement magique. Sa rareté et son prix en font un produit extrêmement convoité parmi les aventuriers et guérisseurs.   
+
+Voici la description détaillée de la plante **Corne de Merrigh** basée sur les informations fournies :
+
+**Nom** : Corne de Merrigh 
+
+**Description** :  
+Le Corne de Merrigh est une plante épineuse, rare et délicate, qui pousse dans des environnements semi-arides. Ses épines sont particulièrement prisées pour leurs propriétés stimulantes lorsqu'elles sont correctement préparées en infusion. Cette plante, consommée quotidiennement sous forme de tisane, augmente progressivement la **Perception** (Pr) de 5 points. Cependant, son usage prolongé peut entraîner une dépendance significative.
+
+**Localisation** :  
+Le Corne de Merrigh se trouve dans des régions semi-arides et à végétation basse, où l'herbe courte et la chaleur sèche dominent le paysage. Pour en trouver, le prospecteur devra réussir un test de **Survie (DD28)** dans ces zones difficiles.
+
+- **Hivers** : DD28
+- **Printemps** : DD28
+- **Été** : DD28
+- **Automne** : DD28
+
+En cas de réussite, le prospecteur trouvera **1d6 doses** par heure de prospection.
+
+**Valeur** : 90 pièces d'or la dose.
+
+**Facteur d'addiction** : Très important (5)
+
+**Facteur d’intoxication** : Aucun (0)
+
+**Utilisation** :  
+Le Corne de Merrigh doit être **infusé** pour en tirer ses bénéfices. L'infusion quotidienne permet d'augmenter la **Perception** de 5 points tant que la consommation est continue. Si l'utilisateur interrompt l'usage, il perd l'effet bénéfique (augmentation de la Perception), mais la résistance acquise à l'addiction ne disparaît pas. Cela signifie qu’une fois dépendant, le corps ne retrouvera jamais son état naturel vis-à-vis du Merrig Thorn.
+
+**Effets de sevrage** :  
+En cas d'interruption brutale de la consommation, les effets de sevrage sont sévères et impactent fortement la constitution physique et mentale de l'individu. Le sevrage entraîne les pertes suivantes :
+
+- **-10 en Constitution (Co)**
+- **-15 en Résistance (Re)** 
+- **-15 en Mémoire (Me)**
+
+Ces effets sont durables tant que l'utilisateur n'a pas suivi un traitement approprié pour rétablir son état normal.
+
+**Fabrication/Préparation** :  
+La préparation du Corne de Merrigh sous forme de tisane est assez simple et peut être réalisée avec les compétences en **Herboristerie** ou en **Survie (DD28)**. Une dose correspond généralement à une infusion quotidienne, et il est possible de préparer cette boisson en moins d'une heure.
+
+**Addiction et sevrage** :  
+Le **facteur d'addiction** élevé (5) rend le Corne de Merrigh très difficile à abandonner après une utilisation prolongée. Si la personne échoue à résister à la dépendance, elle devra faire face aux pénalités de sevrage, qui affectent gravement ses performances physiques et mentales.
+
+**Valeur et rareté** :  
+Le Corne de Merrigh est une plante rare et recherchée par ceux qui veulent augmenter leur perception, en particulier les éclaireurs et les espions. Toutefois, son prix élevé et ses effets secondaires en font une ressource à utiliser avec précaution.
