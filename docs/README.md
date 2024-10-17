@@ -37,10 +37,13 @@ Visites:
 - Ajout du [chantenuit](/bestiaire/chantenuit)   
 - Ajout de la [tjyn](/bestiaire/tjyn)   
 
+**Herbier :**   
+- ajout de 
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 16 octobre 2024_
+_le 18 octobre 2024_
 §§§
 
 ## Mise à jour 230
