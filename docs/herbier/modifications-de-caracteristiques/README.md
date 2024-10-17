@@ -25,7 +25,7 @@ En cas de réussite, le prospecteur peut espérer trouver 1 doses par heure de p
 **Facteur d’intoxication** : Aucun (0)
 
 **Utilisation** :  
-es cristaux de Lestagyll doivent être **ingéré** pour en libérer les propriétés curatives. Lorsqu'il est consommé, il restaure immédiatement toute perte de caractéristique (force, dextérité, constitution, etc.) à l’exception des pertes dues au vieillissement. Cependant, il ne peut affecter qu'une seule statistique par ingestion. Il est donc recommandé de choisir avec soin quelle caractéristique doit être restaurée.
+Les cristaux de Lestagyll doivent être **ingérés** pour en libérer les propriétés curatives. Lorsqu'il est consommé, il restaure immédiatement toute perte de caractéristique (force, dextérité, constitution, etc.) à l’exception des pertes dues au vieillissement. Cependant, il ne peut affecter qu'une seule statistique par ingestion. Il est donc recommandé de choisir avec soin quelle caractéristique doit être restaurée.
 
 **Fabrication/Préparation** : Aucune préparation spécifique n'est requise pour utiliser ce cristal. Une simple ingestion suffit à déclencher son effet.
 

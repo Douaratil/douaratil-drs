@@ -38,7 +38,7 @@ Visites:
 - Ajout de la [tjyn](/bestiaire/tjyn)   
 
 **Herbier :**   
-- ajout de 
+- ajout des [cristaux de Lestagyll](/herbier/modification-de-caracteristique/#cristaux-de-lestagyll)
 
 Bon jeu.     
 §§§ .text-right
