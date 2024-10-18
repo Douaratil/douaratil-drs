@@ -41,7 +41,8 @@ Visites:
 - Ajout de la [tjyn](/bestiaire/tjyn)   
 
 **Herbier :**   
-- ajout des [cristaux de Lestagyll](/herbier/modification-de-caracteristique/#cristaux-de-lestagyll)
+- ajout des [cristaux de Lestagyll](/herbier/modifications-de-caracteristiques/#cristaux-de-lestagyll)    
+- ajout de la [corne de Merrigh](/herbier/modifications-de-caracteristiques/#corne-de-merrigh)
 
 Bon jeu.     
 §§§ .text-right
