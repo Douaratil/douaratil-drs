@@ -20,9 +20,6 @@ Visites:
 ## Mise à jour 231
 ![Mise à jour 231](https://www.douaratil.fr/illustrations/site/maj231.jpeg)     
 
-**Archétypes:**   
-- Ajout des illustrations du [vitnar](/archetypes/vitnar)
-
 **Personnages**    
 - Création de [Galenos Phokas Demosios](/bestiaire/galenos-phokas-demosios).    
 
