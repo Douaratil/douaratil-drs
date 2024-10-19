@@ -22,7 +22,7 @@ title:  Vitnar
 
 ## Vitnar
 &nbsp;
-[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnarm.png)](https://www.douaratil.fr/illustrations/archetype/vitnar.jpg)
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar.jpeg)
 
 ## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
 En tant que  Vitnar, vous bénéficiez des aptitudes d'Archétype suivantes.
@@ -42,6 +42,8 @@ Les Vitnars forment une caste respectée chez les Melgs. Les Vitnar de la voie d
 **En langue Melg : Holtar**  
 Au niveau 3,  vous connaissez les signes anciens Holtar, la langue magique des Vitnars. Vous pouvez écrire ses signes et l'utiliser pour laisser des messages cachés. Vous, ainsi que toutes les autres personnes qui écrivent et lisent le Holtar, repérez immédiatement de tels messages. D'autres créatures peuvent aussi repérer la présence d'un message en réussissant un test de Sagesse (Perception) DD 15, mais elles doivent faire appel à la magie si elles veulent le déchiffrer.  
 
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar2.jpeg)
+
 ### Défense sans armure  
 **En langue Melg : Forsv’ustning**  
 Au niveau 3, tant que vous ne portez pas d'armure, votre classe d'armure est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse+ votre modificateur de Constitution.  
@@ -57,6 +59,8 @@ Au niveau 5, lorsque vous adoptez cette voie, vous choisissez un esprit totem et
 **Loup.** Lorsque vous êtes en combat, vos alliés melgs ont un avantage aux jets d'attaque au corps à corps effectués contre toute créature située à 1,50 mètre de vous et qui vous sont hostiles pour 1d6 tours.. L'esprit du loup fait de vous le chef des chasseurs.   
 **Ours.** Lorsque vous êtes en combat, vous avez la résistance à tous les types de dégâts sauf aux dégâts psychiques pour 1d6 tours. L'esprit de l'ours vous rend suffisamment coriace pour résister à n'importe quel châtiment.     
 
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar3.jpeg)
+
 ### Aspect de la bête  
 **En langue Melg : Asp’dum**   
 Au niveau 6, vous obtenez un bénéfice magique dépendant de l'animal totem de votre choix. Vous pouvez choisir le même animal que celui sélectionné au niveau 3 ou en prendre un différent.   
@@ -68,10 +72,14 @@ Au niveau 6, vous obtenez un bénéfice magique dépendant de l'animal totem de 
 **En langue Melg : Ven’dah’ven**  
 Au niveau 7, les animaux qui appartiennent à votre animal totem vous reconnaissent comme faisant parti de leur race. Ils ne vous attaquent pas et peuvent même vous défendre s’ils vous sentent en danger.  
 
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar4.jpeg)
+
 ### Mixture de soin  
 **En langue Melg : Bland’omsorg**  
 Au niveau 8, le Vitnar trouve toujours sans difficulté des ingrédients pour fabriquer des onguents et des mixtures pour prodiguer des soins. Il sait choisir les plantes. La préparation de mixture de soin prend 10 minutes sous réserve qu’un bon feu chauffe sous la marmite. Ce breuvage ou onguents rendent 1d6 point d’action lorsqu’il est consommé ou appliqués pendant un repos court. Il permet aussi de guérir un empoisonnement. La victime de l’empoisonnement à le droit à un nouveau test avec un bonus de +2.  
 Il peut fabriquer 1d6 doses qui se conservent deux jours et deux nuits.   
+
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar5.jpeg)
 
 ### Marcheur spirituel  
 **En langue Melg : Ga’h’sind**  
@@ -96,6 +104,8 @@ Au niveau 14, vous obtenez un bénéfice magique correspondant à l'animal totem
 Au niveau 15, le Vitnar trouve toujours sans difficulté des ingrédients (venin, plante, champignons) pour fabriquer des poisons. A la fabrication, le type de poison doit être défini (contact, ingestion, inhalation...). Le DD de sauvegarde est égal à 15 + son modificateur de Sagesse, en cas de réussite, les dommages sont diminués de moitié. Les dégâts sont 3d6 + 1d6/point au modificateur de Sagesse.   
 Il peut fabriquer 1d6 doses qui se conservent deux jours et deux nuits.   
 
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar6.jpeg)
+
 ### Chef de meute   
 **En langue Melg : Höföingi Kappa**  
 Au niveau 18, le Vitnar a un puissant lien totémique. Toutes les créatures de son animal totem le respectent et viennent à son aide en cas de besoin. Il n'est pas rare qu'un animal exceptionnel de la famille du totem se lie au Vitnar.   
@@ -103,3 +113,5 @@ Au niveau 18, le Vitnar a un puissant lien totémique. Toutes les créatures de 
 ### Véritable Vitnar
 **En langue Melg : Vitnar**  
 Au niveau 20, le Vitnar est accompli et augmente ses caractéristiques de Sagesse et de Constitution de 2 points sans pouvoir dépasser 22.
+
+[![Vitnar](https://www.douaratil.fr/illustrations/archetype/vitnar7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/vitnar7.jpeg)

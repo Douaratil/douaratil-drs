@@ -32,7 +32,7 @@ dungeonTypes:
 ---
 ## Uh'r
 &nbsp;
-[![Uh'r](https://www.douaratil.fr/illustrations/humanoide/uhrm.png)](https://www.douaratil.fr/illustrations/humanoide/uhr.jpg)  
+[![Uh'r](https://www.douaratil.fr/illustrations/humanoide/uhr300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/uhr.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines souterraines
 
 ---
+## Uh'r chaman
+&nbsp;
+[![Uh'r chaman](https://www.douaratil.fr/illustrations/humanoide/uhrchaman300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/uhrchaman.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
