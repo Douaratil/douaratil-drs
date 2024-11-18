@@ -386,6 +386,11 @@ module.exports = {
               icon: 'mdi-paw-outline',
               path: '/archetypes/otaganha',
             },
+            {
+              title: "Phýlaxtéphras",
+              icon: 'mdi-bottle-tonic-skull-outline',
+              path: '/archetypes/phylaxtephras',
+            },
           {
               title: "Seibahkami",
               icon: 'mdi-sword',

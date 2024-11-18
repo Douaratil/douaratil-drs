@@ -45,7 +45,7 @@ Dès le niveau 3, vous avez une affinité avec les félins qui vous procure l'ef
 
 ### Ressource inattendue
 **En Sogh : Rasilimali isiyotarajiwa**  
-À partir du niveau 4, Second souffle vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + bonus de constitution. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_[_repos long_](/gerer-la-sante-du-personnage/#repos-long)_] avant de l'utiliser de nouveau.   
+À partir du niveau 4, Second souffle vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 3d6 + bonus de constitution. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.   
 
 ### Patte de chat
 **En Sogh : Paka paw**  
