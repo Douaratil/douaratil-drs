@@ -20,6 +20,8 @@ Visites:
 ## Mise à jour 232
 ![Mise à jour 232](https://www.douaratil.fr/illustrations/site/maj232.jpeg)     
 
+J'ai créé deux nouveaux Archétypes, un Minghour pour David et un Lacède pour Elric. En espérant qu'ils vous plaisent.
+
 **Site :**   
 - Réorganisation de la page de [présentation des Archétypes](/archetypes/1-presentation)
 

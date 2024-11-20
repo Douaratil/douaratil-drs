@@ -123,11 +123,11 @@ Il faut attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) po
 À partir du niveau 14, le Totsuzenshi peut utiliser votre déplacement pour traverser une surface boueuse ou liquide à la vitesse de la course. Il doit terminer son déplacement sur la terre ferme ou s'enfoncer normalement. Il peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (minimum 1) et a ensuite besoin d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 
 ### Course du lièvre
-**En Yotaï : Nousagi**  
+**En Yotaï : Usagi no rēsu**  
 À partir du niveau 15, le Totsuzenshi augmente sa vitesse de déplacement de 3 mètres et de 3 mètres supplémentaires au niveau 17 pour un total de 15m.  
 
 ### Célérité du serpent
-**En Yotaï : Nousagi**  
+**En Yotaï : Hebi no shunbin-sa**  
 À partir du niveau 18, le Totsuzenshi peut utiliser une capacité comparable au sort de [hâte](/grimoire/hate) sans test de magie ni dépense de points de Magie (PM).  
 Il peut utiliser cette capacité un nombre de fois égal à son bonus de Sagesse (minimum 1) et doit ensuite attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 

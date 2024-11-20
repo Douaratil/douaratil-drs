@@ -27,6 +27,37 @@ title: Huoyanzhanshi
 &nbsp;
 [![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi.jpeg)
 
+Les **Huoyanzhanshi**, littéralement "Guerriers-Mages du Feu", sont des figures emblématiques de la culture Ygouthi, une ethnie connue pour sa maîtrise des éléments et sa philosophie martiale fusionnée avec une grande spiritualité. Les Ygouths croient que l'âme de chaque être est un feu, et que la perfection de ce feu passe par une discipline rigoureuse et une compréhension profonde de la nature des flammes. Pour les **Huoyanzhanshi**, cette quête de perfection se manifeste dans la fusion de la magie du feu et des arts martiaux, cherchant à transformer leur corps et leur esprit en une flamme pure et éternelle.
+
+Les **Huoyanzhanshi** sont formés dès leur plus jeune âge au sein de monastères et de guildes secrètes, souvent établis dans des régions volcaniques ou des zones marquées par des phénomènes géothermiques. Ces guildes sont organisées autour de lignées familiales et d'anciennes traditions spirituelles, chaque famille ayant son propre style de magie du feu et sa technique de combat. Ils sont les protecteurs des traditions et des terres sacrées, mais aussi des guerriers impitoyables qui n'hésitent pas à utiliser leurs pouvoirs pour défendre leur peuple contre les envahisseurs ou les menaces extérieures.
+
+### Les Voies des Huoyanzhanshi
+
+Les **Huoyanzhanshi** suivent plusieurs voies, chacune d'elles étant associée à un aspect spécifique du feu, et à une manière de se perfectionner dans l'art de la guerre et de la magie.
+
+1. **La Voie du Feu Pur** (*Qinghuo Dao*) :  
+   Les **Huoyanzhanshi** de la voie des armes, appelés **Baihuo**, sont des maîtres de la magie du feu. Ils se consacrent à la maîtrise du feu dans sa forme la plus brute.
+
+2. **La Voie du Feu Secret** (*Mimi Huo Dao*) :  
+   Les **Huoyanzhanshi** de la voie des ombres sont connus sous le nom de **Yanshimo**, littéralement "les flammes silencieuses". Ces guerriers mages se spécialisent dans l’utilisation du feu à des fins plus subtiles. 
+
+3. **La Voie du Feu Sacré** (*Shenghuo Dao*) :  
+   Les **Huoyanzhanshi** de la voie de la Magie, appelés **Lihuo**, cherchent à équilibrer leur nature guerrière et mystique à travers des rituels de purification et de méditation. Ils voient le feu comme un moyen de purification, tant spirituellement que physiquement. 
+
+### Structure sociale et familiale
+
+Les **Huoyanzhanshi** sont organisés en familles claniques appelées **Buzoku**, chaque clan étant affilié à un aspect particulier de la magie du feu. Ces clans sont souvent en compétition pour obtenir le plus grand nombre d'adeptes, mais ils sont aussi liés par un respect mutuel de la tradition et de la sagesse des anciens. L'appartenance à un clan se fait dès le plus jeune âge, où les enfants sont souvent repérés par leurs aptitudes naturelles à la magie ou au combat.
+
+Les familles **Buzoku** forment des alliances secrètes pour défendre leur territoire et leurs croyances, mais ces relations peuvent aussi être ambigües, car chaque clan cherche à dominer les autres pour prouver sa supériorité dans l'art du feu. En temps de guerre, les **Huoyanzhanshi** sont envoyés en mission pour défendre leur peuple contre les invasions, mais aussi pour récupérer des artefacts magiques ou des connaissances perdues liées au feu.
+
+### Les Huoyanzhanshi et le pouvoir en place
+
+Bien que les **Huoyanzhanshi** soient des protecteurs des traditions et des guerriers honorables, leur relation avec le pouvoir politique est souvent complexe. Ils servent parfois de conseillers auprès des souverains, leur magie et leur sagesse étant respectées, mais leur indépendance et leur puissance sont également des sources de tension. Les clans se battent pour influencer les décisions politiques, et parfois, des rivalités internes éclatent lorsque des ambitions personnelles entrent en jeu.
+
+### Conclusion
+
+Les **Huoyanzhanshi** des Ygouths sont plus que de simples guerriers. Ils sont les gardiens du feu sacré, des maîtres de la destruction et de la régénération. Leur art de la guerre et de la magie est une quête incessante vers la perfection, cherchant à comprendre et à contrôler l’essence même du feu. À travers leur dévouement, ils incarnent la fusion ultime entre la force physique et la magie, chaque mouvement, chaque incantation étant un pas de plus vers l’atteinte d’une maîtrise absolue.
+
 ## Aptitudes d'Archétype
 En tant que Huoyanzhanshi, vous bénéficiez des aptitudes d'Archétype suivantes.
 
@@ -39,18 +70,12 @@ En tant que Huoyanzhanshi, vous bénéficiez des aptitudes d'Archétype suivante
 **Conditions d'accessibilité**: Être de culture Yghouti.  
 **Points de Magie** : Le Huoyanzhanshi emprunte la voie de la magie et développent les points de Magie (PM).  
 
-Les Yotakaïs forment des tribus sédentaires et nomades de l’Est lointain. Ils possèdent une forme martiale de spiritualité. En effet, pour eux, la perfection est dans toutes choses et le geste le plus simple mérite d’être contrôlés. Parmi les Archétype existant, le Totsuzenshi est un exemple de cette recherche de la perfection dans l'art de tuer.  
-Le Totsuzenshi, littéralement "mort soudaine", est issu de guildes organisées en communautés familiales et claniques qui entretiennent des relations ambigües avec le pouvoir en place. Les familles, Buzoku, servent aussi leurs propres intérêts. Elles récupèrent des enfants orphélins qui sont ensuite entraînés pour servir le Buzoku jusqu'à la mort.  
-Les Totsuzenshis de la voie des armes sont nommés Kokushibyō, littéralement "mort noire". Les Totsuzenshis de la voie de l'ombre sont nommés Haiiro no shi, littéralement "mort grise". Les Totsuzenshis de la voie de la magie sont nommés Aoi shi, littéralement "mort bleue".     
-
 [![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi2.jpeg)
 
 ### Voie du feu
 **En Ygouthy : Huǒ zhī dào**  
 À partir du niveau 3, le Huoyanzhanshi maîtrise la voie du feu. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour tous les tests d'Arcanes concernant les sorts appris dans le cadre de son Archétype. Il doit posséder l'intelligence nécessaire pour utiliser les sorts.       
 D'autre part, vous connaissez le sort [Contrôle des flammes](/grimoire/controle-des-flammes).  
-
-[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi3.jpeg)
 
 ### Feu intérieur novice
 **En Ygouthy : Nèizài huǒyàn chūxuézhě**  
@@ -60,7 +85,7 @@ D'autre part, vous connaissez le sort [Contrôle des flammes](/grimoire/controle
 **En Ygouthy: Huǒyàn kàngxìng**
 À partir du niveau 5, le Huoyanzhanshi obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) lorsqu'il doit résister à des dégâts de feu ou de chaleur.
 
-[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi4.jpeg)
+[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi3.jpeg)
 
 ### Seconde attaque  
 **En Ygouthy : Dì èr cì gōngjī**  
@@ -74,8 +99,6 @@ D'autre part, vous connaissez le sort [Contrôle des flammes](/grimoire/controle
 **En Ygouthy : Huǒyàn běnzhí**  
 À partir du niveau 8, vous devenez [résistant](/combattre/#resistance-et-vulnerabilite-aux-degats) aux dégâts de feu et de chaleur.
 
-[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi5.jpeg)
-
 ### Maîtrise de la concentration    
 **En Ygouthy : Jízhōng kòngzhì**  
 À partir du niveau 9, le Huoyanzhanshi peut méditer au lieu de dormir. Le temps nécessaire pour récupérer lors d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou d'un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) est divisé par deux. Il n'est cependant pas possible de bénéficier de plus de repos que ce qu'il est possible en 24h.  
@@ -88,27 +111,27 @@ A partir du niveau 10, vous connaissez les sorts  [Bouclier de feu](/grimoire/bo
 **En Ygouthy : Dì sān cì gōngjī**  
 À partir du niveau 12, le Huoyanzhanshi peut attaquer trois fois au lieu d'une à chaque fois qu'il choisit l'action [_attaquer_](/combattre/#attaquer) pendant son tour. Si vous avez déjà une troisième attaque, vous ajoutez +4 aux dégâts en compensation.  
 
+[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi4300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi4.jpeg)
+
 ### Flamme Immortelle
 **En Ygouthy : Bùmiè huǒyàn**  
 À partir du niveau 13, votre maîtrise du feu vous permet de régénérer vos forces grâce à la chaleur. Vous guérissez une portion de vos points d'action à chaque round passé dans une zone enflammée* (1d6/round), ou lorsque vous lancez un sort de feu (1/PM).  
 Il faut être au contact (moins d'un mètre du feu) car le feu cause des dégâts.    
-
-[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi6300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi6.jpeg)
 
 ### Puissance de la flamme    
 **En Ygouthy : Huǒyàn de lìliàng**  
 À partir du niveau 14, vous connaissez le sort [Mur de chaleur](/grimoire/mur-de-chaleur).     
 
 ### Aura enflammée
-**En Ygouthy : Nousagi**  
+**En Ygouthy : Ránshāo de guānghuán**  
 À partir du niveau 15, lorsque vous subissez des dégâts, vous pouvez déclencher, au prix d'une action bonus une aura protectrice qui correspond au sort [Mur de chaleur](/grimoire/mur-de-chaleur) dans un rayon de 1m et pour 1 round par point de bonus d'intelligence (minimum 1). Vous pouvez mettre fin à cet effet à tout moment.      
 
 ### Alliance ignée
-**En Ygouthy : Nousagi**  
+**En Ygouthy : Huǒyàn liánméng**  
 À partir du niveau 18, le Huoyanzhanshi peut invoquer un élémentaire de feu puissant comme avec le sort [Invoquer un élémentaire](/grimoire/invoquer-un-elementaire/) et doit ensuite attendre un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir réutiliser cette capacité.  
 L'élémentaire est puissant et possède un bonus d'ID de 1 par point de bonus d'intelligence du Huoyanzhanshi.    
 
-[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi7300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi7.jpeg)
+[![Huoyanzhanshi](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi5300.jpeg)](https://www.douaratil.fr/illustrations/archetype/huoyanzhanshi5.jpeg)
 
 ### Véritable Huoyanzhanshi  
 **En Ygouthy : Huoyanzhanshi**  

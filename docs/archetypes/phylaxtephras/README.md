@@ -19,6 +19,37 @@
 &nbsp;
 [![Phýlaxtéphras](https://www.douaratil.fr/illustrations/archetype/phylaxtephras300.jpeg)](https://www.douaratil.fr/illustrations/archetype/phylaxtephras.jpeg)  
 
+Les **Phýlaxtéphras**, littéralement "Gardiens des Ombres", sont une ligue secrète et sacrée d'assassins et d'exorcistes qui suivent un pacte ancestral pour protéger les innocents des ambitions démesurées des sorciers avides de pouvoir. Leur rôle est de traquer ceux qui utilisent la magie à des fins destructrices, d'exécuter des châtiments pour préserver l'équilibre, et d'œuvrer dans l'ombre pour défendre les faibles sans jamais chercher la gloire personnelle. Les **Phýlaxtéphras** sont divisés en différentes voies, chacune ayant une spécialité propre mais toutes unies par un code rigoureux : protéger les humbles, exécuter la justice et éviter toute dérive politique.
+
+### Les Voies des Phýlaxtéphras
+
+Les **Phýlaxtéphras** sont classés en trois voies, chacune correspondant à un aspect fondamental de leur mission. Ces voies sont représentées par des archétypes spécifiques, chacun portant un nom qui symbolise son rôle et son engagement dans la ligue des Gardiens.
+
+1. **La Voie des Armes** – *Teikhós* :  
+   Les **Phýlaxtéphras** qui suivent la Voie des Armes sont appelés **Teikhós**, signifiant littéralement "rempart". Ces guerriers sont les défenseurs physiques de la ligue, des experts en stratégie et en combat rapproché. Leur rôle est de protéger les innocents par la force, en se battant contre ceux qui cherchent à exploiter les pouvoirs occultes à des fins malveillantes. Ils sont équipés d'armures lourdes et manient des armes redoutables telles que des épées, des lances et des boucliers. Leur discipline et leur expertise dans l'art du combat en font des remparts vivants, prêts à défendre à tout prix ce qui est juste.
+
+2. **La Voie de l’Ombre** – *Agrypnôn* :  
+   Les **Phýlaxtéphras** qui suivent la Voie de l’Ombre sont appelés **Agrypnôn**, littéralement "veilleur". Ces membres de la ligue sont des experts en furtivité, espionnage et assassinat silencieux. Leur mission est de traquer et d’éliminer les menaces en toute discrétion, opérant souvent sous le couvert de la nuit. Les **Agrypnôn** utilisent des techniques occultes et des pouvoirs de dissimulation pour se fondre dans l’obscurité, n’agissant que lorsque l’ennemi est vulnérable. Leur rôle est d’observer, de protéger et d’éradiquer les menaces avant qu’elles ne deviennent trop grandes.
+
+3. **La Voie de la Magie** – *Amphitéktōn* :  
+   Les **Phýlaxtéphras** qui suivent la Voie de la Magie sont appelés **Amphitéktōn**, littéralement "tisserand". Ces mages sont des maîtres dans l’utilisation des arts magiques pour manipuler les forces élémentaires et purifier les lieux corrompus par des sorts maléfiques. Ils sont également des experts dans le tissage de sorts, veillant à maintenir l'équilibre magique et à protéger les innocents des dévastations magiques. Leur savoir en matière d’astrologie, d’alchimie et de rituels mystiques leur permet de contrer les malédictions et de rétablir l'harmonie là où la magie a été utilisée à mauvais escient. Leurs pouvoirs sont souvent utilisés pour tisser des sorts protecteurs autour des communautés vulnérables, mais aussi pour détruire les objets magiques corrupteurs ou les artefacts maudits.
+
+### Organisation sociale et familiale des Phýlaxtéphras
+
+Les **Phýlaxtéphras** sont organisés en guildes (appelées **syllogē**) qui représentent des lignées ancestrales de guerriers, d’assassins et de mages. Chaque groupe suit une des voies mentionnées ci-dessus, et la hiérarchie est fondée sur le mérite et l'excellence dans la maîtrise des arts liés à leur voie. Les familles sont souvent liées entre elles par des alliances secrètes ou des rivalités internes, chacune cherchant à maintenir son pouvoir au sein de la ligue.
+
+Les **syllogēs** sont responsables de l’éducation des jeunes membres, qui sont souvent orphelins ou issus de familles déchues, récupérés et formés dès leur plus jeune âge pour servir la ligue. Ces jeunes sont entraînés dans des temples ou des écoles secrètes, où ils apprennent à manier les armes, la magie, ou les arts de l’ombre. À l’âge adulte, chaque Phýlaxtéphras doit prêter allégeance à la ligue et honorer le pacte sacré, servant les innocents tout en maintenant une discipline sans faille.
+
+### Rôle des Phýlaxtéphras dans la société
+
+Les **Phýlaxtéphras** servent de gardiens des lois divines et des protections mystiques, et bien qu’ils travaillent dans l’ombre, leur présence est ressentie par ceux qui cherchent à abuser des pouvoirs occultes. Ils agissent en tant que justiciers invisibles, traquant les sorciers déchus, les utilisateurs de magie noire, et toute personne cherchant à déstabiliser l’équilibre du monde par la corruption magique.
+
+Les relations des **Phýlaxtéphras** avec les autorités politiques sont parfois tendues. Bien qu’ils soient souvent sollicités par les souverains pour leurs compétences en matière de sécurité et de justice, leur indépendance et leur code d’honneur les placent en dehors du contrôle direct des royaumes. Leurs actions ne sont guidées que par leur pacte sacré et leur engagement envers l’équilibre cosmique, et non par des motivations politiques.
+
+### Conclusion
+
+Les **Phýlaxtéphras** sont des êtres de discipline, de secret et de justice, leur vie étant consacrée à la protection des innocents et à la préservation de l’harmonie contre les forces destructrices. À travers leurs voies des armes, de l’ombre et de la magie, ils incarnent l’équilibre entre force brute, discrétion et savoir mystique. Les **Phýlaxtéphras** sont les derniers remparts contre l’ambition démesurée des sorciers et des entités magiques, et leur héritage est marqué par une fidélité sans faille à un code ancien et sacré.
+
 ## <v-icon>mdi-compass-outline</v-icon> Aptitudes d'Archétype  
 En tant que Phýlaxtéphras, vous bénéficiez des aptitudes d'Archétype suivantes.  
 
@@ -31,9 +62,6 @@ En tant que Phýlaxtéphras, vous bénéficiez des aptitudes d'Archétype suivan
 **Compétences** : choisissez trois compétences parmi : Discrétion, Investigation, Religion, Intimidation, Perspicacité, ou Survie  
 **Conditions d'accessibilité** : Être Lacède  
 **Points de Magie** : Les Phýlaxtéphras possèdent des Points de Foi (PF), dévolus à l’entité Cendresérate, qui surveille leur loyauté.   
-
-Sous les cieux dissimulés, les Phýlaxtéphras forment une ligue d’assassins et d’exorcistes, liés par un pacte sacré pour protéger les innocents de l’ambition démesurée des sorciers avides de pouvoir. En silence et avec discernement, ils traquent ceux qui utilisent la magie à des fins destructrices, tout en respectant un code rigoureux : servir la protection des humbles et éviter toute dérive personnelle ou politique.   
-Les Phýlaxtéphras qui viennent de la Voie des Armes sont appelés Teikhós, c’est à dire littéralement « rempart». Les Phýlaxtéphras qui viennent de la Voie de l’Ombre sont appelés a Agrypnôn, c’est à dire littéralement « veilleur ». Les Phýlaxtéphras qui viennent de la Voie la Magie sont appelés Amphitéktōn, c’est à dire littéralement « tisserand».   
 
 [![Phýlaxtéphras](https://www.douaratil.fr/illustrations/archetype/phylaxtephras2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/phylaxtephras2.jpeg)  
 
