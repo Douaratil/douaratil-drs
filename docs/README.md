@@ -21,6 +21,7 @@ Visites:
 ![Mise à jour 232](https://www.douaratil.fr/illustrations/site/maj232.jpeg)     
 
 **Archétypes:**   
+- Ajout du [Huoyanzhanshi](/archetypes/huoyanzhanshi)
 - Ajout du [Phýlaxtéphras](/archetypes/phylaxtephras)
 
 **Herbier :**   

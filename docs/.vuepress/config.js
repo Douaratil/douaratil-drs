@@ -346,6 +346,11 @@ module.exports = {
               icon: 'mdi-feather',
               path: '/archetypes/houryam',
             },
+            {
+              title: "Huoyanzhanshi",
+              icon: 'mdi-fire',
+              path: '/archetypes/huoyanzhanshi',
+            },
           {
               title: "Jargl",
               icon: 'mdi-sword',
