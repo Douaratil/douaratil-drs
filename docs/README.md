@@ -17,6 +17,27 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## Mise à jour 233
+![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
+
+**Archétypes:**   
+- Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)
+- Ajout du [Phýlaxtéphras](/archetypes/phylaxtephras)
+
+**Herbier :**   
+- ajout du [Pain d'Alshana](/herbier/nourritures-speciales/#pain-d-alshana)    
+- ajout du [Pain de Cram](/herbier/nourritures-speciales/#pain-de-cram)    
+- ajout du [Pain d’Hesguratu](/herbier/nourritures-speciales/#pain-d-hesguratu)    
+- ajout du [Pain de Kykykyl](/herbier/nourritures-speciales/#pain-de-kykykyl)    
+- ajout du [Pain de Tatharsul](/herbier/nourritures-speciales/#pain-de-tatharsul)    
+- ajout du [Pain d’Ulginor](/herbier/nourritures-speciales/#pain-d-ulginor)  
+
+Bon jeu.     
+§§§ .text-right
+_**Olivier**_,  
+_le 20 novembre 2024_
+§§§
+
 ## Mise à jour 232
 ![Mise à jour 232](https://www.douaratil.fr/illustrations/site/maj232.jpeg)     
 

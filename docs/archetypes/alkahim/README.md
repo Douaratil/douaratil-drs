@@ -28,6 +28,35 @@ source: "Elric"
 **Recettes secrètes de Guechtoul Massoud**   
 §§§     
 
+Les **Alka'hims** sont une ethnie remarquable issue des royaumes Shahia, une civilisation dont les racines plongent profondément dans les traditions et la culture des anciens royaumes du Moyen-Orient, notamment l'Arabie, la Perse et la Babylonie. Leur grande ambition est de transformer la matière selon leur volonté, et cela les mène à des recherches chimériques qui défient les lois naturelles de l'univers. Ces recherches, souvent mystérieuses et dangereuses, sont financées par les nobles et les riches en quête de puissance, qui voient en l'Alka'him une clé potentielle pour débloquer des forces secrètes et d'immenses capacités.
+
+L'Alka'him n'est pas seulement un savant ou un artisan, c'est aussi un créateur d'outils et de machines fantastiques. Il est capable de fabriquer des engins pyrotechniques puissants, de travailler dans des laboratoires pour créer des substances et des objets mystérieux, et d’utiliser ses compétences pour obtenir un avantage stratégique dans ses tests et ses combats. Cependant, sa dépendance à ses instruments de travail, notamment à son laboratoire, fait de lui un personnage vulnérable sans ses équipements. S’il n'a pas accès à son laboratoire, il subit des désavantages considérables.
+
+Les **Alka'hims** ont également une réputation morbide, leur apparence souvent étrange et leurs recherches alchimiques leur donnant une allure inquiétante. Leurs corps sont parfois marqués par leurs expériences, et leurs yeux semblent parfois briller d'une lueur étrange, comme s'ils détenaient des secrets anciens et inaccessibles à ceux qui n'ont pas la capacité de comprendre leur savoir.
+
+### Les Voies des Alka'hims
+
+Les **Alka'hims** suivent trois grandes voies, chacune correspondant à un aspect fondamental de leur être : la guerre, l'ombre ou la magie. Ces voies sont associées à des titres distincts qui symbolisent l'essence de chaque voie.
+
+1. **La Voie des Armes** – *M'uhat'fajra* (مُهاتْفَجْرَ) :  
+   Les **Alka'hims** qui suivent la Voie des Armes sont appelés **M'uhat'fajra**, littéralement "les détonants". Ce sont des guerriers et des ingénieurs qui transforment la guerre en art scientifique. Maîtres de la fabrication d'engins explosifs, de bombes, de canons et d'autres engins pyrotechniques, les **M'uhat'fajra** intègrent la guerre et la science de manière symbiotique. Leur savoir-faire leur permet de concevoir des armes d'une puissance terrifiante, capables de détruire des armées entières en un instant. Leur approche tactique repose sur l’utilisation de la surprise, de la rapidité et de la destruction massive, transformant le champ de bataille en un lieu d'explosions et de chaos.
+
+2. **La Voie de l’Ombre** – *Muadh'ish* (مُوادْشِش) :  
+   Les **Alka'hims** de la Voie de l’Ombre sont appelés **Muadh'ish**, littéralement "les étourdissants". Ces **Alka'hims** sont des maîtres de l'invisibilité, des illusions et des manipulations psychologiques. Leur expertise réside dans la capacité à créer des substances et des appareils qui induisent la confusion et la stupeur chez leurs ennemis. Ils créent des fumées enivrantes, des poisons paralysants, ou des vapeurs hallucinogènes qui déstabilisent leurs adversaires et leur permettent de manipuler l'environnement à leur avantage. Le **Muadh'ish** est un maître de la furtivité et de la manipulation mentale, se cachant dans les ombres pour surprendre ses ennemis et contrôler les situations de manière subtile mais implacable.
+
+3. **La Voie de la Magie** – *Ghaam'hyd* (غامْهَيْد) :  
+   Les **Alka'hims** de la Voie de la Magie sont appelés **Ghaam'hyd**, littéralement "les mystérieux". Ces **Alka'hims** sont des praticiens de la magie et de l'alchimie, et leur savoir leur permet de manipuler des forces mystiques et élémentaires avec une grande précision. Les **Ghaam'hyd** sont capables de créer des potions, des élixirs et des objets magiques puissants. Leurs talents dans la manipulation de la matière leur permettent de transformer les éléments, de créer des objets enchantés et d'explorer des connaissances interdites. Ils sont à la fois des sages et des expérimentateurs, souvent à la recherche de secrets anciens pour accroître leur pouvoir personnel. Leur magie n'est pas seulement un art, mais une quête de domination sur les lois naturelles.
+
+### Structure sociale et familiale des Alka'hims
+
+Les **Alka'hims** sont organisés en sociétés et guildes appelées **Buzoku**, souvent basées autour des grandes familles de chercheurs et d’artisans. Ces familles se divisent selon les voies qu’elles suivent, et chaque voie possède des écoles et des institutions dédiées à l’apprentissage et à la pratique. Les **Alka'hims** sont aussi bien des artisans que des guerriers et des mages, mais leur appartenance à une famille spécifique leur permet d'acquérir des connaissances uniques et des techniques secrètes transmises de génération en génération.
+
+La société **Alka'him** valorise avant tout la quête de connaissance et la transformation de la matière. Les nobles des royaumes Shahia sont souvent les mécènes de ces recherches, finançant les travaux des **Alka'hims** pour leurs propres fins politiques et stratégiques. Cependant, cette relation est parfois conflictuelle, car les nobles ne comprennent pas toujours la portée réelle des recherches, et les **Alka'hims** sont parfois vus comme des chercheurs imprévisibles et dangereux.
+
+### Conclusion
+
+Les **Alka'hims** sont une civilisation de scientifiques, d'artisans et de mages, dont l'obsession pour la transformation de la matière et la quête du pouvoir les pousse à repousser les limites de la science et de la magie. Par leur savoir, ils maîtrisent le feu, les substances et l'esprit, et leur capacité à fabriquer des engins pyrotechniques, à créer des illusions et à manipuler les forces naturelles les rend à la fois fascinants et redoutés. Leur maîtrise de la matière, qu’elle soit par la guerre, l'ombre ou la magie, les place en tant que figures ambiguës, oscillant entre génie et folie, entre sagesse et destruction.
+
 [![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim.jpeg)  
 
 ## <v-icon>mdi-compass-outline</v-icon>Aptitudes d'Archétype
@@ -40,11 +69,6 @@ En tant qu'Alka'him, vous bénéficiez des aptitudes d'Archétype suivantes.
 **Compétences** : choisissez deux compétences au choix parmi : arcane, discrétion, escamotage, médecine, nature, perception, survie  
 **Conditions d'accessibilité**: Être d’origine des peuples des royaumes de Shahia  
 **Points de Magie** : Si l'Alka'him' emprunte la voie de la magie, alors il développe des PM  
-
-Les Alka'hims poursuivent de nombreux rêves partagés avec les puissants des royaumes Shahia : transformer la matière selon leur volonté. Ces recherches chimériques sont soutenues grâce à la croyance des nobles, ainsi les recherches de nombreux Alka'hims sont financées par quelques riches en quête de puissance.   
-Les Alka'hims sont capables de fabriquer de puissants engins pyrotechniques. Il peuvent travailler sur un laboratoire afin d’obtenir un avantage aux tests. Ce laboratoire peut être fixe, et le héros peut aussi en installer un de façon provisoire, en transportant le matériel nécessaire mais dans ce cas ne peut plus rien transporter d’autre qu’une armure et une arme, et ce laboratoire prend 45 minutes pour être installé. Sans laboratoire, l'Alka'him' subit un désavantage à ses tests de fabrication et toutes les difficultés des tests sont augmentés d'un palier.  
-Les Alka'hims ont l’air morbide.  
-Les Alka'hims qui viennent de la Voie des Armes sont appelés M'uhat'fajra, c’est à dire littéralement «les détonants». Les Alka'hims qui viennent de la Voie de l’Ombre sont appelés Muadh'ish, c’est à dire littéralement «les étourdissants». Les Alka'hims qui viennent de la Voie la Magie sont appelés Ghaam'hyd, c’est à dire littéralement « Les mystérieux».  
 
 [![Alka'him](https://www.douaratil.fr/illustrations/archetype/alkahim2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/alkahim2.jpeg)  
 
