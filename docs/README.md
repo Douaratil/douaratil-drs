@@ -20,6 +20,9 @@ Visites:
 ## Mise à jour 232
 ![Mise à jour 232](https://www.douaratil.fr/illustrations/site/maj232.jpeg)     
 
+**Site :**   
+- Réorganisation de la page de [présentation des Archétypes](/archetypes/1-presentation)
+
 **Archétypes:**   
 - Ajout du [Huoyanzhanshi](/archetypes/huoyanzhanshi)
 - Ajout du [Phýlaxtéphras](/archetypes/phylaxtephras)
@@ -35,7 +38,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 17 novembre 2024_
+_le 20 novembre 2024_
 §§§
 
 ## Mise à jour 231
