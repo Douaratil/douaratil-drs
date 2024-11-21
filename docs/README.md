@@ -21,21 +21,17 @@ Visites:
 ![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
 
 **Archétypes:**   
-- Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)
-- Ajout du [Phýlaxtéphras](/archetypes/phylaxtephras)
+- Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)    
+- Modification de la présentation de l'[Alkahim](/archetypes/alkahim)   
+- Modification de la présentation de l'[Amaznoios](/archetypes/amaznoios)     
 
-**Herbier :**   
-- ajout du [Pain d'Alshana](/herbier/nourritures-speciales/#pain-d-alshana)    
-- ajout du [Pain de Cram](/herbier/nourritures-speciales/#pain-de-cram)    
-- ajout du [Pain d’Hesguratu](/herbier/nourritures-speciales/#pain-d-hesguratu)    
-- ajout du [Pain de Kykykyl](/herbier/nourritures-speciales/#pain-de-kykykyl)    
-- ajout du [Pain de Tatharsul](/herbier/nourritures-speciales/#pain-de-tatharsul)    
-- ajout du [Pain d’Ulginor](/herbier/nourritures-speciales/#pain-d-ulginor)  
+**Personnages**    
+- Création de [Aksim Al Ansari](/bestiaire/aksim-al-ansari).    
 
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 20 novembre 2024_
+_le 22 novembre 2024_
 §§§
 
 ## Mise à jour 232

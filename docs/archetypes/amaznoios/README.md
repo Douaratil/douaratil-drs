@@ -1,7 +1,5 @@
 ### Amaznoios
 
-Les Amaznoios sont issues des peuples Lacèdes. Elles incarnent les guerrières légendaires de ces ethnies. Ces combattantes féroces et insaisissables, issues de la tradition de lacènondès, manient les armes avec une agilité et une précision déconcertantes. Leur lien profond avec la nature sauvage et les chevaux fait d'elles des chasseuses hors pair, tandis que leur sens de l’honneur et de la communauté les rend redoutables en bataille.
-
 #### Évolution de l’Amaznoios
 
 | Niveau  | Aptitudes |
@@ -21,6 +19,35 @@ Les Amaznoios sont issues des peuples Lacèdes. Elles incarnent les guerrières 
 | **17**  | [Troisième attaque](#troisieme-attaque) |
 | **19**  | [Fureur indomptable](#fureur-indomptable) |
 | **20**  | [Véritable Amazone](#veritable-amazone) |
+
+Les **Amaznoios** sont des guerrières légendaires issues des peuples **Lacèdes**, une ethnie ancienne et respectée, porteuse d’une riche tradition guerrière. Connues pour leur férocité et leur agilité, les **Amaznoios** incarnent l'esprit indomptable et la bravoure de leur peuple. Leur histoire est marquée par des siècles de combats acharnés, de rites ancestraux et de lien sacré avec la nature, en particulier avec les chevaux, qu’elles considèrent comme des alliés aussi précieux que leurs armes.
+
+Formées dès leur plus jeune âge dans l'art de la guerre et des tactiques de combat de la tradition **lacènondès**, les **Amaznoios** manient les armes avec une maîtrise sans pareille. Leur agilité exceptionnelle et leur précision mortelle les rendent redoutables sur les champs de bataille, et leur style de combat, fluide et impitoyable, est souvent comparé à la danse. Mais leur force ne réside pas seulement dans leur habileté au combat ; c'est aussi leur lien indéfectible avec la nature sauvage qui les rend uniques.
+
+Les **Amaznoios** vivent selon un code d'honneur strict, dans lequel la loyauté envers leur communauté et leur terre est primordiale. Elles sont également des chasseuses hors pair, capables de traquer et de neutraliser leurs proies avec une efficacité redoutable. Leur lien avec les chevaux, en particulier, fait d’elles des cavalières exceptionnelles, capables de parcourir de grandes distances à une vitesse fulgurante et d'attaquer avec une précision inégalée tout en restant en parfaite harmonie avec leur monture.
+
+### Les Voies des Amaznoios
+
+Les **Amaznoios** suivent trois grandes voies, chacune liée à un aspect spécifique de leur être et de leurs compétences :
+
+1. **La Voie de l'Arme** – *Lacènondès* :  
+   Les **Amaznoios** qui suivent la Voie de l'Arme sont les guerrières pures, des maîtres dans l’art de combattre. Elles sont formées dans l’usage de l’épée, de la lance et de l’arc, et se battent avec une précision qui défie toute attente. Leur approche est directe, agressive, et elles sont capables d’éliminer un adversaire avant même que celui-ci n’ait le temps de riposter. Leur force réside dans leur capacité à lire le champ de bataille, à prévoir les mouvements de l'ennemi et à se positionner de manière optimale pour attaquer. Ces guerrières sont souvent appelées à protéger leur peuple, à mener des expéditions ou à défendre les terres sacrées des **Lacèdes**.
+
+2. **La Voie de la Nature** – *Ath’noia* :  
+   Les **Amaznoios** de la Voie de la Nature sont des traqueuses et des gardiennes de la faune. Leur lien profond avec la nature et la terre sauvage leur confère une affinité particulière pour les arts de la chasse et de la survie. Ces **Amaznoios** sont capables de se fondre dans les forêts, de suivre les traces d'un animal ou d'un ennemi sans laisser de trace, et de survivre dans des environnements hostiles. Elles connaissent les secrets des plantes médicinales, des pièges et des techniques de chasse ancestrales, et utilisent ces connaissances pour nourrir, soigner et défendre leur communauté. Leur attachement aux chevaux les rend particulièrement efficaces en tant que cavalières et éclaireuses.
+
+3. **La Voie de l'Honneur** – *Skothéos* :  
+   Les **Amaznoios** de la Voie de l'Honneur incarnent l'esprit de la communauté et du sacrifice. Leur sens aigu de l’honneur et de la loyauté envers leur peuple et leur terre les rend particulièrement aptes à être des leaders, des stratèges et des porte-paroles de leur clan. Elles sont formées pour gérer les affaires de guerre et de diplomatie, menant leur peuple à la victoire non seulement par leur force physique mais aussi par leur sagesse et leur capacité à inspirer leurs camarades. Elles savent guider leurs guerrières et tissent des liens forts au sein de la communauté, mettant toujours la sécurité de leur clan avant leurs propres désirs.
+
+### Structure sociale et familiale des Amaznoios
+
+Les **Amaznoios** font partie de la société **lacède**, une culture fondée sur des valeurs de force, d'honneur et de communauté. Chaque **Amaznoio** est élevée pour servir sa cité dans des sorotités. Les sororités, appelées **adelphótēs**, sont organisées autour de lignées puissantes, chacune appartenant à l'une des voies mentionnées précédemment. Ces lignées sont responsables de l'éducation et de la formation des jeunes **Amaznoios**, leur transmettant non seulement des compétences martiales mais aussi des leçons de survie, de respect et de loyauté.
+
+Les **adelphótēs** sont dirigés par des matriarches, des figures respectées pour leur sagesse, leur force et leur capacité à guider leurs sororités à travers les périodes de paix et de guerre. Ces matriarches sont également des stratèges aguerries et jouent un rôle essentiel dans la protection du territoire et de la culture **lacède**. Les alliances entre cités sont courantes, et ces alliances sont souvent scellées par des mariages stratégiques ou des pactes de défense mutuelle.
+
+### Conclusion
+
+Les **Amaznoios** sont bien plus que des guerrières : elles sont le cœur battant de leur peuple, des protectrices inébranlables de la tradition, de la terre et des valeurs **lacèdes**. Leur habileté au combat, leur lien avec la nature et leur sens profond de l’honneur en font des figures redoutées et respectées dans toute la région. En tant que chasseresses, guerrières, cavalières et leaders, les **Amaznoios** sont des incarnations vivantes de la force, de la beauté et de la résilience de leur peuple.
 
 ## Amaznoios
 &nbsp;

@@ -1,38 +1,38 @@
 ---
-title: "Galenos Phokas Demosios"
+title: "Aksim Al Ansari"
 type: "PJ"
-subtype: "Lacède"
+subtype: "Lassymide"
 size: "M"
 alignment: "Chaotique neutre"
 challenge: "1"
-customHP: "14"
+customHP: "13"
 abilityScores:
-  for: 10
-  dex: 10
+  for: 8
+  dex: 14
   con: 10
-  int: 11
-  sag: 11
+  int: 10
+  sag: 10
   cha: 10
-customSavingThrows: "for(•) +2, dex +0, con(•) +2, int +0, sag +0, cha +0"
+customSavingThrows: "for -1, dex(•) +4, con +0, int(•) +2, sag +0, cha +0"
 savingThrows:
-  - "For"
-  - "Con"
+  - "Dex"
+  - "Int"
 ac:
   armorType: "custom"
-  value: "10"
+  value: "12"
 skills:
   - name: "custom"
-    value: "acrobatie(•) +2"
+    value: "acrobatie(•) +4"
   - name: "custom"
     value: "arcanes +0"
   - name: "custom"
-    value: "athlétisme(••) +4"
+    value: "athlétisme -1"
   - name: "custom"
-    value: "discrétion +0"
+    value: "discrétion(•) +4"
   - name: "custom"
     value: "dressage +0"  
   - name: "custom"
-    value: "escamotage +0"
+    value: "escamotage(••) +6"
   - name: "custom"
     value: "histoire +0"
   - name: "custom"
@@ -54,20 +54,20 @@ skills:
   - name: "custom"
     value: "représentation +0"
   - name: "custom"
-    value: "supercherie +0"
+    value: "supercherie(•) +2"
   - name: "custom"
     value: "survie +0"
 movement:
   walk: 9
 senses:
 languages:
-  - "L'Alcane/l'Alcath (3/0) , Cyrynith/Cyrynith (3/1), Thessal/Cyrynith (3/1)"
+  - "L'Alcane/l'Alcath (3/0) , Shahim/Shahiate (3/0), Lassym/Lassyth (3/2)"
 category: "PJ"
 ---
 
-## <v-icon>mdi-drama-masks</v-icon> Galenos Phokas Demosios
+## <v-icon>mdi-drama-masks</v-icon> Aksim Al Ansari
 &nbsp;
-[![Galenos Phokas Demosios](https://www.douaratil.fr/illustrations/pj/galenosphokasdemosios300.jpeg)](https://www.douaratil.fr/illustrations/pj/galenosphokasdemosios.jpeg)  
+[![Aksim Al Ansari](https://www.douaratil.fr/illustrations/pj/aksimalansari300.jpeg)](https://www.douaratil.fr/illustrations/pj/aksimalansari.jpeg)  
 
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10          
 **<v-icon>mdi-shield</v-icon> Valeur offensive globale**: 12     
@@ -95,40 +95,43 @@ category: "PJ"
 |Valeureux| 12 |12 | Couard|
 
 
-_**Maîtrises:**_. Outils de navigation, Armures légères, Armures intermédiaires, Armures lourdes, Bouclier, Armes courantes, Armes de guerre, Lance (••).
+_**Maîtrises:**_. Instrument de navigation, Outils de voleur, Armures légères, Armes courantes, , épées longues, rapières, épées courtes et en double maîtrise l'arc court (••).
 
-_**Voie des armes**_. Galenos Phokas Demosios est niveau 1 dans la voie des armes et envisage de devenir Viator.   
+_**Voie des ombres**_. Aksim Al Ansari est niveau 1 dans la voie des ombres et envisage de devenir Assassyrhim.   
 
-_**Style de combat**_. *(Armes)* Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Même si vous pouvez choisir un autre style plus tard, vous ne pouvez pas prendre deux fois un même style de combat.  
-**Protection**    
-Quand une créature qui se trouve dans votre champ de vision attaque une cible autre que vous qui se trouve dans un rayon de 1,50 mètre, vous pouvez utiliser votre réaction pour imposer un désavantage à l'attaquant sur son jet d'attaque. Vous devez porter un bouclier pour pouvoir utiliser cette aptitude.  
+_**Expertise**_.  *(ombre)* Au niveau 1, choisissez deux compétences que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.
+Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude.   
 
-_**Second souffle**_. *(Armes)*Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puiser afin de vous protéger. Lors de votre tour, vous pouvez utiliser une action bonus pour regagner un nombre de points d’action égal à 2d6 + votre niveau de voie des armes. Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de l'utiliser de nouveau.
+_**Attaque sournoise**_.  *(ombre)* Dès le niveau 1, vous savez comment frapper subtilement et exploiter les moments d'inattention d'un adversaire. Une fois par tour, vous pouvez infliger +1d6 de dégâts supplémentaires à une créature que vous avez touchée avec une attaque si vous obtenez un avantage sur le jet d'attaque. Votre attaque doit être portée avec une arme de finesse ou une arme à distance.
+Vous n'avez pas besoin d'avoir un avantage sur le jet d'attaque si un autre ennemi de votre cible se trouve à 1,50 mètre d'elle, que cet ennemi n'est pas neutralisé et que vous ne subissez pas un désavantage sur le jet d'attaque.
+Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure que vous progressez dans les niveaux, ainsi que vous rajoutez +2d6 au niveau 3, +3d6 au niveau 5, +4d6 au niveau 7, +5d6 au niveau 9, +6d6 au niveau 11, +7d6 au niveau 13, +8d6 au niveau 15, +9d6 au niveau 17 et +10d6 au niveau 19.
 
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 
-_**Dague (•)**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  
+_**Dague(•)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6 dégâts perforant (portée 6/18).  
 
-_**Lance (••)**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
-_Touché_ : 2d6 dégâts perforant (Lancer (portée 6/18), polyvalente (2d6+2)).  
+_**Arc court(••)**_. _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.  
+_Touché_ : 2d6 dégâts perforants .
 
 &nbsp;
 §§§ .hero
 ### <v-icon>mdi-drama-masks</v-icon> Présentation:  
-Galenos est un matelot.  
+Aksim Al Ansari 
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-human-greeting</v-icon> Description physique:  
-Galenos est un Lacède de vingt et deux printemps. Il mesure un mètre soixante deux pour soixante cinq kilos. Il a les cheveux bruns et les yeux verts.
+Aksim Al Ansari est un Lassymide de quatorze printemps, mesurant un mètre cinquante-cinq pour quarante-cinq kilos. Sa peau est mate, marquée par le soleil des mers et ses cheveux sont noirs, mi-longs et bouclés, souvent en bataille.   
+Son regard est dur pour un enfant de son âge, avec des yeux profonds et sombres.     
 §§§
 
 §§§ .hero
 ### <v-icon>mdi-sack</v-icon> Equipement:  
-Galenos possède l'équipement suivant :
+Aksim Al Ansari possède l'équipement suivant :
 - Habits de voyageur      
-- matériel de navigation   
+- Outils de voleur  
+- Instrument de navigation
 - Bourse     
 - Bouteille d'alcool fort    
 - 0 PC
@@ -173,4 +176,4 @@ Rien pour le moment
 
 §§§
 
-*Mise à jour du 11/10/2024*
+*Mise à jour du 21/11/2024*
