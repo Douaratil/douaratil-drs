@@ -31,11 +31,11 @@ skills:
 movement:
   walk: 9
 languages:
-  - "Dépend de l'ethnie"
+  - "fée"
 ---
 ## Saskhrul
 &nbsp;
-[![Saskhrul](https://www.douaratil.fr/illustrations/fee/saskhrul300.jpeg)](https://www.douaratil.fr/illustrations/fee/saskhrul.jpg)  
+[![Saskhrul](https://www.douaratil.fr/illustrations/fee/saskhrul300.jpeg)](https://www.douaratil.fr/illustrations/fee/saskhrul.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 25, réussite 4, échec 1d6+3.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     

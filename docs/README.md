@@ -20,10 +20,16 @@ Visites:
 ## Mise à jour 233
 ![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
 
+**Atlas:**   
+- Description de la cité de [Luat’albarh](/archetypes/luatalbarh)  
+
 **Archétypes:**   
 - Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)    
 - Modification de la présentation de l'[Alkahim](/archetypes/alkahim)   
 - Modification de la présentation de l'[Amaznoios](/archetypes/amaznoios)     
+
+**Bestiaire:**    
+- - Ajout du [Saskhrul](/bestiaire/saskhrul)     
 
 **Personnages**    
 - Création de [Aksim Al Ansari](/bestiaire/aksim-al-ansari).    
