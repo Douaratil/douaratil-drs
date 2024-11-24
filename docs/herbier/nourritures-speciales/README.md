@@ -1,10 +1,9 @@
 ---
-title: "Nourritures spéciales"
+title: "Nourritures spéciales"   
 ---
-
 # Nourritures spéciales   
 
-## Pain d'Alshana    
+## Pain d'Alshana    
 **Description** :  
 Le Pain d'Alshana est un pain unique, fabriqué à partir de la racine de la plante Alshana. Ce pain, au goût de raisins et de carottes, est prisé pour sa capacité à offrir une vision infrarouge, permettant de voir dans l'obscurité jusqu'à une distance de 100 mètres pendant une heure après ingestion. Ce pain spécial se conserve bien entre 1 et 2 mois, ce qui en fait une ressource pratique pour les aventuriers.    
 **Localisation** :  
@@ -50,7 +49,7 @@ Le Pain de Cram a une saveur caractéristique de champignons avec une touche de 
 **Fabrication/Préparation** :    
 La fabrication du Pain de Cram à partir de champignons souterrains nécessite une compétence en **Herboristerie** DD 16 ou en **Survie** DD 22 pour bien transformer les champignons en pain comestible. Une fois préparé, ce pain dense est facile à transporter et constitue une ration de survie essentielle pour ceux qui voyagent loin de toute source de nourriture.   
 
-## Pain d’Hesguratu    
+## Pain d’Hesguratu    
 **Description** :  
 Le Pain d’Hesguratu est un pain rare et puissant, fabriqué à partir d'un grain spécial qui pousse dans les régions montagneuses tempérées. Lorsqu'il est ingéré, il confère une force accrue, doublant temporairement la force physique de celui qui le consomme pendant 6 rounds (sans pouvoir dépasser 20). De plus, il offre un bonus d'attaque de +4 et double les dégâts infligés aux ennemis. Ces effets en font un aliment convoité par les guerriers avant les combats. Ce pain a un goût prononcé de blé et d’oignons.   
 **Localisation** :  
@@ -94,7 +93,7 @@ Le Pain de Kykykyl doit être **ingéré** pour activer ses effets de vision am�
 Le pain de Kykykyl se conserve entre 2 et 20 semaines, selon les conditions de stockage. Sa saveur complexe, avec des notes de gingembre, d’ail et de carottes, en fait un aliment à la fois fonctionnel et agréable à déguster lors d’expéditions.    
 
 **Fabrication/Préparation** :   
-La préparation du pain de Kykykyl à partir de sa racine demande une certaine maîtrise en **Herboristerie** DD 22 ou en **Survie** DD 28 pour s'assurer que chaque tranche contienne la quantité nécessaire de principes actifs. Ce processus garantit que chaque morceau de pain conserve ses propriétés de vision améliorée pendant toute la durée de sa conservation.
+La préparation du pain de Kykykyl à partir de sa racine demande une certaine maîtrise en **Herboristerie** DD 22 ou en **Survie** DD 28 pour s'assurer que chaque tranche contienne la quantité nécessaire de principes actifs. Ce processus garantit que chaque morceau de pain conserve ses propriétés de vision améliorée pendant toute la durée de sa conservation.     
 
 
 ## Pain de Tatharsul    
@@ -118,10 +117,9 @@ Le Pain de Tatharsul doit être **ingéré** pour activer ses effets restaurateu
 Ce pain se conserve entre 1 et 2 mois, en fonction des conditions de stockage, ce qui en fait une ressource précieuse pour les longues expéditions. Son goût combine des saveurs de citrouille et de citron, offrant une expérience gustative agréable et unique.     
 
 **Fabrication/Préparation** :  
-La préparation du Pain de Tatharsul à partir de ce fruit demande une certaine expertise en **Herboristerie** DD16 ou en **Survie** DD 28 pour transformer efficacement le fruit en pain. Ce processus garantit que chaque tranche conserve les propriétés restauratrices nécessaires pour une efficacité maximale.    
-
-
-## Pain d’Ulginor    
+La préparation du Pain de Tatharsul à partir de ce fruit demande une certaine expertise en **Herboristerie** DD16 ou en **Survie** DD 28 pour transformer efficacement le fruit en pain. Ce processus garantit que chaque tranche conserve les propriétés restauratrices nécessaires pour une efficacité maximale.       
+    
+## Pain d’Ulginor    
 **Description** :     
 Le Pain d’Ulginor est un pain simple et nutritif, fabriqué à partir de feuilles comestibles trouvées en milieu côtier. Une tranche fournit une journée complète de nutrition, ce qui en fait un aliment de base apprécié des voyageurs et aventuriers. Son goût rappelle le fromage et les épinards, offrant une saveur riche et savoureuse.    
 **Localisation** :    

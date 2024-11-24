@@ -21,7 +21,7 @@ Visites:
 ![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
 
 **Atlas:**   
-- Description de la cité de [Luat’albarh](/archetypes/luatalbarh)  
+- Description de la cité de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh/)  
 
 **Archétypes:**   
 - Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)    
@@ -29,7 +29,10 @@ Visites:
 - Modification de la présentation de l'[Amaznoios](/archetypes/amaznoios)     
 
 **Bestiaire:**    
-- - Ajout du [Saskhrul](/bestiaire/saskhrul)     
+- Ajout du [Saskhrul](/bestiaire/saskhrul)     
+
+**Grimoire:**    
+- Ajout [Invoquer le Saskhrul](/grimoire/invoquer-le-saskhrul)  
 
 **Personnages**    
 - Création de [Aksim Al Ansari](/bestiaire/aksim-al-ansari).    
@@ -37,7 +40,7 @@ Visites:
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
-_le 22 novembre 2024_
+_le 24 novembre 2024_
 §§§
 
 ## Mise à jour 232

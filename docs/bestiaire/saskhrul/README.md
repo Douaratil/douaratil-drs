@@ -54,6 +54,12 @@ _**Dérobade**_. (*ombre*)  L'agilité du Saskhrul lui permet d'éviter instinct
 
 _**Résistance au Phýlaxtéphras**_ Le Saskhrul est [résistant](/combattre/#resistance-et-vulnerabilite-aux-degats) à tout dégât reçu de la part d'un Phýlaxtéphras
 
+_**Vision des Ombres :**_  Le Saskhrul perçoit tout ce qui est caché, magique ou non, dans un rayon de 18 mètres, même dans l’obscurité totale.  
+
+_**Marque du Traqueur :**_  Lorsque le Saskhrul attaque un ennemi marqué comme sa cible, ses attaques infligent des dégâts supplémentaires d’essence sombre (2d6) de dégâts nécrotiques. Il peut désigner un ennemi par round pour une action bonus mais doit le faire en début de round.   
+
+_**Terreur de l’Inquisiteur :**_  Les Phýlaxtéphras en présence du Saskhrul subissent un désavantage à leurs jets d’attaque et de sauvegarde. 
+
 ## <v-icon>mdi-sword-cross</v-icon> Actions
 _**Dague**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 1d6+3 dégâts perforant (finesse, légère, lancer 6/18).  
