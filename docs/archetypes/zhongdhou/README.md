@@ -22,7 +22,7 @@ source: "Elric"
 |16|[Empoisonneur expert](#empoisonneur-expert)|
 |17|[Alchimiste parfait](#alchimiste-parfait)|
 |18|[Maître empoisonneur](#maitre-empoisonneur)|
-|19|[Création d'Homoncule](#creation-d-homocule)|
+|19|[Création d'Homoncule](#creation-d-homoncule)|
 |20|[Véritable Zhongdhou](#veritable-zhongdhou)|
 
 ## Zhongdhou

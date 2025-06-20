@@ -14,7 +14,7 @@ title: Otaganha
 |**10**|[Compagnon félin](#compagnon-felin)|
 |**11**|[Lame assoiffée](#lame-assoiffee)|
 |**12**|[Sept vies](#sept-vies)|
-|**13**|[agilité féline](#agilite-feline)|
+|**13**|[Agilité féline](#agilite-feline)|
 |**15**|[Partage de vie](#partage-de-vie)|
 |**18**|[Langage félin](#langage-felin)|
 |**19**|[Vison féline](#vision-feline)|
@@ -74,12 +74,12 @@ Cette connexion dure un nombre d'heures équivalent à la moitié de votre nivea
 
 [![Otaganha](https://www.douaratil.fr/illustrations/archetype/otaganha2300.jpeg)](https://www.douaratil.fr/illustrations/archetype/otaganha2.jpeg)  
 
-### septs vies  
+### Sept vies  
 **En Sogh : Maisha saba**  
 À partir du niveau 12, vous pouvez altèrer le destin en votre faveur. Quand vous faites un test de caractéristique ou un jet de sauvegarde, vous pouvez utiliser cette aptitude pour ajouter 1d6 au résultat par point de bonus de Charisme (minimum 1). Vous pouvez utiliser cette aptitude après avoir vu le résultat initial, mais vous devez le faire avant que les effets soient appliqués.
 Une fois que vous avez utilisé cette aptitude une fois, vous devez attendre de finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau.  
 
-### agilité féline  
+### Agilité féline  
 **En Sogh : Seduedu N’bo**  
 À partir du niveau 13, vous gagnez la maîtrise des compétences acrobatie et athlétisme. SI vous possédez déjà ces compétences, vous doublez le bonus de Maîtrise.  
 

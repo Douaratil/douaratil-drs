@@ -94,7 +94,7 @@ De plus les héros en ville peuvent très bien reprendre les armes et se joindre
 - Une auberge portant le nom : Aux trois gantelets[Détail](#aux-trois-gantelets)   
 - Un hôtel tenu par Sigrunn Grindottir (Melge, féminin)   
 - Une auberge portant le nom : Au foyer de la salamandre [Détail](#au-foyer-de-la-salamandre)   
-- Une auberge portant le nom : Aux six cuillères [Détail](#aux-six-cuillères)   
+- Une auberge portant le nom : Aux six cuillères [Détail](#aux-six-cuilleres)   
 - Un temple d'une divinité bonne tenu par Severinus Maritimus (Alcante, masculin)   
 - Une salle de jeux tenu par Helga Hrifladottir (Melge, féminin)   
 - Une auberge portant le nom : A l'aurochs brûlé [Détail](#a-l-auroch-brule)   
@@ -212,7 +212,7 @@ Vin aromatisé de cannelle.
 Boissons :   
 Bière forte, bière au beurre, vin aromatisé de cannelle, vin de groseilles, whisky léger, armagnac, liqueur de pomme, jus d'amande
 
-#### A l'aurochs brûlé
+#### A l'auroch brûlé
 A l'aurochs brûlé est une habitation réputée tenue par Prokopos Birellis (Lacède, masculin) et son beau frère Leonidas Ralliadis(Lacède, masculin).   
 
 Le bâtiment en forme de U est composé d'un rez-de-chaussée et de deux étages, l'architecture de la maison est très recherchée. Au rez-de-chaussée, se trouve une salle pouvant contenir trente personnes. Les tables et les chaises en bois exotique donnent une idée de la qualité de l'auberge. Sur le côté, se situe la cuisine où Chilemba Kito (Sooghaï, masculin) est au fourneau. Le cuistot se targue de faire le meilleur "Potage Jaunet" de toute la région.   

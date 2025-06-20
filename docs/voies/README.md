@@ -23,16 +23,16 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
 |**1**|+4|[Style de combat](#style-de-combat), [Second souffle](#second-souffle)|
-|**2**|+8|[Sursaut d'activité](#sursaut-d'activité)|
+|**2**|+8|[Sursaut d'activité](#sursaut-d-activite)|
 |**3**|+12|[Archetype martial](#archetype-martial)|
 |**4**|+16|-|
-|**5**|+20|[Attaque supplémentaire](#attaque-supplémentaire)|
+|**5**|+20|[Attaque supplémentaire](#attaque-supplementaire)|
 |**6**|+24|-|
 |**7**|+28|-|
 |**8**|+32|-|
 |**9**|+36|[Indomptable](#indomptable)|
 |**10**|+40|-|
-|**11**|+44|[Attaque supplémentaire](#attaque-supplémentaire)|
+|**11**|+44|[Attaque supplémentaire](#attaque-supplementaire)|
 |**12**|+48|-|
 |**13**|+52|[Indomptable X 2](#indomptable)|
 |**14**|+56|-|
@@ -41,7 +41,7 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 |**17**|+68|[Indomptable X 3](#indomptable)|
 |**18**|+72|-|
 |**19**|+76|-|
-|**20**|+80|[Attaque supplémentaire](#attaque-supplémentaire)|
+|**20**|+80|[Attaque supplémentaire](#attaque-supplementaire)|
 Parmi les trois voie proposées, la voie des armes correspond à toutes les voies guerrières. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.
@@ -171,7 +171,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
 |**2**|+4|-|+8|
-|**3**|+6|[Archétype arcanique](#archetype-arcanique,)|+12|
+|**3**|+6|[Archétype arcanique](#archetype-arcanique)|+12|
 |**4**|+8|[Restauration magique (2d6)](#restauration-magique)|+16|
 |**5**|+10|-|+20|
 |**6**|+12|-|+24|
@@ -181,7 +181,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 |**10**|+20|[Restauration magique (4d6)](#restauration-magique)|+40|
 |**11**|+22|-|+44|
 |**12**|+24|-|+48|
-|**13**|+26|[Restauration magique (5d6)](#restauration-magique), [Lancer des sorts d'adepte (Carac 17)](#lancer-des-sorts)|+52|
+|**13**|+26|[Restauration magique (5d6)](#restauration-magique)|
 |**14**|+28|-|+56|
 |**15**|+30|-|+60|
 |**16**|+32|[Restauration magique (6d6)](#restauration-magique)|+64|

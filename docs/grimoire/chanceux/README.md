@@ -47,7 +47,7 @@ Chanceux permet d'obtenir un bonus de +2 à un test. Invoquer la chance est risq
 |5|fiente de pigeon ou de chauve-souri sur le crâne|
 |*6|temps de guérison des blessures graves et cous critiques doublés pendant une lune|
 |7|JS contre la mort DD 11 au lieu de 10 pendant 24h|
-|8|[Présence puissante](#presence-puissante)|
+|8|[Présence puissante](/grimoire/#presence-puissante)|
 |9|coût des sorts doublés pendant 24h|
 |10|coût des sorts doublés pendant 48h|
 |11|coût des sorts triplés pendant 36h|

@@ -10,7 +10,7 @@ Dinas Môr-Leidr est une société cosmopolite où tout un chacun a le droit d'y
 Il existe dans Dinas Môr-Leidr, 14 commerces remarquables [(voir la liste des commerces)](#commerces).  
 Dinas Môr-Leidr comporte en son sein un aventurier remarquable [(voir l'aventurier)](#aventurier).   
 Dinas Môr-Leidr a le privilège d'avoir parmi ses habitants 2 héros ayant accompli quelques chose d’exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici.[(voir liste des héros)](#heros).   
-Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.[(voir liste les lieux)](#lieux).   
+Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville.[(voir liste les lieux)](#lieux-et-toponymie).   
 ### Dirigeant(s)   
 La ville est dirigée par un pirate, ancien Genos Meldète déchu portant le nom de Ateponos Vertor (Meldète, masculin)   
 ### Economie

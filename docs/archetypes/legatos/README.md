@@ -12,7 +12,6 @@ title: Legatos
 |**5**|[Ancrage](#ancrage)|
 |**6**|[Influence](#influence)|
 |**7**|[Lacération égotique (1d6)](#laceration-egotique)|
-|**8**|[Cri de ralliement](#cri-de-ralliement)|
 |**10**|[Seconde attaque](#seconde-attaque)|
 |**11**|[Lacération égotique (2d6)](#laceration-egotique)|
 |**17**|[Lacération égotique (3d6)](#laceration-egotique)|

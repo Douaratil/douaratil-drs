@@ -22,7 +22,7 @@
     "markdown-it-div": "^1.1.0",
     "markdown-it-multimd-table": "^4.0.1",
     "material-design-icons-iconfont": "^6.7.0",
-    "sass": "^1.80.7",
+    "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
     "slugify": "^1.4.0",
     "vue": "^2.7.9",

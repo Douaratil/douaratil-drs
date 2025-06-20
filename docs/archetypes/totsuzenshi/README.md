@@ -8,7 +8,7 @@ title: Totsuzenshi
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Voie de la main nue](#voie-de-la-main-nue), [Démarche féline](#demarche-feline)|
-|**4**|[Acrobatie aérienne](#acrobatue-aerienne)|
+|**4**|[Acrobatie aérienne](#acrobatie-aerienne)|
 |**5**|[Domination martiale](#domination-martiale)|
 |**6**|[Seconde attaque](#seconde-attaque)|
 |**7**|[Main de l'ombre (1d6)](#main-de-l-ombre)|

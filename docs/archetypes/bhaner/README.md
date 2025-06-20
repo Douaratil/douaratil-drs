@@ -18,9 +18,9 @@ title: bhaner
 |**13**|[Chant reposant (3d6)](#chant-reposant)|
 |**14**|[Inspirer la bravoure](#inspirer-la-bravoure)|
 |**15**|[Inspiration bardique (4d6/4rd)](#inspiration-bardique)|
-|**16**|[Compétence hors pair](#compétence-hors-pair)|
+|**16**|[Compétence hors pair](#competence-hors-pair)|
 |**17**|[Chant reposant (4d6)](#chant-reposant)|
-|**19**|[Inspiration supérieure](#inspiration-supérieure)|
+|**19**|[Inspiration supérieure](#inspiration-superieure)|
 |**20**|[Véritable Bhaner](#veritable-bhaner)|
 
 

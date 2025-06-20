@@ -8,10 +8,10 @@ title: Drodan
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Langue sacrée](#langue-sacree), [Vigueur du printemps](#vigueur-du-printemps), [Forme sauvage](#forme-sauvage)|
-|**4**|[Compagnon animal faucon](#compagnon-anima-faucon)|
+|**4**|[Compagnon animal faucon](#compagnon-animal-faucon)|
 |**6**|[Migration d'été](#migration-d-ete)|
 |**10**|[Refuge d'automne](#refuge-d-automne)|
-|**12**|[Compagnon animal buse](#compagnon-anima-buse)|
+|**12**|[Compagnon animal buse](#compagnon-animal-buse)|
 |**14**|[Prédateur de l'hiver](#predateur-de-l-hiver)|
 |**18**|[Jeunesse éternelle](#jeunesse-eternelle), [Incantation animale](#incantation-animale)|
 |**19**|[Compagnon animal Aigle](#compagnon-animal-aigle)|

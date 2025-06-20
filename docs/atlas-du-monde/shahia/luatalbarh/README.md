@@ -1,3 +1,7 @@
+---
+title: Luat’albarh
+---
+
 # Luat’albarh     
 Luat’albarh, surnommée la “Cité des Mille Lumières”, se dresse majestueusement au bord du fleuve Albarh, là où le désert rencontre des oasis luxuriantes au bord de la mer turquoise de Larh Althaj. À l’ouest se trouve l’île rocailleuse de Jazirham. Capitale commerciale et spirituelle, elle est un carrefour culturel où les caravanes des dunes croisent les marchands du Nord et les pèlerins venus de l’Est.    
 

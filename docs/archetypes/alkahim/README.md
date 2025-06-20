@@ -194,7 +194,7 @@ Au niveau 18, l'Alka'him  n’est plus obligé de se trouver dans un laboratoire
 Au niveau 19, l'Alka'him  peut maintenant fabriquer des engins flambants.
 
 
-### Véritable l'Alka'him
+### Véritable Alka'him
 **En Shahim: Sahih Alka'him**  
 Au niveau 20, le héro est accompli. Il gagne 2 points de caractéristique en Intelligence et en Constitution sans dépasser 22.  
 

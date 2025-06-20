@@ -8,7 +8,7 @@ title: Bhegelm
 |Niveau|Aptitudes|
 |:-:|:-:|
 |**3**|[Langue sacrée](#langue-sacree)|
-|**4**|[Récupération naturelle](#recupération-naturelle)|
+|**4**|[Récupération naturelle](#recuperation-naturelle)|
 |**5**|[Compagnon animal corneille](#compagnon-animal-corneille)|
 |**6**|[Forme sauvage](#forme-sauvage)|
 |**7**|[Monture sacrée](#monture-sacree), [Traversée des terrains](#traversee-des-terrains)|

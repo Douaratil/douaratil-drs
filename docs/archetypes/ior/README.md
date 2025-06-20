@@ -14,7 +14,7 @@ title: Ior
 |**8**|[Attaque supplémentaire](#attaque-supplementaire)|
 |**9**|[Toujours debout](#toujours-debout)|
 |**10**|[Cri sauvage](#cri-sauvage)|
-|**11**|[Rage Implacable de Teutès](#rage-implaccable-de-teutes)|
+|**11**|[Rage Implacable de Teutès](#rage-implacable-de-teutes)|
 |**15**|[Attaque supplémentaire](#attaque-supplementaire)|
 |**16**|[Rage Indomptable de Teutès](#rage-indomptable-de-teutes)|
 |**20**|[Champion de Teutès](#champion-de-teutes), [Véritable Ior](#veritable-ior)|

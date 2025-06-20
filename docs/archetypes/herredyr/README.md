@@ -12,7 +12,6 @@ title: Herredyr
 |**5**|[Sursaut bestial](#sursaut-bestial)|
 |**6**|[Férocité bestiale](#ferocite-bestiale)|
 |**8**|[Compagnon bestial](#compagnon-bestial)|
-|**9**|[Défense](#defense)|
 |**10**|[Sens bestiale](#sens-bestiale)|
 |**12**|[Rage bestiale (+1d6)](#rage-bestiale)|
 |**15**|[longévité bestiale](#longevite-bestiale)|

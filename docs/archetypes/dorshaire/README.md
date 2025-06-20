@@ -93,7 +93,7 @@ La ou les créatures mettent 1d6 rounds à arriver. Elles arrivent par la voie d
 
 [![Dorshaïre](https://www.douaratil.fr/illustrations/archetype/dorshaire3300.jpeg)](https://www.douaratil.fr/illustrations/archetype/dorshaire3.jpeg)  
 
-### Connaissances martimes    
+### Connaissances maritimes    
 **En Khern : Anaoudegezh'arvor**  
 À partir du niveau 10, la Dorshaïre apprend et peut lancer de manière innée un sort de niveau Apprenti en lien avec l'élément eau parmi la liste suivante: [Allié planaire](/grimoire/allie-planaire), [Brume d'antre](/grimoire/brume-d-antre), [Cône de froid](/grimoire/cone-de-froid), [Mur de glace](/grimoire/mur-de-glace), [Tentacules noires](/grimoire/tentacules-noires) et  [Unification du corps et de l'eau](/grimoire/unification-du-corps-et-de-l-eau). Le sort est considéré comme appartenant à la Foi.    
 D'autre part, la Dorshaïre peut oublier le sort et en apprendre un autre après un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).   

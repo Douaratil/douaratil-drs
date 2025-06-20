@@ -15,7 +15,7 @@ title: Kaïshan
 |**8**|[Enseignement de l'invocateur](#enseignement-de-l-invocateur)|
 |**9**|[Puissance invocatrice supérieure](#puissance-invocatrice-superieure)|
 |**11**|[Invocateur confirmé](#invocateur-confirme)|
-|**13**|[Expertise éolienne](#expertise-eolienne)|
+|**13**|[Lien invocatoire étendu](#lien-invocatoire-etendu)|
 |**15**|[Maître invocateur](#maitre-invocateur)|
 |**17**|[Omniscience de l'invocateur](#omniscience-de-l-invocateur)|
 |**19**|[Lien invocatoire universel](#lien-invocatoire-universel)|

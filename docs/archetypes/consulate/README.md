@@ -1,3 +1,7 @@
+---
+title: Consulate
+---
+
 ### Consulate 
 
 Les **Consulates** sont les ambassadrices et prêtresses les plus influentes du peuple Alcante. Porteuses de la parole divine et intermédiaires diplomatiques, elles incarnent la sagesse, la foi et la diplomatie de leur peuple. Par leur éloquence et leurs pouvoirs sacrés, elles façonnent l’avenir des nations et assurent la paix entre les différentes cultures de Douaratil. En temps de conflit, elles sont des leaders spirituels et des stratèges politiques capables de transformer le cours des événements par leur charisme et leurs invocations divines.

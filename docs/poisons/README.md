@@ -33,7 +33,7 @@ Les poisons se divisent en quatre catégories d'utilisation et
 | [**Larmes de minuit**](#larmes-de-minuit-ingestion) | ingestion |circulatoire | 1500 po |
 | [**Malice**](#malice-inhalation) | inhalation | conversion | 250 po |
 | [**Mucus de rampant**](#mucus-de-rampant-contact) | contact | conversion | 200 po |
-| [**Poison Selmonite**](#poison-drow-blessure) | blessure |circulatoire | 200 po |
+| [**Poison Selmonite**](#poison-selmonite-blessure) | blessure |circulatoire | 200 po |
 | [**Poison de ver pourpre**](#poison-de-ver-pourpre-blessure) | blessure | conversion | 2000 po |
 | [**Sang d'assassin**](#sang-d-assassin-ingestion) | ingestion | circulatoire | 150 po |
 | [**Sérum de vérité**](#serum-de-verite-ingestion) | ingestion | circulatoire | 150 po |

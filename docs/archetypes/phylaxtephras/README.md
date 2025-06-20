@@ -1,3 +1,6 @@
+---
+title: Phýlaxtéphras
+---
 ## Archétype : Phýlaxtéphras
 
 ### Aptitudes et progression du Phýlaxtéphras

@@ -22,7 +22,7 @@ title: Viator
 |**16**|[Capitaine légendaire](#capitaine-legendaire)|
 |**17**|[Pêcheur d'abîme](#pecheur-d-abime)|
 |**19**|[Souverain des océans](#souverain-des-oceans)|
-|**20**|[Véritable Navigator](#veritable-navigator)|
+|**20**|[Véritable Viator](#veritable-viator)|
 
 §§§ .hero
 *Sous la voûte étoilée, le Viator, vêtu d’une longue cape de cuir salé et coiffé d’un casque, se tenait à la proue du navire. Ses yeux perçaient l’obscurité tandis que sa main, tendue vers les cieux, semblait traçer un itinéraire invisible, guidant l'équipage vers des horizons inexplorés.*   

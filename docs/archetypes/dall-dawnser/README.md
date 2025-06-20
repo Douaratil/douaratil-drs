@@ -7,8 +7,8 @@ title: Dall Dawnser
 
 |Niveau|Aptitudes|
 |:-:|:-:|
-|**3**|[Technique de combat](#technique-de-combat), [Force d’âme](#force-d-'-ame), [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente), [déplacement aérien](#deplacement-aerien), [déplacement sans armure](#deplacement-sans-armure) |
-|**4**|[Blocage de projectiles](#blocage-de-projectiles), [Griffe du prédateur](#griffe-du-prédateur), [Blocage](#blocage)|
+|**3**|[Technique de combat](#technique-de-combat), [Force d’âme](#force-d-ame), [déluge de frappe](#deluge-de-frappe), [Défense patiente](#defense-patiente), [déplacement aérien](#deplacement-aerien), [déplacement sans armure](#deplacement-sans-armure) |
+|**4**|[Blocage de projectiles](#blocage-de-projectiles), [Griffe du prédateur](#griffe-du-predateur), [Blocage](#blocage)|
 |**5**|[Techniques de lutte](#techniques-de-lutte)|
 |**6**|[Chute ralentie](#chute-ralentie)|
 |**7**|[Attaque supplémentaire ](#attaque-supplementaire)|
@@ -16,7 +16,7 @@ title: Dall Dawnser
 |**9**|[Frappe de Nerzhkalon](#frappe-de-nerzhkalon)|
 |**10**|[Morsure empoisonnée](#morsure-empoisonnee)|
 |**11**|[Projection](#projection)|
-|**12**|[soins physique](#soins-physique)|
+|**12**|[Soins physique](#soins-physique)|
 |**13**|[Dérobade](#derobade), [âme tranquille](#ame-tranquille)|
 |**14**|[Corps clair](#corps-clair)|
 |**15**|[Vitesse](#vitesse)|
@@ -66,7 +66,7 @@ Tant que vous ne portez ni armure ni bouclier et que vous combattez avec ce type
 ### Force d’âme
 **En Khern : Nerzhkalon**  
 À partir du niveau 3, votre entraînement vous permet d'utiliser l'énergie mystique du Nerzhkalon (force intérieure ou force d’âme). Votre capacité à puiser dans cette énergie ce qui vous permet de puiser dans votre réserve de point de foi (PF) pour utiliser vos aptitudes de Dall Dawnser.
-Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : (Glavtaol) [déluge de frappe](#deluge-de-frappe), [défense patiente](#défense-patiente) (Dival Teol) et [déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
+Ces points vous permettent d'utiliser certaines aptitudes acquises lorsd de l'évolution de Dall Dawnser. Quand vous débutez, vous avez trois aptitudes de ce type : (Glavtaol) [Déluge de frappe](#deluge-de-frappe), [Défense patiente](#defense-patiente) (Dival Teol) et [Déplacement aérien](#deplacement-aerien)(Finvalaer). Vous apprendrez de nouvelles aptitudes en gagnant des niveaux dans cet archétype.  
 Certaines de vos aptitudes permettent à votre cible de faire un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi :  
 **DD de sauvegarde contre le Nerzhkalon = 8 + votre bonus de maîtrise + votre modificateur de Sagesse**.  
 
