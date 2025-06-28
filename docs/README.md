@@ -17,6 +17,22 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## Mise à jour 234
+![Mise à jour 234](https://www.douaratil.fr/illustrations/site/maj234.jpeg)     
+
+**Site:**   
+- 🎲 Le retour de Douaratil !
+
+Après sept mois de pause, le site Douaratil est enfin de retour en ligne ! Merci à celles et ceux qui continuent de suivre mes aventures rôlistiques — ce n’est que le début d’un nouvel acte.
+
+De nouveaux contenus arriveront tout au long de l’été : créations, ressources, récits et bien plus encore. Restez à l’affût !
+
+Bon jeu à tous.
+§§§ .text-right
+_**Olivier**_,  
+_le 28 juin 2025_
+§§§
+
 ## Mise à jour 233
 ![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
 
