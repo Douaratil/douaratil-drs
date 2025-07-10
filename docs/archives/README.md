@@ -71,8 +71,8 @@ Les inspirations sont elles aussi cumulables pour obtenir un bonus plus importan
 |inspiration offensive|+1d6/inspiration|
 |inspiration défensive|-1d6/inspiration|
 
-- Modification de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale) : "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourageinterdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les dieux n’aiment pas voir leur investissement se nuire et se détruire. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.   
-Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).Même les plus vils utilisateurs de la voie de la magie sont soumisamenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.    
+- Modification de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale) : "Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourage un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les dieux n’aiment pas voir leur investissement se nuire et se détruire. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis.Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.   
+Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.Même les plus vils utilisateurs de la voie de la magie sont amenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.    
 
 Bon jeu.     
 §§§ .text-right
@@ -134,12 +134,12 @@ _le 25 août 2024_
 - Changement et ajout d'illustrations du [leedschithys](/bestiaire/leedschithys).   
 - Changement d'illustration du [lézard](/bestiaire/lezard).    
 - Changement d'illustration du [lézard géant](/bestiaire/lezard-geant).   
-- Changement d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo). 
+- Changement d'illustration de [Lhaothlastholo](/bestiaire/lhaothlastholo).
 - Ajout d'illustration du [louarndou](/bestiaire/louarndou).   
-- Changement d'illustration du [lougre](/bestiaire/lougre). 
-- Changement d'illustration du [malaak](/bestiaire/malaak). 
-- Changement d'illustration du [mammouth](/bestiaire/mammouth). 
-- Changement d'illustration du [mandrill des montagnes](/bestiaire/mandrill-des-montagnes). 
+- Changement d'illustration du [lougre](/bestiaire/lougre).
+- Changement d'illustration du [malaak](/bestiaire/malaak).
+- Changement d'illustration du [mammouth](/bestiaire/mammouth).
+- Changement d'illustration du [mandrill des montagnes](/bestiaire/mandrill-des-montagnes).
 
 Bon jeu.     
 §§§ .text-right
@@ -211,11 +211,11 @@ _le 7 août 2024_
 - Ajout des traits de caractères de [Gwion Gornoc](/bestiaire/gwion-gornoc)
 - Ajout des traits de caractères de [Ioen Paetus](/bestiaire/ioen-paetus)
 - Ajout des traits de caractères de [Jahir Murad](/bestiaire/jahir-murad)
-- Changement d'illustration de [Pywed Vecconos](/bestiaire/pywed-vecconos) et ajout des traits de caractères. 
+- Changement d'illustration de [Pywed Vecconos](/bestiaire/pywed-vecconos) et ajout des traits de caractères.
 - Ajout des traits de caractères de [Shine Hame](/bestiaire/shine-hame)    
 - Changement d'illustration de [Sigtryggr Olgensen](/bestiaire/sigtryggr-olgensen) et ajout des traits de caractères.     
-- Changement d'illustration de [Talos Virato](/bestiaire/talos-virato) et ajout des traits de caractères. 
-- Changement d'illustration de [Taron Vecconos](/bestiaire/taron-vecconos) et ajout des traits de caractères. 
+- Changement d'illustration de [Talos Virato](/bestiaire/talos-virato) et ajout des traits de caractères.
+- Changement d'illustration de [Taron Vecconos](/bestiaire/taron-vecconos) et ajout des traits de caractères.
 - Ajout des traits de caractères de [Thorleik Aevarson](/bestiaire/thorleik-aevarson)
 - Ajout des traits de caractères de [Yan Zin](/bestiaire/yan-zin)
 
@@ -247,16 +247,16 @@ _le 31  juillet 2024_
 - Ajout d'illustrations de [Cnuth Athelsen](/bestiaire/cnuth-athelsen) et ajout des traits de caractères.   
 - Ajout des traits de caractères de [Dehus Dreanos](/bestiaire/dehus-dreanos).   
 - Ajout des traits de caractères de [Gwihem Tenvakalon](/bestiaire/gwihem-tenvakalon).   
-- Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus). 
+- Changement d'illustration de [Ioen Paetus](/bestiaire/ioen-paetus).
 - Ajout des traits de caractères de [Knut Swenson](/bestiaire/knut-swenson).   
-- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa) et ajout des traits de caractères. 
+- Changement d'illustration de [Malala Soa](/bestiaire/malala-soa) et ajout des traits de caractères.
 - Ajout des traits de caractères de [Moïra Dornglas](/bestiaire/moira-dornglas).   
-- Changement d'illustration de [Morgaine Dour](/bestiaire/morgaine-dour) et ajout des traits de caractères. 
-- Changement d'illustration de [Nadari Bahati](/bestiaire/nadira-bahati) et ajout des traits de caractères. 
-- Changement d'illustration de [Namusa Koulouarn](/bestiaire/namusa-koulouarn) et ajout des traits de caractères. 
-- Changement d'illustration de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) et ajout des traits de caractères. 
-- Changement d'illustration de [Samia Tiercelin](/bestiaire/samia-tiercelin) et ajout des traits de caractères. 
-- Changement d'illustration de [Sedida Kerbrat](/bestiaire/sedida-kerbrat) et ajout des traits de caractères. 
+- Changement d'illustration de [Morgaine Dour](/bestiaire/morgaine-dour) et ajout des traits de caractères.
+- Changement d'illustration de [Nadari Bahati](/bestiaire/nadira-bahati) et ajout des traits de caractères.
+- Changement d'illustration de [Namusa Koulouarn](/bestiaire/namusa-koulouarn) et ajout des traits de caractères.
+- Changement d'illustration de [Rudolf Bernsen](/bestiaire/rudolf-bernsen) et ajout des traits de caractères.
+- Changement d'illustration de [Samia Tiercelin](/bestiaire/samia-tiercelin) et ajout des traits de caractères.
+- Changement d'illustration de [Sedida Kerbrat](/bestiaire/sedida-kerbrat) et ajout des traits de caractères.
 - Ajout des traits de caractères de [Tibérius Don Alonzo](/bestiaire/tiberius-don-alonzo)
 
 Bon jeu.     
@@ -356,9 +356,9 @@ _le 21 juin 2024_
 - Changement des illustrations de [Siwan Vlatcano](/PNJ/nordiques/#siwan-vlatcano).  
 - Changement des illustrations de [Swein Koigrimsson](/PNJ/nordiques/#swein-koigrimsson).  
 - Changement des illustrations de [Thorgunna Iridottir](/PNJ/nordiques/#thorgunna-iridottir).  
-- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson). 
+- Changement des illustrations de [Thororm Audgisilsson](/PNJ/nordiques/#thororm-audgisilsson).
 - Changement des illustrations de [Ubbein Stigandisson](/PNJ/nordiques/#ubbein-stigandisson).   
- 
+
 Bon jeu.     
 §§§ .text-right
 _**Olivier**_,  
@@ -399,7 +399,7 @@ _le 16 juin 2024_
 - Ajout du sort [sommeil de la lune](/grimoire/sommeil-de-la-lune)    
 - Ajout du sort [voile camouflant](/grimoire/voile-camouflant)    
 
- 
+
 
 Bon jeu.     
 §§§ .text-right
@@ -645,7 +645,7 @@ _le 11 avril 2024_
 - Changement des illustrations du [charognard des forêts](/bestiaire/charognard-des-forets).
 - Changement des illustrations du [chat](/bestiaire/chat).
 - Changement des illustrations de la [chauve-souris](/bestiaire/chauve-souris).
-- Changement des illustrations de la [chauve-souris géante](/bestiaire/chauve-souris-geante). 
+- Changement des illustrations de la [chauve-souris géante](/bestiaire/chauve-souris-geante).
 - Changement des illustrations du [cheval de guerre](/bestiaire/cheval-de-guerre).               
 - Changement des illustrations du [cheval de guerre lourd](/bestiaire/cheval-de-guerre-lourd).
 - Changement des illustrations du [cheval de selle](/bestiaire/cheval-de-selle).
@@ -804,15 +804,15 @@ _le 15 mars 2024_
 - Changement des illustrations de l'[inéxorable supérieur](/bestiaire/inexorable-superieur).  
 - Changement des illustrations du [lion](/bestiaire/lion).  
 - Changement des illustrations du [loup](/bestiaire/loup).  
-- Changement des illustrations du [loup des monts du Menezlatar](/bestiaire/loup-des-monts-du-menezlatar). 
-- Changement des illustrations du [loup des plaines de Thyria](/bestiaire/loup-des-plaines-de-thyria). 
-- Changement des illustrations du [loup sanguinaire](/bestiaire/loup-sanguinaire). 
+- Changement des illustrations du [loup des monts du Menezlatar](/bestiaire/loup-des-monts-du-menezlatar).
+- Changement des illustrations du [loup des plaines de Thyria](/bestiaire/loup-des-plaines-de-thyria).
+- Changement des illustrations du [loup sanguinaire](/bestiaire/loup-sanguinaire).
 - Changement des illustrations de l'[ours brun](/bestiaire/ours-brun).  
 - Changement des illustrations de l'[ours polaire](/bestiaire/ours-polaire).  
 - Changement des illustrations de l'[ours noir](/bestiaire/ours-noir).  
 - Changement des illustrations de l'[ours charognard](/bestiaire/ours-charognard).  
-- Changement des illustrations du [tigre](/bestiaire/tigre). 
-- Changement des illustrations du [tigre de dents de sabre](/bestiaire/tigre-a-dents-de-sabre). 
+- Changement des illustrations du [tigre](/bestiaire/tigre).
+- Changement des illustrations du [tigre de dents de sabre](/bestiaire/tigre-a-dents-de-sabre).
 
 Bon jeu.     
 §§§ .text-right
@@ -872,7 +872,7 @@ _le 28 février 2024_
 
 **PNJ**   
 - Ajout de [Bahir Boudiaf](/PNJ/shahims/#bahir-boudiaf).  
-- Ajout de [Eyoab Mengistu Boru](/PNJ/shahims/#eyoab-mengistu-boru). 
+- Ajout de [Eyoab Mengistu Boru](/PNJ/shahims/#eyoab-mengistu-boru).
 
 Bon jeu.     
 §§§ .text-right
@@ -979,7 +979,7 @@ _le 18 février 2024_
 - Changement des illustrations de la section des [Voies](/voies).
 
 **Site : illustrations**   
-- Ajout des illustrations des  [livres de Douaratil](https://www.douaratil.fr). 
+- Ajout des illustrations des  [livres de Douaratil](https://www.douaratil.fr).
 
 Bon jeu.     
 §§§ .text-right
@@ -994,9 +994,9 @@ _le 13 février 2024_
 - Changement des illustrations de l'[Heilari](/archetypes/heilari).
 
 **PJ : illustrations**   
-- Mise à jour des illustrations de [Gwion Gornoc](/bestiaire/gwion-gornoc). 
-- Mise à jour des illustrations de [Shine Hame](/bestiaire/shine-hame). 
-- Mise à jour des illustrations de [Yan Zin](/bestiaire/yan-zin). 
+- Mise à jour des illustrations de [Gwion Gornoc](/bestiaire/gwion-gornoc).
+- Mise à jour des illustrations de [Shine Hame](/bestiaire/shine-hame).
+- Mise à jour des illustrations de [Yan Zin](/bestiaire/yan-zin).
 
 **Bestiaire**   
 - Ajout de la [Sorcière rouge](/bestiaire/sorciere-rouge).  
@@ -1016,11 +1016,11 @@ _le 11 février 2024_
 - Changement des illustrations de la section des [Voies](/voies).
 
 **PJ : illustrations**   
-- Mise à jour des illustrations de [Jahir Murad](/bestiaire/jahir-murad). 
-- Mise à jour des illustrations de [Knut Svenson](/bestiaire/knut-svenson). 
-- Mise à jour des illustrations de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo) avec l'ajout d'Azenor. 
-- Mise à jour des illustrations de [Sawrina Semiramis](/bestiaire/sawrina-semiramis). 
-- Mise à jour des illustrations de [Thorleik Aevarson](/bestiaire/thorleik-aevarson). 
+- Mise à jour des illustrations de [Jahir Murad](/bestiaire/jahir-murad).
+- Mise à jour des illustrations de [Knut Svenson](/bestiaire/knut-svenson).
+- Mise à jour des illustrations de [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo) avec l'ajout d'Azenor.
+- Mise à jour des illustrations de [Sawrina Semiramis](/bestiaire/sawrina-semiramis).
+- Mise à jour des illustrations de [Thorleik Aevarson](/bestiaire/thorleik-aevarson).
 
 **Bestiaire : illustrations**   
 - Changement des illustrations de l'[Acolyte](/bestiaire/acolyte).  
@@ -1071,10 +1071,10 @@ _le 9 février 2024_
 - Ajout de l'incantation du sort [possession](/grimoire/possession).  
 - Ajout de l'incantation du sort [pourriture](/grimoire/pourriture).  
 - Ajout de l'incantation du sort [prémonition](/grimoire/premonition).  
-- Ajout de l'incantation du sort [présence bienfaitrice](/grimoire/presence-bienfaitrice). 
-- Ajout de l'incantation du sort [prestidigitation](/grimoire/prestidigitation). 
-- Ajout de l'incantation du sort [prière de soins](/grimoire/priere-de-soins). 
-- Ajout de l'incantation du sort [produire une flamme](/grimoire/produire-une-flamme). 
+- Ajout de l'incantation du sort [présence bienfaitrice](/grimoire/presence-bienfaitrice).
+- Ajout de l'incantation du sort [prestidigitation](/grimoire/prestidigitation).
+- Ajout de l'incantation du sort [prière de soins](/grimoire/priere-de-soins).
+- Ajout de l'incantation du sort [produire une flamme](/grimoire/produire-une-flamme).
 - Ajout de l'incantation du sort [projectile magique](/grimoire/projectile-magique).  
 - Ajout de l'incantation du sort [projectile toxique](/grimoire/projectile-toxique).  
 - Ajout de l'incantation du sort [projection astrale](/grimoire/projection-astrale).  
@@ -1103,7 +1103,7 @@ _le 1 décembre 2023_
 ## Mise à jour 186
 
 **Roman**   
-C'est avec une certaine émotion que je vous annonce la sortie de mon quatrième roman qui clôture la saga de Douaratil. Il m'aura fallu une dizaine d'année pour l'écrire mais désormais il est là. Vous pouvez trouver la série dans le [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) mais aussi commander chez votre libraire favori. Les livres étant imprimés à la demande, prévoyez un petit délai avant réception. 
+C'est avec une certaine émotion que je vous annonce la sortie de mon quatrième roman qui clôture la saga de Douaratil. Il m'aura fallu une dizaine d'année pour l'écrire mais désormais il est là. Vous pouvez trouver la série dans le [lien vers la librairie](https://www.bod.fr/librairie/catalogsearch/result/?q=Douaratil) mais aussi commander chez votre libraire favori. Les livres étant imprimés à la demande, prévoyez un petit délai avant réception.
 
 Bonne lecture.     
 §§§ .text-right

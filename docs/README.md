@@ -17,6 +17,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## Mise à jour 235
+![Mise à jour 235](https://www.douaratil.fr/illustrations/site/maj235.jpeg)     
+
+**Règles:**   
+- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)
+
+Bon jeu à tous.
+§§§ .text-right
+_**Olivier**_,  
+_le 10 juillet 2025_
+§§§
+
 ## Mise à jour 234
 ![Mise à jour 234](https://www.douaratil.fr/illustrations/site/maj234.jpeg)     
 
@@ -128,7 +140,7 @@ _le 18 octobre 2024_
 - Ajout des illustrations du [zhongdhou](/archetypes/zhongdhou)
 
 **Site:**   
-- Correction des modifications de la loi primordiale pour les personnages dans le bestiaire. 
+- Correction des modifications de la loi primordiale pour les personnages dans le bestiaire.
 - Correction de lien pour l'illustration du personnage [Sedida Kerbrat](/bestiaire/sedida-kerbrat)   
 
 **Personnages**    

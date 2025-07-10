@@ -5,7 +5,7 @@ title: Les trois voies
 Vous avez choisi l’ethnie de votre personnage, puis son historique (la carrière qu’il faisait). Vous allez maintenant définir sa voie. Cette étape est très importante car elle définira une grande partie des capacités du personnage. L’Archétypes que vous choisirez à partir du niveau 3, viendra compléter le personnage et l’introduira dans son réel rôle dans le monde de Douaratil. Les Archétypes demandent souvent des prérequis d’origine ethnique par exemple ou des handicaps dans  le cas de l’Ambeanamos meldète. Il est donc conseillé de regarder en amont l’Archétype que choisira le personnage.
 Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le cas des Bhegelms, ces druides khernaës. Celui qui choisi la voie des armes sera un Brezeler Sakr, un guerrier sacré. Celui qui choisit la voie de l’ombre sera un Gward Sakr, un garde sacré, sentinelle des forêt. Enfin celui qui choisi de la magie est un Douger Furnzeh Sakr, un porteur de la sagesse sacrée. Ces trois types de personnages feront partis du même ordre des Bhegelm mais n’auront ni les mêmes rôles, ni les mêmes possibilités.
 
-[![Voies](https://www.douaratil.fr/illustrations/regles/voies300.jpeg)](https://www.douaratil.fr/illustrations/regles/voies.jpeg) 
+[![Voies](https://www.douaratil.fr/illustrations/regles/voies300.jpeg)](https://www.douaratil.fr/illustrations/regles/voies.jpeg)
 
 §§§ .hero
 *Il existe trois voies. Choisir une voie est le choix le plus primordial que vous ferez. De ce choix dépendra votre manière d'appréhender le monde, et cela jusqu'à la fin de votre existence.*         
@@ -18,7 +18,7 @@ Grâce aux voies, chaque Archétype est formé de trois variantes. Prenons le ca
 *L'allure fière, la musculature développée... son aisance à se déplacer en armure et son regard fier; c'était un soldat, un vrai et j'allais lui vider la bourse.*         
 **Prostituée anonyme**   
 §§§   
-[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes.jpeg) 
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes.jpeg)
 
 |Niveau|Points d'Action cumulés|Aptitudes|
 |:-:|:-:|:-|
@@ -56,7 +56,7 @@ En tant que voie des armes, vous bénéficiez des aptitudes résumées dans le t
 **Outils** : aucuns  
 **Jets de sauvegarde** : Force, Constitution  
 **Compétences** : choisissez deux compétences parmi les suivantes : Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Perception, Perspicacité et Survie  
-[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes2.jpeg) 
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes2.jpeg)
 ### Style de combat
 Vous choisissez de vous spécialiser dans un style de combat particulier. Choisissez l'une des options suivantes. Même si vous pouvez choisir un autre style plus tard, vous ne pouvez pas prendre deux fois un même style de combat.  
 **Archerie**
@@ -78,7 +78,7 @@ Vous jouissez d'une réserve limitée d'endurance dans laquelle vous pouvez puis
 Une fois que vous avez utilisé cette aptitude, vous devez finir un [_repos court_](/gerer-la-sante-du-personnage/#repos-court) ou un [_repos long_](/gerer-la-sante-du-personnage/#repos-long) avant de pouvoir l'utiliser de nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant d'avoir besoin de vous reposer, mais vous ne pouvez pas l'utiliser plus d'une fois par tour.
 ### Archétype martial
 Au niveau 3, vous choisissez un archétype.    
-[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes3.jpeg) 
+[![Voie des armes](https://www.douaratil.fr/illustrations/regles/voiedesarmes3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedesarmes3.jpeg)
 ### Attaque supplémentaire
 À partir du niveau 5, vous pouvez attaquer **deux** fois au lieu d'une quand vous choisissez l'action attaquer lors de votre tour.
 Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteignez le niveau 11, puis à **quatre** quand vous atteignez le niveau 20 de cette classe.
@@ -92,7 +92,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 *Au premier abord, rien ne l'aurait distingué du quidam mais son déplacement, la façon qu'il avait de guetter et son petit manège autour des habitants les plus riches qui se déplaçaient d'étals en étals me figurait qu'il s'agissait d'un voleur.*         
 **Garde anonyme**   
 §§§   
-[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre.jpeg) 
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre.jpeg)
 
 
 |Niveau|Points d'Action cumulés|Aptitudes|Dégâts de l'attaque sournoise|
@@ -120,7 +120,7 @@ Le nombre d'attaques que vous pouvez porter passe à **trois** quand vous atteig
 Parmi les trois voie proposées, la voie de l’ombre correspond à toutes les voies tournées vers les subterfuges et la discrétion. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.  
-[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre2.jpeg) 
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre2.jpeg)
 ## Aptitudes de classe
 En tant que voie de l’ombres, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
@@ -144,7 +144,7 @@ Les dégâts supplémentaires que vous infligez évoluent au fur et à mesure qu
 À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez faire une action bonus à chacun de vos tours de combat. Par contre, cette action ne peut être utilisée que pour accomplir les actions se précipiter, se désengager ou se cacher.
 ### Archétype sournois
 Au niveau 3, vous choisissez un archétype .   
-[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre3.jpeg) 
+[![Voie de l'ombre](https://www.douaratil.fr/illustrations/regles/voiedelombre3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelombre3.jpeg)
 ### Esquive instinctive
 À partir du niveau 5, quand un attaquant que vous pouvez voir réussit une attaque contre vous, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts causés par cette attaque en lieu et place d’une parade ou d’une esquive.
 ### Dérobade
@@ -166,7 +166,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 *Tant à apprendre et si peu de temps à vivre. J'ai passé mon existence dans une bibliothèque... et je ne sais rien.*         
 **Orogos l'archimage**   
 §§§   
-[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies.jpeg) 
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies.jpeg)
 |Niveau|Points d'Action cumulés|Aptitudes|Points de Magie ou de Foi cumulés|
 |:-:|:-:|:-:|:-:|
 |**1**|+2|[Incantations](#incantations), [Loi primordiale](#loi-primordiale), [Duel Arcanique](#duel-arcanique) [Restauration magique (1d6)](#restauration-magique)|+4|
@@ -192,7 +192,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez attendre de terminer 
 Parmi les trois voie proposées, la voie de la magie correspond à toutes les voies tournées vers les arts de la magie et des religions. A partir du niveau 3, le personnage doit choisir un archétype en respectant les restrictions.
 Le bonus de maîtrise du personnage de départ est de +2.
 D’autre part, comme il est indiqué pour la modulation des caractéristiques, le personnage augmente ses caractéristiques de 2 points (ou 2 fois 1 point) tous les niveaux pairs et de 1 point tous les niveaux impairs après le niveau 1.   
-[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies2.jpeg) 
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie2300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagies2.jpeg)
 ## Aptitudes de classe
 En tant que voie de la magie, vous bénéficiez des aptitudes résumées dans le tableau.
 ### Points d’action
@@ -210,8 +210,8 @@ En tant que voie de la magie, vous bénéficiez des aptitudes résumées dans le
 En tant qu'étudiant de la voie de la magie, vous pourrez incanter afin de participer à des rituels qui permettront de lancer des sorts ou dire des prières qui ne sont qu'un premier pas vers la véritable puissance. Lorsque vous choisirez l’archétype au niveau 3, votre magie puisera sa source soit dans les points de magie (PM) basé sur la caractéristique intelligence ou les points de foi (PF) basé sur la caractéristique sagesse. Votre archétype devrait définir votre source primaire et votre source secondaire. Vous gagnerez 4 points PM ou PF par niveau. Certains archétypes peuvent bousculer cette loi. Ils sont appelés "hybrides" (cf: Sohoten).  
 
 ### Loi primordiale  
-"Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourageinterdit un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les dieux n’aiment pas voir leur investissement se nuire et se détruire. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis. Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.    
-Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.perd en effet tous ses pouvoirs magiques pour la durée d'une lune. S'il réitère, la sanction est de trois lunes (1 trimestre), puis 1 cycle (1 an).Même les plus vils utilisateurs de la voie de la magie sont soumisamenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.   
+"Les loups ne se dévorent pas entre eux". Ainsi en va t'il des manipulateurs de la voie de la magie. Il existe un code d'honneur immémorial qui décourage un mage d'utiliser des sorts contre un autre utilisateur de la voie de la magie. Certains disent que les dieux n’aiment pas voir leur investissement se nuire et se détruire. L'utilisateur de la voie de la magie évite même les sorts de zone qui pourraient blesser directement ou indirectement un adversaire utilisateur de la voie de la magie. C'est pourquoi, souvent les utilisateurs de la voie de la Magie s'en prennent aux compagnons de son adversaire. Et dans ce cas, tous les coups sont permis. Cette règle permet aux utilisateurs de la voie de la Magie de se côtoyer ou de se rencontrer sans craindre une traitrise. cette loi est respectée car l'enfreindre entraine des conséquences terribles. En effet, un ancien sortilège, ou bien un pacte, ou encore la décision des dieux, sanctionne l'utilisateur de la magie qui enfreint cette loi. En punition, l’agresseur il reçoit un désavantage contre son adversaire alors que l’agressé reçoit un avantage. D’autre part, les plus puissants qui s’attaquent aux plus faibles ne sont pas récompensés. Si l’agressé est d’un niveau inférieur, il obtient un bonus à ses jets de dés égal à la différence de niveau.    
+Enfin, si un agresseur tue son adversaire, il reçoit une marque magique, reconnaissable par toute personne empruntant la voie de la magie. On appelle cette marque, le sceau du tueur de mage.Même les plus vils utilisateurs de la voie de la magie sont amenés à respecter la loi primordiale.En échange, les utilisateurs de la voie de la magie s'identifient entre eux au premier regard.   
 
 ### Duel arcanique  
 En respectant la loi primordiale, les utilisateurs de la voie de la magie peuvent s'affronter en utilisant leur puissance dans ce qui est communément nommé **duel arcanique**.  
@@ -224,7 +224,7 @@ Une personne qui intervient ou touche un duelliste durant l'affrontement subit u
 Vous avez appris comment regagner une partie de votre énergie magique en étudiant. Une fois par jour, à la fin d'un [_repos court_](/gerer-la-sante-du-personnage/#repos-court), vous pouvez choisir de récupérer les points de magie ou de foi utilisés. Vous récupérez 1d6 tous les Trois niveaux du personnage (1, 4, 7, 10, 13, 16 & 19). Vous devez choisir quelle catégorie de point bénéficie de cette restauration.
 ### Archétype arcanique
 Au niveau 3, vous choisissez un archétype .    
-[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagie3.jpeg) 
+[![Voie de la magie](https://www.douaratil.fr/illustrations/regles/voiedelamagie3300.jpeg)](https://www.douaratil.fr/illustrations/regles/voiedelamagie3.jpeg)
 ### Maîtrise des sorts
 Au niveau 18, vous avez acquis une telle maîtrise de certains rituels que vous pouvez les lancer à volonté. Choisissez deux rituels de novice que vous pouvez utiliser à volonté.
 Vous pouvez échanger l'un de ces rituels ou les deux pour des rituels de même niveau en passant 8 heures à étudier.
