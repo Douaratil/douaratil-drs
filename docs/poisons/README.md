@@ -41,9 +41,6 @@ Les poisons se divisent en quatre catégories d'utilisation et
 | [**Torpeur**](#torpeur-ingestion) | ingestion | musculaire | 600 po |
 | [**Venin de serpent**](#venin-de-serpent-blessure) | blessure | musculaire| 200 po |
 
-
-| [**Poison de vouivre**](#poison-de-vouivre-blessure) | blessure | 1200 po |
-
 ## Exemples de poisons
 Chaque poison possède ses propres effets débilitants.
 

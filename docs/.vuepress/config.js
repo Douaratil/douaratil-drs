@@ -629,11 +629,6 @@ module.exports = {
                 path: '/maladies/'
               },
               {
-                title: "Les poisons",
-                icon: 'mdi-mushroom',
-                path: '/poisons/'
-              },
-              {
                 title: "La santé mentale (SAM)",
                 icon: 'mdi-head-snowflake',
                 path: '/sante-mentale/'
@@ -705,6 +700,22 @@ module.exports = {
             title: "Les plans",
             icon: 'mdi-soundcloud',
             path: '/les-plans/'
+          },
+          {
+            title: "Les poisons",
+            icon: 'mdi-mushroom',
+            children:[
+              {
+                title: "Présentation poisons",
+                icon: 'mdi-test-tube',
+                path: '/poisons/'
+              },
+              {
+                title: "Intoxicants",
+                icon: 'mdi-cannabis',
+                path: '/poisons/intoxicants/'
+              },
+            ]
           },
           {
             title: "La réputation",

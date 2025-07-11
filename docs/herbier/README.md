@@ -38,8 +38,6 @@ Une personne sous addiction a des troubles de comportement et subit les effets d
 ### Facteur d'intoxication
 Certaines plantes ou substances peuvent entraîner des effets indésirables si elles sont consommées en surdose ou pire que le produit n'est pas consommable et que son utilisation ait été incomprise. Chaque fois qu'un produit est ingéré, inhalé (qu'il pénètre dans l'organisme) le facteur d'intoxication est cumulé (additionné). Si le facteur d'intoxication dépasse la valeur de constitution, des effets indésirables peuvent apparaître et un test de 3d6 sous caractéristique de constitution (CON). Si le test est supérieur se référer à la table ci-dessous (lancer 1d6).
 
-
-
 | Si 3d6+intox>CON|Effet | Description |  
 |:-|:-:|:-:|
 |1| Crampes abdominales | 1d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales|  
@@ -48,7 +46,6 @@ Certaines plantes ou substances peuvent entraîner des effets indésirables si e
 |4| Vomissements | 1d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales & physiques, ajout d'un niveau d'épuisement |  
 |5| Diarrhées | 2d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales & physiques, ajout d'un niveau d'épuisement |  
 |6+|La totale (fièvre, étourdissements, vomissements, diarrhées) | 1d6 heures [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) compétences sociales & physiques & [_étourdi_](/gerer-la-sante-du-personnage/#etourdi), ajout de deux niveaux d'épuisement|  
-
 
 L'intoxication diminue progressivement au bout de 6 heures. La valeur d'intoxication diminue d'un minimum de 1 et d'un maximum équivalent au bonus de caractéristique de constitution (CON), toutes les heures après 6 heures.
 

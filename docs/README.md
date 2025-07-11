@@ -21,12 +21,24 @@ Visites:
 ![Mise à jour 235](https://www.douaratil.fr/illustrations/site/maj235.jpeg)     
 
 **Règles:**   
-- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)
+- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)   
+
+**Poisons:**
+- Ajout de la section [Intoxicants](/poisons/intoxicants)   
+- Ajout de la [racine d'Arhuna](/poisons/intoxicants/#arhuna)  
+- Ajout de la [fleur de Brokilb](/poisons/intoxicants/#brokilb)   
+- Ajout de la [feuille de Chtuh](/poisons/intoxicants/#chtuh)   
+- Ajout de la [feuille de Galenas](/poisons/intoxicants/#galnass)   
+- Ajout de la [feuille de Garth](/poisons/intoxicants/#garth)   
+- Ajout de la [feuille d'Hakfor](/poisons/intoxicants/#hakfor)   
+- Ajout de la [racine d'Hagarh](/poisons/intoxicants/#hagarh)   
+- Ajout de la [feuille de Neklyss](/poisons/intoxicants/#neklyss)   
+- Ajout de l'[herbe de Takma](/poisons/intoxicants/#takma)   
 
 Bon jeu à tous.
 §§§ .text-right
 _**Olivier**_,  
-_le 10 juillet 2025_
+_le 11 juillet 2025_
 §§§
 
 ## Mise à jour 234
