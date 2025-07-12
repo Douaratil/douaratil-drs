@@ -86,7 +86,7 @@ module.exports = {
     [
       'sitemap',
       {
-        hostname: 'https://heros-et-dragons.fr'
+        hostname: 'https://douaratil.fr'
       }
     ],
     // [
@@ -191,8 +191,8 @@ module.exports = {
     domain: 'https://douaratil.fr',
     repository: 'https://github.com/douaratil/douaratil-drs',
     kofi: 'https://ko-fi.com/douaratil',
-    twitter: 'https://twitter.com/douaratil',
-    discord: 'https://discord.gg/vRXeVwrNvK',
+    //twitter: 'https://twitter.com/douaratil',
+    discord: 'https://discord.gg/anJm4ugn',
     primaryColor: '#4D5153', // Hero
     accentColor: '#293E4D', // Dragon
     searchPlaceholder: 'Recherche',
@@ -714,6 +714,11 @@ module.exports = {
                 title: "Intoxicants",
                 icon: 'mdi-cannabis',
                 path: '/poisons/intoxicants/'
+              },
+              {
+                title: "Circulatoires",
+                icon: 'mdi-liquid-spot',
+                path: '/poisons/circulatoires/'
               },
             ]
           },

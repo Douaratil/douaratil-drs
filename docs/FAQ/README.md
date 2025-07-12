@@ -13,7 +13,7 @@ title: "Questions & réponses"
 *Mais Douaratil est "mon" monde et j'y ai investi un temps énorme. Comme dirais mon ami David, c'est un travail de romain (Il sait de quoi il parle car il a écrit son propre jeu de rôle et y travaille depuis des années : [RULES](https://jeurules.wordpress.com)). Ce qui fait l'âme de Douaratil reste donc ma propriété et seuls mes enfants en deviendront les propriétaires.*   
 
 ### Est-il possible de contribuer?  
-*Il est bien évidemment possible de contribuer en me contactant par exemple sur le canal [Discord](https://discord.gg/vRXeVwrNvK) ou sur [Twitter](https://twitter.com/douaratil). Pour une aide financière, vous pouvez utiliser [Kofi](https://ko-fi.com/douaratil).*
+*Il est bien évidemment possible de contribuer en me contactant par exemple sur le canal [Discord](https://discord.gg/anJm4ugn) ou sur [Twitter](https://twitter.com/douaratil). Pour une aide financière, vous pouvez utiliser [Kofi](https://ko-fi.com/douaratil).*
 *Certaines personnes ont déjà contribué. Il y a Yannick pour les brainstormings, David pour la description de nombreux peuples (Oynours, Meldètes et Melgs), Elric pour la description de sorts, des dieux primaires et intermédiaires ou encore George pour des sorts et les règles de commerce.*
 *J'accueillerai avec intérêt vos idées.*
 

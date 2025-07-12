@@ -17,6 +17,23 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## Mise à jour 236
+![Mise à jour 236](https://www.douaratil.fr/illustrations/site/maj236.jpeg)     
+
+**Règles:**   
+- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)   
+
+**Poisons:**
+- Ajout de la section [Circulatoires](/poisons/circulatoires) dans poisons.   
+- Ajout de la [fleur de Carghenouth](/poisons/circulatoires/#carghenouth)  
+- Ajout de la [fleur de Yegharouth](/poisons/circulatoires/#yegharouth)  
+
+Bon jeu à tous.
+§§§ .text-right
+_**Olivier**_,  
+_le 12 juillet 2025_
+§§§
+
 ## Mise à jour 235
 ![Mise à jour 235](https://www.douaratil.fr/illustrations/site/maj235.jpeg)     
 
