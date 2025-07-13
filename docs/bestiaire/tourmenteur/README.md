@@ -1,5 +1,5 @@
 ---
-title: "Shakhu"
+title: "Tourmenteur"
 type: "Fiélon"
 subtype: "Démon"
 size: "G"
@@ -39,24 +39,24 @@ languages:
 telepathy: 36
 
 ---
-## Shakhu
+## Tourmenteur
 &nbsp;
-[![Shakhu](https://www.douaratil.fr/illustrations/fielon/shakhum.png)](https://www.douaratil.fr/illustrations/fielon/shakhu.jpg)
+[![Tourmenteur](https://www.douaratil.fr/illustrations/fielon/tourmenteur300.jpeg)](https://www.douaratil.fr/illustrations/fielon/tourmenteur.jpeg)    
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 25, réussite 5, échec 3d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 21            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Incantation innée**_. La caractéristique d'incantation du Shakhu est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Le Shakhu peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+_**Incantation innée**_. La caractéristique d'incantation du Tourmenteur est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Le Tourmenteur peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/), [_ténèbres_](/grimoire/tenebres/)
 * _**1/jour chacun**_ : [_confusion_](/grimoire/confusion/), [_mot de pouvoir étourdissant_](/grimoire/mot-de-pouvoir-etourdissant/)
 
-_**Résistance à la magie**_. Le Shakhu obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
+_**Résistance à la magie**_. Le Tourmenteur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts et autres effets magiques.
 
 ## Actions
-_**Attaques multiples**_. Le Shakhu effectue quatre attaques : deux avec ses pinces et deux avec ses poings. Sinon, il effectue deux attaques avec ses pinces et lance un sort.
+_**Attaques multiples**_. Le Tourmenteur effectue quatre attaques : deux avec ses grandes pattes et deux avec ses poings. Sinon, il effectue deux attaques avec ses grandes pattes et lance un sort.
 
-_**Pince**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 4d6+1 dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Le Shakhu a deux pinces dont chacune peut empoigner qu'une seule créature.
+_**Grandes pattes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une cible.  
+_Touché_ : 4d6+1 dégâts contondants. Si la cible est une créature de taille M ou plus petite, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Le Tourmenteur a deux grandes pattes dont chacune peut empoigner qu'une seule créature.
 
 _**Poing**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6 dégâts contondants.

@@ -17,46 +17,94 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
-## Mise à jour 236
-![Mise à jour 236](https://www.douaratil.fr/illustrations/site/maj236.jpeg)     
 
-**Règles:**   
-- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)   
+## ✧ Mise à jour 237 ✧
 
-**Poisons:**
-- Ajout de la section [Circulatoires](/poisons/circulatoires) dans poisons.   
-- Ajout de la [fleur de Carghenouth](/poisons/circulatoires/#carghenouth)  
-- Ajout de la [fleur de Yegharouth](/poisons/circulatoires/#yegharouth)  
+![Mise à jour 237](https://www.douaratil.fr/illustrations/site/maj237.jpeg)
 
-Bon jeu à tous.
+### 🐉 **Bestiaire – Noms oubliés, noms révélés**
+
+Le bestiaire se réveille, des formes se précisent, d'autres s'effacent. Le voile se soulève sur de nouveaux visages, tandis que d'anciens masques tombent…
+
+* **Apparition** : la démone [**Syr'Lazeth**](/bestiaire/syrlazeth) fait son entrée. Assassin tatouée de runes vivantes, elle glisse entre les dimensions comme une lame entre les côtes.
+* **Nouvel avatar du feu** : le redouté **Shakhakheh** révèle son véritable nom : [**Pyrrhôn**](/bestiaire/pyrrhon), porteur de chaleur maudite et de dévastation flamboyante.
+* **Mutation douloureuse** : le [**Shaku**](/bestiaire/tourmenteur) abandonne sa carcasse pour devenir le **Tourmenteur**, incarnation du supplice psychique.
+* **Mise à jour visuelle** : [**Shandoth**](/bestiaire/shandoth) change de visage, plus proche de sa vraie nature cauchemardesque.
+* **Transformation abjecte** : le [**Shasheskie**](/bestiaire/truie-sorciere-des-fosses) s’enfonce dans l’ignominie pour renaître en **Truie-sorcière des Fosses**, matrone infâme des rituels fangeux.
+* **Nouvelle silhouette** : [**Sheggothlil**](/bestiaire/sheggothlil) arbore une illustration inédite, aussi perturbante qu’hypnotique.
+
+**Les noms changent. Les horreurs, elles, demeurent.**
+
+_**Olivier**_,  
+_le 13 juillet 2025_  
+</div>
+
+---
+
+Souhaites-tu une bannière ou une phrase accrocheuse pour le relai sur les réseaux ou l’accueil du site ?
+
+
+§§§ .text-right
+_**Olivier**_,  
+_le 13 juillet 2025_
+§§§
+
+## ✧ Mise à jour 236 ✧
+
+![Mise à jour 236](https://www.douaratil.fr/illustrations/site/maj236.jpeg)
+
+### ☠️ **Poisons — Section Circulatoires**
+
+Le sang, fleuve de vie, devient ici vecteur de péril.
+Une nouvelle branche des poisons s’ouvre : la catégorie [**Circulatoires**](/poisons/circulatoires), regroupant des toxines insidieuses qui infiltrent les veines pour mieux trahir le corps.
+
+Découvrez ces sept agents de corruption :
+
+* [**Fleur de Carghenouth**](/poisons/circulatoires/#carghenouth) : son parfum suave dissimule une attaque lente du cœur.
+* [**Baie de Charduvaq**](/poisons/circulatoires/#charduvaq) : son jus sombre altère le rythme sanguin jusqu’à l’épuisement.
+* [**Racine de Chaquassar**](/poisons/circulatoires/#Chaquassar) : absorbe les forces comme une éponge le sang.
+* [**Racine de Klitoune**](/poisons/circulatoires/#klitoune) : insidieuse, elle affaiblit les membres un à un.
+* [**Fleur de Safher**](/poisons/circulatoires/#safher) : dissimule ses effets sous une torpeur agréable.
+* [**Fleur de Yegharouth**](/poisons/circulatoires/#yegharouth) : rare, volatile, et particulièrement dangereuse pour les porteurs de magie.
+
+Ces substances élargissent le savoir des alchimistes… ou les moyens des empoisonneurs.
+**À manier avec science — ou malveillance.**
 §§§ .text-right
 _**Olivier**_,  
 _le 12 juillet 2025_
 §§§
 
-## Mise à jour 235
-![Mise à jour 235](https://www.douaratil.fr/illustrations/site/maj235.jpeg)     
+## ✧ Mise à jour 235 ✧
 
-**Règles:**   
-- Corrections de coquilles dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale)   
+![Mise à jour 235](https://www.douaratil.fr/illustrations/site/maj235.jpeg)
 
-**Poisons:**
-- Ajout de la section [Intoxicants](/poisons/intoxicants)   
-- Ajout de la [racine d'Arhuna](/poisons/intoxicants/#arhuna)  
-- Ajout de la [fleur de Brokilb](/poisons/intoxicants/#brokilb)   
-- Ajout de la [feuille de Chtuh](/poisons/intoxicants/#chtuh)   
-- Ajout de la [feuille de Galenas](/poisons/intoxicants/#galnass)   
-- Ajout de la [feuille de Garth](/poisons/intoxicants/#garth)   
-- Ajout de la [feuille d'Hakfor](/poisons/intoxicants/#hakfor)   
-- Ajout de la [racine d'Hagarh](/poisons/intoxicants/#hagarh)   
-- Ajout de la [feuille de Neklyss](/poisons/intoxicants/#neklyss)   
-- Ajout de l'[herbe de Takma](/poisons/intoxicants/#takma)   
+### ⚖️ **Règles**
 
-Bon jeu à tous.
+Les arcanes ont été affinées : quelques coquilles ont été corrigées dans la description de la [loi primordiale de la Voie de la Magie](/voies/#loi-primordiale). Le verbe se fait plus juste, l'intention plus claire.
+
+### ☠️ **Poisons — Section Intoxicants**
+
+Un vent d'effluves capiteux souffle sur les terres de Douaratil…
+La nouvelle section [**Intoxicants**](/poisons/intoxicants) ouvre ses portes, apportant avec elle une panoplie de substances végétales aux effets subtils, troublants, parfois mortels :
+
+* [**Racine d'Arhuna**](/poisons/intoxicants/#arhuna) : ses fibres contiennent des secrets que même les herboristes chuchotent.
+* [**Fleur de Brokilb**](/poisons/intoxicants/#brokilb) : belle et traîtresse, elle séduit avant d'endormir la volonté.
+* [**Feuille de Chtuh**](/poisons/intoxicants/#chtuh) : une brume de confusion pour les esprits les plus lucides.
+* [**Feuille de Galenas**](/poisons/intoxicants/#galnass) : légère, mais traîtresse, elle altère le discernement.
+* [**Feuille de Garth**](/poisons/intoxicants/#garth) : prisée des mages noirs, elle exacerbe les perceptions.
+* [**Feuille d'Hakfor**](/poisons/intoxicants/#hakfor) : provoque des rêves vifs et parfois… prophétiques.
+* [**Racine d'Hagarh**](/poisons/intoxicants/#hagarh) : âcre, elle forge une lente dépendance.
+* [**Feuille de Neklyss**](/poisons/intoxicants/#neklyss) : un poison doux qui érode l’âme.
+* [**Herbe de Takma**](/poisons/intoxicants/#takma) : rare, sacrée, et dangereusement euphorisante.
+
+À manipuler avec prudence, ou à confier aux mains expertes des alchimistes et herboristes de l’ombre...
+
+**Bon jeu à toutes et tous, que les vents de Douaratil vous soient favorables.**
 §§§ .text-right
 _**Olivier**_,  
-_le 11 juillet 2025_
+_le 11 juillet 2025_  
 §§§
+
 
 ## Mise à jour 234
 ![Mise à jour 234](https://www.douaratil.fr/illustrations/site/maj234.jpeg)     
@@ -73,123 +121,6 @@ Bon jeu à tous.
 _**Olivier**_,  
 _le 28 juin 2025_
 §§§
-
-## Mise à jour 233
-![Mise à jour 233](https://www.douaratil.fr/illustrations/site/maj233.jpeg)     
-
-**Atlas:**   
-- Description de la cité de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh/)  
-
-**Archétypes:**   
-- Modification de la présentation de l'[Adoshaï](/archetypes/adoshai)    
-- Modification de la présentation de l'[Alkahim](/archetypes/alkahim)   
-- Modification de la présentation de l'[Amaznoios](/archetypes/amaznoios)     
-
-**Bestiaire:**    
-- Ajout du [Saskhrul](/bestiaire/saskhrul)     
-
-**Grimoire:**    
-- Ajout [Invoquer le Saskhrul](/grimoire/invoquer-le-saskhrul)  
-
-**Personnages**    
-- Création de [Aksim Al Ansari](/bestiaire/aksim-al-ansari).    
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 24 novembre 2024_
-§§§
-
-## Mise à jour 232
-![Mise à jour 232](https://www.douaratil.fr/illustrations/site/maj232.jpeg)     
-
-J'ai créé deux nouveaux Archétypes, un Minghour pour David et un Lacède pour Elric. En espérant qu'ils vous plaisent.
-
-**Site :**   
-- Réorganisation de la page de [présentation des Archétypes](/archetypes/1-presentation)
-
-**Archétypes:**   
-- Ajout du [Huoyanzhanshi](/archetypes/huoyanzhanshi)
-- Ajout du [Phýlaxtéphras](/archetypes/phylaxtephras)
-
-**Herbier :**   
-- ajout du [Pain d'Alshana](/herbier/nourritures-speciales/#pain-d-alshana)    
-- ajout du [Pain de Cram](/herbier/nourritures-speciales/#pain-de-cram)    
-- ajout du [Pain d’Hesguratu](/herbier/nourritures-speciales/#pain-d-hesguratu)    
-- ajout du [Pain de Kykykyl](/herbier/nourritures-speciales/#pain-de-kykykyl)    
-- ajout du [Pain de Tatharsul](/herbier/nourritures-speciales/#pain-de-tatharsul)    
-- ajout du [Pain d’Ulginor](/herbier/nourritures-speciales/#pain-d-ulginor)  
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 20 novembre 2024_
-§§§
-
-## Mise à jour 231
-![Mise à jour 231](https://www.douaratil.fr/illustrations/site/maj231.jpeg)     
-
-**Site**:
-- Suppression des pages Coffee et Typee, ainsi que de la librairie. On reste concentré sur le JDR.
-
-**Archétypes:**   
-- Ajout des illustrations du [vitnar](/archetypes/vitnar)
-
-**Personnages**    
-- Création de [Galenos Phokas Demosios](/bestiaire/galenos-phokas-demosios).    
-
-**Bestiaire :**   
-- Changement d'illustration du [serpent constricteur](/bestiaire/serpent-constricteur)   
-- Changement d'illustration du [serpent constricteur géant](/bestiaire/serpent-constricteur-geant)   
-- Changement d'illustration du [serpent venimeux](/bestiaire/serpent-venimeux)   
-- Changement d'illustration du [serpent venimeux géant](/bestiaire/serpent-venimeux-geant)   
-- Changement d'illustration du [serpent mer](/bestiaire/serpent-de-mer)   
-- Changement d'illustration du [serpent volant](/bestiaire/serpent-volant)   
-- Changement du shakhor en [sombreflamme](/bestiaire/sombreflamme)   
-- Ajout du [chantenuit](/bestiaire/chantenuit)   
-- Ajout de la [tjyn](/bestiaire/tjyn)   
-
-**Herbier :**   
-- ajout des [cristaux de Lestagyll](/herbier/modifications-de-caracteristiques/#cristaux-de-lestagyll)    
-- ajout de la [corne de Merrigh](/herbier/modifications-de-caracteristiques/#corne-de-merrigh)
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 18 octobre 2024_
-§§§
-
-## Mise à jour 230
-![Mise à jour 230](https://www.douaratil.fr/illustrations/site/maj230.jpeg)     
-
-**Archétypes:**   
-- Ajout de l'Archétype de l'[Amaznoios](/archetypes/amaznoios), guerrière lacède.   
-- Ajout de l'Archétype de la [Consulate](/archetypes/consulate), prêtresse ambassadrice alcante.   
-- Correction de l'[Otaganha](/archetypes/otaganha)
-- Ajout des illustrations du [zhongdhou](/archetypes/zhongdhou)
-
-**Site:**   
-- Correction des modifications de la loi primordiale pour les personnages dans le bestiaire.
-- Correction de lien pour l'illustration du personnage [Sedida Kerbrat](/bestiaire/sedida-kerbrat)   
-
-**Personnages**    
-- Création de [Gahaelar Taeldaerys](/bestiaire/gahaelar-taeldaerys).    
-
-**Bestiaire :**   
-- Ajout de l'[oniginath](/bestiaire/oniginath)   
-- Ajout du [puma](/bestiaire/puma)
-- Changement d'illustration de [sathyakurm-de](/bestiaire/sathyakurm-de)       
-- Changement d'illustration du [scorpion](/bestiaire/scorpion)   
-- Changement d'illustration du [scorpion géant](/bestiaire/scorpion-geant)   
-- Changement d'illustration du [scorpion nocturne](/bestiaire/scorpion-nocturne)   
-- Changement d'illustration du [scorpion stygien](/bestiaire/scorpion-stygien)   
-
-Bon jeu.     
-§§§ .text-right
-_**Olivier**_,  
-_le 10 octobre 2024_
-§§§
-
 
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 
