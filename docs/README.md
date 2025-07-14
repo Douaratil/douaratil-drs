@@ -17,6 +17,18 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 238 ✧
+
+![Mise à jour 238](https://www.douaratil.fr/illustrations/site/maj238.jpeg)
+
+**Bestiaire**   
+- Modification du Shekhuii en [Calcineur](/bestiaire/calcineur)
+- Modification du Shokh en [Neshur](/bestiaire/neshur)
+§§§ .text-right
+_**Olivier**_,  
+_le 13 juillet 2025_
+§§§
+
 
 ## ✧ Mise à jour 237 ✧
 
