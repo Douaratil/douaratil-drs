@@ -31,7 +31,7 @@ environments:
 ---
 ## Spinosaure jeune
 &nbsp;
-[![Spinosaure jeune](https://www.douaratil.fr/illustrations/bete/spinosaurejeunem.png)](https://www.douaratil.fr/illustrations/bete/spinosaurejeune.jpg)  
+[![Spinosaure jeune](https://www.douaratil.fr/illustrations/bete/spinosaurejeune300.jpeg)](https://www.douaratil.fr/illustrations/bete/spinosaurejeune.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      
 ## Action

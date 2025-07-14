@@ -34,7 +34,7 @@ environments:
 ---
 ## Titanoboa
 &nbsp;
-[![Titanoboa](https://www.douaratil.fr/illustrations/bete/titanoboam.png)](https://www.douaratil.fr/illustrations/bete/titanoboa.jpg)    
+[![Titanoboa](https://www.douaratil.fr/illustrations/bete/titanoboa300.jpeg)](https://www.douaratil.fr/illustrations/bete/titanoboa.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 22       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
@@ -52,6 +52,6 @@ _**Comprimer**_. _Attaque d'arme au corps à corps_ : +12 pour toucher, allonge 
 _Touché_ : 6d6+8 dégâts contondants et la cible est _empoignée_ (évasion DD 18). La cible est _entravée_ et le titanoboa incapable d'en comprimer une autre tant que l'empoignade se poursuit.
 
 §§§ .hero
-"*J’ai souvent eu peur, mais ce jour là je dois avouer que j’ai vraiment eu très peur lorsque ce gigantesque animal a bondit sur ma monture et moi-même. Les dieux soient loués, ma monture était plus appétissante que votre pauvre serviteur. Ce serpent vert titanesque dresse son énorme tête dans les airs, à plus de dix huit pieds de haut. Son corps s’étend en anneaux apparemment qui se perdent entre les arbres et les broussailles. Lorsque l’animal fut abattu par des gens de mon escorte, je peu constater que le monstre mesurait au bas mot soixante douze pieds de long pour un minimum de six mille livres.*"     
+"*J’ai souvent eu peur, mais ce jour là je dois avouer que j’ai vraiment eu très peur lorsque ce gigantesque animal a bondit sur ma monture et moi-même. Les dieux soient loués, ma monture était plus appétissante que votre pauvre serviteur. Ce serpent vert titanesque dresse son énorme tête dans les airs, à plus de dix huit pieds de haut. Son corps s’étendait en anneaux apparemment qui se perdaient entre les arbres et les broussailles. Lorsque l’animal fut abattu par des gens de mon escorte, j'ai pu constater que le monstre mesurait au bas mot soixante douze pieds de long pour un minimum de six mille livres.*"     
 **Souvenirs de Brycham l'Aventureux**
 §§§

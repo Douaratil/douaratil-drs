@@ -30,7 +30,7 @@ environments:
 ---
 ## Tyrannosaure
 &nbsp;
-[![Tyrannosaure](https://www.douaratil.fr/illustrations/bete/tyrannosaurem.png)](https://www.douaratil.fr/illustrations/bete/tyrannosaure.jpg)    
+[![Tyrannosaure](https://www.douaratil.fr/illustrations/bete/tyrannosaure300.jpeg)](https://www.douaratil.fr/illustrations/bete/tyrannosaure.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20      
 ## Actions

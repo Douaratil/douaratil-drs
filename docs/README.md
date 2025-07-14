@@ -21,12 +21,32 @@ Visites:
 
 ![Mise à jour 238](https://www.douaratil.fr/illustrations/site/maj238.jpeg)
 
-**Bestiaire**   
-- Modification du Shekhuii en [Calcineur](/bestiaire/calcineur)
-- Modification du Shokh en [Neshur](/bestiaire/neshur)
+### 🐾 **Bestiaire – Cendres, oubli et nouvelles peaux**
+
+Le vent tourne sur les terres de Douaratil. Certains noms tombent dans l’oubli, remplacés par des vérités plus tranchantes. D’autres se parent d’un nouveau visage, plus fidèle à ce qu’ils sont vraiment dans les brumes du mythe ou les fosses de la mémoire.
+
+* Le mystérieux **Shekhuii** devient désormais le [**Calcineur**](/bestiaire/calcineur), figure de feu et de dissolution.
+* Le [**Shokh**](/bestiaire/neshur) se dépouille de son ancienne forme pour renaître sous le nom de **Neshur**, esprit de murmure et de poussière.
+* Le [**Shookash**](/bestiaire/loupan) se transforme en **Loupan**, entité bestiale à l’intelligence rusée.
+* Le [**Shukhakh**](/bestiaire/grabataire) prend le nom de **Grabataire**, incarnation vacillante du déclin et de la malédiction sénile.
+
+Et du côté des représentations visuelles, plusieurs créatures reçoivent un nouveau reflet :
+
+* [**Silhouette de sable**](/bestiaire/silhouette-de-sable)
+* [**Singe géant**](/bestiaire/singe-geant)
+* [**Spectre**](/bestiaire/spectre)
+* [**Spinosaure**](/bestiaire/spinosaure)
+* [**Spinosaure jeune**](/bestiaire/spinosaure-jeune)
+* [**Titanoboa**](/bestiaire/titanoboa)
+* [**Torunn Vertlithidottir**](/bestiaire/torunn-vertlithidottir)
+* [**Tricératops**](/bestiaire/triceratops)
+* [**Tyrannosaure**](/bestiaire/tyrannosaure)
+
+**Les noms changent, les ombres s’affinent, les visages se précisent. Douaratil continue de muer.**
+
 §§§ .text-right
 _**Olivier**_,  
-_le 13 juillet 2025_
+_le 14 juillet 2025_
 §§§
 
 

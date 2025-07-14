@@ -30,7 +30,7 @@ environments:
 ---
 ## Tricératops
 &nbsp;
-[![Tricératops](https://www.douaratil.fr/illustrations/bete/triceratopsm.png)](https://www.douaratil.fr/illustrations/bete/triceratops.jpg)  
+[![Tricératops](https://www.douaratil.fr/illustrations/bete/triceratops300.jpeg)](https://www.douaratil.fr/illustrations/bete/triceratops.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19       
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

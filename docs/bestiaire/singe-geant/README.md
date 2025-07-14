@@ -32,7 +32,7 @@ environments:
 ---
 ## Singe géant
 &nbsp;
-[![Singe géant](https://www.douaratil.fr/illustrations/bete/singegeantm.png)](https://www.douaratil.fr/illustrations/bete/singegeant.jpg)  
+[![Singe géant](https://www.douaratil.fr/illustrations/bete/singegeant300.jpeg)](https://www.douaratil.fr/illustrations/bete/singegeant.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## Actions

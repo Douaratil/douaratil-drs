@@ -60,11 +60,11 @@ skills:
 movement:
   walk: 9
 languages:
-  - le Weslèdh (3/1), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0)"
+  - le Weslèdh (3/1), le Melg/Bergaf (3/1), le Zorkhan (3/1), l'Alcane/Alcath (2/0)
 ---
 ## Torunn Vertlithidottir
 &nbsp;
-[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottirm.png)](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir.jpg)  
+[![Torunn Vertlithidottir  ](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir300.jpeg)](https://www.douaratil.fr/illustrations/pj/torunnvertlithidottir.jpeg)  
 **<v-icon>mdi-head-sync</v-icon> Santé mentale (SAM)**: 25    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15     
