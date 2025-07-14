@@ -35,15 +35,6 @@ Le bestiaire se réveille, des formes se précisent, d'autres s'effacent. Le voi
 
 **Les noms changent. Les horreurs, elles, demeurent.**
 
-_**Olivier**_,  
-_le 13 juillet 2025_  
-</div>
-
----
-
-Souhaites-tu une bannière ou une phrase accrocheuse pour le relai sur les réseaux ou l’accueil du site ?
-
-
 §§§ .text-right
 _**Olivier**_,  
 _le 13 juillet 2025_
