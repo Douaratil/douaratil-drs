@@ -42,7 +42,7 @@ dungeonTypes:
 ---
 ## Udasaur
 &nbsp;
-[![Udasaur](https://www.douaratil.fr/illustrations/creature-monstrueuse/udasaurm.png)](https://www.douaratil.fr/illustrations/creature-monstrueuse/udasaur.jpg)  
+[![Udasaur](https://www.douaratil.fr/illustrations/creature-monstrueuse/udasaur300.jpeg)](https://www.douaratil.fr/illustrations/creature-monstrueuse/udasaur.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 20    
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

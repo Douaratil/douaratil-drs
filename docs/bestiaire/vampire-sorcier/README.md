@@ -36,6 +36,9 @@ dungeonTypes:
   - Donjon maçonné
 
 ---
+## Vampire sorcier
+&nbsp;
+[![Vampire sorcier](https://www.douaratil.fr/illustrations/mort-vivant/vampiresorcier300.jpeg)](https://www.douaratil.fr/illustrations/mort-vivant/vampiresorcier.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 29, réussite 6, échec 3d6+3.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19      

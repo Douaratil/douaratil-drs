@@ -17,6 +17,51 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 240 ✧
+
+![Mise à jour 240](https://www.douaratil.fr/illustrations/site/maj240.jpeg)
+
+**Bestiaire**
+- Ajout de [Thal'zhûn](/bestiaire/thalzhun)    
+- Ajout de la [Mélusmire](/bestiaire/melusmire)    
+
+§§§ .text-right
+_**Olivier**_,  
+_le 17 juillet 2025_
+§§§
+
+## ✧ Mise à jour 239 ✧
+
+![Mise à jour 239](https://www.douaratil.fr/illustrations/site/maj239.jpeg)
+
+### 🌐 **Site – Le temps retrouve ses marques**
+
+La [**chronologie**](/chronologie) de Douaratil se dresse désormais **au cœur même du site**. Fini les renvois extérieurs : les âges, les dates, les lignées et les fractures de l’histoire sont désormais accessibles en un seul lieu, et enrichis de **nouveaux événements**.
+
+Un pas de plus vers un monde cohérent, vivant, traversé de fils temporels tissés avec soin.
+
+### 🐉 **Bestiaire – Nouvelles formes, nouvelles ombres**
+
+* L’[**Udasaur**](/bestiaire/udasaur) s’offre une nouvelle illustration, plus en accord avec sa stature et son étrangeté.
+* Le [**Ulfamadur**](/bestiaire/ulfamadur), créature trouble entre loup et géant, affiche désormais un portrait plus fidèle à sa sauvagerie.
+
+Et du côté des figures vampiriques et des Uh’r, les brumes s’écartent et la forme se précise :
+
+* Apparition des visages du [**Uh’r mage**](/bestiaire/uhr-mage) et du [**Uh’r noir**](/bestiaire/uhr-noir), désormais visibles dans toute leur étrangeté.
+* Trois nouveaux portraits s’ajoutent à la lignée nocturne :
+
+  * Le [**Vampire**](/bestiaire/vampire), dans sa forme la plus brute.
+  * Le [**Vampire Umbral**](/bestiaire/vampire-umbral), créature des limbes et des silences.
+  * Le [**Vampire sorcier**](/bestiaire/vampire-sorcier), alchimiste de sang et maître des sortilèges interdits.
+
+
+**Le passé s’inscrit, les formes s’affinent. Douaratil continue de se dévoiler, image après image, mot après mot.**
+
+§§§ .text-right
+_**Olivier**_,  
+_le 16 juillet 2025_
+§§§
+
 ## ✧ Mise à jour 238 ✧
 
 ![Mise à jour 238](https://www.douaratil.fr/illustrations/site/maj238.jpeg)

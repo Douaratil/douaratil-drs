@@ -1,5 +1,5 @@
 ---
-title: "Ur'h mage"
+title: "Uh'r mage"
 type: "Géant"
 size: "G"
 alignment: "Loyal Mauvais"
@@ -35,20 +35,23 @@ languages:
   - "Ur'h"
 
 ---
+## Uh'r mage
+&nbsp;
+[![Uh'r mage](https://www.douaratil.fr/illustrations/humanoide/uhrmage300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/uhrmage.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 23, réussite 3, échec 1d6+2.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
-_**Armes magiques**_. Les attaques d'arme du Ur'h mage sont magiques.
+_**Armes magiques**_. Les attaques d'arme du Uh'r mage sont magiques.
 
-_**Incantation innée**_. La caractéristique d'incantation du Ur'h mage est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Le Ur'h mage peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
+_**Incantation innée**_. La caractéristique d'incantation du Uh'r mage est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Le Uh'r mage peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_invisibilité_](/grimoire/invisibilite/), [_ténèbres_](/grimoire/tenebres/)
 * _**1/jour chacun**_ : [_charme-personne_](/grimoire/charme-personne/), [_cône de froid_](/grimoire/cone-de-froid/), [_forme éthérée](/grimoire/forme-etheree/), [_sommeil_](/grimoire/sommeil/)
 
-_**Régénération**_. Le Ur'h mage récupère 10 points d'action au début de son tour s'il lui reste 1 point d'action au moins.
+_**Régénération**_. Le Uh'r mage récupère 10 points d'action au début de son tour s'il lui reste 1 point d'action au moins.
 
 ## Actions
-_**Attaques multiples**_. Le Ur'h mage effectue deux attaques, soit avec ses griffes, soit avec sa massue.
+_**Attaques multiples**_. Le Uh'r mage effectue deux attaques, soit avec ses griffes, soit avec sa massue.
 
 _**massue**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 3 m, une cible.  
 _Touché_ : 3d6+4 dégâts contondant.

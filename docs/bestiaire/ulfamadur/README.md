@@ -34,7 +34,7 @@ conditionImmunities:
 ---
 ## Ulfamadur
 &nbsp;
-[![Ulfamadur](https://www.douaratil.fr/illustrations/humanoide/ulfamadurm.png)](https://www.douaratil.fr/illustrations/humanoide/ulfamadur.jpg)  
+[![Ulfamadur](https://www.douaratil.fr/illustrations/humanoide/ulfamadur300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/ulfamadur.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 20        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19     
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

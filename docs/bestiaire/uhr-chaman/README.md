@@ -1,5 +1,5 @@
 ---
-title: "Ur'h, chaman"
+title: "Uh'r, chaman"
 type: "Humanoïde"
 subtype: "Ur'h"
 size: "M"

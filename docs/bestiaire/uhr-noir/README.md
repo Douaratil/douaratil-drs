@@ -1,5 +1,5 @@
 ---
-title: "Ur'h noir"
+title: "Uh'r noir"
 type: "Géant"
 size: "G"
 alignment: "Chaotique Mauvais"
@@ -31,6 +31,9 @@ dungeonTypes:
   - Ruines extérieures
 
 ---
+## Uh'r noir
+&nbsp;
+[![Uh'r noir](https://www.douaratil.fr/illustrations/humanoide/uhrnoir300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/uhrnoir.jpeg)  
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 18, réussite 2, échec 1d6+1.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 16      
