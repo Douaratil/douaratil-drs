@@ -309,27 +309,75 @@ Leur influence se ressent dans les décisions du Caer’Caohaydhan, où ils sont
 * Temple de **Sheggothlil**, tenu par **Dilys Lugeto** (Meldète, féminin)
 * Boulangerie de **Mair Cenalo** (Meldète, féminin)
 
-### Guilde
+## **La guilde de Caohaydhan**
 
-* **Guilde de voleurs**, dirigée par **Siwan Vlatcano** (Meldète, féminin).
+Dans les ombres de **Grishwyn**, là où les lanternes vacillent à peine, s’étend le réseau discret mais puissant de la **guilde de voleurs**. On dit que ses membres connaissent chaque raccourci, chaque passage secret entre les maisons, et qu’aucune bourse ne reste longtemps à l’abri lorsqu’ils décident d’agir.
 
+### **Siwan Vlatcano** – *Maîtresse des ombres*
 
-### Aventuriers
-
-* **Pedr Pimalo** (Meldète, masculin) – *Voie des Ombres, profil Apprenti*, tendance bienveillante
-* **Mitemard Easo** (Meldète, masculin) – *Voie des Armes, profil Apprenti*, tendance malveillante
-
-
-### Lieux remarquables
-
-* Un édifice commémoratif de la prise de pouvoir de **Gaenor Lugeto**
-* Une grotte sous le château de **Caer'Caohaydhan**
-* Une tour abandonnée, réputée maudite
-* Un parc à l’intérieur du château de **Caer'Caohaydhan**
-* Une fontaine d’eau chaude sur la place centrale
+(Meldète, féminin)
+À la tête de la guilde se trouve **Siwan Vlatcano**, une femme dont la réputation s’est forgée autant par la ruse que par le fil du poignard. Ses yeux d’un vert perçant semblent voir à travers les mensonges, et son sourire en coin inspire autant la méfiance que la fascination.
+Autrefois simple voleuse, elle a gravi les échelons de l’ombre grâce à sa capacité à négocier des alliances improbables : elle traite aussi bien avec des marchands avides qu’avec des aventuriers en quête d’informations.
+Certains affirment qu’elle sait tout ce qui se trame dans la ville, avant même que les rumeurs ne franchissent les portes des auberges.
 
 
-Voici la **réécriture complète des auberges** dans un style narratif et immersif, tout en conservant fidèlement **toutes les informations, services, menus et liens** :
+## **Les aventuriers de Caohaydhan**
+
+Les **aventuriers** sont des âmes à part, toujours en quête de gloire, d’or ou de rédemption. À Caohaydhan, ils se mêlent aux habitants, parfois héros, parfois sources de trouble. La ville n’en compte que deux, mais chacun a sa propre histoire, racontée au coin des tavernes ou devant la lueur des cheminées.
+
+
+### **Pedr Pimalo** – *L’ombre bienveillante*
+
+(Meldète, masculin)
+**Voie des Ombres – profil Apprenti**, tendance bienveillante.
+Pedr est un jeune homme au regard vif et à la démarche souple, toujours habillé de noir. Bien qu’appartenant à la voie des Ombres, il n’utilise ses talents que pour protéger la ville, infiltrant les lieux suspects et collectant des informations pour déjouer les menaces.
+Les enfants de Ratodh l’admirent comme une sorte de héros mystérieux : on raconte qu’il laisse toujours une pièce brillante dans les souliers des plus pauvres après ses passages nocturnes.
+
+
+### **Mitemard Easo** – *L’épée malveillante*
+
+(Meldète, masculin)
+**Voie des Armes – profil Apprenti**, tendance malveillante.
+Contrairement à Pedr, **Mitemard** ne cache pas son goût pour le danger ni pour la violence. Grand, robuste, et marqué de cicatrices, il vit comme un chien errant prêt à mordre. On le croise souvent dans les tavernes les plus mal famées, cherchant un duel ou une raison de se battre.
+Les habitants le craignent autant qu’ils le respectent : quand la ville a besoin d’une épée prête à se salir les mains, c’est souvent Mitemard qui est appelé.
+
+
+### **L’aura des aventuriers**
+
+Les deux aventuriers se croisent parfois dans les rues de Caohaydhan, et leurs différences alimentent les discussions. Là où **Pedr** incarne la ruse et l’ombre protectrice, **Mitemard** représente la force brute et la menace latente. Certains pensent qu’un jour, ces deux-là finiront par croiser le fer, et que ce duel décidera peut-être de l’avenir de la ville.
+
+Voici la **section des lieux remarquables de Caohaydhan**, réécrite dans un style narratif et immersif, en donnant à chaque lieu une **histoire, une ambiance et une petite légende**.
+
+
+## **Lieux remarquables de Caohaydhan**
+
+
+### **L’édifice commémoratif de la prise de pouvoir de Gaenor Lugeto**
+
+Sur la grande place de **Caer’Caohaydhan**, un édifice de pierre sombre, orné de bas-reliefs, rappelle le jour où **Gaenor Lugeto** s’empara du pouvoir.
+Les gravures, finement ciselées, représentent des scènes de bataille et de serments de fidélité. On raconte que la nuit où il fut érigé, des torches brûlèrent jusqu’au matin, sans que personne ne les rallume, comme un signe de la bénédiction des ancêtres. Aujourd’hui, les habitants déposent encore des offrandes – fleurs, pièces d’or ou simples morceaux de charbon – au pied du monument, espérant attirer la chance ou la force de l’ancien Genos.
+
+### **La grotte sous le château de Caer'Caohaydhan**
+
+Sous les fondations du château, une **grotte sombre et humide** serpente dans les entrailles de la terre. Peu osent s’y aventurer, car les anciens disent qu’elle est hantée par les esprits des premiers rois meldètes.
+À l’intérieur, l’air est lourd, imprégné de salpêtre et d’un souffle glacial qui semble venir d’ailleurs. Certains aventuriers prétendent avoir vu des symboles anciens gravés dans la roche, témoignant d’un culte oublié. Pour les gardes du château, cette grotte reste un secret mal gardé : ils affirment qu’elle pourrait conduire à des passages souterrains sortant bien au-delà des murs de Caohaydhan.
+
+
+### **La tour abandonnée, réputée maudite**
+
+À l’extrémité de Grishwyn, une **tour solitaire**, aux pierres fissurées et aux fenêtres béantes, se dresse comme un doigt accusateur pointant vers le ciel.
+Personne ne sait exactement qui l’a bâtie ni pourquoi elle fut désertée, mais les légendes abondent : on parle d’un mage fou qui aurait disparu en cherchant à convoquer des forces interdites. La nuit, des lueurs dansantes apparaissent parfois à ses étages supérieurs, et les enfants du quartier osent rarement s’en approcher, de peur d’entendre « la voix de la tour », un murmure qui rendrait fou.
+
+### **Le parc de Caer'Caohaydhan**
+
+Au sein de la forteresse, **le parc** est une enclave de verdure qui contraste avec la rudesse de la ville. Les Lugeto en ont fait un lieu de détente et de diplomatie : sous les vieux arbres noueux, des banquets privés et des réunions de clans se tiennent souvent.
+Au printemps, les fleurs sauvages transforment le parc en un tableau coloré. Les plus vieux habitants aiment dire qu’un chêne, au centre du parc, serait plus ancien que le village lui-même, témoin des serments et des guerres qui ont façonné la cité.
+
+### **La fontaine d’eau chaude**
+
+Au cœur de la place centrale, une **fontaine fumante** attire les regards. L’eau qui s’en échappe est naturellement chaude, alimentée par des sources souterraines riches en minéraux.
+Les voyageurs s’y arrêtent volontiers pour y tremper leurs mains ou y laver les plaies de leurs chevaux, convaincus que cette eau a des propriétés curatives. Une vieille superstition locale prétend qu’un voeu murmuré en déposant une pièce dans le bassin sera entendu par les esprits des profondeurs.
+
 
 ### Auberges de Caohaydhan
 

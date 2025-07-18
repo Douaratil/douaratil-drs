@@ -33,7 +33,9 @@ Visites:
 - Ajout du poison [Soryndra](/poisons/conversion/#soryndra)  
 
 **Atlas**   
-- Réécriture de la description de la cité Meldète de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)
+- Réécriture de la description de la cité Meldète de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)    
+
+- Réécriture de la description de la cité de [Minas Mor Leidr](/atlas-du-monde/douaratil/minas-mor-leidr/)    
 
 
 §§§ .text-right
