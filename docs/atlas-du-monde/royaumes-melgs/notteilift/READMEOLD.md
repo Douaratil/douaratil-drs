@@ -14,7 +14,7 @@ Notteilift comporte également dans ses habitants sept aventuriers [(voir la lis
 Notteilift a le privilège d'avoir parmi ses habitants 5 héros ayant accompli quelques chose d'exceptionnel pour la ville ou ayant décidé de prendre leur retraite ici [(voir la liste des héros)](#heros).   
 Il existe plusieurs lieux remarquables de par leur architecture ou la conception dans la ville. [(voir liste des lieux)](#lieux).   
 ### Dirigeant(s)  
-La ville est dirigée parThororm Audgisilsson (Melg, masculin) Rek de Notteilift.  
+La ville est dirigée par Thororm Audgisilsson (Melg, masculin) Rek de Notteilift.  
 ### Économie
 L'économie de Notteilift est faible, avec un capital global de 451100 PO.
 On retrouve malgré tout les denrées suivantes à l'exportation :

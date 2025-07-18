@@ -1,6 +1,5 @@
 ---
-
-title : **Notteilift**
+title : "Notteilift"
 ---
 
 [![Notteilift](https://www.douaratil.fr/cartes/notteilift.png)](https://www.douaratil.fr/cartes/notteilift.jpg)
@@ -583,3 +582,121 @@ Prestigieuse, cette auberge est bâtie sur une histoire épique : celle d’un
 * *Repas fin (1 po)* : chèvre à la bière, tourte fèves-chou-fleur, tarte aux marrons, vin rouge.
 
 **Boissons** : *Kryddadan bjor* (bière aux épices), bière blanche, vin rouge, *Avaxtavin* (vin aux fruits), rhum, *Hveitiöl* (ale de blé), *Nektaril* (élixir de brugnon), jus de prune.
+
+Voici la suite des **auberges de Notteilift** en version narrative et immersive, dans le même style détaillé :
+
+
+### **Aux cent poétesses**
+
+[Retour à la liste des commerces](#commerces)
+
+**Aux cent poétesses** n’est pas une auberge comme les autres. Située au cœur des quartiers les plus prospères de Notteilift, elle se présente comme un lieu d’art, de raffinement et de charme. Les murs de sa salle principale sont ornés de **portraits de femmes légendaires** – guerrières, reines, poétesses – dont les récits se mêlent aux conversations des convives. L’établissement est dirigé par **Cabrilla Lugiolos** (Meldète, féminin), une femme charismatique au sourire doux mais à l’esprit acéré, épaulée par son amie **Virginia Gordian** (Alcante, féminin), réputée pour son sens impeccable du service.
+
+* **Architecture** : Bâtiment en **H**, alliant pierres polies et bois verni. Le rez-de-chaussée s’ouvre sur une vaste salle pouvant accueillir **quarante personnes**, où la lumière des chandelles se reflète sur un sol de pierre taillé avec précision.
+* **Cuisine** : **Amen de la maison Sagillia Samundos** (Meldète, féminin) règne en maîtresse sur les fourneaux. Sa spécialité, le *Hunangsbjörn* – un “ours au miel” fondant et parfumé – est un plat que l’on vient déguster de toute la région.
+* **Chambres** : L’étage compte **quatre chambres**, chacune ornée de rideaux de soie et équipée de baignoires. L’odeur de lavande et de bois ciré y flotte en permanence.
+
+**Services proposés** :
+
+* *Chambres (4 pièces), spacieuses et décorées avec soin.*
+* *Soigneur*, capable de prodiguer soins et guérison magique.
+* *Scribe*, offrant des actes calligraphiés d’une précision rare, très prisés pour les contrats et documents officiels.
+
+**Ambiance** : L’auberge attire **héros, voyageurs fortunés et marchands influents**. On dit que de nombreuses alliances commerciales y ont été scellées entre deux vers de poésie.
+
+**Menu typique** :
+
+* *Repas simple (5 pc)* : soupe de carottes relevée aux épices.
+* *Repas (8 pa)* : œufs au plat avec jambon cru et salade d’orties au fromage, bière brune.
+* *Repas fin (1 po)* : tourte de poisson garnie d’épeautre, tarte aux fraises en dessert, vin rouge.
+
+**Boissons** : bière brune, bière blonde, vin rouge, vin à la cannelle, vin rouge fort, *Avaxtabjor* (bière fruitée), liqueur de framboise, jus de mûre.
+
+### **Au capitaine qui rote**
+
+[Retour à la liste des commerces](#commerces)
+
+Dans une ruelle sombre proche du temple d’une divinité mauvaise, **Au capitaine qui rote** s’impose par son nom aussi peu raffiné que son ambiance. **Laelia Livigenus** (Alcante, féminin), la tenancière, est une femme au caractère rugueux qui se moque bien de plaire. Elle gère cet endroit comme un repaire pour marins bruyants, brigands ou âmes en perdition.
+
+* **Architecture** : Maison en **U**, à un seul étage. Le bois humide de la façade grince sous le vent. À l’intérieur, une salle pour **vingt convives** accueille des tables bancales et des bancs qui sentent la bière renversée.
+* **Cuisine** : **Natassa Anastea** (Lacède, féminin) cuisine sans grande passion ; son fameux *cake aux carottes*, insipide et sec, est souvent boudé par les visiteurs.
+
+**Services proposés** :
+
+* *Rations sèches*, au goût plus que douteux, pour les voyageurs désespérés.
+* *Coffre-fort*, peu sûr mais suffisant pour cacher temporairement un bien.
+
+**Ambiance** : On y croise souvent **brigands et religieux sombres**, discutant d’affaires plus ou moins licites. Le lieu est animé par un vacarme constant : les chansons paillardes, les bagarres, ou les cris de marins ivres.
+
+**Menu typique** :
+
+* *Repas simple (2 pc)* : bouillie de blé fade.
+* *Repas (2 pa)* : œufs au plat à l’ail, beignets d’oseille frits, bière blonde.
+* *Repas fin (5 pa)* : bœuf aux oignons, panais farcis, tourte à la cerise, vin rosé.
+
+**Boissons** : bière blonde, bière de garde, vin rosé, vin résiné, hydromel fort, *Rugviski* (whisky de seigle), eau-de-vie de poire.
+
+
+### **Au démon qui dort**
+
+[Retour à la liste des commerces](#commerces)
+
+**Au démon qui dort** évoque à la fois la crainte et la fascination. Cette auberge prestigieuse doit son nom à une légende locale : on dit qu’un esprit démoniaque sommeillerait dans les caves de l’établissement, et que ses rêves apporteraient prospérité à ceux qui dorment ici. **Brendana Jaouen** (Khernaë, féminin) et **Gwion Pezron** (Khernaë, masculin) en sont les propriétaires, deux anciens aventuriers qui ont transformé le lieu en un symbole de luxe.
+
+* **Architecture** : Bâtiment de forme rectangulaire, en **pierre et bois massif**, comprenant un rez-de-chaussée et deux étages. La façade est ornée de gargouilles stylisées et de lanternes à huile gravées de motifs mystiques.
+* **Salle principale** : **Quarante places**, avec des tables en bois exotique, nappées de lin blanc.
+* **Cuisine** : **Alkestis Milopoulou** (Lacède, féminin) est connue pour son plat vedette, le *Svanur Paprikum* (cygne aux trois poivres), un mets raffiné aux saveurs inoubliables.
+* **Chambres** : 5 chambres de prestige, dont 3 à l’étage supérieur décorées de tapisseries de soie, avec bureau, armoire solide et baignoire intégrée.
+
+**Services proposés** :
+
+* *Chambres (5 pièces)* spacieuses et décorées avec luxe.
+* *Dame de compagnie*, charmante et cultivée, pour accompagner les voyageurs.
+* *Coffre-fort*, à la sécurité magique.
+* *Bain*, dans les chambres, toujours à température idéale.
+
+**Ambiance** : L’endroit attire **nobles, marchands puissants et aventuriers de renom**, souvent prêts à dépenser une petite fortune pour une nuit dans le confort. L’atmosphère y est feutrée, ponctuée de discussions discrètes et de musique jouée au luth.
+
+**Menu typique** :
+
+* *Repas simple (6 pc)* : haricots bouillis et fumés.
+* *Repas (5 pa)* : bouillie de millet au lard, tourte aux pommes en dessert, bière aromatisée.
+* *Repas fin (1 po)* : œufs au plat avec jambon cru, bouillie de millet, chausson de pruneau, vin au miel.
+
+**Boissons** : bière aromatisée, bière brune, vin au miel, vin de noix, scotch au miel, *Rugviskí* (whisky de seigle), liqueur de raisin, jus d’amande.
+
+
+## **Lieux remarquables de Notteilift**
+
+### **La Halte des Loups**
+
+Au centre de la place principale se dresse un cercle de pierre surnommé *la Halte des Loups*. Ce lieu n’est pas une fontaine ni un monument classique : il s’agit d’un ancien enclos circulaire où, selon la tradition, les premiers chefs de Notteilift juraient allégeance aux clans dominants. Les piliers de pierre, noircis par les âges, portent des gravures de loups en chasse, symboles du clan Svartirúlfar. Les habitants disent qu’en pleine lune, on peut entendre un hurlement ancien, comme un souvenir gravé dans la pierre. Ce lieu sert encore aujourd’hui de point de rassemblement pour les annonces importantes, ou pour régler les disputes entre familles.
+
+
+### **Le Fossé des Cendres**
+
+Non loin des remparts fatigués de Notteilift, une longue tranchée remplit la fonction d’ancienne défense, aujourd’hui transformée en zone de feu rituel. On y brûle les bois sacrés avant les tournois, car la fumée épaisse, selon les anciens, protège les participants des mauvais présages. Les enfants y jouent parfois, mais les vieillards racontent que sous les cendres sommeillent les os des premiers défenseurs tombés lors d’un siège oublié. La nuit, le vent soulève des étincelles comme des âmes errantes.
+
+
+### **La Tour de Brume**
+
+Aux abords nord du bourg s’élève une tour solitaire, vestige d’un ancien poste d’observation. Elle est surnommée *la Tour de Brume* car elle disparaît souvent dans les nappes de brouillard qui recouvrent la vallée. On raconte qu’elle fut jadis le refuge d’un magicien melg, dont l’esprit hante encore les lieux. Par temps clair, les gardes du bourg montent à son sommet pour surveiller la route marchande, mais peu d’entre eux osent y passer la nuit.
+
+
+### **La Cour des Tournois**
+
+Notteilift est célèbre pour ses **tournois d’épéistes**, et *la Cour des Tournois* en est le théâtre. C’est une vaste esplanade pavée, entourée de gradins en bois, où se déroulent les affrontements les plus spectaculaires. Les héros retraités de la ville aiment s’y rendre, conseillant les jeunes guerriers ou racontant leurs combats passés. L’air y sent toujours le cuir, le métal et l’herbe piétinée. Lors des jours de fête, on y érige des bannières colorées aux effigies des clans locaux.
+
+
+### **La Maison des Échos**
+
+Dans une ruelle à l’écart, se trouve une bâtisse vide connue sous le nom de *Maison des Échos*. Ses murs de pierre humide renvoient le moindre bruit, créant une atmosphère étrange. Les superstitieux affirment qu’il s’agit d’une maison maudite où les voix des morts répondent à ceux qui osent parler trop fort. En réalité, c’était autrefois un ancien grenier à grains, abandonné après un incendie. Aujourd’hui, elle attire les enfants téméraires et les aventuriers curieux.
+
+
+### **Le Chemin de la Lame**
+
+Cette allée pavée, bordée de lanternes en fer forgé, mène directement à la résidence fortifiée de Thororm Audgisilsson, le Rek de Notteilift. Le sol est marqué par les pas innombrables des guerriers, des mercenaires et des champions venant participer aux tournois ou prêter serment. On raconte que marcher sur cette allée avec une lame émoussée est un mauvais présage ; les habitants y passent souvent en silence, comme par respect pour les épées qui s’y sont croisées.
+
+### **La Pierre des Serments**
+
+Sur une colline basse, au sud du bourg, se trouve une pierre dressée marquée de runes anciennes. C’est ici que les serments d’honneur et d’alliance entre clans sont scellés. On dit que briser un serment prononcé devant cette pierre attire la malédiction des ancêtres, et que plusieurs générations ont payé cher leurs trahisons. Chaque printemps, un rituel est organisé ici, au lever du soleil, pour bénir les armes des guerriers avant le grand tournoi annuel.

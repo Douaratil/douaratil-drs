@@ -36,6 +36,7 @@ Visites:
 - Réécriture de la description de la cité Meldète de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)    
 
 - Réécriture de la description de la cité de [Minas Mor Leidr](/atlas-du-monde/douaratil/minas-mor-leidr/)    
+- Réécriture de la description de la cité de [Notteilift](/atlas-du-monde/royaumes-melgs/notteilift/)    
 
 
 §§§ .text-right
