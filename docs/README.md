@@ -17,13 +17,52 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 241 ✧
+
+![Mise à jour 241](https://www.douaratil.fr/illustrations/site/maj241.jpeg)   
+
+**Règles**   
+- Ajout de l'état [En feu](/gerer-la-sante-du-personnage/#en-feu)    
+
+**Poisons**   
+- Ajout de la section [Poisons de conversion](/poisons/conversion)    
+- Ajout du poison [Ghartaal](/poisons/conversion/#ghartaal)      
+- Ajout du poison [Melloryne](/poisons/conversion/#Melloryne)    
+- Ajout du poison [Nharok](/poisons/conversion/#nharok)   
+- Ajout du poison [Sarnomire](/poisons/conversion/#sarnomire)   
+- Ajout du poison [Soryndra](/poisons/conversion/#soryndra)  
+
+**Atlas**   
+- Réécriture de la description de la cité Meldète de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)
+
+
+§§§ .text-right
+_**Olivier**_,  
+_le 18 juillet 2025_
+§§§
+
 ## ✧ Mise à jour 240 ✧
 
 ![Mise à jour 240](https://www.douaratil.fr/illustrations/site/maj240.jpeg)
 
-**Bestiaire**
-- Ajout de [Thal'zhûn](/bestiaire/thalzhun)    
-- Ajout de la [Mélusmire](/bestiaire/melusmire)    
+Le vent se lève à peine sur les marécages et les abysses, mais dans les pages du bestiaire, les remous sont bien réels. Cette mise à jour est placée sous le signe des créatures rampantes, gluantes, voraces, ou simplement insaisissables…
+
+### **Bestiaire**
+
+* Apparition des deux nouvelles figures marquantes : le titanesque et silencieux [**Thal’zhûn**](/bestiaire/thalzhun), et la perfide enchanteresse aquatique qu’est la [**Mélusmire**](/bestiaire/melusmire). Deux présences qui hantent désormais les eaux dormantes.
+
+* Trois nouvelles représentations de vases cauchemardesques : la [**Vase corruptrice**](/bestiaire/vase-corruptrice), la [**Vase grise**](/bestiaire/vase-grise), et le retour visuel du très classique [**Ver piqueur**](/bestiaire/ver-piqueur). On notera également une mise à jour graphique pour le [**Ver mordeur**](/bestiaire/ver-mordeur) et le [**Ver flasque**](/bestiaire/ver-flasque).
+
+* Le ciel n’est pas en reste : ajout des illustrations du [**Vautour**](/bestiaire/vautour), de son imposant cousin le [**Vautour géant**](/bestiaire/vautour-geant).
+
+* Attention ou vous mettez les pieds avec les illsutrations de la [**Vipère de Zanskaran**](/bestiaire/vipere-de-zanskaran) et de la [**Vipère du marais**](/bestiaire/vipere-du-marais).
+
+* Des créatures déjà présentes reçoivent un souffle nouveau avec des illustrations retravaillées : le terrifiant [**Vhaxrrixz**](/bestiaire/vhaxrrixz), le [**Vulturh**](/bestiaire/vulturh), le [**Wyrm des sables**](/bestiaire/wyrm-des-sables), le [**Xiphactinus**](/bestiaire/xiphactinus) et la silhouette éthérée d’[**Ylohane**](/bestiaire/ylohane).
+
+* Et enfin, une nouvelle venue au sol : l’illustration du [**Worg**](/bestiaire/worg), ce compagnon des ombres, rejoint enfin les archives visuelles du site.
+
+Une mise à jour dense, profonde, et marquée par les odeurs d’humus, de vase, de plumes et de venins.
+*Le bestiaire continue de croître. Mais c’est surtout l’ombre de ce qu’il contient… qui s’épaissit.*
 
 §§§ .text-right
 _**Olivier**_,  

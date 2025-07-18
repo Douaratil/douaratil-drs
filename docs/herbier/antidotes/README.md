@@ -104,6 +104,7 @@ En cas de réussite, il trouvera 1d6 doses par heure de prospection.
 La racine de quilum est utilisée principalement pour ses hautes qualités antitoxiques.  
 *Antidote* (herboristerie/Survie DD 16, 1 dose) : Il faut 7 racines (doses) de quilum pour créer ce puissant antidote contre les poisons de conversion. La préparation doit bouillir 20 minutes au minimum. L'antidote permet de guérir tout poison de conversion d'un DD inférieur à 16 et permet de résister aux poisons de conversion supérieurs avec un bonus au JS de +6.    
 Valeur : 49 pièce d’or la dose.   
+
 ## Shîn
 **Description**  
 Le shîn est une plante à fine feuille semblables à de la ciboulette mais de couleur pourpre que l'on trouve dans les zones côtières tempérées. Sa feuille possède des propriétés antipoison.   

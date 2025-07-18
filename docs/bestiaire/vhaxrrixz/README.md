@@ -68,7 +68,7 @@ source: "Elric"
 ---
 ## Vhaxrrixz
 &nbsp;
-[![Vhaxrrixz](https://www.douaratil.fr/illustrations/aberration/vhaxrrixzm.png)](https://www.douaratil.fr/illustrations/aberration/vhaxrrixz.jpg)   
+[![Vhaxrrixz](https://www.douaratil.fr/illustrations/aberration/vhaxrrixz300.jpeg)](https://www.douaratil.fr/illustrations/aberration/vhaxrrixz.jpeg)   
 **<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 42, réussite 8, échec 4d6+4.  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 19             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24       

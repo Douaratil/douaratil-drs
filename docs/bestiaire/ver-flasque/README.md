@@ -1,5 +1,5 @@
 ---
-title: "Vers flasque"
+title: "Ver flasque"
 type: "Bête"
 size: "P"
 alignment: "non-alignée"
@@ -29,9 +29,9 @@ dungeonTypes:
   - Caverne naturelle
 
 ---
-## Vers flasque
+## Ver flasque
 &nbsp;
-[![Vers flasque](https://www.douaratil.fr/illustrations/bete/versflasquem.png)](https://www.douaratil.fr/illustrations/bete/versflasque.jpg)  
+[![Ver flasque](https://www.douaratil.fr/illustrations/bete/verflasque300.jpeg)](https://www.douaratil.fr/illustrations/bete/verflasque.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14          
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 14     
 ## Actions

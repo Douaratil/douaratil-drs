@@ -27,6 +27,9 @@ environments:
   - Collines / Vallées
 
 ---
+## Vipère de Zanskaran
+&nbsp;
+[![Vipère de Zanskaran](https://www.douaratil.fr/illustrations/bete/viperedezanskaran300.jpeg)](https://www.douaratil.fr/illustrations/bete/viperedezanskaran.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 18             
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13       
 ## Actions

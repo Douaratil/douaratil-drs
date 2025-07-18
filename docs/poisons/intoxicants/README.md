@@ -3,6 +3,8 @@ title: "Les intoxicants"
 ---
 # Les intoxicants
 
+L'antidote universel pour les intoxicants est le [Menelath](/herbier/antidotes/#menelath). Une dose d'antidote permet d'annuler un empoisonnement.        
+
 ## Arhuna   
 
 **Description**    

@@ -62,7 +62,7 @@ _**Beauté vénéneuse**_. Toute créature regardant Mèlusmire dans les yeux à
 
 _**Voix des roseaux**_. Une fois par jour, Mèlusmire peut faire entendre un **chant brumeux** qui résonne dans les rêves et les souvenirs. Toute créature non-fée dans un rayon de 18 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 14 ou être [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) pendant 2d6 rounds.   
 
-_**Se dissimuler dans les eaux stagnantes**_. Mèlusmire peut se fondre dans n’importe quel marais, étang vaseux ou nappe d’eau douce, devenant **invisible tant qu’elle ne bouge pas**. Elle peut maintenir cet état indéfiniment.   
+_**Se dissimuler dans les eaux stagnantes**_. Mèlusmire peut se fondre dans n’importe quel marais, étang vaseux ou nappe d’eau douce, devenant **[_invisible_](/gerer-la-sante-du-personnage/#invisible) tant qu’elle ne bouge pas**. Elle peut maintenir cet état indéfiniment.   
 
 ## Sorts innés (DD de sauvegarde 15, caractéristique : Charisme)   
 

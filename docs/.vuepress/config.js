@@ -720,6 +720,11 @@ module.exports = {
                 icon: 'mdi-liquid-spot',
                 path: '/poisons/circulatoires/'
               },
+              {
+                title: "Conversions",
+                icon: 'mdi-bacteria',
+                path: '/poisons/conversion/'
+              },
             ]
           },
           {

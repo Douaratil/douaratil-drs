@@ -2,6 +2,7 @@
 title: "Les poisons circulatoires"
 ---
 # Les poisons circulatoires
+L'antidote universel pour les poisons circulatoires est le [Menelath](/herbier/antidotes/#menelath). Une dose d'antidote permet d'annuler un empoisonnement.        
 
 ## Carghenouth   
 

@@ -134,6 +134,11 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 #### Empoisonné
 * Une créature [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de ses [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique).
 
+#### En feu
+* Les attaques qui visent la créature bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), tandis que les attaques de la créature subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
+* La créature souffre d'un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets de sauvegarde de Dextérité.
+* La créature encaisse 2d6 points de dégats de chaleur chaque rounds tant que le feu n'est pas éteint.
+
 #### Entravé
 * La vitesse de la créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 * Les attaques qui visent la créature bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage), tandis que les attaques de la créature subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

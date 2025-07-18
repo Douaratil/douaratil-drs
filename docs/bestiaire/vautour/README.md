@@ -29,6 +29,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
+## Vautour
+&nbsp;
+[![Vautour](https://www.douaratil.fr/illustrations/bete/vautour300.jpeg)](https://www.douaratil.fr/illustrations/bete/vautour.jpeg)    
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 13            
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12      
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
