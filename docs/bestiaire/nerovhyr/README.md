@@ -74,6 +74,14 @@ _Touché_ : 3d6 + 6 dégâts contondants.
 
 _**Souffle venimeux** (Recharge 5–6)._ Nerovhyr exhale un nuage d’eau saturée de toxines dans un cône de 9 mètres. Toutes les créatures dans la zone doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 18 ou subir 8d6 dégâts de poison et être **[_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne)** pendant 1 minute (nouveau jet de sauvegarde chaque tour).
 
+## Actions légendaires
+Nerovhyr peut faire 3 actions légendaires parmi celles proposées ci-dessous. Il ne peut en faire qu'une seule à la fois et seulement à la fin du tour d'une autre créature. Au début de chacun de ses tours, Nerovhyr récupère les actions légendaires dépensées.
+
+_**Attaque**_. Nerovhyr fait une attaque de _Morsure_ ou de _Queue_.
+
+_**Increvable**_ Nerovhyr récupère 4d6 points d'action.   
+
+
 ## Description
 
 **Nerovhyr** est redouté pour son silence. Dans les abysses, ses flancs rayés ressemblent à des algues ondulantes, et ses crocs déchiquettent les chairs avant de laisser le poison paralyser la proie. On raconte que certains marins, frappés par ce venin, coulent sans même pouvoir agiter les bras, engloutis dans un silence glacial.   

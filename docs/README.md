@@ -26,6 +26,7 @@ Visites:
 - Ajout du [Crochouillard](/bestiaire/crochouillard)    
 - Ajout de l'[Infecté des marais](/bestiaire/infecte-des-marais)    
 - Ajout du [Tique épine](/bestiaire/tique-epine)    
+- Ajout de [Vhar'gorth](/bestiaire/vhargorth)    
 - Ajout du [Ver liquéfieur](/bestiaire/ver-liquefieur)    
 - Ajout du [Ver poulpe](/bestiaire/ver-poulpe)    
 
