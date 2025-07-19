@@ -37,11 +37,21 @@ Visites:
 
 - Réécriture de la description de la cité de [Minas Mor Leidr](/atlas-du-monde/douaratil/minas-mor-leidr/)    
 - Réécriture de la description de la cité de [Notteilift](/atlas-du-monde/royaumes-melgs/notteilift/)    
+- Ajout de la description de la cité de [Masyvum](/atlas-du-monde/douaratil/masyvum/), capitale Meldète.       
+
+**PNJ**   
+- Changement d'illustration de [Lenthabetse Thusego](/PNJ/Sooghai/#lenthabetse-thusego)     
+- Changement d'illustration de [Mtshumayeli Phahla](/PNJ/Sooghai/#mtshumayeli-phahla)    
+
+**Bestaire**   
+- Ajout du poisson carnassier l'[abyloth](/bestiaire/abyloth)     
+- Ajout du poisson carnassier le [Gorvak](/bestiaire/gorvak)     
+- Ajout du poisson carnassier le [Gorvak](/bestiaire/gorvak)     
 
 
 §§§ .text-right
 _**Olivier**_,  
-_le 18 juillet 2025_
+_le 19 juillet 2025_
 §§§
 
 ## ✧ Mise à jour 240 ✧

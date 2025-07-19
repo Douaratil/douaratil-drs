@@ -2,7 +2,7 @@
 title: "PNJ Sooghaï"
 ---
 ## Lenthabetse Thusego
-[![Lenthabetse Thusego](https://www.douaratil.fr/illustrations/pnj/lenthabetsem.png)](https://www.douaratil.fr/illustrations/pnj/lenthabetse.jpg)   
+[![Lenthabetse Thusego](https://www.douaratil.fr/illustrations/pnj/lenthabetse300.jpeg)](https://www.douaratil.fr/illustrations/pnj/lenthabetse.jpeg)   
 §§§
 |Amastame Ag Beketa|Sooghaï|
 |:-:|:-:|
@@ -21,7 +21,7 @@ Lenthabetse Thusego est un vendeur d'esclave. Il est originaire de la tribu Sets
 §§§
 
 ## Mtshumayeli Phahla  
-[![Mtshumayeli Phahla](https://www.douaratil.fr/illustrations/pnj/mtshumayelim.png)](https://www.douaratil.fr/illustrations/pnj/mtshumayelim.jpg)   
+[![Mtshumayeli Phahla](https://www.douaratil.fr/illustrations/pnj/mtshumayeli300.jpeg)](https://www.douaratil.fr/illustrations/pnj/mtshumayeli.jpeg)   
 §§§
 |Amastame Ag Beketa|Sooghaï|
 |:-:|:-:|

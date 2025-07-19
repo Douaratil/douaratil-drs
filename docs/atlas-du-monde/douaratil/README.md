@@ -115,8 +115,12 @@ Côte fertile
 ## Lornac (Forteresse de) 
 Forteresse de la région de Ker-Kroaz, résidence du seigneur Gaeth.  
 
-## Masyvum 
-village meldète.  
+## [Masyvum)](/atlas-du-monde/douaratil/masyvum )    
+**Masyvum** est une ville vibrante et orgueilleuse, dressée au croisement des routes marchandes et des anciens chemins sacrés. Comptant près de **11 000 âmes**, elle s’impose comme l’un des bastions les plus influents de la culture **Meldète**, fière de ses racines guerrières et de son artisanat raffiné. Ses hauts remparts de pierre grise protègent un dédale de ruelles pavées, bordées d’ateliers d’orfèvres, de marchés bruissant d’accents divers, et de maisons à colombages dont les toits de chaume doré scintillent au soleil couchant.
+
+Autrefois dirigée par **Bryn Tuticanos**, roi respecté et stratège redouté, la cité porte encore les stigmates de la **Bataille des Rois**, où le souverain tomba, le 23 Miz Khouéré 722, près de Kerzu. Sa mort, gravée dans les mémoires comme une plaie vive, a laissé la ville orpheline de son protecteur. Les clans Meldètes, unis par leur désir de préserver son héritage, cherchent désormais à maintenir un équilibre fragile entre tradition et avenir.
+
+Le souffle des légendes imprègne chaque pierre : sur la place centrale, les conteurs évoquent les exploits de Bryn, tandis que dans l’ombre des temples et des tavernes, les murmures de complots et de nouveaux prétendants au trône agitent déjà la cité.
 
 ## Menezlatar (Monts du)
 Rempart naturel entre les royaumes meldètes, khernaës et les grandes plaines de Thyria à l'est. Ce rempart coupe les terres du nord au sud.   
