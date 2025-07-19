@@ -17,9 +17,24 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
-Voici une **version retravaillée de la mise à jour 241**, dans un style narratif et immersif, tout en conservant tous les liens cliquables et la structure claire :
 
----
+## ✧ Mise à jour 242 ✧
+
+![Mise à jour 242](https://www.douaratil.fr/illustrations/site/maj242.jpeg)
+
+**Bestiaire**   
+- Ajout du [Crochouillard](/bestiaire/crochouillard)    
+- Ajout de l'[Infecté des marais](/bestiaire/infecte-des-marais)    
+- Ajout du [Tique épine](/bestiaire/tique-epine)    
+- Ajout du [Ver liquéfieur](/bestiaire/ver-liquefieur)    
+- Ajout du [Ver poulpe](/bestiaire/ver-poulpe)    
+
+
+§§§ .text-right
+_**Olivier**_,  
+_le 21 juillet 2025_
+§§§
+
 
 ## ✧ Mise à jour 241 ✧
 
