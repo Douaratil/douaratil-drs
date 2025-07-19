@@ -4,7 +4,9 @@ title: Masyvum
 
 [![Masyvum](/masyvum.png)](https://www.douaratil.fr/cartes/masyvum.jpg)
 
-Sur les rives de la **rivière Avarcos**, à l’ombre des collines d’argile rouge, s’étend **Masyvum**, une cité vivante qui résonne du fracas des marteaux, des cris des marchands et des chants épiques. Forte de **11 000 habitants**, elle est le cœur battant du pays Meldète, une ville de commerçants, d’artisans et de guerriers dont la fierté se lit sur chaque visage. Ici, la culture Meldète domine largement : **9 200 habitants** se revendiquent de ce peuple, mais la ville accueille aussi des **Khernaës (700)**, des **Melgs (500)**, des **Alcantes (350)** et environ **250 voyageurs et étrangers d’autres horizons**, apportant une touche cosmopolite.
+Sur les rives de la **rivière Avarcos**, à l’ombre des collines d’argile rouge, s’étend **Masyvum**, une cité vivante qui résonne du fracas des marteaux, des cris des marchands et des chants épiques. Forte de **11 000 habitants**, elle est le cœur battant du pays Meldète, une ville de commerçants, d’artisans et de guerriers dont la fierté se lit sur chaque visage. Ici, la culture Meldète domine largement : **9 200 habitants** se revendiquent de ce peuple, mais la ville accueille aussi des **Khernaës (700)**, des **Melgs (500)**, des **Alcantes (350)** et environ **250 voyageurs et étrangers d’autres horizons**, apportant une touche cosmopolite.   
+
+[![Masyvum](https://www.douaratil.fr/illustrations/regles/masyvum300.jpeg)](https://www.douaratil.fr/illustrations/regles/masyvum.jpeg)    
 
 ### **Quartiers**
 

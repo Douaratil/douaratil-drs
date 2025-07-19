@@ -17,36 +17,57 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+Voici une **version retravaillée de la mise à jour 241**, dans un style narratif et immersif, tout en conservant tous les liens cliquables et la structure claire :
+
+---
+
 ## ✧ Mise à jour 241 ✧
 
-![Mise à jour 241](https://www.douaratil.fr/illustrations/site/maj241.jpeg)   
+![Mise à jour 241](https://www.douaratil.fr/illustrations/site/maj241.jpeg)
 
-**Règles**   
-- Ajout de l'état [En feu](/gerer-la-sante-du-personnage/#en-feu)    
+Les flammes, les poisons, les cités et les monstres trouvent de nouvelles voix dans cette mise à jour riche et sombre.
 
-**Poisons**   
-- Ajout de la section [Poisons de conversion](/poisons/conversion)    
-- Ajout du poison [Ghartaal](/poisons/conversion/#ghartaal)      
-- Ajout du poison [Melloryne](/poisons/conversion/#Melloryne)    
-- Ajout du poison [Nharok](/poisons/conversion/#nharok)   
-- Ajout du poison [Sarnomire](/poisons/conversion/#sarnomire)   
-- Ajout du poison [Soryndra](/poisons/conversion/#soryndra)  
+### **Règles**
 
-**Atlas**   
-- Réécriture de la description de la cité Meldète de [Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)    
+* Ajout d’un nouvel état : [**En feu**](/gerer-la-sante-du-personnage/#en-feu), pour des combats plus brûlants et impitoyables.
 
-- Réécriture de la description de la cité de [Minas Mor Leidr](/atlas-du-monde/douaratil/minas-mor-leidr/)    
-- Réécriture de la description de la cité de [Notteilift](/atlas-du-monde/royaumes-melgs/notteilift/)    
-- Ajout de la description de la cité de [Masyvum](/atlas-du-monde/douaratil/masyvum/), capitale Meldète.       
+### **Poisons**
 
-**PNJ**   
-- Changement d'illustration de [Lenthabetse Thusego](/PNJ/Sooghai/#lenthabetse-thusego)     
-- Changement d'illustration de [Mtshumayeli Phahla](/PNJ/Sooghai/#mtshumayeli-phahla)    
+Les poisons prennent une autre dimension, celle de la **conversion**, de la lente transformation :
 
-**Bestaire**   
-- Ajout du poisson carnassier l'[abyloth](/bestiaire/abyloth)     
-- Ajout du poisson carnassier le [Gorvak](/bestiaire/gorvak)     
-- Ajout du poisson carnassier le [Gorvak](/bestiaire/gorvak)     
+* Ajout de la section [**Poisons de conversion**](/poisons/conversion).
+* Découverte du [**Ghartaal**](/poisons/conversion/#ghartaal), au venin insidieux.
+* Apparition du [**Melloryne**](/poisons/conversion/#melloryne), poison des ombres blanches.
+* Ajout du [**Nharok**](/poisons/conversion/#nharok), morsure rampante des chairs.
+* Introduction du [**Sarnomire**](/poisons/conversion/#sarnomire), au souffle fétide et irréversible.
+* Ajout du [**Soryndra**](/poisons/conversion/#soryndra), poison des âmes tourmentées.
+
+### **Atlas**
+
+Les pages de l’Atlas s’étoffent et se réinventent :
+
+* Réécriture de la description de la cité Meldète de [**Caohaydhan**](/atlas-du-monde/douaratil/caohaydhan/).
+* Réécriture de la cité de [**Minas Mor Leidr**](/atlas-du-monde/douaratil/minas-mor-leidr/).
+* Réécriture de la cité de [**Notteilift**](/atlas-du-monde/royaumes-melgs/notteilift/).
+* Ajout de la capitale Meldète : [**Masyvum**](/atlas-du-monde/douaratil/masyvum/), majestueuse et intrigante.
+
+### **PNJ**
+
+De nouveaux visages pour les personnages :
+
+* Changement d’illustration de [**Lenthabetse Thusego**](/PNJ/Sooghai/#lenthabetse-thusego).
+* Changement d’illustration de [**Mtshumayeli Phahla**](/PNJ/Sooghai/#mtshumayeli-phahla).
+
+### **Bestiaire**
+
+Les profondeurs marines et les abysses draconiques livrent leurs monstres :
+
+* Ajout du poisson carnassier [**Abyloth**](/bestiaire/abyloth).
+* Ajout du poisson prédateur [**Gorvak**](/bestiaire/gorvak).
+* Ajout du dragon venimeux [**Nerovhyr**](/bestiaire/nerovhyr).
+
+
+**Le monde s’enrichit, s’assombrit, et ne cesse de respirer au rythme de ces nouvelles pages.**
 
 
 §§§ .text-right
