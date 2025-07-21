@@ -82,8 +82,6 @@ Touché : 6d6 + 6 dégâts contondants et la cible est [_empoignée_](/gerer-la-
 _**Étreinte d’encre**_  
 Une fois par tour, une cible agrippée peut être **enveloppée** par un réseau de tentacules secondaires : jet de Force ou Dextérité DD 19, sinon la cible est **étouffée** et subit 2d6 dégâts internes par tour.
 
-Bien sûr, Olivier. Voici une **légende** sur **Thal’Zhûn, la Myriade Silencieuse**, telle qu’elle pourrait être transmise de bouche de marin à bouche de mousse, dans les tavernes côtières, les bordées fatiguées ou les prières désespérées.
-
 §§§ .hero
 ## 🌊 **Légende des Brumes Calmes – Le Silence de Thal’Zhûn**
 

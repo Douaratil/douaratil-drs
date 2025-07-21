@@ -46,8 +46,6 @@ _**Attaques multiples**_ : Le Mandrill des montagnes effectue deux attaques de g
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +7 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 2d6+2 dégâts perforants.
 
----
-
  Haut de près de neuf pieds, il pèse entre huit cent et mille deux cent livres. Il vit dans les très hautes altitudes et s'avère être un prédateur redoutable. Il peut se camoufler facilement grâce à son pelage blanc. Les mâles portent autours du coup un longue crinière grise et blanche et leur gueule canine présente des protubérances de chair d’un bleu très profond.. Ils peuvent chasser en groupe mais préfèrent souvent les embuscades, tapis sous la neige. Ils se saisissent de leur adversaire et l'emmène en hauteur, loin de ses alliés ou compagnons. Il essaie ensuite de l'égorger ou de le jeter dans le vide pour qu'il se fracasse en contrebas. Il accroche ensuite ses prises sur des pentes escarpées inaccessibles pour pouvoir venir le dévorer à loisir.
 
 §§§ .hero

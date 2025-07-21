@@ -22,69 +22,80 @@ Visites:
 
 ![Mise à jour 242](https://www.douaratil.fr/illustrations/site/maj242.jpeg)
 
-**Bestiaire**   
-- Ajout du [Crochouillard](/bestiaire/crochouillard)    
-- Ajout de l'[Infecté des marais](/bestiaire/infecte-des-marais)    
-- Ajout du [Tique épine](/bestiaire/tique-epine)    
-- Ajout de [Vhar'gorth](/bestiaire/vhargorth)    
-- Ajout du [Ver liquéfieur](/bestiaire/ver-liquefieur)    
-- Ajout du [Ver poulpe](/bestiaire/ver-poulpe)    
+Cette mise à jour plonge plus encore dans les ténèbres et la richesse de l’univers de **Douaratil**, en élargissant à la fois les pages du **bestiaire** et celles du **grimoire**, pour offrir de nouveaux défis et de nouvelles armes aux aventuriers intrépides.
 
+### **Bestiaire**
+
+De nouvelles créatures viennent s’ajouter, chacune portant en elle une légende ou une terreur particulière :
+
+* Le **[Crochouillard](/bestiaire/crochouillard)**, dont les crocs et la silhouette tordue évoquent un cauchemar venu de la forêt.
+* Le **[Givrebois](/bestiaire/givrebois)**, abomination née de la glace et de la rancune des anciens druides.
+* Le **[Grashka](/bestiaire/grashka)**, brute sauvage des landes et des montagnes, symbole d’une force indomptée.
+* L’**[Infecté des marais](/bestiaire/infecte-des-marais)**, ancien humain transformé en un vecteur de maladie monstrueuse.
+* **[Tharvok](/bestiaire/tharvok)**, un prédateur colossal dont les griffes et la ruse en font une légende vivante.
+* La **[Tique épine](/bestiaire/tique-epine)**, minuscule horreur tropicale au venin paralysant.
+* Le terrible dragon **[Vhar'gorth](/bestiaire/vhargorth)**, incarnation de la ruine et du souffle des anciens cataclysmes.
+* Le **[Ver liquéfieur](/bestiaire/ver-liquefieur)**, qui réduit ses proies en une bouillie organique avant de les dévorer.
+* Le **[Ver poulpe](/bestiaire/ver-poulpe)**, monstre hybride aux tentacules imprévisibles.
+
+### **Grimoire**
+
+Trois nouveaux sorts enrichissent la magie de Douaratil, offrant des armes tout aussi destructrices que stratégiques :
+
+* **[Pomme de feu](/grimoire/pomme-de-feu)**, sphère incandescente prête à exploser et réduire en cendres tout ce qu’elle touche.
+* **[Pomme de ronce](/grimoire/pomme-de-ronce)**, un enchantement cruel transformant le terrain en un piège d’épines acérées.
+* **[Stase venimeuse](/grimoire/stase-venimeuse)**, magie immobile et implacable qui scelle l’ennemi dans un carcan de poison et de douleur.
 
 §§§ .text-right
 _**Olivier**_,  
 _le 21 juillet 2025_
 §§§
 
-
 ## ✧ Mise à jour 241 ✧
 
 ![Mise à jour 241](https://www.douaratil.fr/illustrations/site/maj241.jpeg)
 
-Les flammes, les poisons, les cités et les monstres trouvent de nouvelles voix dans cette mise à jour riche et sombre.
+Cette mise à jour marque un **tournant dans plusieurs sections du site**, apportant des ajouts et des réécritures destinés à enrichir l’univers de Douaratil et à approfondir certaines mécaniques de jeu.
 
 ### **Règles**
 
-* Ajout d’un nouvel état : [**En feu**](/gerer-la-sante-du-personnage/#en-feu), pour des combats plus brûlants et impitoyables.
+Une nouvelle condition de jeu fait son apparition : **l’état [En feu](/gerer-la-sante-du-personnage/#en-feu)**. Désormais, les personnages et créatures touchés par des flammes ne subiront plus simplement des dégâts, mais verront leurs actions entravées par cette condition spécifique, qui reflète la douleur, la panique et le danger réel d’un corps en proie au feu.
 
 ### **Poisons**
 
-Les poisons prennent une autre dimension, celle de la **conversion**, de la lente transformation :
+L’univers toxique de Douaratil s’étend avec l’ajout d’une nouvelle famille de venins : les **[poisons de conversion](/poisons/conversion)**. Ces toxines sont d’autant plus terrifiantes qu’elles ne se contentent pas d’empoisonner — elles **transforment** la victime, altérant son corps et parfois son esprit.
+Parmi les nouvelles substances répertoriées, on trouve :
 
-* Ajout de la section [**Poisons de conversion**](/poisons/conversion).
-* Découverte du [**Ghartaal**](/poisons/conversion/#ghartaal), au venin insidieux.
-* Apparition du [**Melloryne**](/poisons/conversion/#melloryne), poison des ombres blanches.
-* Ajout du [**Nharok**](/poisons/conversion/#nharok), morsure rampante des chairs.
-* Introduction du [**Sarnomire**](/poisons/conversion/#sarnomire), au souffle fétide et irréversible.
-* Ajout du [**Soryndra**](/poisons/conversion/#soryndra), poison des âmes tourmentées.
+* Le redoutable **[Ghartaal](/poisons/conversion/#ghartaal)**, aux effets corrosifs et débilitants.
+* La **[Melloryne](/poisons/conversion/#Melloryne)**, qui ronge lentement les organes vitaux.
+* Le sombre **[Nharok](/poisons/conversion/#nharok)**, souvent utilisé par des cultes interdits.
+* Le mystérieux **[Sarnomire](/poisons/conversion/#sarnomire)**, dont les effets semblent aussi psychiques que physiques.
+* Et enfin la perfide **[Soryndra](/poisons/conversion/#soryndra)**, poison lent, insidieux et presque indétectable.
 
 ### **Atlas**
 
-Les pages de l’Atlas s’étoffent et se réinventent :
-
-* Réécriture de la description de la cité Meldète de [**Caohaydhan**](/atlas-du-monde/douaratil/caohaydhan/).
-* Réécriture de la cité de [**Minas Mor Leidr**](/atlas-du-monde/douaratil/minas-mor-leidr/).
-* Réécriture de la cité de [**Notteilift**](/atlas-du-monde/royaumes-melgs/notteilift/).
-* Ajout de la capitale Meldète : [**Masyvum**](/atlas-du-monde/douaratil/masyvum/), majestueuse et intrigante.
+Les cités de Douaratil gagnent en profondeur.
+La cité Meldète de **[Caohaydhan](/atlas-du-monde/douaratil/caohaydhan/)** a vu sa description **réécrite de fond en comble**, dévoilant plus de détails sur ses mystères, ses marchés, et ses tensions internes.
+De même, les villes de **[Minas Mor Leidr](/atlas-du-monde/douaratil/minas-mor-leidr/)** et de **[Notteilift](/atlas-du-monde/royaumes-melgs/notteilift/)** ont été revisitées pour offrir un portrait plus vivant et immersif de leurs habitants et de leur histoire.
+Une nouvelle cité a fait son entrée : **[Masyvum](/atlas-du-monde/douaratil/masyvum/)**, la **capitale Meldète**, cœur battant d’intrigues et de traditions ancestrales.
 
 ### **PNJ**
 
-De nouveaux visages pour les personnages :
+Les illustrations de certains personnages notables de la région de Sooghai ont été **rafraîchies**, pour mieux refléter leur présence et leur personnalité :
 
-* Changement d’illustration de [**Lenthabetse Thusego**](/PNJ/Sooghai/#lenthabetse-thusego).
-* Changement d’illustration de [**Mtshumayeli Phahla**](/PNJ/Sooghai/#mtshumayeli-phahla).
+* **[Lenthabetse Thusego](/PNJ/Sooghai/#lenthabetse-thusego)** a désormais un portrait plus représentatif de sa stature.
+* **[Mtshumayeli Phahla](/PNJ/Sooghai/#mtshumayeli-phahla)** bénéficie également d’une illustration renouvelée.
 
 ### **Bestiaire**
 
-Les profondeurs marines et les abysses draconiques livrent leurs monstres :
+Enfin, le bestiaire continue de s’étoffer avec des créatures qui viennent peupler les océans et les cieux de Douaratil. Trois nouvelles entrées marquent cette mise à jour :
 
-* Ajout du poisson carnassier [**Abyloth**](/bestiaire/abyloth).
-* Ajout du poisson prédateur [**Gorvak**](/bestiaire/gorvak).
-* Ajout du dragon venimeux [**Nerovhyr**](/bestiaire/nerovhyr).
+* L’arrivée du **poisson carnassier [Abyloth](/bestiaire/abyloth)**, véritable terreur des profondeurs.
+* L’introduction du **[Gorvak](/bestiaire/gorvak)**, une bête aux mâchoires redoutables.
+* Et la révélation du dragon **[Nerovhyr](/bestiaire/nerovhyr)**, un être ancien et majestueux, empreint d’une aura de destruction.
 
-
-**Le monde s’enrichit, s’assombrit, et ne cesse de respirer au rythme de ces nouvelles pages.**
-
+**Douaratil continue de grandir**, mêlant des détails toujours plus riches à son atmosphère sombre et fascinante.
+Bon jeu à toutes et tous !
 
 §§§ .text-right
 _**Olivier**_,  
@@ -105,7 +116,7 @@ Le vent se lève à peine sur les marécages et les abysses, mais dans les pages
 
 * Le ciel n’est pas en reste : ajout des illustrations du [**Vautour**](/bestiaire/vautour), de son imposant cousin le [**Vautour géant**](/bestiaire/vautour-geant).
 
-* Attention ou vous mettez les pieds avec les illsutrations de la [**Vipère de Zanskaran**](/bestiaire/vipere-de-zanskaran) et de la [**Vipère du marais**](/bestiaire/vipere-du-marais).
+* Attention ou vous mettez les pieds avec les illustrations de la [**Vipère de Zanskaran**](/bestiaire/vipere-de-zanskaran) et de la [**Vipère du marais**](/bestiaire/vipere-du-marais).
 
 * Des créatures déjà présentes reçoivent un souffle nouveau avec des illustrations retravaillées : le terrifiant [**Vhaxrrixz**](/bestiaire/vhaxrrixz), le [**Vulturh**](/bestiaire/vulturh), le [**Wyrm des sables**](/bestiaire/wyrm-des-sables), le [**Xiphactinus**](/bestiaire/xiphactinus) et la silhouette éthérée d’[**Ylohane**](/bestiaire/ylohane).
 
