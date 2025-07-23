@@ -17,6 +17,19 @@ Merci à mes joueurs pour la relecture, les inspirations, les idées et les prop
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 243 ✧
+
+![Mise à jour 243](https://www.douaratil.fr/illustrations/site/maj243.jpeg)
+
+**Grimoire**   
+- Correction du coût des sorts en surcharge pour **[Pomme de feu](/grimoire/pomme-de-feu)** et **[Pomme de ronce](/grimoire/pomme-de-ronce)**. Merci à Elric pour sa vigilance.    
+- Ajout du sort [Danse des feuilles](/grimoire/danse-des-feuilles)   
+- Ajout du sort [Poil d'églantier](/grimoire/poil-d-eglantier)   
+
+§§§ .text-right
+_**Olivier**_,  
+_le 23 juillet 2025_
+§§§
 
 ## ✧ Mise à jour 242 ✧
 
@@ -43,8 +56,8 @@ De nouvelles créatures viennent s’ajouter, chacune portant en elle une légen
 Trois nouveaux sorts enrichissent la magie de Douaratil, offrant des armes tout aussi destructrices que stratégiques :
 
 * **[Pomme de feu](/grimoire/pomme-de-feu)**, sphère incandescente prête à exploser et réduire en cendres tout ce qu’elle touche.
-* **[Pomme de ronce](/grimoire/pomme-de-ronce)**, un enchantement cruel transformant le terrain en un piège d’épines acérées.
-* **[Stase venimeuse](/grimoire/stase-venimeuse)**, magie immobile et implacable qui scelle l’ennemi dans un carcan de poison et de douleur.
+* **[Pomme de ronce](/grimoire/pomme-de-ronce)**, un projectile explosif plein d’épines acérées.   
+* **[Stase venimeuse](/grimoire/stase-venimeuse)**, magie qui permet de stabiliser l'état d'une personne empoisonnée sans en guérir les effets.
 
 §§§ .text-right
 _**Olivier**_,  

@@ -16,7 +16,7 @@ ritual: false
 classes:
   - Magie
 ---
-**Coût** : 8 points de Magie (Disciple)  
+**Coût** : 10 points de Magie (Apprenti)  
 
 **Enchantement** : La pomme de pin doit être enduite d’huile résineuse et marquée d’un sceau arcanique gravé au couteau. L’enchantement nécessite 1 heure de préparation, 8 po de consommables (huile, herbes) et un test d’Arcane (DD 12).
 
@@ -34,6 +34,6 @@ Vous enflammez une pomme de pin que vous projetez sur une cible dans un rayon de
 
 **Surcharge**
 Ce sort peut être lancé avec une puissance supérieure en dépensant plus de points de Magie :  
-- **Niveau Apprenti (10 PM)** : L’explosion inflige **3d6 perforants + 2d6 feu** à la cible directe, et **2d6 feu** dans un rayon de **4 mètres**.  
-- **Niveau Adepte (14 PM)** : L’explosion inflige **4d6 perforants + 2d6 feu**, et **2d6 feu** dans un rayon de **5 mètres**.  
-- **Niveau Expert (16 PM)** : L’explosion inflige **5d6 perforants + 3d6 feu**, et **3d6 feu** dans un rayon de **6 mètres**.
+- **Niveau Adepte** : L’explosion inflige **3d6 perforants + 2d6 feu** à la cible directe, et **2d6 feu** dans un rayon de **4 mètres**.  
+- **Niveau Expert** : L’explosion inflige **4d6 perforants + 2d6 feu**, et **2d6 feu** dans un rayon de **5 mètres**.  
+- **Niveau Maître** : L’explosion inflige **5d6 perforants + 3d6 feu**, et **3d6 feu** dans un rayon de **6 mètres**.
