@@ -40,17 +40,7 @@ Vous créez un tourbillon de feuilles mortes dans un rayon de **9 mètres** auto
    - Confère un **bonus de +2 à la VD** et **[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les projectiles non-magiques** jusqu’au début de votre prochain tour.  
    - Les ennemis subissant un contact direct avec le tourbillon reçoivent 1d6 dégâts tranchants (aucun jet d’attaque, dégâts automatiques).
 
----
-
 ### **Surcharge**  
 - **Niveau Apprenti** : Attaque à **3d6 tranchants**, bouclier conférant **+3 à la CA**.  
 - **Niveau Adepte** : Attaque à **4d6 tranchants**, bouclier conférant **+3 CA et renvoie 1d6 tranchants** à tout assaillant en contact.  
 - **Niveau Expert** : Attaque à **5d6 tranchants**, bouclier conférant **+4 CA**, le tourbillon **protège deux alliés** à 6 mètres.
-
----
-
-### **Idée d’amélioration**  
-On pourrait créer une version **« Danse des Feuilles Noires »** pour la voie de l’Ombre : un tourbillon de feuilles mortes imbibées d’énergie sombre, infligeant des dégâts nécrotiques en plus des lacérations.
-
-**Veux-tu que je prépare cette version de l’Ombre comme un sort distinct, plus sinistre et adapté à la voie des Ombres ?**
-```
