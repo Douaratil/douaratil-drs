@@ -27,8 +27,6 @@ classes:
 *Tourbillon, protège et tranche en une même union,*  
 *de ma main s’élève ta vive rotation !*
 
----
-
 ### **Description**  
 Vous créez un tourbillon de feuilles mortes dans un rayon de **9 mètres** autour de vous. Il peut être utilisé de deux façons **à chaque tour**, en dépensant votre action :
 

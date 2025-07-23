@@ -15,7 +15,6 @@ components:
 ritual: false
 classes:
   - Magie
-  - Ombre
 ---
 **Coût** : 2 points de Magie (Novice)
 

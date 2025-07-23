@@ -23,8 +23,12 @@ Visites:
 
 **Grimoire**   
 - Correction du coût des sorts en surcharge pour **[Pomme de feu](/grimoire/pomme-de-feu)** et **[Pomme de ronce](/grimoire/pomme-de-ronce)**. Merci à Elric pour sa vigilance.    
+- Ajout du sort [Chardon mordant](/grimoire/chardon-mordant)   
 - Ajout du sort [Danse des feuilles](/grimoire/danse-des-feuilles)   
+- Ajout du sort [Danse des feuilles noires](/grimoire/danse-des-feuilles-noires)   
+- Ajout du sort [graine de confusion](/grimoire/graine-de-confusion)   
 - Ajout du sort [Poil d'églantier](/grimoire/poil-d-eglantier)   
+- Ajout du sort [Poussière d'orties](/grimoire/poussiere-d-orties)   
 
 §§§ .text-right
 _**Olivier**_,  
