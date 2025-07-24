@@ -30,6 +30,13 @@ Visites:
 - Ajout du sort [Poil d'églantier](/grimoire/poil-d-eglantier)   
 - Ajout du sort [Poussière d'orties](/grimoire/poussiere-d-orties)   
 
+**Bestiaire**   
+- Ajout du [Ghulvarg cornu](/bestiaire/ghulvarg-cornu)     
+
+** Poisons**   
+- Ajout de la section des [Poisons musculaires](/poisons/musculaires/)   
+- Ajout du [Tharvess](/poions/musculaire/#tharvess)
+
 §§§ .text-right
 _**Olivier**_,  
 _le 23 juillet 2025_
