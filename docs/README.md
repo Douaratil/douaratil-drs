@@ -35,11 +35,12 @@ Visites:
 
 ** Poisons**   
 - Ajout de la section des [Poisons musculaires](/poisons/musculaires/)   
+- Ajout du [Rathka](/poions/musculaire/#rathka)
 - Ajout du [Tharvess](/poions/musculaire/#tharvess)
 
 §§§ .text-right
 _**Olivier**_,  
-_le 23 juillet 2025_
+_le 25 juillet 2025_
 §§§
 
 ## ✧ Mise à jour 242 ✧
