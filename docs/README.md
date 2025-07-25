@@ -21,22 +21,33 @@ Visites:
 
 ![Mise à jour 243](https://www.douaratil.fr/illustrations/site/maj243.jpeg)
 
-**Grimoire**   
-- Correction du coût des sorts en surcharge pour **[Pomme de feu](/grimoire/pomme-de-feu)** et **[Pomme de ronce](/grimoire/pomme-de-ronce)**. Merci à Elric pour sa vigilance.    
-- Ajout du sort [Chardon mordant](/grimoire/chardon-mordant)   
-- Ajout du sort [Danse des feuilles](/grimoire/danse-des-feuilles)   
-- Ajout du sort [Danse des feuilles noires](/grimoire/danse-des-feuilles-noires)   
-- Ajout du sort [Graine de confusion](/grimoire/graine-de-confusion)   
-- Ajout du sort [Poil d'églantier](/grimoire/poil-d-eglantier)   
-- Ajout du sort [Poussière d'orties](/grimoire/poussiere-d-orties)   
+La mise à jour 243 vient apporter son lot de nouveautés et de précisions, mêlant corrections importantes et ajouts inspirés, aussi bien dans le **Grimoire** que dans le **Bestiaire**, sans oublier l’arrivée d’une nouvelle section de poisons particulièrement redoutables.
 
-**Bestiaire**   
-- Ajout du [Ghulvarg cornu](/bestiaire/ghulvarg-cornu)     
+### **Grimoire**
 
-** Poisons**   
-- Ajout de la section des [Poisons musculaires](/poisons/musculaires/)   
-- Ajout du [Rathka](/poions/musculaire/#rathka)
-- Ajout du [Tharvess](/poions/musculaire/#tharvess)
+Suite aux retours de la communauté, nous avons corrigé les coûts des sorts en surcharge pour **[Pomme de feu](/grimoire/pomme-de-feu)** et **[Pomme de ronce](/grimoire/pomme-de-ronce)**. Un grand merci à **Elric** pour sa vigilance et ses remarques précieuses.
+
+En parallèle, le grimoire s’étoffe de nouveaux sorts aux saveurs végétales et sauvages :
+
+* **[Chardon mordant](/grimoire/chardon-mordant)**, une incantation piquante et agressive.
+* **[Danse des feuilles](/grimoire/danse-des-feuilles)**, un sort gracieux où la nature s’éveille.
+* **[Danse des feuilles noires](/grimoire/danse-des-feuilles-noires)**, la version plus sombre et empoisonnée de la précédente.
+* **[Graine de confusion](/grimoire/graine-de-confusion)**, pour troubler l’esprit des ennemis.
+* **[Poil d’églantier](/grimoire/poil-d-eglantier)**, une magie défensive qui lacère tout intrus.
+* **[Poussière d’orties](/grimoire/poussiere-d-orties)**, un sort irritant et douloureux, idéal pour disperser une menace.
+
+### **Bestiaire**
+
+Une nouvelle créature terrifiante rejoint le catalogue : le **[Ghulvarg cornu](/bestiaire/ghulvarg-cornu)**.
+Cette bête, surgie des forêts les plus sombres, incarne le mélange cauchemardesque de la férocité animale et d’une présence surnaturelle. Son rugissement glace le sang, et ses bois sanglants sont devenus la hantise des chasseurs imprudents.
+
+### **Poisons**
+
+La mise à jour marque également l’arrivée de la **section des [Poisons musculaires](/poisons/musculaires/)**, des toxines conçues pour paralyser, affaiblir ou détruire la force vitale des victimes.
+Deux nouvelles substances particulièrement létales font leur entrée :
+
+* **[Rathka](/poisons/musculaires/#rathka)**, un poison corrosif qui s’attaque aux fibres musculaires.
+* **[Tharvess](/poisons/musculaires/#tharvess)**, une toxine sournoise qui ronge lentement les nerfs moteurs, plongeant la proie dans une agonie silencieuse.
 
 §§§ .text-right
 _**Olivier**_,  

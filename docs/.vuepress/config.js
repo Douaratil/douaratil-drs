@@ -725,6 +725,11 @@ module.exports = {
                 icon: 'mdi-bacteria',
                 path: '/poisons/conversion/'
               },
+              {
+                title: "Musculaires",
+                icon: 'mdi-arm-flex',
+                path: '/poisons/musculaires/'
+              },
             ]
           },
           {
