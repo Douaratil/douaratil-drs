@@ -19,6 +19,18 @@ Visites:
 
 ## ✧ Mise à jour 243 ✧
 
+![Mise à jour 244](https://www.douaratil.fr/illustrations/site/maj244.jpeg)
+
+**Poisons** 
+- Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**
+
+§§§ .text-right
+_**Olivier**_,  
+_le 10 Août 2025_
+§§§
+
+## ✧ Mise à jour 243 ✧
+
 ![Mise à jour 243](https://www.douaratil.fr/illustrations/site/maj243.jpeg)
 
 La mise à jour 243 vient apporter son lot de nouveautés et de précisions, mêlant corrections importantes et ajouts inspirés, aussi bien dans le **Grimoire** que dans le **Bestiaire**, sans oublier l’arrivée d’une nouvelle section de poisons particulièrement redoutables.
