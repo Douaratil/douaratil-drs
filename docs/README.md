@@ -22,7 +22,9 @@ Visites:
 ![Mise à jour 244](https://www.douaratil.fr/illustrations/site/maj244.jpeg)
 
 **Poisons** 
-- Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**
+- Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**.       
+- Ajout de la section des poisons [nerveux](/poisons/nerveux/).   
+- Ajout du **[Noctirys](/poisons/nerveux/#noctirys)**.    
 
 §§§ .text-right
 _**Olivier**_,  

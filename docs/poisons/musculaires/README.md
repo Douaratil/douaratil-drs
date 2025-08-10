@@ -56,31 +56,31 @@ Le Tharvess est utilisé sous forme de **pâte** (Empoisonneur DD 18, Survie DD 
 * Une dose provoque une **perte d’audition immédiate** qui entraine une [surdité](/gerer-la-sante-du-personnage/#assourdi) et inflige **2d6 dégâts internes** par spasmes musculaires (la moitié en cas de réussite du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde)).   
 * En cas d’échec au [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), la victime subit une **faiblesse musculaire totale** avec le statut [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1d6 heures.   
 
-## **Vorraska**
+## **Vorraska**.  
 
-**Description**
-Le Vorraska est issu de la peau lisse et sombre d’une grenouille arboricole rare, dont les glandes sécrètent une **pâte toxique brun verdâtre**. Ce poison agit rapidement, perturbant le système neuromusculaire : il peut provoquer **la cécité** ou **plonger la victime dans le coma**, et dans les cas les plus graves, entraîner la **mort en quelques instants**.
+**Description**.  
+Le Vorraska est issu de la peau lisse et sombre d’une grenouille arboricole rare, dont les glandes sécrètent une **pâte toxique brun verdâtre**. Ce poison agit rapidement, perturbant le système neuromusculaire : il peut provoquer **la cécité** ou **plonger la victime dans le coma**, et dans les cas les plus graves, entraîner la **mort en quelques instants**.   
 
-**Localisation**
-La grenouille Vorraska vit dans les **forêts tropicales humides**, accrochée aux branches supérieures des arbres proches des points d’eau stagnante. Sa peau luisante et ses yeux rouge sombre la rendent facilement identifiable… à condition de la voir avant qu’elle ne vous touche.
+**Localisation**.  
+La grenouille Vorraska vit dans les **forêts tropicales humides**, accrochée aux branches supérieures des arbres proches des points d’eau stagnante. Sa peau luisante et ses yeux rouge sombre la rendent facilement identifiable… à condition de la voir avant qu’elle ne vous touche.   
 
-**Hivers** : DD 35
-**Printemps** : DD 28
-**Été** : DD 28
-**Automne** : DD 35
-Une capture réussie permet d’extraire **1 dose** par grenouille (Survie DD 22, manipulation avec outils spécialisés indispensable).
+**Hivers** : DD 35.  
+**Printemps** : DD 28.  
+**Été** : DD 28.  
+**Automne** : DD 35.  
+Une capture réussie permet d’extraire **1 dose** par grenouille (Survie DD 22, manipulation avec outils spécialisés indispensable).   
 
-**Valeur** : 31 pièces d’or la dose.
+**Valeur** : 31 pièces d’or la dose.   
 
-**Facteur d'addiction** : Aucun (poison)
-**Toxicité** : DD 20 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets)
+**Facteur d'addiction** : Aucun (poison).  
+**Toxicité** : DD 20 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).  
 
-**Utilisation**
-Le Vorraska se prépare sous forme de **pâte** (Empoisonneur DD 18, Survie DD 22). Il est appliqué sur des **armes tranchantes ou perforantes**.
+**Utilisation**.   
+Le Vorraska se prépare sous forme de **pâte** (Empoisonneur DD 18, Survie DD 22). Il est appliqué sur des **armes tranchantes ou perforantes**.   
 
-* Échec critique au jet de sauvegarde : **mort immédiate**.
-* Échec de plus de 5 : **coma profond** et **cécité**.
-* Échec de 10 : **cécité partielle ou totale** (1d2 yeux).
+* Échec critique au jet de sauvegarde : **mort immédiate**.   
+* Échec de plus de 5 : **coma profond** et **cécité**.   
+* Échec de 10 : **cécité partielle ou totale** (1d2 yeux).   
 
-La cécité est permanente sans intervention magique. Le coma peut durer de **1d6 jours** à **plusieurs semaines** selon la résistance de la victime.
+La cécité est permanente sans intervention magique. Le coma peut durer de **1d6 jours** à **plusieurs semaines** selon la résistance de la victime.    
 
