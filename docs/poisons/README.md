@@ -2,7 +2,7 @@
 title: "Les poisons"
 ---
 # Les poisons
-Les poisons se divisent en quatre catégories d'utilisation et
+Les poisons se divisent en catégories d'utilisation.
 
 ## catégories d'utilisation
 **Contact**. Un poison agissant par contact s'applique sur un objet et reste efficace jusqu'à ce que quelqu'un le touche ou qu'on lave la surface de l'objet. Une créature souffre des effets de ce poison si ce dernier entre en contact avec une zone de peau à nu.
@@ -15,13 +15,24 @@ Les poisons se divisent en quatre catégories d'utilisation et
 
 ## Type de poisons
 
+**circulatoire** un poison circulatoire agit sur les fluide du corps et particulièrement sur le système sanguin, créant des hémorragies. 
+
+**conversion** un poison de conversion convertit une partie affectée. Certaines araignées et créatures utilisent ce type de poison pour liquéfier leur proie et l'aspirer ensuite.   
+
+**intoxicant** un poison ******
+
 **musculaire** un poison musculaire s'attaque aux muscles, le plus souvent sous forme de crampes douloureuses qui peuvent atteindre le cœur.  
+
+**nerveux** un poison ******
+
+**réduction** un poison ******
 
 **respiratoire** un poison respiratoire s'attaque au système respiratoire et paralyse les fonctions d’assimilation de l'oxygène en créant souvent des embolies.  
 
-**circulatoire** un poison circulatoire agit sur les fluide du corps et particulièrement sur le système sanguin, créant des hémorragies.   
 
-**conversion** un poison de conversion convertit une partie affectée. Certaines araignées et créatures utilisent ce type de poison pour liquéfier leur proie et l'aspirer ensuite.   
+
+
+  
 
 
 ## Les poisons
@@ -69,7 +80,7 @@ Ce poison se récolte sur un ver pourpre mort ou [_neutralisé_](/gerer-la-sante
 Ce poison se récolte sur une vouivre morte ou [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Si elle échoue, elle subit 7d6 dégâts de poison, la moitié seulement si elle réussit.
 
 ### Poison Selmonite (blessure)
-En règle générale, les drows sont les seuls à fabriquer ce poison et seulement en des lieux très éloignés de la lumière du soleil. Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Si elle rate son jet de 5 ou plus, elle est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) tout le temps que dure l'empoisonnement. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
+En règle générale, les Selmonites sont les seuls à fabriquer ce poison et seulement en des lieux très éloignés de la lumière du soleil. Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Si elle rate son jet de 5 ou plus, elle est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) tout le temps que dure l'empoisonnement. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
 
 ### Sang d'assassin (ingestion)
 Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD  10. Si elle le rate, elle subit 2d6) dégâts de poison et elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 24 heures. Si elle le réussit, elle subit la moitié des dégâts seulement et elle n'est pas [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).
