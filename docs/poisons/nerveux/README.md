@@ -4,6 +4,31 @@ title: "Les poisons nerveux"
 # Les poisons musculaires
 L'antidote universel pour les poisons nerveux est le [shîn](/herbier/antidotes/#shin). Une dose d'antidote permet d'annuler un empoisonnement.   
 
+## **Dravnyr**.  
+
+**Description**.  
+Le Dravnyr est tiré de la salive corrosive d’un petit lézard cavernicole, à la peau écailleuse brun rouille et aux yeux d’un jaune terne. Ce **liquide brunâtre** attaque le système nerveux avec une rapidité terrifiante, rongeant les terminaisons nerveuses et laissant la victime **incapable de bouger ou de réagir**. Les dégâts sont souvent irréversibles, même après un traitement.   
+
+**Localisation**.  
+Le lézard Dravnyr vit dans les **tunnels souterrains et grottes profondes** des régions montagneuses. Solitaire et territorial, il se nourrit principalement de chauves-souris et de rongeurs, mais n’hésite pas à s’en prendre à des proies plus grandes lorsqu’il est acculé.   
+
+**Hivers** : DD 27.  
+**Printemps** : DD 24.  
+**Été** : DD 23.  
+**Automne** : DD 25.  
+Une capture réussie permet d’extraire **1 dose** de salive par drake (Survie DD 24).   
+
+**Valeur** : 56 pièces d’or la dose.   
+
+**Facteur d'addiction** : Aucun (poison).   
+**Toxicité** : DD 14 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).   
+
+**Utilisation**.   
+Le Dravnyr s’emploie sous forme de **liquide** (Empoisonneur DD 18, Survie DD 24). Il est appliqué sur des **armes perforantes ou tranchantes**.    
+
+* Échec au jet de sauvegarde : la victime subit une **érosion nerveuse fulgurante** entraînant un malus de -10 à toutes les actions, et l’incapacité de parler ou de se mouvoir, pendant **3d6 rounds** avant mort par arrêt respiratoire.    
+* Réussite : perte de motricité fine (-5 aux actions nécessitant précision) et douleurs nerveuses persistantes pendant **1d6 jours**.    
+
 ## **Luntharys**.  
 
 **Description**.   
@@ -28,6 +53,56 @@ Le Luntharys s’utilise sous forme de **poudre** (Empoisonneur DD 15, Survie DD
 
 * En cas d’échec au jet de sauvegarde : la victime entre dans un état euphorique (-5 à tous les jets de vigilance et perception) pendant **2d6 rounds**, avant que son cerveau ne subisse une **dégénérescence fatale** entraînant la mort en **2d6 minutes**.    
 * En cas de réussite : la victime survit mais souffre de pertes de mémoire graves et irréversibles.    
+
+## **Morrivane**.  
+
+**Description**.   
+Le Morrivane provient d’un petit fruit violet sombre, à la peau presque noire et à la pulpe rougeâtre. Réduit en **pâte épaisse et sucrée**, il devient un poison qui agit en quelques secondes, **neutralisant les sensations dans certaines parties du corps**. Les victimes touchées perdent toute sensibilité dans les zones affectées, ce qui peut les exposer à des blessures graves sans même s’en rendre compte.    
+ 
+**Localisation**.  
+Le Morrivane pousse dans les **forêts tropicales denses**, souvent près des zones humides et marécageuses. Ses fruits pendent en grappes, mais leur couleur sombre les rend difficiles à repérer dans la végétation épaisse.   
+
+**Hivers** : DD 20.   
+**Printemps** : DD 18.  
+**Été** : DD 17.  
+**Automne** : DD 19.  
+Une prospection réussie permet de récolter **1d6 fruits** (Survie DD 19). Un fruit correspond à une dose de poison.   
+
+**Valeur** : 13 pièces d’or la dose.   
+
+**Facteur d'addiction** : Aucun (poison).   
+**Toxicité** : DD 11 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).  
+
+**Utilisation**.  
+Le Morrivane s’emploie sous forme de **pâte** (Empoisonneur DD 14, Survie DD 19). Il est appliqué sur des **armes perforantes** ou directement sur une plaie ouverte.   
+
+* Échec au jet de sauvegarde : perte totale de sensibilité dans **1d6 parties du corps** (tête, mains, pieds, organes génitaux) pendant **10d6 jours**.    
+* Réussite : engourdissement et perte de coordination (-4 en Dextérité) pendant **1d6 jours**.     
+
+## **Nerthalyss**
+
+**Description**
+Le Nerthalyss provient d’une fleur spectrale aux pétales d’un blanc pur irisé, qui ne pousse que sur les cimes enneigées. Réduite en **pâte soyeuse et translucide**, elle devient un poison d’une puissance inégalée : il **paralyse instantanément** la victime, puis **détruit complètement le système nerveux**, entraînant la mort en quelques minutes.
+
+**Localisation**
+Le Nerthalyss pousse uniquement dans les **hautes montagnes glacées**, souvent à flanc de falaise, là où seuls les vents violents transportent ses graines. Sa cueillette est extrêmement périlleuse, non seulement à cause de l’altitude, mais aussi de la rareté de la fleur.
+
+**Hivers** : DD 34
+**Printemps** : DD 31
+**Été** : DD 29
+**Automne** : DD 32
+Une prospection réussie permet de récolter **1 dose** par fleur (Survie DD 29), uniquement au moment de sa floraison, très brève.
+
+**Valeur** : 1 200 pièces d’or la dose.
+
+**Facteur d'addiction** : Aucun (poison)
+**Toxicité** : DD 22 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets)
+
+**Utilisation**
+Le Nerthalyss est utilisé sous forme de **pâte** (Empoisonneur DD 24, Survie DD 29). Il est appliqué sur des **armes perforantes ou tranchantes**.
+
+* Échec au jet de sauvegarde : **paralysie totale immédiate**, suivie de la mort en **1d6 minutes**.
+* Réussite partielle : paralysie totale pendant **1d6 heures**, avec risque (5 ou 6 sur 1d6) de séquelles nerveuses graves (-2 permanent en Dextérité et Force).
 
 ## **Noctirys**.  
 

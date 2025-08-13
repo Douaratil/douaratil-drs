@@ -32,6 +32,9 @@ Les poisons se divisent en catégories d'utilisation.
 ## Les antidotes
 Si les poisons sont de terribles substances, heureusement les antidotes existent et sont très puissants et rapides. Ils annulent immédiatement les effets d'un poison selon spectre d'effet. Si une personne résiste à un poison sans antidote, elle ne subit pas les effets principaux du poison mais son organisme met du temps à récupérer. Durant 1d6 X 10 minutes, elle a le statut [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).   
 
+## L'aspect moral et la SAM
+Utiliser le poison est souvent considéré comme acte mauvais et déloyal. Ainsi suivant l'alignement de la personne, elle peut avoir une réticence à utiliser ce procéder. Et même en l'utilisant, cela peut affecter  sa [santé mentale](/sante-mentale/#utiliser-le-poison)
+
 
   
 

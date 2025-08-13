@@ -24,14 +24,16 @@ Visites:
 **Poisons** 
 - Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**.       
 - Ajout de la section des poisons [nerveux](/poisons/nerveux/).   
+- Ajout du **[Dravnyr](/poisons/nerveux/#dravnyr)**.   
 - Ajout du **[Luntharys](/poisons/nerveux/#luntharys)**.   
+- Ajout du **[Morrivane](/poisons/nerveux/#morrivane)**.   
 - Ajout du **[Noctirys](/poisons/nerveux/#noctirys)**.    
 - Ajout du **[Skarrven](/poisons/nerveux/#skarrven)**.  
 - Ajout du **[Verrathis](/poisons/nerveux/#verrathis)**.      
 
 §§§ .text-right
 _**Olivier**_,  
-_le 10 Août 2025_
+_le 13 Août 2025_
 §§§
 
 ## ✧ Mise à jour 243 ✧
