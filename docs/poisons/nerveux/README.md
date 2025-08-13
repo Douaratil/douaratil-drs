@@ -1,7 +1,7 @@
 ---
 title: "Les poisons nerveux"
 ---
-# Les poisons musculaires
+# Les poisons musculaires.  
 L'antidote universel pour les poisons nerveux est le [shîn](/herbier/antidotes/#shin). Une dose d'antidote permet d'annuler un empoisonnement.   
 
 ## **Dravnyr**.  
@@ -81,28 +81,28 @@ Le Morrivane s’emploie sous forme de **pâte** (Empoisonneur DD 14, Survie DD 
 
 ## **Nerthalyss**
 
-**Description**
-Le Nerthalyss provient d’une fleur spectrale aux pétales d’un blanc pur irisé, qui ne pousse que sur les cimes enneigées. Réduite en **pâte soyeuse et translucide**, elle devient un poison d’une puissance inégalée : il **paralyse instantanément** la victime, puis **détruit complètement le système nerveux**, entraînant la mort en quelques minutes.
+**Description**.  
+Le Nerthalyss provient d’une fleur spectrale aux pétales d’un blanc pur irisé, qui ne pousse que sur les cimes enneigées. Réduite en **pâte soyeuse et translucide**, elle devient un poison d’une puissance inégalée : il **paralyse instantanément** la victime, puis **détruit complètement le système nerveux**, entraînant la mort en quelques minutes.   
 
-**Localisation**
-Le Nerthalyss pousse uniquement dans les **hautes montagnes glacées**, souvent à flanc de falaise, là où seuls les vents violents transportent ses graines. Sa cueillette est extrêmement périlleuse, non seulement à cause de l’altitude, mais aussi de la rareté de la fleur.
+**Localisation**.  
+Le Nerthalyss pousse uniquement dans les **hautes montagnes glacées**, souvent à flanc de falaise, là où seuls les vents violents transportent ses graines. Sa cueillette est extrêmement périlleuse, non seulement à cause de l’altitude, mais aussi de la rareté de la fleur.   
 
-**Hivers** : DD 34
-**Printemps** : DD 31
-**Été** : DD 29
-**Automne** : DD 32
-Une prospection réussie permet de récolter **1 dose** par fleur (Survie DD 29), uniquement au moment de sa floraison, très brève.
+**Hivers** : DD 34.  
+**Printemps** : DD 31. 
+**Été** : DD 29.  
+**Automne** : DD 32.  
+Une prospection réussie permet de récolter **1 dose** par fleur (Survie DD 29), uniquement au moment de sa floraison, très brève.   
 
-**Valeur** : 1 200 pièces d’or la dose.
+**Valeur** : 1 200 pièces d’or la dose.   
 
-**Facteur d'addiction** : Aucun (poison)
-**Toxicité** : DD 22 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets)
+**Facteur d'addiction** : Aucun (poison).  
+**Toxicité** : DD 22 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).  
 
-**Utilisation**
-Le Nerthalyss est utilisé sous forme de **pâte** (Empoisonneur DD 24, Survie DD 29). Il est appliqué sur des **armes perforantes ou tranchantes**.
+**Utilisation**.  
+Le Nerthalyss est utilisé sous forme de **pâte** (Empoisonneur DD 24, Survie DD 29). Il est appliqué sur des **armes perforantes ou tranchantes**.   
 
-* Échec au jet de sauvegarde : **paralysie totale immédiate**, suivie de la mort en **1d6 minutes**.
-* Réussite partielle : paralysie totale pendant **1d6 heures**, avec risque (5 ou 6 sur 1d6) de séquelles nerveuses graves (-2 permanent en Dextérité et Force).
+* Échec au jet de sauvegarde : **paralysie totale immédiate**, suivie de la mort en **1d6 minutes**.   
+* Réussite partielle : paralysie totale pendant **1d6 heures**, avec risque (5 ou 6 sur 1d6) de séquelles nerveuses graves (-2 permanent en Dextérité et Force).   
 
 ## **Noctirys**.  
 
@@ -128,6 +128,32 @@ Le Noctirys se prépare sous forme de **pâte** (Empoisonneur DD 22, Survie DD 2
 
 * En cas d’échec au jet de sauvegarde : **mort en 1d6 rounds** par arrêt complet du système nerveux.   
 * En cas de réussite : paralysie totale pendant **1d6 heures**, suivie de séquelles nerveuses graves (-2 pendant 1d6 semaines en Dextérité et Force) et ooints d'action à 50% de leur maximum.   
+
+## **Orrivash**
+
+**Description**
+L’Orrivash est issu du venin sécrété par un poisson marin de grande taille, aux écailles bleu nuit et aux yeux entièrement noirs. Ce **liquide translucide légèrement bleuté** agit sur le système nerveux central avec une violence extrême, provoquant une **paralysie progressive** pouvant évoluer vers un coma profond, une perte d’équilibre permanente, ou la mort.
+
+**Localisation**
+Le poisson Orrivash vit dans les **récifs côtiers des mers chaudes et agitées**. Il se cache dans les failles coralliennes et n’est capturé qu’au prix de plongées dangereuses, car il est à la fois agressif et venimeux.
+
+**Hivers** : DD 26
+**Printemps** : DD 24
+**Été** : DD 22
+**Automne** : DD 25
+Une capture réussie permet de récolter **1 dose** de venin par poisson (Survie DD 24).
+
+**Valeur** : 70 pièces d’or la dose.
+
+**Facteur d'addiction** : Aucun (poison)
+**Toxicité** : DD 15 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets)
+
+**Utilisation**
+L’Orrivash est utilisé sous forme de **liquide** (Empoisonneur DD 19, Survie DD 24). Il est appliqué sur des **armes perforantes ou tranchantes** ou injecté directement.
+
+* Échec au jet de sauvegarde de 5 ou + : **paralysie totale** en 2d6 rounds.
+* Échec de 1 à 4 : **perte d’équilibre et surdité** en 2d6 jours.
+* Réussite : **sommeil profond** pendant 2d6 heures.
 
 ## **Skarrven**
 

@@ -1,16 +1,16 @@
 ---
 title: "Antidotes"
 ---
-# Antidotes
+# Antidotes.  
 
-## Asgarbie
+## Asgarbie.  
 **Description**  
 L'asgarbie est une petite plante grasse qui ne dépasse jamais les quatre pouces. Elle reconnaissable par ses petites excroissances violettes qui pourraient rappeler des oursins. Il s'agit du fruit qui est comestible mais sans intérêt gustatif. L'asgarbie ne se trouve que dans des déserts arides. La fleure d'asgarbie a par contre des vertus d'antidote si elle est correctement préparée.
 
 **Localisation**  
 Le prospecteur devra réussir un test en Survie dans une zone désertique aride:  
 **Hivers** :DD 22  
-**Printemps** :DD 22  
+**Printemps** :DD 22   
 **Eté** :DD 22   
 **Automne** :DD 22    
 En cas de réussite, il trouvera 1d6 doses par heure de prospection.  

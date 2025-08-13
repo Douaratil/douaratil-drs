@@ -730,6 +730,16 @@ module.exports = {
                 icon: 'mdi-arm-flex',
                 path: '/poisons/musculaires/'
               },
+               {
+                title: "Nerveux",
+                icon: 'mdi-emoticon-sick',
+                path: '/poisons/nerveux/'
+              },
+               {
+                title: "Réduction",
+                icon: 'mdi mdi-human-cane',
+                path: '/poisons/reduction/'
+              },
             ]
           },
           {
