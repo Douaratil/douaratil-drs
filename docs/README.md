@@ -36,10 +36,19 @@ Visites:
 
 - Ajout de la section des poisons de [réduction](/poisons/reduction/).   
 - Ajout du **[Argelisse](/poisons/reduction/#argelisse)**.    
+- Ajout du **[Blarghess](/poisons/reduction/#blarghess)**.   
 - Ajout du **[Thalyssmor](/poisons/reduction/#thalyssmor)**.    
 - Ajout du **[Vargnyth](/poisons/reduction/#vargnyth)**.    
 - Ajout du **[Veltharyn](/poisons/reduction/#veltharyn)**.    
 - Ajout du **[Vorlyne](/poisons/reduction/#vorlyne)**.    
+
+- Ajout de la section des poisons [respiratoires](/poisons/respiratoires/).   
+- Ajout du **[Morgryl](/poisons/respiratories/#morgryl)**. 
+- Ajout du **[Morkalyth](/poisons/respiratories/#morkalyth)**. 
+- Ajout du **[Sombrépine](/poisons/respiratories/#sombrepine)**. 
+- Ajout du **[Thalyvar](/poisons/respiratories/#thalyvar)**. 
+- Ajout du **[Viridess](/poisons/respiratories/#viridess)**. 
+
 
 
 §§§ .text-right

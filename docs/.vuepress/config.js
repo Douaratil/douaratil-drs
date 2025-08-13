@@ -737,8 +737,13 @@ module.exports = {
               },
                {
                 title: "Réduction",
-                icon: 'mdi mdi-human-cane',
+                icon: 'mdi-human-cane',
                 path: '/poisons/reduction/'
+              },
+                {
+                title: "Respiratoires",
+                icon: 'mdi mdi-lungs',
+                path: '/poisons/respiratoires/'
               },
             ]
           },

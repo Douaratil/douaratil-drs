@@ -32,6 +32,31 @@ L’Argelisse s’utilise sous forme de **poudre** (Empoisonneur DD 14, Survie D
 
 Un traitement à base de pommade régénératrice et de plantes apaisantes peut réduire l’intensité des marques si appliqué rapidement.     
 
+## **Blarghess**.  
+
+**Description**.   
+Le Blarghess est un extrait tiré d’une racine bleu nuit, épaisse et noueuse, qui pousse profondément dans les sols forestiers humides. Une fois concentré en **liquide bleu vif**, ce poison attaque directement le nerf optique, provoquant une **cécité irréversible** en quelques minutes. Les victimes ressentent d’abord un éblouissement intense, suivi d’une obscurité totale, comme si leurs yeux avaient été vidés de toute lumière.   
+
+**Localisation**
+Le Blarghess se trouve dans les **forêts montagneuses tempérées**, enfoui à plus d’un mètre de profondeur. Sa récolte nécessite un travail de fouille long et minutieux, car la racine se brise facilement si elle est extraite sans précaution.   
+
+**Hivers** : DD 25.  
+**Printemps** : DD 22.  
+**Été** : DD 21.  
+**Automne** : DD 23.   
+Une prospection réussie permet de récolter **1 dose** de poison par racine entière (Survie DD 22).    
+
+**Valeur** : 139 pièces d’or la dose.    
+
+**Facteur d'addiction** : Aucun (poison).   
+**Toxicité** : DD 15 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).   
+
+**Utilisation**.   
+Le Blarghess est utilisé sous forme de **liquide** (Empoisonneur DD 18, Survie DD 22). Il est appliqué sur des **armes perforantes ou tranchantes**, ou directement dans les yeux.    
+
+* Échec au jet de sauvegarde : **cécité totale et permanente** en 1d4 minutes, accompagnée de 2d6 dégâts internes.    
+* Réussite : vision fortement diminuée (-5 à tous les tests de Perception visuelle) pendant 1d6 jours.     
+
 ## **Thalyssmor**.  
 
 **Description**.  
@@ -129,8 +154,8 @@ Une capture réussie permet de récolter **1 dose** de venin par araignée adult
 **Utilisation**.   
 Le Vorlyne se prépare sous forme de **pâte** (Empoisonneur DD 17, Survie DD 21). Il est appliqué sur des **armes perforantes ou tranchantes**.   
 
-* Échec au jet de sauvegarde : paralysie totale en **1 jour**, suivie de la mort après **1d10 jours** sans traitement.    
-* Réussite partielle : faiblesse musculaire intense (-4 en Force) et lenteur dans les mouvements pendant **1d6 jours**.   
+* Échec au jet de sauvegarde : paralysie totale en **1 jour**, suivie de la mort après **2d6 jours** sans traitement.    
+* Réussite : faiblesse musculaire intense (-4 en Force) et lenteur dans les mouvements pendant **1d6 jours**.   
 
 
 
