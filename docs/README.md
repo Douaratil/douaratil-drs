@@ -35,8 +35,11 @@ Visites:
 - Ajout du **[Verrathis](/poisons/nerveux/#verrathis)**.      
 
 - Ajout de la section des poisons de [réduction](/poisons/reduction/).   
+- Ajout du **[Argelisse](/poisons/reduction/#argelisse)**.    
 - Ajout du **[Thalyssmor](/poisons/reduction/#thalyssmor)**.    
 - Ajout du **[Vargnyth](/poisons/reduction/#vargnyth)**.    
+- Ajout du **[Veltharyn](/poisons/reduction/#veltharyn)**.    
+- Ajout du **[Vorlyne](/poisons/reduction/#vorlyne)**.    
 
 
 §§§ .text-right
