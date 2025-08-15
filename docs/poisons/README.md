@@ -13,21 +13,30 @@ Les poisons se divisent en catégories d'utilisation.
 
 **Blessure**. Un poison agissant via une blessure s'applique sur une arme, une munition, un élément d'un piège ou tout autre objet infligeant des dégâts perforants ou tranchants. Le poison reste actif tant qu'il n'a pas affecté quelqu'un ou été lavé. Une créature est soumise aux effets du poison après avoir reçu des dégâts perforants ou tranchants via un objet enduit de ce type de poison.
 
-## Type de poisons
+## Type de poisons.  
 
-**circulatoire** un poison circulatoire agit sur les fluide du corps et particulièrement sur le système sanguin, créant des hémorragies. 
+**circulatoire**.  
+Un poison circulatoire agit sur les fluides du corps et particulièrement sur le système sanguin, créant des hémorragies, des caillots ou des interruptions brutales de la circulation sanguine pouvant entraîner un arrêt cardiaque ou la nécrose des tissus.   
 
-**conversion** un poison de conversion convertit une partie affectée. Certaines araignées et créatures utilisent ce type de poison pour liquéfier leur proie et l'aspirer ensuite.   
+**conversion**.  
+Un poison de conversion modifie la nature de la partie affectée. Certaines araignées et créatures utilisent ce type de poison pour liquéfier les tissus internes de leur proie et les aspirer ensuite, ou pour transformer ces tissus en matière inerte (pierre, métal, etc.) selon le type de toxine.   
 
-**intoxicant** un poison ******
+**intoxicant**.  
+Une substance toxique qui agit principalement sur l’esprit ou la chimie interne du corps, altérant les perceptions, provoquant l’euphorie, l’hallucination, l’ivresse ou l’inconscience. Certains intoxicants sont utilisés à des fins récréatives, mais leur surdose peut être mortelle.    
 
-**musculaire** un poison musculaire s'attaque aux muscles, le plus souvent sous forme de crampes douloureuses qui peuvent atteindre le cœur.  
+**musculaire**.  
+Un poison musculaire s’attaque aux muscles, le plus souvent sous forme de crampes douloureuses qui peuvent atteindre le cœur, entraînant paralysie, spasmes incontrôlables ou arrêt cardiaque.   
 
-**nerveux** un poison ******
+**nerveux**.   
+Un poison nerveux cible directement le système nerveux central ou périphérique, provoquant des engourdissements, des convulsions, la paralysie ou la mort. Ce type de toxine peut aussi entraîner des séquelles irréversibles sur les fonctions motrices ou sensorielles.    
 
-**réduction** un poison ******
+**réduction**.   
+Un poison de réduction détruit ou altère progressivement une partie du corps ou un organe spécifique, réduisant ses capacités jusqu’à provoquer sa perte totale. Selon le poison, cette réduction peut toucher les tissus, les os, les nerfs ou même les organes vitaux.    
+ 
+**respiratoire**.   
+Un poison respiratoire s’attaque au système respiratoire et paralyse les fonctions d’assimilation de l’oxygène, créant souvent des embolies, des œdèmes pulmonaires ou une suffocation rapide.    
 
-**respiratoire** un poison respiratoire s'attaque au système respiratoire et paralyse les fonctions d’assimilation de l'oxygène en créant souvent des embolies.  
+[![Empoisonné](https://www.douaratil.fr/illustrations/regles/empoisonne300.jpeg)](https://www.douaratil.fr/illustrations/regles/empoisonne.jpeg).    
 
 ## Les antidotes
 Si les poisons sont de terribles substances, heureusement les antidotes existent et sont très puissants et rapides. Ils annulent immédiatement les effets d'un poison selon spectre d'effet. Si une personne résiste à un poison sans antidote, elle ne subit pas les effets principaux du poison mais son organisme met du temps à récupérer. Durant 1d6 X 10 minutes, elle a le statut [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).   
@@ -35,68 +44,3 @@ Si les poisons sont de terribles substances, heureusement les antidotes existent
 ## L'aspect moral et la SAM
 Utiliser le poison est souvent considéré comme acte mauvais et déloyal. Ainsi suivant l'alignement de la personne, elle peut avoir une réticence à utiliser ce procéder. Et même en l'utilisant, cela peut affecter  sa [santé mentale](/sante-mentale/#utiliser-le-poison)
 
-
-  
-
-
-## Les poisons
-| Objet | utilisation |Type | Prix pour une dose |
-|:-|:-:|:-:|
-| [**Essence éthérée**](#essence-etheree-inhalation) | inhalation |respiratoire | 300 po |
-| [**Fumées d'othur**](#fumees-d-othur-inhalation) | inhalation |respiratoire | 500 po |
-| [**Huile de taggit**](#huile-de-taggit-contact) | contact |musculaire | 400 po |
-| [**Larmes de minuit**](#larmes-de-minuit-ingestion) | ingestion |circulatoire | 1500 po |
-| [**Malice**](#malice-inhalation) | inhalation | conversion | 250 po |
-| [**Mucus de rampant**](#mucus-de-rampant-contact) | contact | conversion | 200 po |
-| [**Poison Selmonite**](#poison-selmonite-blessure) | blessure |circulatoire | 200 po |
-| [**Poison de ver pourpre**](#poison-de-ver-pourpre-blessure) | blessure | conversion | 2000 po |
-| [**Sang d'assassin**](#sang-d-assassin-ingestion) | ingestion | circulatoire | 150 po |
-| [**Sérum de vérité**](#serum-de-verite-ingestion) | ingestion | circulatoire | 150 po |
-| [**Teinture pâle**](#teinture-pale-ingestion) | ingestion | respiratoire | 250 po |
-| [**Torpeur**](#torpeur-ingestion) | ingestion | musculaire | 600 po |
-| [**Venin de serpent**](#venin-de-serpent-blessure) | blessure | musculaire| 200 po |
-
-## Exemples de poisons
-Chaque poison possède ses propres effets débilitants.
-
-### Essence éthérée (inhalation)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 8 heures. Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
-
-### Fumées d'othur (inhalation)
-Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13. Si elle le rate, elle subit 3d6 dégâts de poison et doit refaire ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) au début de chacun de ses tours. Elle subit 1d6 dégâts de poison pour chaque échec suivant. L'empoisonnement se termine après trois jets de sauvegarde réussis.
-
-### Huile de taggit (contact)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 24 heures. Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient). Elle se réveille si elle subit des dégâts.
-
-### Larmes de minuit (ingestion)
-Une créature qui ingère ce poison ne souffre d'aucun effet... jusqu'à ce que sonne le premier coup de minuit. Si le poison n'a pas été neutralisé auparavant, la créature doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17. Si elle échoue, elle subit 9d6 dégâts de poison, la moitié seulement si elle réussit.
-
-### Malice (inhalation)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) est [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle).
-
-### Mucus de rampant (contact)
-Ce poison se récolte sur un rampant mort ou [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13, sans quoi elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. Elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pendant toute la durée de l'empoisonnement, mais elle a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours. Si elle en réussit un, l'effet se termine pour elle.
-
-### Poison de ver pourpre (blessure)
-Ce poison se récolte sur un ver pourpre mort ou [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 19. Si elle échoue, elle subit 12d6 dégâts de poison, la moitié seulement si elle réussit.
-
-### Poison de vouivre (blessure)
-Ce poison se récolte sur une vouivre morte ou [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15. Si elle échoue, elle subit 7d6 dégâts de poison, la moitié seulement si elle réussit.
-
-### Poison Selmonite (blessure)
-En règle générale, les Selmonites sont les seuls à fabriquer ce poison et seulement en des lieux très éloignés de la lumière du soleil. Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Si elle rate son jet de 5 ou plus, elle est [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient) tout le temps que dure l'empoisonnement. Elle se réveille si elle subit des dégâts ou si une tierce personne utilise son action pour la réveiller en la secouant.
-
-### Sang d'assassin (ingestion)
-Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD  10. Si elle le rate, elle subit 2d6) dégâts de poison et elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 24 heures. Si elle le réussit, elle subit la moitié des dégâts seulement et elle n'est pas [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).
-
-### Sérum de vérité (ingestion)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 heure. Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) ne peut pas mentir délibérément, comme si elle était sous l'effet du sort [_zone de vérité_](/grimoire/zone-de-verite/).
-
-### Teinture pâle (ingestion)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 16 ou subir 1d6 dégâts de poison et se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) doit répéter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) toutes les 24 heures et subit 1d6 points de dégâts de poison à chaque fois. Tant que l'empoisonnement n'est pas terminé, il est impossible de soigner les dégâts venant du poison, de quelque manière que ce soit. L'effet se termine et la victime peut guérir normalement une fois qu'elle a réussi sept jets de sauvegarde.
-
-### Torpeur (ingestion)
-Une créature soumise à ce poison doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 ou se trouver [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) pendant 4d6  heures. Une créature ainsi [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) est [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise).
-
-### Venin de serpent (blessure)
-Ce poison se récolte sur un serpent venimeux géant mort ou [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise). Une créature soumise à ce poison doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 11. Si elle échoue, elle subit 3d6 dégâts de poison, la moitié seulement si elle réussit.

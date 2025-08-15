@@ -56,7 +56,7 @@ _**Incantation innée**_. La heks sanglante utilise le Charisme comme caractéri
 _**Attaques multiples**_. La heks sanglante fait deux attaques de _griffes_ et une de _cheveux buveurs de sang_.
 
 _**Cheveux buveurs de sang**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 3 m, une cible.  
-_Touché_ : 4d6 + 5) dégâts perforants. Si la cible est de taille Moyenne ou inférieure, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) subit 3d6 + 3 dégâts nécrotiques au début du tour de la heks. Cette dernière récupère la moitié de ce montant en points d'action. Les points d'action en excès deviennent des points d'action temporaires. La heks peut empoigner une à deux créatures à la fois. Voir aussi _arracher le visage_.
+_Touché_ : 4d6 + 5 dégâts perforants. Si la cible est de taille Moyenne ou inférieure, elle est [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 15). Une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) subit 3d6 + 3 dégâts nécrotiques au début du tour de la heks. Cette dernière récupère la moitié de ce montant en points d'action. Les points d'action en excès deviennent des points d'action temporaires. La heks peut empoigner une à deux créatures à la fois. Voir aussi _arracher le visage_.
 
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 4d6 + 5 dégâts tranchants.

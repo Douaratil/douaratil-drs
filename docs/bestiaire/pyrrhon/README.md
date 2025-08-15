@@ -19,8 +19,7 @@ ac:
   value: "16 (armure naturelle)"
 skills:
   - name: "perception"
-    invalid: true
-    value: 7
+    isExpert: true
 movement:
   walk: 12
 senses:

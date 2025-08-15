@@ -4,6 +4,55 @@ title: "Les poisons respiratoires"
 # Les poisons respiratoires.   
 L'antidote universel pour les poisons respiratoires est le [Mokth](/herbier/antidotes/#mokth). Une dose d'antidote permet d'annuler un empoisonnement.  
 
+## **Bruvann**.  
+
+**Description**.   
+Le Bruvann est issu d’une baie ocre-brun, à la pulpe épaisse et à l’odeur légèrement âcre. Son jus brun, une fois concentré, devient un poison redoutable qui provoque **de violentes hémorragies internes** et une asphyxie rapide par obstruction et dégradation des tissus respiratoires.   
+
+**Localisation**.  
+Le Bruvann pousse sur un arbuste épineux des **landes et collines sèches**. Les buissons sont souvent dissimulés au milieu d’autres végétaux, et leurs baies n’apparaissent qu’en fin d’été et au début de l’automne.   
+
+**Hivers** : DD 25.  
+**Printemps** : DD 22.  
+**Été** : DD 21.  
+**Automne** : DD 23.  
+Une prospection réussie permet de récolter **1d6 baies**, soit 1 dose de poison (Survie DD 21).   
+
+**Valeur** : 154 pièces d’or la dose.   
+
+**Facteur d'addiction** : Aucun (poison).  
+**Toxicité** : DD 14 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).  
+
+**Utilisation**.  
+Le Bruvann est utilisé sous forme de **pâte** (Empoisonneur DD 17, Survie DD 21). Il est appliqué sur des **armes perforantes** ou directement dans une blessure ouverte.    
+
+* Échec au jet de sauvegarde : la victime subit **15d6 dégâts internes** aux poumons, entraînant la mort par asphyxie en quelques minutes.    
+* Réussite : respiration douloureuse et toux sanglante (-4 en Constitution) pendant 1d6 semaines.    
+
+## **Lunthirra**.  
+
+**Description**.  
+Le Lunthirra provient d’une fleur printanière rare, aux pétales rose pâle et au cœur jaune. Réduite en **pâte rosée légèrement parfumée**, elle libère un poison qui provoque une **attaque fulgurante des poumons**, entraînant des hémorragies internes et un effondrement respiratoire rapide.   
+
+**Localisation**.  
+Le Lunthirra ne fleurit qu’au printemps, dans les **prairies tempérées** et les clairières dégagées. Ses fleurs, légèrement inclinées vers le sol, sont souvent visitées par des insectes pollinisateurs qui peuvent aussi transporter des traces de son pollen toxique.   
+
+**Hivers** : — (inexistante).  
+**Printemps** : DD 20.  
+**Été** : — (fanée).  
+**Automne** : — (fanée).   
+Une prospection réussie permet de récolter **1d4 fleurs**, donnant chacune 1 dose de poison (Survie DD 20).   
+
+**Valeur** : 42 pièces d’or la dose.   
+
+**Facteur d'addiction** : Aucun (poison).   
+**Toxicité** : DD 13 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).   
+
+**Utilisation**.   
+Le Lunthirra s’utilise sous forme de **pâte** (Empoisonneur DD 15, Survie DD 20). Il est appliqué sur des **armes perforantes** ou inhalé.     
+
+* Échec au jet de sauvegarde : la victime subit **10d6 dégâts internes aux poumons**, entraînant la mort en 1d6 rounds par asphyxie.    
+* Réussite : essoufflement sévère et perte de 1d6 points de Constitution pendant 1d6 jours.   
 
 ## **Morgryl**.  
 
@@ -54,6 +103,32 @@ Le Morkalyth s’utilise sous forme de **pâte** (Empoisonneur DD 18, Survie DD 
 
 * Échec au jet de sauvegarde : destruction rapide des poumons, entraînant la mort en **6d10 rounds**.
 * Réussite : les tissus sont gravement endommagés, causant une perte de 1d6 points de Constitution et une toux sanglante pendant 1d6 lunes.    
+
+## **Senvoryl**.  
+
+**Description**.  
+Le Senvoryl est préparé à partir de feuilles vert clair à la texture veloutée, dont la sève contient un puissant agent nécrosant. Réduite en **pâte crémeuse blanc-jaune**, cette substance s’attaque aux voies respiratoires, causant une **destruction progressive des tissus pulmonaires** et un étouffement douloureux.    
+
+**Localisation**.   
+Le Senvoryl pousse dans les **prairies humides et les zones de hautes herbes**, souvent près des berges de rivières ou d’étangs. Ses feuilles sont reconnaissables à leur forme allongée et à leur nervure centrale marquée.    
+
+**Hivers** : DD 21.  
+**Printemps** : DD 19.  
+**Été** : DD 18.  
+**Automne** : DD 20.  
+Une prospection réussie permet de récolter **1d3 doses** par plante (Survie DD 18).   
+
+**Valeur** : 12 pièces d’or la dose.   
+
+**Facteur d'addiction** : Aucun (poison).  
+**Toxicité** : DD 13 ([jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de constitution pour résister aux effets).  
+
+**Utilisation**.   
+Le Senvoryl s’utilise sous forme de **pâte** (Empoisonneur DD 15, Survie DD 18). Il est appliqué sur des **armes perforantes** ou inhalé sous forme de vapeur chauffée.   
+
+* Échec au jet de sauvegarde : la victime subit **5d6 dégâts respiratoires**, avec insuffisance pulmonaire sévère entraînant la mort en quelques minutes (6d6) sans assistance.    
+* Réussite : toux persistante et faiblesse respiratoire (-2 en Constitution) pendant 1d6 jours.   
+
 
 ## **Sombrépine**.  
 

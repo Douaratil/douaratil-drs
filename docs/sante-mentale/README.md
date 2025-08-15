@@ -74,3 +74,44 @@ La perte de la totalité de ses points de santé mentale entraine toujours une [
 2 - *Une bonne nuit et tout ira mieux* Le personnage regagne aussi un point de santé mentale (SAM) par point de bonus de Sagesse (minimum 1) en effectuant un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).    
 3 - *Tout ce qui ne me tue pas me rend plus fort* Lorsque des adversaires sont vaincus, le ou les joueurs récupèrent des points de santé mental équivalent à la perte de point de santé mentale lors d'un échec de la rencontre. Pour symboliser le travaille d'équipe, les points peuvent être distribués entre les joueurs selon leur gré et s'il n'y a pas d'accord, sont répartis de manières équitable (arrondi à l'entier inférieur.)   
 Seul la créature qui fait perdre le plus de santé mentale est prise en compte.   
+
+Parfait, on va donc :
+
+* Fixer le **DD minimum** à 12 et le **DD maximum** à 28.
+* Utiliser uniquement des dés à 6 faces pour les pertes de SAM (multiples de 6).
+* Recalculer la table pour que la difficulté monte progressivement selon l’alignement, tout en conservant le principe : plus difficile pour les bons/loyaux, plus facile pour les mauvais/chaotiques.
+
+
+## Utilisation du poison et santé mentale
+
+Employer un poison pour infliger des blessures ou tuer est considéré comme un acte **déloyal** et **moralement condamnable** dans la plupart des cultures. Même chez ceux qui y voient un outil efficace, cet acte laisse une trace mentale, plus ou moins profonde selon les valeurs du personnage.   
+
+Lorsqu’un personnage **prépare, applique ou administre volontairement un poison**, il doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou de Charisme (au choix).    
+
+**DD de résistance selon l’alignement :**.   
+
+|     Alignement    |  DD |
+| :---------------: | :-: |
+|     Loyal Bon     |  28 |
+|     Neutre Bon    |  26 |
+|   Chaotique Bon   |  24 |
+|    Loyal Neutre   |  22 |
+|   Neutre strict   |  20 |
+|  Chaotique Neutre |  18 |
+|   Loyal Mauvais   |  16 |
+|   Neutre Mauvais  |  14 |
+| Chaotique Mauvais |  12 |
+
+> **Note :** Le DD reflète la lutte intérieure contre un acte jugé déloyal ou contraire à ses principes. Les alignements bons ou loyaux y sont les plus vulnérables, tandis que les mauvais ou chaotiques y résistent aisément.   
+
+**Conséquences sur la Santé Mentale :**.  
+
+* **Réussite** : perte **1d6 SAM** (malaise intérieur contenu, mais réel).   
+* **Échec** : perte **3d6 SAM** (culpabilité profonde, stress psychologique, doutes persistants).   
+* Si la cible est **consciemment non hostile** (prisonnier, allié trahi, victime sans défense) : perte supplémentaire de **+1d6 SAM**.   
+
+**Cas particuliers :**.  
+
+* Un personnage **mauvais** utilisant le poison régulièrement (5 fois ou plus) ne fait plus ce jet : il considère cette méthode comme normale.    
+* Un personnage **bon** échouant 3 fois de suite à ce jet subit un malus de **-2 à tous ses prochains jets de résistance à la perte de SAM** tant qu’il continue à recourir au poison.   
+
