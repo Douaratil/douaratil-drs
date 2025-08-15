@@ -22,6 +22,7 @@ Visites:
 [![Mise à jour 245](https://www.douaratil.fr/illustrations/site/maj245.jpeg)](https://www.douaratil.fr/illustrations/site/maj245.jpeg)
 
 **Bestiaire**
+- Ajout de la [Hek Ténèbris](/bestiaire/hek-tenebris)     
 - Ajout de la [Pendoura](/bestiaire/pendoura)     
 
 §§§ .text-right
