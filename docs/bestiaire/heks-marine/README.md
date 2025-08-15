@@ -48,7 +48,7 @@ _**Amphibie**_. La heks respire à l'air libre et sous l'eau.
 _**Incantation**_. Cette heks est une lanceuse de sorts. Elle utilise la Sagesse comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Elle n'a pas besoin de composantes matérielles pour lancer ses sorts. Voici les sorts qu'elle a connait :
 * **Novice** : [_appel de la puile_](/grimoire/appel-de-la-pluie/), [_aspersion acide_](/grimoire/aspersion-acide/), [_bouffée de poison_](/grimoire/bouffee-de-poison/), [_eau maudite_](/grimoire/eau-maudite/),
 * **Disciple** : [_asphyxie_](/grimoire/asphyxie/), [_brûme glaciale_](/grimoire/brume-glaciale/), [_tempête de grèle_](/grimoire/temete-de-grele/), [_contrôle de l'eau_](/grimoire/controle-de-l-eau/),  
-* **Disciple** : [_cône de froid_](/grimoire/cone-de-froid/), [_brume d'antre_](/grimoire/brume-d-antre/), [_mur de glace_](/grimoire/mur-de-glace/)
+* **Apprenti** : [_cône de froid_](/grimoire/cone-de-froid/), [_brume d'antre_](/grimoire/brume-d-antre/), [_mur de glace_](/grimoire/mur-de-glace/)
 
 _**Résistance à la magie**_. La heks est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 

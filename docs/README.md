@@ -25,9 +25,18 @@ Visites:
 - Ajout de la [Hek Ténèbris](/bestiaire/hek-tenebris)     
 - Ajout de la [Pendoura](/bestiaire/pendoura)     
 
+**Grimoire**
+- Ajout de l'incantation du sort [Rafale de vent](/grimoire/rafale-de-vent)
+- Ajout de l'incantation du sort [Rappel à la vie](/grimoire/rappel-a-la-vie)
+- Ajout de l'incantation du sort [Réparation](/grimoire/reparation)
+- Ajout de l'incantation du sort [Repassage](/grimoire/repassage)
+- Ajout de l'incantation du sort [Replis expéditif](/grimoire/replis-expeditif)
+- Ajout de l'incantation du sort [Représailles infernales](/grimoire/represailles-infernales)
+- Ajout de l'incantation du sort [Répulsion/attirance](/grimoire/repulsion-attirance)
+
 §§§ .text-right
 ***Olivier***,
-*le 14 août 2025*
+*le 16 août 2025*
 §§§
 
 
