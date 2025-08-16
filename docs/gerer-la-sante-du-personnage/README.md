@@ -113,6 +113,10 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * La créature subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses attaques.
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses attaques contre la créature. Sinon, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
+#### Apeuré
+* Une créature est [apeurée](/gerer-la-sante-du-personnage/#apeure) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales imposantes, rater un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD = au charisme de la créature de taille G.    
+* Une créature [apeurée](/gerer-la-sante-du-personnage/#apeure) subie un malus de -2 à tous ses tests en présence de l'adversaire jusqu'à la fin de la confontation.
+
 #### Assourdi
 * Une créature [_assourdie_](/gerer-la-sante-du-personnage/#assourdi) n'entend plus rien et rate automatiquement tous les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) faisant intervenir des capacités auditives.
 
@@ -125,6 +129,13 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * L'individu qui a charmé la créature bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) pour toutes les interactions sociales avec celle-ci.
 
 [![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3.jpeg)
+
+#### Effrayé
+* Une créature est [effrayée](/gerer-la-sante-du-personnage/#effraye) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales imposantes, rater un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD = au charisme de la créature de taille TG.    
+* Une créature [apeurée](/gerer-la-sante-du-personnage/#apeure) subie un malus de -4 à tous ses tests en présence de l'adversaire jusqu'à la fin de la confontation.
+
+#### Epuisé
+* Une personne épuisée se voit imposé un malus à ses tests, à ses mouvements et à son maximum de points d'action, de magie, de foi, d'honneur et de sam. Il existe 6 niveaux d'épuisement: voir [Fatigue et épuisement](/gerer-la-sante-du-personnage/#fatigue-et-epuisement).
 
 #### Empoigné
 * La vitesse d'une créature [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.

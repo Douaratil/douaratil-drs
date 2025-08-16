@@ -122,7 +122,7 @@ Les personnages privés d'eau ou de nourriture subissent les effets de l'épuise
 [![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure5300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure5.jpeg)
 
 #### Nourriture
-Un personnage a besoin de 500 grammes de nourriture par jour. Il peut faire durer ses réserves de nourriture plus longtemps en ne mangeant que des demi-rations. Manger 250 grammes de nourriture par jour revient à passer une demi-journée sans manger.
+Un personnage a besoin de nourriture tous les jours. Il doit manger le matin, le midi et le soir.
 
 Un personnage peut jeûner pendant un nombre de jour égal à 3 + son modificateur de Constitution (avec un minimum de 1). Au-delà de cette limite, le personnage gagne un niveau d'épuisement à la fin de chaque nouvelle journée passée à jeûner.
 
@@ -131,9 +131,38 @@ Il suffit de manger normalement un jour pour remettre le compteur de journées d
 [![Partir à l'aventure](https://www.douaratil.fr/illustrations/regles/partiralaventure6300.jpeg)](https://www.douaratil.fr/illustrations/regles/partiralaventure6.jpeg)
 
 #### Eau
-Un personnage a besoin de boire 3 litres d'eau par jour, ou 6 litres par temps chaud. Un personnage qui ne boit que la moitié de cette quantité doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou gagner un niveau d'épuisement à la fin de la journée. Si le personnage ne peut pas accéder à la quantité d'eau requise, il subit automatiquement un niveau d'épuisement à la fin de la journée.
+Un personnage a besoin de boire 3 fois par jour.  Il doit boire le matin, le midi et le soir. Un personnage qui ne boit pas doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou gagner un niveau d'épuisement immédiatement. Si le personnage ne peut pas accéder à la quantité d'eau requise, il subit automatiquement un niveau d'épuisement.
 
 Si le personnage a déjà un ou plusieurs niveaux d'épuisement, il gagne deux niveaux d'épuisement au lieu d'un seul.
+
+#### Gestion de l'eau et de la nourriture
+Pour symboliser les ressources qui s'épuisent, celles-ci sont représentées par des dés. Tant que le personnage possède des dés dans une ressource, il peut l'utiliser. Il peut porter des ressources selon la contenance : Bouteille (1d6), Gourde (1d6), outre (2d6), sac (1d6), sac à dos (3d6).
+Prenons un exemple, si un personnage a tout son équipement et qu'il est équipé d'une gourde à la ceinture (1d6), d'ue outre en bandoulière (2d6), d'un sac en bandoulière (1d6) et d'un sac à dos (3d6), il a une réserve d'eau de 3d6 et une réserve de nourriture de 4d6.
+Pour faire baisser la réserve, il faut tester la ressource et à chaque 1 obtenu, on retire un dés. Si la ressource est utilisée mais qu'aucun 1 n'est obtenu, le prochain test sera 1 et 2, le suivant de 1 à 3 etc... jusqu'à ce que la réserve diminue.
+Les joueurs peuvent s'échanger de la nourriture ou de l'eau et en terme de jeu des dés.    
+
+#### Trouver de l'eau ou de la nourriture
+Le moyen le plus simple est d'acheter les denrées dans des lieux civilisés en comptant 1d6 par litre de boisson, et 1d6 par 500 grs de nourriture (exception des ration qui sont à 3d6 pour 1kg mais qui ne sont pas très goutues.).  
+L'autre moyen est de se servir dans la nature. Il faut au moins une heure pour chercher de la nourriture et une heure pour chercher de l'eau. Dans tous les cas, c'est la compétence survie qui est utilisée.
+
+|Dés| Activité par heure| Difficulté |Provision|
+|:-|:-|:-:|:-:|
+| |EAU|||
+|-| **Chercher de l'eau** | 16 |Recharge complète de l'eau|
+|**3d6**|RAMASSAGE|||
+|3-6| **Cueillir des baies** | 12 |1d6 nourriture|
+|7-12| **Ramasser des champignons** | 16 |1d6 nourriture|
+|13-18| **Trouver des racines** | 22 |2d6 nourriture|
+|**3d6**|CHASSE|||
+|3-6| **Chasser un lièvre** | 22 |2d6 nourriture|
+|7-9| **Chasser une perdrix** | 22 |1d6 nourriture|
+|10-12| **Chasser un chevreuil** | 22 |3d6 nourriture|
+|13-15| **Chasser un sanglier** | 28 |4d6 nourriture|
+|16-18| **Chasser un cerf** | 28 |6d6 nourriture|
+|**2d6**|Pêche|||
+|2-7| **Pêcher une truite** | 16 |1d6 nourriture|
+|8-12| **Pêcher un brochet** | 22 |3d6 nourriture|
+
 
 ### Interaction avec des objets
 De façon générale, il est assez simple de gérer l'interaction d'un personnage avec des objets dans le cadre du jeu. Le joueur prévient le MJ que son personnage fait quelque chose, comme actionner un levier, et le MJ lui indique s'il se passe quelque chose et, si oui, ce qu'il se passe.

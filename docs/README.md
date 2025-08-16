@@ -12,7 +12,6 @@ toc: false
 <v-col cols="12" md="6">
 
 Bienvenue sur le site de Référence Système pour _**Douaratil**_ !  
-Merci à mes joueurs pour la relecture, les inspirations, les idées et les propositions : Bastian [Margs Maenkalon](/bestiaire/margs-maenkalon), Charles [Thorleik Aevarson](/bestiaire/thorleik-aevarson), Clovis [Knut Svenson](/bestiaire/knut-svenson),David [Tiberius Don Alonzo](/bestiaire/tiberius-don-alonzo), Elric [Gwion Gornoc](/bestiaire/gwion-gornoc), Georges [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano), Maguelonne [Sawrina Semiramis](/bestiaire/sawrina-semiramis), Sébastien [Shine Hame](/bestiaire/shine-hame) et [Yan Zin](/bestiaire/yan-zin), Sylvain [Owain Macaro](/bestiaire/owain-macaro).  
 
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
@@ -34,9 +33,15 @@ Visites:
 - Ajout de l'incantation du sort [Représailles infernales](/grimoire/represailles-infernales)
 - Ajout de l'incantation du sort [Répulsion/attirance](/grimoire/repulsion-attirance)
 
+**Règles**
+- modification des règles de [réaction de blocage](/combattre/#reaction-blocage)
+- ajout de la condition [apeurée](/gerer-la-sante-du-personnage/#apeure)
+- ajout de la condition [effrayée](/gerer-la-sante-du-personnage/#effraye)
+- modification des règles de gestion de la [nourriture](/partir-a-l-aventure/#eau-et-nourriture)
+
 §§§ .text-right
 ***Olivier***,
-*le 16 août 2025*
+*le 17 août 2025*
 §§§
 
 

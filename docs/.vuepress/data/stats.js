@@ -59,12 +59,15 @@ export const stats = {
 
   conditions: {
     'a-terre': { label: "À terre" },
+    'apeure': { label: "Apeuré" },
     'assourdi': { label: "Assourdi" },
     'aveugle': { label: "Aveuglé" },
     'charme': { label: "Charmé" },
-    'epuise': { label: "Épuisé" },
+    'effraye': { label: "Effrayé" },
     'empoigne': { label: "Empoigné" },
     'empoisonne': { label: "Empoisonné" },
+    'epuise': { label: "Épuisé" },
+    'en-feu': { label: "En feu" },
     'entrave': { label: "Entravé" },
     'etourdi': { label: "Étourdi" },
     'inconscient': { label: "Inconscient" },

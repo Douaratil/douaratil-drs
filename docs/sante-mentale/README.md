@@ -73,7 +73,7 @@ La perte de la totalité de ses points de santé mentale entraine toujours une [
 1 - *Le calme est le meilleur des remède* : la santé mentale se récupère par le sommeil ou le calme. Un personnage qui passe un lune sans perdre de points de santé mentale (SAM) récupère la totalité de sa santé mentale.   
 2 - *Une bonne nuit et tout ira mieux* Le personnage regagne aussi un point de santé mentale (SAM) par point de bonus de Sagesse (minimum 1) en effectuant un [_repos long_](/gerer-la-sante-du-personnage/#repos-long).    
 3 - *Tout ce qui ne me tue pas me rend plus fort* Lorsque des adversaires sont vaincus, le ou les joueurs récupèrent des points de santé mental équivalent à la perte de point de santé mentale lors d'un échec de la rencontre. Pour symboliser le travaille d'équipe, les points peuvent être distribués entre les joueurs selon leur gré et s'il n'y a pas d'accord, sont répartis de manières équitable (arrondi à l'entier inférieur.)   
-Seul la créature qui fait perdre le plus de santé mentale est prise en compte.   
+Seule la créature qui fait perdre le plus de santé mentale est prise en compte.   
 
 Parfait, on va donc :
 

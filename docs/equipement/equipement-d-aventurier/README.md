@@ -15,7 +15,7 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Boîte à amadou**|5 pa|0,5 kg|DD16|
 |**Bougie**|1 pc|0,5 kg|DD16|
 |**Boulier**|2 po|1 kg|DD16|
-|**Bouteille en verre**|2 po|1 kg|DD16|
+|**Bouteille en verre (1d6 boisson)**|2 po|1 kg|DD16|
 |**Carquois**|1 po|0,5 kg|DD16|
 |**Chaîne (3 mètres)**|5 po|5 kg|DD16|
 |**Chausse-trappes (sac de 20)**|1 po|1 kg|DD22|
@@ -40,7 +40,7 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |**Étui pour cartes et parchemins**|1 po|0,5 kg|DD16|
 |**Feu grégeois (flasque)**|50 po|0,5 kg|DD22|
 |**Fiole**|1 po|-|DD16|
-|**Flasque ou chope**|2 pc|0,5 kg|DD16|
+|**Flasque ou chope (1d6 boisson)**|2 pc|0,5 kg|DD16|
 |**Focaliseur arcanique**||||
 |&nbsp;&nbsp;Cristal|10 po|0,5 kg|DD22
 |&nbsp;&nbsp;Orbe|20 po|1,5 kg|DD22|
@@ -73,7 +73,7 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 |&nbsp;&nbsp;Flèches (20)|1 po|0,5 kg|DD16|
 |&nbsp;&nbsp;Dards de sarbacane (50)|1 po|0,5 kg|DD16|
 |&nbsp;&nbsp;Billes de fronde (20)|4 pc|0,75 kg|DD16|
-|**Outre**|2 pa|2,5 kg|DD16|
+|**Outre (2d6 boisson)**|2 pa|2,5 kg|DD16|
 |**Palan**|1 po|2,5 kg|DD16|
 |**Panier**|4 pa|1 kg|DD16|
 |**Papier (1 feuille)**|2 pa|-|DD16|
@@ -95,10 +95,10 @@ Vous trouverez dans cette section des objets qui ont des règles spéciales ou d
 
 |Objet|Prix|Poids|DD de Négociation|
 |:-|:-:|:-:|-:|
-|**Rations (1 jour)**|5 pa|1 kg|DD16|
+|**Rations (1 jour) (3d6 nourriture)**|5 pa|1 kg|DD16|
 |**Sablier**|25 po|0,5 kg|DD22|
-|**Sac**|1 pc|0,25 kg|DD16|
-|**Sac à dos**|2 po|2,5 kg|DD16|
+|**Sac (1d6 nourriture)**|1 pc|0,25 kg|DD16|
+|**Sac à dos (3d6 nourriture)**|2 po|2,5 kg|DD16|
 |**Sac de couchage**|1 po|3,5 kg|DD16|
 |**Sacoche**|5 pa|0,5 kg|DD16|
 |**Sacoche à composantes**|25 po|1 kg|DD16|
