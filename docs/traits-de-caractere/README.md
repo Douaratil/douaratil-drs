@@ -57,7 +57,7 @@ Lorsqu'un trait devient exceptionnel, c'est à dire qu'il atteint 25, le personn
 | Miséricordieux| Avantage aux tests de Persuasion| 
 | Modeste| Avantage aux tests de Discrétion| 
 | Paresseux| Avantage JS contre la mort et test de guérison de blessures| 
-| Pieux| Avantage Avantage JS Sagesse et +10 points de Foi| 
+| Pieux| Avantage  JS Sagesse et +10 points de Foi| 
 | Pragmatique| Avantage aux tests de Survie| 
 | Rancunier| Avantage aux tests de Combat en situation de Vengeance| 
 | Réfléchi| Avantage JS Intelligence et +10 points de Magie| 
