@@ -114,7 +114,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 * Si un assaillant est à 1,50 mètre ou moins de la créature, il bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses attaques contre la créature. Sinon, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 
 #### Apeuré
-* Une créature est [apeurée](/gerer-la-sante-du-personnage/#apeure) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales imposantes, rater un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD = au charisme de la créature de taille G.    
+* Une créature est [apeurée](/gerer-la-sante-du-personnage/#apeure) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales imposantes (G), rater un test de [trait de caractère Valeureux](/traits-de-caracteres).    
 * Une créature [apeurée](/gerer-la-sante-du-personnage/#apeure) subie un malus de -2 à tous ses tests en présence de l'adversaire jusqu'à la fin de la confontation.
 
 #### Assourdi
@@ -131,7 +131,7 @@ Les définitions suivantes expliquent les conséquences de chaque état spécial
 [![Gérer la santé du personnage](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3300.jpeg)](https://www.douaratil.fr/illustrations/regles/gererlasantedupersonnage3.jpeg)
 
 #### Effrayé
-* Une créature est [effrayée](/gerer-la-sante-du-personnage/#effraye) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales imposantes, rater un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD = au charisme de la créature de taille TG.    
+* Une créature est [effrayée](/gerer-la-sante-du-personnage/#effraye) lorsqu'elle rate un test de [SAM](/sante-mentale) ou dans le cas des créatures normales très imposantes (TG ou GIG), rater un test de [trait de caractère Valeureux](/traits-de-caracteres).    
 * Une créature [apeurée](/gerer-la-sante-du-personnage/#apeure) subie un malus de -4 à tous ses tests en présence de l'adversaire jusqu'à la fin de la confontation.
 
 #### Epuisé
