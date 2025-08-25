@@ -20,28 +20,38 @@ Visites:
 
 [![Mise à jour 245](https://www.douaratil.fr/illustrations/site/maj245.jpeg)](https://www.douaratil.fr/illustrations/site/maj245.jpeg)
 
-**Bestiaire**
-- Ajout de la [Hek Ténèbris](/bestiaire/hek-tenebris)     
-- Ajout de la [Pendoura](/bestiaire/pendoura)     
+Cette mise à jour apporte une riche moisson de contenus, entre nouvelles créatures, incantations et ajustements de règles.
 
-**Grimoire**
-- Ajout de l'incantation du sort [Rafale de vent](/grimoire/rafale-de-vent)
-- Ajout de l'incantation du sort [Rappel à la vie](/grimoire/rappel-a-la-vie)
-- Ajout de l'incantation du sort [Réparation](/grimoire/reparation)
-- Ajout de l'incantation du sort [Repassage](/grimoire/repassage)
-- Ajout de l'incantation du sort [Replis expéditif](/grimoire/replis-expeditif)
-- Ajout de l'incantation du sort [Représailles infernales](/grimoire/represailles-infernales)
-- Ajout de l'incantation du sort [Répulsion/attirance](/grimoire/repulsion-attirance)
+### **Bestiaire**
 
-**Règles**
-- modification des règles de [réaction de blocage](/combattre/#reaction-blocage)
-- ajout de la condition [apeurée](/gerer-la-sante-du-personnage/#apeure)
-- ajout de la condition [effrayée](/gerer-la-sante-du-personnage/#effraye)
-- modification des règles de gestion de la [nourriture](/partir-a-l-aventure/#eau-et-nourriture)
+Deux nouvelles entités viennent enrichir les sombres pages du bestiaire :
+
+* La redoutable [Hek Ténèbris](/bestiaire/hek-tenebris), sorcière des ténèbres liée aux forces abyssales.
+* La sinistre [Pendoura](/bestiaire/pendoura), créature féerique au destin funeste qui rôde entre branches et ombres.
+
+### **Grimoire**
+
+De nouvelles incantations ont été ajoutées au grimoire, permettant d’explorer toujours plus de subtilités dans l’art magique :
+
+* [Rafale de vent](/grimoire/rafale-de-vent)
+* [Rappel à la vie](/grimoire/rappel-a-la-vie)
+* [Réparation](/grimoire/reparation)
+* [Repassage](/grimoire/repassage)
+* [Replis expéditif](/grimoire/replis-expeditif)
+* [Représailles infernales](/grimoire/represailles-infernales)
+* [Répulsion/attirance](/grimoire/repulsion-attirance)
+
+### **Règles**
+
+Les règles se précisent et s’affinent pour mieux cadrer les affrontements et la survie en terres hostiles :
+
+* Modification de la [réaction de blocage](/combattre/#reaction-blocage), pour clarifier son usage en combat.
+* Ajout des conditions [apeurée](/gerer-la-sante-du-personnage/#apeure) et [effrayée](/gerer-la-sante-du-personnage/#effraye), pour enrichir les effets psychologiques des rencontres.
+* Révision des règles de gestion de la [nourriture](/partir-a-l-aventure/#eau-et-nourriture), afin d’accentuer le poids de la survie lors des voyages prolongés.
 
 §§§ .text-right
 ***Olivier***,
-*le 17 août 2025*
+*le 25 août 2025*
 §§§
 
 
