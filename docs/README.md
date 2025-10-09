@@ -20,14 +20,6 @@ Visites:
 
 [![Mise à jour 246](https://www.douaratil.fr/illustrations/site/maj246.jpeg)](https://www.douaratil.fr/illustrations/site/maj246.jpeg)
 
-Voici une **version retravaillée** de ta **mise à jour 246**, dans le même ton fluide et immersif que les précédentes, avec un style clair mais vivant, comme une note officielle du grimoire des Arcanistes de Douaratil :
-
----
-
-## ✧ Mise à jour 246 ✧
-
-[![Mise à jour 246](https://www.douaratil.fr/illustrations/site/maj246.jpeg)](https://www.douaratil.fr/illustrations/site/maj246.jpeg)
-
 ### **Grimoire**
 
 Les pages du **Grimoire de Douaratil** s’étoffent à nouveau, accueillant une série d’incantations destinées aux érudits, druides et mages désireux d’approfondir leur maîtrise du flux arcanique et des forces vitales.
