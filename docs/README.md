@@ -20,21 +20,29 @@ Visites:
 
 [![Mise à jour 246](https://www.douaratil.fr/illustrations/site/maj246.jpeg)](https://www.douaratil.fr/illustrations/site/maj246.jpeg)
 
+Voici une **version retravaillée** de ta **mise à jour 246**, dans le même ton fluide et immersif que les précédentes, avec un style clair mais vivant, comme une note officielle du grimoire des Arcanistes de Douaratil :
+
+---
+
+## ✧ Mise à jour 246 ✧
+
+[![Mise à jour 246](https://www.douaratil.fr/illustrations/site/maj246.jpeg)](https://www.douaratil.fr/illustrations/site/maj246.jpeg)
+
 ### **Grimoire**
 
-De nouvelles incantations ont été ajoutées au grimoire, permettant d’explorer toujours plus de subtilités dans l’art magique :
+Les pages du **Grimoire de Douaratil** s’étoffent à nouveau, accueillant une série d’incantations destinées aux érudits, druides et mages désireux d’approfondir leur maîtrise du flux arcanique et des forces vitales.
+Ces incantations viennent tisser un lien plus étroit entre l’esprit, le corps et la nature elle-même :
 
-* [Réservoir arcanique](/grimoire/reservoir-arcanique).  
-* [Résistance](/grimoire/resistance).  
-* [Respiration aquatique](/grimoire/respiration-aquatique).  
-* [Restauration inférieure](/grimoire/restauration-inferieure).  
-* [Restauration supérieure](/grimoire/restauration-superieure).  
-* [Reve](/grimoire/reve).  
-* [Revigorer](/grimoire/revigorer).  
-* [Rire irrésistible](/grimoire/rire-irresistible).  
-* [Rotation foetal](/grimoire/rotation-foetal).  
-* [Sacrement de l'arbre fruitier](/grimoire/sacrement-de-l-arbre-fruitier).  
-
+* [Réservoir arcanique](/grimoire/reservoir-arcanique) — le mage devient la source de sa propre puissance.
+* [Résistance](/grimoire/resistance) — une protection simple, mais vitale, contre les maux qui frappent le corps et l’âme.
+* [Respiration aquatique](/grimoire/respiration-aquatique) — pour ceux qui cherchent à franchir les frontières entre air et mer.
+* [Restauration inférieure](/grimoire/restauration-inferieure) — l’art de chasser les petites corruptions du monde.
+* [Restauration supérieure](/grimoire/restauration-superieure) — un appel à la pureté et à la lumière intérieure.
+* [Rêve](/grimoire/reve) — un voyage à travers l’inconscient, entre visions et messages.
+* [Revigorer](/grimoire/revigorer) — la vigueur du monde ancien infusée dans le souffle des vivants.
+* [Rire irrésistible](/grimoire/rire-irresistible) — quand la folie et la magie se mêlent pour troubler les esprits.
+* [Rotation foetale](/grimoire/rotation-foetal) — un rituel de retournement.
+* [Sacrement de l’arbre fruitier](/grimoire/sacrement-de-l-arbre-fruitier) — une prière célébrant l’équilibre entre offrande et abondance.
 
 §§§ .text-right
 ***Olivier***,
