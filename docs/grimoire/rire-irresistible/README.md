@@ -19,6 +19,10 @@ classes:
 ---
 **Coût** : 6 points de Foi ou de Magie  
 **Incantation** : 
+*« Fol esprit, frôle leurs âmes,*  
+*Chatouille les cœurs, renverse le calme,*  
+*Que le sérieux s’efface d’un trait,*  
+*Et que le rire règne, fou et parfait ! »*  
 **Description** : Votre cible, mais cela peut-être aussi vous même et succombe à une envie de rire irrésistible dès que ce sort l'affecte. Si la cible n'est pas consentante, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se retrouver à rire.
 
 Elle obtient soit un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) soit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à toutes ses compétences sociales suivant la situation (éclater de rire pendant des obsèques est compliqué mais rire alors que l'on raconte une histoire drôle peut-être communicatif).
