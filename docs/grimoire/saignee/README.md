@@ -17,7 +17,12 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Foi ou de Magie  
-**Incantation** : 
+**Incantation** :  
+*« Par le fer, s’ouvre la porte,*  
+*Que s’écoule ce qui m’emporte,*  
+*Sang ancien, quitte mon corps,*  
+*Et laisse place à un souffle fort. »*  
+
 **Description** : Le sorcier ouvre des plaies sur les deux poignets de sa cible. Celle-ci perd désormais 1d6 point d'action par round jusqu'à ce que des soins soient prodigués. Pour stopper le saignement, il faut faire un test de [Médecine](/utiliser-les-caracteristiques/#medecine) DD16. Une personne sans soins se vide de son sang et meurt doucement.  
 
 **À plus haut niveau**.  

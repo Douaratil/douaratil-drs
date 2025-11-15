@@ -16,6 +16,22 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 247 ✧
+
+[![Mise à jour 247](https://www.douaratil.fr/illustrations/site/maj247.jpeg)](https://www.douaratil.fr/illustrations/site/maj247.jpeg)
+
+### **Grimoire**
+Ajout des incantations pour :
+- [Saignée](/grimoire/saignéé)  
+- [Sanctification](/grimoire/sanctification)  
+- 
+
+
+§§§ .text-right
+***Olivier***,
+*le 15 novembre 2025*
+§§§
+
 ## ✧ Mise à jour 246 ✧
 
 [![Mise à jour 246](https://www.douaratil.fr/illustrations/site/maj246.jpeg)](https://www.douaratil.fr/illustrations/site/maj246.jpeg)
