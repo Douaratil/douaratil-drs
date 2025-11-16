@@ -24,12 +24,27 @@ Visites:
 Ajout des incantations pour :
 - [Saignée](/grimoire/saignéé)  
 - [Sanctification](/grimoire/sanctification)  
-- 
+- [Sanctuaire](/grimoire/sanctuaire)  
+- [Sanctuaire privé](/grimoire/sanctuaire-prive)  
+- [Sang du démon](/grimoire/sang-du-demon)  
+- [Saut](/grimoire/saut)  
+- [Saut du taureau](/grimoire/saut-du-taureau)  
+- [Scrutation](/grimoire/scrutation)  
+- [Sèchage](/grimoire/sechage)  
+- [Sentinelle](/grimoire/sentinelle)  
+- [Séquestration](/grimoire/sequestration)  
+- [Serpents illusoires](/grimoire/serpents-illusoires)  
+- [Serviteur invisible](/grimoire/serviteur-invisible)  
+- [Serviteurs de fumée](/grimoire/serviteurs-de-fumee)  
+- [Signature magique](/grimoire/signature-magique)  
+
+
+
 
 
 §§§ .text-right
 ***Olivier***,
-*le 15 novembre 2025*
+*le 16 novembre 2025*
 §§§
 
 ## ✧ Mise à jour 246 ✧

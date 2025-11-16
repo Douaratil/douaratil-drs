@@ -18,6 +18,10 @@ classes:
 ---
 **Coût** : 2 points de Magie  
 **Incantation** : 
+*« Main sans forme, éveille-toi,*. 
+*De l’air et de l’ombre, fais ta loi,*. 
+*Sers ma parole, œuvre sans bruit,*. 
+*Et que ton labeur demeure enfoui. »*. 
 **Description** : Ce sort crée une force invisible, dépourvue de forme et d'intellect, mais capable d'accomplir des tâches simples sur votre ordre jusqu'à la fin du sort. Le serviteur se matérialise au sol, dans un emplacement inoccupé situé à portée. Il a une VD de 10, 1 PA, une Force de 2 et il est incapable d'attaquer. S'il tombe à 0 point d'action, le sort se termine.
 
 Une fois à chacun de vos tours, vous pouvez utiliser une action bonus pour ordonner mentalement à votre serviteur de se déplacer d'un maximum de 4,50 mètres et d'interagir avec un objet. Le serviteur peut accomplir des tâches simples à la portée d'un domestique humain, comme aller chercher des affaires, faire le ménage, repriser, plier les habits, allumer la cheminée, servir les plats et la boisson, etc. Une fois que vous avez donné votre ordre, il fait de son mieux pour y obéir jusqu'à ce qu'il ait terminé. Il attend alors l'ordre suivant.

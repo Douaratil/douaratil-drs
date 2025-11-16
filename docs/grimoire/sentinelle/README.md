@@ -18,4 +18,8 @@ classes:
 ---
 **Coût** : 1 point de Foi ou de Magie  
 **Incantation** : 
+*« Esprit gardien, ouvre l’œil,*  
+*Que nul pas profane ne foule ce seuil,*  
+*Dresse-toi, veille sans faillir,*  
+*Et préviens-moi du moindre péril. »*  
 **Description** : L'enchanteur désigne un animal, le plus souvent natif de l'écosystème présent, afin de lui garantir des chances de survie. Pour la durée du sort, celui-ci se promène dans une zone de 200 mètres autour de la demeure de l'enchanteur et vient le prévenir de toute intrusion.

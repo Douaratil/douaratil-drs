@@ -19,4 +19,8 @@ classes:
 ---
 **Coût** : 2 points de Magie ou de Foi  
 **Incantation** : 
+*« Vent sous mes pieds, lève-moi,*  
+*Terre, cède une fois ma foi,*  
+*Que mon corps franchisse l’espace,*  
+*En un bond libre, plein de grâce ! »*  
 **Description** : Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sort se termine.
