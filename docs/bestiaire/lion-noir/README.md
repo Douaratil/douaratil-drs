@@ -28,9 +28,9 @@ environments:
   - Plaine / Champs / Prairie / Savane
 
 ---
-## Lion
+## Lion noir
 &nbsp;
-[![Lion](https://www.douaratil.fr/illustrations/bete/lionnoir300.jpeg)](https://www.douaratil.fr/illustrations/bete/lionnoir.jpeg)  
+[![Lion noir](https://www.douaratil.fr/illustrations/bete/lionnoir300.jpeg)](https://www.douaratil.fr/illustrations/bete/lionnoir.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17        
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités

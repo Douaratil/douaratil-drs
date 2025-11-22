@@ -21,22 +21,35 @@ Visites:
 [![Mise à jour 247](https://www.douaratil.fr/illustrations/site/maj247.jpeg)](https://www.douaratil.fr/illustrations/site/maj247.jpeg)
 
 ### **Grimoire**
-Ajout des incantations pour :
-- [Saignée](/grimoire/saignéé)  
-- [Sanctification](/grimoire/sanctification)  
-- [Sanctuaire](/grimoire/sanctuaire)  
-- [Sanctuaire privé](/grimoire/sanctuaire-prive)  
-- [Sang du démon](/grimoire/sang-du-demon)  
-- [Saut](/grimoire/saut)  
-- [Saut du taureau](/grimoire/saut-du-taureau)  
-- [Scrutation](/grimoire/scrutation)  
-- [Sèchage](/grimoire/sechage)  
-- [Sentinelle](/grimoire/sentinelle)  
-- [Séquestration](/grimoire/sequestration)  
-- [Serpents illusoires](/grimoire/serpents-illusoires)  
-- [Serviteur invisible](/grimoire/serviteur-invisible)  
-- [Serviteurs de fumée](/grimoire/serviteurs-de-fumee)  
-- [Signature magique](/grimoire/signature-magique)  
+
+De nouvelles **formules d’incantation** rejoignent le grimoire.
+Elles ne modifient pas les règles des sorts existants, mais offrent une **couleur narrative**, un **souffle mystique** ou un **rituel verbal** que les lanceurs de sorts pourront intégrer à leurs pratiques quotidiennes, à leurs cérémonies ou à leurs combats :
+
+* [Saignée](/grimoire/saignée) : murmures tranchants et écoulement attiré.
+* [Sanctification](/grimoire/sanctification) : appels sacrés et purification verbale.
+* [Sanctuaire](/grimoire/sanctuaire) : parole protectrice et cercle murmuré.
+* [Sanctuaire privé](/grimoire/sanctuaire-prive) : isolement chuchoté.
+* [Sang du démon](/grimoire/sang-du-demon) : invocation gutturale et pacte ancien.
+* [Saut](/grimoire/saut) : impulsion rituelle.
+* [Saut du taureau](/grimoire/saut-du-taureau) : souffle animal invoqué.
+* [Scrutation](/grimoire/scrutation) : œil intérieur et vision incantée.
+* [Séchage](/grimoire/sechage) : souffle aride, commandement des fluides.
+* [Sentinelle](/grimoire/sentinelle) : appel à la vigilance invisible.
+* [Séquestration](/grimoire/sequestration) : clé verbale et enfermement mystique.
+* [Serpents illusoires](/grimoire/serpents-illusoires) : sifflements tressés.
+* [Serviteur invisible](/grimoire/serviteur-invisible) : injonction silencieuse.
+* [Serviteurs de fumée](/grimoire/serviteurs-de-fumee) : souffle de cendre animée.
+* [Signature magique](/grimoire/signature-magique) : sceau parlé et empreinte arcanique.
+
+Ces éléments offrent aux joueurs et maîtres de jeu de nouvelles possibilités d’ambiance, de chant, de geste et d’imaginaire.
+
+
+### **Bestiaire**
+
+L’arrivée d’un nouvel habitant des terres enneigées enrichit le bestiaire :
+
+* Ajout de l’[Ombriverne](/bestiaire/ombriverne), majestueuse fée-lionne des régions glacées, protectrice loyale au pelage noir comme la nuit boréale.
+
 
 §§§ .text-right
 ***Olivier***,
