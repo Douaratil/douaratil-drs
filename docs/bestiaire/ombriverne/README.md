@@ -22,6 +22,8 @@ skills:
 movement:
   walk: 15
 senses:
+damageTypeResistances:
+  - "froid"
 languages:
   - "comprend le Weshlèd"
 environments:
@@ -42,7 +44,7 @@ _**Odorat aiguisé**_. L'ombriverne obtient un [_avantage_](/utiliser-les-caract
 
 _**Saut avec élan**_. L'ombriverne peut sauter une longueur maximale de 9 mètres s'il prend un élan de 3 mètres.
 
-_**Résistance au froid.**_ L’Ombriverne subit la moitié des dégâts de froid.  
+_**Présence apaisante.**_ L’Ombriverne diffuse une onde de calme magique dans un rayon de 12 m. Les créatures hostiles doivent réussir un jet de Sagesse DD 16 ou perdre toute intention d’agression pendant 1 round.  
 
 ## Actions
 _**Griffe**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  
