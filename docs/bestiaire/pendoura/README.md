@@ -54,7 +54,7 @@ environments:
 
 **Ricanement maudit (Recharge 5–6)** La Pendoura émet un rire déchirant. Toutes les créatures à 9 m doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou subir l’état [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) pendant 1d6 rounds. Un jet réussi à la fin de chaque tour met fin à l’effet.    
 
-**Miroir de peur (1/jour)** Crée l’illusion de la plus grande peur de la cible. [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d’Intelligence DD 15 ou [_paralysie_](/gerer-la-sante-du-personnage/#paralyse) par la terreur pendant 1 minute. [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou subir l’état [_terrorisée_] de Charisme DD 15 à la fin de chaque tour pour mettre fin à l’effet.   
+**Miroir de peur (1/jour)** Crée l’illusion de la plus grande peur de la cible. [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d’Intelligence DD 15 ou [_paralysie_](/gerer-la-sante-du-personnage/#paralyse) par la terreur pendant 1 minute. [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 14 ou subir l’état [_terrorisée_] à chaque tour pour mettre fin à l’effet.   
 
 ## **actions:**.   
 **Attaques multiples** La Pendoura effectue deux attaques — une avec ses ongles crochus et une avec sa langue-fouet.   

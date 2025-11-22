@@ -31,7 +31,7 @@ conditionImmunities:
   - "charme"
   - "empoisonne"
 languages:
-  - Weslèd
+  - Weshlèd
   - Alcane
   - Minghour
   - Shahim
@@ -52,9 +52,9 @@ _**Amphibie**_. La Hek Ténèbris respire aussi bien à l'air libre que sous l'e
 
 _**Incantation**_. La Hek Ténèbris est une lanceuse de sorts. Sagesse comme caractéristique d'incantation (DD 18, +10 pour toucher avec les attaques de sort). Elle n'a pas besoin de composantes matérielles.  
 **Novice** : [_contact glacial_](/grimoire/contact-glacial/), [_douleur nerveuse_](/grimoire/douleur-nerveuse/), [_glas funèbre_](/grimoire/glas-funebre/), [_saignée_](/grimoire/saignee/)  
-**Disciple** : [_caresse du vampire_](/grimoire/caresse-du-vampire/), [_flétrissement_](/grimoire/fletrissement/), [_jeter une malédiction_](/grimoire/jeter-une-malediction/), [_opprobe passagère_](/grimoire/opprobe-passagere/)  
+**Disciple** : [_caresse du vampire_](/grimoire/caresse-du-vampire/), [_flétrissement_](/grimoire/fletrissement/), [_jeter une malédiction_](/grimoire/jeter-une-malediction/), [_opprobe passagère_](/grimoire/opprobe-passagere/)    
 **Apprenti** : [_Cercle de mort_](/grimoire/cercle-de-mort/), [_Langue bleue_](/grimoire/langue-bleue/), [_rappel à la vie_](/grimoire/rappel-a-la-vie/)     
-**Adepte** : [_Dévastation spirituelle_](/grimoire/devastation-spirituelle/), [_Doigt de mort_](/grimoire/oigt-de-mort/)
+**Adepte** : [_Dévastation spirituelle_](/grimoire/devastation-spirituelle/), [_Doigt de mort_](/grimoire/doigt-de-mort/).   
 
 _**Résistance à la magie**_. Avantage aux jets de sauvegarde contre les sorts et effets magiques.
 
