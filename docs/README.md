@@ -38,13 +38,9 @@ Ajout des incantations pour :
 - [Serviteurs de fumée](/grimoire/serviteurs-de-fumee)  
 - [Signature magique](/grimoire/signature-magique)  
 
-
-
-
-
 §§§ .text-right
 ***Olivier***,
-*le 16 novembre 2025*
+*le 22 novembre 2025*
 §§§
 
 ## ✧ Mise à jour 246 ✧
