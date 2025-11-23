@@ -11,7 +11,7 @@ abilityScores:
   con: 17
   int: 12
   sag: 16
-  cha: 8
+  cha: 16
 ac:
   armorType: "custom"
   value: "17"
@@ -35,8 +35,9 @@ environments:
 ## Ombriverne
 &nbsp;
 [![Ombriverne](https://www.douaratil.fr/illustrations/fee/ombriverne300.jpeg)](https://www.douaratil.fr/illustrations/fee/ombriverne.jpeg)  
+**<v-icon>mdi-head-sync</v-icon>Perte de santé mentale (SAM)** DD 28, réussite 3, échec 1d6+2.   
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 17        
-**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17   
+**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 _**Bond agressif**_. Si l'ombriverne se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le lion peut effectuer une attaque de morsure contre elle par une action bonus.
 

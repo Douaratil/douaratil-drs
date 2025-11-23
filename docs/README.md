@@ -16,6 +16,28 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+
+## ✧ Mise à jour 248 ✧
+
+[![Mise à jour 248](https://www.douaratil.fr/illustrations/site/maj248.jpeg)](https://www.douaratil.fr/illustrations/site/maj248.jpeg)
+
+### **Bestiaire**
+
+Les plaines gelées de Douaratil s’enrichissent de nouvelles présences aussi mystérieuses qu’inquiétantes. Les voyageurs qui s’aventurent désormais dans ces contrées glaciales feraient bien d’ouvrir l’œil — et de prier pour que celui-ci ne gèle pas sur place.
+
+Trois créatures viennent ainsi rejoindre les pages du bestiaire :
+
+* Le terrifiant [Mors Draugr](/bestiaire/mors-draugr), dont la morsure porte en elle un fragment de l’outre-tombe.
+* La [Dame des aiguilles](/bestiaire/dame-des-aiguilles), silhouette inquiétante tissée d’épines et de maléfices.
+* Et enfin le [Hurlefunèbre](/bestiaire/hurlefunebre), dont les cris lacèrent autant l’esprit que la nuit.
+
+Chacune apporte son ombre, son mystère, et un peu plus de danger à ces terres déjà si hostiles.
+
+§§§ .text-right
+***Olivier***,
+*le 23 novembre 2025*
+§§§
+
 ## ✧ Mise à jour 247 ✧
 
 [![Mise à jour 247](https://www.douaratil.fr/illustrations/site/maj247.jpeg)](https://www.douaratil.fr/illustrations/site/maj247.jpeg)
@@ -120,71 +142,7 @@ Les règles se précisent et s’affinent pour mieux cadrer les affrontements et
 §§§
 
 
-## ✧ Mise à jour 244 ✧
 
-[![Mise à jour 244](https://www.douaratil.fr/illustrations/site/maj244.jpeg)](https://www.douaratil.fr/illustrations/site/maj244.jpeg)
-
-La mise à jour 244 vient enrichir considérablement le **codex des poisons**, à travers une **restructuration complète**, l’introduction de **quatre nouvelles catégories toxiques**, et l’ajout de **plus de vingt-cinq substances inédites**, chacune accompagnée de ses effets particuliers. Elle marque aussi un tournant en intégrant pour la première fois l’impact de l'usage de ses produits sur la **santé mentale (SAM)**.    
-
-### **Réorganisation de la section [Poisons](/poisons)**
-
-La section principale a été réécrite pour offrir une vision plus claire des familles de poisons et de leurs effets respectifs. Un tri désormais plus intuitif par type d'action permet aux joueurs comme aux maîtres du jeu de mieux naviguer dans les options disponibles.
-
-### **Poisons musculaires**
-
-Une catégorie centrée sur les toxines qui affaiblissent directement les muscles ou provoquent des spasmes.
-
-* Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**
-
-### **Poisons nerveux**
-
-Discrets, souvent mortels, ces poisons perturbent le système nerveux central et déclenchent hallucinations, paralysies, ou troubles sensoriels.
-
-* **[Dravnyr](/poisons/nerveux/#dravnyr)**
-* **[Luntharys](/poisons/nerveux/#luntharys)**
-* **[Morrivane](/poisons/nerveux/#morrivane)**
-* **[Noctirys](/poisons/nerveux/#noctirys)**
-* **[Nerthalyss](/poisons/nerveux/#nerthalyss)**
-* **[Orrivash](/poisons/nerveux/#orrivash)**
-* **[Skarrven](/poisons/nerveux/#skarrven)**
-* **[Verrathis](/poisons/nerveux/#verrathis)**
-
-### **Poisons de réduction**
-
-Ces toxines ne visent pas la mort immédiate, mais l’épuisement, l’affaiblissement des fonctions vitales ou le ralentissement musculaire.
-
-* **[Argelisse](/poisons/reduction/#argelisse)**
-* **[Blarghess](/poisons/reduction/#blarghess)**
-* **[Thalyssmor](/poisons/reduction/#thalyssmor)**
-* **[Vargnyth](/poisons/reduction/#vargnyth)**
-* **[Veltharyn](/poisons/reduction/#veltharyn)**
-* **[Vorlyne](/poisons/reduction/#vorlyne)**
-
-### **Poisons respiratoires**
-
-Redoutables dans leur capacité à affecter de vastes zones, ces poisons s’infiltrent par les voies respiratoires, souvent à l’insu des victimes.
-
-* **[Bruvann](/poisons/respiratoires/#bruvann)**
-* **[Lunthirra](/poisons/respiratoires/#lunthirra)**
-* **[Morgryl](/poisons/respiratoires/#morgryl)**
-* **[Morkalyth](/poisons/respiratoires/#morkalyth)**
-* **[Senvoryl](/poisons/respiratoires/#senvoryl)**
-* **[Sombrépine](/poisons/respiratoires/#sombrepine)**
-* **[Thalyvar](/poisons/respiratoires/#thalyvar)**
-* **[Viridess](/poisons/respiratoires/#viridess)**
-
-### **Santé mentale (SAM) et usage des poisons**
-
-Un nouveau **chapitre d’interaction entre les règles de santé mentale** et l'usage des poisons a été ajouté.
-Les choix moraux douteux peuvent altérer la [Santé mentale (SAM)](/sante-mentale/#utilisation-du-poison-et-sante-mentale) des personnages, introduisant de nouvelles possibilités de jeu pour les drames psychologiques.
-
-Cette mise à jour étend significativement les horizons de la toxicologie dans l’univers de Douaratil, **alliant profondeur mécanique et richesse narrative**.
-L’art des poisons redevient ce qu’il doit être : une science obscure, crainte et respectée, au carrefour de l’alchimie et de la cruauté.
-
-§§§ .text-right
-***Olivier***,
-*le 13 août 2025*
-§§§
 
 
 

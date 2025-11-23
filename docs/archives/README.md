@@ -8,6 +8,71 @@ toc: false
 <v-row>
 
 <v-col cols="12" md="6">
+## ✧ Mise à jour 244 ✧
+
+[![Mise à jour 244](https://www.douaratil.fr/illustrations/site/maj244.jpeg)](https://www.douaratil.fr/illustrations/site/maj244.jpeg)
+
+La mise à jour 244 vient enrichir considérablement le **codex des poisons**, à travers une **restructuration complète**, l’introduction de **quatre nouvelles catégories toxiques**, et l’ajout de **plus de vingt-cinq substances inédites**, chacune accompagnée de ses effets particuliers. Elle marque aussi un tournant en intégrant pour la première fois l’impact de l'usage de ses produits sur la **santé mentale (SAM)**.    
+
+### **Réorganisation de la section [Poisons](/poisons)**
+
+La section principale a été réécrite pour offrir une vision plus claire des familles de poisons et de leurs effets respectifs. Un tri désormais plus intuitif par type d'action permet aux joueurs comme aux maîtres du jeu de mieux naviguer dans les options disponibles.
+
+### **Poisons musculaires**
+
+Une catégorie centrée sur les toxines qui affaiblissent directement les muscles ou provoquent des spasmes.
+
+* Ajout du **[Vorraska](/poisons/musculaires/#vorraska)**
+
+### **Poisons nerveux**
+
+Discrets, souvent mortels, ces poisons perturbent le système nerveux central et déclenchent hallucinations, paralysies, ou troubles sensoriels.
+
+* **[Dravnyr](/poisons/nerveux/#dravnyr)**
+* **[Luntharys](/poisons/nerveux/#luntharys)**
+* **[Morrivane](/poisons/nerveux/#morrivane)**
+* **[Noctirys](/poisons/nerveux/#noctirys)**
+* **[Nerthalyss](/poisons/nerveux/#nerthalyss)**
+* **[Orrivash](/poisons/nerveux/#orrivash)**
+* **[Skarrven](/poisons/nerveux/#skarrven)**
+* **[Verrathis](/poisons/nerveux/#verrathis)**
+
+### **Poisons de réduction**
+
+Ces toxines ne visent pas la mort immédiate, mais l’épuisement, l’affaiblissement des fonctions vitales ou le ralentissement musculaire.
+
+* **[Argelisse](/poisons/reduction/#argelisse)**
+* **[Blarghess](/poisons/reduction/#blarghess)**
+* **[Thalyssmor](/poisons/reduction/#thalyssmor)**
+* **[Vargnyth](/poisons/reduction/#vargnyth)**
+* **[Veltharyn](/poisons/reduction/#veltharyn)**
+* **[Vorlyne](/poisons/reduction/#vorlyne)**
+
+### **Poisons respiratoires**
+
+Redoutables dans leur capacité à affecter de vastes zones, ces poisons s’infiltrent par les voies respiratoires, souvent à l’insu des victimes.
+
+* **[Bruvann](/poisons/respiratoires/#bruvann)**
+* **[Lunthirra](/poisons/respiratoires/#lunthirra)**
+* **[Morgryl](/poisons/respiratoires/#morgryl)**
+* **[Morkalyth](/poisons/respiratoires/#morkalyth)**
+* **[Senvoryl](/poisons/respiratoires/#senvoryl)**
+* **[Sombrépine](/poisons/respiratoires/#sombrepine)**
+* **[Thalyvar](/poisons/respiratoires/#thalyvar)**
+* **[Viridess](/poisons/respiratoires/#viridess)**
+
+### **Santé mentale (SAM) et usage des poisons**
+
+Un nouveau **chapitre d’interaction entre les règles de santé mentale** et l'usage des poisons a été ajouté.
+Les choix moraux douteux peuvent altérer la [Santé mentale (SAM)](/sante-mentale/#utilisation-du-poison-et-sante-mentale) des personnages, introduisant de nouvelles possibilités de jeu pour les drames psychologiques.
+
+Cette mise à jour étend significativement les horizons de la toxicologie dans l’univers de Douaratil, **alliant profondeur mécanique et richesse narrative**.
+L’art des poisons redevient ce qu’il doit être : une science obscure, crainte et respectée, au carrefour de l’alchimie et de la cruauté.
+
+§§§ .text-right
+***Olivier***,
+*le 13 août 2025*
+§§§
 
 ## ✧ Mise à jour 243 ✧
 
