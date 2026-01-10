@@ -1,7 +1,7 @@
 ---
 title: "Pillard Ashkémite"
 type: "Humanoïde"
-subtype: "Classe roublarde générique"
+subtype: "Ashkémite"
 size: "M"
 alignment: "n'importe quel alignement"
 challenge: "3"
@@ -31,7 +31,7 @@ skills:
 movement:
   walk: 9
 languages:
-  - "Dépend de l'ethnie"
+  - "Ashkhèm, Ashkham ou le Shkhaamm"
 ---
 [![Pillard Ashkémite](https://www.douaratil.fr/illustrations/humanoide/pillardashkemite300.jpeg)](https://www.douaratil.fr/illustrations/humanoide/pillardashkemite.jpeg)  
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 11      

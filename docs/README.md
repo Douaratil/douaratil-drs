@@ -42,7 +42,8 @@ Chacune apporte son ombre, son mystère, et un peu plus de danger à ces terres 
 
 [![Mise à jour 249](https://www.douaratil.fr/illustrations/site/maj249.jpeg)](https://www.douaratil.fr/illustrations/site/maj249.jpeg)
 
-### **Bestiaire**
+**Bestiaire**
+- Ajout du [Pillard Ashkémite](/bestiaire/pillardashkemite)
 
 **Grimoire**
 - Aujout de l'incantation du sort [silence](/grimoire/silence)  
