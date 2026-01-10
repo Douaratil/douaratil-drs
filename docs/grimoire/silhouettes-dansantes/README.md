@@ -19,6 +19,10 @@ source: "Elric"
 ---
 **Coût** : 16 points de Magie  
 **Incantation** : 
+*« Ombres légères, prenez cadence,*  
+*Dansez au bord de la présence,*  
+*Multipliez pas et contours fuyants,*  
+*Silhouettes vivantes, troublez les sens des vivants. »*  
 **Description** : Le feu enchanté par le sorcier s’active lorsqu’un instrument joue de la musique. Différentes petites créatures comme des fées semblent se distinguer parmi les flammes. Ceux qui regardent les petites formes danser dans le feu, ne peuvent plus détourner le regard et subissent un effet choisi par le lanceur de sort. Ce feu permet un de ces effets :  
 
 **Courage**. Les images vues semblent donner un courage inconnu aux cibles. Leurs niveaux de fatigue baisse d’un cran et elles sont immunisées contre l’état terrorisé pendant 24 heures.  

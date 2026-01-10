@@ -35,9 +35,7 @@ languages:
 ---
 **<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 12      
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 17     
-## <v-icon>mdi-weight-lifter</v-icon> Capacités
-
-_**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  
+## <v-icon>mdi-weight-lifter</v-icon> Capacités 
 
 _**Expertise**_. (*ombre*)
 Au niveau 1, choisissez deux compétences (discrétion et perception) que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.  

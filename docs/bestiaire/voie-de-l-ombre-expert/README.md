@@ -37,8 +37,6 @@ languages:
 **<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 19   
 ## <v-icon>mdi-weight-lifter</v-icon> Capacités
 
-_**Style de combat Défense**_. Quand vous portez une armure, vous gagnez un bonus de +1 à votre VD.  
-
 _**Expertise**_. (*ombre*)
 Au niveau 1, choisissez deux compétences (discrétion et perception) que vous maîtrisez ou une compétence que vous maîtrisez et la maîtrise des outils de voleurs. Votre bonus de maîtrise pour les deux capacités choisies est doublé pour tous les tests de compétences.  
 Au niveau 6, vous pouvez choisir deux autres maîtrises (parmi vos compétences ou les outils de voleur) et leur appliquer cette aptitude (acrobatie & escamotage).  
