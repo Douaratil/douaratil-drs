@@ -192,7 +192,7 @@ module.exports = {
     repository: 'https://github.com/douaratil/douaratil-drs',
     kofi: 'https://ko-fi.com/douaratil',
     //twitter: 'https://twitter.com/douaratil',
-    discord: 'https://discord.gg/anJm4ugn',
+    Signal: 'https://signal.group/#CjQKIORrkxF5RP7Dms1ZQGx-x4vgiY0_jI34Txjsr_hr7w_vEhDjAxOO3Ma1Q2DU7itbJ0FD',
     primaryColor: '#4D5153', // Hero
     accentColor: '#293E4D', // Dragon
     searchPlaceholder: 'Recherche',

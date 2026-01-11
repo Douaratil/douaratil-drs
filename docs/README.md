@@ -17,6 +17,48 @@ Visites:
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
 
+## ✧ Mise à jour 249 ✧
+
+[![Mise à jour 249](https://www.douaratil.fr/illustrations/site/maj249.jpeg)](https://www.douaratil.fr/illustrations/site/maj249.jpeg)
+
+### **Bonne année !**
+
+Douaratil entame une nouvelle année… et déjà plus de **cinq années d’existence**.
+Cinq ans de récits, de règles affinées, de créatures inquiétantes, de sorts étranges et de chemins parcourus ensemble.
+
+Que **2026** vous apporte des **points d’expérience**, des **trésors inespérés**, des **échecs mémorables** et surtout de belles histoires à raconter autour d’une table — réelle ou imaginaire.
+
+### **Lien communautaire**
+
+Pour celles et ceux qui souhaitent échanger, discuter règles, univers ou parties en cours, il est désormais possible de rejoindre la communauté Douaratil via la **messagerie instantanée Signal** :
+
+👉 [Rejoindre le groupe Signal Douaratil](https://signal.group/#CjQKIORrkxF5RP7Dms1ZQGx-x4vgiY0_jI34Txjsr_hr7w_vEhDjAxOO3Ma1Q2DU7itbJ0FD)
+
+### **Bestiaire**
+
+Les terres arides et violentes d’Ashkémie s’invitent davantage dans le bestiaire avec l’arrivée de deux nouvelles figures emblématiques :
+
+* Le redoutable [Pillard Ashkémite](/bestiaire/pillardashkemite), prompt au raid brutal et à la violence opportuniste.
+* Le [Maraudeur Ashkémite](/bestiaire/maraudeurashkemite), éclaireur cruel et survivant endurci des terres hostiles.
+
+### **Grimoire**
+
+Le grimoire s’enrichit quant à lui de **nouvelles incantations**, pensées comme des éléments de **roleplay**, de rituel et de mise en scène magique :
+
+* Incantation du sort [Silence](/grimoire/silence)
+* Incantation du sort [Silhouettes dansantes](/grimoire/silhouettes-dansantes)
+* Incantation du sort [Soin animalier](/grimoire/soin-animalier)
+* Incantation du sort [Soin dentaire](/grimoire/soin-dentaire)
+* Incantation du sort [Soin dermique](/grimoire/soin-dermique)
+
+Ces ajouts viennent renforcer l’immersion et donner davantage de chair aux pratiques magiques, sans modifier l’équilibre des sorts existants.
+
+§§§ .text-right
+***Olivier***,
+*le 11 janvier 2026*
+§§§
+
+
 ## ✧ Mise à jour 248 ✧
 
 [![Mise à jour 248](https://www.douaratil.fr/illustrations/site/maj248.jpeg)](https://www.douaratil.fr/illustrations/site/maj248.jpeg)
@@ -37,28 +79,6 @@ Chacune apporte son ombre, son mystère, et un peu plus de danger à ces terres 
 ***Olivier***,
 *le 23 novembre 2025*
 §§§
-
-## ✧ Mise à jour 249 ✧
-
-[![Mise à jour 249](https://www.douaratil.fr/illustrations/site/maj249.jpeg)](https://www.douaratil.fr/illustrations/site/maj249.jpeg)
-
-**Bestiaire**
-- Ajout du [Pillard Ashkémite](/bestiaire/pillardashkemite)
-
-**Grimoire**
-- Aujout de l'incantation du sort [silence](/grimoire/silence)  
-- Aujout de l'incantation du sort [silhouettes dansantes](/grimoire/silhouettes-dansantes)  
-- Aujout de l'incantation du sort [Soin animalier](/grimoire/soin-animalier)   
-
-§§§ .text-right
-***Olivier***,
-*le 11 janvier 2026*
-§§§
-
-
-
-
-
 
 L'historique de l'avancement est disponible dans les [archives](/archives/)
 

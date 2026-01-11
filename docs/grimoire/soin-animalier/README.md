@@ -17,7 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 1 point de Foi  
-**Incantation** : 
+**Incantation** :  
 *« Souffle calme, apaise la chair,*  
 *Sève vivante, coule et répare,*  
 *Que la douleur quitte ce corps fidèle,*  

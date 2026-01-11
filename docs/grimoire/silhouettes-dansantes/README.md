@@ -18,7 +18,7 @@ classes:
 source: "Elric"   
 ---
 **Coût** : 16 points de Magie  
-**Incantation** : 
+**Incantation** :  
 *« Ombres légères, prenez cadence,*  
 *Dansez au bord de la présence,*  
 *Multipliez pas et contours fuyants,*  

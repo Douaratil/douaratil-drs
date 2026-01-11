@@ -17,5 +17,9 @@ classes:
     - Foi
 ---
 **Coût** : 1 point de Foi  
-**Incantation** : 
+**Incantation** :  
+*« Os ivoirin, nerf apaisé,*  
+*Que cesse la plainte enfermée,*  
+*Par sève claire et souffle sain,*  
+*Dents guéries, douleur éteins. »*  
 **Description** : En passant son index sur une dent, le magicien peut guérir une carie, adoucir les contours d'une dent cassée ou tout autre soin de "confort". Cela permet aussi de blanchir les dents.    

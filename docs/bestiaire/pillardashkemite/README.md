@@ -3,7 +3,7 @@ title: "Pillard Ashkémite"
 type: "Humanoïde"
 subtype: "Ashkémite"
 size: "M"
-alignment: "n'importe quel alignement"
+alignment: "n'importe quel alignement chaotique"
 challenge: "3"
 customHP: "19"
 abilityScores:
