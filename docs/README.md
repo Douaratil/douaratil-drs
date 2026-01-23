@@ -16,6 +16,20 @@ Bienvenue sur le site de Référence Système pour _**Douaratil**_ !
 Visites:   
 <a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-241098-5" border="0" /></a>  
 
+## ✧ Mise à jour 250 ✧
+
+[![Mise à jour 250](https://www.douaratil.fr/illustrations/site/maj250.jpeg)](https://www.douaratil.fr/illustrations/site/maj250.jpeg)
+
+**Bestiaire**
+- ajout du [Morgleur](/bestiaire/morgleur)  
+
+**Grimoire**  
+* Incantation du sort [Soin des blessures](/grimoire/soin-des-blessures)
+* Incantation du sort [Soin des blessures de groupe](/grimoire/soin-des-blessures-de-groupe). 
+* Incantation du sort [Sombre tentation](/grimoire/sombre-tentation). 
+* Incantation du sort [Sommeil](/grimoire/sommeil). 
+* Incantation du sort [Somnambulisme](/grimoire/somnambulisme). 
+
 
 ## ✧ Mise à jour 249 ✧
 

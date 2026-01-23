@@ -18,7 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 14 points de Foi ou de Magie  
-**Incantation :** (modèle personnel, à modifier suivant la cible)    
+**Incantation :** 
+(modèle personnel, à modifier suivant la cible)    
 *Par le pouvoir de la lune (ou de la divinité tutélaire),*     
 *je t'implore de m'accorder le sommeil sacré.*       
 *Que mes besoins soient suspendus sous la lueur de la lune,*       

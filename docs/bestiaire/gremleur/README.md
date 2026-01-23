@@ -24,7 +24,7 @@ senses:
   darkvision: 18
 languages: 
   - "commun"
-  - "grmeleur"
+  - "gremleur"
 environments:
   - Bois / Forêt
   - Collines / Vallées
