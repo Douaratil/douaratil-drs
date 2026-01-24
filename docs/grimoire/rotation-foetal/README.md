@@ -16,9 +16,10 @@ classes:
     - Foi
 ---
 **Coût** : 8 points de Foi  
-**Incantation** : 
-*« Eau matricielle, tourne et berce,*  
+
+**Incantation** : *Eau matricielle, tourne et berce,*  
 *Que le souffle guide, que la vie s’inverse,*  
 *En ton sein sacré, trouve la voie,*  
-*Que l’enfant se place et demeure en joie. »*  
+*Que l’enfant se place et demeure en joie.*  
+
 **Description** : En cas de mauvais positionnement du Foetus, le guérisseur peut le replacer en posant simplement sa main sur le ventre de la femme enceinte.   

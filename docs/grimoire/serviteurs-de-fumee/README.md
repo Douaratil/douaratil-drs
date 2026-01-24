@@ -18,9 +18,10 @@ classes:
     - Magie
 ---
 **Coût** : 1 point de Foi ou de Magie  
-**Incantation** : 
-*« Fumée mouvante, forme et bras,*  
+
+**Incantation** : *Fumée mouvante, forme et bras,*  
 *Brume servile, écoute ma voix,*  
 *Levez-vous, ombres de cendre,*  
-*Et que ma volonté vous fasse entreprendre. »*  
+*Et que ma volonté vous fasse entreprendre.*  
+
 **Description** : Ce sort permet d'invoquer des petits êtres de fumée, d'une trentaine de centimètres de haut. Le magicien peut en invoquer un par point de bonus d'Intelligence. Il doit y avoir des sources de fumée pour leur création, comme un feu dans l'âtre, une cuisinière ou de l'encens. Ces êtres ne sont pas véritablement intelligents mais possèdent un peu d'empathie et permettent au magicien de ne pas se sentir trop seul dans sa demeure. Ils n'ont pas grande utilité et sont plutôt des êtres artificiels dénués de conscience. Ils ne peuvent quitter le domicile car ce sont des petits esprits du foyer.  

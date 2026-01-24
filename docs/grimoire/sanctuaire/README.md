@@ -18,11 +18,12 @@ classes:
 ---
 **Coût** : 2 points de Foi  
 **Enchantement** Le lanceur de sort enchante un petit miroir en argent. Il a pour cela besoin de 10 po de matériel (encens, bougies...).   
-**Incantation** : 
-*« Cercle de paix, lève-toi,*  
+
+**Incantation** : *Cercle de paix, lève-toi,*  
 *Voile sacré, garde ma loi,*  
 *Qu’ici nul mal n’ose franchir,*  
-*Car sous ta garde, nul ne peut périr. »*  
+*Car sous ta garde, nul ne peut périr.*  
+
 **Description** : Vous protégez une créature à portée contre les attaques. Jusqu'à la fin du sort, toute créature qui vise la cible avec une attaque ou un sort néfaste doit d'abord effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le rate, elle doit choisir une nouvelle cible, sans quoi l'attaque ou le sort est perdu. Ce sort ne protège pas la cible contre les effets de zone.
 
 Ce sort se termine si la créature protégée attaque ou lance un sort affectant une créature ennemie.

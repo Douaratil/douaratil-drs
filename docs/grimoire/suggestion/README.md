@@ -19,8 +19,7 @@ classes:
 ---
 **Coût** : 4 points de Magie   
 
-**Incantation** : 
-*Parole douce, glisse dans l’esprit,*  
+**Incantation** : *Parole douce, glisse dans l’esprit,*  
 *Que ton écho devienne leur pensée,*  
 *Que leur volonté s’incline sans résistance,*  
 *Et que ton murmure guide leurs choix.*  

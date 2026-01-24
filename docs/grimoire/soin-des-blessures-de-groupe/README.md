@@ -19,8 +19,7 @@ classes:
 ---
 **Coût** : 10 points de Foi  
 
-**Incantation** :   
-*Par le souffle qui nous unit,*  
+**Incantation** : *Par le souffle qui nous unit,*  
 *Par la terre qui nous porte,*  
 *Que la douleur de chacun s’apaise,*  
 *Et que la force du cercle nous restaure.*  

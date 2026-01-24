@@ -22,8 +22,7 @@ classes:
 
 **Enchantement** : L’éclat de pierre de lune doit être purifié sous l’eau claire d’une source, et la feuille de menthe doit être fumée dans un encensoir sacré. L’enchantement demande 2 heures de méditation, 10 po de consommables (encens, herbes médicinales) et un test de Religion ou d’Arcanes (DD 12).
 
-**Incantation** :  
-*Ô souffle pur qui chasse le mal,*  
+**Incantation** :  *Ô souffle pur qui chasse le mal,*  
 *gèle le venin, suspends sa course fatale.*  
 *Que le corps trouve un répit, une trêve claire,*  
 *j’appelle la stase, j’arrête le poison amer.*  

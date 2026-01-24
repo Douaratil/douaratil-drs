@@ -18,8 +18,7 @@ classes:
 ---
 **Coût** : 4 points de Magie ou de Foi  
 
-**Incantation** :  
-*Souffle léger, porteur de mots lointains,*  
+**Incantation** :  *Souffle léger, porteur de mots lointains,*  
 *Traverse les vents, franchis les chemins,*  
 *Que ta voix murmure au-delà des collines,*  
 *Et que le message parvienne, clair et sans fin.*  

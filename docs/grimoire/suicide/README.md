@@ -18,8 +18,7 @@ classes:
 ---
 **Coût** : 16 points de Magie  
 
-**Incantation** : 
-*Ombre qui ronge l’âme et brise la volonté,*  
+**Incantation** : *Ombre qui ronge l’âme et brise la volonté,*  
 *Que le désespoir devienne une lame invisible,*  
 *Et que la vie s’efface dans un dernier souffle.*  
 

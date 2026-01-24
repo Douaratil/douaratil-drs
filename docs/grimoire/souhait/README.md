@@ -19,8 +19,7 @@ classes:
 ---
 **Coût** : Spécial : 90 points de Magie    
 
-**Incantation** :     
-*Étoile filante, porteuse d’espoir,*  
+**Incantation** :     *Étoile filante, porteuse d’espoir,*  
 *Que mon désir s’élève dans l’éther,*  
 *Que l’univers entende ma voix,*  
 *Et que ce vœu devienne réalité.*  

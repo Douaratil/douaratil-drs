@@ -21,8 +21,7 @@ classes:
 
 **Enchantement** Le lanceur de sort enchante du mercure, phosphore et poudre de diamant et d'opale d'une valeur totale d'au moins 1000 po, que le sort consume. Il a pour cela besoin de 70 po de matériel (encens, bougies...).   
 
-**Incantation** :  
-*Doigt guidé par l’invisible,*  
+**Incantation** :  *Doigt guidé par l’invisible,*  
 *Trace ce signe entre les mondes,*  
 *Que la magie s’y scelle,*  
 *Et que son pouvoir s’éveille.*  

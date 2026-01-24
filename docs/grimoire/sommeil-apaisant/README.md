@@ -18,8 +18,8 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie  
-**Incantation :**
-*Par la sérénité des esprits de la nuit,*  
+
+**Incantation :***Par la sérénité des esprits de la nuit,*  
 *je t'implore de baigner cet être dans le calme et le repos.*  
 *Que les soucis s'effacent et que l'esprit trouve la paix*.
 

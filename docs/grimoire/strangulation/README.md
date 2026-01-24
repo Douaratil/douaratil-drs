@@ -19,8 +19,7 @@ classes:
 ---
 **Coût** : 2 points de Magie  
 
-**Incantation** : 
-*Ombre serrée, enroule-toi autour de la gorge,*  
+**Incantation** : *Ombre serrée, enroule-toi autour de la gorge,*  
 *Que le souffle se bloque et que l'air se raréfie,*  
 *Que la pression devienne silence,*  
 *Et que la vie s'éteigne dans l'étau invisible.*  

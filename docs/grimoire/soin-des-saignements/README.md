@@ -18,8 +18,7 @@ classes:
 ---
 **Coût** : 8 point de Foi   
 
-**Incantation** :    
-*Par la miséricorde de (divinité tutélaire),*   
+**Incantation** :    *Par la miséricorde de (divinité tutélaire),*   
 *je t'implore de stopper le flot de vie.*   
 *Que les plaies se referment et la force revienne,*   
 *comme la rosée guérit les blessures de la terre.*   

@@ -18,8 +18,7 @@ classes:
 ---
 **Coût** : 2 point de Foi  
 
-**Incantation** :  
-*Chair déchirée, écoute mon souffle,*  
+**Incantation** : *Chair déchirée, écoute mon souffle,*  
 *Sang qui coule, arrête ta course,*  
 *Que la sève du monde coule en toi,*  
 *Et que la douleur s’efface sous ma voix.*  

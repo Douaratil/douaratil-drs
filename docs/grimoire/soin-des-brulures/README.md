@@ -18,8 +18,7 @@ classes:
 ---
 **Coût** : 8 point de Foi   
 
-**Incantation** :    
-*Par la grâce de (divinité tutélaire),*   
+**Incantation** :    *Par la grâce de (divinité tutélaire),*   
 *je t'implore de guérir ces blessures ardentes.*   
 *Que la douleur se dissipe et que la chair soit régénérée,*   
 *comme le phénix renaît de ses cendres.*    

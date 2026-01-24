@@ -19,8 +19,7 @@ classes:
 ---
 **Coût** : 12 points de Magie   
 
-**Incantation** : 
-*Voix unie, portez un seul écho,*  
+**Incantation** : *Voix unie, portez un seul écho,*  
 *Que vos esprits s’ouvrent à ma parole,*  
 *Que vos volontés s’harmonisent,*  
 *Et que mes mots deviennent vos désirs.*  

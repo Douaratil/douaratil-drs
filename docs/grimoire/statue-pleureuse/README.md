@@ -19,8 +19,7 @@ source: "Elric"
 ---
 **Coût** : 14 points de Magie   
 
-**Incantation** : 
-*Pierre silencieuse, laisse couler tes larmes de marbre,*  
+**Incantation** : *Pierre silencieuse, laisse couler tes larmes de marbre,*  
 *Que chaque goutte porte le poids des mémoires oubliées,*  
 *Et que ton chagrin sculpté devienne un pont entre les mondes.*  
 

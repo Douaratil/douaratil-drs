@@ -20,11 +20,12 @@ classes:
 **Coût** : 10 points de Magie ou de Foi
 
 **Enchantement** Le lanceur de sort enchante un focaliseur d'une valeur minimale de 1000  po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite. Il a pour cela besoin de 50 po de matériel (encens, bougies...).    
-**Incantation** : 
-*« Voile du monde, ouvre une brèche,*  
+
+**Incantation** : *Voile du monde, ouvre une brèche,*  
 *Œil sans forme, trouve ma cible,*  
 *Que distance et secret s’effacent,*  
-*Et que la vérité me soit visible. »*  
+*Et que la vérité me soit visible.*  
+
 **Description** : Vous voyez et entendez une créature donnée de votre choix, à condition qu'elle se trouve sur le même plan d'existence que vous. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, modifié par le degré de connaissance que vous avez d'elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle veut que vous l'observiez.
 
 

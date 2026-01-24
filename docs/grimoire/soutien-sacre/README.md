@@ -20,8 +20,7 @@ source: "Elric"
 ---
 **Coût** : 1 points de Foi
 
-**Incantation** :  
-*Lumière des anciens, enveloppe ceux qui luttent,*  
+**Incantation** :  *Lumière des anciens, enveloppe ceux qui luttent,*  
 *Que ta présence apaisante fortifie leurs pas,*  
 *Que leur force ne fléchisse pas,*  
 *Et que leur esprit trouve refuge dans ta clarté.*  

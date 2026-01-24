@@ -17,11 +17,12 @@ classes:
     - Magie
 ---
 **Coût** : 8 points de Magie   
-**Incantation** :  
-*« Murmure des voiles, cache-moi,*  
+
+**Incantation** :  *Murmure des voiles, cache-moi,*  
 *Silence ancien, protège ma voie,*  
 *Que nul regard ne perce ces murs,*  
-*Et que mon refuge demeure sûr. »*  
+*Et que mon refuge demeure sûr.*  
+
 **Description** : Vous sécurisez par magie une zone à portée. Il s'agit d'un cube de 1,50 mètre à 30 mètres d'arête. Le sort persiste pendant toute sa durée ou jusqu'à ce que vous utilisiez une action pour le révoquer.
 
 Vous décidez de la sécurité offerte par le sort au moment de l'incantation en choisissant une ou plusieurs propriétés parmi les suivantes.

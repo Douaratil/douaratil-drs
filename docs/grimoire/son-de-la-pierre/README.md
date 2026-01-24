@@ -22,8 +22,7 @@ source: "Elric"
 **Coût** : 6 points de Magie ou de Foi  
 **Enchantement** Le lanceur de sort enchante un Bâton gravé (ou arme en métal gravé) de symboles magiques ou bénis. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
 
-**Incantation** :  
-*Écho des montagnes, réveille-toi en ces murs,*  
+**Incantation** :  *Écho des montagnes, réveille-toi en ces murs,*  
 *Que la roche murmure sous mes doigts,*  
 *Que sa voix profonde résonne,*  
 *Et que son chant porte au-delà des siècles.*  

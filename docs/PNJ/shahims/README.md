@@ -62,7 +62,7 @@ Ashur Begaya est un marchand shahim qui navigue sur la mer d'émeraude mais qui 
 
 ## Bahir Boudiaf
 &nbsp;
-[![Bahir Boudiaf](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf300.jpeg)](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf.jpg)   
+[![Bahir Boudiaf](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf300.jpeg)](https://www.douaratil.fr/illustrations/pnj/bahirboudiaf.jpeg)   
 §§§
 |Bahir Boudiaf|Shème|
 |:-:|:-:|
@@ -82,7 +82,7 @@ Bahir Boudiaf est un marchand peu scrupuleux des routes commerciales shèmes.
 
 ## Eyoab Mengistu Boru
 &nbsp;
-[![Eyoab Mengistu Boru](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru300.jpeg)](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru.jpg)   
+[![Eyoab Mengistu Boru](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru300.jpeg)](https://www.douaratil.fr/illustrations/pnj/eyoabmengistuboru.jpeg)   
 §§§
 |Eyoab Mengistu Boru|Ashkhémite|
 |:-:|:-:|
@@ -182,8 +182,8 @@ Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie
 
 ## Kahina ult Bouhen
 &nbsp;
-[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpg)   
-[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpg)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina.jpeg)   
+[![Kahina ult Bouhen](https://www.douaratil.fr/illustrations/pnj/kahina2300.jpeg)](https://www.douaratil.fr/illustrations/pnj/kahina2.jpeg)   
 §§§
 |Kahina ult Bouhen|Ashkhémite|
 |:-:|:-:|
@@ -222,7 +222,7 @@ Femme à la beauté simple et au regard déterminé, Nour Alia est issue d’une
 
 ## Ommi Rahma
 &nbsp;
-[![Ommi Rahma](https://www.douaratil.fr/illustrations/pnj/ommirahma300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ommirahma.jpg)     
+[![Ommi Rahma](https://www.douaratil.fr/illustrations/pnj/ommirahma300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ommirahma.jpeg)     
 §§§
 |Ommi Rahma|Shème|
 |:-:|:-:|
@@ -309,4 +309,29 @@ Shamreta la rouge est une énigmatique sorcière au service du puissant marchand
 
 **Expert** :
 [Malédiction funeste](/grimoire/malediction-funeste), [Nuage incendiaire](/grimoire/nuage-incendiaire), [Tremblement de terre](/grimoire/tremblement-de-terre).
+§§§
+
+## Ustad Karim
+&nbsp;
+[![Ustad Karim](https://www.douaratil.fr/illustrations/pnj/ustadkarim300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ustadkarim.jpeg)     
+§§§
+|Ustad Karim|Shème|
+|:-:|:-:|
+| Profil|[Voie de la magie (Disciple)](/bestiaire/voie-des-armes-novices)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 22|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 13|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6 dégâts perforant (finesse, légère, lancer 6/18).  
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Ustad Karim est un homme de taille moyenne, vêtu d’une robe longue et d’un turban impeccablement noué. Avec sa barbe grisonnante et ses gestes précis, il est une figure respectée de la Médina. Ses œuvres ornent les murs des mosquées, des madrasas, et même les maisons nobles de Luat’albarh.
+§§§
+§§§ .hero
+**<v-icon>mdi-firebase</v-icon> Sorts connus:**     
+**Bonus d'incantation: +5**  
+**DD de Sauvegarde: 13**  
+**Novice** : [Alarme](/grimoire/alarme), [Compréhension des langages](/grimoire/comprehension-des-langages), [Confort](/grimoire/confort), [détection de la magie](/grimoire/detection-de-la-magie), [identification](/grimoire/identification), [Localiser un objet](/grimoire/localiser-un-objet), [messager animal](/grimoire/messager-animal), [Prestidigitation](/grimoire/prestidigitation), [serviteur invisible](/grimoire/serviteur-invisible), [silence](/grimoire/silence), [suggestion](/grimoire/suggestion).  
+
+**Disciple** :  
+[Clairevoyance](/grimoire/clairevoyance), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Divination](/grimoire/divination), [Langues](/grimoire/langues).
 §§§

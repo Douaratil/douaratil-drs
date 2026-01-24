@@ -17,11 +17,12 @@ classes:
     - Magie
 ---
 **Coût** : 4 points de Foi ou de Magie  
-**Incantation** :  
-*Entre veille et rêve, où le corps erre sans guide,*  
+
+**Incantation** :  *Entre veille et rêve, où le corps erre sans guide,*  
 *Que les yeux restent clos, mais les pas avancent,*  
 *Que la nuit devienne leur chemin,*  
 *Et que l’inconscient trace leur route.*  
+
 **Description** : La cible du sorcier doit résister à ce sortilège en réussissant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou devenir sujet au somnambulisme. Durant les période de somnambulisme, la cible est sensible aux suggestions du sorcier qui peuvent lui être communiquées par tout moyen.  
 
 **À plus haut niveau**.  

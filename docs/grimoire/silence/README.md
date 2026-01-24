@@ -18,9 +18,10 @@ classes:
     - Foi
 ---
 **Coût** : 4 points de Magie ou de Foi  
-**Incantation** :   
-*« Mot éteint, souffle brisé,*   
+
+**Incantation** :   *Mot éteint, souffle brisé,*   
 *Que le bruit meure et soit lié,*  
 *Ici s’achève toute voix,*  
-*Silence règne, tel est mon choix. »*  
+*Silence règne, tel est mon choix.*  
+
 **Description** : Pendant toute la durée du sort, aucun son ne peut se créer au sein d'une sphère de 6 mètres de rayon centrée sur un point de votre choix à portée, ni la traverser. Une créature ou un objet entièrement contenu dans la sphère sont immunisés contre les dégâts de tonnerre, et les créatures entièrement contenues dans la sphère sont <RT l="assourdies" t="assourdi"/>. Il est impossible de lancer un sort à composante verbale depuis la sphère.

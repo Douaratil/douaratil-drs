@@ -20,10 +20,11 @@ classes:
 
 ---
 **Coût** : 1 point de Foi ou de Magie  
-**Incantation** : 
-*« Souffle tiède, bois l’eau en silence,*  
+
+**Incantation** : *Souffle tiède, bois l’eau en silence,*  
 *Rayons légers, chasse la présence,*  
 *Que toute trace d’humidité s’enfuie,*  
-*Et que le sec règne ici. »*  
+*Et que le sec règne ici.*  
+
 **Description** : En utilisant ce sort, si rien visuellement ne se passe, l'environnement se modifie cependant.
 Une petite brise chaude et sèche se déplace sur la zone, améliorant l'efficacité de séchage de tous les objets et êtres vivants dans la zone.

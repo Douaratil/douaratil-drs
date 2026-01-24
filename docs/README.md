@@ -49,6 +49,9 @@ Visites:
 - Ajout de [Nour Alia](/PNJ/shahims/#nour-alia)  
 - Ajout de [Ustad Karim](/PNJ/shahims/#ustad-karim)  
 
+**Site**  
+- Ajustement de mise en page et correction de liens brisés
+
 
 ## ✧ Mise à jour 249 ✧
 
