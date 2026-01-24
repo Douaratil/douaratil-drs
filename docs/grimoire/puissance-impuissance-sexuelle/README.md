@@ -17,16 +17,15 @@ classes:
     - Foi
     - Magie
 ---
-**Coût** : 14 points de Foi ou de Magie    
+**Coût** : 14 points de Foi ou de Magie   
+
 **Incantation** :   
-**Pour Puissance sexuelle**    
-*Par la flamme de la passion, par les étoiles du désir,*   
+**Pour Puissance sexuelle**    *Par la flamme de la passion, par les étoiles du désir,*   
 *Puissance sexuelle, en moi fais surgir,*   
 *Force et ardeur, vigueur éternelle,*    
 *Que l'amour et l'envie soient sans pareille.*    
 
-**Pour Impuissance sexuelle**   
-*Par les brumes de l'oubli, par les ombres du silence,*   
+**Pour Impuissance sexuelle**   *Par les brumes de l'oubli, par les ombres du silence,*   
 *Impuissance sexuelle, installe l'absence,*   
 *Apaise l'ardeur, éteins la flamme,*   
 *Que la tranquillité demeure en âme.*    

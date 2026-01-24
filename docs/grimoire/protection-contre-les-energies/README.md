@@ -17,7 +17,8 @@ classes:
     - Foi
     - Magie
 ---
-**Coût** : 6 points de Magie ou de Foi  
+**Coût** : 6 points de Magie ou de Foi 
+
 **Incantation** : *Énergies sombres, énergies claires,*   
 *Par cette incantation, je déclare :*   
 *Protection contre les énergies, bouclier puissant,*   
@@ -32,4 +33,5 @@ classes:
 *Par ce charme, je demeure en émoi.*    
 *Protection contre les énergies, force invincible,*   
 *Garde-moi de toute énergie nuisible !*    
+
 **Description** : Pendant toute la durée du sort, la créature consentante que vous touchez devient résistante à un type de dégâts de votre choix : acide, feu, froid, foudre ou tonnerre.

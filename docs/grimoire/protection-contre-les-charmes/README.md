@@ -20,7 +20,9 @@ classes:
 source: "Elric"
 ---
 **Coût** : 6 points de Magie ou de Foi  
+
 **Enchantement** Le lanceur de sort enchante un linge, de la graisse de carnivore, une agate ( destruction après utilisation ), de la peau de carnivore, un cœur de volatile. Il a pour cela besoin de 30 po de matériel (encens, bougies...).  
+
 **Incantation** : *Par les cieux et par la terre,*  
 *Que le charme en moi s’enterre.*  
 *Protection contre les charmes, flamme ardente,*  

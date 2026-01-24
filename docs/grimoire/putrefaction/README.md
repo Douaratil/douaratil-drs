@@ -17,6 +17,7 @@ classes:
     - Magie
 ---
 **Coût** : 2 points de Magie   
+
 **Incantation** : *Par les ombres et les forces cachées,*   
 *Que la vie en ces lieux soit fauchée.*   
 *Putréfaction, sème la décomposition,*   

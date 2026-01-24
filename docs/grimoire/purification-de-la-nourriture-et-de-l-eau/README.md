@@ -17,6 +17,7 @@ classes:
     - Foi
 ---
 **Coût** : 2 points de Foi  
+
 **Incantation** : *Eaux et nourritures, écoutez ma voix,*   
 *Par cette lumière, toute impureté se noie.*   
 *Purification de la nourriture et de l'eau, par le pouvoir des cieux,*   

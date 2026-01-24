@@ -19,7 +19,9 @@ classes:
 source: "Elric"
 ---
 **Coût** : 8 points de Magie  
+
 **Enchantement** Le lanceur de sort enchante un quartz. Il a pour cela besoin de 40 po de matériel (encens, bougies...).  
+
 **Incantation** : *Par les flammes des anciens, par la chaleur du soleil,*   
 *Pyromancie, je t’appelle avec mon zèle.*   
 *Que le feu jaillisse, ardent et fier,*   

@@ -18,6 +18,7 @@ classes:
     - Magie
 ---
 **Coût** : 10 points de Magie ou de Foi puis 5PM/PF par round après le premier.  
+
 **Incantation** : *Par la force des anciens, par le feu des géants, Puissance guerrière, en moi prends tes rangs !*     
 
 **Description** : Le lanceur de sort invoque la puissance magique pour augmenter ses capacités physiques. Ses muscles se contractent à leur maximum et les veines sont gonflées, semblant prêtes à éclater et le blanc de ses yeux se remplie  de sang.

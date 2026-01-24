@@ -20,6 +20,7 @@ classes:
 **Coût** : 16 points de Magie ou de Foi  
 
 **Enchantement** Le lanceur de sort enchante un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance. Il a pour cela besoin de 80 po de matériel (encens, bougies...).  
+
 **Incantation** : 
 Répulsion   
 *Cercle de refus, barrière dressée,*   
@@ -32,6 +33,7 @@ Attirance
 *Que chair et esprit soient appelés,*   
 *Vers ma main, vers mon centre,*   
 *Que nul ne résiste à ma volonté.*   
+
 **Description** : Ce sort attire ou refoule les créatures de votre choix. Vous choisissez un objet ou une créature de taille TG ou inférieure situés à portée ou une zone pas plus grande qu'un cube de 60 mètres de côté. Ensuite, vous décrivez une catégorie de créatures intelligentes, comme les dragons rouges, les gobelins ou les vampires. La cible est alors baignée d'une aura qui attire ou refoule ces créatures pendant toute la durée du sort. Vous devez choisir la répulsion ou l'attirance comme effet de l'aura.
 
 **Attirance**. L'enchantement génère chez la créature une envie irrépressible de s'approcher de la cible dès qu'elle se trouve à 18 mètres ou moins d'elle ou dès qu'elle la voit. Quand la créature voit la cible ou se trouve dans un rayon de 18 mètres autour d'elle, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi, à chacun de ses tours, elle se déplace de manière à entrer dans la zone désirée ou à arriver à portée de la cible. Une fois là, la créature ne peut plus s'éloigner de sa propre initiative.

@@ -17,8 +17,8 @@ classes:
     - Foi
 ---
 **Coût** : 6 points de Foi  
-**Incantation :**
-*Par la sagesse de (divinité tutélaire),*     
+
+**Incantation :***Par la sagesse de (divinité tutélaire),*     
 *je t'implore de guider mes pas et mes mains.*     
 *Que les dons de la terre se révèlent à moi,*     
 *et que je puisse trouver de quoi nourrir les miens.*   
