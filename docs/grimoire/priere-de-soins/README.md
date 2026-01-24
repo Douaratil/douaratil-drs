@@ -18,7 +18,8 @@ classes:
 ---
 **Coût** : 6 points de Foi  
 
-**Incantation** :  *Aux lueurs des étoiles, là où le besoin mendie la guérison,*   
+**Incantation** :   
+*Aux lueurs des étoiles, là où le besoin mendie la guérison,*   
 *Aux lueurs des étoiles, là où le besoin mendie la guérison,*   
 *J'invoque une prière magique, une douce lueur venue des cieux, qui soigne les plaies avec la bienveillance des étoiles.*   
 *Une douce lueur venue des cieux, soignant les plaies avec la bienveillance des étoiles.*   

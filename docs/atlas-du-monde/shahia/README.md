@@ -53,7 +53,7 @@ La mer de neige porte ce nom car cette zone maritime est très agitée avec les 
 ## Larh Murda
 La mer miroir est une zone souvent évitée par les navires car le vent s'y fait rare et les bateaux peuvent y être immobilisés.
 
-## Luat'albarh
+## [Luat'albarh](/atlas-du-monde/shahia/luatalbarh/)
 Luat'albarh, la reine blanche comme elle est surnommée, est une grande cité des royaumes shaiates qui bénéficie de l'accès à la mer et du commerce avec le continent nordique et l'empire alcante. Le dirigeant actuel est le [houltane Allgoui ag Sidi](/PNJ/shahims/#allgoui-ag-sidi).
 
 ## Madin'alajnibh

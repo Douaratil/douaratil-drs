@@ -31,7 +31,7 @@ Les maisons, souvent construites sur deux ou trois étages, servent à la fois d
 
 **[Ommi Rahma](/PNJ/shahims/#ommi-rahma)**   
 - Occupation : Guérisseuse et herboriste.   
-- Description : Ommi Rahma, surnommée “la mère du port”, est une femme âgée, mais encore énergique, enveloppée dans des voiles de coton léger. On la trouve toujours près de son étal au marché, où elle vend des remèdes à base de plantes qu’elle cueille elle-même ou fait venir des oasis environnantes. Elle est respectée par tous pour sa sagesse et sa bienveillance. Certains disent qu’elle connaît les secrets de la mer et des étoiles, et qu’elle bénit les navires avant leur départ.    
+- Description : Ommi Rahma, surnommée “la mère du port”, est une femme âgée, mais encore énergique, enveloppée dans des voiles de coton léger. On la trouve toujours près de son étal au marché, où elle vend des remèdes à base de plantes qu’elle cueille elle-même ou fait venir des oasis environnantes. Elle est respectée par tous pour sa sagesse et sa bienveillance. Certains disent qu’elle connaît les secrets de la mer et des étoiles, et qu’elle bénit les navires avant leur départ. C'est aussi une guérisseuse qui connait la magie des soins mais qui ne dévoile cette facette qu'aux personnes de confiance. Elle a la protection du Houltane Allgoui ag Sidi.   
 
 ### Lieux notables
 
@@ -71,14 +71,14 @@ Les artisans et commerçants occupent généralement le rez-de-chaussée des mai
 
 ### Personnalités marquantes    
 
-**Ustad Karim**    
+**[Ustad Karim](/PNJ/shahims/#ustad-karim)**    
 - Occupation : Maître calligraphe.    
 - Description : Ustad Karim est un homme de taille moyenne, vêtu d’une robe longue et d’un turban impeccablement noué. Avec sa barbe grisonnante et ses gestes précis, il est une figure respectée de la Médina. Ses œuvres ornent les murs des mosquées, des madrasas, et même les maisons nobles de Luat’albarh. Dans son petit atelier à la lisière du souk, il enseigne l’art de la calligraphie à des apprentis et reçoit des commandes de notables et d’institutions religieuses.     
 - Particularité : Il est également un poète amateur et ses œuvres sont souvent accompagnées de vers élégants qu’il compose lui-même.     
 
-**Nour Alia**   
+**[Nour Alia](/PNJ/shahims/#nour-alia)**   
 - Occupation : Bijoutière talentueuse.     
-- Description : Jeune femme à la beauté simple et au regard déterminé, Nour Alia est issue d’une famille d’artisans bijoutiers. Elle a modernisé l’atelier familial en introduisant des techniques innovantes tout en préservant les traditions locales. Elle travaille principalement avec de l’or, du lapis-lazuli, et des pierres précieuses venues des montagnes Al-Hadjar.     
+- Description : Femme à la beauté simple et au regard déterminé, Nour Alia est issue d’une famille d’artisans bijoutiers. Elle a modernisé l’atelier familial en introduisant des techniques innovantes tout en préservant les traditions locales. Elle travaille principalement avec de l’or, du lapis-lazuli, et des pierres précieuses venues des montagnes Al-Hadjar.     
 - Particularité : Ses créations attirent des clients de toute la région, des marchands riches aux nobles de passage. On raconte qu’elle porte toujours un bijou de sa propre création, un pendentif en forme de croissant de lune incrusté de perles.     
 
 ### Lieux notables     

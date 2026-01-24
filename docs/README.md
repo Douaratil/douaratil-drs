@@ -42,9 +42,12 @@ Visites:
 
 **Atlas**  
 - Poursuite de la description de la ville de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) avec description des PNJ qui peuplent la ville.  
+- Correction du lien [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) depuis la page de [l'atlas du monde de Shahia](/atlas-du-monde/shahia) 
 
 **PNJ**  
 - Ajout de [Ommi Rahma](/PNJ/shahims/#ommi-rahma)  
+- Ajout de [Nour Alia](/PNJ/shahims/#nour-alia)  
+- Ajout de [Ustad Karim](/PNJ/shahims/#ustad-karim)  
 
 
 ## ✧ Mise à jour 249 ✧

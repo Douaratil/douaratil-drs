@@ -7,7 +7,7 @@ title: "PNJ Shahims"
 §§§
 |allgouiagsidi|Shème|
 |:-:|:-:|
-| Profil|[Voie des ombres (Maître)](/bestiaire/voie-des-ombres-maitre)|
+| Profil|[Voie de l'ombre (Maître)](/bestiaire/voie-de-l-ombre-maitre)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 67|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 16|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 24|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**   
@@ -47,7 +47,7 @@ Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-
 §§§
 |Ashur Begaya|Shème|
 |:-:|:-:|
-| Profil|[Voie des ombres (Novice)](/bestiaire/voie-des-ombres-novice)|
+| Profil|[Voie de l'ombre (Novice)](/bestiaire/voie-de-l-ombre-novice)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 18|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 12|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**   
@@ -145,7 +145,7 @@ Farid ibn Shakir est le souverain de la cité de Samd'ji qui se trouve sur l'îl
 §§§
 |Hamda Bin Atiq|Shème|
 |:-:|:-:|
-| Profil|[Voie des ombres (Adepte)](/bestiaire/voie-des-ombres-adepte)|
+| Profil|[Voie de l'ombre (Adepte)](/bestiaire/voie-de-l-ombre-adepte)|
 |**<v-icon>mdi-heart</v-icon>Points d'action**: 53|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 16|   
 |**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 12|  
 **<v-icon>mdi-sword-cross</v-icon> Actions**   
@@ -199,6 +199,51 @@ _Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
 Kahina ult Bouhen est une servante donnée en présent à [Lochetos Vlatcano](/bestiaire/lochetos-vlatcano) par le chef de guerre ashkhémite Amastame Ag Beketa.
+§§§
+
+## Nour Alia
+&nbsp;
+[![Nour Alia](https://www.douaratil.fr/illustrations/pnj/nouralia300.jpeg)](https://www.douaratil.fr/illustrations/pnj/nouralia.jpeg)   
+§§§
+|Nour Alia|Shème|
+|:-:|:-:|
+| Profil|[Voie de l'ombre (Disciple)](/bestiaire/voie-de-l-ombre-maitre)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 25|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
+_**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Femme à la beauté simple et au regard déterminé, Nour Alia est issue d’une famille d’artisans bijoutiers. Elle a modernisé l’atelier familial en introduisant des techniques innovantes tout en préservant les traditions locales. 
+§§§
+
+## Ommi Rahma
+&nbsp;
+[![Ommi Rahma](https://www.douaratil.fr/illustrations/pnj/ommirahma300.jpeg)](https://www.douaratil.fr/illustrations/pnj/ommirahma.jpg)     
+§§§
+|Ommi Rahma|Shème|
+|:-:|:-:|
+| Profil|[Voie de la magie (Disciple)](/bestiaire/voie-des-armes-novices)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 22|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 13|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 13|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6 dégâts perforant (finesse, légère, lancer 6/18).  
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Ommi Rahma, surnommée “la mère du port”, est une femme âgée, mais encore énergique, enveloppée dans des voiles de coton léger. On la trouve toujours près de son étal au marché, où elle vend des remèdes à base de plantes qu’elle cueille elle-même ou fait venir des oasis environnantes.
+§§§
+§§§ .hero
+**<v-icon>mdi-firebase</v-icon> Sorts connus:**     
+**Bonus d'incantation: +5**  
+**DD de Sauvegarde: 13**  
+**Novice** : [Alarme](/grimoire/alarme),[cécité/surdité](/grimoire/cecite-surdite), [Confort](/grimoire/confort), [Déguisement](/grimoire/deguisement), [détection de la magie](/grimoire/detection-de-la-magie), [identification](/grimoire/identification), [messager animal](/grimoire/messager-animal), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe), [Prestidigitation](/grimoire/prestidigitation),[restauration inférieure](/grimoire/restauration-inferieure), [serviteur invisible](/grimoire/serviteur-invisible),  [silence](/grimoire/silence), [soin animalier](/grimoire/soin-animalier),  [soin dentaire](/grimoire/soin-dentaire), [soin des blessures](/grimoire/soin-des-blessures),
+[suggestion](/grimoire/suggestion).  
+
+**Disciple** :  
+[Clairevoyance](/grimoire/clairevoyance), [Dissipation de la magie](/grimoire/dissipation-de-la-magie), [Mot de guérison de groupe](/grimoire/mot-de-guerison-de-groupe), [Prière de soins](/grimoire/priere-de-soins), [soin des brûlures](/grimoire/soin-des-brulures), [soin des saignements](/grimoire/soin-des-saigements).
 §§§
 
 # Shamash Eriba
@@ -264,3 +309,4 @@ Shamreta la rouge est une énigmatique sorcière au service du puissant marchand
 
 **Expert** :
 [Malédiction funeste](/grimoire/malediction-funeste), [Nuage incendiaire](/grimoire/nuage-incendiaire), [Tremblement de terre](/grimoire/tremblement-de-terre).
+§§§
