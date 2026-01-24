@@ -20,38 +20,44 @@ Visites:
 
 [![Mise à jour 250](https://www.douaratil.fr/illustrations/site/maj250.jpeg)](https://www.douaratil.fr/illustrations/site/maj250.jpeg)
 
-**Bestiaire**
-- ajout du [Morgleur](/bestiaire/morgleur)  
+Les pages de Douaratil continuent de se noircir d’encre, de récits et de murmures. Cette nouvelle mise à jour marque une étape de plus dans l’exploration patiente du monde, de ses créatures, de ses cités et des pratiques qui le façonnent.
 
-**Grimoire**  
-* Incantation du sort [Soin des blessures](/grimoire/soin-des-blessures)
-* Incantation du sort [Soin des blessures de groupe](/grimoire/soin-des-blessures-de-groupe). 
-* Incantation du sort [Sombre tentation](/grimoire/sombre-tentation). 
-* Incantation du sort [Sommeil](/grimoire/sommeil). 
-* Incantation du sort [Somnambulisme](/grimoire/somnambulisme). 
-* Incantation du sort [Son de la pierre](/grimoire/son-de-la-pierre). 
-* Incantation du sort [Souffle du messager](/grimoire/souffle-du-messager). 
-* Incantation du sort [Souhait](/grimoire/souhait). 
-* Incantation du sort [Soutien sacré](/grimoire/soutien-sacre). 
-* Incantation du sort [Statue pleureuse](/grimoire/statue-pleureuse). 
-* Incantation du sort [Strangulation](/grimoire/strangulation). 
-* Incantation du sort [Suggestion](/grimoire/suggestion). 
-* Incantation du sort [Suggestion de groupe](/grimoire/suggestion-de-groupe). 
-* Incantation du sort [Suicide](/grimoire/suicide). 
-* Incantation du sort [Symbole](/grimoire/symbole). 
+### **Bestiaire**
 
-**Atlas**  
-- Poursuite de la description de la ville de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) avec description des PNJ qui peuplent la ville.  
-- Correction du lien [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) depuis la page de [l'atlas du monde de Shahia](/atlas-du-monde/shahia) 
+Un nouveau nom vient s’ajouter aux registres des érudits et aux craintes des voyageurs :
 
-**PNJ**  
-- Ajout de [Ommi Rahma](/PNJ/shahims/#ommi-rahma)  
-- Ajout de [Nour Alia](/PNJ/shahims/#nour-alia)  
-- Ajout de [Ustad Karim](/PNJ/shahims/#ustad-karim)  
+* Le [Morgleur](/bestiaire/morgleur) fait son entrée dans le bestiaire. Sa présence est rarement signalée de manière directe ; ce sont plutôt les traces qu’il laisse derrière lui — silences pesants, lieux abandonnés, regards fuyants — qui trahissent son passage.
 
-**Site**  
-- Ajustement de mise en page et correction de liens brisés
+### **Grimoire**
 
+Le grimoire, quant à lui, s’enrichit de nombreuses **incantations**, non pas comme de nouveaux pouvoirs, mais comme autant de gestes, de mots et de rituels venant donner corps à la magie telle qu’elle est pratiquée et vécue.
+
+Sont désormais consignées les incantations associées aux sorts suivants :
+[Soin des blessures](/grimoire/soin-des-blessures), [Soin des blessures de groupe](/grimoire/soin-des-blessures-de-groupe), [Sombre tentation](/grimoire/sombre-tentation), [Sommeil](/grimoire/sommeil), [Somnambulisme](/grimoire/somnambulisme), [Son de la pierre](/grimoire/son-de-la-pierre), [Souffle du messager](/grimoire/souffle-du-messager), [Souhait](/grimoire/souhait), [Soutien sacré](/grimoire/soutien-sacre), [Statue pleureuse](/grimoire/statue-pleureuse), [Strangulation](/grimoire/strangulation), [Suggestion](/grimoire/suggestion), [Suggestion de groupe](/grimoire/suggestion-de-groupe), [Suicide](/grimoire/suicide) et [Symbole](/grimoire/symbole).
+
+### **Atlas**
+
+Au sud, dans les terres de Shahia, la cité de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) continue de révéler ses secrets.
+Les descriptions de la ville ont été poursuivies et enrichies, mettant en lumière les figures qui en arpentent les ruelles, en tiennent les échoppes ou en murmurent les intrigues.
+Un lien égaré dans les pages de l’[atlas de Shahia](/atlas-du-monde/shahia) a également été corrigé, afin que le chemin vers Luat’albarh ne se perde plus dans les sables.
+
+### **PNJ**
+
+Trois nouveaux noms ont été inscrits dans les chroniques shahimes :
+
+* [Ommi Rahma](/PNJ/shahims/#ommi-rahma)
+* [Nour Alia](/PNJ/shahims/#nour-alia)
+* [Ustad Karim](/PNJ/shahims/#ustad-karim)
+
+Autant de voix, de visages et de destins qui viennent donner de l’épaisseur à ces terres déjà anciennes.
+
+### **Site**
+
+Enfin, quelques ajustements discrets ont été opérés dans les coulisses : corrections de liens, retouches de mise en page, afin que la lecture se fasse plus fluide, comme un parchemin que l’on déroule sans accrocs.  
+§§§ .text-right
+***Olivier***,
+*le 24 janvier 2026*
+§§§
 
 ## ✧ Mise à jour 249 ✧
 
