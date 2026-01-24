@@ -18,6 +18,7 @@ classes:
 
 ---
 **Coût** : 10 points de Foi  
+
 **Incantation** :   
 *Par le souffle qui nous unit,*  
 *Par la terre qui nous porte,*  

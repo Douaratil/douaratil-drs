@@ -20,6 +20,10 @@ classes:
 **Coût** : Spécial : 90 points de Magie    
 
 **Incantation** :     
+*Étoile filante, porteuse d’espoir,*  
+*Que mon désir s’élève dans l’éther,*  
+*Que l’univers entende ma voix,*  
+*Et que ce vœu devienne réalité.*  
 
 **Description** : Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.    
 

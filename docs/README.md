@@ -29,6 +29,22 @@ Visites:
 * Incantation du sort [Sombre tentation](/grimoire/sombre-tentation). 
 * Incantation du sort [Sommeil](/grimoire/sommeil). 
 * Incantation du sort [Somnambulisme](/grimoire/somnambulisme). 
+* Incantation du sort [Son de la pierre](/grimoire/son-de-la-pierre). 
+* Incantation du sort [Souffle du messager](/grimoire/souffle-du-messager). 
+* Incantation du sort [Souhait](/grimoire/souhait). 
+* Incantation du sort [Soutien sacré](/grimoire/soutien-sacre). 
+* Incantation du sort [Statue pleureuse](/grimoire/statue-pleureuse). 
+* Incantation du sort [Strangulation](/grimoire/strangulation). 
+* Incantation du sort [Suggestion](/grimoire/suggestion). 
+* Incantation du sort [Suggestion de groupe](/grimoire/suggestion-de-groupe). 
+* Incantation du sort [Suicide](/grimoire/suicide). 
+* Incantation du sort [Symbole](/grimoire/symbole). 
+
+**Atlas**  
+- Poursuite de la description de la ville de [Luat’albarh](/atlas-du-monde/shahia/luatalbarh) avec description des PNJ qui peuplent la ville.  
+
+**PNJ**  
+- Ajout de [Ommi Rahma](/PNJ/shahims/#ommi-rahma)  
 
 
 ## ✧ Mise à jour 249 ✧

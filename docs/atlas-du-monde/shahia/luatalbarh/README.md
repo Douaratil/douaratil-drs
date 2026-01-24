@@ -25,11 +25,11 @@ Les maisons, souvent construites sur deux ou trois étages, servent à la fois d
 
 ### Personnalités marquantes
 
-**Sheikh Al-Mustafa**   
+**[Houltane Allgoui ag Sidi](/PNJ/shahims/#allgoui-ag-Sidi)**   
 - Occupation : Armateur influent et explorateur.    
-- Description : Sheikh Al-Mustafa est un homme imposant, vêtu de robes en soie brodée et coiffé d’un turban orné d’une plume de faucon. Héritier d’une lignée de marchands maritimes, il a fait fortune en finançant des expéditions vers des terres encore peu connues. On le décrit comme généreux envers les marins en détresse, mais intraitable dans les affaires. Ses bateaux, reconnaissables à leurs voiles blanches marquées d’un croissant doré, symbolisent le commerce florissant de Luat’albarh.    
+- Description : Houltane Allgoui ag Sidi est un homme important, vêtu de robes en soie brodée et coiffé d’un turban orné d’une plume de faucon. Héritier d’une lignée de marchands maritimes, il a fait fortune en finançant des expéditions vers des terres encore peu connues. On le décrit comme généreux envers les marins en détresse, mais intraitable dans les affaires. Ses bateaux, reconnaissables à leurs voiles blanches marquées d’un croissant doré, symbolisent le commerce florissant de Luat’albarh.    
 
-**Ommi Rahma**   
+**[Ommi Rahma](/PNJ/shahims/#ommi-rahma)**   
 - Occupation : Guérisseuse et herboriste.   
 - Description : Ommi Rahma, surnommée “la mère du port”, est une femme âgée, mais encore énergique, enveloppée dans des voiles de coton léger. On la trouve toujours près de son étal au marché, où elle vend des remèdes à base de plantes qu’elle cueille elle-même ou fait venir des oasis environnantes. Elle est respectée par tous pour sa sagesse et sa bienveillance. Certains disent qu’elle connaît les secrets de la mer et des étoiles, et qu’elle bénit les navires avant leur départ.    
 

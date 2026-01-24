@@ -19,7 +19,13 @@ classes:
 source: "Elric"
 ---
 **Coût** : 1 points de Foi
-**Incantation** : 
+
+**Incantation** :  
+*Lumière des anciens, enveloppe ceux qui luttent,*  
+*Que ta présence apaisante fortifie leurs pas,*  
+*Que leur force ne fléchisse pas,*  
+*Et que leur esprit trouve refuge dans ta clarté.*  
+
 **Description** : Le lanceur de sort ne peut jeter ce sort que lorsqu’un combat débute au prix d’une réaction. Tous les alliés se trouvant dans un rayon de 9 mètres autour du lanceur de sort gagnent 1 PA bonus à chaque round. À la fin du combat, les PA bonus restants disparaissent en raison d’1 point par heure.   
 
 **À plus haut niveau**. Pour chaque emplacement de surcharge supplémentaire, les PA bonus augmentent de 1.
