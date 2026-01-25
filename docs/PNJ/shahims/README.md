@@ -20,6 +20,25 @@ _Touché_ : 2d6+5 dégâts perforants .(à deux mains, munitions)
 Allgoui ag Sidi est le Houltane de Luat'albarh. Il règne avec sagesse et stratégie. Il a offert les terres dans le désert pour fonder la colonie de Madin'alajnibh, nommée par les étrangers Nyttlandyan.
 §§§
 
+## Al Mustafa  
+&nbsp;
+[![Al Mustafa](https://www.douaratil.fr/illustrations/pnj/almustafa300.jpeg)](https://www.douaratil.fr/illustrations/pnj/almustafa.jpeg)   
+§§§
+|Al Mustafa|Shme|
+|:-:|:-:|
+| Profil|[Voie des armes (Disciple)](/bestiaire/voie-des-armes-apprenti)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 34|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 15|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 14|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Attaque multiple**_.Le pratiquant de la Voie des armes peut attaquer **deux** fois quand il choisit l'action attaquer lors de son tour.  
+_**Epée ou Hache**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 2d6+4 dégâts tranchant (3d6+2 à deux mains).  
+_**Arc court**_.  _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+1 dégâts perforants .(à deux mains, munitions)  
+§§§ .hero
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Sheikh Al-Mustafa est un homme important, héritier d’une lignée de marchands maritimes, il a fait fortune en finançant des expéditions vers des terres encore peu connues.  
+§§§
 
 ## Amastame Ag Beketa  
 &nbsp;
@@ -38,7 +57,7 @@ _**Arc court**_.  _Attaque d'arme à distance_ : +6 pour toucher, portée 24/96.
 _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)  
 §§§ .hero
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
-Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-à-dire « des souverains ». Il s’inquiétait de voir arriver des étrangers car sa tribu nomade vit du commerce avec les villes avoisinantes et l’oasis de Nyttlandyan est une étape obligatoire pour leurs caravanes. Alors que Tiberius tente de le rassurer sur leurs intentions, un soldat melg avertit le groupe sur l’arrivé d’une deuxième caravane.
+Amastame Ag Beketa et est en fait le chef de la tribu locale des Muluks c’est-à-dire « des souverains ».  
 §§§
 
 ## Ashur Begaya  
@@ -94,7 +113,8 @@ _**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 
 _Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
 
 _**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
-_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)    
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)   
+§§§ .hero 
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
 Eyoab Mengistu Boru est un guide Ashkhémite complètement fou après s'être perdu dans le désert. Il s'adresse en permanence à Shouf sa monture et unique compagnon.
 §§§
@@ -175,7 +195,7 @@ _Touché_ : 2d6+7 dégâts tranchant (3d6+7 à deux mains).
 Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins et que vous obtenez un coup critique jet d'attaque, vous tranchez une de ses têtes. La créature meurt si cette tête lui est nécessaire pour survivre à ce coup. Une créature est immunisée contre cet effet si elle l'est également contre les dégâts tranchants, si elle n'a pas de tête ou n'en pas besoin, si elle peut effectuer des actions légendaires ou si le MJ décide que la créature est trop grosse pour que sa tête soit ainsi tranchée. Contre une telle créature, l'attaque pourrait à la place infliger 8d6 dégâts tranchants supplémentaires.    
 _**Arc court**_.  _Attaque d'arme à distance_ : +9 pour toucher, portée 24/96.  
 _Touché_ : 2d6+4 dégâts perforants .(à deux mains, munitions)
-
+§§§ .hero 
 **<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
 Hamid ibn Sayyid est le houltane de la cité  d'Al'raya. Il tolère la piraterie. Il possède une cotte de maille +3 et un sabre vorpal +3 prénommé Al'manafadh (l'exécuteur).
 §§§

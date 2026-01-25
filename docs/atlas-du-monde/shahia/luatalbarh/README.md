@@ -25,9 +25,9 @@ Les maisons, souvent construites sur deux ou trois étages, servent à la fois d
 
 ### Personnalités marquantes
 
-**[Houltane Allgoui ag Sidi](/PNJ/shahims/#allgoui-ag-Sidi)**   
+**[Sheikh Al-Mustafa](/PNJ/shahims/#al-mustafa)**   
 - Occupation : Armateur influent et explorateur.    
-- Description : Houltane Allgoui ag Sidi est un homme important, vêtu de robes en soie brodée et coiffé d’un turban orné d’une plume de faucon. Héritier d’une lignée de marchands maritimes, il a fait fortune en finançant des expéditions vers des terres encore peu connues. On le décrit comme généreux envers les marins en détresse, mais intraitable dans les affaires. Ses bateaux, reconnaissables à leurs voiles blanches marquées d’un croissant doré, symbolisent le commerce florissant de Luat’albarh.    
+- Description : Sheikh Al-Mustafa est un homme important, héritier d’une lignée de marchands maritimes, il a fait fortune en finançant des expéditions vers des terres encore peu connues. On le décrit comme généreux envers les marins en détresse, mais intraitable dans les affaires. Ses bateaux, reconnaissables à leurs voiles blanches marquées d’un croissant doré, symbolisent le commerce florissant de Luat’albarh.    
 
 **[Ommi Rahma](/PNJ/shahims/#ommi-rahma)**   
 - Occupation : Guérisseuse et herboriste.   
@@ -267,9 +267,9 @@ Les habitations sont luxueuses mais variées : le palais de l’Émir occupe le 
 
 ### Personnalités marquantes     
 
-**L’Émir Abdul Malik**   
+**[Houltane Allgoui ag Sidi](/PNJ/shahims/#allgoui-ag-Sidi)**   
 - Occupation : Souverain de Luat’albarh.   
-- Description : Abdul Malik est un homme imposant, toujours vêtu de vêtements somptueux en soie brodée d’or. Charismatique et respecté, il est connu pour son équité et son mécénat envers les arts et les sciences. Sous son règne, la cité a prospéré et renforcé son influence dans la région.   
+- Description : Allgoui ag Sidi est toujours vêtu de vêtements somptueux en soie brodée d’or. Charismatique et respecté, il est connu pour son équité et son mécénat envers les arts et les sciences. Sous son règne, la cité a prospéré et renforcé son influence dans la région.   
 - Particularité : Il organise régulièrement des audiences publiques dans la Salle des Miroirs, permettant à ses sujets de présenter leurs doléances ou de proposer des projets.   
 
 **La Générale Safiya Al-Haqq**    
