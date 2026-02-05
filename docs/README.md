@@ -27,13 +27,14 @@ Visites:
 ### **Atlas**
 
 ### **PNJ**
+- Ajout du [Fatima Al-Najma](/PNJ/shahims/#fatima-al-najma)
 - Ajout du [Sheikh Al-Mustafa](/PNJ/shahims/#al-mustafa)
 
 ### **Site**
 
 §§§ .text-right
 ***Olivier***,
-*le 25 janvier 2026*
+*le 26 janvier 2026*
 §§§
 
 ## ✧ Mise à jour 250 ✧

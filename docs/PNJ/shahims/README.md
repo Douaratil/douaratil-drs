@@ -159,6 +159,26 @@ _Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)
 Farid ibn Shakir est le souverain de la cité de Samd'ji qui se trouve sur l'île de Jazirat'ebkaria.
 §§§
 
+## Fatima Al Najma
+&nbsp;
+[![Fatima Al Najma](https://www.douaratil.fr/illustrations/pnj/fatimaalnajma300.jpeg)](https://www.douaratil.fr/illustrations/pnj/fatimaalnajma.jpeg)   
+§§§
+|Fatima Al Najma|Shème|
+|:-:|:-:|
+| Profil|[Voie de l'ombre (disciple)](/bestiaire/voie-de-l-ombre-disciple)|
+|**<v-icon>mdi-heart</v-icon>Points d'action**: 25|**<v-icon>mdi-shield-outline</v-icon>Valeur défensive**: 14|   
+|**<v-icon>mdi-skull-crossbones</v-icon> Seuil de critique**: 10|**<v-icon>mdi-shield</v-icon>Valeur offensive globale**: 15|  
+**<v-icon>mdi-sword-cross</v-icon> Actions**   
+_**Dague**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
+_Touché_ : 1d6+2 dégâts perforant (finesse, légère, lancer 6/18).  
+
+_**Arc court**_. _Attaque d'arme à distance_ : +5 pour toucher, portée 24/96.  
+_Touché_ : 2d6+2 dégâts perforants .(à deux mains, munitions)   
+§§§ .hero 
+**<v-icon>mdi-drama-masks</v-icon>  Présentation:**     
+Fatima est une femme dans la quarantaine, vêtue de robes en lin léger ornées de broderies florales. Ses connaissances en plantes rares et médicinales sont légendaires à Luat’albarh. Elle dirige un jardin privé où elle cultive des herbes médicinales et des fleurs exotiques rapportées par les caravanes des régions lointaines.
+§§§
+
 ## Hamda Bin Atiq
 &nbsp;
 [![Hamda Bin Atiq](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq300.jpeg)](https://www.douaratil.fr/illustrations/pnj/hamdabinatiq.jpeg)   
