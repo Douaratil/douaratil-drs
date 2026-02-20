@@ -21,6 +21,7 @@ Visites:
 [![Mise à jour 251](https://www.douaratil.fr/illustrations/site/maj251.jpeg)](https://www.douaratil.fr/illustrations/site/maj251.jpeg)
 
 ### **Bestiaire**
+- Ajout du [Hurlemort](/bestiaire/hurlemort)
 
 ### **Grimoire**
 
@@ -34,7 +35,7 @@ Visites:
 
 §§§ .text-right
 ***Olivier***,
-*le 26 janvier 2026*
+*le 20 février 2026*
 §§§
 
 ## ✧ Mise à jour 250 ✧
